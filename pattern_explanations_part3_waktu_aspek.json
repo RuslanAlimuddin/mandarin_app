@@ -1,0 +1,109 @@
+{
+  "S-T-V-O": {
+    "penjelasan_dasar": "Pola ini menambahkan keterangan WAKTU (kapan aksi terjadi: hari ini, besok, setiap hari, dll.) ke kalimat S-V-O dasar. Posisi keterangan waktu di Mandarin punya aturan tetap: SELALU sebelum kata kerja, tepatnya setelah subjek (atau bahkan di awal kalimat sebelum subjek, keduanya sama-sama benar).",
+    "perbandingan_indonesia": "Ini salah satu perbedaan struktural paling mencolok dengan bahasa Indonesia! Di Indonesia, keterangan waktu biasanya diletakkan di AKHIR kalimat: 'Saya belajar Mandarin HARI INI'. Di Mandarin, itu terbalik — keterangan waktu WAJIB pindah ke depan, sebelum kata kerja: 我今天学中文 (secara harafiah: 'Saya hari-ini belajar Mandarin'). Kalau Anda taruh keterangan waktu di akhir kalimat seperti kebiasaan bahasa Indonesia, itu terdengar janggal/salah secara gramatikal di Mandarin.",
+    "kapan_tidak_boleh": "Jangan pernah menaruh keterangan waktu di akhir kalimat (setelah objek) — ini kesalahan struktural yang paling sering dilakukan pelajar Indonesia karena mengikuti pola bahasa ibu. Keterangan waktu harus di depan kata kerja, tidak ada pengecualian untuk aturan ini.",
+    "kesalahan_umum": [
+      {
+        "salah": "我学中文今天。 (menaruh waktu di akhir, meniru pola Indonesia)",
+        "benar": "我今天学中文。 (Wǒ jīntiān xué Zhōngwén.)",
+        "penjelasan": "Keterangan waktu tidak boleh di akhir kalimat di Mandarin — ini beda total dengan kebiasaan bahasa Indonesia. Selalu taruh sebelum kata kerja."
+      },
+      {
+        "salah": "今天我明天去。 (mencampur dua keterangan waktu yang kontradiktif dalam satu kalimat)",
+        "benar": "我明天去。 (Wǒ míngtiān qù.)",
+        "penjelasan": "Cukup satu keterangan waktu yang jelas per kalimat sederhana, taruh di posisi tetap (setelah subjek, sebelum kata kerja)."
+      }
+    ],
+    "contoh_tambahan": [
+      { "cn": "她昨天买书。",   "py": "Tā zuótiān mǎi shū.",     "id": "Dia kemarin membeli buku." },
+      { "cn": "我下午去公园。", "py": "Wǒ xiàwǔ qù gōngyuán.",   "id": "Saya sore ini pergi ke taman." },
+      { "cn": "他们晚上看电视。", "py": "Tāmen wǎnshang kàn diànshì.", "id": "Mereka malam hari menonton TV." }
+    ],
+    "pola_terkait": [
+      { "key": "S-V-O",  "alasan": "Pola dasar tanpa keterangan waktu — tambahkan waktu di depan kata kerja untuk jadi pola ini." },
+      { "key": "S-V-le", "alasan": "Untuk menegaskan aksi SUDAH selesai (bukan sekadar kapan terjadinya), tambahkan 了 setelah kata kerja." }
+    ]
+  },
+
+  "S-V-guo": {
+    "penjelasan_dasar": "过 (guò) setelah kata kerja menandai PENGALAMAN — bahwa sesuatu PERNAH terjadi di masa lalu, tanpa peduli kapan persisnya, dan menekankan itu adalah 'pengalaman' yang pernah dijalani, bukan sekadar aksi yang sudah selesai (beda dengan 了). Contoh: 'saya PERNAH pergi ke Tiongkok' — mungkin sekali, mungkin sudah lama, tapi itu adalah pengalaman yang pernah dijalani.",
+    "perbandingan_indonesia": "Konsepnya mirip kata 'pernah' dalam bahasa Indonesia — 'saya PERNAH ke sana' = 我去过那里. Penempatannya beda: kalau di Indonesia 'pernah' ditaruh SEBELUM kata kerja, di Mandarin 过 ditaruh SETELAH/menempel di kata kerja. Ini titik yang sering salah taruh posisinya bagi pemula.",
+    "kapan_tidak_boleh": "Jangan pakai 过 kalau maksudnya adalah aksi yang baru saja SELESAI (bukan pengalaman masa lalu yang jauh) — untuk itu pakai 了, bukan 过. Misalnya 'saya sudah makan (barusan)' pakai 了 (我吃了), BUKAN 过 (我吃过 lebih ke arah 'saya PERNAH makan [makanan itu sebelumnya, entah kapan]'). Jangan pula pakai 过 untuk aksi yang sedang berlangsung — itu ranahnya 在 (S-zai-V).",
+    "kesalahan_umum": [
+      {
+        "salah": "我过去中国。 (menaruh 过 sebelum kata kerja, meniru posisi kata 'pernah' di bahasa Indonesia)",
+        "benar": "我去过中国。 (Wǒ qù guò Zhōngguó.)",
+        "penjelasan": "过 menempel SETELAH kata kerja, bukan sebelumnya. Ini beda posisi dengan kata 'pernah' di bahasa Indonesia yang ditaruh di depan kata kerja."
+      },
+      {
+        "salah": "我吃过饭刚才。 (mencampur 过 dengan makna 'baru saja')",
+        "benar": "我刚吃了饭。",
+        "penjelasan": "过 dipakai untuk pengalaman umum di masa lalu, bukan untuk aksi yang baru saja terjadi. Untuk 'baru saja', pakai 刚 + V + 了."
+      }
+    ],
+    "contoh_tambahan": [
+      { "cn": "我吃过北京烤鸭。", "py": "Wǒ chī guò Běijīng kǎoyā.", "id": "Saya pernah makan bebek panggang Beijing." },
+      { "cn": "她学过法语。",     "py": "Tā xué guò Fǎyǔ.",         "id": "Dia pernah belajar bahasa Prancis." },
+      { "cn": "我没去过日本。",   "py": "Wǒ méi qù guò Rìběn.",    "id": "Saya belum pernah pergi ke Jepang." }
+    ],
+    "pola_terkait": [
+      { "key": "S-V-le",  "alasan": "Untuk aksi yang sudah SELESAI (bukan sekadar pengalaman umum), pakai 了 sebagai gantinya." },
+      { "key": "S-zai-V", "alasan": "Untuk aksi yang SEDANG berlangsung (bukan sudah lewat), pakai 在 sebagai gantinya." }
+    ]
+  },
+
+  "S-V-le": {
+    "penjelasan_dasar": "了 (le) setelah kata kerja adalah penanda ASPEK PERFEKTIF — menandakan aksi tersebut sudah SELESAI/terjadi (bukan penanda waktu lampau seperti tense di bahasa Inggris!). Ini perbedaan konsep penting: Mandarin tidak punya 'tense' (perubahan bentuk kata kerja berdasarkan waktu), yang ada adalah 'aspek' (menandai apakah suatu aksi sudah selesai, sedang berlangsung, atau pernah terjadi).",
+    "perbandingan_indonesia": "Bahasa Indonesia juga tidak punya perubahan bentuk kata kerja berdasarkan waktu (mirip Mandarin dalam hal ini!) — kita pakai kata bantu seperti 'sudah': 'saya SUDAH makan'. 了 kurang lebih setara dengan 'sudah' ini, tapi penempatannya beda: di Indonesia 'sudah' di depan kata kerja, di Mandarin 了 menempel SETELAH kata kerja (dan sebelum objek kalau ada objek pendek).",
+    "kapan_tidak_boleh": "Jangan pakai 了 untuk kebiasaan rutin atau fakta umum yang tidak terikat waktu tertentu (misal 'saya makan nasi [setiap hari]' — kalau itu pernyataan kebiasaan, bukan aksi selesai spesifik, 了 tidak diperlukan, cukup S-V-O biasa). Jangan pula gabungkan 了 dengan negasi 不 secara sembarangan — untuk menegasikan aksi yang tidak/belum terjadi, 了 biasanya dihilangkan dan diganti struktur 没 + V.",
+    "kesalahan_umum": [
+      {
+        "salah": "我不吃了饭。 (mencoba menegasikan kalimat 了 dengan 不)",
+        "benar": "我没吃饭。 (Wǒ méi chī fàn.)",
+        "penjelasan": "Untuk menegasikan aksi yang tidak/belum terjadi, pakai 没 + V TANPA 了 sekaligus — bukan 不 + V + 了. 了 dan negasi 没 pada dasarnya saling meniadakan dalam kalimat sederhana."
+      },
+      {
+        "salah": "我每天吃了饭。 (mencampur 了 dengan penanda kebiasaan 每天)",
+        "benar": "我每天吃饭。 (tanpa 了, karena ini kebiasaan) atau 我昨天吃了饭。 (dengan 了, untuk aksi spesifik yang sudah selesai)",
+        "penjelasan": "了 menandai SATU aksi spesifik yang selesai, bukan kebiasaan berulang. Jangan campur dengan kata seperti 每天 (setiap hari) dalam kalimat yang sama."
+      }
+    ],
+    "contoh_tambahan": [
+      { "cn": "她写了信。",       "py": "Tā xiě le xìn.",              "id": "Dia sudah menulis surat." },
+      { "cn": "我看了那部电影。", "py": "Wǒ kàn le nà bù diànyǐng.",   "id": "Saya sudah menonton film itu." },
+      { "cn": "他们到了。",       "py": "Tāmen dào le.",               "id": "Mereka sudah tiba." }
+    ],
+    "pola_terkait": [
+      { "key": "S-V-guo", "alasan": "Kalau maksudnya 'pernah' (pengalaman umum, bukan aksi spesifik yang baru selesai), pakai 过 sebagai gantinya." },
+      { "key": "S-T-V-O", "alasan": "Bisa digabung dengan keterangan waktu spesifik untuk memperjelas KAPAN aksi itu selesai." }
+    ]
+  },
+
+  "S-zai-V": {
+    "penjelasan_dasar": "在 (zài) sebelum kata kerja menandai ASPEK PROGRESIF — aksi yang SEDANG berlangsung persis saat ini (atau saat yang sedang dibicarakan), setara dengan bentuk '-ing' dalam bahasa Inggris. Ini beda dari 在 di pola S-zai-L (berada di tempat) — kata yang sama, tapi fungsi gramatikalnya berbeda tergantung apa yang mengikutinya (tempat vs kata kerja).",
+    "perbandingan_indonesia": "Setara dengan 'sedang' dalam bahasa Indonesia: 'saya SEDANG makan' = 我在吃饭. Posisi dan logikanya sama persis — 在/sedang, sama-sama diletakkan SEBELUM kata kerja. Ini pola yang cukup intuitif buat pelajar Indonesia karena strukturnya paralel dengan bahasa ibu.",
+    "kapan_tidak_boleh": "Jangan pakai 在 + V untuk aksi yang sudah SELESAI (itu ranahnya 了) atau aksi yang PERNAH terjadi di masa lalu (itu ranahnya 过). 在 + V khusus untuk aksi yang benar-benar sedang berlangsung saat ini/saat itu. Jangan pula bingungkan dengan 在 + Tempat (S-zai-L) — kalau setelah 在 ada kata tempat, artinya 'berada di', bukan 'sedang'.",
+    "kesalahan_umum": [
+      {
+        "salah": "我在吃了饭。 (mencampur aspek progresif 在 dengan aspek selesai 了)",
+        "benar": "我在吃饭。 (Wǒ zài chī fàn.)",
+        "penjelasan": "在 (sedang) dan 了 (sudah selesai) menandai dua aspek yang berlawanan — tidak boleh digabung dalam kalimat sederhana yang sama karena maknanya kontradiktif."
+      },
+      {
+        "salah": "我在学校在学习。 (mengulang 在 dua kali untuk dua fungsi berbeda tanpa disadari)",
+        "benar": "我在学校学习。 (Saya belajar di sekolah)",
+        "penjelasan": "Kalau ingin gabungkan lokasi DAN aspek sedang berlangsung dalam satu kalimat, cukup satu 在 untuk tempat, kata kerja langsung menyusul tanpa 在 kedua."
+      }
+    ],
+    "contoh_tambahan": [
+      { "cn": "她在打电话。", "py": "Tā zài dǎ diànhuà.", "id": "Dia sedang menelepon." },
+      { "cn": "我们在开会。", "py": "Wǒmen zài kāihuì.",  "id": "Kami sedang rapat." },
+      { "cn": "他在写作业。", "py": "Tā zài xiě zuòyè.",  "id": "Dia sedang mengerjakan PR." }
+    ],
+    "pola_terkait": [
+      { "key": "S-zai-L", "alasan": "在 yang sama, tapi kalau diikuti kata TEMPAT (bukan kata kerja), artinya berubah jadi 'berada di'." },
+      { "key": "S-V-le",  "alasan": "Untuk aksi yang sudah SELESAI (bukan sedang berlangsung), pakai 了 sebagai gantinya." }
+    ]
+  }
+}
