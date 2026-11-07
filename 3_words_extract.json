@@ -1,0 +1,192 @@
+[
+  {
+    "id": "说",
+    "simplified": "说",
+    "traditional": "說",
+    "pinyin": "shuì",
+    "pinyin_numeric": "shui4",
+    "bopomofo": "ㄕㄨㄟˋ",
+    "hsk": "1",
+    "hsk2": null,
+    "frequency": 19,
+    "pos": [
+      "v",
+      "g"
+    ],
+    "pos_id": [
+      "kata kerja",
+      "g"
+    ],
+    "meanings_id": [
+      "membujuk",
+      "berbicara; berkata",
+      "menjelaskan; berkomentar",
+      "memarahi; memberhentikan",
+      "(bentuk terikat) teori; doktrin",
+      "varian dari 說|说[shuo1]"
+    ],
+    "meanings_en": [
+      "to persuade",
+      "to speak; to talk; to say",
+      "to explain; to comment",
+      "to scold; to tell off",
+      "(bound form) theory; doctrine",
+      "variant of 说"
+    ],
+    "radical": "讠",
+    "radical_number": 149,
+    "stroke_count": 9,
+    "structure": "left-right",
+    "components": [
+      "讠",
+      "兑"
+    ],
+    "char_type": "compound",
+    "themes": [],
+    "synonyms": [
+      "讲",
+      "谈",
+      "聊",
+      "告诉",
+      "表达"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "看",
+    "simplified": "看",
+    "traditional": "看",
+    "pinyin": "kān",
+    "pinyin_numeric": "kan1",
+    "bopomofo": "ㄎㄢ",
+    "hsk": "1",
+    "hsk2": "1",
+    "frequency": 52,
+    "pos": [
+      "v",
+      "u"
+    ],
+    "pos_id": [
+      "kata kerja",
+      "u"
+    ],
+    "meanings_id": [
+      "menjaga",
+      "mengurus",
+      "menonton",
+      "mengawasi",
+      "melihat; memandang",
+      "membaca",
+      "mengunjungi; bertamu",
+      "mempertimbangkan; menganggap",
+      "mengobati (pasien atau penyakit)",
+      "bergantung pada",
+      "merasa (bahwa)",
+      "(setelah kata kerja) mencoba",
+      "hati-hati"
+    ],
+    "meanings_en": [
+      "to look after",
+      "to take care of",
+      "to watch",
+      "to guard",
+      "to see; to look at",
+      "to read",
+      "to visit; to call on",
+      "to consider; to regard as",
+      "to treat (a patient or illness)",
+      "to depend on",
+      "to feel (that)",
+      "(after a verb) to give it a try",
+      "to watch out for"
+    ],
+    "radical": "目",
+    "radical_number": 109,
+    "stroke_count": 9,
+    "structure": "top-bottom",
+    "components": [
+      "龵",
+      "目"
+    ],
+    "char_type": "compound",
+    "themes": [
+      "ext_hobby",
+      "ext_lantern_festival_light_culture"
+    ],
+    "synonyms": [
+      "望",
+      "瞧",
+      "瞄",
+      "观察",
+      "注视"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "号",
+    "simplified": "号",
+    "traditional": "號",
+    "pinyin": "háo",
+    "pinyin_numeric": "hao2",
+    "bopomofo": "ㄏㄠˊ",
+    "hsk": "1",
+    "hsk2": "2",
+    "frequency": 278,
+    "pos": [
+      "q",
+      "n",
+      "v"
+    ],
+    "pos_id": [
+      "kata ukuran",
+      "kata benda",
+      "kata kerja"
+    ],
+    "meanings_id": [
+      "auman",
+      "teriakan",
+      "KP:個|个[ge4]",
+      "nomor urut",
+      "tanggal dalam sebulan",
+      "tanda",
+      "nama perusahaan",
+      "ukuran",
+      "akhiran kapal",
+      "terompet (instrumen tiup)",
+      "komando terompet",
+      "nama samaran",
+      "mengambil denyut nadi",
+      "klasifier yang digunakan untuk menunjukkan jumlah orang"
+    ],
+    "meanings_en": [
+      "roar",
+      "cry",
+      "ordinal number",
+      "day of a month",
+      "mark",
+      "sign",
+      "business establishment",
+      "size",
+      "ship suffix",
+      "horn (wind instrument)",
+      "bugle call",
+      "assumed name",
+      "to take a pulse",
+      "classifier used to indicate number of people"
+    ],
+    "radical": "口",
+    "radical_number": 30,
+    "stroke_count": 5,
+    "structure": "top-bottom",
+    "components": [
+      "口",
+      "丂"
+    ],
+    "char_type": "ideogram",
+    "themes": [
+      "angka"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  }
+]
