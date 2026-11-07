@@ -1,0 +1,634 @@
+| No | Pasangan     | Nuansa                                                                                               | Kolokasi khas      | Contoh kalimat | Kesalahan umum                                                |
+| -- | ------------ | ---------------------------------------------------------------------------------------------------- | ------------------ | -------------- | ------------------------------------------------------------- |
+| 1  | 吃 / 喝        | Makan padat vs minum cair.                                                                           | 吃饭, 吃药 / 喝水, 喝茶    | 我先吃饭，再喝茶。      | Memakai 吃 untuk cairan.                                       |
+| 2  | 看 / 望        | 看 umum; 望 lebih “menatap jauh/menaruh harapan”.                                                      | 看书 / 望着远方          | 他望着天空，没有说话。    | Memakai 望 untuk semua jenis “lihat”.                          |
+| 3  | 看 / 观察       | 看 umum; 观察 = mengamati teliti.                                                                       | 看电影 / 观察数据         | 科学家正在观察实验结果。   | Menukar 看 dan 观察 dalam konteks ilmiah.                        |
+| 4  | 说 / 讲        | 说 = berkata; 讲 = menjelaskan/bercerita lebih runtut.                                                 | 说中文 / 讲故事          | 老师在讲语法。        | Memakai 讲 untuk sekadar “mengucapkan”.                        |
+| 5  | 告诉 / 说       | 告诉 = memberitahu seseorang; 说 = mengatakan.                                                          | 告诉我 / 对我说          | 请告诉我地址。        | Memakai 说 tanpa penerima padahal butuh 告诉.                    |
+| 6  | 问 / 询问       | 问 umum; 询问 formal.                                                                                   | 问路 / 询问情况          | 警察询问了他的身份。     | Memakai 询问 di percakapan santai berlebihan.                   |
+| 7  | 觉得 / 认为      | 觉得 subjektif; 认为 lebih seperti pendapat.                                                             | 觉得好 / 认为正确         | 我觉得这个方案不错。     | Memakai 认为 untuk perasaan pribadi yang ringan.                |
+| 8  | 觉得 / 感觉      | 觉得 = opini/penilaian; 感觉 = sensasi/kesan.                                                            | 觉得难 / 感觉冷          | 我感觉今天会下雨。      | Menukar keduanya tanpa lihat apakah itu sensasi atau opini.   |
+| 9  | 喜欢 / 爱       | 喜欢 = suka; 爱 = lebih kuat/emosional.                                                                 | 喜欢音乐 / 爱家人         | 我喜欢猫，也爱狗。      | Memakai 爱 untuk preferensi biasa.                             |
+| 10 | 能 / 会        | 能 = mampu; 会 = bisa karena belajar/kebiasaan.                                                        | 能跑 / 会写字           | 她会说三种语言。       | Memakai 能 padahal maksudnya “sudah bisa karena belajar”.      |
+| 11 | 可以 / 能       | 可以 = boleh/diizinkan atau memungkinkan; 能 = mampu.                                                   | 可以进去 / 能完成         | 你现在可以进去了。      | Menukar “boleh” dengan “mampu”.                               |
+| 12 | 可能 / 可以      | 可能 = mungkin; 可以 = boleh/layak/memungkinkan.                                                         | 可能下雨 / 可以考虑        | 明天可能会下雨。       | Memakai 可以 untuk probabilitas.                                |
+| 13 | 先 / 首先       | 先 = duluan; 首先 = pertama-tama secara urutan.                                                         | 先走 / 首先说明          | 我们先吃饭。         | Memakai 首先 dalam situasi simpel lisan yang cukup 先.           |
+| 14 | 起初 / 开始      | 起初 = pada awalnya; 开始 = mulai.                                                                       | 起初不懂 / 开始学习        | 起初我不习惯，后来就好了。  | Menukar keduanya saat mau membandingkan awal vs proses mulai. |
+| 15 | 还是 / 仍然      | 还是 = masih/masih tetap atau pilihan; 仍然 = masih tetap berlangsung.                                   | 还是老样子 / 仍然工作       | 他仍然在这里工作。      | Memakai 还是 untuk keadaan berlanjut yang netral.               |
+| 16 | 终于 / 终究      | 终于 = akhirnya setelah proses; 终究 = pada akhirnya/akhirnya (sering bernuansa hasil tak terhindarkan). | 终于完成 / 终究失败        | 他终于回来了。        | Menukar 终究 dan 终于.                                            |
+| 17 | 马上 / 立刻      | 马上 lisan dan umum; 立刻 lebih tegas/formal.                                                            | 马上回来 / 立刻停止        | 我马上给你回复。       | Menyamakan keduanya sepenuhnya tanpa lihat register.          |
+| 18 | 赶快 / 马上      | 赶快 ada dorongan cepat-cepat; 马上 = segera.                                                            | 赶快走 / 马上来          | 赶快告诉我。         | Memakai 马上 saat nada mendesak lebih cocok 赶快.                 |
+| 19 | 快 / 飞快       | 快 umum; 飞快 sangat cepat.                                                                             | 跑得快 / 飞快地跑         | 他骑车骑得飞快。       | Memakai 飞快 untuk semua situasi.                               |
+| 20 | 简单 / 容易      | 简单 = tidak kompleks; 容易 = mudah dilakukan.                                                           | 简单问题 / 容易理解        | 这个题很简单，也很容易。   | Menukar “sederhana” dengan “mudah”.                           |
+| 21 | 漂亮 / 美丽      | 漂亮 = cantik/menarik secara visual; 美丽 = indah, lebih formal/luas.                                    | 漂亮衣服 / 美丽风景        | 这件衣服很漂亮。       | Memakai 美丽 untuk hal kasual yang cukup 漂亮.                    |
+| 22 | 高兴 / 快乐      | 高兴 = senang karena kejadian; 快乐 = bahagia lebih umum/berkelanjutan.                                  | 很高兴认识你 / 快乐生活      | 我今天很高兴。        | Memakai 快乐 untuk emosi sesaat yang lebih natural pakai 高兴.    |
+| 23 | 安全 / 平安      | 安全 = aman dari bahaya; 平安 = selamat/tenteram.                                                        | 安全出口 / 平安到达        | 祝你一路平安。        | Menukar 平安 dan 安全 di konteks perjalanan.                      |
+| 24 | 聪明 / 机智      | 聪明 = pintar umum; 机智 = cerdas cepat tanggap.                                                         | 聪明孩子 / 机智回答        | 他很机智，马上化解了尴尬。  | Memakai 机智 untuk sekadar “pintar sekolah”.                    |
+| 25 | 勇敢 / 大胆      | 勇敢 = berani dalam menghadapi bahaya; 大胆 = berani, nekat, luas.                                       | 勇敢面对 / 大胆尝试        | 他大胆提出了这个想法。    | Menganggap keduanya sama persis.                              |
+| 26 | 注意 / 关注      | 注意 = memperhatikan; 关注 = memberi perhatian/fokus.                                                    | 注意安全 / 关注新闻        | 请注意你的发音。       | Memakai 关注 untuk instruksi sehari-hari yang cukup 注意.         |
+| 27 | 知道 / 了解      | 知道 = tahu fakta; 了解 = paham lebih dalam.                                                             | 知道消息 / 了解情况        | 我只知道他的名字，不了解他。 | Menukar tahu permukaan dengan paham mendalam.                 |
+| 28 | 清楚 / 明白      | 清楚 = jelas/terang; 明白 = mengerti.                                                                    | 看得清楚 / 明白意思        | 你明白我的意思吗？      | Memakai 清楚 untuk “saya mengerti” secara langsung.             |
+| 29 | 选择 / 挑选      | 选择 = memilih umum; 挑选 = memilih dengan selektif.                                                     | 选择专业 / 挑选礼物        | 他在挑选礼物。        | Memakai 挑选 untuk semua pilihan biasa.                         |
+| 30 | 决定 / 决心      | 决定 = keputusan; 决心 = tekad.                                                                          | 做决定 / 下决心          | 我决定明天去北京。      | Menukar hasil keputusan dengan tekad batin.                   |
+| 31 | 希望 / 期望      | 希望 = berharap umum; 期望 = mengharapkan lebih formal/tinggi.                                           | 希望你来 / 期望结果        | 我希望一切顺利。       | Memakai 期望 di ucapan santai biasa.                            |
+| 32 | 试 / 尝试       | 试 = coba; 尝试 = mencoba lebih formal/serius.                                                          | 试衣服 / 尝试解决         | 你可以先试一下。       | Memakai 尝试 untuk hal kecil sehari-hari yang cukup 试.          |
+| 33 | 开始 / 启动      | 开始 = mulai; 启动 = memulai sistem/mesin/proses.                                                        | 开始工作 / 启动程序        | 电脑已经启动了。       | Menukar 开始 dan 启动 pada benda teknologi.                       |
+| 34 | 结束 / 完成      | 结束 = berakhir; 完成 = menyelesaikan tugas.                                                             | 会议结束 / 完成作业        | 我完成了报告。        | Memakai 完成 untuk acara yang “berakhir” sendiri.               |
+| 35 | 使用 / 用       | 使用 = memakai lebih formal; 用 = pakai umum.                                                           | 使用设备 / 用手机         | 请使用这个软件。       | Memakai 使用 dalam percakapan lisan kasual berlebihan.          |
+| 36 | 带 / 拿        | 带 = membawa bersama; 拿 = memegang/mengambil.                                                         | 带护照 / 拿行李          | 请带上身份证。        | Memakai 拿上 saat konteksnya “membawa bersama”.                 |
+| 37 | 住 / 居住       | 住 = tinggal; 居住 = menetap formal.                                                                    | 住在北京 / 居住多年        | 他住在上海。         | Menulis 居住 dalam percakapan yang seharusnya 住.                |
+| 38 | 买 / 购买       | 买 = beli umum; 购买 = beli formal/tertulis.                                                            | 买菜 / 购买设备          | 我买了一台电脑。       | Memakai 购买 di kalimat sehari-hari yang terlalu resmi.         |
+| 39 | 送 / 给 / 递    | 送 = memberi/mengantar sebagai hadiah atau transfer; 给 = memberi umum; 递 = menyerahkan dengan tangan. | 送礼物 / 给我 / 递给他     | 请把文件递给我。       | Menukar 递 dan 给.                                              |
+| 40 | 让 / 叫        | 让 = membiarkan/meminta; 叫 = menyuruh/memanggil.                                                      | 让我看 / 叫他来          | 老师让我们安静。       | Memakai 叫 pada situasi sopan yang butuh 让.                    |
+| 41 | 问题 / 毛病      | 问题 = problem/pertanyaan; 毛病 = cacat/kelainan/masalah kecil.                                          | 有问题 / 机器毛病         | 这台机器有毛病。       | Memakai 问题 untuk cacat teknis kecil yang lebih natural 毛病.    |
+| 42 | 错误 / 失误 / 错  | 错误 = kesalahan umum; 失误 = kekeliruan karena kelalaian; 错 = salah.                                    | 语法错误 / 操作失误 / 答错   | 这是一个错误。        | Menukar 失误 dan 错误 tanpa lihat jenis kesalahan.                |
+| 43 | 原因 / 因为      | 原因 = alasan sebab; 因为 = karena.                                                                      | 原因分析 / 因为下雨        | 我想知道原因。        | Memakai 因为 sebagai nomina.                                    |
+| 44 | 困难 / 艰难      | 困难 = sulit umum; 艰难 = sulit berat dan melelahkan.                                                    | 遇到困难 / 艰难岁月        | 这是一个艰难的决定。     | Memakai 艰难 untuk semua hal yang hanya “sulit”.                |
+| 45 | 希望 / 愿望      | 希望 = harapan aktif; 愿望 = keinginan/aspirasi lebih dalam.                                             | 表达希望 / 实现愿望        | 我的愿望是学好中文。     | Menukar harapan biasa dengan impian/aspirasi.                 |
+| 46 | 计划 / 打算 / 预计 | 计划 = rencana; 打算 = berniat; 预计 = memperkirakan.                                                      | 制定计划 / 打算去 / 预计明天到 | 我打算周末去旅行。      | Memakai 预计 untuk niat pribadi.                                |
+| 47 | 安排 / 计划      | 安排 = mengatur susunan; 计划 = rencana.                                                                 | 安排时间 / 旅行计划        | 请帮我安排一下会议。     | Memakai 计划 saat yang dimaksud “mengatur jadwal”.              |
+| 48 | 合适 / 适合      | 合适 = cocok/tepat untuk situasi; 适合 = cocok untuk karakter/objek.                                     | 合适的时间 / 适合你        | 这个工作很适合他。      | Menukar dua kata ini secara bebas.                            |
+| 49 | 坚持 / 维持      | 坚持 = bertahan/teguh terus melakukan; 维持 = mempertahankan keadaan.                                    | 坚持学习 / 维持秩序        | 他一直坚持锻炼。       | Memakai 维持 untuk tekad pribadi.                               |
+| 50 | 影响 / 关系      | 影响 = memengaruhi; 关系 = berkaitan/ada hubungan.                                                       | 影响结果 / 有关系         | 这件事影响很大。       | Memakai 关系 padahal maksudnya dampak.                          |
+| No | Pasangan     | Nuansa                                                                                         | Kolokasi khas      | Contoh kalimat | Kesalahan umum                                       |
+| -- | ------------ | ---------------------------------------------------------------------------------------------- | ------------------ | -------------- | ---------------------------------------------------- |
+| 51 | 听 / 听见       | 听 = mendengar aktif; 听见 = mendengar sampai tertangkap.                                         | 听音乐 / 听见声音         | 我听见有人在说话。      | Memakai 听见 untuk “mendengarkan” sengaja.             |
+| 52 | 听 / 倾听       | 听 = dengar umum; 倾听 = mendengarkan dengan penuh perhatian.                                     | 听课 / 倾听意见          | 老师认真倾听学生的想法。   | Memakai 倾听 untuk semua situasi biasa.                |
+| 53 | 写 / 书写       | 写 = menulis umum; 书写 = menulis formal/rapi.                                                    | 写字 / 书写规范          | 请把名字写在这里。      | Memakai 书写 pada percakapan sehari-hari.              |
+| 54 | 刷 / 洗        | 刷 = menggosok/menyikat; 洗 = mencuci umum.                                                      | 刷牙 / 刷卡 / 洗衣服      | 我每天早上刷牙。       | Memakai 洗牙 untuk “sikat gigi”.                       |
+| 55 | 修 / 维修       | 修 = memperbaiki; 维修 = servis/perawatan formal.                                                 | 修手机 / 维修设备         | 这辆车正在维修。       | Memakai 修 dalam laporan teknis formal yang butuh 维修. |
+| 56 | 开 / 打开       | 开 = buka/menyalakan umum; 打开 = membuka objek yang tertutup.                                    | 开门 / 打开箱子          | 请打开窗户。         | Menukar 开 dan 打开 tanpa lihat objek.                  |
+| 57 | 关 / 关闭       | 关 = tutup/matikan umum; 关闭 = menutup formal.                                                   | 关门 / 关闭系统          | 请关灯。           | Memakai 关闭 untuk perintah santai sehari-hari.        |
+| 58 | 放 / 放下       | 放 = menaruh; 放下 = menurunkan/meletakkan ke bawah.                                              | 放书 / 放下手机          | 你先把包放下。        | Memakai 放 saja padahal makna “turunkan”.             |
+| 59 | 摘 / 采 / 采摘   | 摘 = memetik; 采 = memanen/mengambil (lebih formal); 采摘 = memetik formal.                        | 摘花 / 采果子 / 采摘水果    | 她在花园里摘花。       | Menukar 摘 dan 采 pada konteks sehari-hari.            |
+| 60 | 拉 / 拖        | 拉 = menarik; 拖 = menyeret.                                                                     | 拉门 / 拖地            | 他拉开了门。         | Memakai 拖 saat maksudnya “menarik”.                  |
+| 61 | 推 / 挤        | 推 = mendorong; 挤 = berdesakan/mendesakkan.                                                     | 推车 / 挤地铁           | 大家在地铁里挤来挤去。    | Memakai 推 untuk kondisi berdesakan.                  |
+| 62 | 抓 / 捉 / 拿    | 抓 = menangkap/mencengkeram; 捉 = menangkap hewan/benda bergerak; 拿 = mengambil.                 | 抓住机会 / 捉蚊子 / 拿杯子   | 他抓住了我的手。       | Menukar 拿 dan 抓 dalam konteks “menangkap”.           |
+| 63 | 取 / 拿 / 领取   | 取 = mengambil/menarik keluar formal; 拿 = mengambil umum; 领取 = mengambil/menerima secara resmi. | 取钱 / 拿书 / 领取证件     | 请领取你的票。        | Memakai 拿 pada konteks resmi administratif.          |
+| 64 | 送 / 运送       | 送 = mengantar/memberi; 运送 = mengangkut secara transportasi.                                    | 送礼 / 运送货物          | 快递员把包裹送来了。     | Memakai 运送 untuk hadiah biasa.                       |
+| 65 | 寄 / 邮寄       | 寄 = mengirim via pos/kurir; 邮寄 = mengirim lewat pos formal.                                    | 寄信 / 邮寄文件          | 我寄了一封信。        | Memakai 邮寄 dalam percakapan santai yang cukup 寄.     |
+| 66 | 还 / 归还       | 还 = mengembalikan; 归还 = mengembalikan formal.                                                  | 还书 / 归还财物          | 请把书还给我。        | Memakai 归还 di situasi lisan sederhana.               |
+| 67 | 借 / 借给 / 出借  | 借 = meminjam/meminjamkan tergantung konteks; 借给 = meminjamkan; 出借 = meminjamkan formal.        | 借书 / 借给朋友 / 出借设备   | 他借给我一本书。       | Salah arah subjek-objek pada 借.                      |
+| 68 | 送 / 赠送       | 送 = memberi/antar; 赠送 = memberikan sebagai hadiah formal.                                      | 送礼物 / 赠送奖品         | 公司赠送了纪念品。      | Memakai 赠送 untuk hadiah santai yang cukup 送.         |
+| 69 | 做 / 制作       | 做 = membuat umum; 制作 = memproduksi/membuat formal.                                             | 做饭 / 制作视频          | 我在做作业。         | Memakai 制作 untuk aktivitas sehari-hari biasa.        |
+| 70 | 造 / 建造 / 制造  | 造 = membuat/membangun; 建造 = membangun struktur; 制造 = memproduksi.                              | 造句 / 建造房子 / 制造机器   | 这家公司制造汽车。      | Menukar 造 dan 制造 secara acak.                        |
+| 71 | 破坏 / 毁坏 / 损坏 | 破坏 = merusak secara aktif; 毁坏 = menghancurkan; 损坏 = rusak.                                     | 破坏环境 / 毁坏证据 / 损坏设备 | 设备已经损坏了。       | Memakai 破坏 untuk kerusakan pasif.                    |
+| 72 | 保存 / 保留      | 保存 = menyimpan agar tidak hilang; 保留 = mempertahankan/menyisakan.                              | 保存文件 / 保留意见        | 请保存这份文档。       | Memakai 保留 saat maksudnya hanya menyimpan file.      |
+| 73 | 删除 / 去掉      | 删除 = menghapus; 去掉 = menghilangkan/melepas.                                                    | 删除文件 / 去掉标点        | 请删除这条记录。       | Memakai 去掉 untuk penghapusan data resmi.             |
+| 74 | 发送 / 发 / 传   | 发送 = mengirim formal; 发 = kirim umum; 传 = meneruskan/mengirim berantai.                        | 发送邮件 / 发消息 / 传话    | 我给你发信息。        | Memakai 发送 di chat santai yang cukup 发.              |
+| 75 | 收到 / 接到      | 收到 = menerima barang/pesan; 接到 = menerima panggilan/berita.                                    | 收到邮件 / 接到电话        | 我昨天接到你的电话。     | Menukar 收到 dan 接到 dalam objek yang salah.            |
+| No  | Pasangan     | Nuansa                                                                 | Kolokasi khas   | Contoh kalimat | Kesalahan umum                                       |
+| --- | ------------ | ---------------------------------------------------------------------- | --------------- | -------------- | ---------------------------------------------------- |
+| 76  | 大 / 巨大       | 大 = besar umum; 巨大 = sangat besar.                                     | 大房子 / 巨大变化      | 这是一个巨大的挑战。     | Memakai 巨大 untuk benda kecil-biasa.                  |
+| 77  | 小 / 微小       | 小 = kecil umum; 微小 = sangat kecil.                                     | 小问题 / 微小差别      | 只有微小的差别。       | Memakai 微小 untuk semua hal kecil.                    |
+| 78  | 高 / 最高 / 高高的 | 高 = tinggi; 最高 = paling tinggi; 高高的 = sangat tinggi secara deskriptif. | 高楼 / 最高点 / 高高的山 | 那座山很高。         | Menukar 高 dan 最高 tanpa perbandingan.                 |
+| 79  | 低 / 低沉       | 低 = rendah; 低沉 = rendah dan berat/suram.                               | 低温 / 低沉声音       | 他的声音很低沉。       | Memakai 低沉 untuk semua “rendah”.                     |
+| 80  | 快 / 飞快       | 快 = cepat; 飞快 = sangat cepat.                                          | 快车 / 飞快地跑       | 他跑得飞快。         | Memakai 飞快 secara berlebihan.                        |
+| 81  | 慢 / 缓慢       | 慢 = lambat umum; 缓慢 = lambat formal/bertahap.                          | 慢慢走 / 缓慢增长      | 经济增长很缓慢。       | Memakai 缓慢 untuk lisan sederhana yang cukup 慢.       |
+| 82  | 热 / 炎热       | 热 = panas umum; 炎热 = sangat panas/cuaca.                               | 热水 / 炎热天气       | 今天非常炎热。        | Menukar 热 dan 炎热.                                    |
+| 83  | 冷 / 寒冷       | 冷 = dingin umum; 寒冷 = sangat dingin.                                   | 冷水 / 寒冷冬天       | 北方冬天很寒冷。       | Memakai 寒冷 untuk benda biasa yang cukup 冷.           |
+| 84  | 新 / 崭新       | 新 = baru; 崭新 = baru sekali, seperti fresh.                             | 新手机 / 崭新房子      | 这本书是崭新的。       | Memakai 崭新 untuk semua hal baru.                     |
+| 85  | 旧 / 陈旧       | 旧 = lama/usang; 陈旧 = sangat usang, kuno.                               | 旧衣服 / 陈旧观念      | 这台机器太陈旧了。      | Memakai 陈旧 untuk benda lama biasa.                   |
+| 86  | 干净 / 整洁      | 干净 = bersih; 整洁 = rapi dan bersih.                                     | 干净桌子 / 房间整洁     | 他的房间很整洁。       | Menukar bersih fisik dengan rapi tertata.            |
+| 87  | 漂亮 / 美丽      | 漂亮 = cantik/menarik; 美丽 = indah, lebih formal.                         | 漂亮衣服 / 美丽景色     | 她穿这件衣服很漂亮。     | Memakai 美丽 untuk semua hal kasual.                   |
+| 88  | 简单 / 轻松      | 简单 = tidak rumit; 轻松 = tidak berat/mudah secara beban.                 | 简单题 / 轻松工作      | 这个工作不轻松。       | Menukar “sederhana” dan “ringan”.                    |
+| 89  | 容易 / 轻易      | 容易 = mudah; 轻易 = dengan mudah, kadang bernuansa “terlalu gampang”.     | 容易理解 / 轻易相信     | 不要轻易放弃。        | Memakai 轻易 untuk semua “mudah”.                      |
+| 90  | 清楚 / 清晰      | 清楚 = jelas, paham; 清晰 = jelas tajam/terdefinisi.                       | 说清楚 / 图像清晰      | 这个图片很清晰。       | Menukar 清楚 dan 清晰 pada objek visual vs pemahaman.    |
+| 91  | 明亮 / 亮堂      | 明亮 = terang; 亮堂 = terang dan lapang, lisan.                            | 明亮房间 / 亮堂屋子     | 房间很明亮。         | Memakai 亮堂 dalam gaya formal.                        |
+| 92  | 安静 / 宁静      | 安静 = tenang tanpa suara; 宁静 = tenteram, damai.                         | 安静教室 / 宁静夜晚     | 这里很宁静。         | Memakai 宁静 untuk sekadar “diam”.                     |
+| 93  | 热闹 / 喧闹      | 热闹 = ramai hidup; 喧闹 = gaduh bising.                                   | 热闹市场 / 喧闹街道     | 这里很热闹。         | Menukar suasana ramai positif dengan bising negatif. |
+| 94  | 方便 / 便捷      | 方便 = praktis; 便捷 = sangat praktis/efisien, formal.                     | 方便停车 / 便捷交通     | 这条路线很便捷。       | Memakai 便捷 untuk percakapan santai biasa.            |
+| 95  | 认真 / 细心      | 认真 = serius sungguh-sungguh; 细心 = teliti.                              | 认真学习 / 细心检查     | 他做事很细心。        | Memakai 认真 saat maksudnya teliti detail.             |
+| 96  | 粗心 / 马虎      | 粗心 = ceroboh karena kurang perhatian; 马虎 = asal-asalan.                | 粗心大意 / 马虎检查     | 他太马虎了。         | Menganggap keduanya identik total.                   |
+| 97  | 聪明 / 机灵      | 聪明 = pintar; 机灵 = lincah cerdas, cepat tanggap.                        | 聪明学生 / 机灵孩子     | 这个孩子很机灵。       | Memakai 机灵 untuk inteligensi akademik formal.        |
+| 98  | 勇敢 / 无畏      | 勇敢 = berani; 无畏 = tanpa rasa takut, sangat formal/tinggi.              | 勇敢面对 / 无畏精神     | 他表现得很勇敢。       | Memakai 无畏 dalam kalimat sehari-hari biasa.          |
+| 99  | 强 / 强大       | 强 = kuat; 强大 = sangat kuat/berdaya besar.                              | 身体强 / 强大国家      | 这个团队很强大。       | Menukar 强 untuk kekuatan abstrak besar.              |
+| 100 | 弱 / 脆弱       | 弱 = lemah; 脆弱 = rapuh/sangat mudah rusak.                              | 体质弱 / 脆弱关系      | 他的心情很脆弱。       | Memakai 脆弱 untuk lemah biasa yang cukup 弱.           |
+| No  | Pasangan | Nuansa                                                                            | Kolokasi khas | Contoh kalimat | Kesalahan umum                                            |
+| --- | -------- | --------------------------------------------------------------------------------- | ------------- | -------------- | --------------------------------------------------------- |
+| 101 | 送 / 递送   | 送 = mengantar/memberi; 递送 = mengirimkan formal, biasanya dokumen/barang.          | 送礼物 / 递送文件    | 公司递送了正式通知。     | Memakai 递送 untuk hadiah santai.                           |
+| 102 | 接 / 接到   | 接 = menyambut/mengambil; 接到 = menerima telepon/pesan.                             | 接人 / 接到电话     | 我刚接到一个电话。      | Memakai 接到 untuk benda yang dipegang langsung.            |
+| 103 | 回答 / 回复  | 回答 = menjawab pertanyaan; 回复 = membalas pesan/komentar.                           | 回答问题 / 回复邮件   | 请尽快回复我的邮件。     | Memakai 回复 untuk jawaban lisan biasa.                     |
+| 104 | 解释 / 说明  | 解释 = menjelaskan sebab/makna; 说明 = menjabarkan/menyatakan keterangan.             | 解释原因 / 说明情况   | 请你说明一下流程。      | Menukar 解释 dan 说明 pada konteks administratif.             |
+| 105 | 告诉 / 通知  | 告诉 = memberi tahu secara langsung; 通知 = memberi tahu resmi.                       | 告诉我 / 通知员工    | 请通知大家开会。       | Memakai 告诉 untuk pengumuman formal.                       |
+| 106 | 提醒 / 叫醒  | 提醒 = mengingatkan; 叫醒 = membangunkan.                                             | 提醒时间 / 叫醒我    | 请提醒我明天开会。      | Menukar “ingatkan” dengan “bangunkan”.                    |
+| 107 | 建议 / 推荐  | 建议 = menyarankan; 推荐 = merekomendasikan.                                          | 建议方案 / 推荐书籍   | 我建议你先休息。       | Memakai 推荐 untuk saran umum yang tidak berbentuk pilihan. |
+| 108 | 允许 / 许可  | 允许 = mengizinkan; 许可 = izin formal/dokumen.                                       | 允许进入 / 许可证    | 学校不允许迟到。       | Memakai 许可 sebagai verba sehari-hari.                     |
+| 109 | 禁止 / 禁忌  | 禁止 = melarang; 禁忌 = tabu/pantangan.                                               | 禁止吸烟 / 饮食禁忌   | 这里禁止拍照。        | Menukar larangan aturan dengan tabu budaya.               |
+| 110 | 申请 / 请求  | 申请 = mengajukan permohonan resmi; 请求 = meminta.                                   | 申请签证 / 请求帮助   | 我申请了一个新账号。     | Memakai 请求 saat konteks resmi administratif.              |
+| 111 | 安排 / 预定  | 安排 = mengatur; 预定 = memesan/booking.                                              | 安排时间 / 预定酒店   | 我们已经预定了房间。     | Memakai 安排 untuk booking hotel.                           |
+| 112 | 采用 / 使用  | 采用 = mengadopsi/memakai sebagai metode; 使用 = menggunakan.                         | 采用方法 / 使用工具   | 他们采用了新方案。      | Memakai 使用 saat maksudnya “mengadopsi metode”.            |
+| 113 | 解决 / 解答  | 解决 = menyelesaikan masalah; 解答 = menjawab/menuntaskan soal.                       | 解决问题 / 解答题目   | 这个问题已经解决了。     | Menukar soal ujian dengan problem umum.                   |
+| 114 | 保存 / 存放  | 保存 = menyimpan agar tidak hilang; 存放 = menaruh/menyimpan secara fisik.            | 保存文件 / 存放物品   | 请把行李存放好。       | Memakai 保存 untuk benda fisik yang hanya ditaruh.          |
+| 115 | 处理 / 处置  | 处理 = menangani/memproses; 处置 = menangani/mengatur pembuangan atau tindakan resmi. | 处理文件 / 处置垃圾   | 这个问题需要马上处理。    | Menukar konteks administratif dan operasional.            |
+| 116 | 研究 / 探讨  | 研究 = meneliti; 探讨 = mengkaji/membahas lebih konseptual.                           | 研究数据 / 探讨问题   | 我们正在研究这个现象。    | Memakai 探讨 untuk penelitian empiris.                      |
+| 117 | 打扫 / 清理  | 打扫 = membersihkan lantai/ruang; 清理 = membersihkan/merapikan isi atau data.        | 打扫房间 / 清理文件   | 我们需要清理桌面。      | Menukar benda fisik ruang dengan data/file.               |
+| 118 | 购买 / 采购  | 购买 = membeli; 采购 = pengadaan resmi/borongan.                                      | 购买商品 / 采购设备   | 公司采购了一批电脑。     | Memakai 采购 untuk beli kecil pribadi.                      |
+| 119 | 搬 / 搬运   | 搬 = memindahkan; 搬运 = mengangkut/memindahkan barang berat.                        | 搬家 / 搬运货物     | 他们在搬运箱子。       | Menukar aktivitas pindah rumah dan angkut barang.         |
+| 120 | 取消 / 撤销  | 取消 = membatalkan; 撤销 = mencabut/menarik kembali resmi.                            | 取消会议 / 撤销决定   | 航班被取消了。        | Memakai 撤销 untuk pembatalan biasa.                        |
+| No  | Pasangan | Nuansa                                                      | Kolokasi khas | Contoh kalimat | Kesalahan umum                                            |
+| --- | -------- | ----------------------------------------------------------- | ------------- | -------------- | --------------------------------------------------------- |
+| 121 | 热 / 火热   | 热 = panas; 火热 = sangat panas/bersemangat.                   | 热天气 / 火热讨论    | 这个话题很火热。       | Memakai 火热 untuk suhu biasa.                              |
+| 122 | 冷 / 冰冷   | 冷 = dingin; 冰冷 = sangat dingin, terasa keras.               | 冷水 / 冰冷的手     | 她的手冰冷。         | Menukar 冷 dan 冰冷 tanpa tingkat intensitas.                |
+| 123 | 亮 / 明亮   | 亮 = terang; 明亮 = terang dan cerah.                          | 灯很亮 / 明亮的房间   | 教室很明亮。         | Memakai 明亮 untuk lampu kecil sederhana.                   |
+| 124 | 黑 / 漆黑   | 黑 = hitam/gelap; 漆黑 = sangat gelap.                         | 黑头发 / 漆黑的夜晚   | 外面漆黑一片。        | Memakai 漆黑 untuk warna biasa.                             |
+| 125 | 白 / 雪白   | 白 = putih; 雪白 = putih bersih seperti salju.                 | 白纸 / 雪白的墙     | 她的衣服很雪白。       | Memakai 雪白 untuk semua benda putih.                       |
+| 126 | 红 / 鲜红   | 红 = merah; 鲜红 = merah cerah.                                | 红旗 / 鲜红的花     | 这朵花是鲜红色的。      | Menukar warna umum dengan nuansa cerah.                   |
+| 127 | 蓝 / 湛蓝   | 蓝 = biru; 湛蓝 = biru sangat jernih/indah.                    | 蓝天 / 湛蓝海水     | 天空湛蓝。          | Memakai 湛蓝 untuk benda biasa tanpa efek puitis.           |
+| 128 | 绿 / 翠绿   | 绿 = hijau; 翠绿 = hijau segar/cerah.                          | 绿草 / 翠绿的树叶    | 山上是一片翠绿。       | Menukar hijau umum dengan hijau segar.                    |
+| 129 | 黄 / 金黄   | 黄 = kuning; 金黄 = kuning keemasan.                           | 黄灯 / 金黄稻田     | 麦子变成了金黄色。      | Memakai 金黄 untuk semua benda kuning.                      |
+| 130 | 高 / 高大   | 高 = tinggi; 高大 = tinggi dan besar/berwibawa.                | 高楼 / 高大身影     | 他身材高大。         | Memakai 高大 hanya untuk angka tinggi.                      |
+| 131 | 矮 / 矮小   | 矮 = pendek; 矮小 = pendek dan kecil.                          | 个子矮 / 矮小房子    | 这间屋子很矮小。       | Memakai 矮小 untuk manusia umum tanpa konteks ukuran kecil. |
+| 132 | 宽 / 宽敞   | 宽 = lebar; 宽敞 = lapang luas.                                | 宽路 / 宽敞房间     | 这个客厅很宽敞。       | Menukar lebar fisik dengan kelapangan ruangan.            |
+| 133 | 窄 / 狭窄   | 窄 = sempit; 狭窄 = sempit dan terbatas, formal.               | 窄门 / 狭窄街道     | 这条路很狭窄。        | Memakai 狭窄 untuk semua “sempit”.                          |
+| 134 | 深 / 深厚   | 深 = dalam; 深厚 = dalam dan kuat, terutama hubungan/perasaan. | 深水 / 深厚友谊     | 他们有深厚的感情。      | Memakai 深厚 untuk kedalaman fisik.                         |
+| 135 | 浅 / 浅显   | 浅 = dangkal; 浅显 = mudah dipahami/sederhana.                 | 浅水 / 浅显道理     | 这本书的语言很浅显。     | Menukar dangkal fisik dengan “mudah dipahami”.            |
+| 136 | 软 / 柔软   | 软 = lembut/lunak; 柔软 = sangat lembut dan fleksibel.         | 软面包 / 柔软头发    | 这个枕头很柔软。       | Memakai 柔软 untuk semua benda lunak biasa.                 |
+| 137 | 硬 / 坚硬   | 硬 = keras; 坚硬 = sangat keras/solid.                         | 硬币 / 坚硬石头     | 这块石头很坚硬。       | Menukar keras biasa dengan sangat keras.                  |
+| 138 | 重 / 沉重   | 重 = berat; 沉重 = berat secara fisik atau emosional.          | 重包 / 沉重打击     | 他的心情很沉重。       | Memakai 沉重 untuk berat fisik biasa.                       |
+| 139 | 甜 / 甜美   | 甜 = manis; 甜美 = manis dan menyenangkan/indah.               | 甜苹果 / 甜美笑容    | 她的笑容很甜美。       | Memakai 甜美 untuk rasa makanan biasa.                      |
+| 140 | 酸 / 酸涩   | 酸 = asam; 酸涩 = asam dan sepat, atau perasaan pahit.         | 酸奶 / 酸涩经历     | 这种水果有点酸涩。      | Memakai 酸涩 untuk semua rasa asam.                         |
+| No  | Pasangan     | Nuansa                                                                                        | Kolokasi khas      | Contoh kalimat | Kesalahan umum                                               |
+| --- | ------------ | --------------------------------------------------------------------------------------------- | ------------------ | -------------- | ------------------------------------------------------------ |
+| 141 | 交 / 递 / 送    | 交 = menyerahkan/menyampaikan; 递 = menyerahkan lewat tangan; 送 = mengantar/memberi.            | 交作业 / 递给他 / 送礼物    | 请把文件交给老师。      | Memakai 递 atau 送 saat konteksnya “menyerahkan resmi”.        |
+| 142 | 还 / 归还 / 退还  | 还 = mengembalikan umum; 归还 = mengembalikan formal; 退还 = mengembalikan uang/barang dibatalkan. | 还书 / 归还物品 / 退还费用   | 请尽快归还证件。       | Menukar 归还 dengan 退还 pada benda non-uang.                    |
+| 143 | 借 / 借用       | 借 = meminjam; 借用 = meminjam/menyitir secara formal.                                           | 借书 / 借用设备          | 我想借用一下你的电脑。    | Memakai 借用 untuk benda yang dipinjam biasa tanpa formalitas. |
+| 144 | 向…借 / 借给     | 向…借 = meminjam dari seseorang; 借给 = meminjamkan ke seseorang.                                 | 向朋友借钱 / 借给他钱       | 我向他借了一本词典。     | Salah arah subjek-objek pada verba 借.                        |
+| 145 | 送 / 赠 / 赠与   | 送 = memberi; 赠 = memberi sebagai hadiah; 赠与 = memberikan secara resmi/legal.                  | 送礼 / 赠书 / 赠与财产     | 公司赠送了奖品。       | Memakai 赠与 dalam konteks lisan biasa.                        |
+| 146 | 传 / 传递 / 传播  | 传 = meneruskan; 传递 = meneruskan secara berantai; 传播 = menyebarkan.                            | 传消息 / 传递信息 / 传播知识  | 这个消息很快传播开了。    | Menukar “meneruskan” dan “menyebarkan”.                      |
+| 147 | 送 / 运 / 运送   | 送 = mengantar; 运 = mengangkut; 运送 = transport barang.                                         | 送快递 / 运输货物 / 运送物资  | 他们正在运送食物。      | Memakai 送 untuk logistik berat.                              |
+| 148 | 发 / 发送 / 发出  | 发 = mengirim umum; 发送 = mengirim formal; 发出 = mengeluarkan/mengirimkan.                       | 发消息 / 发送邮件 / 发出通知  | 公司发出了公告。       | Memakai 发送 pada semua konteks chat santai.                   |
+| 149 | 收 / 收到 / 接收  | 收 = menerima/mengumpulkan; 收到 = menerima secara hasil; 接收 = menerima secara formal/teknis.    | 收快递 / 收到短信 / 接收信号  | 我已经收到包裹了。      | Memakai 接收 untuk benda biasa.                                |
+| 150 | 提 / 提出 / 提醒  | 提 = mengangkat/membawa keluar gagasan; 提出 = mengajukan; 提醒 = mengingatkan.                    | 提问题 / 提出意见 / 提醒时间  | 他提出了一个建议。      | Menukar 提出 dan 提醒.                                           |
+| 151 | 拿 / 带 / 携带   | 拿 = memegang/mengambil; 带 = membawa bersama; 携带 = membawa secara formal.                      | 拿杯子 / 带伞 / 携带证件    | 请带上护照。         | Memakai 拿 untuk “membawa bersama”.                           |
+| 152 | 开 / 启动 / 开启  | 开 = buka/nyalakan; 启动 = memulai mesin/sistem; 开启 = membuka/mengaktifkan formal.               | 开门 / 启动程序 / 开启功能   | 请开启这个选项。       | Menukar 开启 dengan 开 saat konteks software formal.            |
+| 153 | 关 / 关闭 / 关掉  | 关 = tutup/matikan; 关闭 = menutup formal; 关掉 = mematikan/menutup habis.                         | 关灯 / 关闭页面 / 关掉电视   | 请关掉空调。         | Memakai 关闭 di percakapan santai yang lebih natural 关掉.       |
+| 154 | 放 / 放置 / 搁   | 放 = menaruh; 放置 = menempatkan formal; 搁 = meletakkan/lain lisan.                              | 放书 / 放置设备 / 搁在桌上   | 请把东西放在这里。      | Memakai 放置 untuk instruksi biasa yang cukup 放.               |
+| 155 | 取 / 取得 / 领取  | 取 = mengambil; 取得 = memperoleh/mendapat; 领取 = menerima secara resmi.                          | 取钱 / 取得成果 / 领取奖品   | 他取得了很大进步。      | Menukar mengambil fisik dengan memperoleh abstrak.           |
+| 156 | 还 / 返还 / 归还  | 还 = mengembalikan umum; 返还 = mengembalikan/return secara resmi; 归还 = mengembalikan formal.    | 还书 / 返还差价 / 归还财物   | 商家会返还差价。       | Memakai 还 untuk konteks refund resmi.                        |
+| 157 | 设 / 设置 / 设定  | 设 = menetapkan/mendirikan; 设置 = mengatur/setting; 设定 = menetapkan secara formal/konseptual.   | 设规则 / 设置密码 / 设定目标  | 请设置你的密码。       | Menukar penggunaan teknis dan konseptual.                    |
+| 158 | 调 / 调整 / 调节  | 调 = menyesuaikan/mengatur; 调整 = menata ulang; 调节 = mengatur agar seimbang.                    | 调温度 / 调整计划 / 调节情绪  | 请调整一下座位。       | Memakai 调节 untuk perubahan posisi biasa.                     |
+| 159 | 管 / 管理 / 管束  | 管 = mengurus/mengendalikan; 管理 = mengelola; 管束 = mengekang/membatasi.                         | 管孩子 / 管理公司 / 管束行为  | 他负责管理项目。       | Memakai 管束 saat yang dimaksud adalah management.             |
+| 160 | 处理 / 解决 / 处置 | 处理 = menangani; 解决 = menyelesaikan masalah; 处置 = menangani/tindakan resmi.                    | 处理事务 / 解决问题 / 处置资产 | 我们先处理这个问题。     | Menukar proses menangani dan hasil selesai.                  |
+| No  | Pasangan | Nuansa                                                                 | Kolokasi khas | Contoh kalimat | Kesalahan umum                                          |
+| --- | -------- | ---------------------------------------------------------------------- | ------------- | -------------- | ------------------------------------------------------- |
+| 161 | 干燥 / 乾爽  | 干燥 = kering; 乾爽 = kering nyaman, segar.                                | 空气干燥 / 皮肤乾爽   | 今天天气很干燥。       | Memakai 干燥 untuk sensasi nyaman yang lebih natural 乾爽.  |
+| 162 | 湿润 / 潮湿  | 湿润 = lembap halus; 潮湿 = lembap basah, kurang nyaman.                   | 湿润空气 / 潮湿房间   | 地下室很潮湿。        | Menukar tingkat kenyamanan kelembapan.                  |
+| 163 | 光滑 / 平滑  | 光滑 = licin/mulus; 平滑 = rata dan halus, formal.                         | 光滑表面 / 平滑线条   | 这块石头很光滑。       | Memakai 平滑 untuk permukaan fisik umum.                  |
+| 164 | 粗糙 / 粗笨  | 粗糙 = kasar; 粗笨 = kasar dan canggung/bodoh.                             | 粗糙表面 / 动作粗笨   | 他的手很粗糙。        | Menukar tekstur dengan sifat perilaku.                  |
+| 165 | 纤细 / 苗条  | 纤细 = tipis/lentik; 苗条 = langsing.                                      | 纤细手指 / 苗条身材   | 她的身材很苗条。       | Memakai 纤细 untuk tubuh yang cukup langsing.             |
+| 166 | 丰满 / 肥胖  | 丰满 = berisi/enak dilihat; 肥胖 = gemuk berlebih.                         | 丰满脸庞 / 肥胖问题   | 她看起来很丰满。       | Memakai 肥胖 untuk pujian fisik netral.                   |
+| 167 | 强烈 / 激烈  | 强烈 = kuat intens; 激烈 = sengit/keras (konflik, kompetisi).              | 强烈反应 / 激烈竞争   | 双方争论得很激烈。      | Menukar intensitas dengan pertarungan/konflik.          |
+| 168 | 温和 / 温柔  | 温和 = lembut, moderat; 温柔 = lembut penuh kasih.                         | 温和气候 / 温柔声音   | 她说话很温柔。        | Memakai 温和 untuk sifat kasih sayang personal.           |
+| 169 | 严格 / 严厉  | 严格 = ketat; 严厉 = keras, tegas sampai terasa berat.                     | 严格要求 / 严厉批评   | 老师对我们很严格。      | Menukar aturan ketat dengan kritik keras.               |
+| 170 | 复杂 / 纷繁  | 复杂 = rumit; 纷繁 = banyak dan kacau/bermacam-macam.                      | 复杂问题 / 纷繁事务   | 事情很复杂。         | Memakai 纷繁 untuk semua hal rumit.                       |
+| 171 | 单纯 / 简单  | 单纯 = polos/tidak rumit secara sifat; 简单 = sederhana.                   | 单纯想法 / 简单方法   | 他的想法很单纯。       | Menukar sifat mental dengan struktur sederhana.         |
+| 172 | 典型 / 典范  | 典型 = tipikal; 典范 = teladan/model.                                      | 典型案例 / 学习典范   | 这是一个典型例子。      | Memakai 典范 untuk sekadar “contoh umum”.                 |
+| 173 | 普通 / 平凡  | 普通 = biasa; 平凡 = biasa dan kurang menonjol.                            | 普通人 / 平凡生活    | 他过着平凡的生活。      | Menukar netral “biasa” dengan bernuansa tidak menonjol. |
+| 174 | 朴素 / 简朴  | 朴素 = sederhana tanpa hiasan; 简朴 = sederhana dan hemat.                 | 朴素衣着 / 简朴生活   | 她的穿着很朴素。       | Menukar gaya fisik dengan gaya hidup hemat.             |
+| 175 | 显著 / 明显  | 显著 = sangat jelas/menonjol formal; 明显 = jelas terlihat.                | 显著变化 / 明显进步   | 进步很明显。         | Memakai 显著 dalam percakapan ringan berlebihan.          |
+| 176 | 微妙 / 细微  | 微妙 = halus, subtle, sering sulit dijelaskan; 细微 = sangat kecil/detail. | 微妙变化 / 细微差别   | 这里有细微差别。       | Menukar subtle nuansa dengan perbedaan kecil.           |
+| 177 | 尖锐 / 犀利  | 尖锐 = tajam/menusuk, juga kritik tajam; 犀利 = tajam, cerdas.             | 尖锐问题 / 犀利评论   | 他说话很犀利。        | Memakai 犀利 untuk objek fisik tajam.                     |
+| 178 | 轻微 / 细小  | 轻微 = ringan/tidak berat; 细小 = kecil sekali.                            | 轻微疼痛 / 细小裂缝   | 他受了轻微的伤。       | Menukar tingkat dampak dengan ukuran.                   |
+| 179 | 稳定 / 稳妥  | 稳定 = stabil; 稳妥 = aman, tepat, mantap.                                 | 稳定增长 / 稳妥处理   | 情况已经稳定了。       | Memakai 稳妥 untuk kondisi statis.                        |
+| 180 | 真实 / 诚实  | 真实 = nyata/real; 诚实 = jujur.                                           | 真实情况 / 诚实的人   | 他说的话很真实。       | Menukar realitas dengan moralitas kejujuran.            |
+| No  | Pasangan   | Nuansa                                                                                  | Kolokasi khas   | Contoh kalimat | Kesalahan umum                                           |
+| --- | ---------- | --------------------------------------------------------------------------------------- | --------------- | -------------- | -------------------------------------------------------- |
+| 181 | 讲 / 说 / 诉说 | 讲 = menjelaskan/bercerita; 说 = berkata; 诉说 = mengungkapkan dengan perasaan.             | 讲道理 / 说话 / 诉说心事 | 她向朋友诉说了烦恼。     | Memakai 诉说 untuk percakapan biasa.                       |
+| 182 | 交代 / 说明    | 交代 = menjelaskan dan memberi instruksi/pertanggungjawaban; 说明 = menjelaskan keterangan. | 交代任务 / 说明情况     | 请把原因交代清楚。      | Menukar penjelasan umum dengan tanggung jawab/instruksi. |
+| 183 | 说明 / 表明    | 说明 = menjabarkan; 表明 = menunjukkan/menyatakan dengan jelas.                             | 说明问题 / 表明态度     | 他表明了自己的立场。     | Memakai 说明 saat yang dimaksud “menyatakan sikap”.        |
+| 184 | 报告 / 汇报    | 报告 = melaporkan; 汇报 = memberi laporan ringkas ke atasan/otoritas.                       | 报告老师 / 汇报工作     | 他向领导汇报了进度。     | Menukar konteks formal hierarkis.                        |
+| 185 | 通知 / 告知    | 通知 = memberi tahu resmi; 告知 = memberitahu formal.                                       | 通知大家 / 告知结果     | 请尽快告知我。        | Memakai 告知 untuk percakapan santai.                      |
+| 186 | 批评 / 指责    | 批评 = mengkritik; 指责 = menuduh/mencela.                                                  | 批评错误 / 指责别人     | 不要随便指责别人。      | Menukar kritik konstruktif dan tuduhan.                  |
+| 187 | 表扬 / 称赞    | 表扬 = memuji resmi; 称赞 = memuji umum.                                                    | 表扬学生 / 称赞作品     | 老师表扬了他。        | Memakai 称赞 untuk penghargaan formal sekolah/instansi.    |
+| 188 | 安慰 / 抚慰    | 安慰 = menghibur/menenangkan; 抚慰 = menenangkan secara lembut/formal.                      | 安慰朋友 / 抚慰心灵     | 她的话安慰了我。       | Memakai 抚慰 untuk percakapan sehari-hari sederhana.       |
+| 189 | 帮助 / 协助    | 帮助 = membantu umum; 协助 = membantu formal/terstruktur.                                   | 帮助别人 / 协助调查     | 请协助完成这项工作。     | Memakai 协助 untuk bantuan ringan biasa.                   |
+| 190 | 陪 / 陪同     | 陪 = menemani; 陪同 = menemani secara resmi.                                               | 陪朋友 / 陪同访问      | 我陪你去医院。        | Menukar bahasa lisan santai dan formal.                  |
+| 191 | 带 / 附带     | 带 = membawa; 附带 = menyertakan sebagai tambahan.                                         | 带伞 / 附带说明       | 请附带一张照片。       | Memakai 附带 untuk “membawa” biasa.                        |
+| 192 | 交换 / 更换    | 交换 = bertukar; 更换 = mengganti.                                                          | 交换礼物 / 更换零件     | 我们交换了意见。       | Menukar bertukar dua arah dengan mengganti satu arah.    |
+| 193 | 替换 / 代替    | 替换 = mengganti posisi; 代替 = menggantikan/menjadi pengganti.                             | 替换设备 / 代替别人     | 这个词可以代替那个词。    | Menganggap keduanya sama total.                          |
+| 194 | 修理 / 整理    | 修理 = memperbaiki; 整理 = merapikan/mengorganisasi.                                        | 修理电脑 / 整理房间     | 我在整理桌子上的东西。    | Memakai 修理 untuk benda yang cuma dirapikan.              |
+| 195 | 收拾 / 整理    | 收拾 = membereskan, beres-beres; 整理 = menata sistematis.                                  | 收拾行李 / 整理文件     | 请把房间收拾一下。      | Menukar beres-beres santai dengan menata rapi.           |
+| 196 | 追 / 赶      | 追 = mengejar; 赶 = memburu/mengejar waktu atau orang.                                    | 追球 / 赶时间        | 我们要赶火车。        | Memakai 追 saat maksudnya “kejar jadwal”.                 |
+| 197 | 护 / 保护     | 护 = melindungi secara langsung; 保护 = melindungi formal/lebih luas.                      | 护眼 / 保护环境       | 我们要保护森林。       | Memakai 护 untuk konteks besar/konseptual.                |
+| 198 | 预防 / 防止    | 预防 = mencegah sebelum terjadi; 防止 = mencegah agar tidak terjadi.                        | 预防疾病 / 防止事故     | 要提前预防感冒。       | Menukar pencegahan medis dan pencegahan kejadian.        |
+| 199 | 避免 / 躲避    | 避免 = menghindari agar tidak terjadi; 躲避 = menghindar fisik atau emosional.              | 避免错误 / 躲避追问     | 你要避免迟到。        | Memakai 躲避 untuk semua jenis avoid.                      |
+| 200 | 拒绝 / 推辞    | 拒绝 = menolak tegas; 推辞 = menolak secara sopan.                                          | 拒绝请求 / 推辞邀请     | 他婉言推辞了邀请。      | Menukar penolakan keras dan sopan.                       |
+| No  | Pasangan | Nuansa                                                                  | Kolokasi khas | Contoh kalimat | Kesalahan umum                                       |
+| --- | -------- | ----------------------------------------------------------------------- | ------------- | -------------- | ---------------------------------------------------- |
+| 201 | 巨大 / 庞大  | 巨大 = sangat besar; 庞大 = sangat besar dan berat/kompleks.                | 巨大压力 / 庞大系统   | 这是一个庞大的项目。     | Memakai 庞大 untuk benda yang cuma besar.              |
+| 202 | 极小 / 微小  | 极小 = sangat kecil; 微小 = kecil sekali, nyaris tak terlihat.              | 极小概率 / 微小差别   | 这只是微小变化。       | Menukar tingkat kecil yang berbeda.                  |
+| 203 | 重要 / 重大  | 重要 = penting; 重大 = sangat penting/besar dampaknya.                      | 重要决定 / 重大事件   | 这是一个重大问题。      | Memakai 重大 untuk semua hal penting.                  |
+| 204 | 轻松 / 轻快  | 轻松 = santai/tidak berat; 轻快 = ringan dan lincah.                        | 轻松工作 / 轻快步伐   | 她走路很轻快。        | Menukar rasa santai dengan gerak lincah.             |
+| 205 | 严重 / 重大  | 严重 = serius, parah; 重大 = besar pentingnya.                              | 严重错误 / 重大事故   | 问题很严重。         | Memakai 重大 untuk derajat keparahan.                  |
+| 206 | 细腻 / 细致  | 细腻 = halus, sensitif, detail; 细致 = teliti.                              | 细腻描写 / 细致检查   | 他的观察很细致。       | Menukar kepekaan rasa dengan ketelitian.             |
+| 207 | 丰富 / 充足  | 丰富 = kaya/berlimpah variasi; 充足 = cukup banyak.                         | 丰富经验 / 充足时间   | 资料很丰富。         | Memakai 充足 saat yang dimaksud variasi.               |
+| 208 | 全面 / 充分  | 全面 = menyeluruh; 充分 = sepenuhnya/cukup.                                 | 全面分析 / 充分准备   | 我们已经做好了充分准备。   | Menukar cakupan menyeluruh dengan tingkat kecukupan. |
+| 209 | 明确 / 明显  | 明确 = tegas/jelas tidak ambigu; 明显 = jelas terlihat.                     | 明确表示 / 明显变化   | 他的态度很明确。       | Memakai 明显 untuk ketegasan pendapat.                 |
+| 210 | 坚强 / 坚定  | 坚强 = kuat secara mental; 坚定 = teguh, mantap pada pilihan.               | 坚强意志 / 坚定立场   | 她的态度很坚定。       | Menukar kekuatan mental dan keteguhan sikap.         |
+| 211 | 平静 / 安静  | 平静 = tenang batin/permukaan; 安静 = tidak berisik.                        | 平静心情 / 安静教室   | 海面很平静。         | Memakai 安静 untuk keadaan emosi.                      |
+| 212 | 冷静 / 镇定  | 冷静 = tenang rasional; 镇定 = mantap, tidak panik.                         | 冷静思考 / 保持镇定   | 他非常冷静。         | Menukar penilaian rasional dan tidak panik.          |
+| 213 | 可爱 / 乖巧  | 可爱 = lucu/menarik; 乖巧 = manis, nurut, pintar.                           | 可爱孩子 / 乖巧女孩   | 这个孩子很乖巧。       | Memakai 可爱 untuk perilaku patuh yang lebih cocok 乖巧. |
+| 214 | 美观 / 好看  | 美观 = enak dilihat, estetis; 好看 = terlihat bagus.                        | 美观设计 / 好看衣服   | 这个设计很美观。       | Menukar estetika desain dengan tampilan umum.        |
+| 215 | 朴实 / 朴素  | 朴实 = jujur sederhana, tidak dibuat-buat; 朴素 = sederhana tanpa dekorasi. | 朴实性格 / 朴素衣着   | 他的作风很朴实。       | Memakai 朴素 untuk karakter manusia tanpa nuansa.      |
+| 216 | 狭小 / 窄小  | 狭小 = sempit dan terbatas; 窄小 = sempit dan kecil.                        | 狭小空间 / 窄小房间   | 这个房间很窄小。       | Menukar nuansa ruang terbatas vs ukuran kecil.       |
+| 217 | 诚恳 / 真诚  | 诚恳 = tulus dan sungguh-sungguh; 真诚 = benar-benar tulus.                 | 诚恳道歉 / 真诚感谢   | 他态度很真诚。        | Memakai 真诚 untuk sikap formal yang butuh 诚恳.         |
+| 218 | 普遍 / 广泛  | 普遍 = umum, berlaku luas; 广泛 = luas dalam cakupan.                       | 普遍现象 / 广泛应用   | 这个问题很普遍。       | Menukar “umum” dan “luas penerapan”.                 |
+| 219 | 典雅 / 高雅  | 典雅 = anggun klasik; 高雅 = elegan, berkelas.                              | 典雅风格 / 高雅品味   | 她的气质很高雅。       | Memakai 典雅 untuk semua yang elegan.                  |
+| 220 | 雄伟 / 壮丽  | 雄伟 = megah dan agung; 壮丽 = indah megah.                                 | 雄伟山脉 / 壮丽景色   | 长城非常雄伟。        | Menukar kesan agung dengan keindahan pemandangan.    |
+| No  | Pasangan | Nuansa                                                            | Kolokasi khas | Contoh kalimat | Kesalahan umum                                          |
+| --- | -------- | ----------------------------------------------------------------- | ------------- | -------------- | ------------------------------------------------------- |
+| 221 | 带来 / 造成  | 带来 = membawa hasil/efek; 造成 = menyebabkan dampak negatif/konkret. | 带来机会 / 造成损失   | 这项改革带来了机会。     | Memakai 造成 untuk efek positif netral.                   |
+| 222 | 引起 / 造成  | 引起 = memicu/menimbulkan; 造成 = menyebabkan hasil yang nyata.       | 引起注意 / 造成问题   | 这件事引起了争论。      | Menukar pemicu dan akibat.                              |
+| 223 | 激发 / 刺激  | 激发 = membangkitkan potensi; 刺激 = merangsang/stimulasi.            | 激发兴趣 / 刺激消费   | 这本书激发了我的兴趣。    | Memakai 刺激 untuk motivasi internal.                     |
+| 224 | 鼓励 / 促进  | 鼓励 = memberi dorongan; 促进 = mendorong perkembangan/progres.       | 鼓励孩子 / 促进发展   | 这个政策促进了经济发展。   | Menukar dukungan psikologis dan dorongan struktural.    |
+| 225 | 支持 / 资助  | 支持 = mendukung; 资助 = membiayai/mendanai.                          | 支持你 / 资助项目    | 他资助了这个研究。      | Memakai 支持 saat yang dimaksud dana.                     |
+| 226 | 反对 / 抵制  | 反对 = menentang; 抵制 = memboikot/menolak aktif.                     | 反对计划 / 抵制商品   | 大家都反对这个决定。     | Menukar oposisi opini dengan boikot tindakan.           |
+| 227 | 完成 / 实现  | 完成 = menyelesaikan; 实现 = mewujudkan menjadi nyata.                | 完成任务 / 实现梦想   | 他实现了自己的目标。     | Memakai 完成 untuk cita-cita abstrak.                     |
+| 228 | 实现 / 达到  | 实现 = mewujudkan; 达到 = mencapai tingkat/target.                    | 实现理想 / 达到标准   | 你已经达到要求了。      | Menukar target numerik dan mimpi/konsep.                |
+| 229 | 达到 / 超过  | 达到 = mencapai; 超过 = melampaui.                                    | 达到目标 / 超过平均水平 | 结果超过了预期。       | Memakai 达到 saat maksudnya sudah melampaui.              |
+| 230 | 影响 / 改变  | 影响 = memengaruhi; 改变 = mengubah.                                  | 影响结果 / 改变计划   | 这件事改变了我的想法。    | Menukar pengaruh tidak langsung dan perubahan langsung. |
+| 231 | 调查 / 询问  | 调查 = investigasi; 询问 = menanyakan.                                | 调查案件 / 询问情况   | 警方正在调查此事。      | Memakai 询问 untuk penyelidikan resmi.                    |
+| 232 | 分析 / 解释  | 分析 = menganalisis; 解释 = menjelaskan sebab/makna.                  | 分析数据 / 解释原因   | 我们先分析问题。       | Menukar analisis dengan penjelasan.                     |
+| 233 | 检查 / 观察  | 检查 = memeriksa; 观察 = mengamati.                                   | 检查身体 / 观察现象   | 医生检查了他的眼睛。     | Memakai 观察 untuk pemeriksaan medis langsung.            |
+| 234 | 记录 / 记载  | 记录 = mencatat; 记载 = mencatat secara tertulis/formal.              | 记录数据 / 记载历史   | 我把结果记录下来了。     | Menukar catatan biasa dan dokumentasi formal.           |
+| 235 | 修改 / 更改  | 修改 = merevisi; 更改 = mengubah.                                     | 修改文章 / 更改时间   | 请修改这份文件。       | Menukar revisi detail dan perubahan umum.               |
+| 236 | 建立 / 创立  | 建立 = membangun/menetapkan; 创立 = mendirikan (organisasi, sistem).  | 建立关系 / 创立公司   | 他们创立了一个品牌。     | Memakai 建立 untuk pendirian institusi baru.              |
+| 237 | 设立 / 设定  | 设立 = mendirikan/menetapkan lembaga; 设定 = menetapkan parameter.    | 设立机构 / 设定目标   | 公司设立了新部门。      | Menukar organisasi dengan parameter.                    |
+| 238 | 连接 / 连结  | 连接 = menghubungkan; 连结 = menyambungkan/terkait secara formal.     | 连接网络 / 连结两地   | 请连接到网络。        | Memakai 连结 dalam kalimat teknis yang lebih natural 连接.  |
+| 239 | 配合 / 合作  | 配合 = menyesuaikan/koordinasi; 合作 = bekerja sama.                  | 配合工作 / 合作项目   | 我们需要密切配合。      | Menukar koordinasi dengan kerja sama.                   |
+| 240 | 遵守 / 履行  | 遵守 = menaati; 履行 = melaksanakan kewajiban.                        | 遵守规则 / 履行义务   | 你要遵守规定。        | Memakai 履行 untuk aturan biasa, bukan kewajiban.         |
+| No  | Pasangan  | Nuansa                                                       | Kolokasi khas  | Contoh kalimat | Kesalahan umum                                         |
+| --- | --------- | ------------------------------------------------------------ | -------------- | -------------- | ------------------------------------------------------ |
+| 241 | 温暖 / 温和   | 温暖 = hangat secara suhu/perasaan; 温和 = lembut, moderat.      | 温暖阳光 / 温和态度    | 春天的阳光很温暖。      | Menukar suhu dan karakter.                             |
+| 242 | 炎热 / 酷热   | 炎热 = panas terik; 酷热 = sangat panas sekali.                  | 炎热天气 / 酷热夏天    | 今天酷热难耐。        | Memakai 酷热 untuk semua panas biasa.                    |
+| 243 | 寒冷 / 冰冷   | 寒冷 = dingin sekali; 冰冷 = sedingin es, terasa keras.          | 寒冷冬天 / 冰冷双手    | 她的手冰冷。         | Menukar cuaca dengan sensasi tubuh.                    |
+| 244 | 明显 / 显而易见 | 明显 = jelas terlihat; 显而易见 = jelas sekali, obvious.           | 明显变化 / 显而易见的事实 | 这个结论显而易见。      | Memakai 显而易见 untuk semua kejernihan biasa.             |
+| 245 | 稳重 / 稳定   | 稳重 = tenang dan dewasa; 稳定 = stabil.                         | 稳重性格 / 稳定状态    | 他看起来很稳重。       | Menukar sifat pribadi dengan status kondisi.           |
+| 246 | 豪华 / 奢华   | 豪华 = mewah; 奢华 = sangat mewah, cenderung berlebihan.         | 豪华酒店 / 奢华装饰    | 这家酒店很豪华。       | Memakai 奢华 untuk semua benda mewah.                    |
+| 247 | 整齐 / 规整   | 整齐 = rapi; 规整 = rapi teratur, formal.                        | 整齐房间 / 规整布局    | 书架摆得很整齐。       | Menukar rapi umum dengan rapi terstruktur.             |
+| 248 | 精致 / 细致   | 精致 = indah/rinci bernilai; 细致 = teliti/detail.               | 精致礼物 / 细致工作    | 这个工艺很精致。       | Memakai 细致 untuk objek bernilai estetis.               |
+| 249 | 幽默 / 风趣   | 幽默 = humor; 风趣 = lucu dan menarik dalam gaya bicara.         | 幽默感 / 风趣回答     | 他讲话很风趣。        | Menukar gaya komik dan gaya bicara menarik.            |
+| 250 | 严谨 / 严格   | 严谨 = teliti, disiplin logis; 严格 = ketat.                     | 严谨态度 / 严格要求    | 他的论文很严谨。       | Menukar disiplin metode dengan ketegasan aturan.       |
+| 251 | 悲伤 / 难过   | 悲伤 = sedih mendalam; 难过 = tidak enak hati/sedih ringan.      | 悲伤情绪 / 难过了一会儿  | 她听到消息后很难过。     | Memakai 悲伤 untuk emosi ringan yang cukup 难过.           |
+| 252 | 愉快 / 高兴   | 愉快 = menyenangkan, senang berkelanjutan; 高兴 = senang sesaat. | 愉快的心情 / 很高兴    | 祝你旅途愉快。        | Menukar ucapan formal dan emosi sesaat.                |
+| 253 | 轻微 / 轻快   | 轻微 = ringan kecil; 轻快 = ringan dan lincah.                   | 轻微疼痛 / 轻快步伐    | 他的步子很轻快。       | Menukar derajat kecil dan gaya gerak.                  |
+| 254 | 脆弱 / 软弱   | 脆弱 = rapuh; 软弱 = lemah dalam kemauan/karakter.               | 脆弱关系 / 软弱性格    | 他不是软弱的人。       | Menukar rapuh fisik/emosional dengan lemah karakter.   |
+| 255 | 狂热 / 热烈   | 狂热 = sangat fanatik; 热烈 = hangat antusias.                   | 狂热追捧 / 热烈欢迎    | 现场气氛很热烈。       | Memakai 狂热 untuk antusiasme biasa.                     |
+| 256 | 典型 / 典雅   | 典型 = tipikal; 典雅 = anggun klasik.                            | 典型案例 / 典雅风格    | 这是典型现象。        | Menukar contoh representatif dengan estetika.          |
+| 257 | 透明 / 透明度高 | 透明 = tembus pandang; 透明度高 = sangat transparan/terbuka.       | 透明玻璃 / 透明度高    | 这块玻璃很透明。       | Memakai 透明度高 pada benda fisik sederhana tanpa konteks. |
+| 258 | 粗壮 / 强壮   | 粗壮 = besar dan kokoh; 强壮 = kuat secara fisik.                | 粗壮树干 / 强壮身体    | 他身体很强壮。        | Menukar ukuran besar dengan kekuatan tubuh.            |
+| 259 | 敏感 / 细腻   | 敏感 = sensitif; 细腻 = halus/detail.                            | 敏感话题 / 细腻描写    | 这个话题很敏感。       | Memakai 细腻 untuk topik sensitif.                       |
+| 260 | 活泼 / 俏皮   | 活泼 = lincah ceria; 俏皮 = jenaka/nakal lucu.                   | 活泼孩子 / 俏皮话     | 她很活泼。          | Menukar keceriaan umum dengan kelucuan nakal.          |
+| No  | Pasangan | Nuansa                                                           | Kolokasi khas | Contoh kalimat | Kesalahan umum                                      |
+| --- | -------- | ---------------------------------------------------------------- | ------------- | -------------- | --------------------------------------------------- |
+| 261 | 订 / 预订   | 订 = memesan/menetapkan; 预订 = booking lebih formal.               | 订票 / 预订房间     | 我们已经预订了酒店。     | Memakai 订 untuk booking formal saat 预订 lebih tepat. |
+| 262 | 购 / 购买   | 购 = beli formal; 购买 = membeli resmi/tertulis.                    | 购物 / 购买设备     | 他购买了新设备。       | Memakai 购买 pada percakapan lisan sederhana.         |
+| 263 | 领 / 领取   | 领 = mengambil/menerima; 领取 = menerima secara resmi.              | 领工资 / 领取奖品    | 请领取你的证件。       | Memakai 领 untuk konteks administrasi.               |
+| 264 | 退 / 退还   | 退 = mengembalikan/return; 退还 = mengembalikan uang/barang formal. | 退货 / 退还费用     | 商家退还了钱。        | Memakai 退 untuk refund formal yang butuh 退还.        |
+| 265 | 发放 / 发送  | 发放 = membagikan/mendistribusikan; 发送 = mengirim.                 | 发放工资 / 发送邮件   | 学校发放了通知单。      | Menukar distribusi fisik dan pengiriman pesan.      |
+| 266 | 传送 / 传递  | 传送 = mengirim/memindahkan; 传递 = meneruskan.                      | 传送文件 / 传递信息   | 信息被迅速传递出去。     | Memakai 传送 untuk obrolan/pesan biasa.               |
+| 267 | 搬迁 / 搬   | 搬迁 = pindah tempat secara formal; 搬 = memindahkan biasa.         | 搬迁公司 / 搬家具    | 公司决定搬迁。        | Memakai 搬迁 untuk benda kecil.                       |
+| 268 | 拆 / 拆除   | 拆 = membongkar; 拆除 = membongkar/menghapus struktur formal.       | 拆盒子 / 拆除建筑    | 旧楼已经拆除了。       | Memakai 拆除 untuk objek kecil biasa.                 |
+| 269 | 装 / 安装   | 装 = memasang/memasukkan; 安装 = instalasi formal.                  | 装箱 / 安装软件     | 请安装这个程序。       | Memakai 装 untuk software formal tanpa konteks.      |
+| 270 | 录 / 记录   | 录 = merekam; 记录 = mencatat.                                      | 录音 / 记录数据     | 我录下了这段话。       | Menukar rekaman suara dan catatan tertulis.         |
+| 271 | 练 / 训练   | 练 = berlatih; 训练 = melatih secara sistematis.                    | 练字 / 训练运动员    | 他每天练习汉字。       | Memakai 训练 untuk latihan sehari-hari ringan.        |
+| 272 | 读 / 阅读   | 读 = membaca; 阅读 = membaca formal/aktivitas literasi.             | 读书 / 阅读材料     | 学生需要阅读文章。      | Memakai 阅读 di percakapan santai yang cukup 读.       |
+| 273 | 改 / 修改   | 改 = mengubah; 修改 = merevisi.                                     | 改计划 / 修改作业    | 请修改这篇文章。       | Menukar ubah umum dan revisi detail.                |
+| 274 | 调 / 调换   | 调 = menyesuaikan/mengatur; 调换 = menukar/mengganti posisi.        | 调音 / 调换座位     | 我们调换了房间。       | Memakai 调 saja saat maksudnya menukar.              |
+| 275 | 接 / 接待   | 接 = menyambut/menerima; 接待 = menerima tamu secara formal.        | 接电话 / 接待客人    | 公司接待了来访者。      | Memakai 接待 untuk tindakan sederhana sehari-hari.    |
+| 276 | 迎 / 迎接   | 迎 = menyongsong; 迎接 = menyambut formal/khusus.                   | 迎面 / 迎接客人     | 我们去机场迎接他。      | Memakai 迎 untuk hal yang butuh 迎接.                  |
+| 277 | 折 / 折叠   | 折 = melipat/membengkokkan; 折叠 = melipat formal/rapi.             | 折纸 / 折叠衣服     | 请把纸折起来。        | Memakai 折叠 untuk semua lipatan biasa.               |
+| 278 | 挂 / 悬挂   | 挂 = menggantung; 悬挂 = digantung formal/literer.                  | 挂衣服 / 悬挂国旗    | 旗帜悬挂在门口。       | Memakai 悬挂 dalam percakapan sehari-hari.            |
+| 279 | 包 / 包装   | 包 = membungkus; 包装 = pengemasan formal.                          | 包书 / 包装产品     | 请包装好这个礼物。      | Menukar membungkus biasa dan packaging formal.      |
+| 280 | 封 / 封闭   | 封 = menutup/menyegel; 封闭 = menutup tertutup penuh, formal.       | 封信 / 封闭道路     | 这条路已经封闭。       | Memakai 封闭 untuk hal kecil biasa.                   |
+| No  | Pasangan   | Nuansa                                                              | Kolokasi khas   | Contoh kalimat | Kesalahan umum                                         |
+| --- | ---------- | ------------------------------------------------------------------- | --------------- | -------------- | ------------------------------------------------------ |
+| 281 | 尖锐 / 锋利    | 尖锐 = tajam secara suara/ide; 锋利 = tajam secara fisik.               | 尖锐批评 / 锋利刀子     | 这把刀很锋利。        | Memakai 尖锐 untuk benda tajam fisik.                    |
+| 282 | 柔和 / 温和    | 柔和 = lembut halus; 温和 = lembut/moderat.                             | 柔和灯光 / 温和气候     | 灯光很柔和。         | Menukar efek visual dengan sikap moderat.              |
+| 283 | 厚 / 浓厚     | 厚 = tebal; 浓厚 = sangat kental/kuat (rasa, atmosfer).                | 厚书 / 浓厚兴趣       | 这杯茶味道很浓厚。      | Memakai 浓厚 untuk ketebalan fisik biasa.                |
+| 284 | 薄 / 单薄     | 薄 = tipis; 单薄 = tipis dan lemah/kurang kuat.                        | 薄纸 / 单薄身影       | 他的身体很单薄。       | Memakai 单薄 untuk kertas tipis biasa.                   |
+| 285 | 胖 / 肥 / 肥胖 | 胖 = gemuk netral-lisan; 肥 = gemuk, juga subur/lemak; 肥胖 = obesitas. | 胖孩子 / 肥肉 / 肥胖问题 | 他有点胖。          | Memakai 肥胖 untuk semua orang gemuk.                    |
+| 286 | 瘦 / 消瘦     | 瘦 = kurus; 消瘦 = sangat kurus karena sakit/kehilangan berat.         | 瘦脸 / 身体消瘦       | 她最近消瘦了很多。      | Menukar kurus netral dengan kurus karena kondisi.      |
+| 287 | 圆 / 圆润     | 圆 = bulat; 圆润 = bulat halus/lunak.                                  | 圆脸 / 圆润声音       | 她的声音很圆润。       | Memakai 圆润 untuk benda geometris biasa.                |
+| 288 | 平 / 平坦     | 平 = rata; 平坦 = datar dan luas.                                      | 平路 / 平坦道路       | 这片地很平坦。        | Menukar rata umum dengan datar luas.                   |
+| 289 | 倾斜 / 歪斜    | 倾斜 = miring; 歪斜 = miring tidak lurus.                               | 倾斜角度 / 歪斜房子     | 这幅画挂歪了。        | Memakai 倾斜 untuk benda yang sekadar tidak lurus.       |
+| 290 | 松 / 宽松     | 松 = longgar; 宽松 = longgar dan tidak ketat.                          | 松土 / 宽松衣服       | 这件衣服很宽松。       | Menukar longgar fisik dan longgar aturan.              |
+| 291 | 紧 / 紧张     | 紧 = ketat; 紧张 = tegang.                                             | 紧身衣 / 紧张气氛      | 会议气氛很紧张。       | Memakai 紧张 untuk semua “ketat”.                        |
+| 292 | 甜 / 甜蜜     | 甜 = manis; 甜蜜 = manis dan romantis/indah.                           | 甜点 / 甜蜜回忆       | 他们过着甜蜜的生活。     | Memakai 甜蜜 untuk rasa makanan biasa.                   |
+| 293 | 酸 / 酸痛     | 酸 = asam; 酸痛 = pegal/nyeri.                                         | 酸味 / 腿酸痛        | 我的腿有点酸痛。       | Menukar rasa asam dengan nyeri tubuh.                  |
+| 294 | 香 / 芳香     | 香 = harum; 芳香 = sangat harum dan wangi.                             | 香味 / 芳香气息       | 花园里有芳香的花。      | Memakai 芳香 untuk semua bau harum.                      |
+| 295 | 臭 / 腐臭     | 臭 = bau busuk; 腐臭 = busuk menyengat membusuk.                       | 臭袜子 / 腐臭味       | 冰箱里有一股腐臭味。     | Menukar bau buruk biasa dengan bau pembusukan.         |
+| 296 | 干 / 干枯     | 干 = kering; 干枯 = kering layu.                                       | 干衣服 / 干枯树枝      | 树叶已经干枯了。       | Memakai 干枯 untuk benda kering biasa.                   |
+| 297 | 湿 / 湿润     | 湿 = basah/lembap; 湿润 = lembap halus.                                | 湿衣服 / 湿润土地      | 土地很湿润。         | Menukar basah umum dan lembap halus.                   |
+| 298 | 硬 / 硬朗     | 硬 = keras; 硬朗 = kuat dan sehat, terutama orang tua.                 | 硬木 / 身体硬朗       | 他年纪大了但身体还硬朗。   | Memakai 硬朗 untuk benda fisik keras.                    |
+| 299 | 灵活 / 机灵    | 灵活 = fleksibel; 机灵 = lincah cerdas.                                 | 灵活安排 / 机灵孩子     | 他处理问题很灵活。      | Menukar fleksibilitas dengan kecerdasan cepat tanggap. |
+| 300 | 安稳 / 稳定    | 安稳 = aman dan tenang; 稳定 = stabil.                                  | 安稳生活 / 稳定状态     | 他过着安稳的生活。      | Memakai 稳定 untuk rasa aman emosional.                  |
+| No  | Pasangan | Nuansa                                                                              | Kolokasi khas | Contoh kalimat | Kesalahan umum                                    |
+| --- | -------- | ----------------------------------------------------------------------------------- | ------------- | -------------- | ------------------------------------------------- |
+| 301 | 看护 / 照顾  | 看护 = merawat secara profesional/terfokus; 照顾 = mengurus/memperhatikan umum.         | 看护病人 / 照顾孩子   | 她在医院看护病人。      | Memakai 看护 untuk pengasuhan sehari-hari biasa.    |
+| 302 | 伺候 / 照顾  | 伺候 = melayani/merawat, sering ada rasa “serving”; 照顾 = mengurus/memperhatikan.      | 伺候老人 / 照顾家人   | 他在家照顾父母。       | Memakai 伺候 dengan nada yang tidak sengaja kasar.  |
+| 303 | 敬 / 尊敬   | 敬 = menghormati; 尊敬 = sangat menghormati.                                           | 敬酒 / 尊敬老师     | 我们都尊敬他。        | Menukar hormat biasa dan hormat tinggi.           |
+| 304 | 拜访 / 访问  | 拜访 = mengunjungi dengan sopan; 访问 = kunjungan resmi/wawancara.                      | 拜访老师 / 访问国外   | 他去拜访了一位朋友。     | Memakai 访问 untuk kunjungan pribadi santai.        |
+| 305 | 参观 / 游览  | 参观 = mengunjungi untuk melihat tempat/instansi; 游览 = berwisata melihat pemandangan. | 参观工厂 / 游览景点   | 我们参观了博物馆。      | Menukar tur resmi dengan wisata santai.           |
+| 306 | 拥有 / 具有  | 拥有 = memiliki; 具有 = mempunyai ciri/kapasitas.                                       | 拥有财富 / 具有特点   | 这项技术具有优势。      | Memakai 拥有 untuk sifat abstrak.                   |
+| 307 | 占有 / 占据  | 占有 = memiliki/menguasai; 占据 = menempati/menduduki.                                  | 占有市场 / 占据位置   | 这栋楼占据了很大空间。    | Menukar kepemilikan dan pendudukan ruang.         |
+| 308 | 占领 / 占据  | 占领 = menduduki wilayah; 占据 = menempati ruang/posisi.                                | 占领城市 / 占据主导地位 | 他们占据了有利位置。     | Memakai 占领 untuk posisi abstrak kecil.            |
+| 309 | 夺取 / 取得  | 夺取 = merebut; 取得 = memperoleh.                                                      | 夺取政权 / 取得成绩   | 他取得了好成绩。       | Menukar merebut paksa dengan memperoleh netral.   |
+| 310 | 夺 / 抢夺   | 夺 = merebut; 抢夺 = merampas.                                                         | 夺冠 / 抢夺资源     | 他们抢夺了财物。       | Memakai 夺 untuk pencurian/merampas.               |
+| 311 | 追求 / 寻求  | 追求 = mengejar cita-cita/hal abstrak; 寻求 = mencari solusi/bantuan.                   | 追求幸福 / 寻求帮助   | 他在追求理想。        | Menukar mencari solusi dan mengejar tujuan.       |
+| 312 | 争取 / 获取  | 争取 = memperjuangkan/mendapatkan lewat usaha; 获取 = memperoleh.                       | 争取时间 / 获取信息   | 我们要争取更多机会。     | Memakai 获取 untuk perjuangan aktif.                |
+| 313 | 获取 / 取得  | 获取 = memperoleh dengan upaya/proses; 取得 = mendapatkan hasil.                        | 获取数据 / 取得成果   | 他取得了成功。        | Memakai 获取 untuk hasil final yang cocok 取得.       |
+| 314 | 维护 / 保养  | 维护 = memelihara/menjaga sistem, hak, ketertiban; 保养 = merawat agar tetap baik.      | 维护秩序 / 保养汽车   | 这辆车需要保养。       | Menukar maintenance sistem dan perawatan fisik.   |
+| 315 | 维修 / 修复  | 维修 = memperbaiki/servis; 修复 = memulihkan seperti semula.                            | 维修机器 / 修复文件   | 工人正在维修电梯。      | Memakai 修复 untuk servis biasa.                    |
+| 316 | 启发 / 激发  | 启发 = memberi inspirasi/pemahaman; 激发 = membangkitkan semangat.                      | 启发思考 / 激发兴趣   | 这次讨论启发了我。      | Menukar inspirasi intelektual dan motivasi.       |
+| 317 | 感动 / 打动  | 感动 = terharu; 打动 = menyentuh hati/membuat tergerak.                                 | 感动落泪 / 打动人心   | 他的故事打动了我。      | Memakai 打动 untuk emosi sudah jadi “terharu”.      |
+| 318 | 吸引 / 引诱  | 吸引 = menarik perhatian; 引诱 = membujuk/merayu ke arah negatif.                       | 吸引顾客 / 引诱犯罪   | 这个广告很吸引人。      | Menukar daya tarik netral dengan bujukan negatif. |
+| 319 | 说服 / 劝说  | 说服 = meyakinkan; 劝说 = membujuk dengan nasihat.                                      | 说服别人 / 劝说他    | 我说服了他改计划。      | Memakai 劝说 untuk argumen yang kuat.               |
+| 320 | 误会 / 误解  | 误会 = salah paham atas situasi; 误解 = salah memahami makna.                           | 产生误会 / 误解意思   | 你误解我的意思了。      | Menukar kesalahpahaman situasional dan semantik.  |
+| No  | Pasangan | Nuansa                                                       | Kolokasi khas | Contoh kalimat | Kesalahan umum                                    |
+| --- | -------- | ------------------------------------------------------------ | ------------- | -------------- | ------------------------------------------------- |
+| 321 | 深刻 / 深沉  | 深刻 = mendalam dan bermakna; 深沉 = dalam, berat, matang.       | 深刻印象 / 深沉声音   | 他的发言很深刻。       | Menukar makna mendalam dengan suara berat.        |
+| 322 | 紧密 / 密切  | 紧密 = rapat, erat, tertutup; 密切 = dekat/erat dalam hubungan.  | 紧密联系 / 密切合作   | 双方保持密切联系。      | Memakai 紧密 untuk hubungan interpersonal biasa.    |
+| 323 | 详尽 / 详细  | 详细 = rinci; 详尽 = sangat rinci, lengkap.                      | 详细说明 / 详尽报告   | 这份报告很详尽。       | Menukar detail biasa dengan sangat lengkap.       |
+| 324 | 冷门 / 偏门  | 冷门 = kurang populer; 偏门 = niche/jarang.                      | 冷门专业 / 偏门知识   | 这是一个偏门话题。      | Memakai 偏门 untuk sekadar tidak populer.           |
+| 325 | 火热 / 热门  | 火热 = sangat panas/ramai antusias; 热门 = populer/laku.         | 火热讨论 / 热门商品   | 这部电影很热门。       | Menukar “ramai” dengan “populer”.                 |
+| 326 | 可靠 / 牢靠  | 可靠 = dapat dipercaya; 牢靠 = kokoh/andal.                      | 可靠消息 / 牢靠关系   | 这个人很可靠。        | Memakai 牢靠 untuk orang dengan arti kepercayaan.   |
+| 327 | 诚实 / 诚恳  | 诚实 = jujur; 诚恳 = tulus.                                      | 诚实回答 / 诚恳道歉   | 他很诚实。          | Menukar moral jujur dengan ketulusan sikap.       |
+| 328 | 直率 / 率直  | 直率 = blak-blakan; 率直 = lugas terus terang.                   | 直率发言 / 率直性格   | 她说话很直率。        | Menukar gaya bicara dan sifat karakter.           |
+| 329 | 谨慎 / 小心  | 谨慎 = berhati-hati, cermat; 小心 = hati-hati umum.              | 谨慎处理 / 小心走路   | 你要谨慎选择。        | Memakai 谨慎 untuk tindakan kecil biasa.            |
+| 330 | 精密 / 严密  | 精密 = sangat presisi; 严密 = rapat/ketat.                       | 精密仪器 / 严密计划   | 这个仪器很精密。       | Menukar presisi teknis dengan ketat tertutup.     |
+| 331 | 朦胧 / 模糊  | 朦胧 = samar/puitis; 模糊 = tidak jelas.                         | 朦胧月光 / 模糊印象   | 我对那件事还有点模糊。    | Menukar samar puitis dan tidak jelas.             |
+| 332 | 荒凉 / 冷清  | 荒凉 = sepi tandus; 冷清 = sepi tanpa ramai.                     | 荒凉沙漠 / 冷清街道   | 这条街今晚很冷清。      | Memakai 荒凉 untuk suasana sepi biasa.              |
+| 333 | 贫穷 / 贫困  | 贫穷 = miskin; 贫困 = sangat miskin/kurang.                      | 贫穷家庭 / 贫困地区   | 那里很贫困。         | Menukar miskin umum dengan sangat miskin.         |
+| 334 | 纯洁 / 单纯  | 纯洁 = murni; 单纯 = polos/sederhana.                            | 纯洁友谊 / 单纯想法   | 她的想法很单纯。       | Memakai 单纯 untuk kemurnian moral.                 |
+| 335 | 细密 / 细致  | 细密 = sangat rapat/rapi; 细致 = teliti.                         | 细密纹路 / 细致观察   | 他的工作很细致。       | Menukar pola rapat dengan ketelitian.             |
+| 336 | 清脆 / 清晰  | 清脆 = jernih dan renyah (suara); 清晰 = jelas.                  | 清脆声音 / 清晰图像   | 她的声音很清脆。       | Memakai 清晰 untuk suara.                           |
+| 337 | 忧郁 / 抑郁  | 忧郁 = murung; 抑郁 = depresi/tertekan.                          | 忧郁神情 / 抑郁情绪   | 他最近有点忧郁。       | Menukar sedih muram dengan kondisi klinis.        |
+| 338 | 炫目 / 夺目  | 炫目 = menyilaukan; 夺目 = sangat menarik perhatian.             | 炫目灯光 / 夺目光彩   | 她穿着很夺目。        | Memakai 夺目 untuk efek silau.                      |
+| 339 | 丰满 / 丰润  | 丰满 = berisi; 丰润 = berisi dan lembap/halus.                   | 丰满身材 / 丰润嘴唇   | 她的嘴唇很丰润。       | Menukar volume tubuh dengan nuansa halus.         |
+| 340 | 圆满 / 完满  | 圆满 = sempurna dan memuaskan hasilnya; 完满 = lengkap sempurna. | 圆满结束 / 完满方案   | 会议圆满结束。        | Memakai 完满 untuk penutupan acara yang natural 圆满. |
+| No  | Pasangan | Nuansa                                                                     | Kolokasi khas | Contoh kalimat | Kesalahan umum                                    |
+| --- | -------- | -------------------------------------------------------------------------- | ------------- | -------------- | ------------------------------------------------- |
+| 341 | 增加 / 增添  | 增加 = menambah jumlah; 增添 = menambahkan unsur/suasana.                      | 增加人数 / 增添气氛   | 这次活动增添了不少乐趣。   | Memakai 增添 untuk angka/jumlah.                    |
+| 342 | 增长 / 增加  | 增长 = tumbuh/bertambah bertahap; 增加 = menambah.                             | 增长速度 / 增加预算   | 人口不断增长。        | Menukar proses bertumbuh dan penambahan langsung. |
+| 343 | 减少 / 降低  | 减少 = berkurang jumlah; 降低 = menurunkan tingkat/harga.                      | 减少人数 / 降低成本   | 我们要降低风险。       | Memakai 减少 untuk derajat/level.                   |
+| 344 | 提高 / 提升  | 提高 = menaikkan level/kuantitas; 提升 = meningkatkan ke tingkat lebih tinggi. | 提高效率 / 提升职位   | 这门课提高了我的水平。    | Menukar kenaikan kualitas umum dan naik jabatan.  |
+| 345 | 下降 / 降低  | 下降 = turun; 降低 = menurunkan.                                               | 价格下降 / 降低温度   | 气温突然下降了。       | Memakai 降低 untuk perubahan yang terjadi sendiri.  |
+| 346 | 扩大 / 扩展  | 扩大 = memperbesar cakupan/ukuran; 扩展 = memperluas ke area baru.             | 扩大规模 / 扩展业务   | 公司正在扩展海外市场。    | Menukar memperbesar dan memperluas.               |
+| 347 | 缩小 / 缩减  | 缩小 = membuat lebih kecil; 缩减 = mengurangi skala/anggaran.                  | 缩小差距 / 缩减开支   | 我们需要缩减预算。      | Memakai 缩小 untuk pengurangan biaya.               |
+| 348 | 引导 / 指导  | 引导 = membimbing arah/proses; 指导 = memberi petunjuk/pengajaran.             | 引导方向 / 指导学习   | 老师指导我们写作文。     | Menukar bimbingan arah dan pengajaran.            |
+| 349 | 带动 / 促进  | 带动 = mendorong ikut bergerak; 促进 = mendorong perkembangan.                 | 带动消费 / 促进发展   | 这个政策带动了就业。     | Memakai 促进 saat yang dimaksud efek ikut bergerak. |
+| 350 | 推动 / 促进  | 推动 = mendorong ke depan; 促进 = mempercepat perkembangan.                    | 推动改革 / 促进交流   | 他们推动了项目进展。     | Menukar dorongan aktif dan perkembangan.          |
+| 351 | 适应 / 习惯  | 适应 = menyesuaikan diri; 习惯 = terbiasa.                                     | 适应环境 / 习惯生活   | 我已经习惯这里的天气。    | Memakai 适应 ketika maksudnya “sudah biasa”.        |
+| 352 | 控制 / 管制  | 控制 = mengendalikan; 管制 = membatasi secara resmi.                           | 控制情绪 / 管制交通   | 警方管制了这条路。      | Menukar control umum dan pembatasan resmi.        |
+| 353 | 维护 / 保护  | 维护 = menjaga/merawat sistem/hak; 保护 = melindungi.                          | 维护利益 / 保护环境   | 我们要保护水源。       | Memakai 维护 untuk perlindungan fisik langsung.     |
+| 354 | 取消 / 撤销  | 取消 = membatalkan; 撤销 = mencabut keputusan resmi.                           | 取消预约 / 撤销命令   | 会议被取消了。        | Memakai 撤销 untuk pembatalan biasa.                |
+| 355 | 归纳 / 总结  | 归纳 = menginduksi/merangkum dari data; 总结 = menyimpulkan.                   | 归纳规律 / 总结经验   | 请先总结一下重点。      | Menukar proses analisis dan simpulan.             |
+| 356 | 反映 / 体现  | 反映 = mencerminkan/menunjukkan; 体现 = mewujudkan/menjelmakan.                | 反映问题 / 体现价值   | 这件事体现了他的责任心。   | Memakai 反映 untuk abstraksi yang seharusnya 体现.    |
+| 357 | 表现 / 体现  | 表现 = menunjukkan perilaku/performansi; 体现 = mewujudkan ciri.               | 表现很好 / 体现精神   | 他的表现很好。        | Menukar performa nyata dengan penjelmaan sifat.   |
+| 358 | 改善 / 改进  | 改善 = memperbaiki kondisi; 改进 = memperbaiki metode/teknik.                  | 改善生活 / 改进方法   | 我们需要改进设计。      | Menukar kondisi dan metode.                       |
+| 359 | 解释 / 澄清  | 解释 = menjelaskan; 澄清 = menjernihkan kesalahpahaman.                        | 解释原因 / 澄清误会   | 我想澄清一下这个问题。    | Memakai 解释 saat fokusnya meluruskan salah paham.  |
+| 360 | 压制 / 抑制  | 压制 = menekan secara kuat; 抑制 = menahan/menghambat.                         | 压制反对 / 抑制冲动   | 他努力抑制怒气。       | Menukar tekanan eksternal dan kontrol internal.   |
+| No  | Pasangan | Nuansa                                                            | Kolokasi khas | Contoh kalimat | Kesalahan umum                                  |
+| --- | -------- | ----------------------------------------------------------------- | ------------- | -------------- | ----------------------------------------------- |
+| 361 | 宏大 / 宏伟  | 宏大 = besar dalam skala/visi; 宏伟 = megah dan agung.                | 宏大叙事 / 宏伟建筑   | 这是一个宏伟计划。      | Memakai 宏大 untuk bangunan fisik yang perlu 宏伟.  |
+| 362 | 微弱 / 微小  | 微弱 = lemah/samar; 微小 = sangat kecil.                              | 微弱信号 / 微小差异   | 信号很微弱。         | Menukar intensitas dan ukuran.                  |
+| 363 | 坚固 / 牢固  | 坚固 = kuat kokoh; 牢固 = kuat melekat/stabil.                        | 坚固墙壁 / 牢固关系   | 这个结构很牢固。       | Memakai 牢固 untuk benda fisik biasa.             |
+| 364 | 坚韧 / 顽强  | 坚韧 = ulet, tahan banting; 顽强 = gigih keras kepala dalam bertahan. | 坚韧品质 / 顽强生命力  | 他有很坚韧的意志。      | Menukar ketahanan dan kegigihan.                |
+| 365 | 温柔 / 柔美  | 温柔 = lembut penuh kasih; 柔美 = lembut dan indah.                   | 温柔声音 / 柔美线条   | 她的舞姿很柔美。       | Memakai 温柔 untuk bentuk visual artistik.        |
+| 366 | 鲜艳 / 艳丽  | 鲜艳 = cerah menyala; 艳丽 = sangat mencolok/menarik.                 | 鲜艳颜色 / 艳丽服装   | 花朵颜色很鲜艳。       | Menukar warna cerah dan tampilan mencolok.      |
+| 367 | 缓和 / 温和  | 缓和 = mereda/menjadi lebih ringan; 温和 = lembut/moderat.            | 缓和局势 / 温和气候   | 关系已经缓和了。       | Memakai 温和 untuk perubahan situasi.             |
+| 368 | 简陋 / 破旧  | 简陋 = sederhana dan kurang layak; 破旧 = tua dan rusak.              | 简陋房子 / 破旧家具   | 这间屋子很简陋。       | Menukar kekurangan fasilitas dan kondisi rusak. |
+| 369 | 复杂 / 繁琐  | 复杂 = rumit; 繁琐 = terlalu banyak detail merepotkan.                | 复杂问题 / 繁琐手续   | 手续太繁琐了。        | Memakai 复杂 untuk prosedur yang merepotkan.      |
+| 370 | 强烈 / 浓烈  | 强烈 = kuat/intens; 浓烈 = kental/pekat/kuat aromanya.                | 强烈反应 / 浓烈香味   | 这酒味道很浓烈。       | Menukar intensitas emosi dengan aroma/rasa.     |
+| 371 | 朴实 / 质朴  | 朴实 = sederhana dan jujur; 质朴 = polos alami.                       | 朴实性格 / 质朴风格   | 他的作品很质朴。       | Memakai 朴实 untuk estetika karya.                |
+| 372 | 轻盈 / 轻快  | 轻盈 = ringan anggun; 轻快 = ringan dan cepat.                        | 轻盈舞步 / 轻快步伐   | 她走路很轻快。        | Menukar keanggunan dan kecepatan gerak.         |
+| 373 | 纤细 / 细长  | 纤细 = sangat ramping/halus; 细长 = tipis dan panjang.                | 纤细手指 / 细长线条   | 她有一双细长的手。      | Memakai 纤细 untuk bentuk panjang.                |
+| 374 | 圆润 / 滑润  | 圆润 = bulat halus; 滑润 = licin/lentur halus.                        | 圆润声音 / 滑润皮肤   | 他的声音很圆润。       | Menukar kualitas suara dan tekstur.             |
+| 375 | 暗淡 / 昏暗  | 暗淡 = redup, suram; 昏暗 = gelap redup.                              | 暗淡前景 / 昏暗灯光   | 房间里很昏暗。        | Memakai 昏暗 untuk masa depan/harapan.            |
+| 376 | 明朗 / 开朗  | 明朗 = cerah/jelas; 开朗 = ceria/terbuka.                             | 明朗天气 / 开朗性格   | 他性格很开朗。        | Menukar cuaca/jelas dengan kepribadian ceria.   |
+| 377 | 端正 / 工整  | 端正 = rapi dan lurus; 工整 = tulisan rapi teratur.                   | 端正姿势 / 工整字迹   | 他的字写得很工整。      | Memakai 端正 untuk tulisan.                       |
+| 378 | 妥当 / 恰当  | 妥当 = layak, pantas, aman; 恰当 = tepat, cocok.                      | 妥当安排 / 恰当措辞   | 这个说法很恰当。       | Menukar tepat konteks dan aman-layak.           |
+| 379 | 合理 / 合法  | 合理 = masuk akal; 合法 = legal.                                      | 合理建议 / 合法手续   | 这个要求不合理。       | Menukar logis dengan legal.                     |
+| 380 | 正常 / 正规  | 正常 = normal; 正规 = resmi/standar.                                  | 正常情况 / 正规学校   | 这是正常反应。        | Menukar normal dengan formal/resmi.             |
+| No  | Pasangan | Nuansa                                                                       | Kolokasi khas | Contoh kalimat | Kesalahan umum                                      |
+| --- | -------- | ---------------------------------------------------------------------------- | ------------- | -------------- | --------------------------------------------------- |
+| 381 | 采纳 / 采取  | 采纳 = mengadopsi ide/saran; 采取 = mengambil tindakan/langkah.                  | 采纳建议 / 采取措施   | 他们采纳了我的建议。     | Menukar ide yang diadopsi dan langkah yang diambil. |
+| 382 | 采用 / 采纳  | 采用 = memakai metode; 采纳 = menerima usulan.                                   | 采用方法 / 采纳意见   | 公司采用了新技术。      | Memakai 采纳 untuk metode.                            |
+| 383 | 采集 / 收集  | 采集 = mengumpulkan dari sumber alami; 收集 = mengumpulkan umum.                 | 采集样本 / 收集信息   | 科学家采集了土壤样本。    | Memakai 收集 untuk sampel lapangan.                   |
+| 384 | 搜索 / 搜寻  | 搜索 = mencari dengan sistem/teknologi; 搜寻 = mencari dengan teliti.            | 搜索网页 / 搜寻目标   | 我在网上搜索资料。      | Menukar pencarian digital dan pencarian teliti.     |
+| 385 | 寻找 / 寻求  | 寻找 = mencari benda/orang; 寻求 = mencari solusi/bantuan.                       | 寻找工作 / 寻求帮助   | 他在寻找新的机会。      | Memakai 寻求 untuk objek fisik.                       |
+| 386 | 探索 / 探讨  | 探索 = menjelajah/menggali yang belum diketahui; 探讨 = membahas/mengkaji.       | 探索未知 / 探讨问题   | 我们正在探索新方法。     | Menukar eksplorasi dan diskusi.                     |
+| 387 | 发现 / 发觉  | 发现 = menemukan; 发觉 = menyadari/menemukan setelah sadar.                      | 发现问题 / 发觉不对   | 我发现钥匙不见了。      | Menukar penemuan dengan kesadaran.                  |
+| 388 | 察觉 / 觉察  | 察觉 = menyadari dengan peka; 觉察 = merasakan/menyadari.                        | 察觉变化 / 觉察异常   | 他察觉到气氛不对。      | Memakai keduanya tanpa lihat tingkat kepekaan.      |
+| 389 | 暴露 / 透露  | 暴露 = membongkar/mengekspos; 透露 = mengungkapkan secara terbatas.              | 暴露真相 / 透露消息   | 他透露了部分信息。      | Menukar pembongkaran dan pengungkapan kecil.        |
+| 390 | 揭露 / 公开  | 揭露 = membongkar hal tersembunyi; 公开 = mempublikasikan/terbuka.               | 揭露真相 / 公开声明   | 媒体揭露了内幕。       | Memakai 公开 untuk tindakan membongkar.               |
+| 391 | 批准 / 批评  | 批准 = menyetujui resmi; 批评 = mengkritik.                                      | 批准申请 / 批评错误   | 申请已经批准了。       | Menukar persetujuan resmi dan kritik.               |
+| 392 | 审核 / 审查  | 审核 = memeriksa kelengkapan/kelayakan; 审查 = meninjau/menyensor secara formal. | 审核文件 / 审查内容   | 他们正在审核材料。      | Menukar pemeriksaan teknis dan formal.              |
+| 393 | 核实 / 验证  | 核实 = memeriksa kebenaran; 验证 = memverifikasi dengan bukti/tes.               | 核实身份 / 验证结果   | 请先核实信息。        | Memakai 验证 saat sekadar konfirmasi.                 |
+| 394 | 认证 / 证明  | 认证 = sertifikasi/pengesahan; 证明 = membuktikan.                               | 认证身份 / 证明事实   | 这份文件可以证明你的身份。  | Menukar sertifikasi dan bukti.                      |
+| 395 | 申报 / 申诉  | 申报 = melaporkan/deklarasi; 申诉 = mengajukan keberatan/banding.                | 申报税务 / 申诉结果   | 请按时申报。         | Menukar deklarasi dan banding.                      |
+| 396 | 举报 / 报告  | 举报 = melaporkan pelanggaran; 报告 = laporan umum.                              | 举报违法 / 报告情况   | 你可以举报他。        | Memakai 报告 untuk pengaduan pelanggaran.             |
+| 397 | 传达 / 转达  | 传达 = menyampaikan pesan resmi; 转达 = menyampaikan lewat perantara.            | 传达精神 / 转达消息   | 请转达我的谢意。       | Menukar penyampaian resmi dan perantara.            |
+| 398 | 通传 / 通告  | 通传 = menyampaikan secara luas; 通告 = pengumuman resmi.                        | 通传命令 / 通告全体   | 公司发布了通告。       | Memakai 通传 untuk pengumuman tertulis.               |
+| 399 | 分配 / 分派  | 分配 = membagi jatah; 分派 = menugaskan/mendistribusikan.                        | 分配资源 / 分派任务   | 老板分派了任务。       | Menukar pembagian dan penugasan.                    |
+| 400 | 安排 / 布置  | 安排 = mengatur; 布置 = menata/mensetting.                                       | 安排日程 / 布置教室   | 老师布置了作业。       | Menukar penjadwalan dan penataan tugas/ruang.       |
+| No  | Pasangan | Nuansa                                                      | Kolokasi khas | Contoh kalimat | Kesalahan umum                                                          |
+| --- | -------- | ----------------------------------------------------------- | ------------- | -------------- | ----------------------------------------------------------------------- |
+| 401 | 明显 / 显著  | 明显 = jelas tampak; 显著 = sangat menonjol, formal.            | 明显变化 / 显著成效   | 效果很显著。         | Memakai 显著 untuk semua hal terlihat biasa.                              |
+| 402 | 深奥 / 深刻  | 深奥 = sulit dipahami karena abstrak; 深刻 = mendalam bermakna. | 深奥理论 / 深刻理解   | 这个理论很深奥。       | Menukar sulit dipahami dan bermakna mendalam.                           |
+| 403 | 严重 / 恶劣  | 严重 = parah; 恶劣 = buruk sekali, jelek.                       | 严重后果 / 恶劣天气   | 天气条件很恶劣。       | Memakai 严重 untuk kualitas moral/cuaca.                                  |
+| 404 | 恶化 / 严重  | 恶化 = memburuk; 严重 = parah.                                  | 病情恶化 / 情况严重   | 他的病情恶化了。       | Menukar proses memburuk dan tingkat parah.                              |
+| 405 | 广阔 / 辽阔  | 广阔 = luas; 辽阔 = sangat luas membentang.                     | 广阔市场 / 辽阔草原   | 这里有辽阔的草原。      | Memakai 辽阔 untuk ruang biasa.                                           |
+| 406 | 开阔 / 宽阔  | 开阔 = lapang/terbuka; 宽阔 = lebar.                            | 开阔视野 / 宽阔道路   | 站在这里视野很开阔。     | Menukar lapang pandangan dan lebar fisik.                               |
+| 407 | 贫乏 / 缺乏  | 贫乏 = miskin/kekurangan kualitas; 缺乏 = kekurangan.           | 贫乏经验 / 缺乏资金   | 他的想法很贫乏。       | Memakai 缺乏 untuk “miskin” abstrak bernuansa kualitas.                   |
+| 408 | 残酷 / 严酷  | 残酷 = kejam; 严酷 = keras berat.                               | 残酷现实 / 严酷考验   | 这是一个严酷的环境。     | Menukar kejam moral dan keras kondisi.                                  |
+| 409 | 尴尬 / 炎热  | 尴尬 = canggung; 炎热 = panas.                                  | 尴尬场面 / 炎热天气   | 场面很尴尬。         | Salah kategori, sering tertukar karena bunyi mirip dalam latihan cepat. |
+| 410 | 得体 / 合体  | 得体 = pantas/appropriate; 合体 = pas ukuran/fit badan.         | 得体举止 / 合体衣服   | 这套衣服很合体。       | Memakai 得体 untuk ukuran pakaian.                                        |
+| 411 | 端庄 / 庄重  | 端庄 = anggun sopan; 庄重 = khidmat serius.                     | 端庄打扮 / 庄重场合   | 她举止很端庄。        | Menukar elegan sopan dan khidmat serius.                                |
+| 412 | 热烈 / 强烈  | 热烈 = hangat antusias; 强烈 = intens kuat.                     | 热烈欢迎 / 强烈要求   | 现场气氛很热烈。       | Menukar suasana antusias dan intensitas.                                |
+| 413 | 新颖 / 别致  | 新颖 = baru dan inovatif; 别致 = unik menarik.                  | 新颖设计 / 别致风格   | 这个创意很新颖。       | Menukar kebaruan dan keunikan gaya.                                     |
+| 414 | 奇特 / 奇妙  | 奇特 = aneh/unik; 奇妙 = menakjubkan/magis.                     | 奇特现象 / 奇妙经历   | 这是一次奇妙的旅程。     | Menukar keanehan dengan keajaiban.                                      |
+| 415 | 神秘 / 奥秘  | 神秘 = misterius; 奥秘 = rahasia mendalam.                      | 神秘人物 / 宇宙奥秘   | 宇宙有很多奥秘。       | Memakai 奥秘 untuk orang yang misterius.                                  |
+| 416 | 偏僻 / 偏远  | 偏僻 = terpencil dan sepi; 偏远 = jauh dari pusat.              | 偏僻小路 / 偏远地区   | 这里位置很偏远。       | Menukar terpencil dan jauh.                                             |
+| 417 | 紧急 / 急迫  | 紧急 = darurat; 急迫 = mendesak.                                | 紧急情况 / 急迫任务   | 这是紧急事件。        | Memakai 急迫 untuk keadaan darurat.                                       |
+| 418 | 突出 / 显著  | 突出 = menonjol; 显著 = sangat jelas/menonjol.                  | 突出问题 / 显著效果   | 这个特点很突出。       | Menukar “menonjol” dan “signifikan”.                                    |
+| 419 | 平衡 / 均衡  | 平衡 = seimbang; 均衡 = proporsional/merata.                    | 平衡饮食 / 均衡发展   | 我们要保持均衡。       | Memakai 均衡 untuk keseimbangan fisik sederhana.                          |
+| 420 | 稳妥 / 妥善  | 稳妥 = aman dan mantap; 妥善 = layak dan tepat.                 | 稳妥处理 / 妥善安排   | 请妥善保存文件。       | Menukar aman-tidak berisiko dan penanganan yang tepat.                  |
+| No  | Pasangan | Nuansa                                                                    | Kolokasi khas | Contoh kalimat | Kesalahan umum                                     |
+| --- | -------- | ------------------------------------------------------------------------- | ------------- | -------------- | -------------------------------------------------- |
+| 421 | 建议 / 提议  | 建议 = menyarankan; 提议 = mengusulkan, biasanya dalam rapat/resmi.           | 建议你休息 / 提议方案  | 我建议你先吃饭。       | Memakai 提议 untuk saran ringan sehari-hari.         |
+| 422 | 警告 / 告诫  | 警告 = memperingatkan; 告诫 = menasihati keras/peringatan moral.              | 警告一次 / 告诫学生   | 老师警告他不要迟到。     | Menukar peringatan umum dengan nasihat keras.      |
+| 423 | 审视 / 审查  | 审视 = menelaah dengan cermat; 审查 = memeriksa secara formal.                | 审视自己 / 审查文件   | 他审视了整个计划。      | Memakai 审查 untuk refleksi pribadi.                 |
+| 424 | 指出 / 指明  | 指出 = menunjukkan/mengemukakan; 指明 = menunjukkan dengan jelas arah/objek.  | 指出问题 / 指明方向   | 请指出错误在哪里。      | Memakai 指明 saat hanya perlu “menunjukkan”.         |
+| 425 | 说明 / 阐明  | 说明 = menjelaskan; 阐明 = menjabarkan dengan lebih terang dan formal.        | 说明情况 / 阐明观点   | 文章阐明了这个理论。     | Menukar penjelasan umum dan elaborasi formal.      |
+| 426 | 认定 / 确定  | 认定 = menetapkan keyakinan/menilai bahwa; 确定 = memastikan.                 | 认定事实 / 确定时间   | 我们已经确定了日期。     | Memakai 认定 untuk konfirmasi biasa.                 |
+| 427 | 认可 / 承认  | 认可 = mengakui/menyetujui; 承认 = mengakui fakta/kesalahan.                  | 认可方案 / 承认错误   | 他承认了自己的失误。     | Menukar persetujuan dan pengakuan kesalahan.       |
+| 428 | 倾诉 / 诉说  | 倾诉 = mencurahkan isi hati; 诉说 = menceritakan dengan emosi.                | 倾诉烦恼 / 诉说经历   | 她向朋友倾诉了心事。     | Memakai 诉说 untuk curhat intim.                     |
+| 429 | 询问 / 查询  | 询问 = bertanya; 查询 = mengecek lewat sistem/rekor.                          | 询问情况 / 查询余额   | 我想查询一下快递状态。    | Memakai 询问 untuk cek database.                     |
+| 430 | 申请 / 申办  | 申请 = mengajukan; 申办 = mengurus/mengajukan pengadaan/izin resmi.           | 申请签证 / 申办手续   | 他申请了奖学金。       | Memakai 申办 untuk semua permohonan.                 |
+| 431 | 保障 / 保证  | 保障 = menjamin perlindungan/kepastian; 保证 = menjamin/menjamin sumpah.      | 保障安全 / 保证质量   | 公司保证产品质量。      | Menukar perlindungan sistem dan jaminan pribadi.   |
+| 432 | 保持 / 维持  | 保持 = mempertahankan keadaan; 维持 = menjaga agar tetap berlangsung.         | 保持联系 / 维持秩序   | 请保持安静。         | Memakai 维持 untuk kondisi umum yang cukup 保持.       |
+| 433 | 传授 / 教授  | 传授 = mewariskan/mengajarkan keterampilan; 教授 = mengajar formal.           | 传授经验 / 教授课程   | 老师教授我们语法。      | Menukar mengajar formal dan transfer keterampilan. |
+| 434 | 训练 / 练习  | 训练 = melatih sistematis; 练习 = berlatih.                                   | 训练士兵 / 练习发音   | 我每天练习口语。       | Memakai 训练 untuk latihan pribadi ringan.           |
+| 435 | 展示 / 显示  | 展示 = memamerkan/menampilkan; 显示 = memperlihatkan/menunjukkan data.        | 展示作品 / 显示结果   | 屏幕显示了信息。       | Menukar display visual dan output data.            |
+| 436 | 呈现 / 展现  | 呈现 = tampak/terlihat sebagai; 展现 = menampilkan secara aktif.              | 呈现趋势 / 展现风采   | 这幅画展现了城市风貌。    | Memakai 呈现 saat yang dimaksud penonjolan aktif.    |
+| 437 | 提交 / 递交  | 提交 = menyerahkan resmi; 递交 = menyerahkan secara formal, biasanya dokumen. | 提交报告 / 递交申请   | 请提交表格。         | Memakai 递交 untuk tugas biasa.                      |
+| 438 | 反驳 / 驳斥  | 反驳 = membantah; 驳斥 = membantah keras/resmi.                               | 反驳观点 / 驳斥谣言   | 他反驳了这个说法。      | Menukar bantahan biasa dan bantahan kuat.          |
+| 439 | 推翻 / 否定  | 推翻 = menjatuhkan/membongkar; 否定 = menyangkal.                             | 推翻结论 / 否定判断   | 研究推翻了旧理论。      | Memakai 否定 untuk pembalikan hasil.                 |
+| 440 | 化解 / 消除  | 化解 = meredakan/mencairkan konflik; 消除 = menghilangkan.                    | 化解矛盾 / 消除影响   | 他们设法化解了误会。     | Menukar meredakan dan menghapus total.             |
+| No  | Pasangan | Nuansa                                                              | Kolokasi khas | Contoh kalimat | Kesalahan umum                                  |
+| --- | -------- | ------------------------------------------------------------------- | ------------- | -------------- | ----------------------------------------------- |
+| 441 | 稳健 / 稳重  | 稳健 = stabil dan hati-hati; 稳重 = tenang dewasa.                      | 稳健增长 / 稳重性格   | 他的投资风格很稳健。     | Menukar gaya tindakan dengan sifat pribadi.     |
+| 442 | 明媚 / 明朗  | 明媚 = cerah indah; 明朗 = cerah jelas.                                 | 明媚春光 / 明朗天气   | 春天的阳光很明媚。      | Memakai 明朗 untuk keindahan puitis.              |
+| 443 | 清澈 / 清晰  | 清澈 = bening jernih; 清晰 = jelas tajam.                               | 清澈河水 / 清晰图像   | 这条河水很清澈。       | Menukar jernih air dan jelas gambar.            |
+| 444 | 纷乱 / 混乱  | 纷乱 = kacau berantakan; 混乱 = kacau tidak teratur.                    | 纷乱思绪 / 混乱局面   | 现场很混乱。         | Memakai 纷乱 untuk kondisi umum yang cukup 混乱.    |
+| 445 | 阴沉 / 忧郁  | 阴沉 = muram gelap; 忧郁 = murung sedih.                                | 阴沉天空 / 忧郁神情   | 他的脸色很阴沉。       | Menukar suasana gelap dan perasaan sedih.       |
+| 446 | 鲜明 / 明显  | 鲜明 = jelas dan tegas, kontras; 明显 = jelas tampak.                   | 鲜明对比 / 明显变化   | 这两个观点对比很鲜明。    | Memakai 明显 saat nuansa kontras kuat dibutuhkan. |
+| 447 | 健康 / 结实  | 健康 = sehat; 结实 = kuat dan kokoh.                                    | 健康身体 / 结实桌子   | 他身体很健康。        | Menukar sehat dan kokoh fisik.                  |
+| 448 | 肥沃 / 丰富  | 肥沃 = subur tanah; 丰富 = berlimpah/kaya.                              | 肥沃土地 / 资源丰富   | 这片土地很肥沃。       | Memakai 丰富 untuk tanah subur.                   |
+| 449 | 繁荣 / 兴旺  | 繁荣 = makmur maju; 兴旺 = ramai berkembang.                            | 经济繁荣 / 生意兴旺   | 这个地区很繁荣。       | Menukar ekonomi maju dan bisnis ramai.          |
+| 450 | 纯粹 / 单纯  | 纯粹 = murni semata; 单纯 = sederhana/polos.                            | 纯粹兴趣 / 单纯想法   | 我是纯粹为了学习。      | Memakai 单纯 untuk niat murni.                    |
+| 451 | 苛刻 / 严格  | 苛刻 = terlalu keras/tidak toleran; 严格 = ketat.                       | 苛刻条件 / 严格要求   | 他的要求很苛刻。       | Menukar ketat normal dengan terlalu keras.      |
+| 452 | 诚挚 / 真诚  | 诚挚 = sangat tulus/formal; 真诚 = tulus nyata.                         | 诚挚欢迎 / 真诚感谢   | 我向你表示诚挚的谢意。    | Memakai 诚挚 untuk percakapan santai biasa.       |
+| 453 | 雄厚 / 强大  | 雄厚 = kuat besar secara modal/sumber daya; 强大 = kuat umum.           | 雄厚资金 / 强大实力   | 公司资金雄厚。        | Menukar kekuatan abstrak dan kekayaan modal.    |
+| 454 | 细碎 / 细小  | 细碎 = kecil-kecil dan banyak; 细小 = kecil sekali.                     | 细碎杂事 / 细小颗粒   | 这些都是细碎的事情。     | Menukar detail remeh dan ukuran kecil.          |
+| 455 | 疏忽 / 马虎  | 疏忽 = kelalaian; 马虎 = ceroboh asal-asalan.                           | 疏忽大意 / 马虎检查   | 这是一次严重的疏忽。     | Memakai 马虎 untuk kelalaian formal.              |
+| 456 | 急剧 / 剧烈  | 急剧 = sangat cepat/menyolok; 剧烈 = keras hebat.                       | 急剧下降 / 剧烈反应   | 价格急剧上升。        | Menukar perubahan cepat dan intensitas hebat.   |
+| 457 | 模糊 / 朦胧  | 模糊 = tidak jelas; 朦胧 = samar puitis.                                | 模糊印象 / 朦胧月色   | 我记忆有点模糊。       | Menukar samar artistik dan tidak jelas.         |
+| 458 | 破碎 / 碎裂  | 破碎 = pecah berkeping; 碎裂 = retak/pecah halus.                       | 破碎玻璃 / 碎裂痕迹   | 玻璃已经碎裂了。       | Memakai 破碎 untuk retakan kecil.                 |
+| 459 | 透明 / 清透  | 透明 = tembus pandang; 清透 = jernih bersih, sering untuk kulit/cairan. | 透明玻璃 / 清透肌肤   | 这款饮料很清透。       | Menukar bening fisik dan jernih segar.          |
+| 460 | 宁静 / 安宁  | 宁静 = tenang hening; 安宁 = tenteram aman.                             | 宁静夜晚 / 安宁生活   | 这里很安宁。         | Memakai 宁静 untuk rasa aman hidup.               |
+| No  | Pasangan | Nuansa                                                                        | Kolokasi khas | Contoh kalimat | Kesalahan umum                                        |
+| --- | -------- | ----------------------------------------------------------------------------- | ------------- | -------------- | ----------------------------------------------------- |
+| 461 | 承担 / 承受  | 承担 = memikul tanggung jawab/tugas; 承受 = menanggung beban/penderitaan.         | 承担责任 / 承受压力   | 他承担了全部责任。      | Memakai 承受 untuk tugas atau tanggung jawab.           |
+| 462 | 承办 / 办理  | 承办 = mengurus/menyelenggarakan acara/proyek; 办理 = memproses/menangani urusan. | 承办会议 / 办理手续   | 这家公司承办了活动。     | Menukar penyelenggaraan dan pemrosesan administratif. |
+| 463 | 协助 / 帮办  | 协助 = membantu secara formal; 帮办 = membantu mengurus/menangani.                | 协助调查 / 帮办事务   | 他协助警方调查。       | Memakai 帮办 untuk konteks formal modern yang jarang.   |
+| 464 | 处理 / 办理  | 处理 = menangani; 办理 = memproses/mengurus urusan.                               | 处理问题 / 办理签证   | 请尽快办理手续。       | Memakai 处理 untuk proses administrasi resmi.           |
+| 465 | 解释 / 阐释  | 解释 = menjelaskan; 阐释 = mengulas/menafsirkan secara formal.                    | 解释原因 / 阐释理论   | 这篇论文阐释了新观点。    | Menukar penjelasan biasa dan elaborasi akademik.      |
+| 466 | 整理 / 收拾  | 整理 = menata secara sistematis; 收拾 = membereskan/beres-beres.                  | 整理资料 / 收拾房间   | 请整理一下文件。       | Memakai 收拾 untuk file/data yang lebih tepat 整理.       |
+| 467 | 排除 / 排斥  | 排除 = mengeliminasi; 排斥 = menolak/mengasingkan.                                | 排除故障 / 排斥异己   | 我们先排除可能性。      | Menukar eliminasi teknis dan penolakan sosial.        |
+| 468 | 依赖 / 依靠  | 依赖 = bergantung (sering negatif); 依靠 = mengandalkan/bergantung.               | 依赖别人 / 依靠支持   | 他太依赖手机了。       | Memakai 依靠 untuk ketergantungan negatif yang kuat.    |
+| 469 | 寻觅 / 寻找  | 寻觅 = mencari dengan nuansa literer; 寻找 = mencari umum.                        | 寻觅机会 / 寻找答案   | 他在寻找出路。        | Memakai 寻觅 di konteks biasa yang terlalu puitis.      |
+| 470 | 诉苦 / 倾诉  | 诉苦 = mengeluh soal kesulitan; 倾诉 = mencurahkan isi hati.                      | 诉苦连连 / 倾诉心事   | 她向我倾诉了烦恼。      | Menukar keluhan dan curhat emosional.                 |
+| 471 | 想象 / 臆想  | 想象 = membayangkan; 臆想 = mengada-ada/khayalan tak berdasar.                    | 想象未来 / 臆想事实   | 你不要胡乱臆想。       | Memakai 臆想 untuk imajinasi netral.                    |
+| 472 | 估计 / 预计  | 估计 = memperkirakan kasar; 预计 = memprediksi berdasarkan perhitungan.           | 估计时间 / 预计结果   | 我估计他会迟到。       | Memakai 预计 untuk tebakan kasar.                       |
+| 473 | 判断 / 断定  | 判断 = menilai/memutuskan; 断定 = memastikan dengan yakin.                        | 判断情况 / 断定结论   | 不能轻易断定。        | Memakai 断定 saat hanya perlu penilaian.                |
+| 474 | 证明 / 证实  | 证明 = membuktikan; 证实 = mengonfirmasi kebenaran.                               | 证明身份 / 证实消息   | 这能证明你的观点。      | Menukar bukti dan verifikasi fakta.                   |
+| 475 | 总结 / 概括  | 总结 = menyimpulkan hasil; 概括 = merangkum inti.                                 | 总结经验 / 概括内容   | 请先概括文章主旨。      | Memakai 总结 untuk ringkasan isi.                       |
+| 476 | 设想 / 假设  | 设想 = membayangkan skenario; 假设 = mengasumsikan.                               | 设想未来 / 假设条件   | 假设他来了，我们怎么办？   | Menukar skenario imajinatif dan asumsi formal.        |
+| 477 | 怀疑 / 猜疑  | 怀疑 = meragukan; 猜疑 = curiga tanpa dasar kuat.                                 | 怀疑结果 / 猜疑别人   | 我怀疑这个消息不真。     | Memakai 猜疑 untuk keraguan logis biasa.                |
+| 478 | 辨认 / 识别  | 辨认 = mengenali melalui pembeda; 识别 = mengidentifikasi.                        | 辨认身份 / 识别图像   | 系统能识别声音。       | Menukar identifikasi teknis dan pengenalan.           |
+| 479 | 消耗 / 耗费  | 消耗 = menghabiskan energi/sumber; 耗费 = menghabiskan waktu/tenaga/uang.         | 消耗体力 / 耗费时间   | 这项工作耗费很多时间。    | Menukar konsumsi sumber dan pengeluaran waktu.        |
+| 480 | 损害 / 伤害  | 损害 = merugikan/merusak; 伤害 = melukai atau merugikan secara emosional/fisik.   | 损害利益 / 伤害感情   | 这会伤害他的自尊。      | Memakai 伤害 untuk kerusakan benda formal.              |
+| No  | Pasangan | Nuansa                                                                  | Kolokasi khas | Contoh kalimat | Kesalahan umum                                   |
+| --- | -------- | ----------------------------------------------------------------------- | ------------- | -------------- | ------------------------------------------------ |
+| 481 | 狭窄 / 逼仄  | 狭窄 = sempit; 逼仄 = sangat sempit dan menekan.                            | 狭窄道路 / 逼仄房间   | 这间屋子很逼仄。       | Memakai 逼仄 untuk semua sempit biasa.             |
+| 482 | 广泛 / 普遍  | 广泛 = luas cakupannya; 普遍 = umum terjadi.                                | 广泛应用 / 普遍现象   | 这种观点很普遍。       | Menukar cakupan dan frekuensi umum.              |
+| 483 | 深厚 / 深沉  | 深厚 = mendalam dan kuat; 深沉 = dalam, berat, tenang.                      | 深厚感情 / 深沉语气   | 他们有深厚友谊。       | Memakai 深沉 untuk hubungan/perasaan.              |
+| 484 | 微妙 / 玄妙  | 微妙 = subtle, halus; 玄妙 = misterius dan mendalam.                        | 微妙变化 / 玄妙理论   | 这个道理很玄妙。       | Menukar subtilitas dengan kemisteriusan.         |
+| 485 | 典型 / 经典  | 典型 = representatif; 经典 = klasik, sangat terkenal/bernilai.              | 典型例子 / 经典作品   | 这是一部经典电影。      | Memakai 典型 untuk karya terkenal.                 |
+| 486 | 朴实 / 朴拙  | 朴实 = sederhana jujur; 朴拙 = polos canggung tapi asli.                    | 朴实作风 / 朴拙笔触   | 他的画风很朴拙。       | Menukar kesederhanaan dan kepolosan kasar.       |
+| 487 | 强劲 / 强烈  | 强劲 = kuat bertenaga; 强烈 = intens kuat.                                  | 强劲动力 / 强烈反应   | 风力很强劲。         | Menukar tenaga fisik dengan intensitas emosi.    |
+| 488 | 稳妥 / 稳重  | 稳妥 = aman, tepat; 稳重 = tenang dewasa.                                   | 稳妥安排 / 稳重性格   | 这样处理更稳妥。       | Memakai 稳重 untuk strategi keputusan.             |
+| 489 | 轻柔 / 柔和  | 轻柔 = lembut ringan; 柔和 = lembut halus.                                  | 轻柔音乐 / 柔和灯光   | 她的声音很轻柔。       | Menukar gaya lembut dan cahaya/lampu.            |
+| 490 | 明丽 / 明媚  | 明丽 = cerah indah; 明媚 = cerah menyenangkan.                              | 明丽色彩 / 明媚春光   | 这里风景很明媚。       | Memakai 明丽 untuk suasana alam yang natural.      |
+| 491 | 婉转 / 委婉  | 婉转 = berputar halus; 委婉 = tidak langsung sopan.                         | 婉转语气 / 委婉拒绝   | 她委婉地拒绝了。       | Menukar retorika halus dan penolakan sopan.      |
+| 492 | 俏丽 / 漂亮  | 俏丽 = cantik lincah/menarik; 漂亮 = cantik umum.                           | 俏丽身影 / 漂亮衣服   | 她看起来很俏丽。       | Memakai 俏丽 untuk semua benda bagus.              |
+| 493 | 恬静 / 安静  | 恬静 = tenang lembut, sering untuk orang/lingkungan; 安静 = tidak berisik.  | 恬静气质 / 安静教室   | 她性格很恬静。        | Menukar kepribadian lembut dengan tidak bising.  |
+| 494 | 粗犷 / 粗糙  | 粗犷 = gagah liar, juga kasar dalam gaya; 粗糙 = kasar permukaan/pekerjaan. | 粗犷风格 / 粗糙表面   | 他的画风很粗犷。       | Menukar gaya artistik dengan tekstur kasar.      |
+| 495 | 雍容 / 端庄  | 雍容 = anggun berwibawa; 端庄 = sopan anggun.                               | 雍容气度 / 端庄举止   | 她显得很端庄。        | Memakai 雍容 untuk semua kesopanan.                |
+| 496 | 丰盈 / 丰满  | 丰盈 = penuh berisi dan indah; 丰满 = berisi.                               | 丰盈身姿 / 丰满脸庞   | 她的头发很丰盈。       | Memakai 丰满 untuk kesan estetis yang lebih halus. |
+| 497 | 灿烂 / 辉煌  | 灿烂 = cemerlang bersinar; 辉煌 = gemilang besar.                           | 灿烂笑容 / 辉煌成就   | 他的前途很辉煌。       | Menukar cahaya visual dan prestasi besar.        |
+| 498 | 刚强 / 坚强  | 刚强 = tegas keras hati; 坚强 = kuat dan tahan.                             | 刚强性格 / 坚强意志   | 她非常坚强。         | Memakai 刚强 untuk semua kekuatan mental.          |
+| 499 | 沉稳 / 稳重  | 沉稳 = tenang mantap; 稳重 = dewasa tenang.                                 | 沉稳步伐 / 稳重性格   | 他做事很沉稳。        | Menukar ketenangan tindakan dan sifat dewasa.    |
+| 500 | 纯真 / 天真  | 纯真 = murni polos; 天真 = polos kekanak-kanakan.                           | 纯真笑容 / 天真想法   | 孩子的笑容很纯真。      | Memakai 天真 saat maksudnya kemurnian polos.       |
+| No  | Pasangan | Nuansa                                                              | Kolokasi khas | Contoh kalimat | Kesalahan umum                                      |
+| --- | -------- | ------------------------------------------------------------------- | ------------- | -------------- | --------------------------------------------------- |
+| 501 | 安置 / 放置  | 安置 = menempatkan dengan rapi/resmi; 放置 = meletakkan/membiarkan.     | 安置伤员 / 放置物品   | 请把设备安置好。       | Memakai 放置 saat nuansanya perlu resmi/rapi.         |
+| 502 | 处理 / 处置  | 处理 = menangani; 处置 = tindakan penanganan resmi, sering tegas.       | 处理事务 / 处置突发事件 | 警方正在处置事件。      | Menukar penanganan umum dan tindakan resmi.         |
+| 503 | 采纳 / 接纳  | 采纳 = mengadopsi saran; 接纳 = menerima orang/hal.                     | 采纳建议 / 接纳新成员  | 他们接纳了我的意见。     | Memakai 采纳 untuk menerima orang.                    |
+| 504 | 接纳 / 容纳  | 接纳 = menerima; 容纳 = menampung/menyediakan ruang.                    | 接纳难民 / 容纳人数   | 这个房间能容纳很多人。    | Menukar menerima dan menampung.                     |
+| 505 | 照料 / 照顾  | 照料 = merawat lebih formal; 照顾 = mengurus umum.                      | 照料病人 / 照顾孩子   | 她在医院照料老人。      | Memakai 照料 untuk konteks santai yang cukup 照顾.      |
+| 506 | 保管 / 保存  | 保管 = menjaga/menitipkan; 保存 = menyimpan agar tidak rusak/hilang.    | 保管钥匙 / 保存文件   | 请妥善保管证件。       | Menukar penjagaan fisik dan penyimpanan data.       |
+| 507 | 管理 / 经营  | 管理 = mengelola; 经营 = menjalankan/mengoperasikan usaha.              | 管理团队 / 经营公司   | 他经营一家餐馆。       | Memakai 管理 untuk operasional bisnis penuh.          |
+| 508 | 经营 / 运作  | 经营 = mengelola usaha; 运作 = beroperasi/berjalan.                     | 经营生意 / 运作机制   | 这个系统正在运作。      | Menukar bisnis dan operasi sistem.                  |
+| 509 | 维修 / 保修  | 维修 = memperbaiki; 保修 = garansi/perbaikan dalam masa jaminan.        | 维修电脑 / 保修一年   | 这台机器还在保修期内。    | Memakai 维修 untuk masa garansi.                      |
+| 510 | 修补 / 修复  | 修补 = menambal; 修复 = memulihkan.                                     | 修补衣服 / 修复文物   | 工人正在修补漏洞。      | Menukar tambal kecil dengan restorasi.              |
+| 511 | 安排 / 调度  | 安排 = mengatur; 调度 = menjadwalkan/menyusun pengiriman atau personel. | 安排会议 / 调度车辆   | 他负责调度人手。       | Memakai 调度 untuk jadwal biasa.                      |
+| 512 | 调整 / 协调  | 调整 = menyesuaikan; 协调 = mengoordinasikan agar selaras.              | 调整计划 / 协调关系   | 需要协调各部门。       | Menukar penyesuaian dan koordinasi.                 |
+| 513 | 指导 / 辅导  | 指导 = membimbing; 辅导 = membina/mengajar tambahan.                    | 指导工作 / 辅导作业   | 老师辅导学生学习。      | Memakai 指导 untuk les/tambahan belajar.              |
+| 514 | 管束 / 管理  | 管束 = mengekang; 管理 = mengelola.                                     | 管束行为 / 管理公司   | 父母不该过分管束孩子。    | Menukar pengelolaan dan pembatasan.                 |
+| 515 | 控制 / 掌控  | 控制 = mengendalikan; 掌控 = menguasai sepenuhnya.                      | 控制情绪 / 掌控局面   | 他能掌控全场。        | Memakai 控制 untuk dominasi total.                    |
+| 516 | 约束 / 限制  | 约束 = membatasi diri/orang; 限制 = membatasi secara aturan.            | 约束自己 / 限制条件   | 规则限制了自由。       | Menukar self-discipline dan restriction.            |
+| 517 | 推测 / 猜测  | 推测 = menyimpulkan secara logis; 猜测 = menebak.                       | 推测原因 / 猜测答案   | 我猜测他已经到了。      | Memakai 猜测 untuk dugaan logis formal.               |
+| 518 | 估量 / 估计  | 估量 = menaksir secara lebih formal; 估计 = memperkirakan.              | 估量损失 / 估计时间   | 我估计要等很久。       | Menukar taksiran formal dan perkiraan umum.         |
+| 519 | 阐述 / 说明  | 阐述 = menguraikan formal; 说明 = menjelaskan.                          | 阐述观点 / 说明原因   | 请阐述你的看法。       | Memakai 说明 untuk presentasi akademik yang butuh 阐述. |
+| 520 | 宣布 / 公布  | 宣布 = mengumumkan; 公布 = merilis/publikasi resmi.                     | 宣布决定 / 公布结果   | 学校公布了考试成绩。     | Menukar pengumuman lisan dan publikasi resmi.       |
+| No  | Pasangan | Nuansa                                                          | Kolokasi khas | Contoh kalimat | Kesalahan umum                                 |
+| --- | -------- | --------------------------------------------------------------- | ------------- | -------------- | ---------------------------------------------- |
+| 521 | 雄壮 / 雄伟  | 雄壮 = gagah megah; 雄伟 = agung megah.                             | 雄壮歌声 / 雄伟建筑   | 这座山显得很雄伟。      | Menukar kesan gagah suara dengan agung visual. |
+| 522 | 浑厚 / 雄厚  | 浑厚 = berat dan kaya (suara/gaya); 雄厚 = kuat besar (modal).      | 浑厚嗓音 / 雄厚资金   | 他的声音很浑厚。       | Memakai 雄厚 untuk suara.                        |
+| 523 | 端庄 / 典雅  | 端庄 = sopan anggun; 典雅 = klasik elegan.                          | 端庄仪态 / 典雅风格   | 她的气质很典雅。       | Menukar sopan santun dan estetika klasik.      |
+| 524 | 朴实 / 平实  | 朴实 = sederhana jujur; 平实 = sederhana dan tidak berlebihan.      | 朴实作风 / 平实语言   | 他的语言很平实。       | Memakai 朴实 untuk gaya bahasa netral.           |
+| 525 | 鲜活 / 生动  | 鲜活 = hidup segar; 生动 = hidup, vivid.                            | 鲜活形象 / 生动描述   | 这幅画很生动。        | Menukar kesegaran dan kejelasan hidup.         |
+| 526 | 安详 / 安宁  | 安详 = tenang damai, sering untuk wajah/orang tua; 安宁 = tenteram. | 安详神态 / 安宁生活   | 老人神态很安详。       | Memakai 安宁 untuk ekspresi wajah.               |
+| 527 | 凝重 / 庄重  | 凝重 = berat dan serius; 庄重 = khidmat sopan.                      | 凝重气氛 / 庄重场合   | 现场气氛很凝重。       | Menukar keseriusan atmosfer dan kekhidmatan.   |
+| 528 | 空旷 / 开阔  | 空旷 = kosong luas; 开阔 = terbuka luas.                            | 空旷原野 / 开阔视野   | 夜里的操场很空旷。      | Memakai 开阔 untuk ruang kosong sepi.            |
+| 529 | 充裕 / 充足  | 充裕 = berlimpah cukup; 充足 = cukup memadai.                       | 充裕时间 / 充足理由   | 我们有充裕的时间。      | Menukar “cukup” dan “berlimpah”.               |
+| 530 | 轻巧 / 轻便  | 轻巧 = ringan dan lincah; 轻便 = ringan praktis.                    | 轻巧动作 / 轻便行李   | 这款包很轻便。        | Menukar kelincahan dan kepraktisan.            |
+| 531 | 高昂 / 高涨  | 高昂 = tinggi/bersemangat; 高涨 = naik/tumbuh pesat.                | 高昂情绪 / 价格高涨   | 物价不断高涨。        | Memakai 高昂 untuk harga naik.                   |
+| 532 | 兴奋 / 兴旺  | 兴奋 = bersemangat; 兴旺 = makmur berkembang.                       | 兴奋心情 / 生意兴旺   | 他听到消息很兴奋。      | Menukar emosi dan kemakmuran.                  |
+| 533 | 细嫩 / 细腻  | 细嫩 = halus lembut; 细腻 = detail halus.                           | 细嫩皮肤 / 细腻描写   | 她的皮肤很细嫩。       | Memakai 细腻 untuk tekstur kulit.                |
+| 534 | 热情 / 热烈  | 热情 = antusias ramah; 热烈 = hangat intens.                        | 热情接待 / 热烈欢迎   | 他非常热情。         | Menukar sikap ramah dengan suasana ramai.      |
+| 535 | 可信 / 可靠  | 可信 = layak dipercaya; 可靠 = dapat diandalkan.                    | 可信消息 / 可靠朋友   | 这个消息不太可信。      | Menukar kepercayaan informasi dan keandalan.   |
+| 536 | 真切 / 真实  | 真切 = nyata dan terasa kuat; 真实 = benar/real.                    | 真切感受 / 真实情况   | 我有很真切的感受。      | Memakai 真实 untuk pengalaman emosional.         |
+| 537 | 质朴 / 朴素  | 质朴 = polos alami; 朴素 = sederhana tanpa hiasan.                  | 质朴风格 / 朴素衣着   | 这件衣服很朴素。       | Menukar natural dengan sederhana.              |
+| 538 | 适度 / 适当  | 适度 = secukupnya; 适当 = tepat/pantas.                             | 适度运动 / 适当安排   | 请适度休息。         | Menukar kecukupan dan kepantasan.              |
+| 539 | 冷酷 / 冷淡  | 冷酷 = kejam dingin; 冷淡 = dingin acuh.                            | 冷酷现实 / 冷淡态度   | 他对我很冷淡。        | Menukar ketidakpedulian dan kekejaman.         |
+| 540 | 严峻 / 严厉  | 严峻 = berat gawat; 严厉 = keras/tajam.                             | 严峻形势 / 严厉批评   | 局势非常严峻。        | Menukar kondisi berat dengan sikap keras.      |
+| No  | Pasangan | Nuansa                                                         | Kolokasi khas | Contoh kalimat | Kesalahan umum                                    |
+| --- | -------- | -------------------------------------------------------------- | ------------- | -------------- | ------------------------------------------------- |
+| 541 | 监管 / 管理  | 监管 = mengawasi dan mengendalikan secara resmi; 管理 = mengelola. | 监管市场 / 管理公司   | 政府监管金融市场。      | Memakai 管理 untuk pengawasan resmi.                |
+| 542 | 审批 / 审核  | 审批 = meninjau dan menyetujui resmi; 审核 = memeriksa kelayakan.  | 审批申请 / 审核材料   | 这份文件还在审批中。     | Menukar review teknis dan approval resmi.         |
+| 543 | 批准 / 通过  | 批准 = menyetujui resmi; 通过 = lolos/disetujui.                   | 批准预算 / 通过考试   | 方案已经通过了。       | Memakai 通过 untuk otorisasi resmi.                 |
+| 544 | 检验 / 检查  | 检验 = menguji/mengecek hasil; 检查 = memeriksa umum.              | 检验产品 / 检查身体   | 医生检查了他的情况。     | Menukar tes teknis dan pemeriksaan umum.          |
+| 545 | 测试 / 测量  | 测试 = menguji; 测量 = mengukur.                                   | 测试系统 / 测量长度   | 请先测试软件。        | Memakai 测量 untuk uji perangkat.                   |
+| 546 | 辨别 / 区别  | 辨别 = membedakan dengan teliti; 区别 = membedakan/memilah.        | 辨别真伪 / 区别大小   | 你能辨别真假吗？       | Menukar proses teliti dan perbedaan umum.         |
+| 547 | 区分 / 分辨  | 区分 = membedakan kategori; 分辨 = membedakan secara rinci.        | 区分类型 / 分辨颜色   | 孩子还不能分辨颜色。     | Memakai 区分 saat yang dimaksud penilaian inderawi. |
+| 548 | 分析 / 研究  | 分析 = menganalisis; 研究 = meneliti.                              | 分析数据 / 研究方法   | 我们正在研究这个问题。    | Menukar analisis data dan riset.                  |
+| 549 | 探测 / 检测  | 探测 = mendeteksi/menjelajah; 检测 = menguji mendeteksi.           | 探测信号 / 检测空气质量 | 设备检测到异常。       | Memakai 探测 untuk pemeriksaan laboratorium.        |
+| 550 | 侦查 / 调查  | 侦查 = menyelidiki kasus pidana; 调查 = investigasi umum.          | 侦查案件 / 调查问题   | 警方正在侦查此案。      | Menukar penyidikan pidana dan investigasi umum.   |
+| 551 | 追踪 / 跟踪  | 追踪 = melacak; 跟踪 = mengikuti dari belakang/melacak.            | 追踪数据 / 跟踪目标   | 系统会跟踪你的状态。     | Memakai 跟踪 untuk pelacakan data formal.           |
+| 552 | 查找 / 寻找  | 查找 = mencari lewat daftar/sistem; 寻找 = mencari secara umum.    | 查找文件 / 寻找答案   | 请查找这个词。        | Memakai 寻找 untuk pencarian database.              |
+| 553 | 翻译 / 解释  | 翻译 = menerjemahkan; 解释 = menjelaskan.                          | 翻译文章 / 解释意思   | 请帮我翻译这句话。      | Menukar terjemahan dan penjelasan.                |
+| 554 | 吸收 / 接收  | 吸收 = menyerap/menerima; 接收 = menerima secara formal/teknis.    | 吸收知识 / 接收信号   | 植物吸收水分。        | Memakai 接收 untuk proses alami.                    |
+| 555 | 融入 / 加入  | 融入 = menyatu ke dalam; 加入 = bergabung.                         | 融入社会 / 加入团队   | 他加入了我们的项目。     | Menukar bergabung dan menyatu sosial.             |
+| 556 | 适合 / 匹配  | 适合 = cocok; 匹配 = cocok secara pasangan/kompatibel.             | 适合你 / 匹配度高    | 这件衣服很适合你。      | Memakai 匹配 untuk konteks umum yang cukup 适合.      |
+| 557 | 对待 / 看待  | 对待 = memperlakukan; 看待 = memandang/menilai.                    | 对待别人 / 看待问题   | 我们要认真对待这个问题。   | Menukar treatment dan perspektif.                 |
+| 558 | 估算 / 计算  | 估算 = memperkirakan; 计算 = menghitung.                           | 估算费用 / 计算结果   | 请先估算一下成本。      | Memakai 计算 untuk perkiraan kasar.                 |
+| 559 | 协商 / 商量  | 协商 = bernegosiasi formal; 商量 = mendiskusikan/berunding santai. | 协商合同 / 商量计划   | 我们商量一下吧。       | Memakai 协商 untuk percakapan ringan.               |
+| 560 | 遗忘 / 忘记  | 遗忘 = melupakan secara formal/literer; 忘记 = lupa umum.          | 遗忘过去 / 忘记带钥匙  | 我忘记了你的名字。      | Memakai 遗忘 dalam percakapan sehari-hari.          |
+| No  | Pasangan | Nuansa                                                            | Kolokasi khas | Contoh kalimat | Kesalahan umum                                    |
+| --- | -------- | ----------------------------------------------------------------- | ------------- | -------------- | ------------------------------------------------- |
+| 561 | 坚定 / 坚决  | 坚定 = teguh mantap; 坚决 = tegas bulat.                              | 坚定信念 / 坚决反对   | 他态度很坚定。        | Menukar keteguhan dan ketegasan tindakan.         |
+| 562 | 深远 / 深刻  | 深远 = berdampak jauh; 深刻 = mendalam.                               | 深远影响 / 深刻印象   | 这件事影响深远。       | Memakai 深刻 untuk efek jangka panjang.             |
+| 563 | 峻峭 / 陡峭  | 峻峭 = curam dan terjal, puitis; 陡峭 = curam.                        | 峻峭山峰 / 陡峭山路   | 这条路很陡峭。        | Memakai 峻峭 untuk deskripsi biasa yang cukup 陡峭.   |
+| 564 | 磅礴 / 宏伟  | 磅礴 = megah mengalir kuat; 宏伟 = agung megah.                       | 气势磅礴 / 宏伟建筑   | 画面气势磅礴。        | Menukar tenaga besar dan kemegahan visual.        |
+| 565 | 鲜明 / 明朗  | 鲜明 = jelas tegas; 明朗 = cerah/jelas terbuka.                       | 鲜明特色 / 明朗局势   | 形势变得明朗了。       | Memakai 鲜明 untuk situasi politik/keadaan.         |
+| 566 | 细致 / 精细  | 细致 = teliti; 精细 = detail dan presisi.                             | 细致观察 / 精细工艺   | 他的分析很细致。       | Menukar ketelitian dan presisi teknis.            |
+| 567 | 朴实 / 诚朴  | 朴实 = sederhana jujur; 诚朴 = tulus polos.                           | 朴实风格 / 诚朴态度   | 他的性格很诚朴。       | Memakai 诚朴 untuk gaya benda/objek.                |
+| 568 | 温婉 / 温柔  | 温婉 = lembut anggun (terutama perempuan); 温柔 = lembut penuh kasih. | 温婉气质 / 温柔语气   | 她性格很温婉。        | Menukar kelembutan feminin dan kasih sayang umum. |
+| 569 | 端雅 / 典雅  | 端雅 = anggun sopan; 典雅 = klasik elegan.                            | 端雅姿态 / 典雅设计   | 她的举止很端雅。       | Memakai 端雅 untuk desain benda.                    |
+| 570 | 明净 / 清净  | 明净 = terang bersih; 清净 = tenang bersih.                           | 明净天空 / 清净环境   | 山里空气很清净。       | Menukar kejernihan visual dan ketenangan suasana. |
+| 571 | 朦胧 / 模糊  | 朦胧 = samar puitis; 模糊 = tidak jelas.                              | 朦胧月色 / 模糊记忆   | 记忆有些模糊。        | Memakai 朦胧 untuk semua yang tidak jelas.          |
+| 572 | 宽厚 / 浓厚  | 宽厚 = lapang hati/tebal; 浓厚 = kuat pekat.                          | 宽厚待人 / 浓厚兴趣   | 他待人很宽厚。        | Menukar kepribadian dengan kadar pekat.           |
+| 573 | 质朴 / 简朴  | 质朴 = natural polos; 简朴 = sederhana tidak mewah.                   | 质朴民风 / 简朴生活   | 他们过着简朴的生活。     | Memakai 质朴 untuk gaya hidup hemat.                |
+| 574 | 凝练 / 简练  | 凝练 = padat dan terasah; 简练 = singkat dan rapi.                    | 凝练语言 / 简练表达   | 他的文字很简练。       | Menukar kepadatan artistik dan singkat jelas.     |
+| 575 | 温和 / 柔和  | 温和 = moderat lembut; 柔和 = lembut halus.                           | 温和语气 / 柔和光线   | 灯光很柔和。         | Menukar sikap moderat dan efek visual lembut.     |
+| 576 | 稳固 / 牢固  | 稳固 = stabil kokoh; 牢固 = kuat melekat.                             | 稳固基础 / 牢固关系   | 基础很稳固。         | Memakai 牢固 untuk stabilitas umum.                 |
+| 577 | 清新 / 清爽  | 清新 = segar baru; 清爽 = segar nyaman.                               | 清新空气 / 清爽感觉   | 早晨空气很清新。       | Menukar kesegaran alam dan kenyamanan.            |
+| 578 | 灵敏 / 敏锐  | 灵敏 = peka responsif; 敏锐 = tajam peka.                             | 灵敏反应 / 敏锐洞察   | 他的嗅觉很灵敏。       | Menukar respons fisik dan ketajaman analisis.     |
+| 579 | 贫瘠 / 贫乏  | 贫瘠 = tandus tidak subur; 贫乏 = miskin/kekurangan isi.              | 贫瘠土地 / 贫乏想象   | 这片土地很贫瘠。       | Menukar tanah tandus dan kekurangan abstrak.      |
+| 580 | 茂密 / 密集  | 茂密 = rimbun; 密集 = rapat padat.                                    | 茂密森林 / 密集人群   | 这里树木很茂密。       | Memakai 密集 untuk vegetasi.                        |
