@@ -1,0 +1,1302 @@
+=== LAPORAN audit_app_words_readings.py — 2026-07-29 13:41:30.526011 ===
+Total entri app_words.json diperiksa: 11725
+Ditemukan TINGGI (nada kemungkinan salah total): 26
+Ditemukan SEDANG (nada ok, arti default kemungkinan salah): 404
+
+═══ 🔴 PRIORITAS TINGGI — nada/pinyin kemungkinan salah total ═══
+(diurutkan dari kata paling sering dipakai)
+
+  - "要" (tersimpan: yāo -- "(bentuk terikat) menuntut; memaksa") [HSK1, freq=19]
+      alasan dicurigai: arti default terlihat langka: "(bentuk terikat) menuntut; memaksa"
+      alternatif tak-langka: yào (ingin; perlu; meminta)
+  - "那" (tersimpan: Nā -- "marga Na") [HSK1, freq=48]
+      alasan dicurigai: pinyin diawali huruf kapital ("Nā")
+      alternatif tak-langka: nà ((penunjuk) itu; tersebut; mereka (bahasa sehari-hari dibaca [nei4])); nuó ((kuno) banyak)
+  - "过" (tersimpan: Guō -- "marga Guo") [HSK1, freq=60]
+      alasan dicurigai: pinyin diawali huruf kapital ("Guō")
+      alternatif tak-langka: guò (menyeberang); guo ((penanda tindakan yang dialami))
+  - "与" (tersimpan: yú -- "varian dari 歟|欤[yu2]") [HSK6, freq=147]
+      alasan dicurigai: arti default terlihat langka: "varian dari 歟|欤[yu2]"
+      alternatif tak-langka: yǔ (dan); yù (mengambil bagian dalam)
+  - "行" (tersimpan: háng -- "(bentuk terikat) baris; garis") [HSK1, freq=272]
+      alasan dicurigai: arti default terlihat langka: "(bentuk terikat) baris; garis"
+      alternatif tak-langka: héng (digunakan dalam 道行[dao4 heng2])
+  - "作" (tersimpan: zuō -- "(bentuk terikat) pekerja") [HSK6, freq=483]
+      alasan dicurigai: arti default terlihat langka: "(bentuk terikat) pekerja"
+      alternatif tak-langka: zuò (melakukan; terlibat dalam)
+  - "句" (tersimpan: gōu -- "varian dari 勾[gou1]") [HSK2, freq=598]
+      alasan dicurigai: arti default terlihat langka: "varian dari 勾[gou1]"
+      alternatif tak-langka: jù (kalimat)
+  - "区" (tersimpan: Oū -- "marga Ou") [HSK3, freq=638]
+      alasan dicurigai: pinyin diawali huruf kapital ("Oū")
+      alternatif tak-langka: qū (area)
+  - "单" (tersimpan: Shàn -- "marga Shan") [HSK4, freq=931]
+      alasan dicurigai: pinyin diawali huruf kapital ("Shàn")
+      alternatif tak-langka: chán (digunakan dalam 單于|单于[chan2 yu2]); dān (tagihan)
+  - "教" (tersimpan: Jiào -- "marga Jiao") [HSK1, freq=988]
+      alasan dicurigai: pinyin diawali huruf kapital ("Jiào")
+      alternatif tak-langka: jiāo (mengajar; untuk menginstruksikan)
+  - "查" (tersimpan: Zhā -- "marga Zha") [HSK2, freq=1010]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zhā")
+      alternatif tak-langka: chá (meneliti)
+  - "抢" (tersimpan: qiāng -- "(sastra) menabrak") [HSK5, freq=1191]
+      alasan dicurigai: arti default terlihat langka: "(sastra) menabrak"
+      alternatif tak-langka: qiǎng (berebut)
+  - "鸟" (tersimpan: diǎo -- "varian dari 屌[diao3]") [HSK2, freq=1593]
+      alasan dicurigai: arti default terlihat langka: "varian dari 屌[diao3]"
+      alternatif tak-langka: niǎo (burung)
+  - "混" (tersimpan: hún -- "berlumpur; keruh (varian dari 渾|浑[hun2])") [HSK6, freq=1849]
+      alasan dicurigai: arti default terlihat langka: "berlumpur; keruh (varian dari 渾|浑[hun2])"
+      alternatif tak-langka: hùn (mencampur)
+  - "任" (tersimpan: Rén -- "marga Ren") [HSK3, freq=1943]
+      alasan dicurigai: pinyin diawali huruf kapital ("Rén")
+      alternatif tak-langka: rèn (menugaskan)
+  - "化" (tersimpan: huā -- "varian dari 花[hua1]") [HSK3, freq=2027]
+      alasan dicurigai: arti default terlihat langka: "varian dari 花[hua1]"
+      alternatif tak-langka: huà (membuat menjadi)
+  - "盖" (tersimpan: Gě -- "marga Ge") [HSK4, freq=2188]
+      alasan dicurigai: pinyin diawali huruf kapital ("Gě")
+      alternatif tak-langka: gài (tutup)
+  - "率" (tersimpan: lǜ -- "(bentuk terikat) rasio; tingkat; proporsi") [HSK7, freq=2786]
+      alasan dicurigai: arti default terlihat langka: "(bentuk terikat) rasio; tingkat; proporsi"
+      alternatif tak-langka: shuài (memimpin)
+  - "粘" (tersimpan: nián -- "varian dari 黏[nian2]") [HSK7, freq=3640]
+      alasan dicurigai: arti default terlihat langka: "varian dari 黏[nian2]"
+      alternatif tak-langka: zhān (melekatkan; menempelkan)
+  - "扁" (tersimpan: Piān -- "marga Pian") [HSK6, freq=5218]
+      alasan dicurigai: pinyin diawali huruf kapital ("Piān")
+      alternatif tak-langka: biǎn (datar)
+  - "壳" (tersimpan: qiào -- "varian dari 殼|壳[qiao4]") [HSK7, freq=5895]
+      alasan dicurigai: arti default terlihat langka: "varian dari 殼|壳[qiao4]"
+      alternatif tak-langka: ké ((percakapan) cangkang (telur, kacang, kepiting dll))
+  - "拽" (tersimpan: yè -- "varian dari 曳[ye4]") [HSK7, freq=6459]
+      alasan dicurigai: arti default terlihat langka: "varian dari 曳[ye4]"
+      alternatif tak-langka: zhuāi (melempar); zhuǎi (merasa puas diri; sombong (bentuk tulisan alternatif dari 跩[zhuai3])); zhuài (menarik)
+  - "祭" (tersimpan: Zhài -- "marga Zhai") [HSK7, freq=6789]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zhài")
+      alternatif tak-langka: jì (mempersembahkan kurban kepada (dewa atau leluhur))
+  - "金子" (tersimpan: Jīn zǐ -- "Kaneko (nama keluarga Jepang)") [HSK7, freq=10780]
+      alasan dicurigai: pinyin diawali huruf kapital ("Jīn zǐ")
+      alternatif tak-langka: jīn zi (emas)
+  - "锯" (tersimpan: jū -- "varian dari 鋦|锔[ju1]") [HSK7, freq=10918]
+      alasan dicurigai: arti default terlihat langka: "varian dari 鋦|锔[ju1]"
+      alternatif tak-langka: jù (gergaji (KP:把[ba3]))
+  - "秤" (tersimpan: chēng -- "untuk menimbang (varian dari 稱|称[cheng1])") [HSK7, freq=11539]
+      alasan dicurigai: arti default terlihat langka: "untuk menimbang (varian dari 稱|称[cheng1])"
+      alternatif tak-langka: chèng (neraca batang; neraca Romawi)
+
+═══ 🟠 PRIORITAS SEDANG — nada kemungkinan ok, arti default kemungkinan salah urutan ═══
+(diurutkan dari kata paling sering dipakai)
+
+  - "和" (tersimpan: hé -- "varian lama dari 和[he2]") [HSK1, freq=19]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 和[he2]"
+      alternatif tak-langka: hé ((menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4]))
+  - "也" (tersimpan: Yě -- "juga; terlalu; (tidak ...) juga") [HSK1, freq=23]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yě")
+      alternatif tak-langka: yě (juga; terlalu; (tidak ...) juga)
+  - "都" (tersimpan: Dū -- "marga Du") [HSK1, freq=25]
+      alasan dicurigai: pinyin diawali huruf kapital ("Dū")
+      alternatif tak-langka: dū (ibu kota)
+  - "上" (tersimpan: shǎng -- "(bentuk terikat) atas; bagian atas; di atas; sebelumnya") [HSK1, freq=29]
+      alasan dicurigai: arti default terlihat langka: "(bentuk terikat) atas; bagian atas; di atas; sebelumnya"
+      alternatif tak-langka: shǎng (digunakan dalam 上聲|上声[shang3 sheng1])
+  - "还" (tersimpan: Huán -- "marga Huan") [HSK1, freq=37]
+      alasan dicurigai: pinyin diawali huruf kapital ("Huán")
+      alternatif tak-langka: huán (membayar kembali)
+  - "能" (tersimpan: Néng -- "marga Neng") [HSK1, freq=46]
+      alasan dicurigai: pinyin diawali huruf kapital ("Néng")
+      alternatif tak-langka: néng (bisa)
+  - "从" (tersimpan: cóng -- "varian dari 從|从[cong2]") [HSK1, freq=70]
+      alasan dicurigai: arti default terlihat langka: "varian dari 從|从[cong2]"
+      alternatif tak-langka: cóng (dari; melalui; lewat)
+  - "中" (tersimpan: Zhōng -- "(bentuk terikat) Tiongkok; Orang Tiongkok") [HSK1, freq=71]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zhōng")
+      alternatif tak-langka: zhōng (di dalam; di antara; pada)
+  - "里" (tersimpan: lǐ -- "varian dari 裡|里[li3]") [HSK1, freq=75]
+      alasan dicurigai: arti default terlihat langka: "varian dari 裡|里[li3]"
+      alternatif tak-langka: lǐ (lapisan dalam); lǐ (li, ukuran panjang kuno, sekitar 500 m)
+  - "年" (tersimpan: Nián -- "marga Nian") [HSK1, freq=79]
+      alasan dicurigai: pinyin diawali huruf kapital ("Nián")
+      alternatif tak-langka: nián (tahun); nián (biji-bijian)
+  - "最" (tersimpan: zuì -- "varian dari 最[zui4]") [HSK1, freq=89]
+      alasan dicurigai: arti default terlihat langka: "varian dari 最[zui4]"
+      alternatif tak-langka: zuì ((sebelum kata sifat atau kata kerja) sampai tingkat tertinggi; paling ...; ter-)
+  - "只" (tersimpan: zhǐ -- "varian dari 隻|只[zhi1]") [HSK2, freq=98]
+      alasan dicurigai: arti default terlihat langka: "varian dari 隻|只[zhi1]"
+      alternatif tak-langka: zhǐ (hanya)
+  - "后" (tersimpan: Hòu -- "permaisuri") [HSK1, freq=115]
+      alasan dicurigai: pinyin diawali huruf kapital ("Hòu")
+      alternatif tak-langka: hòu (permaisuri); hòu (belakang)
+  - "时" (tersimpan: shí -- "varian lama dari 時|时[shi2]") [HSK3, freq=115]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 時|时[shi2]"
+      alternatif tak-langka: shí (jam)
+  - "新" (tersimpan: Xīn -- "singkatan dari Xinjiang 新疆[Xin1 jiang1]") [HSK1, freq=150]
+      alasan dicurigai: pinyin diawali huruf kapital ("Xīn")
+      alternatif tak-langka: xīn (singkatan dari Xinjiang 新疆[Xin1 jiang1]); xīn (baru)
+  - "比" (tersimpan: Bǐ -- "Belgia") [HSK1, freq=155]
+      alasan dicurigai: pinyin diawali huruf kapital ("Bǐ")
+      alternatif tak-langka: bǐ (Belgia); bǐ (membandingkan)
+  - "向" (tersimpan: Xiàng -- "ke arah") [HSK2, freq=165]
+      alasan dicurigai: pinyin diawali huruf kapital ("Xiàng")
+      alternatif tak-langka: xiàng (ke arah); xiàng (cenderung ke)
+  - "以" (tersimpan: yǐ -- "varian lama dari 以[yi3]") [HSK7, freq=166]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 以[yi3]"
+      alternatif tak-langka: yǐ (singkatan dari Israel 以色列[Yi3 se4 lie4]); yǐ (menggunakan)
+  - "车" (tersimpan: Chē -- "mobil") [HSK1, freq=186]
+      alasan dicurigai: pinyin diawali huruf kapital ("Chē")
+      alternatif tak-langka: chē (mobil)
+  - "却" (tersimpan: què -- "varian lama dari 卻|却[que4]") [HSK4, freq=199]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 卻|却[que4]"
+      alternatif tak-langka: què (tetapi)
+  - "这里" (tersimpan: zhè lǐ -- "varian dari 這裡|这里[zhe4 li3]") [HSK1, freq=209]
+      alasan dicurigai: arti default terlihat langka: "varian dari 這裡|这里[zhe4 li3]"
+      alternatif tak-langka: zhè lǐ (di sini)
+  - "别" (tersimpan: Bié -- "marga Bie") [HSK1, freq=214]
+      alasan dicurigai: pinyin diawali huruf kapital ("Bié")
+      alternatif tak-langka: bié (berpisah; meninggalkan)
+  - "钱" (tersimpan: Qián -- "marga Qian") [HSK1, freq=218]
+      alasan dicurigai: pinyin diawali huruf kapital ("Qián")
+      alternatif tak-langka: qián (koin)
+  - "成" (tersimpan: Chéng -- "marga Cheng") [HSK2, freq=227]
+      alasan dicurigai: pinyin diawali huruf kapital ("Chéng")
+      alternatif tak-langka: chéng (berhasil)
+  - "三" (tersimpan: Sān -- "marga San") [HSK1, freq=233]
+      alasan dicurigai: pinyin diawali huruf kapital ("Sān")
+      alternatif tak-langka: sān (tiga)
+  - "于" (tersimpan: Yú -- "marga Yu") [HSK6, freq=246]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yú")
+      alternatif tak-langka: yú (pergi); yú ((waktu atau tempat) di; pada; di)
+  - "岁" (tersimpan: suì -- "varian dari 歲|岁[sui4], tahun") [HSK1, freq=266]
+      alasan dicurigai: arti default terlihat langka: "varian dari 歲|岁[sui4], tahun"
+      alternatif tak-langka: suì (klasifier untuk tahun (usia))
+  - "拿" (tersimpan: ná -- "varian lama dari 拿[na2]") [HSK1, freq=287]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 拿[na2]"
+      alternatif tak-langka: ná (memegang)
+  - "高" (tersimpan: Gāo -- "tinggi") [HSK1, freq=290]
+      alasan dicurigai: pinyin diawali huruf kapital ("Gāo")
+      alternatif tak-langka: gāo (tinggi)
+  - "张" (tersimpan: Zhāng -- "marga Zhang") [HSK3, freq=316]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zhāng")
+      alternatif tak-langka: zhāng (membuka)
+  - "水" (tersimpan: Shuǐ -- "marga Shui") [HSK1, freq=335]
+      alasan dicurigai: pinyin diawali huruf kapital ("Shuǐ")
+      alternatif tak-langka: shuǐ (air)
+  - "美" (tersimpan: Měi -- "(bentuk terikat) Amerika (singkatan dari 美洲[Mei3 zhou1])") [HSK3, freq=343]
+      alasan dicurigai: pinyin diawali huruf kapital ("Měi")
+      alternatif tak-langka: měi (cantik)
+  - "周" (tersimpan: Zhōu -- "marga Zhou") [HSK2, freq=352]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zhōu")
+      alternatif tak-langka: zhōu (mengelilingi; berputar); zhōu (minggu)
+  - "笑" (tersimpan: xiào -- "varian lama dari 笑[xiao4]") [HSK1, freq=382]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 笑[xiao4]"
+      alternatif tak-langka: xiào (tertawa; tersenyum)
+  - "帮" (tersimpan: bāng -- "varian lama dari 幫|帮[bang1]") [HSK1, freq=395]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 幫|帮[bang1]"
+      alternatif tak-langka: bāng (membantu)
+  - "全" (tersimpan: Quán -- "semua") [HSK2, freq=404]
+      alasan dicurigai: pinyin diawali huruf kapital ("Quán")
+      alternatif tak-langka: quán (semua)
+  - "连" (tersimpan: Lián -- "marga Lian") [HSK3, freq=406]
+      alasan dicurigai: pinyin diawali huruf kapital ("Lián")
+      alternatif tak-langka: lián (menghubungkan)
+  - "路" (tersimpan: Lù -- "marga Lu") [HSK1, freq=409]
+      alasan dicurigai: pinyin diawali huruf kapital ("Lù")
+      alternatif tak-langka: lù (jalan (KP:條|条[tiao2]))
+  - "门" (tersimpan: Mén -- "marga Men") [HSK1, freq=422]
+      alasan dicurigai: pinyin diawali huruf kapital ("Mén")
+      alternatif tak-langka: mén (gerbang)
+  - "坐" (tersimpan: Zuò -- "duduk") [HSK1, freq=435]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zuò")
+      alternatif tak-langka: zuò (duduk)
+  - "花" (tersimpan: Huā -- "marga Hua") [HSK1, freq=435]
+      alasan dicurigai: pinyin diawali huruf kapital ("Huā")
+      alternatif tak-langka: huā (bunga)
+  - "干" (tersimpan: gān -- "varian lama dari 乾|干[gan1]") [HSK1, freq=463]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 乾|干[gan1]"
+      alternatif tak-langka: gān (kering)
+  - "成功" (tersimpan: Chéng gōng -- "berhasil") [HSK3, freq=476]
+      alasan dicurigai: pinyin diawali huruf kapital ("Chéng gōng")
+      alternatif tak-langka: chéng gōng (berhasil); chéng gōng (Kota Chenggong atau Chengkung di Kabupaten Taitung 臺東縣|台东县[Tai2 dong1 Xian4], Taiwan tenggara)
+  - "加" (tersimpan: Jiā -- "Kanada (singkatan dari 加拿大[Jia1 na2 da4])") [HSK2, freq=503]
+      alasan dicurigai: pinyin diawali huruf kapital ("Jiā")
+      alternatif tak-langka: jiā (Kanada (singkatan dari 加拿大[Jia1 na2 da4])); jiā (menambah)
+  - "球" (tersimpan: qiú -- "bola yang digunakan untuk bermain game (varian dari 球[qiu2])") [HSK1, freq=518]
+      alasan dicurigai: arti default terlihat langka: "bola yang digunakan untuk bermain game (varian dari 球[qiu2])"
+      alternatif tak-langka: qiú (bola)
+  - "强" (tersimpan: Qiáng -- "marga Qiang") [HSK3, freq=529]
+      alasan dicurigai: pinyin diawali huruf kapital ("Qiáng")
+      alternatif tak-langka: qiáng (kuat)
+  - "错" (tersimpan: Cuò -- "marga Cuo") [HSK1, freq=531]
+      alasan dicurigai: pinyin diawali huruf kapital ("Cuò")
+      alternatif tak-langka: cuò (kesalahan)
+  - "曾" (tersimpan: Zēng -- "marga Zeng") [HSK4, freq=545]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zēng")
+      alternatif tak-langka: zēng (buyut (kakek, cucu dll))
+  - "管" (tersimpan: guǎn -- "varian dari 管[guan3]") [HSK3, freq=545]
+      alasan dicurigai: arti default terlihat langka: "varian dari 管[guan3]"
+      alternatif tak-langka: guǎn (mengurus (sesuatu))
+  - "书" (tersimpan: Shū -- "buku; surat; dokumen; KP:本[ben3],冊|册[ce4],部[bu4]; menulis") [HSK1, freq=560]
+      alasan dicurigai: pinyin diawali huruf kapital ("Shū")
+      alternatif tak-langka: shū (buku; surat; dokumen; KP:本[ben3],冊|册[ce4],部[bu4]; menulis); shū (singkatan dari 書經|书经[Shu1 jing1])
+  - "越" (tersimpan: Yuè -- "kata generik untuk orang atau negara di Tiongkok selatan atau Asia selatan pada periode sejarah yang berbeda") [HSK2, freq=574]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yuè")
+      alternatif tak-langka: yuè (kata generik untuk orang atau negara di Tiongkok selatan atau Asia selatan pada periode sejarah yang berbeda); yuè (melebihi; memanjat melewati; melampaui; semakin... semakin)
+  - "组" (tersimpan: Zǔ -- "marga Zu") [HSK2, freq=578]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zǔ")
+      alternatif tak-langka: zǔ (membentuk; mengatur; grup; tim; pengklasifikasi untuk set, seri, kelompok orang, baterai)
+  - "马" (tersimpan: Mǎ -- "marga Ma") [HSK3, freq=605]
+      alasan dicurigai: pinyin diawali huruf kapital ("Mǎ")
+      alternatif tak-langka: mǎ (kuda)
+  - "双" (tersimpan: Shuāng -- "varian dari 雙|双[shuang1]") [HSK3, freq=642]
+      alasan dicurigai: pinyin diawali huruf kapital ("Shuāng")
+      alternatif tak-langka: shuāng (dua)
+  - "段" (tersimpan: Duàn -- "paragraf") [HSK2, freq=647]
+      alasan dicurigai: pinyin diawali huruf kapital ("Duàn")
+      alternatif tak-langka: duàn (paragraf)
+  - "里面" (tersimpan: lǐ miàn -- "varian dari 裡面|里面[li3 mian4]") [HSK3, freq=648]
+      alasan dicurigai: arti default terlihat langka: "varian dari 裡面|里面[li3 mian4]"
+      alternatif tak-langka: lǐ miàn (di dalam)
+  - "米" (tersimpan: Mǐ -- "marga Mi") [HSK2, freq=663]
+      alasan dicurigai: pinyin diawali huruf kapital ("Mǐ")
+      alternatif tak-langka: mǐ (beras (belum dimasak))
+  - "联系" (tersimpan: lián xì -- "varian dari 聯繫|联系[lian2 xi4]") [HSK3, freq=667]
+      alasan dicurigai: arti default terlihat langka: "varian dari 聯繫|联系[lian2 xi4]"
+      alternatif tak-langka: lián xì (koneksi)
+  - "哈" (tersimpan: Hā -- "singkatan dari 哈薩克斯坦|哈萨克斯坦[Ha1 sa4 ke4 si1 tan3], Kazakhstan") [HSK-, freq=676]
+      alasan dicurigai: pinyin diawali huruf kapital ("Hā")
+      alternatif tak-langka: hā (singkatan dari 哈薩克斯坦|哈萨克斯坦[Ha1 sa4 ke4 si1 tan3], Kazakhstan); hā ((kata seru) ha!)
+  - "因" (tersimpan: yīn -- "varian lama dari 因[yin1]") [HSK6, freq=679]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 因[yin1]"
+      alternatif tak-langka: yīn (sebab)
+  - "线" (tersimpan: xiàn -- "varian dari 線|线[xian4]") [HSK3, freq=679]
+      alasan dicurigai: arti default terlihat langka: "varian dari 線|线[xian4]"
+      alternatif tak-langka: xiàn (benang)
+  - "台" (tersimpan: Tái -- "Taiwan (singkatan)") [HSK3, freq=696]
+      alasan dicurigai: pinyin diawali huruf kapital ("Tái")
+      alternatif tak-langka: tái (Taiwan (singkatan)); tái ((klasik) kamu (dalam surat)); tái (meja; meja tulis; meja konter); tái (Taiwan (singkatan)); tái (platform); tái (topan)
+  - "留" (tersimpan: liú -- "varian lama dari 留[liu2]") [HSK2, freq=705]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 留[liu2]"
+      alternatif tak-langka: liú (meninggalkan (pesan dll))
+  - "法" (tersimpan: fǎ -- "varian dari 法[fa3]") [HSK4, freq=706]
+      alasan dicurigai: arti default terlihat langka: "varian dari 法[fa3]"
+      alternatif tak-langka: fǎ (hukum); fǎ (Prancis)
+  - "黑" (tersimpan: Hēi -- "hitam") [HSK2, freq=724]
+      alasan dicurigai: pinyin diawali huruf kapital ("Hēi")
+      alternatif tak-langka: hēi (hitam); hēi (singkatan dari provinsi Heilongjiang 黑龍江|黑龙江[Hei1 long2 jiang1])
+  - "克" (tersimpan: Kè -- "dapat") [HSK2, freq=738]
+      alasan dicurigai: pinyin diawali huruf kapital ("Kè")
+      alternatif tak-langka: kè (dapat); kè (singkatan dari 克羅地亞|克罗地亚[Ke4 luo2 di4 ya4], Kroasia); kè (Ke (sekitar tahun 2000 SM), ketujuh dari Kaisar Api legendaris, 炎帝[Yan2 di4] diturunkan dari Shennong 神農|神农[Shen2 nong2] Dewa Petani)
+  - "元" (tersimpan: Yuán -- "marga Yuan") [HSK1, freq=744]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yuán")
+      alternatif tak-langka: yuán (satuan mata uang (terutama yuan Tiongkok))
+  - "包" (tersimpan: Bāo -- "marga Bao") [HSK1, freq=755]
+      alasan dicurigai: pinyin diawali huruf kapital ("Bāo")
+      alternatif tak-langka: bāo (menutupi)
+  - "楼" (tersimpan: Lóu -- "rumah bertingkat lebih dari 1") [HSK1, freq=765]
+      alasan dicurigai: pinyin diawali huruf kapital ("Lóu")
+      alternatif tak-langka: lóu (rumah bertingkat lebih dari 1)
+  - "神" (tersimpan: Shén -- "dewa") [HSK5, freq=786]
+      alasan dicurigai: pinyin diawali huruf kapital ("Shén")
+      alternatif tak-langka: shén (dewa); shén (Tuhan)
+  - "红" (tersimpan: Hóng -- "marga Hong") [HSK2, freq=794]
+      alasan dicurigai: pinyin diawali huruf kapital ("Hóng")
+      alternatif tak-langka: hóng (panas membara)
+  - "大学" (tersimpan: Dà xué -- "The Great Learning, salah satu dari Empat Buku 四書|四书[Si4 shu1] dalam Konfusianisme") [HSK1, freq=814]
+      alasan dicurigai: pinyin diawali huruf kapital ("Dà xué")
+      alternatif tak-langka: dà xué (The Great Learning, salah satu dari Empat Buku 四書|四书[Si4 shu1] dalam Konfusianisme); dà xué (universitas)
+  - "金" (tersimpan: Jīn -- "marga Jin") [HSK3, freq=828]
+      alasan dicurigai: pinyin diawali huruf kapital ("Jīn")
+      alternatif tak-langka: jīn (emas)
+  - "项" (tersimpan: Xiàng -- "marga Xiang") [HSK4, freq=837]
+      alasan dicurigai: pinyin diawali huruf kapital ("Xiàng")
+      alternatif tak-langka: xiàng (bagian belakang leher)
+  - "力" (tersimpan: Lì -- "marga Li") [HSK3, freq=851]
+      alasan dicurigai: pinyin diawali huruf kapital ("Lì")
+      alternatif tak-langka: lì (kekuatan)
+  - "谈" (tersimpan: Tán -- "berbicara") [HSK3, freq=862]
+      alasan dicurigai: pinyin diawali huruf kapital ("Tán")
+      alternatif tak-langka: tán (berbicara)
+  - "怕" (tersimpan: Pà -- "marga Pa") [HSK2, freq=899]
+      alasan dicurigai: pinyin diawali huruf kapital ("Pà")
+      alternatif tak-langka: pà (takut)
+  - "支" (tersimpan: Zhī -- "marga Zhi") [HSK3, freq=915]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zhī")
+      alternatif tak-langka: zhī (mendukung)
+  - "随" (tersimpan: Suí -- "marga Sui") [HSK3, freq=915]
+      alasan dicurigai: pinyin diawali huruf kapital ("Suí")
+      alternatif tak-langka: suí (mengikuti)
+  - "白" (tersimpan: Bái -- "marga Bai") [HSK1, freq=930]
+      alasan dicurigai: pinyin diawali huruf kapital ("Bái")
+      alternatif tak-langka: bái (putih)
+  - "非" (tersimpan: Fēi -- "bukan; tidak") [HSK4, freq=949]
+      alasan dicurigai: pinyin diawali huruf kapital ("Fēi")
+      alternatif tak-langka: fēi (bukan; tidak); fēi (singkatan dari 非洲[Fei1 zhou1], Afrika)
+  - "西" (tersimpan: Xī -- "barat") [HSK1, freq=958]
+      alasan dicurigai: pinyin diawali huruf kapital ("Xī")
+      alternatif tak-langka: xī (barat); xī (Barat)
+  - "满" (tersimpan: Mǎn -- "kelompok etnis Manchu") [HSK2, freq=961]
+      alasan dicurigai: pinyin diawali huruf kapital ("Mǎn")
+      alternatif tak-langka: mǎn (kelompok etnis Manchu); mǎn (mengisi)
+  - "步" (tersimpan: Bù -- "satu langkah") [HSK3, freq=972]
+      alasan dicurigai: pinyin diawali huruf kapital ("Bù")
+      alternatif tak-langka: bù (satu langkah)
+  - "应" (tersimpan: Yīng -- "marga Ying") [HSK4, freq=999]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yīng")
+      alternatif tak-langka: yīng (setuju (untuk melakukan sesuatu); seharusnya; harus; wajib)
+  - "据" (tersimpan: jù -- "varian dari 據|据[ju4]") [HSK6, freq=1000]
+      alasan dicurigai: arti default terlihat langka: "varian dari 據|据[ju4]"
+      alternatif tak-langka: jù (menurut)
+  - "方" (tersimpan: Fāng -- "persegi") [HSK4, freq=1012]
+      alasan dicurigai: pinyin diawali huruf kapital ("Fāng")
+      alternatif tak-langka: fāng (persegi)
+  - "深" (tersimpan: shēn -- "varian lama dari 深[shen1]") [HSK3, freq=1014]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 深[shen1]"
+      alternatif tak-langka: shēn (dalam (harfiah dan kiasan))
+  - "清" (tersimpan: Qīng -- "Dinasti Qing (Wade-Giles: Ch'ing) di Tiongkok (1644–1911)") [HSK6, freq=1019]
+      alasan dicurigai: pinyin diawali huruf kapital ("Qīng")
+      alternatif tak-langka: qīng (Dinasti Qing (Wade-Giles: Ch'ing) di Tiongkok (1644–1911)); qīng ((air dll.) jernih; bersih)
+  - "冷" (tersimpan: Lěng -- "marga Leng") [HSK1, freq=1027]
+      alasan dicurigai: pinyin diawali huruf kapital ("Lěng")
+      alternatif tak-langka: lěng (dingin)
+  - "山" (tersimpan: Shān -- "marga Shan") [HSK1, freq=1030]
+      alasan dicurigai: pinyin diawali huruf kapital ("Shān")
+      alternatif tak-langka: shān (gunung; bukit (KP:座[zuo4]))
+  - "王" (tersimpan: Wáng -- "raja atau penguasa") [HSK4, freq=1039]
+      alasan dicurigai: pinyin diawali huruf kapital ("Wáng")
+      alternatif tak-langka: wáng (raja atau penguasa)
+  - "常" (tersimpan: Cháng -- "selalu") [HSK1, freq=1057]
+      alasan dicurigai: pinyin diawali huruf kapital ("Cháng")
+      alternatif tak-langka: cháng (selalu)
+  - "夜" (tersimpan: yè -- "varian dari 夜[ye4]") [HSK2, freq=1082]
+      alasan dicurigai: arti default terlihat langka: "varian dari 夜[ye4]"
+      alternatif tak-langka: yè (malam)
+  - "海" (tersimpan: Hǎi -- "marga Hai") [HSK2, freq=1082]
+      alasan dicurigai: pinyin diawali huruf kapital ("Hǎi")
+      alternatif tak-langka: hǎi (lautan)
+  - "逼" (tersimpan: bī -- "varian dari 逼[bi1]") [HSK6, freq=1122]
+      alasan dicurigai: arti default terlihat langka: "varian dari 逼[bi1]"
+      alternatif tak-langka: bī (memaksa (seseorang melakukan sesuatu))
+  - "关" (tersimpan: Guān -- "marga Guan") [HSK1, freq=1129]
+      alasan dicurigai: pinyin diawali huruf kapital ("Guān")
+      alternatif tak-langka: guān (gerbang gunung)
+  - "牛" (tersimpan: Niú -- "sapi") [HSK3, freq=1148]
+      alasan dicurigai: pinyin diawali huruf kapital ("Niú")
+      alternatif tak-langka: niú (sapi)
+  - "照" (tersimpan: zhào -- "varian dari 照[zhao4]") [HSK3, freq=1165]
+      alasan dicurigai: arti default terlihat langka: "varian dari 照[zhao4]"
+      alternatif tak-langka: zhào (sesuai)
+  - "群" (tersimpan: qún -- "varian dari 群[qun2]") [HSK3, freq=1165]
+      alasan dicurigai: arti default terlihat langka: "varian dari 群[qun2]"
+      alternatif tak-langka: qún (grup)
+  - "德" (tersimpan: Dé -- "Jerman") [HSK7, freq=1174]
+      alasan dicurigai: pinyin diawali huruf kapital ("Dé")
+      alternatif tak-langka: dé (Jerman); dé (kebajikan)
+  - "原" (tersimpan: Yuán -- "marga Yuan") [HSK6, freq=1178]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yuán")
+      alternatif tak-langka: yuán (mantan)
+  - "火" (tersimpan: Huǒ -- "marga Huo") [HSK3, freq=1181]
+      alasan dicurigai: pinyin diawali huruf kapital ("Huǒ")
+      alternatif tak-langka: huǒ (api)
+  - "老板" (tersimpan: lǎo bǎn -- "varian dari 老闆|老板[lao3 ban3]") [HSK3, freq=1185]
+      alasan dicurigai: arti default terlihat langka: "varian dari 老闆|老板[lao3 ban3]"
+      alternatif tak-langka: lǎo bǎn (Robam (merek)); lǎo bǎn (bos)
+  - "鱼" (tersimpan: Yú -- "marga Yu") [HSK2, freq=1189]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yú")
+      alternatif tak-langka: yú (ikan (KP:條|条[tiao2],尾[wei3]))
+  - "祝" (tersimpan: Zhù -- "marga Zhu") [HSK3, freq=1197]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zhù")
+      alternatif tak-langka: zhù (mendoakan)
+  - "权" (tersimpan: Quán -- "otoritas") [HSK6, freq=1198]
+      alasan dicurigai: pinyin diawali huruf kapital ("Quán")
+      alternatif tak-langka: quán (otoritas)
+  - "救" (tersimpan: jiù -- "varian dari 救[jiu4]") [HSK3, freq=1217]
+      alasan dicurigai: arti default terlihat langka: "varian dari 救[jiu4]"
+      alternatif tak-langka: jiù (menyelamatkan)
+  - "班" (tersimpan: Bān -- "marga Ban") [HSK1, freq=1238]
+      alasan dicurigai: pinyin diawali huruf kapital ("Bān")
+      alternatif tak-langka: bān (tim; kelas; tingkatan)
+  - "利" (tersimpan: Lì -- "tajam") [HSK6, freq=1239]
+      alasan dicurigai: pinyin diawali huruf kapital ("Lì")
+      alternatif tak-langka: lì (tajam)
+  - "刀" (tersimpan: Dāo -- "pisau") [HSK3, freq=1285]
+      alasan dicurigai: pinyin diawali huruf kapital ("Dāo")
+      alternatif tak-langka: dāo (pisau)
+  - "毛" (tersimpan: Máo -- "rambut") [HSK1, freq=1319]
+      alasan dicurigai: pinyin diawali huruf kapital ("Máo")
+      alternatif tak-langka: máo (rambut)
+  - "朝" (tersimpan: Cháo -- "istana kekaisaran atau kerajaan") [HSK3, freq=1321]
+      alasan dicurigai: pinyin diawali huruf kapital ("Cháo")
+      alternatif tak-langka: cháo (istana kekaisaran atau kerajaan); cháo (singkatan dari 朝鮮|朝鲜[Chao2 xian3] Korea)
+  - "船" (tersimpan: chuán -- "varian dari 船[chuan2]") [HSK2, freq=1346]
+      alasan dicurigai: arti default terlihat langka: "varian dari 船[chuan2]"
+      alternatif tak-langka: chuán (perahu)
+  - "遍" (tersimpan: biàn -- "varian dari 遍[bian4]") [HSK2, freq=1358]
+      alasan dicurigai: arti default terlihat langka: "varian dari 遍[bian4]"
+      alternatif tak-langka: biàn (di mana-mana)
+  - "室" (tersimpan: Shì -- "ruangan") [HSK3, freq=1382]
+      alasan dicurigai: pinyin diawali huruf kapital ("Shì")
+      alternatif tak-langka: shì (ruangan)
+  - "左" (tersimpan: Zuǒ -- "marga Zuo") [HSK1, freq=1382]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zuǒ")
+      alternatif tak-langka: zuǒ (kiri)
+  - "时代" (tersimpan: Shí dài -- "usia") [HSK3, freq=1384]
+      alasan dicurigai: pinyin diawali huruf kapital ("Shí dài")
+      alternatif tak-langka: shí dài (usia); shí dài (Time, majalah berita mingguan AS)
+  - "文" (tersimpan: Wén -- "marga Wen") [HSK7, freq=1391]
+      alasan dicurigai: pinyin diawali huruf kapital ("Wén")
+      alternatif tak-langka: wén (bahasa)
+  - "皮" (tersimpan: Pí -- "marga Pi") [HSK3, freq=1409]
+      alasan dicurigai: pinyin diawali huruf kapital ("Pí")
+      alternatif tak-langka: pí (kulit)
+  - "经" (tersimpan: Jīng -- "marga Jing") [HSK7, freq=1410]
+      alasan dicurigai: pinyin diawali huruf kapital ("Jīng")
+      alternatif tak-langka: jīng (kitab suci)
+  - "直" (tersimpan: Zhí -- "marga Zhi") [HSK3, freq=1420]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zhí")
+      alternatif tak-langka: zhí (lurus)
+  - "枪" (tersimpan: Qiāng -- "marga Qiang") [HSK5, freq=1429]
+      alasan dicurigai: pinyin diawali huruf kapital ("Qiāng")
+      alternatif tak-langka: qiāng (senjata api)
+  - "网络" (tersimpan: Wǎng luò -- "Internet") [HSK4, freq=1462]
+      alasan dicurigai: pinyin diawali huruf kapital ("Wǎng luò")
+      alternatif tak-langka: wǎng luò (Internet); wǎng luò (jaringan (komputasi, telekomunikasi, transportasi dll))
+  - "宣布" (tersimpan: xuān bù -- "varian dari 宣布[xuan1 bu4]") [HSK3, freq=1467]
+      alasan dicurigai: arti default terlihat langka: "varian dari 宣布[xuan1 bu4]"
+      alternatif tak-langka: xuān bù (menyatakan)
+  - "期" (tersimpan: qī -- "varian dari 期[qi1]") [HSK3, freq=1473]
+      alasan dicurigai: arti default terlihat langka: "varian dari 期[qi1]"
+      alternatif tak-langka: qī (periode waktu)
+  - "雷" (tersimpan: Léi -- "guntur") [HSK-, freq=1494]
+      alasan dicurigai: pinyin diawali huruf kapital ("Léi")
+      alternatif tak-langka: léi (guntur)
+  - "东" (tersimpan: Dōng -- "timur") [HSK1, freq=1509]
+      alasan dicurigai: pinyin diawali huruf kapital ("Dōng")
+      alternatif tak-langka: dōng (timur)
+  - "国" (tersimpan: Guó -- "marga Guo") [HSK1, freq=1527]
+      alasan dicurigai: pinyin diawali huruf kapital ("Guó")
+      alternatif tak-langka: guó (negara; bangsa; kenegaraan)
+  - "封" (tersimpan: Fēng -- "memberikan") [HSK2, freq=1534]
+      alasan dicurigai: pinyin diawali huruf kapital ("Fēng")
+      alternatif tak-langka: fēng (memberikan)
+  - "蛋" (tersimpan: Dàn -- "varian dari 蜑[Dan4]") [HSK2, freq=1539]
+      alasan dicurigai: pinyin diawali huruf kapital ("Dàn")
+      alternatif tak-langka: dàn (telur)
+  - "藏" (tersimpan: Zàng -- "Tibet") [HSK6, freq=1544]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zàng")
+      alternatif tak-langka: zàng (Tibet); zàng (gudang)
+  - "龙" (tersimpan: Lóng -- "marga Long") [HSK3, freq=1547]
+      alasan dicurigai: pinyin diawali huruf kapital ("Lóng")
+      alternatif tak-langka: lóng (naga Tiongkok; loong)
+  - "占" (tersimpan: zhàn -- "varian dari 占[zhan4]") [HSK2, freq=1571]
+      alasan dicurigai: arti default terlihat langka: "varian dari 占[zhan4]"
+      alternatif tak-langka: zhàn (mengambil alih kepemilikan)
+  - "乐" (tersimpan: Lè -- "senang") [HSK3, freq=1572]
+      alasan dicurigai: pinyin diawali huruf kapital ("Lè")
+      alternatif tak-langka: lè (senang)
+  - "季" (tersimpan: Jì -- "musim") [HSK4, freq=1588]
+      alasan dicurigai: pinyin diawali huruf kapital ("Jì")
+      alternatif tak-langka: jì (musim)
+  - "保" (tersimpan: Bǎo -- "Bulgaria (singkatan dari 保加利亞|保加利亚[Bao3 jia1 li4 ya4])") [HSK3, freq=1597]
+      alasan dicurigai: pinyin diawali huruf kapital ("Bǎo")
+      alternatif tak-langka: bǎo (Bulgaria (singkatan dari 保加利亞|保加利亚[Bao3 jia1 li4 ya4])); bǎo (membela; melindungi; menjaga)
+  - "蓝" (tersimpan: Lán -- "marga Lan") [HSK2, freq=1615]
+      alasan dicurigai: pinyin diawali huruf kapital ("Lán")
+      alternatif tak-langka: lán (biru)
+  - "纸" (tersimpan: zhǐ -- "varian dari 紙|纸[zhi3]") [HSK2, freq=1621]
+      alasan dicurigai: arti default terlihat langka: "varian dari 紙|纸[zhi3]"
+      alternatif tak-langka: zhǐ (kertas (KP:張|张[zhang1],沓[da2]))
+  - "背" (tersimpan: bēi -- "varian dari 背[bei1]") [HSK2, freq=1623]
+      alasan dicurigai: arti default terlihat langka: "varian dari 背[bei1]"
+      alternatif tak-langka: bēi (membawa beban)
+  - "罗" (tersimpan: Luó -- "marga Luo") [HSK7, freq=1653]
+      alasan dicurigai: pinyin diawali huruf kapital ("Luó")
+      alternatif tak-langka: luó (kasa)
+  - "布" (tersimpan: bù -- "varian dari 布[bu4]") [HSK3, freq=1694]
+      alasan dicurigai: arti default terlihat langka: "varian dari 布[bu4]"
+      alternatif tak-langka: bù (kain)
+  - "平" (tersimpan: Píng -- "marga Ping") [HSK2, freq=1707]
+      alasan dicurigai: pinyin diawali huruf kapital ("Píng")
+      alternatif tak-langka: píng (datar)
+  - "南" (tersimpan: Nán -- "selatan") [HSK1, freq=1709]
+      alasan dicurigai: pinyin diawali huruf kapital ("Nán")
+      alternatif tak-langka: nán (selatan)
+  - "钟" (tersimpan: Zhōng -- "marga Zhong") [HSK3, freq=1714]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zhōng")
+      alternatif tak-langka: zhōng (cangkir tanpa pegangan; piala); zhōng (lonceng (besar) (KP:架[jia4]))
+  - "射" (tersimpan: shè -- "varian lama dari 射[she4]") [HSK5, freq=1718]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 射[she4]"
+      alternatif tak-langka: shè (menembak)
+  - "墙" (tersimpan: qiáng -- "varian dari 牆|墙[qiang2]") [HSK2, freq=1741]
+      alasan dicurigai: arti default terlihat langka: "varian dari 牆|墙[qiang2]"
+      alternatif tak-langka: qiáng (dinding (KP:面[mian4],堵[du3]))
+  - "家伙" (tersimpan: jiā huo -- "varian dari 家伙[jia1 huo5]") [HSK7, freq=1757]
+      alasan dicurigai: arti default terlihat langka: "varian dari 家伙[jia1 huo5]"
+      alternatif tak-langka: jiā huo (piring rumah tangga, perkakas atau perabotan)
+  - "戏" (tersimpan: xì -- "varian dari 戲|戏[xi4]") [HSK5, freq=1763]
+      alasan dicurigai: arti default terlihat langka: "varian dari 戲|戏[xi4]"
+      alternatif tak-langka: xì (trik)
+  - "修" (tersimpan: Xiū -- "marga Xiu") [HSK3, freq=1778]
+      alasan dicurigai: pinyin diawali huruf kapital ("Xiū")
+      alternatif tak-langka: xiū (mendekorasi)
+  - "戴" (tersimpan: Dài -- "marga Dai") [HSK4, freq=1802]
+      alasan dicurigai: pinyin diawali huruf kapital ("Dài")
+      alternatif tak-langka: dài (memakai (kacamata, topi, sarung tangan, dll.))
+  - "黄" (tersimpan: Huáng -- "kuning") [HSK2, freq=1809]
+      alasan dicurigai: pinyin diawali huruf kapital ("Huáng")
+      alternatif tak-langka: huáng (kuning)
+  - "岛" (tersimpan: dǎo -- "varian dari 島|岛[dao3]") [HSK6, freq=1816]
+      alasan dicurigai: arti default terlihat langka: "varian dari 島|岛[dao3]"
+      alternatif tak-langka: dǎo (pulau)
+  - "官" (tersimpan: Guān -- "pejabat pemerintah") [HSK4, freq=1825]
+      alasan dicurigai: pinyin diawali huruf kapital ("Guān")
+      alternatif tak-langka: guān (pejabat pemerintah)
+  - "付" (tersimpan: Fù -- "membayar") [HSK3, freq=1840]
+      alasan dicurigai: pinyin diawali huruf kapital ("Fù")
+      alternatif tak-langka: fù (membayar)
+  - "宝" (tersimpan: bǎo -- "varian dari 寶|宝[bao3]") [HSK4, freq=1908]
+      alasan dicurigai: arti default terlihat langka: "varian dari 寶|宝[bao3]"
+      alternatif tak-langka: bǎo (permata)
+  - "解" (tersimpan: Xiè -- "pertunjukan akrobatik (terutama di atas kuda) (kuno)") [HSK6, freq=1971]
+      alasan dicurigai: pinyin diawali huruf kapital ("Xiè")
+      alternatif tak-langka: xiè (pertunjukan akrobatik (terutama di atas kuda) (kuno))
+  - "雪" (tersimpan: Xuě -- "salju") [HSK2, freq=1971]
+      alasan dicurigai: pinyin diawali huruf kapital ("Xuě")
+      alternatif tak-langka: xuě (salju)
+  - "费" (tersimpan: Fèi -- "biaya") [HSK3, freq=1997]
+      alasan dicurigai: pinyin diawali huruf kapital ("Fèi")
+      alternatif tak-langka: fèi (biaya)
+  - "许" (tersimpan: Xǔ -- "marga Xu") [HSK7, freq=2038]
+      alasan dicurigai: pinyin diawali huruf kapital ("Xǔ")
+      alternatif tak-langka: xǔ (mengizinkan)
+  - "党" (tersimpan: Dǎng -- "partai") [HSK6, freq=2047]
+      alasan dicurigai: pinyin diawali huruf kapital ("Dǎng")
+      alternatif tak-langka: dǎng (partai)
+  - "印" (tersimpan: Yìn -- "marga Yin") [HSK6, freq=2082]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yìn")
+      alternatif tak-langka: yìn (mencetak)
+  - "拖" (tersimpan: tuō -- "varian dari 拖[tuo1]") [HSK6, freq=2130]
+      alasan dicurigai: arti default terlihat langka: "varian dari 拖[tuo1]"
+      alternatif tak-langka: tuō (menyeret)
+  - "闹" (tersimpan: nào -- "varian dari 鬧|闹[nao4]") [HSK4, freq=2160]
+      alasan dicurigai: arti default terlihat langka: "varian dari 鬧|闹[nao4]"
+      alternatif tak-langka: nào (berisik)
+  - "塞" (tersimpan: Sāi -- "untuk menyumbat; untuk menutup; untuk memasukkan") [HSK6, freq=2163]
+      alasan dicurigai: pinyin diawali huruf kapital ("Sāi")
+      alternatif tak-langka: sāi (untuk menyumbat; untuk menutup; untuk memasukkan)
+  - "游" (tersimpan: Yóu -- "berenang") [HSK3, freq=2164]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yóu")
+      alternatif tak-langka: yóu (berenang); yóu (berjalan)
+  - "铁" (tersimpan: Tiě -- "marga Tie") [HSK3, freq=2193]
+      alasan dicurigai: pinyin diawali huruf kapital ("Tiě")
+      alternatif tak-langka: tiě (besi (logam))
+  - "注" (tersimpan: zhù -- "(bentuk terikat) menuangkan ke dalam; mengalir ke dalam; menyuntikkan") [HSK7, freq=2196]
+      alasan dicurigai: arti default terlihat langka: "(bentuk terikat) menuangkan ke dalam; mengalir ke dalam; menyuntikkan"
+      alternatif tak-langka: zhù (menganotasi; memberikan catatan penjelasan pada teks tertulis)
+  - "汤" (tersimpan: Tāng -- "sup") [HSK3, freq=2237]
+      alasan dicurigai: pinyin diawali huruf kapital ("Tāng")
+      alternatif tak-langka: tāng (sup)
+  - "签" (tersimpan: qiān -- "menandatangani nama; menulis komentar singkat pada dokumen; stik bambu bertulis (varian dari 籤|签[qian1]); visa") [HSK5, freq=2244]
+      alasan dicurigai: arti default terlihat langka: "menandatangani nama; menulis komentar singkat pada dokumen; stik bambu bertulis (varian dari 籤|签[qian1]); visa"
+      alternatif tak-langka: qiān (tongkat bambu bertuliskan (digunakan dalam ramalan, perjudian, undian dll))
+  - "价" (tersimpan: jià -- "(sastra) pembawa pesan; pelayan") [HSK5, freq=2258]
+      alasan dicurigai: arti default terlihat langka: "(sastra) pembawa pesan; pelayan"
+      alternatif tak-langka: jià (harga)
+  - "凭" (tersimpan: píng -- "varian dari 憑|凭[ping2]") [HSK5, freq=2277]
+      alasan dicurigai: arti default terlihat langka: "varian dari 憑|凭[ping2]"
+      alternatif tak-langka: píng (bersandar pada)
+  - "归" (tersimpan: Guī -- "kembali") [HSK4, freq=2278]
+      alasan dicurigai: pinyin diawali huruf kapital ("Guī")
+      alternatif tak-langka: guī (kembali)
+  - "胸" (tersimpan: xiōng -- "varian dari 胸[xiong1]") [HSK-, freq=2291]
+      alasan dicurigai: arti default terlihat langka: "varian dari 胸[xiong1]"
+      alternatif tak-langka: xiōng (dada)
+  - "举" (tersimpan: jǔ -- "varian dari 舉|举[ju3]") [HSK2, freq=2311]
+      alasan dicurigai: arti default terlihat langka: "varian dari 舉|举[ju3]"
+      alternatif tak-langka: jǔ (mengangkat)
+  - "资源" (tersimpan: Zī yuán -- "lihat 資源縣|资源县[Zi1 yuan2 Xian4]") [HSK4, freq=2319]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zī yuán")
+      alternatif tak-langka: zī yuán (lihat 資源縣|资源县[Zi1 yuan2 Xian4]); zī yuán (kabupaten Ziyuan di Guilin 桂林[Gui4 lin2], Guangxi); zī yuán (sumber daya alam (seperti air atau mineral))
+  - "角" (tersimpan: Jué -- "peran (teater); bersaing; bejana anggur kuno berkaki tiga; nada ketiga dari skala pentatonik") [HSK2, freq=2370]
+      alasan dicurigai: pinyin diawali huruf kapital ("Jué")
+      alternatif tak-langka: jué (peran (teater); bersaing; bejana anggur kuno berkaki tiga; nada ketiga dari skala pentatonik)
+  - "冒" (tersimpan: mào -- "varian lama dari 冒[mao4]") [HSK5, freq=2381]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 冒[mao4]"
+      alternatif tak-langka: mào (memancarkan; mengeluarkan; mengirim (atau ke atas, ke depan))
+  - "土" (tersimpan: Tǔ -- "Tu (kelompok etnis)") [HSK3, freq=2399]
+      alasan dicurigai: pinyin diawali huruf kapital ("Tǔ")
+      alternatif tak-langka: tǔ (Tu (kelompok etnis)); tǔ (tanah)
+  - "念" (tersimpan: niàn -- "varian dari 念[nian4], membaca dengan lantang") [HSK3, freq=2410]
+      alasan dicurigai: arti default terlihat langka: "varian dari 念[nian4], membaca dengan lantang"
+      alternatif tak-langka: niàn (membaca)
+  - "礼" (tersimpan: Lǐ -- "marga Li") [HSK5, freq=2414]
+      alasan dicurigai: pinyin diawali huruf kapital ("Lǐ")
+      alternatif tak-langka: lǐ (hadiah)
+  - "闻" (tersimpan: Wén -- "marganya Wen") [HSK2, freq=2427]
+      alasan dicurigai: pinyin diawali huruf kapital ("Wén")
+      alternatif tak-langka: wén (marganya Wen); wén (mendengar)
+  - "百" (tersimpan: Bǎi -- "seratus") [HSK1, freq=2455]
+      alasan dicurigai: pinyin diawali huruf kapital ("Bǎi")
+      alternatif tak-langka: bǎi (seratus)
+  - "恶心" (tersimpan: ě xīn -- "varian dari 噁心|恶心[e3 xin1]") [HSK4, freq=2463]
+      alasan dicurigai: arti default terlihat langka: "varian dari 噁心|恶心[e3 xin1]"
+      alternatif tak-langka: ě xīn (mual)
+  - "将军" (tersimpan: Jiāng jūn -- "(nama tempat umum)") [HSK6, freq=2465]
+      alasan dicurigai: pinyin diawali huruf kapital ("Jiāng jūn")
+      alternatif tak-langka: jiāng jūn ((nama tempat umum)); jiāng jūn (jenderal; perwira militer berpangkat tinggi; memeriksa atau sekakmat; (kiasan) mempermalukan; menantang; menempatkan seseorang dalam kesulitan)
+  - "草" (tersimpan: cǎo -- "varian dari 草[cao3]") [HSK2, freq=2467]
+      alasan dicurigai: arti default terlihat langka: "varian dari 草[cao3]"
+      alternatif tak-langka: cǎo (rumput)
+  - "曲" (tersimpan: Qū -- "marga Qu") [HSK7, freq=2509]
+      alasan dicurigai: pinyin diawali huruf kapital ("Qū")
+      alternatif tak-langka: qū (bengkok); qū (starter fermentasi; ragi (jamur, ragi, atau bakteri yang digunakan dalam memfermentasi produk kedelai atau pembuatan bir dll))
+  - "现代" (tersimpan: Xiàn dài -- "Hyundai, perusahaan Korea Selatan") [HSK3, freq=2512]
+      alasan dicurigai: pinyin diawali huruf kapital ("Xiàn dài")
+      alternatif tak-langka: xiàn dài (Hyundai, perusahaan Korea Selatan); xiàn dài (zaman modern)
+  - "古" (tersimpan: Gǔ -- "marga Gu") [HSK3, freq=2558]
+      alasan dicurigai: pinyin diawali huruf kapital ("Gǔ")
+      alternatif tak-langka: gǔ (kuno)
+  - "羊" (tersimpan: Yáng -- "marga Yang") [HSK3, freq=2574]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yáng")
+      alternatif tak-langka: yáng (domba; kambing)
+  - "湿" (tersimpan: shī -- "varian dari 濕|湿[shi1]") [HSK4, freq=2585]
+      alasan dicurigai: arti default terlihat langka: "varian dari 濕|湿[shi1]"
+      alternatif tak-langka: shī (lembap)
+  - "枚" (tersimpan: Méi -- "marga Mei") [HSK7, freq=2591]
+      alasan dicurigai: pinyin diawali huruf kapital ("Méi")
+      alternatif tak-langka: méi (penggolong untuk benda kecil: koin, lencana, cincin, cap ukir, bidak catur, telur, sidik jari, dll (lebih formal daripada 個|个[ge4]))
+  - "暗" (tersimpan: àn -- "varian dari 暗[an4]") [HSK4, freq=2594]
+      alasan dicurigai: arti default terlihat langka: "varian dari 暗[an4]"
+      alternatif tak-langka: àn (gelap)
+  - "诗" (tersimpan: Shī -- "puisi") [HSK4, freq=2594]
+      alasan dicurigai: pinyin diawali huruf kapital ("Shī")
+      alternatif tak-langka: shī (puisi); shī (singkatan dari Shijing 詩經|诗经[Shi1 jing1], Kitab Lagu)
+  - "立" (tersimpan: Lì -- "berdiri") [HSK5, freq=2622]
+      alasan dicurigai: pinyin diawali huruf kapital ("Lì")
+      alternatif tak-langka: lì (berdiri)
+  - "滑" (tersimpan: Huá -- "marga Hua") [HSK5, freq=2639]
+      alasan dicurigai: pinyin diawali huruf kapital ("Huá")
+      alternatif tak-langka: huá (tergelincir; meluncur)
+  - "公布" (tersimpan: gōng bù -- "varian dari 公布[gong1 bu4]") [HSK3, freq=2655]
+      alasan dicurigai: arti default terlihat langka: "varian dari 公布[gong1 bu4]"
+      alternatif tak-langka: gōng bù (mengumumkan; untuk mempublikasikan; untuk menerbitkan)
+  - "题" (tersimpan: Tí -- "marga Ti") [HSK2, freq=2690]
+      alasan dicurigai: pinyin diawali huruf kapital ("Tí")
+      alternatif tak-langka: tí (topik)
+  - "露" (tersimpan: Lù -- "marga Lu") [HSK6, freq=2700]
+      alasan dicurigai: pinyin diawali huruf kapital ("Lù")
+      alternatif tak-langka: lù (embun)
+  - "发布" (tersimpan: fā bù -- "varian dari 發布|发布[fa1 bu4]") [HSK5, freq=2711]
+      alasan dicurigai: arti default terlihat langka: "varian dari 發布|发布[fa1 bu4]"
+      alternatif tak-langka: fā bù (merilis)
+  - "环" (tersimpan: Huán -- "marga Huan") [HSK3, freq=2712]
+      alasan dicurigai: pinyin diawali huruf kapital ("Huán")
+      alternatif tak-langka: huán (cincin)
+  - "熊" (tersimpan: Xióng -- "marga Xiong") [HSK5, freq=2749]
+      alasan dicurigai: pinyin diawali huruf kapital ("Xióng")
+      alternatif tak-langka: xióng (beruang)
+  - "齐" (tersimpan: Qí -- "(nama negara bagian dan dinasti pada beberapa periode yang berbeda)") [HSK3, freq=2763]
+      alasan dicurigai: pinyin diawali huruf kapital ("Qí")
+      alternatif tak-langka: qí ((nama negara bagian dan dinasti pada beberapa periode yang berbeda)); qí (rapi)
+  - "咨询" (tersimpan: zī xún -- "varian dari 諮詢|咨询[zi1 xun2]") [HSK6, freq=2768]
+      alasan dicurigai: arti default terlihat langka: "varian dari 諮詢|咨询[zi1 xun2]"
+      alternatif tak-langka: zī xún (bertanya; berkonsultasi; mencari nasihat dari)
+  - "松" (tersimpan: Sōng -- "pinus") [HSK4, freq=2768]
+      alasan dicurigai: pinyin diawali huruf kapital ("Sōng")
+      alternatif tak-langka: sōng (pinus); sōng (longgar)
+  - "青" (tersimpan: Qīng -- "hijau") [HSK5, freq=2780]
+      alasan dicurigai: pinyin diawali huruf kapital ("Qīng")
+      alternatif tak-langka: qīng (hijau); qīng (singkatan dari 青海[Qing1 hai3], Provinsi Qinghai)
+  - "辣" (tersimpan: là -- "varian lama dari 辣[la4]") [HSK4, freq=2791]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 辣[la4]"
+      alternatif tak-langka: là (pedas (rasa))
+  - "野" (tersimpan: yě -- "varian lama dari 野[ye3]") [HSK6, freq=2794]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 野[ye3]"
+      alternatif tak-langka: yě (padang rumput)
+  - "围" (tersimpan: Wéi -- "melingkari") [HSK3, freq=2818]
+      alasan dicurigai: pinyin diawali huruf kapital ("Wéi")
+      alternatif tak-langka: wéi (melingkari)
+  - "煮" (tersimpan: zhǔ -- "varian dari 煮[zhu3]") [HSK6, freq=2829]
+      alasan dicurigai: arti default terlihat langka: "varian dari 煮[zhu3]"
+      alternatif tak-langka: zhǔ (memasak)
+  - "碰" (tersimpan: pèng -- "varian dari 碰[peng4]") [HSK2, freq=2829]
+      alasan dicurigai: arti default terlihat langka: "varian dari 碰[peng4]"
+      alternatif tak-langka: pèng (menyentuh)
+  - "业" (tersimpan: Yè -- "marga Ye") [HSK7, freq=2831]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yè")
+      alternatif tak-langka: yè (bidang usaha)
+  - "福" (tersimpan: Fú -- "marga Fu") [HSK3, freq=2845]
+      alasan dicurigai: pinyin diawali huruf kapital ("Fú")
+      alternatif tak-langka: fú (keberuntungan baik)
+  - "碗" (tersimpan: wǎn -- "varian dari 碗[wan3]") [HSK2, freq=2866]
+      alasan dicurigai: arti default terlihat langka: "varian dari 碗[wan3]"
+      alternatif tak-langka: wǎn (mangkuk)
+  - "闪" (tersimpan: Shǎn -- "marga Shan") [HSK4, freq=2909]
+      alasan dicurigai: pinyin diawali huruf kapital ("Shǎn")
+      alternatif tak-langka: shǎn (menghindar)
+  - "计" (tersimpan: Jì -- "marga Ji") [HSK7, freq=2925]
+      alasan dicurigai: pinyin diawali huruf kapital ("Jì")
+      alternatif tak-langka: jì (menghitung)
+  - "斗" (tersimpan: Dǒu -- "alat ukur kering untuk biji-bijian setara sepuluh 升[sheng1] atau sepersepuluh 升[dan4]") [HSK7, freq=2960]
+      alasan dicurigai: pinyin diawali huruf kapital ("Dǒu")
+      alternatif tak-langka: dǒu (alat ukur kering untuk biji-bijian setara sepuluh 升[sheng1] atau sepersepuluh 升[dan4]); dǒu (singkatan dari rasi bintang Biduk 北斗星[Bei3 dou3 xing1])
+  - "乘" (tersimpan: Chéng -- "menaiki") [HSK5, freq=2982]
+      alasan dicurigai: pinyin diawali huruf kapital ("Chéng")
+      alternatif tak-langka: chéng (menaiki)
+  - "蒙" (tersimpan: méng -- "(sastra) tulus; jujur; asli") [HSK6, freq=2993]
+      alasan dicurigai: arti default terlihat langka: "(sastra) tulus; jujur; asli"
+      alternatif tak-langka: méng (gerimis); méng (buta); méng (menutupi)
+  - "富" (tersimpan: Fù -- "marga Fu") [HSK3, freq=3016]
+      alasan dicurigai: pinyin diawali huruf kapital ("Fù")
+      alternatif tak-langka: fù (kaya)
+  - "耍" (tersimpan: Shuǎ -- "bermain dengan") [HSK7, freq=3070]
+      alasan dicurigai: pinyin diawali huruf kapital ("Shuǎ")
+      alternatif tak-langka: shuǎ (bermain dengan)
+  - "踩" (tersimpan: cǎi -- "varian dari 踩[cai3]") [HSK6, freq=3087]
+      alasan dicurigai: arti default terlihat langka: "varian dari 踩[cai3]"
+      alternatif tak-langka: cǎi (menginjak; menghentak; menekan pedal; mengayuh (sepeda); (online) memberikan jempol ke bawah)
+  - "肯" (tersimpan: kěn -- "varian lama dari 肯[ken3]") [HSK6, freq=3114]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 肯[ken3]"
+      alternatif tak-langka: kěn (bersedia; menyetujui)
+  - "咱" (tersimpan: zán -- "varian dari 咱[zan2]") [HSK2, freq=3116]
+      alasan dicurigai: arti default terlihat langka: "varian dari 咱[zan2]"
+      alternatif tak-langka: zán (aku atau saya)
+  - "摇" (tersimpan: Yáo -- "marga Yao") [HSK4, freq=3118]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yáo")
+      alternatif tak-langka: yáo (menggoyangkan)
+  - "宫" (tersimpan: Gōng -- "marga Gong") [HSK6, freq=3150]
+      alasan dicurigai: pinyin diawali huruf kapital ("Gōng")
+      alternatif tak-langka: gōng (istana)
+  - "趟" (tersimpan: tāng -- "varian lama dari 趟[tang1]") [HSK6, freq=3174]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 趟[tang1]"
+      alternatif tak-langka: tāng (menyeberang)
+  - "田" (tersimpan: Tián -- "marga Tian") [HSK6, freq=3192]
+      alasan dicurigai: pinyin diawali huruf kapital ("Tián")
+      alternatif tak-langka: tián (ladang)
+  - "友好" (tersimpan: Yǒu hǎo -- "lihat 友好區|友好区[You3 hao3 Qu1]") [HSK2, freq=3210]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yǒu hǎo")
+      alternatif tak-langka: yǒu hǎo (lihat 友好區|友好区[You3 hao3 Qu1]); yǒu hǎo (Distrik Youhao di kota Yichun 伊春市[Yi1 chun1 shi4], Heilongjiang); yǒu hǎo (ramah; bersahabat)
+  - "丁" (tersimpan: Dīng -- "pria dewasa") [HSK7, freq=3211]
+      alasan dicurigai: pinyin diawali huruf kapital ("Dīng")
+      alternatif tak-langka: dīng (pria dewasa)
+  - "创" (tersimpan: chuàng -- "varian dari 創|创[chuang4]") [HSK7, freq=3252]
+      alasan dicurigai: arti default terlihat langka: "varian dari 創|创[chuang4]"
+      alternatif tak-langka: chuàng (memulai; menciptakan; mencapai (sesuatu untuk pertama kalinya))
+  - "致" (tersimpan: zhì -- "(bentuk terikat) halus; lembut; indah") [HSK7, freq=3258]
+      alasan dicurigai: arti default terlihat langka: "(bentuk terikat) halus; lembut; indah"
+      alternatif tak-langka: zhì (mengirim; mentransmisikan; menyampaikan)
+  - "章" (tersimpan: Zhāng -- "marga Zhang") [HSK6, freq=3279]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zhāng")
+      alternatif tak-langka: zhāng (bab)
+  - "奇迹" (tersimpan: qí jì -- "varian dari 奇蹟|奇迹[qi2 ji4]") [HSK7, freq=3345]
+      alasan dicurigai: arti default terlihat langka: "varian dari 奇蹟|奇迹[qi2 ji4]"
+      alternatif tak-langka: qí jì (keajaiban; keanehan; hal yang menakjubkan)
+  - "蛇" (tersimpan: shé -- "varian dari 蛇[she2]") [HSK5, freq=3448]
+      alasan dicurigai: arti default terlihat langka: "varian dari 蛇[she2]"
+      alternatif tak-langka: shé (ular)
+  - "宽" (tersimpan: Kuān -- "marga Kuan") [HSK4, freq=3471]
+      alasan dicurigai: pinyin diawali huruf kapital ("Kuān")
+      alternatif tak-langka: kuān (lebar)
+  - "密" (tersimpan: Mì -- "marga Mi") [HSK4, freq=3591]
+      alasan dicurigai: pinyin diawali huruf kapital ("Mì")
+      alternatif tak-langka: mì (padat; rapat; tebal)
+  - "港" (tersimpan: Gǎng -- "pelabuhan") [HSK7, freq=3599]
+      alasan dicurigai: pinyin diawali huruf kapital ("Gǎng")
+      alternatif tak-langka: gǎng (pelabuhan); gǎng (Hong Kong (singkatan dari 香港[Xiang1 gang3]))
+  - "大门" (tersimpan: Dà mén -- "The Doors, band rock AS") [HSK2, freq=3619]
+      alasan dicurigai: pinyin diawali huruf kapital ("Dà mén")
+      alternatif tak-langka: dà mén (The Doors, band rock AS); dà mén (pintu masuk)
+  - "井" (tersimpan: Jǐng -- "sebuah sumur") [HSK6, freq=3630]
+      alasan dicurigai: pinyin diawali huruf kapital ("Jǐng")
+      alternatif tak-langka: jǐng (sebuah sumur); jǐng (Jing, salah satu dari 28 rasi bintang astronomi Tiongkok)
+  - "钻" (tersimpan: zuàn -- "varian dari 鑽|钻[zuan4]") [HSK6, freq=3642]
+      alasan dicurigai: arti default terlihat langka: "varian dari 鑽|钻[zuan4]"
+      alternatif tak-langka: zuàn (bor; auger)
+  - "大众" (tersimpan: Dà zhòng -- "Volkswagen (produsen mobil)") [HSK4, freq=3665]
+      alasan dicurigai: pinyin diawali huruf kapital ("Dà zhòng")
+      alternatif tak-langka: dà zhòng (Volkswagen (produsen mobil)); dà zhòng (massa)
+  - "佛" (tersimpan: Fó -- "Buddha; Buddhisme (singkatan dari 佛陀[Fo2 tuo2])") [HSK6, freq=3671]
+      alasan dicurigai: pinyin diawali huruf kapital ("Fó")
+      alternatif tak-langka: fó (Buddha; Buddhisme (singkatan dari 佛陀[Fo2 tuo2]))
+  - "晒" (tersimpan: shài -- "varian dari 曬|晒[shai4]") [HSK4, freq=3679]
+      alasan dicurigai: arti default terlihat langka: "varian dari 曬|晒[shai4]"
+      alternatif tak-langka: shài ((sinar matahari) bersinar pada)
+  - "末" (tersimpan: mò -- "varian dari 麼|么[me5]") [HSK4, freq=3736]
+      alasan dicurigai: arti default terlihat langka: "varian dari 麼|么[me5]"
+      alternatif tak-langka: mò (ujung)
+  - "裤子" (tersimpan: kù zi -- "varian dari 褲子|裤子, celana panjang") [HSK3, freq=3765]
+      alasan dicurigai: arti default terlihat langka: "varian dari 褲子|裤子, celana panjang"
+      alternatif tak-langka: kù zi (celana panjang)
+  - "收获" (tersimpan: shōu huò -- "varian dari 收穫|收获[shou1 huo4]") [HSK4, freq=3809]
+      alasan dicurigai: arti default terlihat langka: "varian dari 收穫|收获[shou1 huo4]"
+      alternatif tak-langka: shōu huò (memanen)
+  - "尚" (tersimpan: Shàng -- "masih") [HSK7, freq=3816]
+      alasan dicurigai: pinyin diawali huruf kapital ("Shàng")
+      alternatif tak-langka: shàng (masih)
+  - "夏" (tersimpan: Xià -- "musim panas") [HSK-, freq=3828]
+      alasan dicurigai: pinyin diawali huruf kapital ("Xià")
+      alternatif tak-langka: xià (musim panas); xià (dinasti Xia atau Hsia sekitar 2000 SM)
+  - "丑" (tersimpan: Chǒu -- "marga Chou") [HSK5, freq=3841]
+      alasan dicurigai: pinyin diawali huruf kapital ("Chǒu")
+      alternatif tak-langka: chǒu (badut); chǒu (memalukan)
+  - "大陆" (tersimpan: Dà lù -- "daratan Tiongkok (merujuk pada RRT)") [HSK4, freq=3855]
+      alasan dicurigai: pinyin diawali huruf kapital ("Dà lù")
+      alternatif tak-langka: dà lù (daratan Tiongkok (merujuk pada RRT)); dà lù (benua; daratan)
+  - "暖" (tersimpan: nuǎn -- "varian lama dari 暖[nuan3]") [HSK5, freq=3896]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 暖[nuan3]"
+      alternatif tak-langka: nuǎn (hangat)
+  - "宗" (tersimpan: Zōng -- "sekolah") [HSK7, freq=3992]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zōng")
+      alternatif tak-langka: zōng (sekolah)
+  - "迟" (tersimpan: Chí -- "terlambat") [HSK5, freq=4008]
+      alasan dicurigai: pinyin diawali huruf kapital ("Chí")
+      alternatif tak-langka: chí (terlambat)
+  - "合并" (tersimpan: hé bìng -- "varian dari 合併|合并[he2 bing4]") [HSK5, freq=4049]
+      alasan dicurigai: arti default terlihat langka: "varian dari 合併|合并[he2 bing4]"
+      alternatif tak-langka: hé bìng (menggabungkan)
+  - "阴" (tersimpan: Yīn -- "mendung (cuaca)") [HSK2, freq=4058]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yīn")
+      alternatif tak-langka: yīn (mendung (cuaca))
+  - "春" (tersimpan: chūn -- "varian lama dari 春[chun1]") [HSK-, freq=4065]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 春[chun1]"
+      alternatif tak-langka: chūn (musim semi)
+  - "沉" (tersimpan: chén -- "varian dari 沉[chen2]") [HSK4, freq=4077]
+      alasan dicurigai: arti default terlihat langka: "varian dari 沉[chen2]"
+      alternatif tak-langka: chén (menyelam)
+  - "凉" (tersimpan: Liáng -- "sejuk") [HSK2, freq=4088]
+      alasan dicurigai: pinyin diawali huruf kapital ("Liáng")
+      alternatif tak-langka: liáng (sejuk); liáng (lima Liang dari Enam Belas Kerajaan, yaitu: Liang Depan 前涼|前凉 (314-376), Liang Belakang 後涼|后凉 (386-403), Liang Utara 北涼|北凉 (398-439), Liang Selatan 南涼|南凉[Nan2 Liang2] (397-414), Liang Barat 西涼|西凉 (400-421))
+  - "薄" (tersimpan: Bó -- "sedikit") [HSK4, freq=4129]
+      alasan dicurigai: pinyin diawali huruf kapital ("Bó")
+      alternatif tak-langka: bó (sedikit)
+  - "铺" (tersimpan: pù -- "varian dari 鋪|铺[pu4]") [HSK6, freq=4209]
+      alasan dicurigai: arti default terlihat langka: "varian dari 鋪|铺[pu4]"
+      alternatif tak-langka: pù (tempat tidur papan)
+  - "狮子" (tersimpan: Shī zǐ -- "Leo (zodiak)") [HSK7, freq=4295]
+      alasan dicurigai: pinyin diawali huruf kapital ("Shī zǐ")
+      alternatif tak-langka: shī zǐ (Leo (zodiak))
+  - "附" (tersimpan: fù -- "varian dari 附[fu4]") [HSK7, freq=4355]
+      alasan dicurigai: arti default terlihat langka: "varian dari 附[fu4]"
+      alternatif tak-langka: fù (menambah; melampirkan)
+  - "驾" (tersimpan: Jià -- "marga Jia") [HSK7, freq=4390]
+      alasan dicurigai: pinyin diawali huruf kapital ("Jià")
+      alternatif tak-langka: jià (mengharness)
+  - "反复" (tersimpan: fǎn fù -- "varian dari 反覆|反复[fan3 fu4]") [HSK3, freq=4626]
+      alasan dicurigai: arti default terlihat langka: "varian dari 反覆|反复[fan3 fu4]"
+      alternatif tak-langka: fǎn fù (berulang kali)
+  - "裸" (tersimpan: luǒ -- "varian dari 裸[luo3]") [HSK7, freq=4679]
+      alasan dicurigai: arti default terlihat langka: "varian dari 裸[luo3]"
+      alternatif tak-langka: luǒ (telanjang)
+  - "江" (tersimpan: Jiāng -- "marga Jiang") [HSK4, freq=4802]
+      alasan dicurigai: pinyin diawali huruf kapital ("Jiāng")
+      alternatif tak-langka: jiāng (sungai)
+  - "飘" (tersimpan: piāo -- "varian dari 飄|飘[piao1]") [HSK7, freq=4833]
+      alasan dicurigai: arti default terlihat langka: "varian dari 飄|飘[piao1]"
+      alternatif tak-langka: piāo (melayang (di udara); berkibar; mengharum)
+  - "园" (tersimpan: Yuán -- "tanah yang digunakan untuk menanam tanaman") [HSK6, freq=4873]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yuán")
+      alternatif tak-langka: yuán (tanah yang digunakan untuk menanam tanaman)
+  - "劫" (tersimpan: jié -- "varian dari 劫[jie2]") [HSK7, freq=4931]
+      alasan dicurigai: arti default terlihat langka: "varian dari 劫[jie2]"
+      alternatif tak-langka: jié (merampok)
+  - "净" (tersimpan: jìng -- "varian dari 淨|净[jing4]") [HSK6, freq=4961]
+      alasan dicurigai: arti default terlihat langka: "varian dari 淨|净[jing4]"
+      alternatif tak-langka: jìng (bersih)
+  - "焦" (tersimpan: Jiāo -- "terbakar") [HSK7, freq=4965]
+      alasan dicurigai: pinyin diawali huruf kapital ("Jiāo")
+      alternatif tak-langka: jiāo (terbakar)
+  - "麻" (tersimpan: má -- "rami (varian dari 麻[ma2])") [HSK7, freq=4988]
+      alasan dicurigai: arti default terlihat langka: "rami (varian dari 麻[ma2])"
+      alternatif tak-langka: má (nama generik untuk rami, linen dll)
+  - "姜" (tersimpan: Jiāng -- "marga Jiang") [HSK7, freq=5083]
+      alasan dicurigai: pinyin diawali huruf kapital ("Jiāng")
+      alternatif tak-langka: jiāng (jahe)
+  - "晃" (tersimpan: huǎng -- "varian dari 晃[huang3]") [HSK7, freq=5102]
+      alasan dicurigai: arti default terlihat langka: "varian dari 晃[huang3]"
+      alternatif tak-langka: huǎng (mempesona)
+  - "东方" (tersimpan: Dōng fāng -- "Timur; Orient") [HSK2, freq=5137]
+      alasan dicurigai: pinyin diawali huruf kapital ("Dōng fāng")
+      alternatif tak-langka: dōng fāng (Timur; Orient); dōng fāng (timur)
+  - "魂" (tersimpan: hún -- "varian lama dari 魂[hun2]") [HSK7, freq=5167]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 魂[hun2]"
+      alternatif tak-langka: hún (jiwa; roh; jiwa abadi (yang dapat terpisah dari tubuh))
+  - "抽烟" (tersimpan: chōu yān -- "varian dari 抽菸|抽烟[chou1 yan1]") [HSK4, freq=5335]
+      alasan dicurigai: arti default terlihat langka: "varian dari 抽菸|抽烟[chou1 yan1]"
+      alternatif tak-langka: chōu yān (merokok (tembakau))
+  - "顾" (tersimpan: Gù -- "marga Gu") [HSK6, freq=5341]
+      alasan dicurigai: pinyin diawali huruf kapital ("Gù")
+      alternatif tak-langka: gù (menjaga; mempertimbangkan; mengurus)
+  - "孔" (tersimpan: Kǒng -- "marga Kong") [HSK-, freq=5446]
+      alasan dicurigai: pinyin diawali huruf kapital ("Kǒng")
+      alternatif tak-langka: kǒng (lubang)
+  - "鼓" (tersimpan: gǔ -- "varian lama dari 鼓[gu3]") [HSK5, freq=5510]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 鼓[gu3]"
+      alternatif tak-langka: gǔ (drum)
+  - "蠢" (tersimpan: chǔn -- "varian dari 蠢[chun3]; bodoh") [HSK7, freq=5576]
+      alasan dicurigai: arti default terlihat langka: "varian dari 蠢[chun3]; bodoh"
+      alternatif tak-langka: chǔn (bodoh)
+  - "凤凰" (tersimpan: Fèng huáng -- "lihat 鳳凰縣|凤凰县[Feng4 huang2 Xian4]") [HSK7, freq=5578]
+      alasan dicurigai: pinyin diawali huruf kapital ("Fèng huáng")
+      alternatif tak-langka: fèng huáng (lihat 鳳凰縣|凤凰县[Feng4 huang2 Xian4]); fèng huáng (phoenix)
+  - "秋" (tersimpan: Qiū -- "musim gugur") [HSK-, freq=5603]
+      alasan dicurigai: pinyin diawali huruf kapital ("Qiū")
+      alternatif tak-langka: qiū (musim gugur); qiū (digunakan dalam 鞦韆|秋千[qiu1 qian1])
+  - "孙子" (tersimpan: Sūn zǐ -- "Sun Tzu, juga dikenal sebagai Sun Wu 孫武|孙武[Sun1 Wu3] (sekitar 500 SM, tanggal lahir dan kematian tidak pasti), jenderal, ahli strategi dan filsuf Periode Musim Semi dan Gugur (700-475 SM), dipercaya sebagai penulis "Seni Perang" 孫子兵法|孙子兵法[Sun1 zi3 Bing1 fa3], salah satu dari Tujuh Kitab Militer Kuno Tiongkok 武經七書|武经七书[Wu3 jing1 Qi1 shu1]") [HSK4, freq=5639]
+      alasan dicurigai: pinyin diawali huruf kapital ("Sūn zǐ")
+      alternatif tak-langka: sūn zǐ (Sun Tzu, juga dikenal sebagai Sun Wu 孫武|孙武[Sun1 Wu3] (sekitar 500 SM, tanggal lahir dan kematian tidak pasti), jenderal, ahli strategi dan filsuf Periode Musim Semi dan Gugur (700-475 SM), dipercaya sebagai penulis "Seni Perang" 孫子兵法|孙子兵法[Sun1 zi3 Bing1 fa3], salah satu dari Tujuh Kitab Militer Kuno Tiongkok 武經七書|武经七书[Wu3 jing1 Qi1 shu1])
+  - "钩" (tersimpan: gōu -- "varian dari 鉤|钩[gou1]") [HSK7, freq=5639]
+      alasan dicurigai: arti default terlihat langka: "varian dari 鉤|钩[gou1]"
+      alternatif tak-langka: gōu (mengait)
+  - "颇" (tersimpan: Pō -- "marga Po") [HSK7, freq=5653]
+      alasan dicurigai: pinyin diawali huruf kapital ("Pō")
+      alternatif tak-langka: pō (cukup)
+  - "赖" (tersimpan: Lài -- "bergantung pada") [HSK6, freq=5777]
+      alasan dicurigai: pinyin diawali huruf kapital ("Lài")
+      alternatif tak-langka: lài (bergantung pada)
+  - "冲击" (tersimpan: chōng jī -- "varian dari 衝擊|冲击[chong1 ji1]") [HSK6, freq=5782]
+      alasan dicurigai: arti default terlihat langka: "varian dari 衝擊|冲击[chong1 ji1]"
+      alternatif tak-langka: chōng jī (menyerang)
+  - "严" (tersimpan: Yán -- "ketat (tertutup rapat)") [HSK4, freq=5871]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yán")
+      alternatif tak-langka: yán (ketat (tertutup rapat))
+  - "延长" (tersimpan: Yán cháng -- "memperpanjang") [HSK4, freq=5928]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yán cháng")
+      alternatif tak-langka: yán cháng (memperpanjang); yán cháng (kabupaten Yanchang di Yan'an 延安[Yan2 an1], Shaanxi)
+  - "邪" (tersimpan: xié -- "varian lama dari 邪[xie2]") [HSK7, freq=5941]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 邪[xie2]"
+      alternatif tak-langka: xié (demonik)
+  - "席" (tersimpan: Xí -- "marga Xi") [HSK7, freq=5971]
+      alasan dicurigai: pinyin diawali huruf kapital ("Xí")
+      alternatif tak-langka: xí (tikar anyaman)
+  - "赞同" (tersimpan: zàn tóng -- "varian dari 贊同|赞同[zan4 tong2]") [HSK7, freq=5974]
+      alasan dicurigai: arti default terlihat langka: "varian dari 贊同|赞同[zan4 tong2]"
+      alternatif tak-langka: zàn tóng (menyetujui; setuju dengan (pendapat, tindakan, dll); untuk mendukung)
+  - "扬" (tersimpan: Yáng -- "singkatan dari Yangzhou 揚州|扬州[Yang2 zhou1] di Jiangsu") [HSK7, freq=6047]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yáng")
+      alternatif tak-langka: yáng (singkatan dari Yangzhou 揚州|扬州[Yang2 zhou1] di Jiangsu); yáng (mengangkat)
+  - "鲜" (tersimpan: xiǎn -- "varian dari 鮮|鲜[xian3]") [HSK4, freq=6056]
+      alasan dicurigai: arti default terlihat langka: "varian dari 鮮|鲜[xian3]"
+      alternatif tak-langka: xiǎn (sedikit)
+  - "壮" (tersimpan: Zhuàng -- "suku Zhuang di Guangxi, kelompok etnis kedua terbesar di Republik Rakyat Tiongkok") [HSK7, freq=6069]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zhuàng")
+      alternatif tak-langka: zhuàng (suku Zhuang di Guangxi, kelompok etnis kedua terbesar di Republik Rakyat Tiongkok); zhuàng (memperkuat)
+  - "辞" (tersimpan: cí -- "varian lama dari 辭|辞[ci2]") [HSK7, freq=6073]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 辭|辞[ci2]"
+      alternatif tak-langka: cí (mengundurkan diri)
+  - "回避" (tersimpan: huí bì -- "varian dari 迴避|回避[hui2 bi4]") [HSK5, freq=6113]
+      alasan dicurigai: arti default terlihat langka: "varian dari 迴避|回避[hui2 bi4]"
+      alternatif tak-langka: huí bì (menghindari; menghindari (seseorang))
+  - "勾" (tersimpan: Gōu -- "marga Gou") [HSK7, freq=6157]
+      alasan dicurigai: pinyin diawali huruf kapital ("Gōu")
+      alternatif tak-langka: gōu (menarik)
+  - "砖" (tersimpan: zhuān -- "varian dari 甎|砖[zhuan1]") [HSK7, freq=6186]
+      alasan dicurigai: arti default terlihat langka: "varian dari 甎|砖[zhuan1]"
+      alternatif tak-langka: zhuān (bata)
+  - "清新" (tersimpan: Qīng xīn -- "lihat 清新區|清新区[Qing1 xin1 Qu1]") [HSK7, freq=6188]
+      alasan dicurigai: pinyin diawali huruf kapital ("Qīng xīn")
+      alternatif tak-langka: qīng xīn (lihat 清新區|清新区[Qing1 xin1 Qu1]); qīng xīn (kabupaten Qingxin di Qingyuan 清遠|清远[Qing1 yuan3], Guangdong); qīng xīn (segar dan bersih)
+  - "杂" (tersimpan: zá -- "varian dari 雜|杂[za2]") [HSK6, freq=6202]
+      alasan dicurigai: arti default terlihat langka: "varian dari 雜|杂[za2]"
+      alternatif tak-langka: zá (campuran)
+  - "懒" (tersimpan: lǎn -- "varian dari 懶|懒[lan3]") [HSK6, freq=6238]
+      alasan dicurigai: arti default terlihat langka: "varian dari 懶|懒[lan3]"
+      alternatif tak-langka: lǎn (malas)
+  - "东北" (tersimpan: Dōng běi -- "Tiongkok Timur Laut; Manchuria") [HSK2, freq=6344]
+      alasan dicurigai: pinyin diawali huruf kapital ("Dōng běi")
+      alternatif tak-langka: dōng běi (Tiongkok Timur Laut; Manchuria); dōng běi (timur laut)
+  - "答复" (tersimpan: dá fù -- "varian dari 答覆|答复[da2 fu4]") [HSK5, freq=6463]
+      alasan dicurigai: arti default terlihat langka: "varian dari 答覆|答复[da2 fu4]"
+      alternatif tak-langka: dá fù (menjawab)
+  - "束" (tersimpan: Shù -- "marga Shu") [HSK3, freq=6473]
+      alasan dicurigai: pinyin diawali huruf kapital ("Shù")
+      alternatif tak-langka: shù (mengikat)
+  - "雇" (tersimpan: gù -- "varian dari 雇[gu4]") [HSK7, freq=6583]
+      alasan dicurigai: arti default terlihat langka: "varian dari 雇[gu4]"
+      alternatif tak-langka: gù (mempekerjakan)
+  - "阳台" (tersimpan: yáng tái -- "varian dari 陽臺|阳台[yang2 tai2]") [HSK4, freq=6690]
+      alasan dicurigai: arti default terlihat langka: "varian dari 陽臺|阳台[yang2 tai2]"
+      alternatif tak-langka: yáng tái (balkon)
+  - "岸" (tersimpan: àn -- "varian dari 岸[an4]") [HSK5, freq=6867]
+      alasan dicurigai: arti default terlihat langka: "varian dari 岸[an4]"
+      alternatif tak-langka: àn (tepi sungai; pantai; pesisir; garis pantai)
+  - "联想" (tersimpan: Lián xiǎng -- "Lenovo") [HSK5, freq=6895]
+      alasan dicurigai: pinyin diawali huruf kapital ("Lián xiǎng")
+      alternatif tak-langka: lián xiǎng (Lenovo); lián xiǎng (mengasosiasikan (secara kognitif))
+  - "翼" (tersimpan: Yì -- "marga Yi") [HSK-, freq=6996]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yì")
+      alternatif tak-langka: yì (sayap)
+  - "盛" (tersimpan: Shèng -- "marga Sheng") [HSK7, freq=7003]
+      alasan dicurigai: pinyin diawali huruf kapital ("Shèng")
+      alternatif tak-langka: shèng (berkembang pesat)
+  - "树林" (tersimpan: Shù lín -- "hutan") [HSK4, freq=7102]
+      alasan dicurigai: pinyin diawali huruf kapital ("Shù lín")
+      alternatif tak-langka: shù lín (hutan); shù lín (kota Shulin di Kota New Taipei 新北市[Xin1 bei3 shi4], Taiwan)
+  - "西北" (tersimpan: Xī běi -- "barat laut") [HSK2, freq=7263]
+      alasan dicurigai: pinyin diawali huruf kapital ("Xī běi")
+      alternatif tak-langka: xī běi (barat laut); xī běi (Tiongkok Barat Laut (Shaanxi, Gansu, Qinghai, Ningxia, Xinjiang))
+  - "墨" (tersimpan: Mò -- "marga Mo") [HSK7, freq=7266]
+      alasan dicurigai: pinyin diawali huruf kapital ("Mò")
+      alternatif tak-langka: mò (batu tinta)
+  - "延" (tersimpan: Yán -- "marga Yan") [HSK7, freq=7305]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yán")
+      alternatif tak-langka: yán (memperpanjang)
+  - "痒" (tersimpan: yǎng -- "varian dari 癢|痒[yang3]") [HSK7, freq=7367]
+      alasan dicurigai: arti default terlihat langka: "varian dari 癢|痒[yang3]"
+      alternatif tak-langka: yǎng (gatal)
+  - "咸" (tersimpan: Xián -- "semua") [HSK4, freq=7379]
+      alasan dicurigai: pinyin diawali huruf kapital ("Xián")
+      alternatif tak-langka: xián (semua); xián (diasinkan)
+  - "叠" (tersimpan: dié -- "varian dari 疊|叠[die2]") [HSK7, freq=7389]
+      alasan dicurigai: arti default terlihat langka: "varian dari 疊|叠[die2]"
+      alternatif tak-langka: dié (untuk menumpuk)
+  - "温泉" (tersimpan: Wēn quán -- "lihat 溫泉縣|温泉县[Wen1 quan2 Xian4]") [HSK7, freq=7424]
+      alasan dicurigai: pinyin diawali huruf kapital ("Wēn quán")
+      alternatif tak-langka: wēn quán (lihat 溫泉縣|温泉县[Wen1 quan2 Xian4]); wēn quán (pemandian air panas)
+  - "柜台" (tersimpan: guì tái -- "varian dari 櫃檯|柜台[gui4 tai2]") [HSK7, freq=7498]
+      alasan dicurigai: arti default terlihat langka: "varian dari 櫃檯|柜台[gui4 tai2]"
+      alternatif tak-langka: guì tái (meja penjualan; meja depan; bar)
+  - "棋" (tersimpan: qí -- "varian dari 棋[qi2]") [HSK7, freq=7604]
+      alasan dicurigai: arti default terlihat langka: "varian dari 棋[qi2]"
+      alternatif tak-langka: qí (catur)
+  - "铅" (tersimpan: qiān -- "varian lama dari 鉛|铅[qian1]") [HSK7, freq=7728]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 鉛|铅[qian1]"
+      alternatif tak-langka: qiān (timbal (kimia))
+  - "鹅" (tersimpan: é -- "varian dari 鵝|鹅[e2]") [HSK7, freq=7741]
+      alasan dicurigai: arti default terlihat langka: "varian dari 鵝|鹅[e2]"
+      alternatif tak-langka: é (angsa)
+  - "仇" (tersimpan: Qiú -- "pasangan") [HSK7, freq=7742]
+      alasan dicurigai: pinyin diawali huruf kapital ("Qiú")
+      alternatif tak-langka: qiú (pasangan)
+  - "饶" (tersimpan: Ráo -- "marga Rao") [HSK7, freq=7774]
+      alasan dicurigai: pinyin diawali huruf kapital ("Ráo")
+      alternatif tak-langka: ráo (kaya)
+  - "奔驰" (tersimpan: Bēn chí -- "Mercedes-Benz, pembuat mobil Jerman") [HSK-, freq=7787]
+      alasan dicurigai: pinyin diawali huruf kapital ("Bēn chí")
+      alternatif tak-langka: bēn chí (Mercedes-Benz, pembuat mobil Jerman); bēn chí (berlari cepat)
+  - "验" (tersimpan: yàn -- "varian dari 驗|验[yan4]") [HSK7, freq=7908]
+      alasan dicurigai: arti default terlihat langka: "varian dari 驗|验[yan4]"
+      alternatif tak-langka: yàn (memeriksa)
+  - "品尝" (tersimpan: pǐn cháng -- "varian dari 品嚐|品尝[pin3 chang2]") [HSK7, freq=8156]
+      alasan dicurigai: arti default terlihat langka: "varian dari 品嚐|品尝[pin3 chang2]"
+      alternatif tak-langka: pǐn cháng (mencicipi; untuk mengambil sampel)
+  - "余" (tersimpan: Yú -- "marga Yu") [HSK7, freq=8291]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yú")
+      alternatif tak-langka: yú ((bentuk sastra) Aku; saya); yú (tambahan)
+  - "俊" (tersimpan: jùn -- "varian lama dari 俊[jun4]") [HSK7, freq=8462]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 俊[jun4]"
+      alternatif tak-langka: jùn (pintar)
+  - "末日" (tersimpan: Mò rì -- "Hari Kiamat (dalam eskatologi Kristen)") [HSK7, freq=8466]
+      alasan dicurigai: pinyin diawali huruf kapital ("Mò rì")
+      alternatif tak-langka: mò rì (Hari Kiamat (dalam eskatologi Kristen)); mò rì (hari terakhir)
+  - "富裕" (tersimpan: Fù yù -- "lihat 富裕縣|富裕县[Fu4 yu4 Xian4]") [HSK7, freq=8806]
+      alasan dicurigai: pinyin diawali huruf kapital ("Fù yù")
+      alternatif tak-langka: fù yù (lihat 富裕縣|富裕县[Fu4 yu4 Xian4]); fù yù (makmur; berkecukupan; sejahtera)
+  - "脆" (tersimpan: cuì -- "varian lama dari 脆[cui4]") [HSK5, freq=8807]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 脆[cui4]"
+      alternatif tak-langka: cuì (getas)
+  - "弓" (tersimpan: Gōng -- "marga Gong") [HSK7, freq=9187]
+      alasan dicurigai: pinyin diawali huruf kapital ("Gōng")
+      alternatif tak-langka: gōng (busur (senjata))
+  - "竖" (tersimpan: shù -- "varian dari 豎|竖[shu4]") [HSK7, freq=9191]
+      alasan dicurigai: arti default terlihat langka: "varian dari 豎|竖[shu4]"
+      alternatif tak-langka: shù (mendirikan)
+  - "帆" (tersimpan: fān -- "varian dari 帆[fan1]") [HSK7, freq=9231]
+      alasan dicurigai: arti default terlihat langka: "varian dari 帆[fan1]"
+      alternatif tak-langka: fān (layar); fān (berlari kencang)
+  - "安宁" (tersimpan: Ān níng -- "lihat 安寧區|安宁区[An1 ning2 Qu1]") [HSK7, freq=9417]
+      alasan dicurigai: pinyin diawali huruf kapital ("Ān níng")
+      alternatif tak-langka: ān níng (lihat 安寧區|安宁区[An1 ning2 Qu1]); ān níng (Distrik Anning Kota Lanzhou 蘭州市|兰州市[Lan2 zhou1 Shi4], Gansu); ān níng (damai; tenteram; tenang; tenang hati; bebas dari kekhawatiran)
+  - "海湾" (tersimpan: Hǎi wān -- "Teluk (Persia)") [HSK6, freq=9432]
+      alasan dicurigai: pinyin diawali huruf kapital ("Hǎi wān")
+      alternatif tak-langka: hǎi wān (Teluk (Persia)); hǎi wān (teluk)
+  - "亩" (tersimpan: mǔ -- "varian lama dari 畝|亩[mu3]") [HSK7, freq=9626]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 畝|亩[mu3]"
+      alternatif tak-langka: mǔ (klasifikasi untuk lahan pertanian)
+  - "高明" (tersimpan: Gāo míng -- "lihat 高明區|高明区[Gao1 ming2 Qu1]") [HSK7, freq=9773]
+      alasan dicurigai: pinyin diawali huruf kapital ("Gāo míng")
+      alternatif tak-langka: gāo míng (lihat 高明區|高明区[Gao1 ming2 Qu1]); gāo míng (brilian; unggul; bijaksana)
+  - "词汇" (tersimpan: cí huì -- "varian dari 詞彙|词汇[ci2 hui4]") [HSK4, freq=9933]
+      alasan dicurigai: arti default terlihat langka: "varian dari 詞彙|词汇[ci2 hui4]"
+      alternatif tak-langka: cí huì (kosa kata)
+  - "榨" (tersimpan: zhà -- "varian dari 榨[zha4]") [HSK7, freq=10020]
+      alasan dicurigai: arti default terlihat langka: "varian dari 榨[zha4]"
+      alternatif tak-langka: zhà (memeras)
+  - "秘诀" (tersimpan: mì jué -- "varian dari 秘訣|秘诀[mi4 jue2]") [HSK7, freq=10144]
+      alasan dicurigai: arti default terlihat langka: "varian dari 秘訣|秘诀[mi4 jue2]"
+      alternatif tak-langka: mì jué (pengetahuan rahasia)
+  - "揭" (tersimpan: Jiē -- "marga Jie") [HSK6, freq=10146]
+      alasan dicurigai: pinyin diawali huruf kapital ("Jiē")
+      alternatif tak-langka: jiē (membuka tutupnya)
+  - "筑" (tersimpan: Zhù -- "nama pendek untuk Guiyang 貴陽|贵阳[Gui4 yang2]") [HSK7, freq=10332]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zhù")
+      alternatif tak-langka: zhù (nama pendek untuk Guiyang 貴陽|贵阳[Gui4 yang2]); zhù (kecapi lima senar); zhù (membangun)
+  - "丰满" (tersimpan: Fēng mǎn -- "lihat 豐滿區|丰满区[Feng1 man3 Qu1]") [HSK7, freq=10502]
+      alasan dicurigai: pinyin diawali huruf kapital ("Fēng mǎn")
+      alternatif tak-langka: fēng mǎn (lihat 豐滿區|丰满区[Feng1 man3 Qu1]); fēng mǎn (distrik Fengman di kota Jilin 吉林市[Ji2 lin2 shi4], provinsi Jilin); fēng mǎn (berisi; montok; penuh)
+  - "雕" (tersimpan: diāo -- "varian dari 雕[diao1], mengukir") [HSK7, freq=10655]
+      alasan dicurigai: arti default terlihat langka: "varian dari 雕[diao1], mengukir"
+      alternatif tak-langka: diāo (mengukir); diāo (burung pemangsa)
+  - "张扬" (tersimpan: Zhāng Yáng -- "Zhang Yang (1967-), sutradara dan penulis skenario film RRT") [HSK7, freq=10725]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zhāng Yáng")
+      alternatif tak-langka: zhāng yáng (Zhang Yang (1967-), sutradara dan penulis skenario film RRT); zhāng yáng (memamerkan secara mencolok)
+  - "雇主" (tersimpan: gù zhǔ -- "varian dari 雇主[gu4 zhu3]") [HSK7, freq=10785]
+      alasan dicurigai: arti default terlihat langka: "varian dari 雇主[gu4 zhu3]"
+      alternatif tak-langka: gù zhǔ (majikan)
+  - "吉利" (tersimpan: Jí lì -- "Geely, merek mobil Tiongkok") [HSK6, freq=10800]
+      alasan dicurigai: pinyin diawali huruf kapital ("Jí lì")
+      alternatif tak-langka: jí lì (Geely, merek mobil Tiongkok); jí lì (baik)
+  - "平和" (tersimpan: Píng hé -- "lihat 平和縣|平和县[Ping2 he2 Xian4]") [HSK7, freq=10831]
+      alasan dicurigai: pinyin diawali huruf kapital ("Píng hé")
+      alternatif tak-langka: píng hé (lihat 平和縣|平和县[Ping2 he2 Xian4]); píng hé (lembut)
+  - "冷战" (tersimpan: Lěng zhàn -- "(AS-Soviet) Perang Dingin") [HSK7, freq=10942]
+      alasan dicurigai: pinyin diawali huruf kapital ("Lěng zhàn")
+      alternatif tak-langka: lěng zhàn ((AS-Soviet) Perang Dingin); lěng zhàn (perang dingin)
+  - "苗" (tersimpan: Miáo -- "kelompok etnis Hmong atau Miao di Tiongkok barat daya") [HSK7, freq=10956]
+      alasan dicurigai: pinyin diawali huruf kapital ("Miáo")
+      alternatif tak-langka: miáo (kelompok etnis Hmong atau Miao di Tiongkok barat daya); miáo (tunas)
+  - "雨水" (tersimpan: Yǔ shuǐ -- "Yushui atau Air Hujan, 24 istilah matahari kedua 節氣|节气 19 Februari-5 Maret") [HSK5, freq=11013]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yǔ shuǐ")
+      alternatif tak-langka: yǔ shuǐ (Yushui atau Air Hujan, 24 istilah matahari kedua 節氣|节气 19 Februari-5 Maret); yǔ shuǐ (air hujan; curah hujan; hujan)
+  - "来宾" (tersimpan: Lái bīn -- "lihat 來賓市|来宾市[Lai2 bin1 Shi4]") [HSK7, freq=11016]
+      alasan dicurigai: pinyin diawali huruf kapital ("Lái bīn")
+      alternatif tak-langka: lái bīn (lihat 來賓市|来宾市[Lai2 bin1 Shi4]); lái bīn (Kota setingkat prefektur Laibin di Guangxi); lái bīn (tamu; pengunjung)
+  - "太平" (tersimpan: Tài píng -- "nama tempat") [HSK7, freq=11020]
+      alasan dicurigai: pinyin diawali huruf kapital ("Tài píng")
+      alternatif tak-langka: tài píng (nama tempat); tài píng (kedamaian dan keamanan)
+  - "绷" (tersimpan: bēng -- "varian dari 繃|绷[beng1]") [HSK7, freq=11156]
+      alasan dicurigai: arti default terlihat langka: "varian dari 繃|绷[beng1]"
+      alternatif tak-langka: bēng (menegang; meregangkan kencang)
+  - "局限" (tersimpan: jú xiàn -- "varian dari 局限[ju2 xian4]") [HSK7, freq=11218]
+      alasan dicurigai: arti default terlihat langka: "varian dari 局限[ju2 xian4]"
+      alternatif tak-langka: jú xiàn (membatasi)
+  - "艰巨" (tersimpan: jiān jù -- "varian dari 艱鉅|艰巨[jian1 ju4]") [HSK7, freq=11441]
+      alasan dicurigai: arti default terlihat langka: "varian dari 艱鉅|艰巨[jian1 ju4]"
+      alternatif tak-langka: jiān jù ((dari tugas, misi atau tanggung jawab) sangat sulit; menantang; berat)
+  - "仰" (tersimpan: Yǎng -- "menghadap ke atas") [HSK6, freq=11544]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yǎng")
+      alternatif tak-langka: yǎng (menghadap ke atas)
+  - "大都" (tersimpan: Dà dū -- "Dadu, ibu kota Tiongkok selama Dinasti Yuan (1280-1368), Beijing modern") [HSK5, freq=11743]
+      alasan dicurigai: pinyin diawali huruf kapital ("Dà dū")
+      alternatif tak-langka: dà dū (Dadu, ibu kota Tiongkok selama Dinasti Yuan (1280-1368), Beijing modern); dà dū (sebagian besar)
+  - "葬" (tersimpan: zàng -- "varian lama dari 葬[zang4]") [HSK7, freq=11836]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 葬[zang4]"
+      alternatif tak-langka: zàng (menguburkan (jenazah))
+  - "天桥" (tersimpan: Tiān qiáo -- "jembatan penyeberangan orang") [HSK7, freq=12172]
+      alasan dicurigai: pinyin diawali huruf kapital ("Tiān qiáo")
+      alternatif tak-langka: tiān qiáo (jembatan penyeberangan orang); tiān qiáo (distrik Tianqiao di kota Jinan 濟南市|济南市[Ji3 nan2 shi4], Shandong)
+  - "绣" (tersimpan: xiù -- "varian dari 繡|绣[xiu4]") [HSK7, freq=12463]
+      alasan dicurigai: arti default terlihat langka: "varian dari 繡|绣[xiu4]"
+      alternatif tak-langka: xiù (menyulam; sulaman)
+  - "美德" (tersimpan: Měi Dé -- "Amerika Serikat dan Jerman") [HSK7, freq=12541]
+      alasan dicurigai: pinyin diawali huruf kapital ("Měi Dé")
+      alternatif tak-langka: měi dé (Amerika Serikat dan Jerman); měi dé (kebajikan)
+  - "阔" (tersimpan: kuò -- "varian dari 闊|阔[kuo4]") [HSK6, freq=12727]
+      alasan dicurigai: arti default terlihat langka: "varian dari 闊|阔[kuo4]"
+      alternatif tak-langka: kuò (kaya)
+  - "互助" (tersimpan: Hù zhù -- "saling membantu") [HSK7, freq=12798]
+      alasan dicurigai: pinyin diawali huruf kapital ("Hù zhù")
+      alternatif tak-langka: hù zhù (saling membantu); hù zhù (lihat 互助土族自治縣|互助土族自治县[Hu4 zhu4 Tu3 zu2 Zi4 zhi4 xian4])
+  - "方言" (tersimpan: Fāng yán -- "kamus dialek Tionghoa pertama, diedit oleh Yang Xiong 揚雄|扬雄[Yang2 Xiong2] pada abad ke-1, berisi lebih dari 9000 karakter") [HSK7, freq=12942]
+      alasan dicurigai: pinyin diawali huruf kapital ("Fāng yán")
+      alternatif tak-langka: fāng yán (kamus dialek Tionghoa pertama, diedit oleh Yang Xiong 揚雄|扬雄[Yang2 Xiong2] pada abad ke-1, berisi lebih dari 9000 karakter); fāng yán (topolek)
+  - "茅台" (tersimpan: Máo tái -- "minuman keras maotai 茅臺酒|茅台酒[mao2 tai2 jiu3]") [HSK7, freq=12959]
+      alasan dicurigai: pinyin diawali huruf kapital ("Máo tái")
+      alternatif tak-langka: máo tái (minuman keras maotai 茅臺酒|茅台酒[mao2 tai2 jiu3]); máo tái (kota Maotai di kabupaten Renhuai, Guizhou)
+  - "管子" (tersimpan: Guǎn zǐ -- "Guanzi atau Guan Zhong 管仲 (-645 SM), politikus terkenal dari Qi 齊國|齐国 pada periode Musim Semi dan Gugur") [HSK7, freq=13105]
+      alasan dicurigai: pinyin diawali huruf kapital ("Guǎn zǐ")
+      alternatif tak-langka: guǎn zǐ (Guanzi atau Guan Zhong 管仲 (-645 SM), politikus terkenal dari Qi 齊國|齐国 pada periode Musim Semi dan Gugur)
+  - "长寿" (tersimpan: Cháng shòu -- "lihat 長壽區|长寿区[Chang2 shou4 Qu1]") [HSK5, freq=13208]
+      alasan dicurigai: pinyin diawali huruf kapital ("Cháng shòu")
+      alternatif tak-langka: cháng shòu (lihat 長壽區|长寿区[Chang2 shou4 Qu1]); cháng shòu (umur panjang)
+  - "商城" (tersimpan: Shāng chéng -- "lihat 商城縣|商城县[Shang1 cheng2 Xian4]") [HSK6, freq=13413]
+      alasan dicurigai: pinyin diawali huruf kapital ("Shāng chéng")
+      alternatif tak-langka: shāng chéng (lihat 商城縣|商城县[Shang1 cheng2 Xian4]); shāng chéng (pusat perbelanjaan)
+  - "光泽" (tersimpan: Guāng zé -- "lihat 光澤縣|光泽县[Guang1 ze2 Xian4]") [HSK7, freq=13825]
+      alasan dicurigai: pinyin diawali huruf kapital ("Guāng zé")
+      alternatif tak-langka: guāng zé (lihat 光澤縣|光泽县[Guang1 ze2 Xian4]); guāng zé (kilau)
+  - "悠闲" (tersimpan: yōu xián -- "varian dari 悠閒|悠闲") [HSK7, freq=13882]
+      alasan dicurigai: arti default terlihat langka: "varian dari 悠閒|悠闲"
+      alternatif tak-langka: yōu xián (santai)
+  - "闸" (tersimpan: zhá -- "varian lama dari 閘|闸[zha2]") [HSK7, freq=13900]
+      alasan dicurigai: arti default terlihat langka: "varian lama dari 閘|闸[zha2]"
+      alternatif tak-langka: zhá (pintu air; pintu air bendungan)
+  - "包扎" (tersimpan: bāo zā -- "varian dari 包紮|包扎[bao1 za1]") [HSK7, freq=14432]
+      alasan dicurigai: arti default terlihat langka: "varian dari 包紮|包扎[bao1 za1]"
+      alternatif tak-langka: bāo zā (membungkus)
+  - "鲜艳" (tersimpan: xiān yàn -- "varian dari 鮮豔|鲜艳[xian1 yan4]") [HSK5, freq=15101]
+      alasan dicurigai: arti default terlihat langka: "varian dari 鮮豔|鲜艳[xian1 yan4]"
+      alternatif tak-langka: xiān yàn (berwarna cerah; berwarna riang)
+  - "动荡" (tersimpan: dòng dàng -- "varian dari 動蕩|动荡[dong4 dang4]") [HSK7, freq=15320]
+      alasan dicurigai: arti default terlihat langka: "varian dari 動蕩|动荡[dong4 dang4]"
+      alternatif tak-langka: dòng dàng (kerusuhan (sosial atau politik))
+  - "知识分子" (tersimpan: zhī shi fèn zǐ -- "varian dari 知識分子|知识分子[zhi1 shi5 fen4 zi3]") [HSK7, freq=15978]
+      alasan dicurigai: arti default terlihat langka: "varian dari 知識分子|知识分子[zhi1 shi5 fen4 zi3]"
+      alternatif tak-langka: zhī shi fèn zǐ (intelektual; kaum intelektual)
+  - "凶狠" (tersimpan: xiōng hěn -- "varian dari 凶狠[xiong1 hen3]") [HSK7, freq=16248]
+      alasan dicurigai: arti default terlihat langka: "varian dari 凶狠[xiong1 hen3]"
+      alternatif tak-langka: xiōng hěn (kejam)
+  - "内地" (tersimpan: Nèi dì -- "Tiongkok daratan (RRT tidak termasuk Hong Kong dan Makau, tetapi termasuk pulau-pulau seperti Hainan)") [HSK6, freq=16557]
+      alasan dicurigai: pinyin diawali huruf kapital ("Nèi dì")
+      alternatif tak-langka: nèi dì (Tiongkok daratan (RRT tidak termasuk Hong Kong dan Makau, tetapi termasuk pulau-pulau seperti Hainan)); nèi dì (pedalaman)
+  - "锈" (tersimpan: xiù -- "varian dari 鏽|锈[xiu4]") [HSK7, freq=16722]
+      alasan dicurigai: arti default terlihat langka: "varian dari 鏽|锈[xiu4]"
+      alternatif tak-langka: xiù (berkarat)
+  - "新兴" (tersimpan: Xīn xīng -- "lihat 新興縣|新兴县[Xin1 xing1 Xian4]") [HSK6, freq=17047]
+      alasan dicurigai: pinyin diawali huruf kapital ("Xīn xīng")
+      alternatif tak-langka: xīn xīng (lihat 新興縣|新兴县[Xin1 xing1 Xian4]); xīn xīng ((pasar, industri, penyakit menular, dll.) yang sedang naik daun)
+  - "头条" (tersimpan: Tóu tiáo -- "Toutiao, aplikasi rekomendasi konten yang dipersonalisasi (singkatan dari 今日頭條|今日头条[Jin1 ri4 Tou2 tiao2])") [HSK7, freq=17548]
+      alasan dicurigai: pinyin diawali huruf kapital ("Tóu tiáo")
+      alternatif tak-langka: tóu tiáo (Toutiao, aplikasi rekomendasi konten yang dipersonalisasi (singkatan dari 今日頭條|今日头条[Jin1 ri4 Tou2 tiao2])); tóu tiáo (berita utama (di berita))
+  - "药水" (tersimpan: Yào shuǐ -- "Yaksu di Korea Utara, dekat perbatasan dengan provinsi Liaoning dan Jiling") [HSK2, freq=17705]
+      alasan dicurigai: pinyin diawali huruf kapital ("Yào shuǐ")
+      alternatif tak-langka: yào shuǐ (Yaksu di Korea Utara, dekat perbatasan dengan provinsi Liaoning dan Jiling); yào shuǐ (obat dalam bentuk cair)
+  - "淡水" (tersimpan: Dàn shuǐ -- "Tamsui atau Danshui, distrik Kota Taipei Baru 新北市[Xin1 bei3 shi4], Taiwan") [HSK-, freq=17985]
+      alasan dicurigai: pinyin diawali huruf kapital ("Dàn shuǐ")
+      alternatif tak-langka: dàn shuǐ (Tamsui atau Danshui, distrik Kota Taipei Baru 新北市[Xin1 bei3 shi4], Taiwan); dàn shuǐ (air minum (air dengan kandungan garam rendah))
+  - "威信" (tersimpan: Wēi xìn -- "wibawa") [HSK7, freq=18966]
+      alasan dicurigai: pinyin diawali huruf kapital ("Wēi xìn")
+      alternatif tak-langka: wēi xìn (wibawa); wēi xìn (kabupaten Weixin di Zhaotong 昭通[Zhao1 tong1], Yunnan)
+  - "标致" (tersimpan: Biāo zhì -- "Peugeot (merek mobil)") [HSK7, freq=19135]
+      alasan dicurigai: pinyin diawali huruf kapital ("Biāo zhì")
+      alternatif tak-langka: biāo zhì (Peugeot (merek mobil))
+  - "牡丹" (tersimpan: Mǔ dan -- "bunga peoni pohon (Paeonia suffruticosa)") [HSK7, freq=19467]
+      alasan dicurigai: pinyin diawali huruf kapital ("Mǔ dan")
+      alternatif tak-langka: mǔ dan (bunga peoni pohon (Paeonia suffruticosa)); mǔ dan (Distrik Mudan Kota Heze 菏澤市|菏泽市[He2 ze2 Shi4], Shandong)
+  - "启蒙" (tersimpan: qǐ méng -- "varian dari 啟蒙|启蒙[qi3 meng2]") [HSK7, freq=20648]
+      alasan dicurigai: arti default terlihat langka: "varian dari 啟蒙|启蒙[qi3 meng2]"
+      alternatif tak-langka: qǐ méng (mengajar anak muda)
+  - "沉淀" (tersimpan: chén diàn -- "varian dari 沉澱|沉淀[chen2 dian4]") [HSK7, freq=20934]
+      alasan dicurigai: arti default terlihat langka: "varian dari 沉澱|沉淀[chen2 dian4]"
+      alternatif tak-langka: chén diàn ((kimia) mengendap; mengendapkan)
+  - "滨海" (tersimpan: Bīn hǎi -- "Binhai (nama tempat)") [HSK7, freq=22018]
+      alasan dicurigai: pinyin diawali huruf kapital ("Bīn hǎi")
+      alternatif tak-langka: bīn hǎi (Binhai (nama tempat)); bīn hǎi (pesisir)
+  - "振兴" (tersimpan: Zhèn xīng -- "menghidupkan kembali; merevitalisasi; menyemangati; mengisi ulang energi") [HSK7, freq=23419]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zhèn xīng")
+      alternatif tak-langka: zhèn xīng (menghidupkan kembali; merevitalisasi; menyemangati; mengisi ulang energi); zhèn xīng (Distrik Zhengxing di kota Dandong 丹東市|丹东市[Dan1 dong1 shi4], Liaoning)
+  - "污蔑" (tersimpan: wū miè -- "varian dari 污衊|污蔑[wu1 mie4]") [HSK-, freq=25744]
+      alasan dicurigai: arti default terlihat langka: "varian dari 污衊|污蔑[wu1 mie4]"
+      alternatif tak-langka: wū miè (memfitnah)
+  - "兴隆" (tersimpan: Xīng lóng -- "lihat 興隆縣|兴隆县[Xing1 long2 Xian4]") [HSK-, freq=26149]
+      alasan dicurigai: pinyin diawali huruf kapital ("Xīng lóng")
+      alternatif tak-langka: xīng lóng (lihat 興隆縣|兴隆县[Xing1 long2 Xian4]); xīng lóng (kabupaten Xinglong di Chengde 承德[Cheng2 de2], Hebei); xīng lóng (makmur)
+  - "长征" (tersimpan: Cháng zhēng -- "Long March (mundurnya Tentara Merah 1934-1935)") [HSK7, freq=27081]
+      alasan dicurigai: pinyin diawali huruf kapital ("Cháng zhēng")
+      alternatif tak-langka: cháng zhēng (Long March (mundurnya Tentara Merah 1934-1935)); cháng zhēng (ekspedisi)
+  - "中庸" (tersimpan: Zhōng yōng -- "jalan tengah (Konfusianisme)") [HSK7, freq=27576]
+      alasan dicurigai: pinyin diawali huruf kapital ("Zhōng yōng")
+      alternatif tak-langka: zhōng yōng (jalan tengah (Konfusianisme)); zhōng yōng (Doktrin Jalan Tengah, salah satu dari Empat Kitab 四書|四书[Si4 shu1])
+  - "小康" (tersimpan: Xiǎo kāng -- "Xiaokang, negara bagian Konfusian yang hampir ideal, kedua setelah Datong 大同[Da4 tong2]") [HSK7, freq=27618]
+      alasan dicurigai: pinyin diawali huruf kapital ("Xiǎo kāng")
+      alternatif tak-langka: xiǎo kāng (Xiaokang, negara bagian Konfusian yang hampir ideal, kedua setelah Datong 大同[Da4 tong2]); xiǎo kāng (cukup makmur)
+  - "驮" (tersimpan: tuó -- "varian dari 馱|驮[tuo2]") [HSK7, freq=28188]
+      alasan dicurigai: arti default terlihat langka: "varian dari 馱|驮[tuo2]"
+      alternatif tak-langka: tuó (membawa di punggung)
+  - "清明" (tersimpan: Qīng míng -- "Qingming atau Kemurnian Cerah, istilah surya ke-5 dari 24 istilah surya 二十四節氣|二十四节气[er4 shi2 si4 jie2 qi5] 5-19 April") [HSK7, freq=33512]
+      alasan dicurigai: pinyin diawali huruf kapital ("Qīng míng")
+      alternatif tak-langka: qīng míng (Qingming atau Kemurnian Cerah, istilah surya ke-5 dari 24 istilah surya 二十四節氣|二十四节气[er4 shi2 si4 jie2 qi5] 5-19 April); qīng míng (jelas dan cerah)
+  - "夸夸其谈" (tersimpan: kuā kuā qí tán -- "varian dari 誇誇其談|夸夸其谈[kua1 kua1 - qi2 tan2]") [HSK7, freq=35198]
+      alasan dicurigai: arti default terlihat langka: "varian dari 誇誇其談|夸夸其谈[kua1 kua1 - qi2 tan2]"
+      alternatif tak-langka: kuā kuā qí tán ((idiom) membual; berbicara besar; omong kosong belaka)
+  - "国徽" (tersimpan: Guó huī -- "lambang negara") [HSK7, freq=39944]
+      alasan dicurigai: pinyin diawali huruf kapital ("Guó huī")
+      alternatif tak-langka: guó huī (lambang negara); guó huī (lambang nasional RRT (lingkaran merah berisi lima bintang bendera RRT di atas Tiananmen 天安門|天安门[Tian1 an1 men2]))
