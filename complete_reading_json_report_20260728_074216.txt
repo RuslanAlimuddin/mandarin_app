@@ -1,0 +1,61 @@
+=== LAPORAN complete_reading_json.py — 2026-07-28 07:42:16.123515 ===
+File sumber: percakapan_json\produksi_batch1.json
+
+[BACAAN] di_toko_buku_hsk1 — "Di Toko Buku" (HSK1, tema: Di Toko Buku)
+    23 kata di glossary, 0 PERLU DICEK MANUAL
+
+[PERCAKAPAN] tanya_jalan_hsk1 — "Bertanya Jalan ke Sekolah" (HSK1, tema: Tanya Jalan, 4 baris)
+    12 kata di glossary, 0 PERLU DICEK MANUAL
+
+[BACAAN] hari_libur_nasional_hsk2 — "国庆节" (HSK2, tema: Hari Libur Nasional)
+    40 kata di glossary, 0 PERLU DICEK MANUAL
+
+[PERCAKAPAN] di_stasiun_kereta_hsk2 — "Membeli Tiket Kereta" (HSK2, tema: Di Stasiun Kereta, 6 baris)
+    30 kata di glossary, 0 PERLU DICEK MANUAL
+
+[BACAAN] waktu_luang_hsk3 — "周末的计划" (HSK3, tema: Waktu Luang)
+    46 kata di glossary, 0 PERLU DICEK MANUAL
+
+[PERCAKAPAN] menelepon_teman_hsk3 — "打电话" (HSK3, tema: Menelepon Teman, 7 baris)
+    39 kata di glossary, 0 PERLU DICEK MANUAL
+
+[BACAAN] gaya_hidup_sehat_hsk4 — "健康的生活方式" (HSK4, tema: Gaya Hidup Sehat)
+    46 kata di glossary, 0 PERLU DICEK MANUAL
+
+[PERCAKAPAN] wawancara_kerja_hsk4 — "面试" (HSK4, tema: Wawancara Kerja, 7 baris)
+    64 kata di glossary, 0 PERLU DICEK MANUAL
+
+[BACAAN] polusi_perkotaan_hsk5 — "城市环境污染问题" (HSK5, tema: Polusi Perkotaan)
+    62 kata di glossary, 0 PERLU DICEK MANUAL
+
+[PERCAKAPAN] rapat_proyek_kantor_hsk5 — "项目讨论会" (HSK5, tema: Rapat Proyek Kantor, 6 baris)
+    51 kata di glossary, 0 PERLU DICEK MANUAL
+
+[BACAAN] ekonomi_digital_hsk6 — "消费方式的转变" (HSK6, tema: Ekonomi Digital)
+    79 kata di glossary, 0 PERLU DICEK MANUAL
+
+[PERCAKAPAN] pendidikan_daring_hsk6 — "线上教育的辩论" (HSK6, tema: Pendidikan Daring, 5 baris)
+    84 kata di glossary, 0 PERLU DICEK MANUAL
+
+[BACAAN] kecerdasan_buatan_pekerjaan_hsk7 — "人工智能与就业市场" (HSK7, tema: Kecerdasan Buatan & Pekerjaan)
+    76 kata di glossary, 0 PERLU DICEK MANUAL
+
+[PERCAKAPAN] wawancara_ekonomi_hsk7 — "专访经济学家" (HSK7, tema: Wawancara Ekonomi, 6 baris)
+    77 kata di glossary, 0 PERLU DICEK MANUAL
+
+[BACAAN] filsafat_waktu_hsk8 — "对时间的哲学思考" (HSK8, tema: Filsafat Waktu)
+    68 kata di glossary, 0 PERLU DICEK MANUAL
+
+[PERCAKAPAN] diskusi_akademik_sejarah_hsk8 — "历史课的学术讨论" (HSK8, tema: Diskusi Akademik Sejarah, 5 baris)
+    64 kata di glossary, 0 PERLU DICEK MANUAL
+
+[BACAAN] kebijakan_publik_hsk9 — "公共政策的制定与权衡" (HSK9, tema: Kebijakan Publik)
+    81 kata di glossary, 0 PERLU DICEK MANUAL
+
+[PERCAKAPAN] debat_kebijakan_lingkungan_hsk9 — "环保政策辩论赛" (HSK9, tema: Debat Kebijakan Lingkungan, 4 baris)
+    75 kata di glossary, 0 PERLU DICEK MANUAL
+
+Total item mentah: 18
+  Berhasil ditambahkan: 18
+  Dilewati: 0
+Total bacaan/percakapan sekarang di data\graded_readers.json: 123
