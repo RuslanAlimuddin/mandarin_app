@@ -1,0 +1,1416 @@
+AUDIT KUALITAS nuance_pairs.json
+Total pasangan: 1295
+MASALAH NYATA (perlu dicek): 30 (2%)
+Cuma catatan gaya kosmetik: 437 (33%)
+
+============================================================
+BAGIAN 1: MASALAH NYATA
+============================================================
+
+[shengqi_nanguo_01] 生气 / 难过
+    - example_cn tidak mengandung kata '生气'
+
+[b1_de_di_027] 的 / 地
+    - pinyin '的' tanpa tanda nada ('de')
+    - pinyin '地' tanpa tanda nada ('de')
+
+[b4_qing_jia_619] 请假 / 休假
+    - example_cn tidak mengandung kata '请假'
+    - example_cn tidak mengandung kata '休假'
+
+[b6_xiang_qi_223] 想起 / 想到
+    - example_cn tidak mengandung kata '想到'
+
+[b7_salju_bersalju_2268] 雪 / 下雪
+    - example_cn tidak mengandung kata '下雪'
+
+[b7_sebelah_berhadapan_2655] 对面 / 对面
+    - kata duplikat dalam 'words'
+
+[b8_minzu_guojia_3511] 民族 / 国家
+    - example_cn tidak mengandung kata '国家'
+
+[b12_celana_bawahan_2455] 裤子 / 短裤
+    - example_cn tidak mengandung kata '裤子'
+
+[b12_qianhou_zuoyou_3223] 前后 / 前后
+    - kata duplikat dalam 'words'
+
+[b14_warna_corak_2687] 颜色 / 色彩
+    - example_cn tidak mengandung kata '颜色'
+
+[b14_shuzi_shujv_3544] 数字 / 数据
+    - example_cn tidak mengandung kata '数字'
+
+[b15_zhuanbian_zhuanyi_3295] 转变 / 转移
+    - example_cn tidak mengandung kata '转变'
+
+[b16_kaos_kaki_2458] 袜子 / 袜子
+    - kata duplikat dalam 'words'
+
+[b16_sarung_tangan_2460] 手套 / 手套
+    - kata duplikat dalam 'words'
+
+[b17_yin_yue_145] 音乐 / 歌曲
+    - example_cn tidak mengandung kata '歌曲'
+
+[b19_ren_jian_419] 人间 / 人间
+    - kata duplikat dalam 'words'
+
+[b21_ji_jie_209] 季节 / 时期
+    - example_cn tidak mengandung kata '季节'
+
+[b25_bi_mian_257] 避免 / 逃避
+    - example_cn tidak mengandung kata '避免'
+
+[b25_sabar_tenang_1787] 耐 / 安
+    - pinyin '安' tanpa tanda nada ('Ān')
+
+[b26_dan_xiao_537] 胆小 / 害羞
+    - example_cn tidak mengandung kata '胆小'
+
+[b27_xueke_kemu_3059] 学科 / 科目
+    - example_cn tidak mengandung kata '学科'
+
+[b28_huobi_zhuanqian_3054] 货币 / 赚钱
+    - example_cn tidak mengandung kata '赚钱'
+
+[b29_hidung_mulut_2768] 鼻 / 口
+    - example_cn tidak mengandung kata '口'
+
+[b30_suara_nada_2689] 声音 / 声响
+    - example_cn tidak mengandung kata '声响'
+
+[b30_bi_li_591] 比例 / 比率
+    - example_cn tidak mengandung kata '比率'
+
+[b32_tas_tas_2464] 手提包 / 背包
+    - example_cn tidak mengandung kata '背包'
+
+[b34_mempercepat_memperlambat_1876] 速 / 缓
+    - example_cn tidak mengandung kata '缓'
+
+[b36_murah_mahal_1733] 廉 / 昂
+    - example_cn tidak mengandung kata '廉'
+
+[b36_takut_khawatir_1778] 畏 / 虑
+    - example_cn tidak mengandung kata '虑'
+
+[bA1_427] 雄厚 / 强大
+    - example_cn tidak mengandung kata '强大'
+
+============================================================
+BAGIAN 2: CATATAN GAYA KOSMETIK SAJA (opsional dibaca)
+============================================================
+
+[chang_chi_01] 尝 / 吃
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[kan_kanjian_01] 看 / 看见
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[yidianr_youdianr_01] 一点儿 / 有点儿
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[jie_arah_01] 借
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[guanxin_danxin_01] 关心 / 担心
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[chuan_dai_01] 穿 / 戴
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[da_juda_01] 大 / 巨大
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[gaoxing_kaixin_01] 高兴 / 开心
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[chabuduo_jihu_01] 差不多 / 几乎
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[keyi_neng_hui_01] 可以 / 能 / 会
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[yijing_cengjing_01] 已经 / 曾经
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[hai_zai_01] 还 / 再
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[yong_na_01] 用 / 拿
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[juede_renwei_01] 觉得 / 认为
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b1_lai_qu_009] 来 / 去
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b1_zai_dao_003] 在 / 到
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b1_xian_zai_zheng_zai_002] 现在 / 正在
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b1_hui_xiang_011] 会 / 想
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b1_duo_shao_013] 多少 / 几
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b1_hen_tai_016] 很 / 太
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b1_mei_bu_017] 没 / 不
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b1_dou_ye_018] 都 / 也
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b1_xiao_de_007] 小 / 少
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b1_chu_qu_036] 出 / 去
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b1_yi_you_015] 有 / 在
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_zhe_na_014] 这 / 那
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_dui_gei_021] 对 / 给
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_cong_gen_024] 从 / 跟
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_shang_xia_041] 上 / 下
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_qian_hou_042] 前 / 后
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_li_wai_043] 里 / 外
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_zuo_you_044] 左 / 右
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_zhong_jian_045] 中 / 间
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_zhen_de_070] 真 / 真的
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_xi_huan_072] 喜欢 / 爱好
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_xue_xi_073] 学 / 学习
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_shen_me_087] 什么 / 怎么
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_man_kuai_094] 慢 / 快
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_shi_jian_096] 时间 / 时候
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_nian_ji_097] 年 / 岁
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_yi_yuan_103] 医院 / 医生
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_gong_zuo_104] 工作 / 上班
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_xue_xiao_105] 学校 / 大学
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_tu_shu_107] 书 / 图书馆
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_shui_jiao_109] 睡 / 睡觉
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_kan_dian_ying_110] 电影 / 电影院
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_mang_lei_127] 忙 / 累
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_xia_ke_141] 下课 / 放学
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_shang_ke_142] 上课 / 上学
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_shou_ji_164] 手机 / 电话
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_zhan_173] 站 / 车站
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_men_piao_174] 票 / 门票
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_wai_guo_185] 外国 / 国外
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_kai_guan_191] 开 / 关
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b2_ren_shi_220] 认识 / 知道
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b3_wang_ji_221] 忘记 / 忘
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b3_ji_de_222] 记得 / 记住
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b3_er_zi_328] 儿子 / 孩子
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b3_nan_ren_332] 男人 / 男生
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b3_nv_ren_333] 女人 / 女生
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b3_xie_zuo_621] 写 / 记
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b3_baik_buruk_1570] 好 / 坏
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b3_panas_dingin_1575] 热 / 冷
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b3_berjalan_berlari_1655] 走 / 跑
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_bi_bi_034] 比 / 笔
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_qian_nian_051] 前年 / 去年
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_duo_me_069] 多 / 多么
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_zuo_ban_077] 做 / 办
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_wen_ti_079] 问题 / 问
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_cai_jiu_083] 才 / 就
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_jia_ting_099] 家 / 家庭
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_jian_kang_149] 健康 / 身体
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_dian_nao_163] 电脑 / 计算机
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_fan_180] 米饭 / 米
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_mai_mai_190] 买 / 卖
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_lou_193] 楼 / 层
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_guang_chang_200] 广场 / 商场
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_kong_qi_232] 空气 / 天气
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_hua_duo_234] 花 / 草
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_zhu_yao_358] 主要 / 重要
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_xiang_tong_362] 相同 / 一样
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_qi_ta_364] 其他 / 别的
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_jin_lai_564] 进来 / 进入
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b4_yin_yue_624] 听 / 闻
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b5_jauh_dekat_1562] 远 / 近
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b5_murah_mahal_1572] 便宜 / 贵
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b5_bersih_kotor_1573] 干净 / 脏
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b5_kenyang_lapar_1578] 饱 / 饿
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b5_tua_muda_1579] 老 / 年轻
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b5_lokal_global_1857] 本 / 全
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b5_yuan_yin_030] 因为 / 为
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b5_gang_gang_065] 刚刚 / 刚才
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b5_zhe_me_086] 这么 / 那么
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b5_jiao_shi_106] 教室 / 教师
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b5_ke_neng_117] 可能 / 也许
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b5_ti_yu_143] 体育 / 运动
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b5_jiao_yu_159] 教育 / 教学
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b6_zhao_pian_168] 照片 / 图片
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b6_lv_xing_169] 旅游 / 旅行
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b6_gong_yuan_199] 公园 / 花园
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b6_xiang_fa_227] 想法 / 意见
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b6_hu_238] 湖 / 海
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b6_niao_240] 鸟 / 鸡
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b6_mao_241] 猫 / 狗
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b6_ban_fa_246] 办法 / 方法
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b6_cheng_wei_252] 成为 / 变成
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b6_ying_gai_287] 应该 / 愿意
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b6_wen_du_379] 温度 / 气温
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b6_jie_du_405] 角度 / 观点
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b6_ying_xiang_441] 影响 / 作用
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b6_yao_qiu_451] 要求 / 请求
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b6_fang_xiang_486] 方向 / 方面
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b6_zhong_dian_557] 重点 / 中心
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b7_hou_nian_052] 后年 / 明年
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b7_di_fang_098] 地方 / 地区
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b7_cha_179] 茶 / 咖啡
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b7_fang_jian_192] 房间 / 屋子
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b7_ke_cheng_214] 课程 / 课
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b7_qian_218] 钱 / 费用
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b7_kai_shi_225] 开始 / 起来
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b7_zui_hou_262] 最后 / 终于
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b8_baru_lama_1565] 新 / 旧
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b8_mudah_sulit_1571] 容易 / 难
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b8_dinamis_statis_1848] 动 / 静
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b8_individu_kolektif_1858] 个 / 群
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b8_di_qiu_151] 地球 / 世界
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b8_ren_lei_152] 人类 / 人们
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b8_xiao_xi_161] 消息 / 新闻
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b8_bao_zhi_162] 报纸 / 杂志
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b8_guang_196] 光 / 灯
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b8_tiao_jian_228] 条件 / 状况
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b8_mu_biao_245] 目标 / 目的
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b8_yi_yi_247] 意思 / 意义
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_fa_sheng_253] 发生 / 出现
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_xiang_xin_275] 相信 / 信任
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_bing_qie_277] 并且 / 而且
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_yin_ci_280] 因此 / 所以
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_bu_dan_282] 不但 / 不仅
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_zhi_hao_283] 只好 / 只能
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_zuo_jia_344] 作家 / 作者
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_jing_li_349] 经理 / 管理
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_shi_chang_355] 市场 / 超市
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_shi_pin_357] 食品 / 食物
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_zi_ji_360] 自己 / 自身
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_qiang_diao_397] 强调 / 重视
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_jie_guo_401] 结果 / 后果
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_lian_xi_431] 联系 / 练习
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_he_ping_462] 和平 / 平安
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_shi_yong_471] 使用 / 应用
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_fu_du_487] 程度 / 水平
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_xian_shi_497] 现实 / 实际
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_zhen_shi_507] 真实 / 真正
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_xing_fu_523] 幸福 / 快乐
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_fu_yin_586] 复印 / 打印
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_aman_berbahaya_1568] 安全 / 危险
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b9_penuh_kosong_1582] 满 / 空
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b10_ba_bai_023] 把 / 被
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b10_da_gai_059] 大概 / 大约
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b10_jing_ji_154] 经济 / 商业
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b10_wen_hua_155] 文化 / 文明
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b10_jia_ge_188] 价格 / 价钱
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b10_jing_cha_201] 警察 / 保安
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b10_zi_ran_231] 自然 / 环境
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b10_jing_li_249] 经历 / 经验
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_ji_xu_251] 继续 / 连续
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_fa_zhan_255] 发展 / 发达
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_jue_ding_269] 决定 / 确定
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_ti_yan_273] 体验 / 体会
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_fu_za_289] 复杂 / 麻烦
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_jian_li_299] 建立 / 设立
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_xiao_fei_302] 消费 / 浪费
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_sheng_chan_303] 生产 / 制造
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_guan_cha_307] 观察 / 观看
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_kai_fa_382] 开发 / 开放
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_bao_dao_390] 报道 / 报告
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_shi_ying_396] 适应 / 适合
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_jie_he_407] 结合 / 联合
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_tui_dong_409] 推动 / 推进
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_cheng_zhang_414] 成长 / 生长
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_jin_bu_415] 进步 / 进展
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_you_shi_446] 优势 / 优点
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_jian_chi_478] 坚持 / 保持
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_xing_ge_482] 性格 / 个性
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_jie_jue_543] 解决 / 处理
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_hidup_mati_1580] 活 / 死
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b11_menang_menderita_1669] 赢 / 输
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b12_da_an_080] 回答 / 答案
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b12_han_jia_216] 寒假 / 新年
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b12_dong_zhi_233] 树 / 植物
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b12_chang_shi_248] 常识 / 知识
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b12_di_zhi_485] 地址 / 地点
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_konsisten_inkonsisten_1851] 一 / 反
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_primer_sekunder_1860] 首 / 次
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_xin_xi_166] 信息 / 资料
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_chu_kou_186] 出口 / 进口
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_chun_tian_205] 春天 / 春季
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_dong_tian_206] 冬天 / 冬季
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_xia_tian_207] 夏天 / 夏季
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_qiu_tian_208] 秋天 / 秋季
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_shu_jia_215] 暑假 / 假期
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_he_237] 河 / 江
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_li_xiang_244] 理想 / 梦想
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_dan_wei_371] 单位 / 机构
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_shou_ru_394] 收入 / 收益
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_zheng_lun_436] 争论 / 讨论
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_gan_ren_438] 感动 / 激动
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_gong_li_514] 努力 / 尽力
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_zhao_xiang_623] 照相 / 拍照
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_terang_gelap_1566] 亮 / 暗
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_menambah_mengurangi_1646] 加 / 减
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b13_berhasil_gagal_1670] 成 / 败
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b14_wei_lai_157] 未来 / 将来
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b14_shang_pin_187] 商品 / 产品
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b14_shou_huo_272] 收获 / 成果
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b14_jie_yue_290] 节约 / 节省
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b14_feng_fu_291] 丰富 / 充分
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b14_li_yong_309] 利用 / 运用
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b14_yun_dong_yuan_347] 运动员 / 选手
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b14_cai_fang_388] 采访 / 访问
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b14_tiao_zhan_402] 挑战 / 困难
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b14_xing_shi_442] 形式 / 形势
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b14_ji_shi_449] 及时 / 按时
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b14_zao_cheng_452] 造成 / 导致
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b14_yi_wu_460] 义务 / 责任
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b14_jing_shen_479] 精神 / 精力
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b14_fu_ze_508] 负责 / 负担
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b14_jian_gu_535] 坚固 / 坚强
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b14_pei_yang_559] 培养 / 训练
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b15_zhao_ji_571] 着急 / 紧张
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b15_jiao_huan_585] 交换 / 交流
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b15_fen_pei_596] 分配 / 分布
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b15_kuat_lemah_1574] 强 / 弱
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b15_asam_manis_1742] 酸 / 甜
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b16_li_fa_203] 律师 / 法官
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b16_yuan_ze_256] 原则 / 规则
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b16_ti_gong_268] 提供 / 供应
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b16_tou_ru_305] 投入 / 投资
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b16_cai_liao_313] 材料 / 原料
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b16_zhi_liang_315] 质量 / 品质
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b16_yi_jiang_435] 演讲 / 讲座
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b16_liang_hao_475] 良好 / 优良
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b16_kao_lv_578] 考虑 / 思考
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b16_halus_kasar_1686] 细 / 粗
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b16_pahit_pedas_1743] 苦 / 辣
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b17_fan_dian_108] 饭 / 餐厅
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b17_shu_guo_147] 水果 / 蔬菜
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b17_yin_liao_178] 饮料 / 水
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b17_zhun_bei_224] 准备 / 预备
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b17_hui_jia_565] 回家 / 返回
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b17_kuai_zi_184] 筷子 / 叉子
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b17_ke_hu_338] 客户 / 顾客
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b17_gong_yun_506] 公平 / 公正
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b17_bi_sai_144] 比赛 / 竞赛
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b17_she_hui_153] 社会 / 社区
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b17_ge_ren_361] 个人 / 私人
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b18_ji_jin_381] 基金 / 资金
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b18_ti_li_399] 体力 / 力量
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b18_mu_qian_443] 目前 / 当前
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b18_da_cheng_454] 达成 / 达到
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b18_tui_xing_455] 推行 / 实行
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b18_jiao_yi_505] 交易 / 贸易
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b18_zhao_shi_528] 方式 / 手段
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b18_zhi_yuan_533] 自愿 / 志愿
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b18_yu_ji_552] 预计 / 预期
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b18_shu_liang_592] 数量 / 数目
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b18_ji_zhi_598] 机制 / 制度
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b18_ping_gu_602] 评估 / 评价
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b19_jiang_li_314] 奖励 / 奖金
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b19_mi_shu_342] 秘书 / 助理
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b19_cai_chan_392] 财产 / 资产
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b19_dui_li_464] 对立 / 针对
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b19_cheng_xu_491] 程序 / 软件
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b19_ti_shi_496] 提示 / 提醒
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b19_fu_li_589] 福利 / 利益
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b19_zhu_ce_618] 注册 / 登记
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b19_zhan_shi_512] 展示 / 展览
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b20_keras_lunak_1557] 硬 / 软
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b20_yi_qi_129] 一起 / 一同
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b20_dong_wu_148] 动物 / 宠物
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b20_yin_hang_217] 银行 / 账户
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b20_wang_ye_494] 网页 / 网站
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b20_cha_630] 检查 / 查看
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b20_mengorganisir_membubarkan_1900] 组 / 解
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b21_tang_183] 汤 / 粥
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b21_ling_dao_336] 领导 / 领袖
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b21_jia_qiang_408] 加强 / 强化
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b21_qing_gan_481] 情感 / 情绪
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b21_chuang_yi_510] 创意 / 创作
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b21_dao_da_562] 到达 / 抵达
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b21_que_dian_593] 缺点 / 缺陷
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b21_gong_zi_615] 工资 / 薪水
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b21_tepat_salah_1716] 准 / 误
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b21_dui_fu_311] 对付 / 应对
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b21_quan_li_459] 权利 / 权力
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b22_jiao_ao_525] 骄傲 / 自豪
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b22_cong_ming_536] 聪明 / 智慧
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b22_mengalikan_membagi_1647] 乘 / 除
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b22_cheng_shi_351] 城镇 / 村庄
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b22_xi_bao_422] 细胞 / 细菌
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b23_guan_zhao_366] 关照 / 照顾
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b23_hai_an_374] 海边 / 沿岸
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b23_pai_dui_527] 排队 / 轮流
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b23_supply_demand_1870] 供 / 求
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b23_memuat_mengosongkan_1885] 装 / 卸
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b23_gao_xiao_292] 高效 / 有效
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b23_yun_shu_304] 运输 / 运送
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b23_bao_xian_369] 保险 / 保障
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b23_huan_jing_383] 环保 / 生态
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b23_cai_neng_412] 才能 / 才华
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b23_sheng_ling_420] 生物 / 生命
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b24_xiao_guo_474] 效果 / 效益
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b24_fu_kuan_617] 付款 / 支付
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b24_teratur_kacau_1715] 序 / 乱
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b24_memvalidasi_membatalkan_1889] 证 / 废
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b25_dui_bi_263] 对比 / 对照
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b25_can_kao_308] 参考 / 参照
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b25_da_lou_352] 大厦 / 大楼
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b25_zi_yuan_385] 资源 / 物资
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b25_cu_jin_410] 促进 / 促成
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b25_ji_yin_421] 基因 / 遗传
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b25_zan_tan_437] 赞叹 / 称赞
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b25_tiao_li_458] 条例 / 法律
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b25_su_liao_467] 塑料 / 橡胶
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b25_dan_zi_530] 胆子 / 勇气
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b25_ying_ren_532] 承认 / 认错
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b25_zhu_su_566] 住宿 / 居住
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b25_zhi_li_580] 智力 / 智商
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b25_input_output_1869] 投 / 产
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b26_rong_liang_317] 容量 / 体积
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b26_zhi_shi_335] 知识分子 / 学者
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b26_jiao_dai_365] 交代 / 吩咐
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b26_neng_yuan_384] 能源 / 能量
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b26_ji_cheng_426] 继承 / 传承
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b26_bei_ai_524] 悲哀 / 悲伤
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b26_ren_ren_531] 忍受 / 容忍
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b26_ji_li_538] 激励 / 鼓励
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b26_yun_zhuan_584] 运转 / 运行
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b26_fen_xi_603] 分析 / 解析
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b26_guan_che_612] 贯彻 / 落实
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b27_ji_bing_423] 疾病 / 病症
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b27_bao_li_461] 暴力 / 武力
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b27_xu_ni_498] 虚拟 / 幻想
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b27_jue_wu_534] 觉悟 / 觉醒
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b27_cun_fang_583] 存放 / 储存
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b27_jian_du_610] 监督 / 监管
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b27_zhao_pin_614] 招聘 / 应聘
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b27_menciptakan_menghancurkan_1880] 创 / 毁
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b27_setuju_berdebat_1893] 同 / 辩
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b28_fu_yang_298] 抚养 / 赡养
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b28_shi_du_380] 湿度 / 干旱
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b28_yong_ji_432] 拥挤 / 堵塞
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b28_xian_mu_526] 羡慕 / 嫉妒
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b28_pi_lao_539] 疲劳 / 疲倦
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b28_ji_du_561] 旅途 / 旅程
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b28_chuan_ran_588] 传染 / 感染
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b28_shui_shou_590] 税收 / 税务
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b28_baik_jahat_1684] 善 / 恶
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b28_aktif_pasif_1847] 积 / 消
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b28_fleksibel_kaku_1849] 灵 / 僵
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b28_memperbesar_memperkecil_1875] 扩 / 缩
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b29_zuo_tian_050] 昨天 / 昨日
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b29_qian_tian_138] 前天 / 大前天
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b29_hou_tian_139] 后天 / 大后天
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b29_cai_177] 菜 / 菜肴
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b29_men_194] 门 / 窗
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b29_shang_dian_354] 商店 / 店铺
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b29_shang_zhou_053] 上星期 / 上周
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b29_xia_zhou_054] 下星期 / 下周
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b29_da_jia_128] 大家 / 每个人
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b29_di_tie_172] 地铁 / 轻轨
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b29_jiao_zi_181] 饺子 / 馄饨
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b29_qiang_195] 墙 / 壁
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b29_xi_guang_316] 习惯 / 习性
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b29_si_ji_343] 司机 / 驾驶员
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b29_yi_shu_jia_345] 艺术家 / 画家
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b29_lembut_keras_1694] 柔 / 刚
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b30_wen_jian_167] 文件 / 文档
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b30_yin_yue_jia_346] 音乐家 / 歌手
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b30_qian_fei_368] 欠费 / 收费
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b30_guan_bo_389] 广播 / 播报
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b30_bi_hu_425] 庇护 / 保护
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b30_zhi_ding_456] 制定 / 订定
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b30_senang_sedih_1699] 乐 / 哀
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b30_memperjuangkan_mengorbankan_1896] 争 / 舍
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b31_sen_lin_375] 森林 / 树林
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b31_zhan_zheng_463] 战争 / 战役
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b31_shang_ge_yue_055] 上个月 / 上月
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b31_xia_ge_yue_056] 下个月 / 下月
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b31_bi_ye_212] 毕业 / 结业
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b31_zheng_fu_372] 政府 / 当局
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b31_xiao_shou_502] 销售 / 营销
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b31_hu_xi_574] 呼吸 / 气喘
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b31_kan_shu_625] 看书 / 阅读
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b31_awal_akhir_1861] 始 / 末
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b31_kualitas_kuantitas_1865] 质 / 量
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b31_memuji_mengkritik_1892] 赞 / 批
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b32_tiao_li_544] 调理 / 调节
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b32_bersedia_enggan_1707] 愿 / 拒
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b32_beruntung_sial_1713] 幸 / 灾
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b32_kuat_rapuh_1719] 坚 / 脆
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b33_dian_zi_495] 电子 / 电器
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b33_feng_bao_376] 风暴 / 暴风
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b33_hun_luan_540] 混乱 / 杂乱
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b33_lebar_sempit_1689] 阔 / 狭
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b33_cukup_kurang_1709] 足 / 乏
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b33_umum_khusus_1842] 普 / 特
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b33_seimbang_tidak_seimbang_1852] 均 / 偏
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b33_vertikal_horizontal_1855] 纵 / 横
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b33_sebab_akibat_1863] 因 / 果
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b33_mai_zang_439] 埋葬 / 葬礼
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b33_gang_tie_468] 钢铁 / 金属
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b33_ma_yi_242] 蚂蚁 / 昆虫
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b33_chu_ci_261] 初次 / 第一次
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b34_jiang_hu_373] 江河 / 湖泊
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b34_fang_zhen_448] 仿真 / 模拟
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b34_liang_xin_529] 良心 / 良知
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b34_jie_yan_548] 戒烟 / 戒酒
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b34_bagus_jelek_1710] 优 / 劣
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b34_objektif_subjektif_1841] 客 / 主
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b35_zhi_nv_323] 侄子 / 外甥
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b35_gong_shi_434] 工时 / 工作时间
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b35_besar_kecil_1675] 巨 / 微
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b35_tegas_ragu_1680] 毅 / 疑
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b35_berani_takut_1681] 勇 / 怯
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b35_bijaksana_bodoh_1682] 智 / 愚
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b35_sehat_sakit_1697] 健 / 疾
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b35_tahu_tidak_tahu_1705] 知 / 昧
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b35_mulia_hina_1711] 尊 / 卑
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b35_sejahtera_terpuruk_1714] 昌 / 衰
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b35_subur_tandus_1720] 沃 / 瘠
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b35_indah_jelek_1721] 丽 / 陋
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b35_ramai_sepi_1727] 喧 / 寂
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b35_cerdas_bodoh_1732] 慧 / 痴
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b36_harum_busuk_1744] 芳 / 腐
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b36_rajin_malas_1761] 勤 / 惰
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b36_bersemangat_lesu_1762] 奋 / 颓
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
+[b36_mengembangkan_menghambat_1879] 促 / 阻
+    - common_mistake_id gaya lama (tidak pakai format '❌ ... seharusnya:')
+
