@@ -1,0 +1,586 @@
+{
+  "app_words": {
+    "total_entri": 11983,
+    "distribusi_jumlah_makna": {
+      "8+": 407,
+      "1": 3937,
+      "5-7": 1207,
+      "2": 3199,
+      "3": 2029,
+      "4": 1173,
+      "0": 31
+    },
+    "kandidat_per_threshold": {
+      "1": 11952,
+      "2": 8015,
+      "3": 4816,
+      "4": 2787,
+      "5": 1614,
+      "8": 407
+    },
+    "sampel_acak_3plus": [
+      {
+        "hanzi": "可怜",
+        "pinyin": "kě lián",
+        "meanings_id": [
+          "menyedihkan",
+          "memilukan",
+          "merasa kasihan pada"
+        ]
+      },
+      {
+        "hanzi": "要求",
+        "pinyin": "yāo qiú",
+        "meanings_id": [
+          "meminta",
+          "memerlukan",
+          "persyaratan",
+          "menuntut",
+          "bertanya",
+          "KP:點|点[dian3]"
+        ]
+      },
+      {
+        "hanzi": "爱心",
+        "pinyin": "ài xīn",
+        "meanings_id": [
+          "kasih sayang",
+          "kebaikan",
+          "kepedulian terhadap orang lain",
+          "cinta",
+          "KP:片[pian4]",
+          "amal (bazar, hari golf, dll)",
+          "hati (simbol ♥)"
+        ]
+      },
+      {
+        "hanzi": "麻",
+        "pinyin": "má",
+        "meanings_id": [
+          "nama generik untuk rami, linen dll",
+          "serat rami atau linen untuk bahan tekstil",
+          "wijen",
+          "KP:縷|缕[lu:3]",
+          "(dari bahan) kasar",
+          "berlubang",
+          "berbintik-bintik",
+          "merasa kesemutan atau geli",
+          "merasa mati rasa",
+          "rami (varian dari 麻[ma2])",
+          "marga Ma"
+        ]
+      },
+      {
+        "hanzi": "阿姨",
+        "pinyin": "ā yí",
+        "meanings_id": [
+          "bibi dari pihak ibu",
+          "ibu tiri",
+          "pekerja pengasuh anak",
+          "pengasuh bayi",
+          "wanita seusia orang tua (istilah sapaan yang digunakan anak)",
+          "KP:個|个[ge4]"
+        ]
+      },
+      {
+        "hanzi": "恶心",
+        "pinyin": "ě xīn",
+        "meanings_id": [
+          "mual",
+          "merasa sakit",
+          "jijik",
+          "memuakkan",
+          "memalukan (sengaja)",
+          "varian dari 噁心|恶心[e3 xin1]",
+          "kebiasaan buruk",
+          "kebiasaan keji",
+          "kejahatan"
+        ]
+      },
+      {
+        "hanzi": "说实话",
+        "pinyin": "shuō shí huà",
+        "meanings_id": [
+          "mengatakan yang sebenarnya",
+          "sejujurnya",
+          "terus terang"
+        ]
+      },
+      {
+        "hanzi": "刺骨",
+        "pinyin": "cì gǔ",
+        "meanings_id": [
+          "menusuk",
+          "memotong",
+          "sangat dingin",
+          "menembus (dingin)"
+        ]
+      },
+      {
+        "hanzi": "理论",
+        "pinyin": "lǐ lùn",
+        "meanings_id": [
+          "teori",
+          "KP:個|个[ge4]",
+          "berargumentasi",
+          "memperhatikan"
+        ]
+      },
+      {
+        "hanzi": "身价",
+        "pinyin": "shēn jià",
+        "meanings_id": [
+          "status sosial",
+          "harga budak",
+          "harga seseorang (seorang olahragawan dll)",
+          "nilai",
+          "nilai (saham, barang berharga dll)"
+        ]
+      },
+      {
+        "hanzi": "错",
+        "pinyin": "cuò",
+        "meanings_id": [
+          "kesalahan",
+          "salah",
+          "buruk",
+          "saling mengunci",
+          "kompleks",
+          "menggiling",
+          "memoles",
+          "bergantian",
+          "tersandung",
+          "melewatkan",
+          "melepaskan",
+          "menghindar",
+          "menyisipkan dengan emas atau perak",
+          "marga Cuo"
+        ]
+      },
+      {
+        "hanzi": "晚上",
+        "pinyin": "wǎn shang",
+        "meanings_id": [
+          "sore",
+          "malam",
+          "KP:個|个[ge4]",
+          "pada sore hari"
+        ]
+      },
+      {
+        "hanzi": "保",
+        "pinyin": "bǎo",
+        "meanings_id": [
+          "membela; melindungi; menjaga",
+          "menjamin; memastikan",
+          "(kuno) unit administrasi sipil dalam sistem baojia 保甲[bao3 jia3]",
+          "Bulgaria (singkatan dari 保加利亞|保加利亚[Bao3 jia1 li4 ya4])"
+        ]
+      },
+      {
+        "hanzi": "商量",
+        "pinyin": "shāng liang",
+        "meanings_id": [
+          "berkonsultasi",
+          "membicarakan",
+          "berdiskusi"
+        ]
+      },
+      {
+        "hanzi": "燃烧",
+        "pinyin": "rán shāo",
+        "meanings_id": [
+          "menyala",
+          "terbakar",
+          "pembakaran",
+          "berapi-api"
+        ]
+      }
+    ],
+    "jumlah_kata_multi_pos": 4028,
+    "sampel_multi_pos": [
+      {
+        "hanzi": "激发",
+        "pos_id": [
+          "kata kerja",
+          "kata kerja-benda"
+        ],
+        "meanings_id": [
+          "membangkitkan",
+          "merangsang",
+          "(fisika) menggetarkan"
+        ]
+      },
+      {
+        "hanzi": "识",
+        "pos_id": [
+          "kata kerja",
+          "g"
+        ],
+        "meanings_id": [
+          "tahu",
+          "pengetahuan",
+          "Taiwan dibaca [shi4]",
+          "mencatat",
+          "menulis catatan kaki"
+        ]
+      },
+      {
+        "hanzi": "别",
+        "pos_id": [
+          "kata keterangan",
+          "kata kerja",
+          "kata ganti",
+          "kata kerja-benda"
+        ],
+        "meanings_id": [
+          "berpisah; meninggalkan",
+          "(sastra) membedakan; memilah",
+          "(dialek) memalingkan; mengalihkan (wajah, pandangan)",
+          "(bentuk terikat) lain; berbeda",
+          "jangan ...!",
+          "mengenakan dengan peniti atau klip",
+          "menyisipkan (untuk menghambat gerakan)",
+          "(akhiran nomina) kategori (mis. 性別|性别[xing4 bie2], 派別|派别[pai4 bie2])",
+          "marga Bie",
+          "membuat seseorang mengubah jalan, pendapat, dll."
+        ]
+      },
+      {
+        "hanzi": "忠实",
+        "pos_id": [
+          "kata sifat",
+          "ad",
+          "kata kerja"
+        ],
+        "meanings_id": [
+          "setia"
+        ]
+      },
+      {
+        "hanzi": "付出",
+        "pos_id": [
+          "kata kerja",
+          "kata kerja-benda"
+        ],
+        "meanings_id": [
+          "membayar; mengeluarkan; menginvestasikan (energi atau waktu)"
+        ]
+      },
+      {
+        "hanzi": "任性",
+        "pos_id": [
+          "kata sifat",
+          "an"
+        ],
+        "meanings_id": [
+          "keras kepala",
+          "sulit diatur"
+        ]
+      },
+      {
+        "hanzi": "预感",
+        "pos_id": [
+          "kata benda",
+          "kata kerja"
+        ],
+        "meanings_id": [
+          "merasa firasat",
+          "firasat"
+        ]
+      },
+      {
+        "hanzi": "镇定",
+        "pos_id": [
+          "kata sifat",
+          "kata kerja-benda"
+        ],
+        "meanings_id": [
+          "tenang",
+          "tidak terganggu",
+          "santai"
+        ]
+      },
+      {
+        "hanzi": "协商",
+        "pos_id": [
+          "kata kerja",
+          "kata kerja-benda"
+        ],
+        "meanings_id": [
+          "berkonsultasi dengan",
+          "membicarakan berbagai hal",
+          "persetujuan"
+        ]
+      },
+      {
+        "hanzi": "无辜",
+        "pos_id": [
+          "kata benda",
+          "kata sifat"
+        ],
+        "meanings_id": [
+          "tidak bersalah",
+          "ketidakbersalahan",
+          "tidak bersalah (hukum)"
+        ]
+      },
+      {
+        "hanzi": "自动",
+        "pos_id": [
+          "kata keterangan",
+          "non-predikatif"
+        ],
+        "meanings_id": [
+          "otomatis",
+          "secara sukarela"
+        ]
+      },
+      {
+        "hanzi": "演绎",
+        "pos_id": [
+          "kata kerja",
+          "kata kerja-benda"
+        ],
+        "meanings_id": [
+          "(cerita dll) terungkap; berlangsung",
+          "mengembangkan (teknik dll)",
+          "melakonkan",
+          "(logika) menyimpulkan; mengartikan"
+        ]
+      },
+      {
+        "hanzi": "冷漠",
+        "pos_id": [
+          "kata sifat",
+          "an"
+        ],
+        "meanings_id": [
+          "dingin dan tidak peduli terhadap seseorang",
+          "kurangnya perhatian",
+          "ketidakpedulian",
+          "kelalaian"
+        ]
+      },
+      {
+        "hanzi": "开放",
+        "pos_id": [
+          "kata kerja",
+          "kata kerja-benda",
+          "kata sifat"
+        ],
+        "meanings_id": [
+          "mekar",
+          "terbuka",
+          "terbuka (untuk umum)",
+          "membuka (ke luar)",
+          "berpikiran terbuka",
+          "tidak dibatasi oleh konvensi",
+          "tidak terkendali dalam seksualitas seseorang"
+        ]
+      },
+      {
+        "hanzi": "管子",
+        "pos_id": [
+          "kata benda",
+          "nr"
+        ],
+        "meanings_id": [
+          "Guanzi atau Guan Zhong 管仲 (-645 SM), politikus terkenal dari Qi 齊國|齐国 pada periode Musim Semi dan Gugur",
+          "Guanzi, buku klasik yang berisi tulisan Guan Zhong dan sekolahnya",
+          "tabung",
+          "pipa",
+          "sedotan minuman",
+          "KP:根[gen1]"
+        ]
+      }
+    ]
+  },
+  "app_words_homograf": {
+    "jumlah_hanzi_dgn_multi_entri": 0,
+    "sampel_acak": {}
+  },
+  "cidict_index": {
+    "total_entri": 124966,
+    "distribusi_jumlah_makna": {
+      "1": 80857,
+      "2": 28247,
+      "3": 9737,
+      "5-7": 2242,
+      "4": 3525,
+      "8+": 358
+    },
+    "kandidat_per_threshold": {
+      "1": 124966,
+      "2": 44109,
+      "3": 15862,
+      "4": 6125,
+      "5": 2600,
+      "8": 358
+    },
+    "sampel_acak_3plus": [
+      {
+        "hanzi": "重播",
+        "pinyin": "chóng bō",
+        "meanings_id": [
+          "memutar ulang",
+          "menayangkan kembali",
+          "(pertanian) menanam kembali",
+          "menyemai ulang"
+        ]
+      },
+      {
+        "hanzi": "一落千丈",
+        "pinyin": "yī luò qiān zhàng",
+        "meanings_id": [
+          "(harfiah) jatuh seribu zhang dalam satu kejatuhan (idiom)",
+          "(kiasan) (dari bisnis, popularitas dll) mengalami penurunan yang tiba-tiba dan menghancurkan",
+          "menukik"
+        ]
+      },
+      {
+        "hanzi": "蠢汉",
+        "pinyin": "chǔn hàn",
+        "meanings_id": [
+          "orang bodoh",
+          "orang dungu",
+          "orang tolol"
+        ]
+      },
+      {
+        "hanzi": "货币",
+        "pinyin": "huò bì",
+        "meanings_id": [
+          "mata uang",
+          "moneter",
+          "uang"
+        ]
+      },
+      {
+        "hanzi": "句群",
+        "pinyin": "jù qún",
+        "meanings_id": [
+          "wacana",
+          "kelompok kalimat dengan makna yang jelas",
+          "narasi"
+        ]
+      },
+      {
+        "hanzi": "老板",
+        "pinyin": "lǎo bǎn",
+        "meanings_id": [
+          "bos",
+          "pemilik bisnis",
+          "KP:個|个[ge4]"
+        ]
+      },
+      {
+        "hanzi": "救命",
+        "pinyin": "jiù mìng",
+        "meanings_id": [
+          "menyelamatkan nyawa seseorang",
+          "(seruan) Tolong!",
+          "Selamatkan aku!"
+        ]
+      },
+      {
+        "hanzi": "情面",
+        "pinyin": "qíng miàn",
+        "meanings_id": [
+          "perasaan dan kepekaan",
+          "sentimen dan muka",
+          "kepekaan terhadap perasaan orang lain"
+        ]
+      },
+      {
+        "hanzi": "对抗",
+        "pinyin": "duì kàng",
+        "meanings_id": [
+          "menahan",
+          "melawan",
+          "menghadapi",
+          "antagonisme",
+          "konfrontasi"
+        ]
+      },
+      {
+        "hanzi": "取决于",
+        "pinyin": "qǔ jué yú",
+        "meanings_id": [
+          "bergantung pada",
+          "diputuskan oleh",
+          "tergantung pada"
+        ]
+      },
+      {
+        "hanzi": "坚执",
+        "pinyin": "jiān zhí",
+        "meanings_id": [
+          "bertahan",
+          "terus menjunjung tinggi",
+          "tekun",
+          "berpegang pada sesuatu",
+          "keras kepala"
+        ]
+      },
+      {
+        "hanzi": "鲁",
+        "pinyin": "lǔ",
+        "meanings_id": [
+          "bentuk terikat: kasar",
+          "bodoh",
+          "sopan",
+          "digunakan untuk mewakili suara \"ru\", \"lu\" dll dalam kata pinjaman"
+        ]
+      },
+      {
+        "hanzi": "衣冠楚楚",
+        "pinyin": "yī guān chǔ chǔ",
+        "meanings_id": [
+          "berpakaian rapi",
+          "tampan",
+          "bergaya"
+        ]
+      },
+      {
+        "hanzi": "恒",
+        "pinyin": "héng",
+        "meanings_id": [
+          "permanen",
+          "konstan",
+          "tetap",
+          "biasa",
+          "umum",
+          "aturan (kuno)",
+          "salah satu dari 64 heksagram Kitab Perubahan (䷟)"
+        ]
+      },
+      {
+        "hanzi": "册封",
+        "pinyin": "cè fēng",
+        "meanings_id": [
+          "menganugerahkan gelar kepada seseorang",
+          "menobatkan",
+          "memberi pangkat atau gelar"
+        ]
+      }
+    ],
+    "jumlah_kata_multi_pos": 0,
+    "sampel_multi_pos": []
+  },
+  "cidict_ts_u8": {
+    "total_baris": 124966,
+    "berhasil_parse": 124966,
+    "distribusi_jumlah_gloss": {
+      "1": 80857,
+      "2": 28247,
+      "3": 9737,
+      "5": 1367,
+      "4": 3525,
+      "7": 276,
+      "8+": 358,
+      "6": 599
+    },
+    "jumlah_hanzi_multi_baris": 3140
+  }
+}
