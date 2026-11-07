@@ -1,0 +1,572 @@
+[
+  {
+    "id": "血",
+    "simplified": "血",
+    "traditional": "血",
+    "pinyin": "xuè",
+    "pinyin_numeric": "xue4",
+    "bopomofo": "ㄒㄩㄝˋ",
+    "hsk": "3",
+    "hsk2": "4",
+    "frequency": 726,
+    "pos": [
+      "n"
+    ],
+    "pos_id": [
+      "kata benda"
+    ],
+    "meanings_id": [
+      "lihat 血[xue4]",
+      "darah",
+      "pelafalan sehari-hari [xie3]",
+      "KP:滴[di1],片[pian4]"
+    ],
+    "meanings_en": [
+      "blood",
+      "colloquial pr. [xiě]"
+    ],
+    "radical": "血",
+    "radical_number": 143,
+    "stroke_count": 6,
+    "structure": "top-bottom",
+    "components": [
+      "丿",
+      "皿"
+    ],
+    "char_type": "compound",
+    "themes": [
+      "tubuh"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "假",
+    "simplified": "假",
+    "traditional": "叚",
+    "pinyin": "gēi",
+    "pinyin_numeric": "gei1",
+    "bopomofo": "ㄍㄟ",
+    "hsk": "2",
+    "hsk2": "4",
+    "frequency": 1053,
+    "pos": [
+      "a",
+      "ad",
+      "n",
+      "g"
+    ],
+    "pos_id": [
+      "kata sifat",
+      "ad",
+      "kata benda",
+      "g"
+    ],
+    "meanings_id": [
+      "digunakan dalam 假掰[gei1 bai1]",
+      "palsu",
+      "tiruan",
+      "buatan",
+      "meminjam",
+      "jika",
+      "seandainya",
+      "liburan",
+      "varian dari 假[jia3]"
+    ],
+    "meanings_en": [
+      "used in 掰",
+      "fake",
+      "false",
+      "artificial",
+      "to borrow",
+      "if",
+      "suppose",
+      "vacation",
+      "variant of 假"
+    ],
+    "radical": "亻",
+    "radical_number": 9,
+    "stroke_count": 11,
+    "structure": "left-right",
+    "components": [
+      "亻",
+      "叚"
+    ],
+    "char_type": "compound",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "老板",
+    "simplified": "老板",
+    "traditional": "老闆",
+    "pinyin": "lǎo bǎn",
+    "pinyin_numeric": "lao3 ban3",
+    "bopomofo": "ㄌㄠˇ ㄅㄢˇ",
+    "hsk": "3",
+    "hsk2": "5",
+    "frequency": 1185,
+    "pos": [
+      "n"
+    ],
+    "pos_id": [
+      "kata benda"
+    ],
+    "meanings_id": [
+      "Robam (merek)",
+      "varian dari 老闆|老板[lao3 ban3]",
+      "bos",
+      "pemilik bisnis",
+      "KP:個|个[ge4]"
+    ],
+    "meanings_en": [
+      "variant of 老板",
+      "Robam (brand)",
+      "boss",
+      "business proprietor"
+    ],
+    "radical": "老",
+    "radical_number": 125,
+    "stroke_count": 14,
+    "structure": "enclosed-topleft",
+    "components": [
+      "耂",
+      "匕",
+      "木",
+      "反"
+    ],
+    "char_type": "compound",
+    "themes": [
+      "ext_careers",
+      "ext_office",
+      "ext_shenfenguanxi"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "落",
+    "simplified": "落",
+    "traditional": "落",
+    "pinyin": "là",
+    "pinyin_numeric": "la4",
+    "bopomofo": "ㄌㄚˋ",
+    "hsk": "4",
+    "hsk2": null,
+    "frequency": 1435,
+    "pos": [
+      "v"
+    ],
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meanings_id": [
+      "meninggalkan",
+      "hilang",
+      "lupa membawa",
+      "tertinggal atau tertinggal",
+      "bacaan sehari-hari untuk 落[luo4] dalam beberapa senyawa",
+      "jatuh atau merosot",
+      "(matahari) terbenam",
+      "(pasang surut) surut",
+      "menurunkan",
+      "menurun atau tenggelam",
+      "jatuh ke",
+      "beristirahat dengan",
+      "mendapatkan atau menerima",
+      "menuliskan",
+      "keberadaan",
+      "penyelesaian"
+    ],
+    "meanings_en": [
+      "to leave out",
+      "to be missing",
+      "to leave behind or forget to bring",
+      "to lag or fall behind",
+      "colloquial reading for 落 in certain compounds",
+      "to fall or drop",
+      "(of the sun) to set",
+      "(of a tide) to go out",
+      "to lower",
+      "to decline or sink",
+      "to fall onto",
+      "to rest with",
+      "to get or receive",
+      "to write down",
+      "whereabouts",
+      "settlement"
+    ],
+    "radical": "艹",
+    "radical_number": 140,
+    "stroke_count": 12,
+    "structure": "top-bottom",
+    "components": [
+      "艹",
+      "洛"
+    ],
+    "char_type": "compound",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "圈",
+    "simplified": "圈",
+    "traditional": "圈",
+    "pinyin": "juān",
+    "pinyin_numeric": "juan1",
+    "bopomofo": "ㄐㄩㄢ",
+    "hsk": "4",
+    "hsk2": "5",
+    "frequency": 1517,
+    "pos": [
+      "qv",
+      "n",
+      "v"
+    ],
+    "pos_id": [
+      "qv",
+      "kata benda",
+      "kata kerja"
+    ],
+    "meanings_id": [
+      "membatasi",
+      "mengunci",
+      "memasukkan ke dalam kandang",
+      "kandang ternak; kandang; lipatan; kandang babi",
+      "lingkaran; cincin; putaran (KP:個|个[ge4])",
+      "kata penggolong untuk putaran, orbit, putaran balapan dll",
+      "mengelilingi; melingkari"
+    ],
+    "meanings_en": [
+      "to confine",
+      "to lock up",
+      "to pen in",
+      "livestock enclosure; pen; fold; sty",
+      "circle; ring; loop",
+      "classifier for loops, orbits, laps of race etc",
+      "to surround; to circle"
+    ],
+    "radical": "囗",
+    "radical_number": 31,
+    "stroke_count": 11,
+    "structure": "enclosed-full",
+    "components": [
+      "囗",
+      "卷"
+    ],
+    "char_type": "compound",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "藏",
+    "simplified": "藏",
+    "traditional": "藏",
+    "pinyin": "zàng",
+    "pinyin_numeric": "Zang4",
+    "bopomofo": "ㄗㄤˋ",
+    "hsk": "6",
+    "hsk2": null,
+    "frequency": 1544,
+    "pos": [
+      "v",
+      "b"
+    ],
+    "pos_id": [
+      "kata kerja",
+      "non-predikatif"
+    ],
+    "meanings_id": [
+      "Tibet",
+      "singkatan dari Wilayah Otonomi Xizang atau Tibet 西藏[Xi1 zang4]",
+      "menyembunyikan",
+      "menyimpan jauh-jauh",
+      "menyimpan",
+      "mengumpulkan",
+      "gudang",
+      "depot",
+      "kitab suci Buddha atau Tao"
+    ],
+    "meanings_en": [
+      "Tibet",
+      "abbr. for Xizang or Tibet Autonomous Region 藏",
+      "to conceal",
+      "to hide away",
+      "to harbor",
+      "to store",
+      "to collect",
+      "storehouse",
+      "depository",
+      "Buddhist or Taoist scripture"
+    ],
+    "radical": "艹",
+    "radical_number": 140,
+    "stroke_count": 17,
+    "structure": "top-bottom",
+    "components": [
+      "艹",
+      "臧"
+    ],
+    "char_type": "compound",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "结",
+    "simplified": "结",
+    "traditional": "結",
+    "pinyin": "jiē",
+    "pinyin_numeric": "jie1",
+    "bopomofo": "ㄐㄧㄝ",
+    "hsk": "4",
+    "hsk2": null,
+    "frequency": 2051,
+    "pos": [
+      "v",
+      "n"
+    ],
+    "pos_id": [
+      "kata kerja",
+      "kata benda"
+    ],
+    "meanings_id": [
+      "(tumbuhan) menghasilkan (buah atau biji)",
+      "Taiwan dibaca [jie2]",
+      "simpul; kokoh; ikatan; mengikat; memesan (hotel)"
+    ],
+    "meanings_en": [
+      "(of a plant) to produce (fruit or seeds)",
+      "Taiwan pr. [jié]",
+      "knot",
+      "sturdy",
+      "bond",
+      "to tie",
+      "to bind",
+      "to check out (of a hotel)"
+    ],
+    "radical": "纟",
+    "radical_number": 120,
+    "stroke_count": 9,
+    "structure": "left-right",
+    "components": [
+      "纟",
+      "吉"
+    ],
+    "char_type": "compound",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "苹果",
+    "simplified": "苹果",
+    "traditional": "蘋果",
+    "pinyin": "píng guǒ",
+    "pinyin_numeric": "ping2 guo3",
+    "bopomofo": "ㄆㄧㄥˊ ㄍㄨㄛˇ",
+    "hsk": "3",
+    "hsk2": "1",
+    "frequency": 2562,
+    "pos": [
+      "n"
+    ],
+    "pos_id": [
+      "kata benda"
+    ],
+    "meanings_id": [
+      "Apple (perusahaan teknologi Amerika)",
+      "apel",
+      "KP:個|个[ge4],顆|颗[ke1]"
+    ],
+    "meanings_en": [
+      "apple"
+    ],
+    "radical": "艹",
+    "radical_number": 140,
+    "stroke_count": 16,
+    "structure": "top-bottom",
+    "components": [
+      "艹",
+      "平",
+      "日",
+      "木"
+    ],
+    "char_type": "compound",
+    "themes": [
+      "buah",
+      "ext_buy_fruit"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "全家",
+    "simplified": "全家",
+    "traditional": "全家",
+    "pinyin": "quán jiā",
+    "pinyin_numeric": "quan2 jia1",
+    "bopomofo": "ㄑㄩㄢˊ ㄐㄧㄚ",
+    "hsk": "2",
+    "hsk2": null,
+    "frequency": 4632,
+    "pos": [
+      "n"
+    ],
+    "pos_id": [
+      "kata benda"
+    ],
+    "meanings_id": [
+      "FamilyMart (jaringan toko serba ada)",
+      "seluruh keluarga"
+    ],
+    "meanings_en": [
+      "whole family"
+    ],
+    "radical": "入",
+    "radical_number": 11,
+    "stroke_count": 16,
+    "structure": "top-bottom",
+    "components": [
+      "人",
+      "王",
+      "宀",
+      "豕"
+    ],
+    "char_type": "compound",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "吉利",
+    "simplified": "吉利",
+    "traditional": "吉利",
+    "pinyin": "jí lì",
+    "pinyin_numeric": "Ji2 li4",
+    "bopomofo": "ㄐㄧˊ ㄌㄧˋ",
+    "hsk": "6",
+    "hsk2": null,
+    "frequency": 10800,
+    "pos": [
+      "a",
+      "n"
+    ],
+    "pos_id": [
+      "kata sifat",
+      "kata benda"
+    ],
+    "meanings_id": [
+      "Geely, merek mobil Tiongkok",
+      "baik",
+      "beruntung",
+      "menguntungkan"
+    ],
+    "meanings_en": [
+      "Geely, Chinese car make",
+      "auspicious",
+      "lucky",
+      "propitious"
+    ],
+    "radical": "口",
+    "radical_number": 30,
+    "stroke_count": 13,
+    "structure": "top-bottom",
+    "components": [
+      "士",
+      "口",
+      "禾",
+      "刂"
+    ],
+    "char_type": "compound",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "标致",
+    "simplified": "标致",
+    "traditional": "標致",
+    "pinyin": "biāo zhì",
+    "pinyin_numeric": "Biao1 zhi4",
+    "bopomofo": "ㄅㄧㄠ ㄓˋ",
+    "hsk": "7",
+    "hsk2": null,
+    "frequency": 19135,
+    "pos": [
+      "a",
+      "nz"
+    ],
+    "pos_id": [
+      "kata sifat",
+      "nama diri"
+    ],
+    "meanings_id": [
+      "Peugeot (merek mobil)",
+      "(wanita) cantik; elok"
+    ],
+    "meanings_en": [
+      "Peugeot",
+      "beautiful (of woman)",
+      "pretty"
+    ],
+    "radical": "木",
+    "radical_number": 75,
+    "stroke_count": 19,
+    "structure": "left-right",
+    "components": [
+      "木",
+      "示",
+      "至",
+      "攵"
+    ],
+    "char_type": "compound",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "严寒",
+    "simplified": "严寒",
+    "traditional": "嚴寒",
+    "pinyin": "yán hán",
+    "pinyin_numeric": "yan2 han2",
+    "bopomofo": "ㄧㄢˊ ㄏㄢˊ",
+    "hsk": null,
+    "hsk2": "6",
+    "frequency": 21390,
+    "pos": [
+      "an",
+      "a"
+    ],
+    "pos_id": [
+      "an",
+      "kata sifat"
+    ],
+    "meanings_id": [
+      "dingin yangMenusuk",
+      "musim dingin yang parah"
+    ],
+    "meanings_en": [
+      "bitter cold",
+      "severe winter"
+    ],
+    "radical": "一",
+    "radical_number": 1,
+    "stroke_count": 19,
+    "structure": "top-mid-bottom",
+    "components": [
+      "一",
+      "厂",
+      "𡨄",
+      "⺀"
+    ],
+    "char_type": "compound",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": []
+  }
+]
