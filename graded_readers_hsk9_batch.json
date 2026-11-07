@@ -1,0 +1,1652 @@
+[
+  {
+    "id": "tema_kesehatan_hsk9",
+    "level": 9,
+    "tema": "Kesehatan",
+    "title": "基因编辑的伦理困境 (Dilema Etika Penyuntingan Gen)",
+    "text": "基因编辑技术的迅猛发展，给医学带来了前所未有的可能性，同时也引发了深刻的伦理争议。支持者认为，通过编辑致病基因，可以从根源上消除遗传性疾病，减轻患者及其家庭的痛苦，这是医学进步的必然趋势。反对者则担忧，一旦允许对人类胚胎进行基因编辑，技术很可能被滥用于所谓的“优生”目的，从而加剧社会不平等，甚至动摇人类对自身身份的认知。此外，基因编辑的长期风险目前尚无法完全评估，任何不可逆的改动都可能对后代产生难以预料的影响。许多学者呼吁，在技术尚未成熟、伦理规范尚未健全之前，应对相关研究保持审慎的态度，通过严格的监管与广泛的公众讨论，寻求科学进步与伦理底线之间的平衡。",
+    "translation": "Perkembangan teknologi penyuntingan gen yang pesat telah membawa kemungkinan yang belum pernah ada sebelumnya bagi ilmu kedokteran, sekaligus memicu kontroversi etika yang mendalam. Para pendukungnya berpendapat bahwa dengan menyunting gen penyebab penyakit, penyakit keturunan dapat dihilangkan dari akarnya, sehingga meringankan penderitaan pasien beserta keluarganya — ini dianggap sebagai tren kemajuan kedokteran yang tak terhindarkan. Sebaliknya, para penentang khawatir bahwa begitu penyuntingan gen pada embrio manusia diizinkan, teknologi ini sangat mungkin disalahgunakan untuk tujuan \"eugenika\", sehingga memperparah ketidaksetaraan sosial, bahkan menggoyahkan pemahaman manusia terhadap identitas dirinya sendiri. Selain itu, risiko jangka panjang dari penyuntingan gen saat ini belum bisa sepenuhnya dievaluasi; perubahan apa pun yang tidak dapat dibalik berpotensi menimbulkan dampak yang sulit diperkirakan bagi keturunan. Banyak akademisi menyerukan agar, selama teknologi ini belum matang dan norma etikanya belum mapan, penelitian terkait disikapi dengan sikap yang hati-hati, melalui pengawasan yang ketat dan diskusi publik yang luas, guna mencari keseimbangan antara kemajuan ilmu pengetahuan dan batas dasar etika.",
+    "glossary": [
+      {
+        "cn": "基因",
+        "py": "jī yīn",
+        "id": "gen"
+      },
+      {
+        "cn": "编辑",
+        "py": "biān jí",
+        "id": "menyunting/penyuntingan"
+      },
+      {
+        "cn": "技术",
+        "py": "jì shù",
+        "id": "teknologi"
+      },
+      {
+        "cn": "的",
+        "py": "de",
+        "id": "(partikel penjelas)"
+      },
+      {
+        "cn": "迅猛发展",
+        "py": "xùn měng fā zhǎn",
+        "id": "berkembang pesat"
+      },
+      {
+        "cn": "给",
+        "py": "gěi",
+        "id": "memberi/bagi"
+      },
+      {
+        "cn": "医学",
+        "py": "yī xué",
+        "id": "ilmu kedokteran"
+      },
+      {
+        "cn": "带来",
+        "py": "dài lái",
+        "id": "membawa/mendatangkan"
+      },
+      {
+        "cn": "了",
+        "py": "le",
+        "id": "(partikel aspek selesai)"
+      },
+      {
+        "cn": "前所未有",
+        "py": "qián suǒ wèi yǒu",
+        "id": "belum pernah ada sebelumnya"
+      },
+      {
+        "cn": "可能性",
+        "py": "kě néng xìng",
+        "id": "kemungkinan"
+      },
+      {
+        "cn": "同时",
+        "py": "tóng shí",
+        "id": "pada saat yang sama"
+      },
+      {
+        "cn": "也",
+        "py": "yě",
+        "id": "juga"
+      },
+      {
+        "cn": "引发",
+        "py": "yǐn fā",
+        "id": "memicu"
+      },
+      {
+        "cn": "深刻",
+        "py": "shēn kè",
+        "id": "mendalam"
+      },
+      {
+        "cn": "伦理",
+        "py": "lún lǐ",
+        "id": "etika"
+      },
+      {
+        "cn": "争议",
+        "py": "zhēng yì",
+        "id": "kontroversi/perdebatan"
+      },
+      {
+        "cn": "支持者",
+        "py": "zhī chí zhě",
+        "id": "pendukung"
+      },
+      {
+        "cn": "认为",
+        "py": "rèn wéi",
+        "id": "berpendapat"
+      },
+      {
+        "cn": "通过",
+        "py": "tōng guò",
+        "id": "melalui"
+      },
+      {
+        "cn": "致病",
+        "py": "zhì bìng",
+        "id": "menyebabkan penyakit"
+      },
+      {
+        "cn": "可以",
+        "py": "kě yǐ",
+        "id": "bisa/dapat"
+      },
+      {
+        "cn": "从",
+        "py": "cóng",
+        "id": "dari"
+      },
+      {
+        "cn": "根源",
+        "py": "gēn yuán",
+        "id": "akar penyebab"
+      },
+      {
+        "cn": "上",
+        "py": "shàng",
+        "id": "dari segi/di atas"
+      },
+      {
+        "cn": "消除",
+        "py": "xiāo chú",
+        "id": "menghilangkan"
+      },
+      {
+        "cn": "遗传性",
+        "py": "yí chuán xìng",
+        "id": "bersifat keturunan"
+      },
+      {
+        "cn": "疾病",
+        "py": "jí bìng",
+        "id": "penyakit"
+      },
+      {
+        "cn": "减轻",
+        "py": "jiǎn qīng",
+        "id": "meringankan"
+      },
+      {
+        "cn": "患者",
+        "py": "huàn zhě",
+        "id": "pasien"
+      },
+      {
+        "cn": "及其",
+        "py": "jí qí",
+        "id": "beserta"
+      },
+      {
+        "cn": "家庭",
+        "py": "jiā tíng",
+        "id": "keluarga"
+      },
+      {
+        "cn": "痛苦",
+        "py": "tòng kǔ",
+        "id": "penderitaan"
+      },
+      {
+        "cn": "这是",
+        "py": "zhè shì",
+        "id": "ini adalah"
+      },
+      {
+        "cn": "进步",
+        "py": "jìn bù",
+        "id": "kemajuan"
+      },
+      {
+        "cn": "必然趋势",
+        "py": "bì rán qū shì",
+        "id": "tren yang pasti terjadi"
+      },
+      {
+        "cn": "反对者",
+        "py": "fǎn duì zhě",
+        "id": "penentang"
+      },
+      {
+        "cn": "则",
+        "py": "zé",
+        "id": "sedangkan"
+      },
+      {
+        "cn": "担忧",
+        "py": "dān yōu",
+        "id": "khawatir"
+      },
+      {
+        "cn": "一旦",
+        "py": "yí dàn",
+        "id": "begitu/sekali"
+      },
+      {
+        "cn": "允许",
+        "py": "yǔn xǔ",
+        "id": "mengizinkan"
+      },
+      {
+        "cn": "对",
+        "py": "duì",
+        "id": "terhadap"
+      },
+      {
+        "cn": "人类",
+        "py": "rén lèi",
+        "id": "manusia"
+      },
+      {
+        "cn": "胚胎",
+        "py": "pēi tāi",
+        "id": "embrio"
+      },
+      {
+        "cn": "进行",
+        "py": "jìn xíng",
+        "id": "melakukan"
+      },
+      {
+        "cn": "很",
+        "py": "hěn",
+        "id": "sangat"
+      },
+      {
+        "cn": "可能",
+        "py": "kě néng",
+        "id": "mungkin"
+      },
+      {
+        "cn": "被",
+        "py": "bèi",
+        "id": "di- (partikel pasif)"
+      },
+      {
+        "cn": "滥用",
+        "py": "làn yòng",
+        "id": "disalahgunakan"
+      },
+      {
+        "cn": "于",
+        "py": "yú",
+        "id": "pada/untuk"
+      },
+      {
+        "cn": "所谓",
+        "py": "suǒ wèi",
+        "id": "yang disebut sebagai"
+      },
+      {
+        "cn": "优生",
+        "py": "yōu shēng",
+        "id": "eugenika"
+      },
+      {
+        "cn": "目的",
+        "py": "mù dì",
+        "id": "tujuan"
+      },
+      {
+        "cn": "从而",
+        "py": "cóng ér",
+        "id": "sehingga"
+      },
+      {
+        "cn": "加剧",
+        "py": "jiā jù",
+        "id": "memperparah"
+      },
+      {
+        "cn": "社会",
+        "py": "shè huì",
+        "id": "masyarakat"
+      },
+      {
+        "cn": "不",
+        "py": "bù",
+        "id": "tidak"
+      },
+      {
+        "cn": "平等",
+        "py": "píng děng",
+        "id": "kesetaraan"
+      },
+      {
+        "cn": "甚至",
+        "py": "shèn zhì",
+        "id": "bahkan"
+      },
+      {
+        "cn": "动摇",
+        "py": "dòng yáo",
+        "id": "menggoyahkan"
+      },
+      {
+        "cn": "自身",
+        "py": "zì shēn",
+        "id": "diri sendiri"
+      },
+      {
+        "cn": "身份",
+        "py": "shēn fèn",
+        "id": "identitas"
+      },
+      {
+        "cn": "认知",
+        "py": "rèn zhī",
+        "id": "pemahaman/kognisi"
+      },
+      {
+        "cn": "此外",
+        "py": "cǐ wài",
+        "id": "selain itu"
+      },
+      {
+        "cn": "长期",
+        "py": "cháng qī",
+        "id": "jangka panjang"
+      },
+      {
+        "cn": "风险",
+        "py": "fēng xiǎn",
+        "id": "risiko"
+      },
+      {
+        "cn": "目前",
+        "py": "mù qián",
+        "id": "saat ini"
+      },
+      {
+        "cn": "尚",
+        "py": "shàng",
+        "id": "masih (belum)"
+      },
+      {
+        "cn": "无法",
+        "py": "wú fǎ",
+        "id": "tidak bisa"
+      },
+      {
+        "cn": "完全",
+        "py": "wán quán",
+        "id": "sepenuhnya"
+      },
+      {
+        "cn": "评估",
+        "py": "píng gū",
+        "id": "dievaluasi"
+      },
+      {
+        "cn": "任何",
+        "py": "rèn hé",
+        "id": "apapun"
+      },
+      {
+        "cn": "可逆",
+        "py": "kě nì",
+        "id": "dapat dibalik/reversibel"
+      },
+      {
+        "cn": "改动",
+        "py": "gǎi dòng",
+        "id": "perubahan"
+      },
+      {
+        "cn": "都",
+        "py": "dōu",
+        "id": "semua"
+      },
+      {
+        "cn": "后代",
+        "py": "hòu dài",
+        "id": "keturunan"
+      },
+      {
+        "cn": "产生",
+        "py": "chǎn shēng",
+        "id": "menimbulkan"
+      },
+      {
+        "cn": "难以预料",
+        "py": "nán yǐ yù liào",
+        "id": "sulit diperkirakan"
+      },
+      {
+        "cn": "影响",
+        "py": "yǐng xiǎng",
+        "id": "dampak"
+      },
+      {
+        "cn": "许多",
+        "py": "xǔ duō",
+        "id": "banyak"
+      },
+      {
+        "cn": "学者",
+        "py": "xué zhě",
+        "id": "akademisi"
+      },
+      {
+        "cn": "呼吁",
+        "py": "hū yù",
+        "id": "menyerukan"
+      },
+      {
+        "cn": "在",
+        "py": "zài",
+        "id": "pada/di"
+      },
+      {
+        "cn": "尚未",
+        "py": "shàng wèi",
+        "id": "belum"
+      },
+      {
+        "cn": "成熟",
+        "py": "chéng shú",
+        "id": "matang"
+      },
+      {
+        "cn": "规范",
+        "py": "guī fàn",
+        "id": "norma"
+      },
+      {
+        "cn": "健全",
+        "py": "jiàn quán",
+        "id": "mapan/lengkap"
+      },
+      {
+        "cn": "之前",
+        "py": "zhī qián",
+        "id": "sebelum"
+      },
+      {
+        "cn": "应对",
+        "py": "yìng duì",
+        "id": "menyikapi"
+      },
+      {
+        "cn": "相关",
+        "py": "xiāng guān",
+        "id": "terkait"
+      },
+      {
+        "cn": "研究",
+        "py": "yán jiū",
+        "id": "penelitian"
+      },
+      {
+        "cn": "保持",
+        "py": "bǎo chí",
+        "id": "mempertahankan"
+      },
+      {
+        "cn": "审慎",
+        "py": "shěn shèn",
+        "id": "hati-hati/cermat"
+      },
+      {
+        "cn": "态度",
+        "py": "tài dù",
+        "id": "sikap"
+      },
+      {
+        "cn": "严格",
+        "py": "yán gé",
+        "id": "ketat"
+      },
+      {
+        "cn": "监管",
+        "py": "jiān guǎn",
+        "id": "pengawasan"
+      },
+      {
+        "cn": "与",
+        "py": "yǔ",
+        "id": "dan/dengan"
+      },
+      {
+        "cn": "广泛",
+        "py": "guǎng fàn",
+        "id": "luas"
+      },
+      {
+        "cn": "公众",
+        "py": "gōng zhòng",
+        "id": "publik"
+      },
+      {
+        "cn": "讨论",
+        "py": "tǎo lùn",
+        "id": "diskusi"
+      },
+      {
+        "cn": "寻求",
+        "py": "xún qiú",
+        "id": "mencari"
+      },
+      {
+        "cn": "科学",
+        "py": "kē xué",
+        "id": "ilmu pengetahuan"
+      },
+      {
+        "cn": "底线",
+        "py": "dǐ xiàn",
+        "id": "batas dasar"
+      },
+      {
+        "cn": "之间",
+        "py": "zhī jiān",
+        "id": "di antara"
+      },
+      {
+        "cn": "平衡",
+        "py": "píng héng",
+        "id": "keseimbangan"
+      }
+    ]
+  },
+  {
+    "id": "tema_pendidikantinggi_hsk9",
+    "level": 9,
+    "tema": "Pendidikan Tinggi",
+    "title": "就业导向还是学术追求 (Orientasi Kerja atau Pencarian Akademik)",
+    "text": "近年来，关于大学教育究竟应该以就业为导向，还是以学术追求为核心，社会各界争论不休。主张就业导向的一方指出，高等教育耗费大量的时间与金钱，学生理应获得与市场需求相匹配的技能，否则毕业即失业，教育投入便失去了现实意义。然而，坚持学术追求的学者反驳道，大学的根本使命在于培养独立思考的能力与批判精神，而非单纯地为企业输送劳动力；若一味迎合就业市场，人文学科与基础研究势必被边缘化，长远来看反而会削弱社会的创新潜力。也有学者尝试调和这两种立场，主张在通识教育的基础上引入实践环节，让学生既具备扎实的理论素养，又不脱离社会现实。这场辩论的背后，实际上折射出人们对教育本质的不同理解。",
+    "translation": "Beberapa tahun terakhir, berbagai kalangan masyarakat terus berdebat tanpa henti mengenai apakah pendidikan universitas sebaiknya berorientasi pada dunia kerja, atau berpusat pada pencarian akademik. Pihak yang mendukung orientasi dunia kerja menunjukkan bahwa pendidikan tinggi menghabiskan banyak waktu dan uang, sehingga mahasiswa seharusnya memperoleh keterampilan yang sesuai dengan kebutuhan pasar — jika tidak, lulus justru berarti menganggur, dan investasi pendidikan pun kehilangan makna praktisnya. Namun, para akademisi yang bersikeras pada pencarian akademik membantah bahwa misi mendasar universitas terletak pada membina kemampuan berpikir mandiri dan semangat kritis, bukan semata-mata memasok tenaga kerja bagi perusahaan; jika pendidikan hanya menuruti selera pasar kerja, ilmu humaniora dan penelitian dasar pasti akan terpinggirkan, yang dalam jangka panjang justru melemahkan potensi inovasi masyarakat. Ada pula akademisi yang mencoba menyelaraskan kedua pendirian ini, dengan mengusulkan agar praktik dimasukkan ke dalam dasar pendidikan umum, sehingga mahasiswa memiliki kompetensi teori yang kokoh sekaligus tidak terlepas dari realitas sosial. Di balik perdebatan ini, sebenarnya tercermin perbedaan pemahaman orang-orang mengenai hakikat pendidikan itu sendiri.",
+    "glossary": [
+      {
+        "cn": "近年来",
+        "py": "jìn nián lái",
+        "id": "dalam beberapa tahun terakhir"
+      },
+      {
+        "cn": "关于",
+        "py": "guān yú",
+        "id": "mengenai/tentang"
+      },
+      {
+        "cn": "大学",
+        "py": "dà xué",
+        "id": "universitas"
+      },
+      {
+        "cn": "教育",
+        "py": "jiào yù",
+        "id": "pendidikan"
+      },
+      {
+        "cn": "究竟",
+        "py": "jiū jìng",
+        "id": "sebenarnya"
+      },
+      {
+        "cn": "应该",
+        "py": "yīng gāi",
+        "id": "seharusnya"
+      },
+      {
+        "cn": "以",
+        "py": "yǐ",
+        "id": "dengan/menggunakan"
+      },
+      {
+        "cn": "就业",
+        "py": "jiù yè",
+        "id": "bekerja/lapangan kerja"
+      },
+      {
+        "cn": "为",
+        "py": "wèi",
+        "id": "sebagai/demi"
+      },
+      {
+        "cn": "导向",
+        "py": "dǎo xiàng",
+        "id": "orientasi/arah"
+      },
+      {
+        "cn": "还是",
+        "py": "hái shì",
+        "id": "atau"
+      },
+      {
+        "cn": "学术",
+        "py": "xué shù",
+        "id": "akademik"
+      },
+      {
+        "cn": "追求",
+        "py": "zhuī qiú",
+        "id": "mengejar/pencarian"
+      },
+      {
+        "cn": "核心",
+        "py": "hé xīn",
+        "id": "inti"
+      },
+      {
+        "cn": "社会各界",
+        "py": "shè huì gè jiè",
+        "id": "berbagai kalangan masyarakat"
+      },
+      {
+        "cn": "争论不休",
+        "py": "zhēng lùn bù xiū",
+        "id": "berdebat tanpa henti"
+      },
+      {
+        "cn": "主张",
+        "py": "zhǔ zhāng",
+        "id": "berpendapat/mengusulkan"
+      },
+      {
+        "cn": "的",
+        "py": "de",
+        "id": "(partikel penjelas)"
+      },
+      {
+        "cn": "一方",
+        "py": "yī fāng",
+        "id": "satu pihak"
+      },
+      {
+        "cn": "指出",
+        "py": "zhǐ chū",
+        "id": "menunjukkan"
+      },
+      {
+        "cn": "高等教育",
+        "py": "gāo děng jiào yù",
+        "id": "pendidikan tinggi"
+      },
+      {
+        "cn": "耗费",
+        "py": "hào fèi",
+        "id": "menghabiskan"
+      },
+      {
+        "cn": "大量",
+        "py": "dà liàng",
+        "id": "dalam jumlah besar"
+      },
+      {
+        "cn": "时间",
+        "py": "shí jiān",
+        "id": "waktu"
+      },
+      {
+        "cn": "与",
+        "py": "yǔ",
+        "id": "dan/dengan"
+      },
+      {
+        "cn": "金钱",
+        "py": "jīn qián",
+        "id": "uang"
+      },
+      {
+        "cn": "学生",
+        "py": "xué shēng",
+        "id": "mahasiswa/siswa"
+      },
+      {
+        "cn": "理应",
+        "py": "lǐ yīng",
+        "id": "seharusnya (secara logis)"
+      },
+      {
+        "cn": "获得",
+        "py": "huò dé",
+        "id": "memperoleh"
+      },
+      {
+        "cn": "市场需求",
+        "py": "shì chǎng xū qiú",
+        "id": "kebutuhan pasar"
+      },
+      {
+        "cn": "相匹配",
+        "py": "xiāng pǐ pèi",
+        "id": "sesuai/cocok"
+      },
+      {
+        "cn": "技能",
+        "py": "jì néng",
+        "id": "keterampilan"
+      },
+      {
+        "cn": "否则",
+        "py": "fǒu zé",
+        "id": "jika tidak"
+      },
+      {
+        "cn": "毕业",
+        "py": "bì yè",
+        "id": "lulus"
+      },
+      {
+        "cn": "即",
+        "py": "jí",
+        "id": "yaitu/berarti"
+      },
+      {
+        "cn": "失业",
+        "py": "shī yè",
+        "id": "menganggur"
+      },
+      {
+        "cn": "投入",
+        "py": "tóu rù",
+        "id": "investasi/curahan"
+      },
+      {
+        "cn": "便",
+        "py": "biàn",
+        "id": "maka/lalu"
+      },
+      {
+        "cn": "失去",
+        "py": "shī qù",
+        "id": "kehilangan"
+      },
+      {
+        "cn": "了",
+        "py": "le",
+        "id": "(partikel aspek selesai)"
+      },
+      {
+        "cn": "现实意义",
+        "py": "xiàn shí yì yì",
+        "id": "makna praktis"
+      },
+      {
+        "cn": "然而",
+        "py": "rán ér",
+        "id": "namun"
+      },
+      {
+        "cn": "坚持",
+        "py": "jiān chí",
+        "id": "bersikeras"
+      },
+      {
+        "cn": "学者",
+        "py": "xué zhě",
+        "id": "akademisi"
+      },
+      {
+        "cn": "反驳",
+        "py": "fǎn bó",
+        "id": "membantah"
+      },
+      {
+        "cn": "道",
+        "py": "dào",
+        "id": "berkata (bentuk sastra)"
+      },
+      {
+        "cn": "根本",
+        "py": "gēn běn",
+        "id": "mendasar"
+      },
+      {
+        "cn": "使命",
+        "py": "shǐ mìng",
+        "id": "misi"
+      },
+      {
+        "cn": "在于",
+        "py": "zài yú",
+        "id": "terletak pada"
+      },
+      {
+        "cn": "培养",
+        "py": "péi yǎng",
+        "id": "membina/menumbuhkan"
+      },
+      {
+        "cn": "独立思考",
+        "py": "dú lì sī kǎo",
+        "id": "berpikir mandiri"
+      },
+      {
+        "cn": "能力",
+        "py": "néng lì",
+        "id": "kemampuan"
+      },
+      {
+        "cn": "批判",
+        "py": "pī pàn",
+        "id": "kritis"
+      },
+      {
+        "cn": "精神",
+        "py": "jīng shén",
+        "id": "semangat/jiwa"
+      },
+      {
+        "cn": "而",
+        "py": "ér",
+        "id": "sedangkan"
+      },
+      {
+        "cn": "非",
+        "py": "fēi",
+        "id": "bukan"
+      },
+      {
+        "cn": "单纯",
+        "py": "dān chún",
+        "id": "semata-mata"
+      },
+      {
+        "cn": "地为",
+        "py": "dì wèi",
+        "id": "secara khusus demi"
+      },
+      {
+        "cn": "企业",
+        "py": "qǐ yè",
+        "id": "perusahaan"
+      },
+      {
+        "cn": "输送",
+        "py": "shū sòng",
+        "id": "memasok"
+      },
+      {
+        "cn": "劳动力",
+        "py": "láo dòng lì",
+        "id": "tenaga kerja"
+      },
+      {
+        "cn": "若",
+        "py": "ruò",
+        "id": "jika"
+      },
+      {
+        "cn": "一味",
+        "py": "yī wèi",
+        "id": "semata-mata/membabi buta"
+      },
+      {
+        "cn": "迎合",
+        "py": "yíng hé",
+        "id": "menuruti selera"
+      },
+      {
+        "cn": "市场",
+        "py": "shì chǎng",
+        "id": "pasar"
+      },
+      {
+        "cn": "人文学科",
+        "py": "rén wén xué kē",
+        "id": "ilmu humaniora"
+      },
+      {
+        "cn": "基础",
+        "py": "jī chǔ",
+        "id": "dasar"
+      },
+      {
+        "cn": "研究",
+        "py": "yán jiū",
+        "id": "penelitian"
+      },
+      {
+        "cn": "势必",
+        "py": "shì bì",
+        "id": "pasti akan"
+      },
+      {
+        "cn": "被",
+        "py": "bèi",
+        "id": "di-"
+      },
+      {
+        "cn": "边缘化",
+        "py": "biān yuán huà",
+        "id": "dipinggirkan"
+      },
+      {
+        "cn": "长远",
+        "py": "cháng yuǎn",
+        "id": "jangka panjang"
+      },
+      {
+        "cn": "来看",
+        "py": "lái kàn",
+        "id": "dilihat dari"
+      },
+      {
+        "cn": "反而",
+        "py": "fǎn ér",
+        "id": "justru sebaliknya"
+      },
+      {
+        "cn": "会",
+        "py": "huì",
+        "id": "akan"
+      },
+      {
+        "cn": "削弱",
+        "py": "xuē ruò",
+        "id": "melemahkan"
+      },
+      {
+        "cn": "社会",
+        "py": "shè huì",
+        "id": "masyarakat"
+      },
+      {
+        "cn": "创新",
+        "py": "chuàng xīn",
+        "id": "inovasi"
+      },
+      {
+        "cn": "潜力",
+        "py": "qián lì",
+        "id": "potensi"
+      },
+      {
+        "cn": "有",
+        "py": "yǒu",
+        "id": "ada"
+      },
+      {
+        "cn": "尝试",
+        "py": "cháng shì",
+        "id": "mencoba"
+      },
+      {
+        "cn": "调和",
+        "py": "tiáo hé",
+        "id": "menyelaraskan"
+      },
+      {
+        "cn": "这",
+        "py": "zhè",
+        "id": "ini"
+      },
+      {
+        "cn": "两种",
+        "py": "liǎng zhǒng",
+        "id": "dua jenis"
+      },
+      {
+        "cn": "立场",
+        "py": "lì chǎng",
+        "id": "pendirian/sikap"
+      },
+      {
+        "cn": "通识",
+        "py": "tōng shí",
+        "id": "pengetahuan umum"
+      },
+      {
+        "cn": "引入",
+        "py": "yǐn rù",
+        "id": "memperkenalkan/memasukkan"
+      },
+      {
+        "cn": "实践",
+        "py": "shí jiàn",
+        "id": "praktik"
+      },
+      {
+        "cn": "环节",
+        "py": "huán jié",
+        "id": "tahapan/komponen"
+      },
+      {
+        "cn": "让",
+        "py": "ràng",
+        "id": "membuat/membiarkan"
+      },
+      {
+        "cn": "既",
+        "py": "jì",
+        "id": "baik...(maupun)"
+      },
+      {
+        "cn": "具备",
+        "py": "jù bèi",
+        "id": "memiliki"
+      },
+      {
+        "cn": "扎实",
+        "py": "zhā shí",
+        "id": "kokoh/mumpuni"
+      },
+      {
+        "cn": "理论素养",
+        "py": "lǐ lùn sù yǎng",
+        "id": "kompetensi teoretis"
+      },
+      {
+        "cn": "又",
+        "py": "yòu",
+        "id": "juga (maupun)"
+      },
+      {
+        "cn": "脱离",
+        "py": "tuō lí",
+        "id": "terlepas dari"
+      },
+      {
+        "cn": "现实",
+        "py": "xiàn shí",
+        "id": "realitas"
+      },
+      {
+        "cn": "这场",
+        "py": "zhè chǎng",
+        "id": "perdebatan ini"
+      },
+      {
+        "cn": "辩论",
+        "py": "biàn lùn",
+        "id": "perdebatan"
+      },
+      {
+        "cn": "背后",
+        "py": "bèi hòu",
+        "id": "di balik"
+      },
+      {
+        "cn": "实际上",
+        "py": "shí jì shàng",
+        "id": "sebenarnya"
+      },
+      {
+        "cn": "折射出",
+        "py": "zhé shè chū",
+        "id": "mencerminkan"
+      },
+      {
+        "cn": "人们",
+        "py": "rén men",
+        "id": "orang-orang"
+      },
+      {
+        "cn": "对",
+        "py": "duì",
+        "id": "terhadap"
+      },
+      {
+        "cn": "本质",
+        "py": "běn zhì",
+        "id": "esensi/hakikat"
+      },
+      {
+        "cn": "不同",
+        "py": "bù tóng",
+        "id": "berbeda"
+      },
+      {
+        "cn": "理解",
+        "py": "lǐ jiě",
+        "id": "pemahaman"
+      },
+      {
+        "cn": "上",
+        "py": "shàng",
+        "id": "pada/di atas"
+      },
+      {
+        "cn": "不",
+        "py": "bù",
+        "id": "tidak"
+      },
+      {
+        "cn": "也",
+        "py": "yě",
+        "id": "juga"
+      },
+      {
+        "cn": "在",
+        "py": "zài",
+        "id": "pada"
+      }
+    ]
+  },
+  {
+    "id": "tema_lingkunganhidup_hsk9",
+    "level": 9,
+    "tema": "Lingkungan Hidup",
+    "title": "经济发展与生态保护的两难 (Dilema Pembangunan Ekonomi dan Perlindungan Ekologi)",
+    "text": "在发展中国家，经济增长与生态保护之间的两难困境尤为突出。地方政府往往面临这样的抉择：引进高污染、高能耗的工厂固然能够迅速拉动就业与财政收入，却也意味着牺牲空气质量、水资源乃至居民的健康；反之，严格限制工业排放虽然有利于长期的生态平衡，短期内却可能导致企业外迁、失业率上升。一些经济学家主张，应当通过征收碳税、推广清洁能源等手段，将环境成本纳入市场价格，从而引导企业自发转型；也有人认为，发达国家在工业化进程中同样经历过污染阶段，如今却要求发展中国家承担更严格的环保标准，这在道义上有失公平。如何在经济发展与生态保护之间找到平衡，仍是一个尚无定论的全球性难题。",
+    "translation": "Di negara-negara berkembang, dilema antara pertumbuhan ekonomi dan perlindungan ekologi tampak sangat menonjol. Pemerintah daerah sering menghadapi pilihan sulit seperti ini: mendatangkan pabrik berpolusi tinggi dan berkonsumsi energi tinggi memang dapat dengan cepat mendorong lapangan kerja dan pendapatan fiskal, tetapi juga berarti mengorbankan kualitas udara, sumber daya air, bahkan kesehatan penduduk; sebaliknya, membatasi emisi industri secara ketat memang menguntungkan keseimbangan ekologi jangka panjang, tetapi dalam jangka pendek berpotensi menyebabkan perusahaan pindah keluar dan tingkat pengangguran meningkat. Sejumlah ekonom berpendapat bahwa biaya lingkungan sebaiknya dimasukkan ke dalam harga pasar melalui cara seperti pemungutan pajak karbon dan promosi energi bersih, sehingga mengarahkan perusahaan bertransformasi secara spontan; ada pula yang berpendapat bahwa negara maju pun pernah mengalami tahap polusi dalam proses industrialisasinya, namun kini menuntut negara berkembang menanggung standar perlindungan lingkungan yang lebih ketat — hal ini dianggap kurang adil secara moral. Bagaimana menemukan keseimbangan antara pembangunan ekonomi dan perlindungan ekologi masih menjadi masalah pelik global yang belum ada kesimpulan pastinya.",
+    "glossary": [
+      {
+        "cn": "在",
+        "py": "zài",
+        "id": "di"
+      },
+      {
+        "cn": "发展中国家",
+        "py": "fā zhǎn zhōng guó jiā",
+        "id": "negara berkembang"
+      },
+      {
+        "cn": "经济",
+        "py": "jīng jì",
+        "id": "ekonomi"
+      },
+      {
+        "cn": "增长",
+        "py": "zēng zhǎng",
+        "id": "pertumbuhan"
+      },
+      {
+        "cn": "与",
+        "py": "yǔ",
+        "id": "dan"
+      },
+      {
+        "cn": "生态",
+        "py": "shēng tài",
+        "id": "ekologi"
+      },
+      {
+        "cn": "保护",
+        "py": "bǎo hù",
+        "id": "perlindungan"
+      },
+      {
+        "cn": "之间",
+        "py": "zhī jiān",
+        "id": "di antara"
+      },
+      {
+        "cn": "的",
+        "py": "de",
+        "id": "(partikel)"
+      },
+      {
+        "cn": "两难",
+        "py": "liǎng nán",
+        "id": "dilema"
+      },
+      {
+        "cn": "困境",
+        "py": "kùn jìng",
+        "id": "situasi sulit"
+      },
+      {
+        "cn": "尤为",
+        "py": "yóu wèi",
+        "id": "terutama"
+      },
+      {
+        "cn": "突出",
+        "py": "tū chū",
+        "id": "menonjol"
+      },
+      {
+        "cn": "地方",
+        "py": "dì fāng",
+        "id": "daerah/lokal"
+      },
+      {
+        "cn": "政府",
+        "py": "zhèng fǔ",
+        "id": "pemerintah"
+      },
+      {
+        "cn": "往往",
+        "py": "wǎng wǎng",
+        "id": "sering kali"
+      },
+      {
+        "cn": "面临",
+        "py": "miàn lín",
+        "id": "menghadapi"
+      },
+      {
+        "cn": "这样",
+        "py": "zhè yàng",
+        "id": "seperti ini"
+      },
+      {
+        "cn": "抉择",
+        "py": "jué zé",
+        "id": "pilihan (yang sulit)"
+      },
+      {
+        "cn": "引进",
+        "py": "yǐn jìn",
+        "id": "mendatangkan"
+      },
+      {
+        "cn": "高污染",
+        "py": "gāo wū rǎn",
+        "id": "berpolusi tinggi"
+      },
+      {
+        "cn": "高能耗",
+        "py": "gāo néng hào",
+        "id": "berkonsumsi energi tinggi"
+      },
+      {
+        "cn": "工厂",
+        "py": "gōng chǎng",
+        "id": "pabrik"
+      },
+      {
+        "cn": "固然",
+        "py": "gù rán",
+        "id": "memang benar (...tetapi)"
+      },
+      {
+        "cn": "能够",
+        "py": "néng gòu",
+        "id": "mampu"
+      },
+      {
+        "cn": "迅速",
+        "py": "xùn sù",
+        "id": "dengan cepat"
+      },
+      {
+        "cn": "拉动",
+        "py": "lā dòng",
+        "id": "mendorong"
+      },
+      {
+        "cn": "就业",
+        "py": "jiù yè",
+        "id": "lapangan kerja"
+      },
+      {
+        "cn": "财政收入",
+        "py": "cái zhèng shōu rù",
+        "id": "pendapatan fiskal"
+      },
+      {
+        "cn": "却",
+        "py": "què",
+        "id": "namun"
+      },
+      {
+        "cn": "也",
+        "py": "yě",
+        "id": "juga"
+      },
+      {
+        "cn": "意味着",
+        "py": "yì wèi zhe",
+        "id": "berarti"
+      },
+      {
+        "cn": "牺牲",
+        "py": "xī shēng",
+        "id": "mengorbankan"
+      },
+      {
+        "cn": "空气质量",
+        "py": "kōng qì zhì liàng",
+        "id": "kualitas udara"
+      },
+      {
+        "cn": "水资源",
+        "py": "shuǐ zī yuán",
+        "id": "sumber daya air"
+      },
+      {
+        "cn": "乃至",
+        "py": "nǎi zhì",
+        "id": "bahkan sampai"
+      },
+      {
+        "cn": "居民",
+        "py": "jū mín",
+        "id": "penduduk"
+      },
+      {
+        "cn": "健康",
+        "py": "jiàn kāng",
+        "id": "kesehatan"
+      },
+      {
+        "cn": "反之",
+        "py": "fǎn zhī",
+        "id": "sebaliknya"
+      },
+      {
+        "cn": "严格",
+        "py": "yán gé",
+        "id": "ketat"
+      },
+      {
+        "cn": "限制",
+        "py": "xiàn zhì",
+        "id": "membatasi"
+      },
+      {
+        "cn": "工业",
+        "py": "gōng yè",
+        "id": "industri"
+      },
+      {
+        "cn": "排放",
+        "py": "pái fàng",
+        "id": "emisi"
+      },
+      {
+        "cn": "虽然",
+        "py": "suī rán",
+        "id": "meskipun"
+      },
+      {
+        "cn": "有利于",
+        "py": "yǒu lì yú",
+        "id": "menguntungkan bagi"
+      },
+      {
+        "cn": "长期",
+        "py": "cháng qī",
+        "id": "jangka panjang"
+      },
+      {
+        "cn": "生态平衡",
+        "py": "shēng tài píng héng",
+        "id": "keseimbangan ekologi"
+      },
+      {
+        "cn": "短期内",
+        "py": "duǎn qī nèi",
+        "id": "dalam jangka pendek"
+      },
+      {
+        "cn": "可能",
+        "py": "kě néng",
+        "id": "mungkin"
+      },
+      {
+        "cn": "导致",
+        "py": "dǎo zhì",
+        "id": "menyebabkan"
+      },
+      {
+        "cn": "企业",
+        "py": "qǐ yè",
+        "id": "perusahaan"
+      },
+      {
+        "cn": "外迁",
+        "py": "wài qiān",
+        "id": "pindah keluar/relokasi"
+      },
+      {
+        "cn": "失业率",
+        "py": "shī yè lǜ",
+        "id": "tingkat pengangguran"
+      },
+      {
+        "cn": "上升",
+        "py": "shàng shēng",
+        "id": "meningkat"
+      },
+      {
+        "cn": "一些",
+        "py": "yī xiē",
+        "id": "beberapa"
+      },
+      {
+        "cn": "经济学家",
+        "py": "jīng jì xué jiā",
+        "id": "ekonom"
+      },
+      {
+        "cn": "主张",
+        "py": "zhǔ zhāng",
+        "id": "berpendapat"
+      },
+      {
+        "cn": "应当",
+        "py": "yīng dāng",
+        "id": "seharusnya"
+      },
+      {
+        "cn": "通过",
+        "py": "tōng guò",
+        "id": "melalui"
+      },
+      {
+        "cn": "征收",
+        "py": "zhēng shōu",
+        "id": "memungut (pajak)"
+      },
+      {
+        "cn": "碳税",
+        "py": "tàn shuì",
+        "id": "pajak karbon"
+      },
+      {
+        "cn": "推广",
+        "py": "tuī guǎng",
+        "id": "mempromosikan"
+      },
+      {
+        "cn": "清洁",
+        "py": "qīng jié",
+        "id": "bersih"
+      },
+      {
+        "cn": "能源",
+        "py": "néng yuán",
+        "id": "energi"
+      },
+      {
+        "cn": "等",
+        "py": "děng",
+        "id": "dan lain-lain"
+      },
+      {
+        "cn": "手段",
+        "py": "shǒu duàn",
+        "id": "cara/sarana"
+      },
+      {
+        "cn": "将",
+        "py": "jiāng",
+        "id": "akan (partikel struktural)"
+      },
+      {
+        "cn": "环境",
+        "py": "huán jìng",
+        "id": "lingkungan"
+      },
+      {
+        "cn": "成本",
+        "py": "chéng běn",
+        "id": "biaya"
+      },
+      {
+        "cn": "纳入",
+        "py": "nà rù",
+        "id": "memasukkan ke dalam"
+      },
+      {
+        "cn": "市场",
+        "py": "shì chǎng",
+        "id": "pasar"
+      },
+      {
+        "cn": "价格",
+        "py": "jià gé",
+        "id": "harga"
+      },
+      {
+        "cn": "从而",
+        "py": "cóng ér",
+        "id": "sehingga"
+      },
+      {
+        "cn": "引导",
+        "py": "yǐn dǎo",
+        "id": "mengarahkan"
+      },
+      {
+        "cn": "自发",
+        "py": "zì fā",
+        "id": "secara spontan"
+      },
+      {
+        "cn": "转型",
+        "py": "zhuǎn xíng",
+        "id": "bertransformasi"
+      },
+      {
+        "cn": "有人",
+        "py": "yǒu rén",
+        "id": "ada orang yang"
+      },
+      {
+        "cn": "认为",
+        "py": "rèn wéi",
+        "id": "berpendapat"
+      },
+      {
+        "cn": "发达国家",
+        "py": "fā dá guó jiā",
+        "id": "negara maju"
+      },
+      {
+        "cn": "工业化",
+        "py": "gōng yè huà",
+        "id": "industrialisasi"
+      },
+      {
+        "cn": "进程",
+        "py": "jìn chéng",
+        "id": "proses"
+      },
+      {
+        "cn": "中",
+        "py": "zhōng",
+        "id": "dalam"
+      },
+      {
+        "cn": "同样",
+        "py": "tóng yàng",
+        "id": "sama saja"
+      },
+      {
+        "cn": "经历",
+        "py": "jīng lì",
+        "id": "mengalami"
+      },
+      {
+        "cn": "过",
+        "py": "guò",
+        "id": "pernah (partikel pengalaman)"
+      },
+      {
+        "cn": "污染",
+        "py": "wū rǎn",
+        "id": "polusi"
+      },
+      {
+        "cn": "阶段",
+        "py": "jiē duàn",
+        "id": "tahap"
+      },
+      {
+        "cn": "如今",
+        "py": "rú jīn",
+        "id": "sekarang"
+      },
+      {
+        "cn": "要求",
+        "py": "yāo qiú",
+        "id": "menuntut"
+      },
+      {
+        "cn": "承担",
+        "py": "chéng dān",
+        "id": "menanggung"
+      },
+      {
+        "cn": "更",
+        "py": "gèng",
+        "id": "lebih"
+      },
+      {
+        "cn": "环保",
+        "py": "huán bǎo",
+        "id": "perlindungan lingkungan"
+      },
+      {
+        "cn": "标准",
+        "py": "biāo zhǔn",
+        "id": "standar"
+      },
+      {
+        "cn": "这",
+        "py": "zhè",
+        "id": "ini"
+      },
+      {
+        "cn": "道义上",
+        "py": "dào yì shàng",
+        "id": "secara moral"
+      },
+      {
+        "cn": "有失",
+        "py": "yǒu shī",
+        "id": "kurang (dalam hal)"
+      },
+      {
+        "cn": "公平",
+        "py": "gōng píng",
+        "id": "keadilan"
+      },
+      {
+        "cn": "如何",
+        "py": "rú hé",
+        "id": "bagaimana"
+      },
+      {
+        "cn": "发展",
+        "py": "fā zhǎn",
+        "id": "pembangunan"
+      },
+      {
+        "cn": "找到",
+        "py": "zhǎo dào",
+        "id": "menemukan"
+      },
+      {
+        "cn": "平衡",
+        "py": "píng héng",
+        "id": "keseimbangan"
+      },
+      {
+        "cn": "仍",
+        "py": "réng",
+        "id": "masih"
+      },
+      {
+        "cn": "是",
+        "py": "shì",
+        "id": "adalah"
+      },
+      {
+        "cn": "一个",
+        "py": "yí gè",
+        "id": "satu"
+      },
+      {
+        "cn": "尚无",
+        "py": "shàng wú",
+        "id": "belum ada"
+      },
+      {
+        "cn": "定论",
+        "py": "dìng lùn",
+        "id": "kesimpulan pasti"
+      },
+      {
+        "cn": "全球性",
+        "py": "quán qiú xìng",
+        "id": "bersifat global"
+      },
+      {
+        "cn": "难题",
+        "py": "nán tí",
+        "id": "masalah pelik"
+      }
+    ]
+  }
+]
