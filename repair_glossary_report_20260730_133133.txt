@@ -1,0 +1,929 @@
+=== LAPORAN repair_glossary.py (v2, scoped) — 2026-07-30 13:31:33.958878 ===
+Baseline: data\app_words.json.bak_20260729_221158
+Mode: EKSEKUSI
+Kata dlm cakupan (verified_changed): 428
+Total entri diperiksa: 123
+
+⚠ MASIH TERLIHAT MENCURIGAKAN SETELAH DIPERBAIKI (tetap disinkronkan di bawah,
+  tapi disarankan رسلان cek manual di app_words.json terpisah):
+  - "上": 'shǎng'/'(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'shǎng'/'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "新": 'Xīn'/'singkatan dari Xinjiang 新疆[Xin1 jiang1]' -> 'xīn'/'singkatan dari Xinjiang 新疆[Xin1 jiang1]'
+  - "加": 'Jiā'/'Kanada (singkatan dari 加拿大[Jia1 na2 da4])' -> 'jiā'/'Kanada (singkatan dari 加拿大[Jia1 na2 da4])'
+  - "哈": 'Hā'/'singkatan dari 哈薩克斯坦|哈萨克斯坦[Ha1 sa4 ke4 si1 tan3], Kazakhstan' -> 'hā'/'singkatan dari 哈薩克斯坦|哈萨克斯坦[Ha1 sa4 ke4 si1 tan3], Kazakhstan'
+  - "单": 'Shàn'/'marga Shan' -> 'chán'/'digunakan dalam 單于|单于[chan2 yu2]'
+  - "保": 'Bǎo'/'Bulgaria (singkatan dari 保加利亞|保加利亚[Bao3 jia1 li4 ya4])' -> 'bǎo'/'Bulgaria (singkatan dari 保加利亞|保加利亚[Bao3 jia1 li4 ya4])'
+  - "签": 'qiān'/'menandatangani nama; menulis komentar singkat pada dokumen; stik bambu bertulis (varian dari 籤|签[qian1]); visa' -> 'qiān'/'tongkat bambu bertuliskan (digunakan dalam ramalan, perjudian, undian dll)'
+  - "佛": 'Fó'/'Buddha; Buddhisme (singkatan dari 佛陀[Fo2 tuo2])' -> 'fó'/'Buddha; Buddhisme (singkatan dari 佛陀[Fo2 tuo2])'
+  - "扬": 'Yáng'/'singkatan dari Yangzhou 揚州|扬州[Yang2 zhou1] di Jiangsu' -> 'yáng'/'singkatan dari Yangzhou 揚州|扬州[Yang2 zhou1] di Jiangsu'
+  - "头条": 'Tóu tiáo'/'Toutiao, aplikasi rekomendasi konten yang dipersonalisasi (singkatan dari 今日頭條|今日头条[Jin1 ri4 Tou2 tiao2])' -> 'tóu tiáo'/'Toutiao, aplikasi rekomendasi konten yang dipersonalisasi (singkatan dari 今日頭條|今日头条[Jin1 ri4 Tou2 tiao2])'
+
+=== hsk1_01 — "我的一天" (HSK1, bacaan) ===
+  - "也": py 'yě' -> 'yě' | arti 'juga' -> 'juga; terlalu; (tidak ...) juga'
+
+=== hsk1_02 — "我的家" (HSK1, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti 'dan' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "也": py 'yě' -> 'yě' | arti 'juga' -> 'juga; terlalu; (tidak ...) juga'
+
+=== hsk2_01 — "周末的计划" (HSK2, bacaan) ===
+  - "也": py 'yě' -> 'yě' | arti 'juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "和": py 'hé' -> 'hé' | arti 'dengan/dan' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "还": py 'hái' -> 'hái' | arti 'juga/masih' -> 'masih'
+
+=== hsk2_02 — "生病了" (HSK2, bacaan) ===
+  - "还": py 'hái' -> 'hái' | arti 'juga/masih' -> 'masih'
+  - "要": py 'yào' -> 'yào' | arti 'harus' -> 'ingin; perlu; meminta'
+
+=== hsk3_01 — "第一次坐飞机" (HSK3, bacaan) ===
+  - "都": py 'dōu' -> 'dōu' | arti 'semua' -> 'semua; keduanya; seluruhnya'
+  - "美": py 'měi' -> 'měi' | arti 'indah' -> 'cantik'
+  - "和": py 'hé' -> 'hé' | arti 'dan' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+
+=== hsk3_02 — "网上购物的好处与坏处" (HSK3, bacaan) ===
+  - "也": py 'yě' -> 'yě' | arti 'juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "上": py 'shàng' -> 'shǎng' | arti 'di atas/pada' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+
+=== hsk4_01 — "压力与放松" (HSK4, bacaan) ===
+  - "也": py 'yě' -> 'yě' | arti 'juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "和": py 'hé' -> 'hé' | arti 'dan' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "还": py 'hái' -> 'hái' | arti 'juga' -> 'masih'
+  - "与": py 'yǔ' -> 'yǔ' | arti 'dan/dengan' -> 'dan'
+  - "都": py 'dōu' -> 'dōu' | arti 'semua' -> 'semua; keduanya; seluruhnya'
+  - "从": py 'cóng' -> 'cóng' | arti 'dari' -> 'dari; melalui; lewat'
+
+=== hsk4_02 — "一封迟到的信" (HSK4, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti 'dan' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "联系": py 'liánxì' -> 'lián xì' | arti 'kontak/menghubungi' -> 'koneksi'
+  - "着": py 'zhe' -> 'zhe' | arti '(partikel sedang berlangsung)' -> 'partikel aspek yang menunjukkan tindakan sedang berlangsung atau keadaan yang sedang berlangsung'
+  - "时": py 'shí' -> 'shí' | arti 'saat' -> 'jam'
+  - "过": py 'guo' -> 'guò' | arti '(partikel pengalaman)' -> 'menyeberang'
+  - "还": py 'hái' -> 'hái' | arti 'masih/juga' -> 'masih'
+
+=== hsk5_01 — "共享经济的利与弊" (HSK5, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti 'dan' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "也": py 'yě' -> 'yě' | arti 'juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "更": py 'gèng' -> 'gèng' | arti 'lebih' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "资源": py 'zīyuán' -> 'zī yuán' | arti 'sumber daya' -> 'lihat 資源縣|资源县[Zi1 yuan2 Xian4]'
+
+=== hsk5_02 — "人工智能改变教育" (HSK5, bacaan) ===
+  - "也": py 'yě' -> 'yě' | arti 'juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "还": py 'hái' -> 'hái' | arti 'juga' -> 'masih'
+  - "与": py 'yǔ' -> 'yǔ' | arti 'dengan' -> 'dan'
+  - "最": py 'zuì' -> 'zuì' | arti 'paling' -> '(sebelum kata sifat atau kata kerja) sampai tingkat tertinggi; paling ...; ter-'
+  - "中": py 'zhōng' -> 'zhōng' | arti 'di dalam' -> 'di dalam; di antara; pada'
+
+=== hsk6_01 — "传统文化的传承与创新" (HSK6, bacaan) ===
+  - "时代": py 'shídài' -> 'shí dài' | arti 'zaman' -> 'usia'
+  - "中": py 'zhōng' -> 'zhōng' | arti 'di dalam' -> 'di dalam; di antara; pada'
+  - "要": py 'yào' -> 'yào' | arti 'harus' -> 'ingin; perlu; meminta'
+  - "上": py 'shàng' -> 'shǎng' | arti 'di atas/pada' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "与": py 'yǔ' -> 'yǔ' | arti 'dan/dengan' -> 'dan'
+
+=== hsk6_02 — "沉默的代价" (HSK6, bacaan) ===
+  - "中": py 'zhōng' -> 'zhōng' | arti 'di dalam' -> 'di dalam; di antara; pada'
+  - "也": py 'yě' -> 'yě' | arti 'juga/tetap' -> 'juga; terlalu; (tidak ...) juga'
+  - "都": py 'dōu' -> 'dōu' | arti 'semua' -> 'semua; keduanya; seluruhnya'
+  - "却": py 'què' -> 'què' | arti 'namun' -> 'tetapi'
+  - "要": py 'yào' -> 'yào' | arti 'harus' -> 'ingin; perlu; meminta'
+
+=== hsk7_01 — "论功利主义教育观的局限" (HSK7, bacaan) ===
+  - "却": py 'què' -> 'què' | arti 'namun' -> 'tetapi'
+  - "局限": py 'júxiàn' -> 'jú xiàn' | arti 'keterbatasan' -> 'membatasi'
+  - "原": py 'yuán' -> 'yuán' | arti 'sejatinya/aslinya' -> 'mantan'
+  - "更": py 'gèng' -> 'gèng' | arti 'lebih' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "时": py 'shí' -> 'shí' | arti 'saat' -> 'jam'
+  - "上": py 'shàng' -> 'shǎng' | arti 'di atas/dalam' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "也": py 'yě' -> 'yě' | arti 'juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "应": py 'yīng' -> 'yīng' | arti 'harus/seharusnya' -> 'setuju (untuk melakukan sesuatu); seharusnya; harus; wajib'
+
+=== hsk7_02 — "记忆与遗忘的辩证" (HSK7, bacaan) ===
+  - "随": py 'suí' -> 'suí' | arti 'seiring' -> 'mengikuti'
+  - "沉淀": py 'chéndiàn' -> 'chén diàn' | arti 'mengendap' -> '(kimia) mengendap; mengendapkan'
+  - "中": py 'zhōng' -> 'zhōng' | arti 'di dalam' -> 'di dalam; di antara; pada'
+
+=== tema_pasar_hsk1 — "在市场 (Di Pasar)" (HSK1, bacaan) ===
+  - "里": py 'lǐ' -> 'lǐ' | arti 'di dalam' -> 'lapisan dalam'
+  - "钱": py 'qián' -> 'qián' | arti 'uang' -> 'koin'
+  - "也": py 'yě' -> 'yě' | arti 'juga' -> 'juga; terlalu; (tidak ...) juga'
+
+=== tema_pasar_hsk2 — "在市场买菜 (Belanja di Pasar)" (HSK2, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti 'dan' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "里": py 'lǐ' -> 'lǐ' | arti 'di dalam' -> 'lapisan dalam'
+  - "花": py 'huā' -> 'huā' | arti 'menghabiskan (uang)' -> 'bunga'
+  - "钱": py 'qián' -> 'qián' | arti 'uang' -> 'koin'
+
+=== tema_pasar_hsk3 — "热闹的市场 (Pasar yang Ramai)" (HSK3, bacaan) ===
+  - "里": py 'lǐ' -> 'lǐ' | arti 'di dalam' -> 'lapisan dalam'
+  - "得": py 'de' -> 'de' | arti '(penghubung tingkat/hasil)' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "鱼": py 'yú' -> 'yú' | arti 'ikan' -> 'ikan (KP:條|条[tiao2],尾[wei3])'
+  - "老板": py 'lǎobǎn' -> 'lǎo bǎn' | arti 'pemilik toko' -> 'Robam (merek)'
+  - "钱": py 'qián' -> 'qián' | arti 'uang' -> 'koin'
+  - "也": py 'yě' -> 'yě' | arti 'juga' -> 'juga; terlalu; (tidak ...) juga'
+
+=== tema_kelas_hsk1 — "在教室 (Di Kelas)" (HSK1, bacaan) ===
+  - "里": py 'lǐ' -> 'lǐ' | arti 'di dalam' -> 'lapisan dalam'
+  - "都": py 'dōu' -> 'dōu' | arti 'semua' -> 'semua; keduanya; seluruhnya'
+  - "坐": py 'zuò' -> 'zuò' | arti 'duduk; naik (kendaraan)' -> 'duduk'
+  - "上": py 'shàng' -> 'shǎng' | arti 'di atas / mengikuti' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+
+=== tema_kelas_hsk2 — "汉语课 (Pelajaran Bahasa Mandarin)" (HSK2, bacaan) ===
+  - "都": py 'dōu' -> 'dōu' | arti 'semua' -> 'semua; keduanya; seluruhnya'
+  - "教": py 'jiāo' -> 'jiāo' | arti 'mengajar' -> 'mengajar; untuk menginstruksikan'
+  - "新": py 'xīn' -> 'xīn' | arti 'baru' -> 'singkatan dari Xinjiang 新疆[Xin1 jiang1]'
+  - "和": py 'hé' -> 'hé' | arti 'dan' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "得": py 'de' -> 'de' | arti '(penghubung tingkat/hasil)' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "还": py 'hái' -> 'hái' | arti 'masih; juga' -> 'masih'
+  - "也": py 'yě' -> 'yě' | arti 'juga' -> 'juga; terlalu; (tidak ...) juga'
+
+=== tema_kelas_hsk3 — "难忘的一堂课 (Pelajaran yang Berkesan)" (HSK3, bacaan) ===
+  - "上": py 'shàng' -> 'shǎng' | arti 'di atas / mengikuti' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "班": py 'bān' -> 'bān' | arti 'kelas; regu' -> 'tim; kelas; tingkatan'
+  - "都": py 'dōu' -> 'dōu' | arti 'semua' -> 'semua; keduanya; seluruhnya'
+  - "得": py 'de' -> 'de' | arti '(penghubung tingkat/hasil)' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "还": py 'hái' -> 'hái' | arti 'masih; juga' -> 'masih'
+  - "里": py 'lǐ' -> 'lǐ' | arti 'di dalam' -> 'lapisan dalam'
+  - "更": py 'gèng' -> 'gèng' | arti 'lebih' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+
+=== tema_restoran_hsk1 — "在饭馆 (Di Rumah Makan)" (HSK1, bacaan) ===
+  - "要": py 'yào' -> 'yào' | arti 'mau/ingin' -> 'ingin; perlu; meminta'
+  - "和": py 'hé' -> 'hé' | arti 'dan' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "都": py 'dōu' -> 'dōu' | arti 'semua' -> 'semua; keduanya; seluruhnya'
+  - "钱": py 'qián' -> 'qián' | arti 'uang' -> 'koin'
+
+=== tema_restoran_hsk2 — "第一次点菜 (Pertama Kali Memesan Makanan)" (HSK2, bacaan) ===
+  - "新": py 'xīn' -> 'xīn' | arti 'baru' -> 'singkatan dari Xinjiang 新疆[Xin1 jiang1]'
+  - "张": py 'zhāng' -> 'zhāng' | arti '(kata pengukur benda lembar/pipih)' -> 'membuka'
+  - "上": py 'shàng' -> 'shǎng' | arti 'di atas / mengikuti' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "鱼": py 'yú' -> 'yú' | arti 'ikan' -> 'ikan (KP:條|条[tiao2],尾[wei3])'
+  - "和": py 'hé' -> 'hé' | arti 'dan' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "要": py 'yào' -> 'yào' | arti 'mau/ingin' -> 'ingin; perlu; meminta'
+  - "都": py 'dōu' -> 'dōu' | arti 'semua' -> 'semua; keduanya; seluruhnya'
+  - "花": py 'huā' -> 'huā' | arti 'menghabiskan (uang)' -> 'bunga'
+  - "钱": py 'qián' -> 'qián' | arti 'uang' -> 'koin'
+
+=== tema_restoran_hsk3 — "难忘的聚餐 (Makan Bersama yang Berkesan)" (HSK3, bacaan) ===
+  - "上": py 'shàng' -> 'shǎng' | arti 'di atas / mengikuti' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "辣": py 'là' -> 'là' | arti 'pedas' -> 'pedas (rasa)'
+  - "得": py 'de' -> 'de' | arti '(penghubung tingkat/hasil)' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "都": py 'dōu' -> 'dōu' | arti 'semua' -> 'semua; keduanya; seluruhnya'
+  - "笑": py 'xiào' -> 'xiào' | arti 'tertawa' -> 'tertawa; tersenyum'
+  - "过": py 'guò' -> 'guò' | arti 'pernah; melewati' -> 'menyeberang'
+  - "也": py 'yě' -> 'yě' | arti 'juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "还": py 'hái' -> 'hái' | arti 'masih; juga' -> 'masih'
+  - "能": py 'néng' -> 'néng' | arti 'bisa; mampu' -> 'bisa'
+  - "黑": py 'hēi' -> 'hēi' | arti 'gelap' -> 'hitam'
+
+=== tema_bandara_hsk4 — "在机场 (Di Bandara)" (HSK4, bacaan) ===
+  - "要": py 'yāo' -> 'yào' | arti '(bentuk terikat) menuntut' -> 'ingin; perlu; meminta'
+  - "坐": py 'zuò' -> 'zuò' | arti 'duduk; naik (kendaraan)' -> 'duduk'
+  - "和": py 'hé' -> 'hé' | arti 'dan' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "还": py 'hái' -> 'hái' | arti 'masih; juga' -> 'masih'
+  - "过": py 'guò' -> 'guò' | arti 'pernah; melewati' -> 'menyeberang'
+
+=== tema_rumahsakit_hsk4 — "去医院看病 (Berobat ke Rumah Sakit)" (HSK4, bacaan) ===
+  - "还": py 'hái' -> 'hái' | arti 'masih; juga' -> 'masih'
+  - "过": py 'guò' -> 'guò' | arti 'pernah; melewati' -> 'menyeberang'
+
+=== tema_kantorpos_hsk5 — "在邮局寄包裹 (Mengirim Paket di Kantor Pos)" (HSK5, bacaan) ===
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "要": py 'yāo' -> 'yào' | arti '(bentuk terikat) menuntut' -> 'ingin; perlu; meminta'
+  - "书": py 'shū' -> 'shū' | arti 'buku' -> 'buku; surat; dokumen; KP:本[ben3],冊|册[ce4],部[bu4]; menulis'
+  - "还": py 'hái' -> 'hái' | arti 'masih; juga' -> 'masih'
+  - "能": py 'néng' -> 'néng' | arti 'bisa; mampu' -> 'bisa'
+  - "张": py 'zhāng' -> 'zhāng' | arti '(kata pengukur benda lembar/pipih)' -> 'membuka'
+
+=== tema_kantor_hsk6 — "公司里的大项目 (Proyek Besar di Kantor)" (HSK6, bacaan) ===
+  - "都": py 'dōu' -> 'dōu' | arti 'semua' -> 'semua; keduanya; seluruhnya'
+  - "和": py 'hé' -> 'hé' | arti 'dan' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "时": py 'shí' -> 'shí' | arti 'waktu; saat' -> 'jam'
+  - "还": py 'hái' -> 'hái' | arti 'masih; juga' -> 'masih'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+
+=== tema_kesehatan_hsk7 — "一场传染病 (Wabah Penyakit Menular)" (HSK7, bacaan) ===
+  - "新": py 'xīn' -> 'xīn' | arti 'baru' -> 'singkatan dari Xinjiang 新疆[Xin1 jiang1]'
+  - "里": py 'lǐ' -> 'lǐ' | arti 'di dalam' -> 'lapisan dalam'
+  - "都": py 'dōu' -> 'dōu' | arti 'semua' -> 'semua; keduanya; seluruhnya'
+  - "得": py 'dé' -> 'de' | arti 'mendapatkan' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "能": py 'néng' -> 'néng' | arti 'bisa; mampu' -> 'bisa'
+  - "力": py 'lì' -> 'lì' | arti 'daya; kekuatan' -> 'kekuatan'
+  - "最": py 'zuì' -> 'zuì' | arti '(setelah 之[zhi1]) contoh terbaik atau paling ekstrem (mis. 世界之最[shi4 jie4 zhi1 z' -> '(sebelum kata sifat atau kata kerja) sampai tingkat tertinggi; paling ...; ter-'
+  - "和": py 'hé' -> 'hé' | arti 'dan' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "也": py 'yě' -> 'yě' | arti 'juga' -> 'juga; terlalu; (tidak ...) juga'
+
+=== tema_keluarga_hsk1 — "我的家 (Keluargaku)" (HSK1, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti 'dan' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "还": py 'hái' -> 'hái' | arti 'masih; juga' -> 'masih'
+  - "都": py 'dōu' -> 'dōu' | arti 'semua' -> 'semua; keduanya; seluruhnya'
+
+=== tema_cuaca_hsk2 — "今天天气怎么样 (Bagaimana Cuaca Hari Ini)" (HSK2, bacaan) ===
+  - "还": py 'hái' -> 'hái' | arti 'masih; juga' -> 'masih'
+  - "要": py 'yào' -> 'yào' | arti 'akan/mau' -> 'ingin; perlu; meminta'
+  - "更": py 'gèng' -> 'gèng' | arti 'lebih' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "也": py 'yě' -> 'yě' | arti 'juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "都": py 'dōu' -> 'dōu' | arti 'semua' -> 'semua; keduanya; seluruhnya'
+
+=== tema_olahraga_hsk3 — "篮球比赛 (Pertandingan Basket)" (HSK3, bacaan) ===
+  - "都": py 'dōu' -> 'dōu' | arti 'semua' -> 'semua; keduanya; seluruhnya'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "还": py 'hái' -> 'hái' | arti 'masih; juga' -> 'masih'
+  - "能": py 'néng' -> 'néng' | arti 'bisa; mampu' -> 'bisa'
+  - "班": py 'bān' -> 'bān' | arti 'kelas; regu' -> 'tim; kelas; tingkatan'
+  - "和": py 'hé' -> 'hé' | arti 'dan' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "教": py 'jiāo' -> 'jiāo' | arti 'mengajar' -> 'mengajar; untuk menginstruksikan'
+
+=== tema_teknologi_hsk5 — "科技改变生活 (Teknologi Mengubah Kehidupan)" (HSK5, bacaan) ===
+  - "得": py 'dé' -> 'de' | arti 'mendapatkan' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "中": py 'zhōng' -> 'zhōng' | arti 'di dalam' -> 'di dalam; di antara; pada'
+  - "最": py 'zuì' -> 'zuì' | arti '(setelah 之[zhi1]) contoh terbaik atau paling ekstrem (mis. 世界之最[shi4 jie4 zhi1 z' -> '(sebelum kata sifat atau kata kerja) sampai tingkat tertinggi; paling ...; ter-'
+  - "都": py 'dōu' -> 'dōu' | arti 'semua' -> 'semua; keduanya; seluruhnya'
+  - "上": py 'shàng' -> 'shǎng' | arti 'di atas' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "能": py 'néng' -> 'néng' | arti 'bisa; mampu' -> 'bisa'
+  - "也": py 'yě' -> 'yě' | arti 'juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "路": py 'lù' -> 'lù' | arti 'jalan' -> 'jalan (KP:條|条[tiao2])'
+
+=== tema_belanja_hsk2 — "在商店买东西 (Belanja di Toko)" (HSK2, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti '(matematika) jumlah' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+
+=== tema_emosi_hsk3 — "考试以后的心情 (Perasaan Setelah Ujian)" (HSK3, bacaan) ===
+  - "中": py 'zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+
+=== tema_wisata_hsk4 — "一次难忘的旅行 (Perjalanan yang Tak Terlupakan)" (HSK4, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti '(matematika) jumlah' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "还": py 'huán' -> 'hái' | arti 'masih' -> 'masih'
+  - "山": py 'shān' -> 'shān' | arti '(percakapan) bundel jerami kecil agar ulat sutra memintal kepompong' -> 'gunung; bukit (KP:座[zuo4])'
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+
+=== tema_hobi_hsk5 — "我的业余爱好 (Hobi Saya di Waktu Luang)" (HSK5, bacaan) ===
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+
+=== tema_bisnis_hsk6 — "小生意的起步 (Awal Mula Bisnis Kecil)" (HSK6, bacaan) ===
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+
+=== tema_urbanisasi_hsk8 — "城市化进程中的乡愁 (Kerinduan Kampung Halaman di Tengah Urbanisasi)" (HSK8, bacaan) ===
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "那": py 'nā' -> 'nà' | arti '(penunjuk) itu; tersebut; mereka (bahasa sehari-hari dibaca [nei4])' -> '(penunjuk) itu; tersebut; mereka (bahasa sehari-hari dibaca [nei4])'
+  - "行": py 'háng' -> 'xíng' | arti '(bentuk terikat) baris; garis' -> '(bentuk terikat) berjalan; pergi; bepergian'
+  - "中": py 'zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+
+=== tema_kebebasan_hsk9 — "论个体自由与集体责任的张力 (Tentang Ketegangan antara Kebebasan Individu dan Tanggung Jawab Kolektif)" (HSK9, bacaan) ===
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "中": py 'zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "和": py 'hé' -> 'hé' | arti '(matematika) jumlah' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "应": py 'yīng' -> 'yīng' | arti 'dialek Taiwan [Ying4]' -> 'setuju (untuk melakukan sesuatu); seharusnya; harus; wajib'
+
+=== tema_waktu_hsk1 — "我的时间表 (Jadwal Waktu Saya)" (HSK1, bacaan) ===
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "和": py 'hé' -> 'hé' | arti '(matematika) jumlah' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+
+=== tema_tubuh_hsk2 — "我生病了 (Saya Sakit)" (HSK2, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti '(matematika) jumlah' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+
+=== tema_makanan_hsk1 — "我爱吃的东西 (Makanan yang Saya Suka)" (HSK1, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti '(matematika) jumlah' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "得": py 'dé' -> 'de' | arti 'memperoleh' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+
+=== tema_hewan_hsk2 — "我家的小狗 (Anjing Kecil di Rumah Saya)" (HSK2, bacaan) ===
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+
+=== tema_pekerjaan_hsk4 — "换工作的决定 (Keputusan Pindah Kerja)" (HSK4, bacaan) ===
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+
+=== tema_transportasi_hsk3 — "堵车的早上 (Pagi yang Macet)" (HSK3, bacaan) ===
+  - "得": py 'dé' -> 'de' | arti 'memperoleh' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+
+=== tema_pendidikan_hsk8 — "教育资源分配的公平问题 (Persoalan Keadilan Distribusi Sumber Daya Pendidikan)" (HSK8, bacaan) ===
+  - "中": py 'zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+
+=== tema_teknologi_hsk9 — "人工智能时代的责任归属难题 (Persoalan Tanggung Jawab di Era Kecerdasan Buatan)" (HSK9, bacaan) ===
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+
+=== tema_angka_hsk1 — "我家有几口人 (Ada Berapa Orang di Keluarga Saya)" (HSK1, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti '(matematika) jumlah' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+
+=== tema_haritanggal_hsk1 — "我的生日 (Ulang Tahun Saya)" (HSK1, bacaan) ===
+  - "要": py 'yāo' -> 'yào' | arti '(bentuk terikat) menuntut; memaksa' -> 'ingin; perlu; meminta'
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+
+=== tema_pakaian_hsk2 — "今天穿什么 (Hari Ini Pakai Baju Apa)" (HSK2, bacaan) ===
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+
+=== tema_buah_hsk1 — "我最喜欢的水果 (Buah yang Paling Saya Suka)" (HSK1, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti '(matematika) jumlah' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "要": py 'yāo' -> 'yào' | arti '(bentuk terikat) menuntut; memaksa' -> 'ingin; perlu; meminta'
+
+=== tema_sayuran_hsk2 — "妈妈做的菜 (Masakan Ibu)" (HSK2, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti '(matematika) jumlah' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "教": py 'jiào' -> 'jiāo' | arti 'mengajar; untuk menginstruksikan' -> 'mengajar; untuk menginstruksikan'
+
+=== tema_rumahruangan_hsk2 — "我的新家 (Rumah Baru Saya)" (HSK2, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti '(matematika) jumlah' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+
+=== tema_pendidikan_hsk3 — "我们的新老师 (Guru Baru Kami)" (HSK3, bacaan) ===
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "得": py 'dé' -> 'de' | arti 'memperoleh' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "还": py 'huán' -> 'hái' | arti 'masih' -> 'masih'
+
+=== tema_komunikasi_hsk5 — "手机改变了我们的交流方式 (Ponsel Mengubah Cara Kita Berkomunikasi)" (HSK5, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti '(matematika) jumlah' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "得": py 'dé' -> 'de' | arti 'memperoleh' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+
+=== tema_sifatdeskripsi_hsk3 — "我的两个朋友 (Dua Teman Saya)" (HSK3, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti '(matematika) jumlah' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+
+=== tema_keuangan_hsk6 — "年轻人的理财观念 (Pandangan Anak Muda tentang Mengelola Keuangan)" (HSK6, bacaan) ===
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+
+=== tema_pemerintahanhukum_hsk7 — "公民参与基层治理的意义 (Makna Partisipasi Warga dalam Tata Kelola Tingkat Dasar)" (HSK7, bacaan) ===
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "中": py 'zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+  - "要": py 'yāo' -> 'yào' | arti '(bentuk terikat) menuntut; memaksa' -> 'ingin; perlu; meminta'
+  - "还": py 'huán' -> 'hái' | arti 'masih' -> 'masih'
+
+=== tema_pendidikantinggi_hsk6 — "选专业的烦恼 (Kebingungan Memilih Jurusan)" (HSK6, bacaan) ===
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "着": py 'zhāo' -> 'zhe' | arti 'trik; taktik' -> 'partikel aspek yang menunjukkan tindakan sedang berlangsung atau keadaan yang sedang berlangsung'
+  - "和": py 'hé' -> 'hé' | arti '(matematika) jumlah' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+
+=== tema_negarabudaya_hsk5 — "春节的意义 (Makna Tahun Baru Imlek)" (HSK5, bacaan) ===
+  - "着": py 'zhāo' -> 'zhe' | arti 'trik; taktik' -> 'partikel aspek yang menunjukkan tindakan sedang berlangsung atau keadaan yang sedang berlangsung'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "得": py 'dé' -> 'de' | arti 'memperoleh' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "越": py 'Yuè' -> 'yuè' | arti 'kata generik untuk orang atau negara di Tiongkok selatan atau Asia selatan pada periode sejarah yang berbeda' -> 'kata generik untuk orang atau negara di Tiongkok selatan atau Asia selatan pada periode sejarah yang berbeda'
+
+=== tema_agama_hsk6 — "多元信仰的社会 (Masyarakat dengan Keyakinan yang Beragam)" (HSK6, bacaan) ===
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "教": py 'jiào' -> 'jiāo' | arti 'mengajar; untuk menginstruksikan' -> 'mengajar; untuk menginstruksikan'
+  - "要": py 'yāo' -> 'yào' | arti '(bentuk terikat) menuntut; memaksa' -> 'ingin; perlu; meminta'
+  - "中": py 'zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+  - "和": py 'hé' -> 'hé' | arti '(matematika) jumlah' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "得": py 'dé' -> 'de' | arti 'memperoleh' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+
+=== tema_lingkunganhidup_hsk5 — "垃圾分类从我做起 (Pemilahan Sampah Dimulai dari Saya)" (HSK5, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti '(matematika) jumlah' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "还": py 'huán' -> 'hái' | arti 'masih' -> 'masih'
+  - "要": py 'yāo' -> 'yào' | arti '(bentuk terikat) menuntut; memaksa' -> 'ingin; perlu; meminta'
+
+=== tema_pertanian_hsk4 — "爷爷的农田 (Ladang Kakek)" (HSK4, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti '(matematika) jumlah' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "要": py 'yāo' -> 'yào' | arti '(bentuk terikat) menuntut; memaksa' -> 'ingin; perlu; meminta'
+  - "还": py 'huán' -> 'hái' | arti 'masih' -> 'masih'
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+
+=== tema_senibudaya_hsk5 — "一场特别的画展 (Pameran Lukisan yang Istimewa)" (HSK5, bacaan) ===
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+
+=== tema_tekstil_hsk4 — "快时尚的代价 (Harga di Balik Fashion Cepat)" (HSK4, bacaan) ===
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "过": py 'guō' -> 'guò' | arti 'menyeberang' -> 'menyeberang'
+  - "还": py 'huán' -> 'hái' | arti 'masih' -> 'masih'
+  - "价": py 'jià' -> 'jià' | arti '(sastra) pembawa pesan; pelayan' -> 'harga'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+
+=== tema_konstruksi_hsk7 — "老建筑的保护与更新 (Pelestarian dan Pembaruan Bangunan Tua)" (HSK7, bacaan) ===
+  - "得": py 'dé' -> 'de' | arti 'memperoleh' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "着": py 'zhāo' -> 'zhe' | arti 'trik; taktik' -> 'partikel aspek yang menunjukkan tindakan sedang berlangsung atau keadaan yang sedang berlangsung'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+
+=== tema_alamlingkungan_hsk4 — "一次山林徒步 (Sekali Trekking di Hutan Gunung)" (HSK4, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti '(matematika) jumlah' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "山": py 'shān' -> 'shān' | arti '(percakapan) bundel jerami kecil agar ulat sutra memintal kepompong' -> 'gunung; bukit (KP:座[zuo4])'
+  - "都": py 'dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "还": py 'huán' -> 'hái' | arti 'masih' -> 'masih'
+  - "鸟": py 'diǎo' -> 'niǎo' | arti 'penis' -> 'burung'
+  - "成": py 'chéng' -> 'chéng' | arti 'nama singkat untuk Chengdu 成都[Cheng2 du1]' -> 'berhasil'
+
+=== tema_filsafat_hsk7 — "什么是幸福 (Apa Itu Kebahagiaan)" (HSK7, bacaan) ===
+  - "古": py 'Gǔ' -> 'gǔ' | arti 'kuno' -> 'kuno'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "时": py 'shí' -> 'shí' | arti 'varian lama dari 時|时[shi2]' -> 'jam'
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "能": py 'Néng' -> 'néng' | arti 'bisa' -> 'bisa'
+  - "却": py 'què' -> 'què' | arti 'varian lama dari 卻|却[que4]' -> 'tetapi'
+
+=== tema_keuangan_hsk7 — "个人理财观念的转变 (Perubahan Pola Pikir Pengelolaan Keuangan Pribadi)" (HSK7, bacaan) ===
+  - "钱": py 'Qián' -> 'qián' | arti 'koin' -> 'koin'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "高": py 'Gāo' -> 'gāo' | arti 'tinggi' -> 'tinggi'
+  - "应": py 'Yīng' -> 'yīng' | arti 'dialek Taiwan [Ying4]' -> 'setuju (untuk melakukan sesuatu); seharusnya; harus; wajib'
+  - "因": py 'yīn' -> 'yīn' | arti 'varian lama dari 因[yin1]' -> 'sebab'
+
+=== tema_agama_hsk8 — "宗教对社会道德的影响 (Pengaruh Agama terhadap Moral Sosial)" (HSK8, bacaan) ===
+  - "着": py 'zhāo' -> 'zhe' | arti 'trik; taktik' -> 'partikel aspek yang menunjukkan tindakan sedang berlangsung atau keadaan yang sedang berlangsung'
+  - "都": py 'Dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "互助": py 'Hù zhù' -> 'hù zhù' | arti 'saling membantu' -> 'saling membantu'
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "中": py 'Zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+  - "新": py 'Xīn' -> 'xīn' | arti 'singkatan dari Xinjiang 新疆[Xin1 jiang1]' -> 'singkatan dari Xinjiang 新疆[Xin1 jiang1]'
+  - "于": py 'Yú' -> 'yú' | arti 'pergi' -> 'pergi'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "非": py 'Fēi' -> 'fēi' | arti 'bukan; tidak' -> 'bukan; tidak'
+  - "错": py 'Cuò' -> 'cuò' | arti 'kesalahan' -> 'kesalahan'
+  - "时代": py 'Shí dài' -> 'shí dài' | arti 'usia' -> 'usia'
+
+=== tema_bisnis_hsk8 — "全球化贸易的利与弊 (Untung Rugi Perdagangan Global)" (HSK8, bacaan) ===
+  - "化": py 'huā' -> 'huà' | arti 'membuat menjadi' -> 'membuat menjadi'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "网络": py 'Wǎng luò' -> 'wǎng luò' | arti 'Internet' -> 'Internet'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "中": py 'Zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+  - "时": py 'shí' -> 'shí' | arti 'varian lama dari 時|时[shi2]' -> 'jam'
+  - "高": py 'Gāo' -> 'gāo' | arti 'tinggi' -> 'tinggi'
+  - "利": py 'Lì' -> 'lì' | arti 'tajam' -> 'tajam'
+  - "国": py 'Guó' -> 'guó' | arti 'negara; bangsa; kenegaraan' -> 'negara; bangsa; kenegaraan'
+
+=== tema_negarabudaya_hsk8 — "文化认同与国家身份 (Identitas Budaya dan Jati Diri Bangsa)" (HSK8, bacaan) ===
+  - "化": py 'huā' -> 'huà' | arti 'membuat menjadi' -> 'membuat menjadi'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "得": py 'dé' -> 'de' | arti 'memperoleh' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "加": py 'Jiā' -> 'jiā' | arti 'Kanada (singkatan dari 加拿大[Jia1 na2 da4])' -> 'Kanada (singkatan dari 加拿大[Jia1 na2 da4])'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "国": py 'Guó' -> 'guó' | arti 'negara; bangsa; kenegaraan' -> 'negara; bangsa; kenegaraan'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "都": py 'Dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "能": py 'Néng' -> 'néng' | arti 'bisa' -> 'bisa'
+  - "中": py 'Zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+
+=== tema_pendidikantinggi_hsk8 — "高等教育的价值之争 (Perdebatan Nilai Pendidikan Tinggi)" (HSK8, bacaan) ===
+  - "钱": py 'Qián' -> 'qián' | arti 'koin' -> 'koin'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "后": py 'Hòu' -> 'hòu' | arti 'permaisuri' -> 'permaisuri'
+  - "却": py 'què' -> 'què' | arti 'varian lama dari 卻|却[que4]' -> 'tetapi'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "非": py 'Fēi' -> 'fēi' | arti 'bukan; tidak' -> 'bukan; tidak'
+
+=== tema_pemerintahanhukum_hsk9 — "法治与人治的辩论 (Perdebatan Negara Hukum dan Kekuasaan Individu)" (HSK9, bacaan) ===
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "题": py 'Tí' -> 'tí' | arti 'topik' -> 'topik'
+  - "都": py 'Dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "德": py 'Dé' -> 'dé' | arti 'Jerman' -> 'Jerman'
+  - "行": py 'háng' -> 'xíng' | arti '(bentuk terikat) baris; garis' -> '(bentuk terikat) berjalan; pergi; bepergian'
+  - "中": py 'Zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+  - "文": py 'Wén' -> 'wén' | arti 'bahasa' -> 'bahasa'
+  - "因": py 'yīn' -> 'yīn' | arti 'varian lama dari 因[yin1]' -> 'sebab'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "非": py 'Fēi' -> 'fēi' | arti 'bukan; tidak' -> 'bukan; tidak'
+
+=== tema_senibudaya_hsk9 — "传统艺术在现代社会的命运 (Nasib Seni Tradisional di Masyarakat Modern)" (HSK9, bacaan) ===
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "着": py 'zhāo' -> 'zhe' | arti 'trik; taktik' -> 'partikel aspek yang menunjukkan tindakan sedang berlangsung atau keadaan yang sedang berlangsung'
+  - "数": py 'shǔ' -> 'shù' | arti 'menghitung' -> 'angka; figur'
+  - "年": py 'Nián' -> 'nián' | arti 'tahun' -> 'tahun'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "能": py 'Néng' -> 'néng' | arti 'bisa' -> 'bisa'
+  - "时代": py 'Shí dài' -> 'shí dài' | arti 'usia' -> 'usia'
+  - "于": py 'Yú' -> 'yú' | arti 'pergi' -> 'pergi'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "新": py 'Xīn' -> 'xīn' | arti 'singkatan dari Xinjiang 新疆[Xin1 jiang1]' -> 'singkatan dari Xinjiang 新疆[Xin1 jiang1]'
+  - "化": py 'huā' -> 'huà' | arti 'membuat menjadi' -> 'membuat menjadi'
+  - "尚": py 'Shàng' -> 'shàng' | arti 'masih' -> 'masih'
+
+=== tema_filsafat_hsk6 — "自由重要还是安全重要 (Mana yang Lebih Penting, Kebebasan atau Keamanan)" (HSK6, bacaan) ===
+  - "中": py 'Zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "得": py 'dé' -> 'de' | arti 'memperoleh' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "能": py 'Néng' -> 'néng' | arti 'bisa' -> 'bisa'
+
+=== tema_negarabudaya_hsk6 — "为什么要保护自己国家的语言 (Mengapa Perlu Melindungi Bahasa Negara Sendiri)" (HSK6, bacaan) ===
+  - "都": py 'Dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "国": py 'Guó' -> 'guó' | arti 'negara; bangsa; kenegaraan' -> 'negara; bangsa; kenegaraan'
+  - "能": py 'Néng' -> 'néng' | arti 'bisa' -> 'bisa'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "还": py 'Huán' -> 'hái' | arti 'masih' -> 'masih'
+  - "着": py 'zhāo' -> 'zhe' | arti 'trik; taktik' -> 'partikel aspek yang menunjukkan tindakan sedang berlangsung atau keadaan yang sedang berlangsung'
+  - "要": py 'yāo' -> 'yào' | arti '(bentuk terikat) menuntut; memaksa' -> 'ingin; perlu; meminta'
+  - "最": py 'zuì' -> 'zuì' | arti 'varian lama dari 最[zui4]' -> '(sebelum kata sifat atau kata kerja) sampai tingkat tertinggi; paling ...; ter-'
+
+=== tema_senibudaya_hsk6 — "艺术教育对孩子有什么用 (Apa Gunanya Pendidikan Seni bagi Anak)" (HSK6, bacaan) ===
+  - "时": py 'shí' -> 'shí' | arti 'varian lama dari 時|时[shi2]' -> 'jam'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "力": py 'Lì' -> 'lì' | arti 'kekuatan' -> 'kekuatan'
+  - "中": py 'Zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+  - "要": py 'yāo' -> 'yào' | arti '(bentuk terikat) menuntut; memaksa' -> 'ingin; perlu; meminta'
+  - "都": py 'Dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "成": py 'Chéng' -> 'chéng' | arti 'nama singkat untuk Chengdu 成都[Cheng2 du1]' -> 'berhasil'
+
+=== tema_masyarakatbudaya_hsk6 — "城市里的邻居为什么互相不认识 (Mengapa Tetangga di Kota Sering Tidak Saling Kenal)" (HSK6, bacaan) ===
+  - "都": py 'Dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "楼": py 'Lóu' -> 'lóu' | arti 'rumah bertingkat lebih dari 1' -> 'rumah bertingkat lebih dari 1'
+  - "连": py 'Lián' -> 'lián' | arti 'menghubungkan' -> 'menghubungkan'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "深": py 'shēn' -> 'shēn' | arti 'varian lama dari 深[shen1]' -> 'dalam (harfiah dan kiasan)'
+  - "于": py 'Yú' -> 'yú' | arti 'pergi' -> 'pergi'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "网络": py 'Wǎng luò' -> 'wǎng luò' | arti 'Internet' -> 'Internet'
+  - "能": py 'Néng' -> 'néng' | arti 'bisa' -> 'bisa'
+
+=== tema_agama_hsk9 — "科学发展是否会让宗教消失 (Apakah Perkembangan Sains Akan Membuat Agama Hilang)" (HSK9, bacaan) ===
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "化": py 'huā' -> 'huà' | arti 'membuat menjadi' -> 'membuat menjadi'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "深": py 'shēn' -> 'shēn' | arti 'varian lama dari 深[shen1]' -> 'dalam (harfiah dan kiasan)'
+  - "时": py 'shí' -> 'shí' | arti 'varian lama dari 時|时[shi2]' -> 'jam'
+  - "中": py 'Zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "着": py 'zhāo' -> 'zhe' | arti 'trik; taktik' -> 'partikel aspek yang menunjukkan tindakan sedang berlangsung atau keadaan yang sedang berlangsung'
+  - "却": py 'què' -> 'què' | arti 'varian lama dari 卻|却[que4]' -> 'tetapi'
+
+=== tema_bisnis_hsk9 — "大公司是否应该承担社会责任 (Apakah Perusahaan Besar Harus Memikul Tanggung Jawab Sosial)" (HSK9, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "应": py 'Yīng' -> 'yīng' | arti 'dialek Taiwan [Ying4]' -> 'setuju (untuk melakukan sesuatu); seharusnya; harus; wajib'
+  - "中": py 'Zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+  - "非": py 'Fēi' -> 'fēi' | arti 'bukan; tidak' -> 'bukan; tidak'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "能": py 'Néng' -> 'néng' | arti 'bisa' -> 'bisa'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "力": py 'Lì' -> 'lì' | arti 'kekuatan' -> 'kekuatan'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+
+=== tema_keuangan_hsk9 — "贫富差距扩大的经济原因 (Sebab Ekonomi di Balik Melebarnya Kesenjangan Kaya-Miskin)" (HSK9, bacaan) ===
+  - "年": py 'Nián' -> 'nián' | arti 'tahun' -> 'tahun'
+  - "着": py 'zhāo' -> 'zhe' | arti 'trik; taktik' -> 'partikel aspek yang menunjukkan tindakan sedang berlangsung atau keadaan yang sedang berlangsung'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "高": py 'Gāo' -> 'gāo' | arti 'tinggi' -> 'tinggi'
+  - "新": py 'Xīn' -> 'xīn' | arti 'singkatan dari Xinjiang 新疆[Xin1 jiang1]' -> 'singkatan dari Xinjiang 新疆[Xin1 jiang1]'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "于": py 'Yú' -> 'yú' | arti 'pergi' -> 'pergi'
+  - "资源": py 'Zī yuán' -> 'zī yuán' | arti 'lihat 資源縣|资源县[Zi1 yuan2 Xian4]' -> 'lihat 資源縣|资源县[Zi1 yuan2 Xian4]'
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "加": py 'Jiā' -> 'jiā' | arti 'Kanada (singkatan dari 加拿大[Jia1 na2 da4])' -> 'Kanada (singkatan dari 加拿大[Jia1 na2 da4])'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+
+=== tema_konstruksi_hsk9 — "城市老建筑应该拆除还是保留 (Bangunan Tua di Kota Sebaiknya Dibongkar atau Dipertahankan)" (HSK9, bacaan) ===
+  - "化": py 'huā' -> 'huà' | arti 'membuat menjadi' -> 'membuat menjadi'
+  - "都": py 'Dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "着": py 'zhāo' -> 'zhe' | arti 'trik; taktik' -> 'partikel aspek yang menunjukkan tindakan sedang berlangsung atau keadaan yang sedang berlangsung'
+  - "年": py 'Nián' -> 'nián' | arti 'tahun' -> 'tahun'
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "百": py 'Bǎi' -> 'bǎi' | arti 'seratus' -> 'seratus'
+  - "方": py 'Fāng' -> 'fāng' | arti 'persegi' -> 'persegi'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "能": py 'Néng' -> 'néng' | arti 'bisa' -> 'bisa'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "中": py 'Zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+
+=== tema_hewan_hsk5 — "为什么要保护野生动物 (Mengapa Perlu Melindungi Satwa Liar)" (HSK5, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "得": py 'dé' -> 'de' | arti 'memperoleh' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "鱼": py 'Yú' -> 'yú' | arti 'digunakan dalam nama berbagai hewan air yang bukan ikan (termasuk abalon 鮑魚|鲍鱼[bao4 yu2], aligator dan buaya 鱷魚|鳄鱼[e4 yu2] dan gurita 章魚|章鱼[zhang1 yu2])' -> 'ikan (KP:條|条[tiao2],尾[wei3])'
+  - "水": py 'Shuǐ' -> 'shuǐ' | arti 'air' -> 'air'
+  - "区": py 'Oū' -> 'qū' | arti 'area' -> 'area'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "向": py 'Xiàng' -> 'xiàng' | arti 'ke arah' -> 'ke arah'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "中": py 'Zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+  - "都": py 'Dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "着": py 'zhāo' -> 'zhe' | arti 'trik; taktik' -> 'partikel aspek yang menunjukkan tindakan sedang berlangsung atau keadaan yang sedang berlangsung'
+
+=== tema_buah_hsk3 — "夏天的水果 (Buah-buahan Musim Panas)" (HSK3, bacaan) ===
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "得": py 'dé' -> 'de' | arti 'memperoleh' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "最": py 'zuì' -> 'zuì' | arti 'varian lama dari 最[zui4]' -> '(sebelum kata sifat atau kata kerja) sampai tingkat tertinggi; paling ...; ter-'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "还": py 'Huán' -> 'hái' | arti 'masih' -> 'masih'
+  - "都": py 'Dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "成": py 'Chéng' -> 'chéng' | arti 'nama singkat untuk Chengdu 成都[Cheng2 du1]' -> 'berhasil'
+  - "坐": py 'Zuò' -> 'zuò' | arti 'duduk' -> 'duduk'
+
+=== tema_sayuran_hsk4 — "自己种菜的乐趣 (Serunya Menanam Sayur Sendiri)" (HSK4, bacaan) ===
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "都": py 'Dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "水": py 'Shuǐ' -> 'shuǐ' | arti 'air' -> 'air'
+  - "还": py 'Huán' -> 'hái' | arti 'masih' -> 'masih'
+  - "要": py 'yāo' -> 'yào' | arti '(bentuk terikat) menuntut; memaksa' -> 'ingin; perlu; meminta'
+  - "得": py 'dé' -> 'de' | arti 'memperoleh' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "那": py 'Nā' -> 'nà' | arti '(penunjuk) itu; tersebut; mereka (bahasa sehari-hari dibaca [nei4])' -> '(penunjuk) itu; tersebut; mereka (bahasa sehari-hari dibaca [nei4])'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+
+=== tema_cuaca_hsk5 — "气候变化带来的影响 (Dampak yang Dibawa Perubahan Iklim)" (HSK5, bacaan) ===
+  - "年": py 'Nián' -> 'nián' | arti 'tahun' -> 'tahun'
+  - "都": py 'Dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "得": py 'dé' -> 'de' | arti 'memperoleh' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "数": py 'shǔ' -> 'shù' | arti 'menghitung' -> 'angka; figur'
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "最": py 'zuì' -> 'zuì' | arti 'varian lama dari 最[zui4]' -> '(sebelum kata sifat atau kata kerja) sampai tingkat tertinggi; paling ...; ter-'
+  - "冷": py 'Lěng' -> 'lěng' | arti 'dingin' -> 'dingin'
+  - "却": py 'què' -> 'què' | arti 'varian lama dari 卻|却[que4]' -> 'tetapi'
+  - "雪": py 'Xuě' -> 'xuě' | arti 'salju' -> 'salju'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+
+=== tema_olahraga_hsk5 — "运动员是怎么坚持训练的 (Bagaimana Atlet Bertahan dalam Latihan)" (HSK5, bacaan) ===
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "时": py 'shí' -> 'shí' | arti 'varian lama dari 時|时[shi2]' -> 'jam'
+  - "却": py 'què' -> 'què' | arti 'varian lama dari 卻|却[que4]' -> 'tetapi'
+  - "年": py 'Nián' -> 'nián' | arti 'tahun' -> 'tahun'
+  - "要": py 'yāo' -> 'yào' | arti '(bentuk terikat) menuntut; memaksa' -> 'ingin; perlu; meminta'
+  - "水": py 'Shuǐ' -> 'shuǐ' | arti 'air' -> 'air'
+  - "都": py 'Dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "力": py 'Lì' -> 'lì' | arti 'kekuatan' -> 'kekuatan'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "还": py 'Huán' -> 'hái' | arti 'masih' -> 'masih'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "中": py 'Zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+
+=== tema_pakaian_hsk4 — "网上买衣服的烦恼 (Kerepotan Membeli Baju secara Online)" (HSK4, bacaan) ===
+  - "坐": py 'Zuò' -> 'zuò' | arti 'duduk' -> 'duduk'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "却": py 'què' -> 'què' | arti 'varian lama dari 卻|却[que4]' -> 'tetapi'
+  - "都": py 'Dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "花": py 'Huā' -> 'huā' | arti 'bunga' -> 'bunga'
+
+=== tema_angka_hsk3 — "我的电话号码 (Nomor Telepon Saya)" (HSK3, bacaan) ===
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "新": py 'Xīn' -> 'xīn' | arti 'singkatan dari Xinjiang 新疆[Xin1 jiang1]' -> 'singkatan dari Xinjiang 新疆[Xin1 jiang1]'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "还": py 'Huán' -> 'hái' | arti 'masih' -> 'masih'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "要": py 'yāo' -> 'yào' | arti '(bentuk terikat) menuntut; memaksa' -> 'ingin; perlu; meminta'
+  - "张": py 'Zhāng' -> 'zhāng' | arti 'membuka' -> 'membuka'
+  - "钟": py 'Zhōng' -> 'zhōng' | arti 'cangkir tanpa pegangan; piala' -> 'cangkir tanpa pegangan; piala'
+  - "能": py 'Néng' -> 'néng' | arti 'bisa' -> 'bisa'
+
+=== tema_waktu_hsk4 — "时间管理的小方法 (Cara Kecil Mengatur Waktu)" (HSK4, bacaan) ===
+  - "要": py 'yāo' -> 'yào' | arti '(bentuk terikat) menuntut; memaksa' -> 'ingin; perlu; meminta'
+  - "却": py 'què' -> 'què' | arti 'varian lama dari 卻|却[que4]' -> 'tetapi'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "高": py 'Gāo' -> 'gāo' | arti 'tinggi' -> 'tinggi'
+  - "最": py 'zuì' -> 'zuì' | arti 'varian lama dari 最[zui4]' -> '(sebelum kata sifat atau kata kerja) sampai tingkat tertinggi; paling ...; ter-'
+  - "三": py 'Sān' -> 'sān' | arti 'tiga' -> 'tiga'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "能": py 'Néng' -> 'néng' | arti 'bisa' -> 'bisa'
+  - "还": py 'Huán' -> 'hái' | arti 'masih' -> 'masih'
+
+=== tema_teknologi_hsk7 — "人工智能会不会抢走我们的工作 (Apakah Kecerdasan Buatan Akan Merebut Pekerjaan Kita)" (HSK7, bacaan) ===
+  - "化": py 'huā' -> 'huà' | arti 'membuat menjadi' -> 'membuat menjadi'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "强": py 'Qiáng' -> 'qiáng' | arti 'keras kepala' -> 'kuat'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "却": py 'què' -> 'què' | arti 'varian lama dari 卻|却[que4]' -> 'tetapi'
+  - "力": py 'Lì' -> 'lì' | arti 'kekuatan' -> 'kekuatan'
+  - "还": py 'Huán' -> 'hái' | arti 'masih' -> 'masih'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "新": py 'Xīn' -> 'xīn' | arti 'singkatan dari Xinjiang 新疆[Xin1 jiang1]' -> 'singkatan dari Xinjiang 新疆[Xin1 jiang1]'
+
+=== tema_komunikasi_hsk7 — "社交媒体让我们更亲近还是更疏远 (Media Sosial Membuat Kita Lebih Dekat atau Lebih Jauh)" (HSK7, bacaan) ===
+  - "要": py 'yāo' -> 'yào' | arti '(bentuk terikat) menuntut; memaksa' -> 'ingin; perlu; meminta'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "能": py 'Néng' -> 'néng' | arti 'bisa' -> 'bisa'
+  - "最": py 'zuì' -> 'zuì' | arti 'varian lama dari 最[zui4]' -> '(sebelum kata sifat atau kata kerja) sampai tingkat tertinggi; paling ...; ter-'
+  - "新": py 'Xīn' -> 'xīn' | arti 'singkatan dari Xinjiang 新疆[Xin1 jiang1]' -> 'singkatan dari Xinjiang 新疆[Xin1 jiang1]'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "得": py 'dé' -> 'de' | arti 'memperoleh' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "百": py 'Bǎi' -> 'bǎi' | arti 'seratus' -> 'seratus'
+  - "时": py 'shí' -> 'shí' | arti 'varian lama dari 時|时[shi2]' -> 'jam'
+  - "却": py 'què' -> 'què' | arti 'varian lama dari 卻|却[que4]' -> 'tetapi'
+  - "于": py 'Yú' -> 'yú' | arti 'pergi' -> 'pergi'
+  - "中": py 'Zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+
+=== tema_lingkunganhidup_hsk7 — "海洋里的塑料垃圾问题 (Masalah Sampah Plastik di Lautan)" (HSK7, bacaan) ===
+  - "年": py 'Nián' -> 'nián' | arti 'tahun' -> 'tahun'
+  - "都": py 'Dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "中": py 'Zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+  - "百": py 'Bǎi' -> 'bǎi' | arti 'seratus' -> 'seratus'
+  - "海": py 'Hǎi' -> 'hǎi' | arti 'lautan' -> 'lautan'
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "水": py 'Shuǐ' -> 'shuǐ' | arti 'air' -> 'air'
+  - "鸟": py 'diǎo' -> 'niǎo' | arti 'penis' -> 'burung'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "鱼": py 'Yú' -> 'yú' | arti 'digunakan dalam nama berbagai hewan air yang bukan ikan (termasuk abalon 鮑魚|鲍鱼[bao4 yu2], aligator dan buaya 鱷魚|鳄鱼[e4 yu2] dan gurita 章魚|章鱼[zhang1 yu2])' -> 'ikan (KP:條|条[tiao2],尾[wei3])'
+  - "游": py 'Yóu' -> 'yóu' | arti 'berenang' -> 'berenang'
+  - "成": py 'Chéng' -> 'chéng' | arti 'nama singkat untuk Chengdu 成都[Cheng2 du1]' -> 'berhasil'
+  - "步": py 'Bù' -> 'bù' | arti 'satu langkah' -> 'satu langkah'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+
+=== tema_pendidikan_hsk7 — "在家上学是不是一个好选择 (Apakah Belajar di Rumah Pilihan yang Baik)" (HSK7, bacaan) ===
+  - "年": py 'Nián' -> 'nián' | arti 'tahun' -> 'tahun'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "还": py 'Huán' -> 'hái' | arti 'masih' -> 'masih'
+  - "中": py 'Zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+  - "过": py 'Guō' -> 'guò' | arti 'menyeberang' -> 'menyeberang'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "都": py 'Dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+
+=== tema_tekstilfashion_hsk8 — "快时尚背后的环境代价 (Harga Lingkungan di Balik Fesyen Cepat)" (HSK8, bacaan) ===
+  - "周": py 'Zhōu' -> 'zhōu' | arti 'Dinasti Zhou (1046–256 SM)' -> 'mengelilingi; berputar'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "得": py 'dé' -> 'de' | arti 'memperoleh' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "着": py 'zhāo' -> 'zhe' | arti 'trik; taktik' -> 'partikel aspek yang menunjukkan tindakan sedang berlangsung atau keadaan yang sedang berlangsung'
+  - "水": py 'Shuǐ' -> 'shuǐ' | arti 'air' -> 'air'
+  - "资源": py 'Zī yuán' -> 'zī yuán' | arti 'lihat 資源縣|资源县[Zi1 yuan2 Xian4]' -> 'lihat 資源縣|资源县[Zi1 yuan2 Xian4]'
+  - "印": py 'Yìn' -> 'yìn' | arti 'singkatan dari 印度[Yin4 du4], India' -> 'mencetak'
+  - "花": py 'Huā' -> 'huā' | arti 'bunga' -> 'bunga'
+  - "还": py 'Huán' -> 'hái' | arti 'masih' -> 'masih'
+  - "数": py 'shǔ' -> 'shù' | arti 'menghitung' -> 'angka; figur'
+  - "年": py 'Nián' -> 'nián' | arti 'tahun' -> 'tahun'
+  - "百": py 'Bǎi' -> 'bǎi' | arti 'seratus' -> 'seratus'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "都": py 'Dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "于": py 'Yú' -> 'yú' | arti 'pergi' -> 'pergi'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+
+=== tema_alamlingkungan_hsk8 — "城市绿化对居民生活的意义 (Arti Penghijauan Kota bagi Kehidupan Warga)" (HSK8, bacaan) ===
+  - "化": py 'huā' -> 'huà' | arti 'membuat menjadi' -> 'membuat menjadi'
+  - "高": py 'Gāo' -> 'gāo' | arti 'tinggi' -> 'tinggi'
+  - "楼": py 'Lóu' -> 'lóu' | arti 'rumah bertingkat lebih dari 1' -> 'rumah bertingkat lebih dari 1'
+  - "加": py 'Jiā' -> 'jiā' | arti 'Kanada (singkatan dari 加拿大[Jia1 na2 da4])' -> 'Kanada (singkatan dari 加拿大[Jia1 na2 da4])'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "中": py 'Zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+  - "还": py 'Huán' -> 'hái' | arti 'masih' -> 'masih'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "能": py 'Néng' -> 'néng' | arti 'bisa' -> 'bisa'
+  - "鸟": py 'diǎo' -> 'niǎo' | arti 'penis' -> 'burung'
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "因": py 'yīn' -> 'yīn' | arti 'varian lama dari 因[yin1]' -> 'sebab'
+  - "得": py 'dé' -> 'de' | arti 'memperoleh' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "环": py 'Huán' -> 'huán' | arti 'cincin' -> 'cincin'
+
+=== tema_pekerjaan_hsk8 — "远程办公改变了工作方式 (Kerja Jarak Jauh Mengubah Cara Bekerja)" (HSK8, bacaan) ===
+  - "年": py 'Nián' -> 'nián' | arti 'tahun' -> 'tahun'
+  - "网络": py 'Wǎng luò' -> 'wǎng luò' | arti 'Internet' -> 'Internet'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "都": py 'Dū' -> 'dōu' | arti 'semua; keduanya; seluruhnya' -> 'semua; keduanya; seluruhnya'
+  - "最": py 'zuì' -> 'zuì' | arti 'varian lama dari 最[zui4]' -> '(sebelum kata sifat atau kata kerja) sampai tingkat tertinggi; paling ...; ter-'
+  - "班": py 'Bān' -> 'bān' | arti 'tim; kelas; tingkatan' -> 'tim; kelas; tingkatan'
+  - "得": py 'dé' -> 'de' | arti 'memperoleh' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "新": py 'Xīn' -> 'xīn' | arti 'singkatan dari Xinjiang 新疆[Xin1 jiang1]' -> 'singkatan dari Xinjiang 新疆[Xin1 jiang1]'
+  - "延长": py 'Yán cháng' -> 'yán cháng' | arti 'memperpanjang' -> 'memperpanjang'
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "更": py 'gēng' -> 'gèng' | arti 'mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+  - "力": py 'Lì' -> 'lì' | arti 'kekuatan' -> 'kekuatan'
+
+=== tema_transportasi_hsk8 — "共享单车如何改变城市出行 (Bagaimana Sepeda Berbagi Mengubah Perjalanan di Kota)" (HSK8, bacaan) ===
+  - "年": py 'Nián' -> 'nián' | arti 'tahun' -> 'tahun'
+  - "单": py 'Shàn' -> 'chán' | arti 'digunakan dalam 單于|单于[chan2 yu2]' -> 'digunakan dalam 單于|单于[chan2 yu2]'
+  - "车": py 'Chē' -> 'chē' | arti 'mobil' -> 'mobil'
+  - "中": py 'Zhōng' -> 'zhōng' | arti '(bentuk terikat) Tiongkok; Orang Tiongkok' -> 'di dalam; di antara; pada'
+  - "与": py 'yú' -> 'yǔ' | arti 'dan' -> 'dan'
+  - "和": py 'hé' -> 'hé' | arti 'varian lama dari 和[he2]' -> '(menggabungkan dua kata benda) dan; bersama dengan; dengan (Taiwan dibaca [han4])'
+  - "后": py 'Hòu' -> 'hòu' | arti 'permaisuri' -> 'permaisuri'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "段": py 'Duàn' -> 'duàn' | arti 'paragraf' -> 'paragraf'
+  - "得": py 'dé' -> 'de' | arti 'memperoleh' -> 'partikel struktural: digunakan setelah kata kerja (atau kata sifat sebagai kata kerja utama), menghubungkannya dengan frasa berikut yang menunjukkan efek, tingkat, kemungkinan, dll'
+  - "新": py 'Xīn' -> 'xīn' | arti 'singkatan dari Xinjiang 新疆[Xin1 jiang1]' -> 'singkatan dari Xinjiang 新疆[Xin1 jiang1]'
+  - "高": py 'Gāo' -> 'gāo' | arti 'tinggi' -> 'tinggi'
+
+=== tema_kesehatan_hsk9 — "基因编辑的伦理困境 (Dilema Etika Penyuntingan Gen)" (HSK9, bacaan) ===
+  - "也": py 'yě' -> 'yě' | arti 'juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "从": py 'cóng' -> 'cóng' | arti 'dari' -> 'dari; melalui; lewat'
+  - "上": py 'shàng' -> 'shǎng' | arti 'dari segi/di atas' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "于": py 'yú' -> 'yú' | arti 'pada/untuk' -> 'pergi'
+  - "尚": py 'shàng' -> 'shàng' | arti 'masih (belum)' -> 'masih'
+  - "都": py 'dōu' -> 'dōu' | arti 'semua' -> 'semua; keduanya; seluruhnya'
+  - "与": py 'yǔ' -> 'yǔ' | arti 'dan/dengan' -> 'dan'
+
+=== tema_pendidikantinggi_hsk9 — "就业导向还是学术追求 (Orientasi Kerja atau Pencarian Akademik)" (HSK9, bacaan) ===
+  - "与": py 'yǔ' -> 'yǔ' | arti 'dan/dengan' -> 'dan'
+  - "非": py 'fēi' -> 'fēi' | arti 'bukan' -> 'bukan; tidak'
+  - "上": py 'shàng' -> 'shǎng' | arti 'pada/di atas' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+  - "也": py 'yě' -> 'yě' | arti 'juga' -> 'juga; terlalu; (tidak ...) juga'
+
+=== tema_lingkunganhidup_hsk9 — "经济发展与生态保护的两难 (Dilema Pembangunan Ekonomi dan Perlindungan Ekologi)" (HSK9, bacaan) ===
+  - "却": py 'què' -> 'què' | arti 'namun' -> 'tetapi'
+  - "也": py 'yě' -> 'yě' | arti 'juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "中": py 'zhōng' -> 'zhōng' | arti 'dalam' -> 'di dalam; di antara; pada'
+  - "过": py 'guò' -> 'guò' | arti 'pernah (partikel pengalaman)' -> 'menyeberang'
+  - "更": py 'gèng' -> 'gèng' | arti 'lebih' -> 'lebih; bahkan lebih; selanjutnya; masih; masih lebih'
+
+=== di_toko_buku_hsk1 — "Di Toko Buku" (HSK1, bacaan) ===
+  - "书": py 'Shū' -> 'shū' | arti 'buku; surat; dokumen; KP:本[ben3],冊|册[ce4],部[bu4]; menulis' -> 'buku; surat; dokumen; KP:本[ben3],冊|册[ce4],部[bu4]; menulis'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+
+=== hari_libur_nasional_hsk2 — "国庆节" (HSK2, bacaan) ===
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+
+=== di_stasiun_kereta_hsk2 — "Membeli Tiket Kereta" (HSK2, percakapan) ===
+  - "张": py 'Zhāng' -> 'zhāng' | arti 'marga Zhang' -> 'membuka'
+  - "三": py 'Sān' -> 'sān' | arti 'marga San' -> 'tiga'
+  - "百": py 'Bǎi' -> 'bǎi' | arti 'seratus' -> 'seratus'
+  - "钱": py 'Qián' -> 'qián' | arti 'marga Qian' -> 'koin'
+  - "祝": py 'Zhù' -> 'zhù' | arti 'marga Zhu' -> 'mendoakan'
+
+=== waktu_luang_hsk3 — "周末的计划" (HSK3, bacaan) ===
+  - "山": py 'Shān' -> 'shān' | arti 'marga Shan' -> 'gunung; bukit (KP:座[zuo4])'
+  - "美": py 'Měi' -> 'měi' | arti '(bentuk terikat) Amerika (singkatan dari 美洲[Mei3 zhou1])' -> 'cantik'
+
+=== menelepon_teman_hsk3 — "打电话" (HSK3, percakapan) ===
+  - "别": py 'Bié' -> 'bié' | arti 'marga Bie' -> 'berpisah; meninggalkan'
+  - "那": py 'Nā' -> 'nà' | arti 'marga Na' -> '(penunjuk) itu; tersebut; mereka (bahasa sehari-hari dibaca [nei4])'
+
+=== gaya_hidup_sehat_hsk4 — "健康的生活方式" (HSK4, bacaan) ===
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+
+=== wawancara_kerja_hsk4 — "面试" (HSK4, percakapan) ===
+  - "于": py 'Yú' -> 'yú' | arti 'marga Yu' -> 'pergi'
+  - "过": py 'Guō' -> 'guò' | arti 'marga Guo' -> 'menyeberang'
+  - "年": py 'Nián' -> 'nián' | arti 'marga Nian' -> 'tahun'
+  - "能": py 'Néng' -> 'néng' | arti 'marga Neng' -> 'bisa'
+  - "这里": py 'zhè lǐ' -> 'zhè lǐ' | arti 'varian dari 這裡|这里[zhe4 li3]' -> 'di sini'
+  - "最": py 'zuì' -> 'zuì' | arti 'varian dari 最[zui4]' -> '(sebelum kata sifat atau kata kerja) sampai tingkat tertinggi; paling ...; ter-'
+  - "强": py 'Qiáng' -> 'qiáng' | arti 'marga Qiang' -> 'kuat'
+
+=== polusi_perkotaan_hsk5 — "城市环境污染问题" (HSK5, bacaan) ===
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+
+=== rapat_proyek_kantor_hsk5 — "项目讨论会" (HSK5, percakapan) ===
+  - "那": py 'Nā' -> 'nà' | arti 'marga Na' -> '(penunjuk) itu; tersebut; mereka (bahasa sehari-hari dibaca [nei4])'
+  - "从": py 'cóng' -> 'cóng' | arti 'varian dari 從|从[cong2]' -> 'dari; melalui; lewat'
+
+=== ekonomi_digital_hsk6 — "消费方式的转变" (HSK6, bacaan) ===
+  - "网络": py 'Wǎng luò' -> 'wǎng luò' | arti 'Internet' -> 'Internet'
+  - "能": py 'Néng' -> 'néng' | arti 'marga Neng' -> 'bisa'
+  - "从": py 'cóng' -> 'cóng' | arti 'varian dari 從|从[cong2]' -> 'dari; melalui; lewat'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "冲击": py 'chōng jī' -> 'chōng jī' | arti 'varian dari 衝擊|冲击[chong1 ji1]' -> 'menyerang'
+
+=== pendidikan_daring_hsk6 — "线上教育的辩论" (HSK6, percakapan) ===
+  - "题": py 'Tí' -> 'tí' | arti 'marga Ti' -> 'topik'
+  - "能": py 'Néng' -> 'néng' | arti 'marga Neng' -> 'bisa'
+  - "上": py 'shǎng' -> 'shǎng' | arti '(bentuk terikat) atas; bagian atas; di atas; sebelumnya' -> 'digunakan dalam 上聲|上声[shang3 sheng1]'
+
+=== kecerdasan_buatan_pekerjaan_hsk7 — "人工智能与就业市场" (HSK7, bacaan) ===
+  - "化": py 'huā' -> 'huà' | arti 'varian dari 花[hua1]' -> 'membuat menjadi'
+  - "新兴": py 'Xīn xīng' -> 'xīn xīng' | arti 'lihat 新興縣|新兴县[Xin1 xing1 Xian4]' -> 'lihat 新興縣|新兴县[Xin1 xing1 Xian4]'
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "与": py 'yú' -> 'yǔ' | arti 'varian dari 歟|欤[yu2]' -> 'dan'
+  - "非": py 'Fēi' -> 'fēi' | arti 'bukan; tidak' -> 'bukan; tidak'
+  - "时代": py 'Shí dài' -> 'shí dài' | arti 'usia' -> 'usia'
+
+=== wawancara_ekonomi_hsk7 — "专访经济学家" (HSK7, percakapan) ===
+  - "从": py 'cóng' -> 'cóng' | arti 'varian dari 從|从[cong2]' -> 'dari; melalui; lewat'
+
+=== filsafat_waktu_hsk8 — "对时间的哲学思考" (HSK8, bacaan) ===
+  - "念": py 'niàn' -> 'niàn' | arti 'varian dari 念[nian4], membaca dengan lantang' -> 'membaca'
+  - "于": py 'Yú' -> 'yú' | arti 'marga Yu' -> 'pergi'
+
+=== diskusi_akademik_sejarah_hsk8 — "历史课的学术讨论" (HSK8, percakapan) ===
+  - "也": py 'Yě' -> 'yě' | arti 'juga; terlalu; (tidak ...) juga' -> 'juga; terlalu; (tidak ...) juga'
+  - "动荡": py 'dòng dàng' -> 'dòng dàng' | arti 'varian dari 動蕩|动荡[dong4 dang4]' -> 'kerusuhan (sosial atau politik)'
+
+=== kebijakan_publik_hsk9 — "公共政策的制定与权衡" (HSK9, bacaan) ===
+  - "与": py 'yú' -> 'yǔ' | arti 'varian dari 歟|欤[yu2]' -> 'dan'
+  - "项": py 'Xiàng' -> 'xiàng' | arti 'marga Xiang' -> 'bagian belakang leher'
+  - "方": py 'Fāng' -> 'fāng' | arti 'persegi' -> 'persegi'
+
+=== debat_kebijakan_lingkungan_hsk9 — "环保政策辩论赛" (HSK9, percakapan) ===
+  - "冲击": py 'chōng jī' -> 'chōng jī' | arti 'varian dari 衝擊|冲击[chong1 ji1]' -> 'menyerang'
+  - "与": py 'yú' -> 'yǔ' | arti 'varian dari 歟|欤[yu2]' -> 'dan'
+  - "非": py 'Fēi' -> 'fēi' | arti 'bukan; tidak' -> 'bukan; tidak'
+
+--- RINGKASAN ---
+Entri diperiksa       : 123
+Entri berubah         : 119
+Total kata diperbarui : 667
+Masih mencurigakan    : 10 (lihat daftar di atas)
