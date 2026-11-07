@@ -1,0 +1,902 @@
+[
+ {
+  "id": "tema_bandara_hsk4",
+  "level": 4,
+  "tema": "Di Bandara",
+  "title": "在机场 (Di Bandara)",
+  "text": "我今天要坐飞机去北京。一大早我就到了机场，心里有点紧张。我把护照和机票交给工作人员检查。他们还检查了我的行李，问我要什么座位。过安检以后，我找到了登机口，坐下来等。广播说飞机就要起飞了，我赶紧走过去。飞机起飞以后，我看着窗外，觉得很高兴。",
+  "translation": "Hari ini saya akan naik pesawat pergi ke Beijing. Pagi-pagi sekali saya sudah tiba di bandara, hati saya agak gugup. Saya menyerahkan paspor dan tiket pesawat kepada petugas untuk diperiksa. Mereka juga memeriksa bagasi saya, dan bertanya kursi seperti apa yang saya inginkan. Setelah melewati pemeriksaan keamanan, saya menemukan gerbang keberangkatan, lalu duduk menunggu. Pengumuman mengatakan pesawat akan segera lepas landas, saya pun segera berjalan ke sana. Setelah pesawat lepas landas, saya memandangi luar jendela, merasa sangat senang.",
+  "glossary": [
+   {
+    "cn": "我",
+    "py": "wǒ",
+    "id": "saya"
+   },
+   {
+    "cn": "今天",
+    "py": "jīn tiān",
+    "id": "hari ini"
+   },
+   {
+    "cn": "要",
+    "py": "yāo",
+    "id": "(bentuk terikat) menuntut"
+   },
+   {
+    "cn": "坐",
+    "py": "Zuò",
+    "id": "duduk"
+   },
+   {
+    "cn": "飞机",
+    "py": "fēi jī",
+    "id": "pesawat terbang"
+   },
+   {
+    "cn": "去",
+    "py": "qù",
+    "id": "pergi"
+   },
+   {
+    "cn": "北京",
+    "py": "Běi jīng",
+    "id": "Kota Beijing, ibu kota Republik Rakyat Tiongkok (disingkat menjadi 京[Jing1])"
+   },
+   {
+    "cn": "一大早",
+    "py": "yī dà zǎo",
+    "id": "saat fajar"
+   },
+   {
+    "cn": "就",
+    "py": "jiù",
+    "id": "(setelah klausa pengandaian) dalam hal itu"
+   },
+   {
+    "cn": "到",
+    "py": "dào",
+    "id": "mencapai"
+   },
+   {
+    "cn": "了",
+    "py": "le",
+    "id": "(penanda tindakan selesai)"
+   },
+   {
+    "cn": "机场",
+    "py": "jī chǎng",
+    "id": "bandara"
+   },
+   {
+    "cn": "心里",
+    "py": "xīn li",
+    "id": "dada"
+   },
+   {
+    "cn": "有点",
+    "py": "yǒudiǎn",
+    "id": "agak"
+   },
+   {
+    "cn": "紧张",
+    "py": "jǐn zhāng",
+    "id": "gugup"
+   },
+   {
+    "cn": "把",
+    "py": "bǎ",
+    "id": "memegang"
+   },
+   {
+    "cn": "护照",
+    "py": "hù zhào",
+    "id": "paspor"
+   },
+   {
+    "cn": "和",
+    "py": "hé",
+    "id": "varian lama dari 和[he2]"
+   },
+   {
+    "cn": "机票",
+    "py": "jī piào",
+    "id": "tiket pesawat"
+   },
+   {
+    "cn": "交给",
+    "py": "jiāo gěi",
+    "id": "memberikan"
+   },
+   {
+    "cn": "工作人员",
+    "py": "gōngzuò rényuán",
+    "id": "petugas"
+   },
+   {
+    "cn": "检查",
+    "py": "jiǎn chá",
+    "id": "inspeksi"
+   },
+   {
+    "cn": "他",
+    "py": "tā",
+    "id": "(orang ketiga tunggal) (sejak awal abad ke-20, biasanya laki-laki) dia"
+   },
+   {
+    "cn": "们",
+    "py": "men",
+    "id": "penanda jamak untuk kata ganti, dan kata benda yang merujuk pada individu"
+   },
+   {
+    "cn": "还",
+    "py": "Huán",
+    "id": "marga Huan"
+   },
+   {
+    "cn": "的",
+    "py": "de",
+    "id": "dari"
+   },
+   {
+    "cn": "行李",
+    "py": "xíng li",
+    "id": "bagasi"
+   },
+   {
+    "cn": "问",
+    "py": "wèn",
+    "id": "bertanya"
+   },
+   {
+    "cn": "什么",
+    "py": "shén me",
+    "id": "apa?"
+   },
+   {
+    "cn": "座位",
+    "py": "zuò wèi",
+    "id": "kursi"
+   },
+   {
+    "cn": "过",
+    "py": "Guō",
+    "id": "marga Guo"
+   },
+   {
+    "cn": "安检",
+    "py": "ān jiǎn",
+    "id": "pemeriksaan keamanan (singkatan dari 安全檢查|安全检查[an1 quan2 jian3 cha2])"
+   },
+   {
+    "cn": "以后",
+    "py": "yǐ hòu",
+    "id": "setelah"
+   },
+   {
+    "cn": "找到",
+    "py": "zhǎo dào",
+    "id": "menemukan"
+   },
+   {
+    "cn": "登机口",
+    "py": "dēngjīkǒu",
+    "id": "gerbang keberangkatan"
+   },
+   {
+    "cn": "下来",
+    "py": "xià lai",
+    "id": "turun"
+   },
+   {
+    "cn": "等",
+    "py": "děng",
+    "id": "menunggu"
+   },
+   {
+    "cn": "广播",
+    "py": "guǎng bō",
+    "id": "siaran"
+   },
+   {
+    "cn": "说",
+    "py": "shuì",
+    "id": "membujuk"
+   },
+   {
+    "cn": "就要",
+    "py": "jiù yào",
+    "id": "akan"
+   },
+   {
+    "cn": "起飞",
+    "py": "qǐ fēi",
+    "id": "(dari pesawat terbang atau roket) lepas landas"
+   },
+   {
+    "cn": "赶紧",
+    "py": "gǎn jǐn",
+    "id": "dengan tergesa-gesa"
+   },
+   {
+    "cn": "走",
+    "py": "zǒu",
+    "id": "berjalan"
+   },
+   {
+    "cn": "过去",
+    "py": "guò qù",
+    "id": "(di masa) lalu"
+   },
+   {
+    "cn": "看着",
+    "py": "kànzhe",
+    "id": "melihat"
+   },
+   {
+    "cn": "窗外",
+    "py": "chuāngwài",
+    "id": "di luar jendela"
+   },
+   {
+    "cn": "觉得",
+    "py": "jué de",
+    "id": "berpikir bahwa ..."
+   },
+   {
+    "cn": "很",
+    "py": "hěn",
+    "id": "sangat"
+   },
+   {
+    "cn": "高兴",
+    "py": "gāo xìng",
+    "id": "senang"
+   }
+  ]
+ },
+ {
+  "id": "tema_rumahsakit_hsk4",
+  "level": 4,
+  "tema": "Di Rumah Sakit",
+  "title": "去医院看病 (Berobat ke Rumah Sakit)",
+  "text": "昨天晚上开始，我的头一直疼，还有点发烧。妈妈带我去医院看医生。医生用体温计给我量体温，又问我咳嗽不咳嗽。医生说：“你只是普通感冒，不用担心。”他给我开了一些药，让我多喝水，好好休息。回家以后，我每天按时吃药。过了两天，我的身体慢慢好起来了。",
+  "translation": "Sejak semalam, kepala saya terus-menerus sakit, dan juga agak demam. Ibu membawa saya ke rumah sakit untuk berobat ke dokter. Dokter mengukur suhu tubuh saya dengan termometer, dan juga bertanya apakah saya batuk. Dokter berkata, \"Kamu hanya masuk angin biasa, tidak perlu khawatir.\" Dia meresepkan beberapa obat untuk saya, dan menyuruh saya banyak minum air serta beristirahat dengan baik. Setelah pulang ke rumah, saya minum obat tepat waktu setiap hari. Setelah dua hari, kesehatan saya perlahan-lahan membaik.",
+  "glossary": [
+   {
+    "cn": "昨天",
+    "py": "zuó tiān",
+    "id": "kemarin"
+   },
+   {
+    "cn": "晚上",
+    "py": "wǎn shang",
+    "id": "sore"
+   },
+   {
+    "cn": "开始",
+    "py": "kāi shǐ",
+    "id": "memulai"
+   },
+   {
+    "cn": "我",
+    "py": "wǒ",
+    "id": "saya"
+   },
+   {
+    "cn": "的",
+    "py": "de",
+    "id": "dari"
+   },
+   {
+    "cn": "头",
+    "py": "tóu",
+    "id": "kepala"
+   },
+   {
+    "cn": "一直",
+    "py": "yī zhí",
+    "id": "lurus (dalam garis lurus)"
+   },
+   {
+    "cn": "疼",
+    "py": "téng",
+    "id": "sakit"
+   },
+   {
+    "cn": "还",
+    "py": "Huán",
+    "id": "marga Huan"
+   },
+   {
+    "cn": "有点",
+    "py": "yǒudiǎn",
+    "id": "agak"
+   },
+   {
+    "cn": "发烧",
+    "py": "fā shāo",
+    "id": "mengalami suhu tinggi (karena sakit)"
+   },
+   {
+    "cn": "妈妈",
+    "py": "mā ma",
+    "id": "mama"
+   },
+   {
+    "cn": "带",
+    "py": "dài",
+    "id": "pita"
+   },
+   {
+    "cn": "去",
+    "py": "qù",
+    "id": "pergi"
+   },
+   {
+    "cn": "医院",
+    "py": "yī yuàn",
+    "id": "rumah sakit"
+   },
+   {
+    "cn": "看",
+    "py": "kān",
+    "id": "menjaga"
+   },
+   {
+    "cn": "医生",
+    "py": "yī shēng",
+    "id": "dokter"
+   },
+   {
+    "cn": "用",
+    "py": "yòng",
+    "id": "menggunakan"
+   },
+   {
+    "cn": "体温计",
+    "py": "tǐwēnjì",
+    "id": "termometer"
+   },
+   {
+    "cn": "给",
+    "py": "gěi",
+    "id": "kepada"
+   },
+   {
+    "cn": "量",
+    "py": "liáng",
+    "id": "mengukur"
+   },
+   {
+    "cn": "体温",
+    "py": "tǐ wēn",
+    "id": "suhu tubuh"
+   },
+   {
+    "cn": "又",
+    "py": "yòu",
+    "id": "(sekali) lagi"
+   },
+   {
+    "cn": "问",
+    "py": "wèn",
+    "id": "bertanya"
+   },
+   {
+    "cn": "咳嗽",
+    "py": "ké sou",
+    "id": "batuk"
+   },
+   {
+    "cn": "不",
+    "py": "bù",
+    "id": "tidak"
+   },
+   {
+    "cn": "说",
+    "py": "shuì",
+    "id": "membujuk"
+   },
+   {
+    "cn": "你",
+    "py": "nǐ",
+    "id": "kamu (informal, sebagai lawan dari 您[nin2] yang sopan)"
+   },
+   {
+    "cn": "只是",
+    "py": "zhǐ shì",
+    "id": "hanya"
+   },
+   {
+    "cn": "普通",
+    "py": "pǔ tōng",
+    "id": "biasa"
+   },
+   {
+    "cn": "感冒",
+    "py": "gǎn mào",
+    "id": "masuk angin"
+   },
+   {
+    "cn": "不用",
+    "py": "bù yòng",
+    "id": "tidak perlu"
+   },
+   {
+    "cn": "担心",
+    "py": "dān xīn",
+    "id": "cemas"
+   },
+   {
+    "cn": "他",
+    "py": "tā",
+    "id": "(orang ketiga tunggal) (sejak awal abad ke-20, biasanya laki-laki) dia"
+   },
+   {
+    "cn": "开",
+    "py": "kāi",
+    "id": "membuka (transitif atau intransitif)"
+   },
+   {
+    "cn": "了",
+    "py": "le",
+    "id": "(penanda tindakan selesai)"
+   },
+   {
+    "cn": "一些",
+    "py": "yī xiē",
+    "id": "beberapa"
+   },
+   {
+    "cn": "药",
+    "py": "yào",
+    "id": "daun iris"
+   },
+   {
+    "cn": "让",
+    "py": "ràng",
+    "id": "mengalah"
+   },
+   {
+    "cn": "多",
+    "py": "duō",
+    "id": "banyak"
+   },
+   {
+    "cn": "喝",
+    "py": "hē",
+    "id": "minum"
+   },
+   {
+    "cn": "水",
+    "py": "Shuǐ",
+    "id": "marga Shui"
+   },
+   {
+    "cn": "好好",
+    "py": "hǎo hǎo",
+    "id": "dengan baik"
+   },
+   {
+    "cn": "休息",
+    "py": "xiū xi",
+    "id": "istirahat"
+   },
+   {
+    "cn": "回家",
+    "py": "huí jiā",
+    "id": "kembali ke rumah"
+   },
+   {
+    "cn": "以后",
+    "py": "yǐ hòu",
+    "id": "setelah"
+   },
+   {
+    "cn": "每天",
+    "py": "měitiān",
+    "id": "setiap hari"
+   },
+   {
+    "cn": "按时",
+    "py": "àn shí",
+    "id": "tepat waktu"
+   },
+   {
+    "cn": "吃药",
+    "py": "chī yào",
+    "id": "minum obat"
+   },
+   {
+    "cn": "过",
+    "py": "Guō",
+    "id": "marga Guo"
+   },
+   {
+    "cn": "两",
+    "py": "liǎng",
+    "id": "dua"
+   },
+   {
+    "cn": "天",
+    "py": "tiān",
+    "id": "hari"
+   },
+   {
+    "cn": "身体",
+    "py": "shēn tǐ",
+    "id": "tubuh"
+   },
+   {
+    "cn": "慢慢",
+    "py": "màn màn",
+    "id": "perlahan"
+   },
+   {
+    "cn": "好",
+    "py": "hǎo",
+    "id": "baik"
+   },
+   {
+    "cn": "起来",
+    "py": "qǐ lai",
+    "id": "berdiri"
+   }
+  ]
+ },
+ {
+  "id": "tema_kantorpos_hsk5",
+  "level": 5,
+  "tema": "Di Kantor Pos",
+  "title": "在邮局寄包裹 (Mengirim Paket di Kantor Pos)",
+  "text": "上星期，我要把一本书寄给国外的朋友，就去了邮局。为了省钱，我没有选择快递，而是用普通邮寄。工作人员帮我称了包裹的重量，并把邮票贴上去。她让我填写收件人的地址，还告诉我大概需要五天才能收到。虽然时间比较长，但是价格便宜不少，我觉得很值得。寄完包裹以后，我还顺便买了几张邮票，打算以后写信用。",
+  "translation": "Minggu lalu, saya ingin mengirimkan sebuah buku kepada teman di luar negeri, jadi saya pergi ke kantor pos. Demi menghemat uang, saya tidak memilih pengiriman ekspres, melainkan menggunakan pengiriman pos biasa. Petugas membantu saya menimbang berat paket, dan menempelkan perangko ke atasnya. Dia menyuruh saya mengisi alamat penerima, dan memberi tahu saya kira-kira butuh lima hari agar bisa sampai. Meski waktunya cukup lama, harganya jauh lebih murah, saya merasa itu sepadan. Setelah selesai mengirim paket, saya juga sekalian membeli beberapa lembar perangko, untuk dipakai menulis surat nanti.",
+  "glossary": [
+   {
+    "cn": "上",
+    "py": "shǎng",
+    "id": "(bentuk terikat) atas"
+   },
+   {
+    "cn": "星期",
+    "py": "xīng qī",
+    "id": "minggu"
+   },
+   {
+    "cn": "我",
+    "py": "wǒ",
+    "id": "saya"
+   },
+   {
+    "cn": "要",
+    "py": "yāo",
+    "id": "(bentuk terikat) menuntut"
+   },
+   {
+    "cn": "把",
+    "py": "bǎ",
+    "id": "memegang"
+   },
+   {
+    "cn": "一",
+    "py": "yī",
+    "id": "satu"
+   },
+   {
+    "cn": "本",
+    "py": "běn",
+    "id": "(bentuk terikat) akar"
+   },
+   {
+    "cn": "书",
+    "py": "Shū",
+    "id": "buku"
+   },
+   {
+    "cn": "寄给",
+    "py": "jìgěi",
+    "id": "mengirim kepada"
+   },
+   {
+    "cn": "国外",
+    "py": "guó wài",
+    "id": "luar negeri"
+   },
+   {
+    "cn": "的",
+    "py": "de",
+    "id": "dari"
+   },
+   {
+    "cn": "朋友",
+    "py": "péng you",
+    "id": "teman"
+   },
+   {
+    "cn": "就",
+    "py": "jiù",
+    "id": "(setelah klausa pengandaian) dalam hal itu"
+   },
+   {
+    "cn": "去",
+    "py": "qù",
+    "id": "pergi"
+   },
+   {
+    "cn": "了",
+    "py": "le",
+    "id": "(penanda tindakan selesai)"
+   },
+   {
+    "cn": "邮局",
+    "py": "yóu jú",
+    "id": "kantor pos"
+   },
+   {
+    "cn": "为了",
+    "py": "wèi le",
+    "id": "untuk"
+   },
+   {
+    "cn": "省钱",
+    "py": "shěng qián",
+    "id": "menghemat uang"
+   },
+   {
+    "cn": "没有",
+    "py": "méi yǒu",
+    "id": "belum punya"
+   },
+   {
+    "cn": "选择",
+    "py": "xuǎn zé",
+    "id": "memilih"
+   },
+   {
+    "cn": "快递",
+    "py": "kuài dì",
+    "id": "pengiriman ekspres"
+   },
+   {
+    "cn": "而是",
+    "py": "ér shì",
+    "id": "melainkan"
+   },
+   {
+    "cn": "用",
+    "py": "yòng",
+    "id": "menggunakan"
+   },
+   {
+    "cn": "普通",
+    "py": "pǔ tōng",
+    "id": "biasa"
+   },
+   {
+    "cn": "邮寄",
+    "py": "yóujì",
+    "id": "mengirim lewat pos"
+   },
+   {
+    "cn": "工作人员",
+    "py": "gōngzuò rényuán",
+    "id": "petugas"
+   },
+   {
+    "cn": "帮",
+    "py": "bāng",
+    "id": "varian lama dari 幫|帮[bang1]"
+   },
+   {
+    "cn": "称",
+    "py": "chèn",
+    "id": "cocok"
+   },
+   {
+    "cn": "包裹",
+    "py": "bāo guǒ",
+    "id": "membungkus"
+   },
+   {
+    "cn": "重量",
+    "py": "zhòng liàng",
+    "id": "berat"
+   },
+   {
+    "cn": "并",
+    "py": "bìng",
+    "id": "dan"
+   },
+   {
+    "cn": "邮票",
+    "py": "yóu piào",
+    "id": "prangko (pos)"
+   },
+   {
+    "cn": "贴",
+    "py": "tiē",
+    "id": "menempel"
+   },
+   {
+    "cn": "上去",
+    "py": "shàng qù",
+    "id": "naik"
+   },
+   {
+    "cn": "她",
+    "py": "tā",
+    "id": "dia (pr)"
+   },
+   {
+    "cn": "让",
+    "py": "ràng",
+    "id": "mengalah"
+   },
+   {
+    "cn": "填写",
+    "py": "tián xiě",
+    "id": "mengisi formulir"
+   },
+   {
+    "cn": "收件人",
+    "py": "shōujiànrén",
+    "id": "penerima"
+   },
+   {
+    "cn": "地址",
+    "py": "dì zhǐ",
+    "id": "alamat"
+   },
+   {
+    "cn": "还",
+    "py": "Huán",
+    "id": "marga Huan"
+   },
+   {
+    "cn": "告诉",
+    "py": "gào sù",
+    "id": "mengajukan tuntutan"
+   },
+   {
+    "cn": "大概",
+    "py": "dà gài",
+    "id": "kira-kira"
+   },
+   {
+    "cn": "需要",
+    "py": "xū yào",
+    "id": "membutuhkan"
+   },
+   {
+    "cn": "五",
+    "py": "wǔ",
+    "id": "lima"
+   },
+   {
+    "cn": "天",
+    "py": "tiān",
+    "id": "hari"
+   },
+   {
+    "cn": "才",
+    "py": "cái",
+    "id": "kemampuan"
+   },
+   {
+    "cn": "能",
+    "py": "Néng",
+    "id": "marga Neng"
+   },
+   {
+    "cn": "收到",
+    "py": "shōu dào",
+    "id": "menerima"
+   },
+   {
+    "cn": "虽然",
+    "py": "suī rán",
+    "id": "meskipun"
+   },
+   {
+    "cn": "时间",
+    "py": "shí jiān",
+    "id": "(konsep) waktu"
+   },
+   {
+    "cn": "比较",
+    "py": "bǐ jiào",
+    "id": "membandingkan"
+   },
+   {
+    "cn": "长",
+    "py": "cháng",
+    "id": "panjang"
+   },
+   {
+    "cn": "但是",
+    "py": "dàn shì",
+    "id": "tetapi"
+   },
+   {
+    "cn": "价格",
+    "py": "jià gé",
+    "id": "harga"
+   },
+   {
+    "cn": "便宜",
+    "py": "biàn yí",
+    "id": "nyaman"
+   },
+   {
+    "cn": "不少",
+    "py": "bù shǎo",
+    "id": "banyak"
+   },
+   {
+    "cn": "觉得",
+    "py": "jué de",
+    "id": "berpikir bahwa ..."
+   },
+   {
+    "cn": "很",
+    "py": "hěn",
+    "id": "sangat"
+   },
+   {
+    "cn": "值得",
+    "py": "zhí de",
+    "id": "sepadan dengan uangnya"
+   },
+   {
+    "cn": "寄",
+    "py": "jì",
+    "id": "mempercayakan"
+   },
+   {
+    "cn": "完",
+    "py": "wán",
+    "id": "selesai"
+   },
+   {
+    "cn": "以后",
+    "py": "yǐ hòu",
+    "id": "setelah"
+   },
+   {
+    "cn": "顺便",
+    "py": "shùn biàn",
+    "id": "dengan mudah"
+   },
+   {
+    "cn": "买",
+    "py": "mǎi",
+    "id": "membeli"
+   },
+   {
+    "cn": "几",
+    "py": "jī",
+    "id": "meja kecil"
+   },
+   {
+    "cn": "张",
+    "py": "Zhāng",
+    "id": "marga Zhang"
+   },
+   {
+    "cn": "打算",
+    "py": "dǎ suàn",
+    "id": "merencanakan"
+   },
+   {
+    "cn": "写",
+    "py": "xiě",
+    "id": "menulis"
+   },
+   {
+    "cn": "信",
+    "py": "xìn",
+    "id": "surat"
+   }
+  ]
+ }
+]
