@@ -1,0 +1,3 @@
+{"id": 11, "character": "刀", "note": "Pada 力, goresan miring kiri (撇) memotong garis mendatar; pada 刀, goresan miring itu tidak memotong garis mendatar."}
+{"id": 15, "character": "午", "note": "Pada 牛, garis tegak dimulai dari garis mendatar pertama (atas) lalu menembus kedua garis mendatar; pada 午, garis tegak dimulai di bawah garis mendatar pertama dan hanya menembus garis mendatar kedua (bawah)."}
+{"id": 28, "character": "开", "note": "Pada 井, kedua garis tegak memotong kedua garis mendatar (seperti tanda #); pada 开, hanya garis mendatar kedua (bawah) yang ditembus."}
