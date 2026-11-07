@@ -1,0 +1,464 @@
+{
+  "lainnya": [
+    {
+      "word": "的话",
+      "pola": "lainnya",
+      "keterangan_id": "Kata bantu kondisional, tidak terurai struktural."
+    },
+    {
+      "word": "或者",
+      "pola": "lainnya",
+      "keterangan_id": "Konjungsi pilihan, tidak terurai secara struktural."
+    },
+    {
+      "word": "忠于",
+      "pola": "lainnya",
+      "keterangan_id": "Merupakan konstruksi tetap dengan preposisi 于, tidak termasuk lima pola."
+    },
+    {
+      "word": "巴士",
+      "pola": "lainnya",
+      "keterangan_id": "Kata serapan transliterasi 'bus', tidak terurai struktural."
+    },
+    {
+      "word": "与否",
+      "pola": "lainnya",
+      "keterangan_id": "Frasa 'atau tidak', tidak terurai struktural."
+    },
+    {
+      "word": "就算",
+      "pola": "lainnya",
+      "keterangan_id": "Konjungsi 'meskipun', tidak terurai struktural."
+    },
+    {
+      "word": "欧洲",
+      "pola": "lainnya",
+      "keterangan_id": "Kata serapan nama tempat, tidak terurai struktural."
+    },
+    {
+      "word": "所谓",
+      "pola": "lainnya",
+      "keterangan_id": "Kata penunjuk 'yang disebut', tidak terurai struktural."
+    },
+    {
+      "word": "沧桑",
+      "pola": "lainnya",
+      "keterangan_id": "Ini adalah idiom singkatan yang tidak bisa diuraikan struktur dua karakternya."
+    },
+    {
+      "word": "甚至",
+      "pola": "lainnya",
+      "keterangan_id": "Kata penghubung penekanan, tidak terurai secara struktural."
+    },
+    {
+      "word": "人们",
+      "pola": "lainnya",
+      "keterangan_id": "Karakter kedua sebagai sufiks jamak tanpa makna leksikal mandiri."
+    },
+    {
+      "word": "家伙",
+      "pola": "lainnya",
+      "keterangan_id": "Kata informal untuk 'orang', tidak terurai struktural."
+    },
+    {
+      "word": "以免",
+      "pola": "lainnya",
+      "keterangan_id": "Konjungsi 'agar tidak', tidak terurai struktural."
+    },
+    {
+      "word": "未必",
+      "pola": "lainnya",
+      "keterangan_id": "Adverbia 'belum tentu', tidak terurai struktural."
+    },
+    {
+      "word": "卢比",
+      "pola": "lainnya",
+      "keterangan_id": "Kata serapan/transliterasi bunyi asing (Rupee)."
+    }
+  ],
+  "动宾式": [
+    {
+      "word": "阻力",
+      "pola": "动宾式",
+      "keterangan_id": "阻 adalah tindakan, 力 adalah objek yang menghambat sehingga membentuk makna hambatan."
+    },
+    {
+      "word": "说话",
+      "pola": "动宾式",
+      "keterangan_id": "Karakter pertama 'bicara' sebagai kata kerja, karakter kedua 'kata' sebagai objek."
+    },
+    {
+      "word": "开学",
+      "pola": "动宾式",
+      "keterangan_id": "Karakter pertama 'membuka' sebagai kata kerja, karakter kedua 'sekolah' sebagai objek."
+    },
+    {
+      "word": "改进",
+      "pola": "动宾式",
+      "keterangan_id": "Karakter pertama 'memperbaiki' sebagai kata kerja, karakter kedua 'maju' sebagai objek."
+    },
+    {
+      "word": "就医",
+      "pola": "动宾式",
+      "keterangan_id": "就 kata kerja (pergi/mendekati), 医 objeknya (pengobatan)."
+    },
+    {
+      "word": "候选",
+      "pola": "动宾式",
+      "keterangan_id": "Menunggu adalah tindakan, proses pemilihan menjadi objek asal pembentukannya."
+    },
+    {
+      "word": "防盗",
+      "pola": "动宾式",
+      "keterangan_id": "防 adalah tindakan, 盗 adalah objek yang dicegah."
+    },
+    {
+      "word": "移交",
+      "pola": "动宾式",
+      "keterangan_id": "Karakter pertama 'menyerahkan' sebagai kata kerja, karakter kedua 'memindahkan' sebagai objek."
+    },
+    {
+      "word": "刊登",
+      "pola": "动宾式",
+      "keterangan_id": "Karakter pertama 'memuat' sebagai kata kerja, karakter kedua 'menerbitkan' sebagai objek."
+    },
+    {
+      "word": "发言",
+      "pola": "动宾式",
+      "keterangan_id": "Karakter pertama 'memberi' sebagai kata kerja, karakter kedua 'pidato' sebagai objek."
+    },
+    {
+      "word": "强化",
+      "pola": "动宾式",
+      "keterangan_id": "Karakter pertama 'memperkuat' sebagai kata kerja, karakter kedua 'kuat' sebagai objek."
+    },
+    {
+      "word": "养老",
+      "pola": "动宾式",
+      "keterangan_id": "养 adalah tindakan, 老 adalah sasaran yaitu orang tua atau masa tua."
+    },
+    {
+      "word": "录音",
+      "pola": "动宾式",
+      "keterangan_id": "Karakter pertama 'merekam' sebagai kata kerja, karakter kedua 'suara' sebagai objek."
+    },
+    {
+      "word": "俯首",
+      "pola": "动宾式",
+      "keterangan_id": "Menundukkan adalah kata kerja, kepala adalah objeknya."
+    },
+    {
+      "word": "过去",
+      "pola": "动宾式",
+      "keterangan_id": "Karakter pertama 'melewati' sebagai kata kerja, karakter kedua 'pergi' sebagai objek."
+    }
+  ],
+  "偏正式": [
+    {
+      "word": "匪徒",
+      "pola": "偏正式",
+      "keterangan_id": "匪 menjelaskan jenis orang, 徒 adalah inti."
+    },
+    {
+      "word": "海藻",
+      "pola": "偏正式",
+      "keterangan_id": "Karakter pertama 海 menjelaskan lokasi, karakter kedua 藻 adalah inti makna."
+    },
+    {
+      "word": "早餐",
+      "pola": "偏正式",
+      "keterangan_id": "Karakter pertama 'pagi' menjelaskan karakter kedua 'makan', inti pada karakter kedua."
+    },
+    {
+      "word": "福气",
+      "pola": "偏正式",
+      "keterangan_id": "Karakter pertama menjelaskan jenis keberuntungan pada karakter kedua."
+    },
+    {
+      "word": "护照",
+      "pola": "偏正式",
+      "keterangan_id": "Karakter pertama 'melindungi' menjelaskan karakter kedua 'dokumen', inti pada karakter kedua."
+    },
+    {
+      "word": "珠宝",
+      "pola": "偏正式",
+      "keterangan_id": "Karakter pertama 'permata' menjelaskan karakter kedua 'harta', inti pada karakter kedua."
+    },
+    {
+      "word": "飞船",
+      "pola": "偏正式",
+      "keterangan_id": "Karakter pertama 'terbang' menjelaskan karakter kedua 'kapal', inti pada karakter kedua."
+    },
+    {
+      "word": "危机",
+      "pola": "偏正式",
+      "keterangan_id": "Karakter pertama 'bahaya' menjelaskan karakter kedua 'kesempatan', inti pada karakter kedua."
+    },
+    {
+      "word": "轻易",
+      "pola": "偏正式",
+      "keterangan_id": "Karakter pertama 'ringan' menjelaskan karakter kedua 'mudah', inti pada karakter kedua."
+    },
+    {
+      "word": "坏处",
+      "pola": "偏正式",
+      "keterangan_id": "坏 menjelaskan jenis 处 (titik/sisi buruk)."
+    },
+    {
+      "word": "旅馆",
+      "pola": "偏正式",
+      "keterangan_id": "Karakter pertama 'wisata' menjelaskan karakter kedua 'tempat menginap', inti pada karakter kedua."
+    },
+    {
+      "word": "随时",
+      "pola": "偏正式",
+      "keterangan_id": "Karakter pertama 'mengikuti' menjelaskan karakter kedua 'waktu', inti pada karakter kedua."
+    },
+    {
+      "word": "部队",
+      "pola": "偏正式",
+      "keterangan_id": "Karakter pertama 'pasukan' menjelaskan karakter kedua 'tim', inti pada karakter kedua."
+    },
+    {
+      "word": "粉色",
+      "pola": "偏正式",
+      "keterangan_id": "Karakter pertama 'merah muda' menjelaskan karakter kedua 'warna', inti pada karakter kedua."
+    },
+    {
+      "word": "那时",
+      "pola": "偏正式",
+      "keterangan_id": "Karakter pertama 'itu' menjelaskan karakter kedua 'waktu', inti pada karakter kedua."
+    }
+  ],
+  "补充式": [
+    {
+      "word": "开朗",
+      "pola": "补充式",
+      "keterangan_id": "Karakter kedua menyatakan keadaan hasil dari menjadi terbuka."
+    },
+    {
+      "word": "破灭",
+      "pola": "补充式",
+      "keterangan_id": "Karakter kedua menyatakan hasil akhir dari tindakan menghancurkan."
+    },
+    {
+      "word": "烘干",
+      "pola": "补充式",
+      "keterangan_id": "干 melengkapi hasil dari 烘 (memanggang hingga kering)."
+    },
+    {
+      "word": "屈服",
+      "pola": "补充式",
+      "keterangan_id": "服 melengkapi hasil 屈 sehingga bermakna tunduk."
+    },
+    {
+      "word": "达到",
+      "pola": "补充式",
+      "keterangan_id": "Karakter kedua 'sampai' melengkapi hasil dari tindakan karakter pertama 'mencapai'."
+    },
+    {
+      "word": "贴近",
+      "pola": "补充式",
+      "keterangan_id": "Karakter kedua menyatakan hasil dari tindakan mendekat."
+    },
+    {
+      "word": "提炼",
+      "pola": "补充式",
+      "keterangan_id": "炼 melengkapi hasil dari 提 sehingga berarti memurnikan."
+    },
+    {
+      "word": "查出",
+      "pola": "补充式",
+      "keterangan_id": "Karakter kedua 'keluar' melengkapi hasil dari tindakan karakter pertama 'memeriksa'."
+    },
+    {
+      "word": "铭记",
+      "pola": "补充式",
+      "keterangan_id": "Karakter kedua menyatakan hasil dari tindakan mengukir dalam ingatan."
+    },
+    {
+      "word": "睡着",
+      "pola": "补充式",
+      "keterangan_id": "Karakter kedua 'tertidur' melengkapi hasil dari tindakan karakter pertama 'tidur'."
+    },
+    {
+      "word": "超前",
+      "pola": "补充式",
+      "keterangan_id": "前 melengkapi arah hasil dari 超 sehingga berarti melampaui ke depan."
+    },
+    {
+      "word": "养活",
+      "pola": "补充式",
+      "keterangan_id": "活 melengkapi hasil 养 sehingga bermakna menghidupi."
+    },
+    {
+      "word": "跟上",
+      "pola": "补充式",
+      "keterangan_id": "Karakter kedua 上 melengkapi hasil menyusul dari aksi mengikuti karakter pertama 跟."
+    },
+    {
+      "word": "定为",
+      "pola": "补充式",
+      "keterangan_id": "为 melengkapi 定 sebagai penanda hasil penetapan (ditetapkan sebagai)."
+    },
+    {
+      "word": "提拔",
+      "pola": "补充式",
+      "keterangan_id": "Karakter kedua menyatakan hasil dari tindakan mengangkat."
+    }
+  ],
+  "联合式": [
+    {
+      "word": "武侠",
+      "pola": "联合式",
+      "keterangan_id": "Bela diri dan ksatria, dua karakter setara bermakna pendekar."
+    },
+    {
+      "word": "吩咐",
+      "pola": "联合式",
+      "keterangan_id": "Dua karakter 'memerintahkan' dan 'memberitahu' setara/sinonim dalam makna."
+    },
+    {
+      "word": "收集",
+      "pola": "联合式",
+      "keterangan_id": "Dua karakter 'mengumpulkan' dan 'menghimpun' setara/sinonim dalam makna."
+    },
+    {
+      "word": "确认",
+      "pola": "联合式",
+      "keterangan_id": "Dua karakter 'memastikan' dan 'mengakui' setara/sinonim dalam makna."
+    },
+    {
+      "word": "放置",
+      "pola": "联合式",
+      "keterangan_id": "Dua karakter 'meletakkan' dan 'menempatkan' setara/sinonim dalam makna."
+    },
+    {
+      "word": "沸腾",
+      "pola": "联合式",
+      "keterangan_id": "沸 dan 腾 sama-sama menggambarkan keadaan mendidih."
+    },
+    {
+      "word": "艰难",
+      "pola": "联合式",
+      "keterangan_id": "Dua karakter 'sulit' dan 'berat' setara/sinonim dalam makna."
+    },
+    {
+      "word": "饥饿",
+      "pola": "联合式",
+      "keterangan_id": "Dua karakter 'lapar' dan 'kelaparan' setara/sinonim dalam makna."
+    },
+    {
+      "word": "居住",
+      "pola": "联合式",
+      "keterangan_id": "Dua karakter 'tinggal' dan 'berdiam' setara/sinonim dalam makna."
+    },
+    {
+      "word": "逝世",
+      "pola": "联合式",
+      "keterangan_id": "Kedua karakter sama-sama merupakan ungkapan halus untuk meninggal dunia."
+    },
+    {
+      "word": "受理",
+      "pola": "联合式",
+      "keterangan_id": "受 dan 理 bersama-sama bermakna menerima lalu menangani."
+    },
+    {
+      "word": "界线",
+      "pola": "联合式",
+      "keterangan_id": "界 dan 线 sama-sama menunjuk batas."
+    },
+    {
+      "word": "焦急",
+      "pola": "联合式",
+      "keterangan_id": "Kedua karakter sama-sama menyatakan keadaan cemas."
+    },
+    {
+      "word": "答复",
+      "pola": "联合式",
+      "keterangan_id": "Dua karakter 'menjawab' dan 'membalas' setara/sinonim dalam makna."
+    },
+    {
+      "word": "身躯",
+      "pola": "联合式",
+      "keterangan_id": "Kedua karakter sama-sama menunjuk tubuh secara setara."
+    }
+  ],
+  "主谓式": [
+    {
+      "word": "锋利",
+      "pola": "主谓式",
+      "keterangan_id": "Karakter pertama sebagai subjek memiliki sifat tajam yang dinyatakan karakter kedua."
+    },
+    {
+      "word": "反响",
+      "pola": "主谓式",
+      "keterangan_id": "响 merupakan predikat dari 反 sehingga bermakna gema atau respons."
+    },
+    {
+      "word": "不解",
+      "pola": "主谓式",
+      "keterangan_id": "不 meniadakan keadaan 解 sehingga membentuk predikat."
+    },
+    {
+      "word": "着迷",
+      "pola": "主谓式",
+      "keterangan_id": "Karakter pertama menyatakan keadaan sehingga menjadi tergila-gila."
+    },
+    {
+      "word": "无故",
+      "pola": "主谓式",
+      "keterangan_id": "无 menyatakan keadaan terhadap 故 sehingga berarti tanpa alasan."
+    },
+    {
+      "word": "甘心",
+      "pola": "主谓式",
+      "keterangan_id": "心 berada dalam keadaan 甘 sehingga membentuk hubungan subjek-predikat."
+    },
+    {
+      "word": "发炎",
+      "pola": "主谓式",
+      "keterangan_id": "发 menyatakan timbulnya keadaan 炎 sehingga berarti mengalami peradangan."
+    },
+    {
+      "word": "立体",
+      "pola": "主谓式",
+      "keterangan_id": "体 menjadi predikat keadaan yang berdiri atau berdimensi."
+    },
+    {
+      "word": "痛心",
+      "pola": "主谓式",
+      "keterangan_id": "心 sebagai subjek berada dalam keadaan 痛."
+    },
+    {
+      "word": "新兴",
+      "pola": "主谓式",
+      "keterangan_id": "新 menerangkan keadaan 兴 sehingga bermakna baru berkembang."
+    },
+    {
+      "word": "共鸣",
+      "pola": "主谓式",
+      "keterangan_id": "共 menerangkan keadaan 鸣 sehingga berarti berbunyi bersama atau beresonansi."
+    },
+    {
+      "word": "国有",
+      "pola": "主谓式",
+      "keterangan_id": "Negara sebagai subjek memiliki sesuatu."
+    },
+    {
+      "word": "波及",
+      "pola": "主谓式",
+      "keterangan_id": "波 (gelombang) sebagai subjek, 及 (mencapai) sebagai predikatnya."
+    },
+    {
+      "word": "中立",
+      "pola": "主谓式",
+      "keterangan_id": "Karakter pertama menyatakan posisi, karakter kedua menyatakan keadaan posisi itu."
+    },
+    {
+      "word": "不算",
+      "pola": "主谓式",
+      "keterangan_id": "不 menjadi penanda predikat negatif terhadap 算."
+    }
+  ]
+}
