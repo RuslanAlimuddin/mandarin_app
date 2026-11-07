@@ -1,0 +1,806 @@
+[
+  {
+    "main_word": "平面",
+    "candidate": "平面图",
+    "category": "padding",
+    "reason": "hiponim; representasi 2D spesifik"
+  },
+  {
+    "main_word": "实质",
+    "candidate": "实质性内容",
+    "category": "padding",
+    "reason": "padding, bukan sinonim penuh"
+  },
+  {
+    "main_word": "饥饿",
+    "candidate": "饥饿感",
+    "category": "padding",
+    "reason": "padding, khusus rasa"
+  },
+  {
+    "main_word": "无能",
+    "candidate": "无能为力",
+    "category": "padding",
+    "reason": "idiom 4-karakter, cakupan beda"
+  },
+  {
+    "main_word": "救济",
+    "candidate": "救助",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "畸形",
+    "candidate": "异常",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "发脾气",
+    "candidate": "生气",
+    "category": "self-admission",
+    "reason": "hipernim, lebih umum"
+  },
+  {
+    "main_word": "关掉",
+    "candidate": "关闭",
+    "category": "self-admission",
+    "reason": "hipernim, lebih formal/luas"
+  },
+  {
+    "main_word": "坚守",
+    "candidate": "坚持",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "饥饿",
+    "candidate": "饥荒",
+    "category": "self-admission",
+    "reason": "beda makna total (lapar vs bencana pangan)"
+  },
+  {
+    "main_word": "支柱",
+    "candidate": "支撑",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "学历",
+    "candidate": "教育背景",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "值钱",
+    "candidate": "有价值",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "蒸",
+    "candidate": "蒸发",
+    "category": "padding",
+    "reason": "beda sense: mengukus vs menguap"
+  },
+  {
+    "main_word": "慢性",
+    "candidate": "慢性的",
+    "category": "padding",
+    "reason": "cuma nempel 的"
+  },
+  {
+    "main_word": "削",
+    "candidate": "削皮",
+    "category": "padding",
+    "reason": "lebih spesifik, hiponim"
+  },
+  {
+    "main_word": "通宵",
+    "candidate": "熬夜",
+    "category": "self-admission",
+    "reason": "hipernim, tidak selalu semalaman"
+  },
+  {
+    "main_word": "平面",
+    "candidate": "平面体",
+    "category": "padding",
+    "reason": "istilah teknis, tidak setara"
+  },
+  {
+    "main_word": "计较",
+    "candidate": "计较得失",
+    "category": "padding",
+    "reason": "frasa turunan"
+  },
+  {
+    "main_word": "实质",
+    "candidate": "实质性",
+    "category": "padding",
+    "reason": "note sendiri: bukan sinonim penuh"
+  },
+  {
+    "main_word": "喇叭",
+    "candidate": "汽车喇叭",
+    "category": "padding",
+    "reason": "hiponim, klakson mobil"
+  },
+  {
+    "main_word": "舆论",
+    "candidate": "公众舆论",
+    "category": "padding",
+    "reason": "padding"
+  },
+  {
+    "main_word": "框",
+    "candidate": "框架",
+    "category": "padding",
+    "reason": "note eksplisit: lebih luas (hipernim)"
+  },
+  {
+    "main_word": "加重",
+    "candidate": "加重程度",
+    "category": "padding",
+    "reason": "frasa penjelas"
+  },
+  {
+    "main_word": "产物",
+    "candidate": "成果",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "代言人",
+    "candidate": "代表",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "侦察",
+    "candidate": "调查",
+    "category": "self-admission",
+    "reason": "hipernim, cakupan lebih luas"
+  },
+  {
+    "main_word": "境地",
+    "candidate": "状况",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas dan netral"
+  },
+  {
+    "main_word": "发热",
+    "candidate": "发高烧",
+    "category": "self-admission",
+    "reason": "hiponim, lebih spesifik"
+  },
+  {
+    "main_word": "土壤",
+    "candidate": "土地",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "黑白",
+    "candidate": "黑白两色",
+    "category": "padding",
+    "reason": "padding"
+  },
+  {
+    "main_word": "探险",
+    "candidate": "探险活动",
+    "category": "padding",
+    "reason": "padding"
+  },
+  {
+    "main_word": "大片",
+    "candidate": "大片区域",
+    "category": "padding",
+    "reason": "padding"
+  },
+  {
+    "main_word": "境内",
+    "candidate": "境内地区",
+    "category": "padding",
+    "reason": "padding"
+  },
+  {
+    "main_word": "头顶",
+    "candidate": "头顶上",
+    "category": "padding",
+    "reason": "cuma nempel 上"
+  },
+  {
+    "main_word": "余地",
+    "candidate": "回旋余地",
+    "category": "padding",
+    "reason": "hiponim, lebih khusus"
+  },
+  {
+    "main_word": "探险",
+    "candidate": "冒险",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "招募",
+    "candidate": "征集",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "愈合",
+    "candidate": "痊愈",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "愈合",
+    "candidate": "康复",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "欺诈",
+    "candidate": "欺骗",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "变异",
+    "candidate": "变种",
+    "category": "self-admission",
+    "reason": "hiponim, lebih spesifik"
+  },
+  {
+    "main_word": "煤矿",
+    "candidate": "煤矿井",
+    "category": "padding",
+    "reason": "padding"
+  },
+  {
+    "main_word": "本性",
+    "candidate": "本性格",
+    "category": "padding",
+    "reason": "bukan istilah baku"
+  },
+  {
+    "main_word": "急性",
+    "candidate": "急性的",
+    "category": "padding",
+    "reason": "cuma nempel 的"
+  },
+  {
+    "main_word": "音响",
+    "candidate": "音响设备",
+    "category": "padding",
+    "reason": "padding"
+  },
+  {
+    "main_word": "热带",
+    "candidate": "热带地区",
+    "category": "padding",
+    "reason": "padding"
+  },
+  {
+    "main_word": "热带",
+    "candidate": "热带区域",
+    "category": "padding",
+    "reason": "padding"
+  },
+  {
+    "main_word": "亮相",
+    "candidate": "亮相于",
+    "category": "padding",
+    "reason": "note sendiri: bukan pengganti langsung"
+  },
+  {
+    "main_word": "元首",
+    "candidate": "国家元首",
+    "category": "padding",
+    "reason": "padding"
+  },
+  {
+    "main_word": "末日",
+    "candidate": "世界末日",
+    "category": "padding",
+    "reason": "padding"
+  },
+  {
+    "main_word": "阴性",
+    "candidate": "阴性结果",
+    "category": "padding",
+    "reason": "padding"
+  },
+  {
+    "main_word": "阴性",
+    "candidate": "阴性反应",
+    "category": "padding",
+    "reason": "padding"
+  },
+  {
+    "main_word": "事宜",
+    "candidate": "事务",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "本性",
+    "candidate": "本质",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "点心",
+    "candidate": "小吃",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "反馈",
+    "candidate": "回应",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "心声",
+    "candidate": "心意",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "捐献",
+    "candidate": "贡献",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "经受",
+    "candidate": "经历",
+    "category": "self-admission",
+    "reason": "hipernim, lebih umum"
+  },
+  {
+    "main_word": "元首",
+    "candidate": "国家领导人",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "瘫痪",
+    "candidate": "麻痹",
+    "category": "self-admission",
+    "reason": "beda cakupan medis"
+  },
+  {
+    "main_word": "零件",
+    "candidate": "部件",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "位子",
+    "candidate": "位置",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "黑客",
+    "candidate": "黑客攻击者",
+    "category": "padding",
+    "reason": "hiponim, lebih spesifik"
+  },
+  {
+    "main_word": "黑客",
+    "candidate": "电脑黑客",
+    "category": "padding",
+    "reason": "hiponim, lebih spesifik"
+  },
+  {
+    "main_word": "公关",
+    "candidate": "公关活动",
+    "category": "padding",
+    "reason": "padding"
+  },
+  {
+    "main_word": "身心",
+    "candidate": "身心健康",
+    "category": "padding",
+    "reason": "note sendiri: bukan sinonim penuh"
+  },
+  {
+    "main_word": "国防",
+    "candidate": "国防建设",
+    "category": "padding",
+    "reason": "hiponim, lebih spesifik"
+  },
+  {
+    "main_word": "同类",
+    "candidate": "同类事物",
+    "category": "padding",
+    "reason": "padding"
+  },
+  {
+    "main_word": "打交道",
+    "candidate": "接触",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "长相",
+    "candidate": "外貌",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "裁决",
+    "candidate": "决定",
+    "category": "self-admission",
+    "reason": "hipernim, lebih umum"
+  },
+  {
+    "main_word": "付费",
+    "candidate": "付款",
+    "category": "self-admission",
+    "reason": "hiponim, lebih spesifik"
+  },
+  {
+    "main_word": "内阁",
+    "candidate": "政府",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "淘",
+    "candidate": "清洗",
+    "category": "self-admission",
+    "reason": "hipernim, lebih umum"
+  },
+  {
+    "main_word": "粉碎",
+    "candidate": "击碎",
+    "category": "self-admission",
+    "reason": "hiponim, lebih spesifik"
+  },
+  {
+    "main_word": "行使",
+    "candidate": "使用",
+    "category": "self-admission",
+    "reason": "hipernim, lebih umum"
+  },
+  {
+    "main_word": "外星人",
+    "candidate": "外星生命",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "氛围",
+    "candidate": "环境",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "全程",
+    "candidate": "全路程",
+    "category": "self-admission",
+    "reason": "hiponim, lebih spesifik"
+  },
+  {
+    "main_word": "解救",
+    "candidate": "拯救",
+    "category": "self-admission",
+    "reason": "hipernim, lebih formal/luas"
+  },
+  {
+    "main_word": "搜查",
+    "candidate": "检查",
+    "category": "self-admission",
+    "reason": "hipernim, lebih umum"
+  },
+  {
+    "main_word": "停电",
+    "candidate": "停电了",
+    "category": "padding",
+    "reason": "cuma nempel partikel 了"
+  },
+  {
+    "main_word": "大气",
+    "candidate": "大气层",
+    "category": "padding",
+    "reason": "hiponim, lebih spesifik"
+  },
+  {
+    "main_word": "人事",
+    "candidate": "人事管理",
+    "category": "padding",
+    "reason": "hiponim, lebih spesifik"
+  },
+  {
+    "main_word": "手册",
+    "candidate": "指南手册",
+    "category": "padding",
+    "reason": "padding"
+  },
+  {
+    "main_word": "表决",
+    "candidate": "投票表决",
+    "category": "padding",
+    "reason": "padding"
+  },
+  {
+    "main_word": "卡片",
+    "candidate": "卡片儿",
+    "category": "padding",
+    "reason": "儿化 dialek, bukan sinonim beda kata"
+  },
+  {
+    "main_word": "心爱",
+    "candidate": "喜爱",
+    "category": "self-admission",
+    "reason": "hipernim, lebih umum"
+  },
+  {
+    "main_word": "束缚",
+    "candidate": "限制",
+    "category": "self-admission",
+    "reason": "hipernim, lebih umum"
+  },
+  {
+    "main_word": "片段",
+    "candidate": "部分",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "礼服",
+    "candidate": "正装",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "警车",
+    "candidate": "警察车",
+    "category": "manual",
+    "reason": "note sendiri: lebih jarang dipakai"
+  },
+  {
+    "main_word": "授予",
+    "candidate": "授予给",
+    "category": "padding",
+    "reason": "note sendiri: tidak lazim"
+  },
+  {
+    "main_word": "一体",
+    "candidate": "一体化",
+    "category": "padding",
+    "reason": "beda kata kelas, proses vs kata benda"
+  },
+  {
+    "main_word": "编号",
+    "candidate": "编号标记",
+    "category": "padding",
+    "reason": "note sendiri: kurang lazim"
+  },
+  {
+    "main_word": "栏",
+    "candidate": "栏杆",
+    "category": "padding",
+    "reason": "hiponim, jenis pagar spesifik"
+  },
+  {
+    "main_word": "栏",
+    "candidate": "栅栏",
+    "category": "padding",
+    "reason": "hiponim, jenis pagar spesifik"
+  },
+  {
+    "main_word": "水面",
+    "candidate": "水面上",
+    "category": "padding",
+    "reason": "cuma nempel 上"
+  },
+  {
+    "main_word": "关节",
+    "candidate": "骨关节",
+    "category": "padding",
+    "reason": "hiponim, lebih spesifik/medis"
+  },
+  {
+    "main_word": "委员",
+    "candidate": "委员成员",
+    "category": "padding",
+    "reason": "note sendiri: tidak lazim"
+  },
+  {
+    "main_word": "动静",
+    "candidate": "情况",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "克隆",
+    "candidate": "复制",
+    "category": "self-admission",
+    "reason": "hipernim, lebih umum"
+  },
+  {
+    "main_word": "岩石",
+    "candidate": "石头",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "烧烤",
+    "candidate": "烤肉",
+    "category": "self-admission",
+    "reason": "hiponim, lebih spesifik"
+  },
+  {
+    "main_word": "来回",
+    "candidate": "往来",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "体制",
+    "candidate": "体系",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "施工",
+    "candidate": "建设",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "小区",
+    "candidate": "社区",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "侵略",
+    "candidate": "入侵",
+    "category": "self-admission",
+    "reason": "hiponim, lebih spesifik"
+  },
+  {
+    "main_word": "侵略",
+    "candidate": "侵犯",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "伴侣",
+    "candidate": "伙伴",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "开场",
+    "candidate": "开始",
+    "category": "self-admission",
+    "reason": "hipernim, lebih umum"
+  },
+  {
+    "main_word": "上诉",
+    "candidate": "申诉",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "人选",
+    "candidate": "候选人",
+    "category": "self-admission",
+    "reason": "hiponim, lebih spesifik"
+  },
+  {
+    "main_word": "抛弃",
+    "candidate": "放弃",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "质疑",
+    "candidate": "怀疑",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "地理",
+    "candidate": "地理学",
+    "category": "padding",
+    "reason": "beda kata kelas, bidang ilmu vs geografi umum"
+  },
+  {
+    "main_word": "证人",
+    "candidate": "见证人",
+    "category": "padding",
+    "reason": "hiponim, lebih spesifik"
+  },
+  {
+    "main_word": "屋顶",
+    "candidate": "房屋顶部",
+    "category": "padding",
+    "reason": "deskriptif, bukan istilah baku"
+  },
+  {
+    "main_word": "生死",
+    "candidate": "生死存亡",
+    "category": "padding",
+    "reason": "idiom 4-karakter, cakupan beda"
+  },
+  {
+    "main_word": "间谍",
+    "candidate": "特务",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "发布会",
+    "candidate": "新闻发布会",
+    "category": "padding",
+    "reason": "padding"
+  },
+  {
+    "main_word": "狂欢",
+    "candidate": "狂欢节",
+    "category": "padding",
+    "reason": "beda kata kelas, kegiatan vs nama festival"
+  },
+  {
+    "main_word": "摇滚",
+    "candidate": "摇滚乐",
+    "category": "padding",
+    "reason": "beda kata kelas, sifat vs nama genre"
+  },
+  {
+    "main_word": "底线",
+    "candidate": "极限",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "硬盘",
+    "candidate": "硬盘驱动器",
+    "category": "padding",
+    "reason": "padding"
+  },
+  {
+    "main_word": "毫不",
+    "candidate": "丝毫不",
+    "category": "padding",
+    "reason": "cuma sisipan penekanan"
+  },
+  {
+    "main_word": "残忍",
+    "candidate": "残酷",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "交谈",
+    "candidate": "交流",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "报复",
+    "candidate": "回击",
+    "category": "self-admission",
+    "reason": "hipernim, lebih luas"
+  },
+  {
+    "main_word": "业",
+    "candidate": "行业",
+    "category": "padding",
+    "reason": "hiponim, lebih spesifik ke bidang usaha"
+  },
+  {
+    "main_word": "业",
+    "candidate": "产业",
+    "category": "padding",
+    "reason": "hiponim, lebih spesifik konteks ekonomi"
+  }
+]
