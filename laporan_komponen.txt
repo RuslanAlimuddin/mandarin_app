@@ -1,0 +1,85 @@
+======================================================================
+1. app_words.json: data\app_words.json ada? True
+   jumlah entri: 11983
+   field entri pertama: ['antonyms', 'bopomofo', 'char_type', 'components', 'frequency', 'hsk', 'hsk2', 'id', 'meanings_en', 'meanings_id', 'pinyin', 'pinyin_numeric', 'pos', 'pos_id', 'radical', 'radical_number', 'simplified', 'stroke_count', 'structure', 'synonyms', 'themes', 'traditional']
+   entri karakter tunggal: 1605
+   dari itu punya field components: 1605
+   punya field structure: 1605
+   punya field radical: 1605
+
+   Distribusi jumlah components per karakter tunggal:
+     1 komponen: 132 karakter
+     2 komponen: 1396 karakter
+     3 komponen: 69 karakter
+     4 komponen: 8 karakter
+
+   Contoh (karakter | structure | radical | components):
+     须 | left-right | 彡 | ['彡', '页']
+     预 | (TIDAK ADA entri tunggal di app_words.json)
+     住 | left-right | 亻 | ['亻', '主']
+     往 | left-right | 彳 | ['彳', '主']
+     鹤 | (TIDAK ADA entri tunggal di app_words.json)
+     鸦 | (TIDAK ADA entri tunggal di app_words.json)
+     迁 | enclosed-botleft | 辶 | ['辶', '千']
+     迂 | (TIDAK ADA entri tunggal di app_words.json)
+     铰 | (TIDAK ADA entri tunggal di app_words.json)
+     销 | left-right | 钅 | ['钅', '肖']
+     谓 | (TIDAK ADA entri tunggal di app_words.json)
+     诵 | (TIDAK ADA entri tunggal di app_words.json)
+     慢 | left-right | 忄 | ['忄', '曼']
+     漫 | left-right | 氵 | ['氵', '曼']
+     扬 | left-right | 扌 | ['扌', '𠃓']
+     汤 | left-right | 氵 | ['氵', '𠃓']
+     推 | left-right | 扌 | ['扌', '隹']
+     椎 | (TIDAK ADA entri tunggal di app_words.json)
+
+   components memuat radikalnya sendiri: 1360 dari 1605
+   (jika angkanya mendekati 100%, radikal ikut tercatat di components)
+
+======================================================================
+2. dictionary.txt: data\dictionary.txt ada? True
+   jumlah karakter: 9574
+   field contoh: ['character', 'decomposition', 'definition', 'matches', 'pinyin', 'radical']
+
+   Contoh (karakter | decomposition | radical | etymology):
+     须 | ⿰彡页 | 彡 | {'type': 'ideographic', 'hint': 'Hair\xa0彡 growing on the face\xa0页'}
+     预 | ⿰予页 | 页 | {'type': 'pictophonetic', 'phonetic': '予', 'semantic': '页', 'hint': 'page'}
+     住 | ⿰亻主 | 亻 | {'type': 'ideographic', 'hint': 'A person\xa0亻 who hosts\xa0主;\xa0主 also provides the pronunciation'}
+     往 | ⿰彳⿱？王 | 彳 | {'type': 'pictophonetic', 'phonetic': '王', 'semantic': '彳', 'hint': 'step'}
+     鹤 | ⿰隺鸟 | 鸟 | {'type': 'pictophonetic', 'phonetic': '隺', 'semantic': '鸟', 'hint': 'bird'}
+     鸦 | ⿰牙鸟 | 鸟 | {'type': 'pictophonetic', 'phonetic': '牙', 'semantic': '鸟', 'hint': 'bird'}
+     迁 | ⿺辶千 | 辶 | {'type': 'pictophonetic', 'phonetic': '千', 'semantic': '辶', 'hint': 'walk'}
+     迂 | ⿺辶于 | 辶 | {'type': 'pictophonetic', 'phonetic': '于', 'semantic': '辶', 'hint': 'walk'}
+     铰 | ⿰钅交 | 钅 | {'type': 'ideographic', 'hint': 'Objects with a metal\xa0钅 joint\xa0交;\xa0交 also provides the pronunciation'}
+     销 | ⿰钅肖 | 钅 | {'type': 'pictophonetic', 'phonetic': '肖', 'semantic': '钅', 'hint': 'metal'}
+     谓 | ⿰讠胃 | 讠 | {'type': 'pictophonetic', 'phonetic': '胃', 'semantic': '讠', 'hint': 'speech'}
+     诵 | ⿰讠甬 | 讠 | {'type': 'pictophonetic', 'phonetic': '甬', 'semantic': '讠', 'hint': 'speech'}
+     慢 | ⿰忄曼 | 忄 | {'type': 'pictophonetic', 'phonetic': '曼', 'semantic': '忄', 'hint': 'heart'}
+     漫 | ⿰氵曼 | 氵 | {'type': 'pictophonetic', 'phonetic': '曼', 'semantic': '氵', 'hint': 'water'}
+     扬 | ⿰扌昜 | 扌 | {'type': 'pictophonetic', 'phonetic': '昜', 'semantic': '扌', 'hint': 'hand'}
+     汤 | ⿰氵昜 | 氵 | {'type': 'pictophonetic', 'phonetic': '昜', 'semantic': '氵', 'hint': 'water'}
+     推 | ⿰扌隹 | 扌 | {'type': 'pictophonetic', 'phonetic': '隹', 'semantic': '扌', 'hint': 'hand'}
+     椎 | ⿰木隹 | 木 | {'type': 'pictophonetic', 'phonetic': '隹', 'semantic': '木', 'hint': 'wood'}
+
+   Jenis susunan tingkat pertama (IDC):
+     ⿰ : 6090
+     ⿱ : 2212
+     ⿸ : 377
+     ⿺ : 212
+     ⿻ : 206
+     ⿵ : 142
+     ⿳ : 89
+     ⿹ : 70
+     ⿴ : 46
+     ⿲ : 30
+     ⿷ : 22
+     ⿶ : 8
+   karakter dengan 2 bagian tingkat pertama: 9385
+
+======================================================================
+3. Cakupan karakter dari tiga CSV Karakter Mirip
+   KARAKTER_MIRIP_FINAL_ACCEPTED.csv: 419 baris
+   karakter unik: 602
+   ada di app_words.json (tunggal): 352
+   ada di dictionary.txt: 602
+   tidak ada di keduanya: []
