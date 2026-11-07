@@ -1,0 +1,2292 @@
+=== LAPORAN audit_tema_overlap.py — 2026-07-27 14:54:36.988786 ===
+539 pasangan tema mencurigakan ditemukan dari 157 tema total
+
+[1] "Liburan Musim Panas Dimulai" (ext_hsk_summer_vacation_begins, 15 kata)  <->  "Liburan Musim Panas" (ext_summer_vacation_begins, 15 kata)
+     overlap kata: 100% (15 kata sama)   kemiripan nama: 83%
+     contoh kata sama: 休息、假期、出门、回家、夏天、学期、安排、打工、放假、旅游 ... (+5 lagi)
+     -> kalau memang perlu digabung: python merge_tema.py ext_hsk_summer_vacation_begins ext_summer_vacation_begins
+
+[2] "Angka & Bilangan" (angka, 33 kata)  <->  "Angka & Bilangan" (ext_numeral, 17 kata)
+     overlap kata: 47% (16 kata sama)   kemiripan nama: 100%
+     contoh kata sama: 一、七、万、三、两、九、二、五、八、六 ... (+6 lagi)
+     -> kalau memang perlu digabung: python merge_tema.py angka ext_numeral
+
+[3] "Buah-buahan" (buah, 14 kata)  <->  "Buah-buahan (HSK)" (ext_fruit, 11 kata)
+     overlap kata: 67% (10 kata sama)   kemiripan nama: 79%
+     contoh kata sama: 果汁、枣、桃、梨、橙、水果、苹果、葡萄、西瓜、香蕉
+     -> kalau memang perlu digabung: python merge_tema.py buah ext_fruit
+
+[4] "Waktu & Jam" (waktu, 16 kata)  <->  "Waktu & Jam" (ext_time, 27 kata)
+     overlap kata: 39% (12 kata sama)   kemiripan nama: 100%
+     contoh kata sama: 上午、下午、中午、傍晚、凌晨、分钟、小时、早上、时候、晚上 ... (+2 lagi)
+     -> kalau memang perlu digabung: python merge_tema.py waktu ext_time
+
+[5] "Sayuran" (sayuran, 16 kata)  <->  "Sayuran (HSK)" (ext_vegetables, 12 kata)
+     overlap kata: 56% (10 kata sama)   kemiripan nama: 70%
+     contoh kata sama: 南瓜、土豆、番茄、白菜、蒜、蔬菜、蘑菇、西红柿、辣椒、黄瓜
+     -> kalau memang perlu digabung: python merge_tema.py sayuran ext_vegetables
+
+[6] "Cuaca & Musim" (cuaca, 33 kata)  <->  "Cuaca & Musim" (ext_weather_and_seasons, 19 kata)
+     overlap kata: 24% (10 kata sama)   kemiripan nama: 100%
+     contoh kata sama: 下雨、下雪、冬天、夏天、天气、春天、晴天、温度、秋天、阴天
+     -> kalau memang perlu digabung: python merge_tema.py cuaca ext_weather_and_seasons
+
+[7] "Pakaian & Aksesori" (pakaian, 35 kata)  <->  "Pakaian & Busana" (ext_clothing, 18 kata)
+     overlap kata: 51% (18 kata sama)   kemiripan nama: 65%
+     contoh kata sama: 上衣、外套、大衣、帽子、手套、服装、毛衣、牛仔裤、皮鞋、短裤 ... (+8 lagi)
+     -> kalau memang perlu digabung: python merge_tema.py pakaian ext_clothing
+
+[8] "Agama & Kepercayaan" (agama_kepercayaan, 27 kata)  <->  "Agama & Kepercayaan" (ext_religion, 9 kata)
+     overlap kata: 16% (5 kata sama)   kemiripan nama: 100%
+     contoh kata sama: 伊斯兰教、佛教、基督教、神、道教
+     -> kalau memang perlu digabung: python merge_tema.py agama_kepercayaan ext_religion
+
+[9] "Olahraga Bola" (ext_ball_games, 10 kata)  <->  "Olahraga" (ext_sports, 12 kata)
+     overlap kata: 29% (5 kata sama)   kemiripan nama: 76%
+     contoh kata sama: 乒乓球、篮球、网球、羽毛球、足球
+     -> kalau memang perlu digabung: python merge_tema.py ext_ball_games ext_sports
+
+[10] "Pekerjaan & Profesi" (pekerjaan, 52 kata)  <->  "Karier & Profesi" (ext_careers, 51 kata)
+     overlap kata: 26% (21 kata sama)   kemiripan nama: 74%
+     contoh kata sama: 会计、作家、公务员、农民、厨师、司机、工人、工程师、建筑师、律师 ... (+11 lagi)
+     -> kalau memang perlu digabung: python merge_tema.py pekerjaan ext_careers
+
+[11] "Hari Ayah" (ext_father_s_day, 16 kata)  <->  "Hari Ibu" (ext_mother_s_day, 13 kata)
+     overlap kata: 38% (8 kata sama)   kemiripan nama: 59%
+     contoh kata sama: 关心、家人、家庭、感谢、照顾、爱、礼物、陪伴
+     -> kalau memang perlu digabung: python merge_tema.py ext_father_s_day ext_mother_s_day
+
+[12] "Warna" (warna, 31 kata)  <->  "Warna (Ext)" (ext_colors, 12 kata)
+     overlap kata: 34% (11 kata sama)   kemiripan nama: 62%
+     contoh kata sama: 棕色、灰色、白、粉色、紫、红、绿、蓝、颜色、黄 ... (+1 lagi)
+     -> kalau memang perlu digabung: python merge_tema.py warna ext_colors
+
+[13] "Arah & Posisi" (arah_lokasi, 28 kata)  <->  "Arah & Petunjuk Jalan" (ext_directions, 13 kata)
+     overlap kata: 46% (13 kata sama)   kemiripan nama: 47%
+     contoh kata sama: 东、东北、东南、前面、北、南、右边、后面、左边、旁边 ... (+3 lagi)
+     -> kalau memang perlu digabung: python merge_tema.py arah_lokasi ext_directions
+
+[14] "Musim Semi & Alam" (ext_spring_nature, 10 kata)  <->  "Musim Semi & Bunga" (ext_spring_and_flowers, 17 kata)
+     overlap kata: 12% (3 kata sama)   kemiripan nama: 80%
+     contoh kata sama: 春天、花、阳光
+     -> kalau memang perlu digabung: python merge_tema.py ext_spring_nature ext_spring_and_flowers
+
+[15] "Perlengkapan Liburan Musim Panas" (ext_summer_holiday_essentials, 26 kata)  <->  "Liburan Musim Panas" (ext_summer_vacation_begins, 15 kata)
+     overlap kata: 17% (6 kata sama)   kemiripan nama: 75%
+     contoh kata sama: 假期、安排、旅游、旅行、暑假、计划
+     -> kalau memang perlu digabung: python merge_tema.py ext_summer_holiday_essentials ext_summer_vacation_begins
+
+[16] "Pendidikan & Sekolah" (pendidikan, 46 kata)  <->  "Pendidikan" (ext_education, 81 kata)
+     overlap kata: 23% (24 kata sama)   kemiripan nama: 67%
+     contoh kata sama: 中学、作业、化学、历史、同学、地理、大学、学期、学校、学生 ... (+14 lagi)
+     -> kalau memang perlu digabung: python merge_tema.py pendidikan ext_education
+
+[17] "Pendidikan Tinggi" (pendidikan_tinggi, 27 kata)  <->  "Pendidikan" (ext_education, 81 kata)
+     overlap kata: 15% (14 kata sama)   kemiripan nama: 74%
+     contoh kata sama: 专业、博士、大学、学位、学分、学术、学院、导师、教授、文凭 ... (+4 lagi)
+     -> kalau memang perlu digabung: python merge_tema.py pendidikan_tinggi ext_education
+
+[18] "Mata Uang" (ext_currency, 25 kata)  <->  "Nama Mata Uang" (ext_names_of_the_currency, 11 kata)
+     overlap kata: 9% (3 kata sama)   kemiripan nama: 78%
+     contoh kata sama: 人民币、美元、英镑
+     -> kalau memang perlu digabung: python merge_tema.py ext_currency ext_names_of_the_currency
+
+[19] "Liburan Musim Panas" (ext_summer_vacation_begins, 15 kata)  <->  "Musim Panas" (ext_summer, 23 kata)
+     overlap kata: 12% (4 kata sama)   kemiripan nama: 73%
+     contoh kata sama: 夏天、旅游、暑假、游泳
+     -> kalau memang perlu digabung: python merge_tema.py ext_summer_vacation_begins ext_summer
+
+[20] "Olahraga & Kebugaran" (olahraga, 35 kata)  <->  "Olahraga Bola" (ext_ball_games, 10 kata)
+     overlap kata: 18% (7 kata sama)   kemiripan nama: 67%
+     contoh kata sama: 乒乓球、排球、棒球、篮球、网球、羽毛球、足球
+     -> kalau memang perlu digabung: python merge_tema.py olahraga ext_ball_games
+
+[21] "Tubuh Manusia" (tubuh, 50 kata)  <->  "Bagian Tubuh" (ext_body_parts, 44 kata)
+     overlap kata: 45% (29 kata sama)   kemiripan nama: 40%
+     contoh kata sama: 喉咙、嘴、嘴唇、头、头发、心脏、手、手指、牙齿、眼睛 ... (+19 lagi)
+     -> kalau memang perlu digabung: python merge_tema.py tubuh ext_body_parts
+
+[22] "Keluarga" (keluarga, 69 kata)  <->  "Sanak Saudara" (ext_relatives, 26 kata)
+     overlap kata: 36% (25 kata sama)   kemiripan nama: 48%
+     contoh kata sama: 亲戚、伯母、兄弟、叔叔、哥哥、外公、外婆、奶奶、妈妈、妹妹 ... (+15 lagi)
+     -> kalau memang perlu digabung: python merge_tema.py keluarga ext_relatives
+
+[23] "Liburan Musim Panas Dimulai" (ext_hsk_summer_vacation_begins, 15 kata)  <->  "Perlengkapan Liburan Musim Panas" (ext_summer_holiday_essentials, 26 kata)
+     overlap kata: 17% (6 kata sama)   kemiripan nama: 64%
+     contoh kata sama: 假期、安排、旅游、旅行、暑假、计划
+     -> kalau memang perlu digabung: python merge_tema.py ext_hsk_summer_vacation_begins ext_summer_holiday_essentials
+
+[24] "Bulan & Musim" (ext_month_and_season, 7 kata)  <->  "Cuaca & Musim" (ext_weather_and_seasons, 19 kata)
+     overlap kata: 4% (1 kata sama)   kemiripan nama: 77%
+     contoh kata sama: 季节
+     -> kalau memang perlu digabung: python merge_tema.py ext_month_and_season ext_weather_and_seasons
+
+[25] "Belanja & Perdagangan" (belanja, 21 kata)  <->  "Bisnis & Perdagangan" (bisnis_perdagangan, 31 kata)
+     overlap kata: 2% (1 kata sama)   kemiripan nama: 78%
+     contoh kata sama: 市场
+     -> kalau memang perlu digabung: python merge_tema.py belanja bisnis_perdagangan
+
+[26] "Cuaca & Musim" (ext_weather_and_seasons, 19 kata)  <->  "Cuaca" (ext_weather, 22 kata)
+     overlap kata: 24% (8 kata sama)   kemiripan nama: 56%
+     contoh kata sama: 下雨、下雪、冷、凉快、刮风、多云、暖和、热
+     -> kalau memang perlu digabung: python merge_tema.py ext_weather_and_seasons ext_weather
+
+[27] "Musim Semi & Bunga" (ext_spring_and_flowers, 17 kata)  <->  "Awal Musim Semi (立春)" (ext_the_beginning_of_spring, 17 kata)
+     overlap kata: 21% (6 kata sama)   kemiripan nama: 58%
+     contoh kata sama: 天气、开花、春天、暖和、花、阳光
+     -> kalau memang perlu digabung: python merge_tema.py ext_spring_and_flowers ext_the_beginning_of_spring
+
+[28] "Perjalanan & Wisata" (perjalanan_wisata, 139 kata)  <->  "Bepergian & Wisata" (ext_go_travelling, 9 kata)
+     overlap kata: 3% (5 kata sama)   kemiripan nama: 76%
+     contoh kata sama: 宾馆、护照、景点、游客、酒店
+     -> kalau memang perlu digabung: python merge_tema.py perjalanan_wisata ext_go_travelling
+
+[29] "Alam & Lingkungan" (alam_lingkungan, 44 kata)  <->  "Hari Bumi & Lingkungan" (ext_earth_day_environment, 9 kata)
+     overlap kata: 2% (1 kata sama)   kemiripan nama: 77%
+     contoh kata sama: 污染
+     -> kalau memang perlu digabung: python merge_tema.py alam_lingkungan ext_earth_day_environment
+
+[30] "Festival & Perayaan" (ext_festival, 8 kata)  <->  "Festival Qingming & Peringatan" (ext_qingming_festival_remembrance, 16 kata)
+     overlap kata: 9% (2 kata sama)   kemiripan nama: 69%
+     contoh kata sama: 清明节、节日
+     -> kalau memang perlu digabung: python merge_tema.py ext_festival ext_qingming_festival_remembrance
+
+[31] "Kehidupan Sekolah & Awal Semester" (ext_school_life_semester_start, 16 kata)  <->  "Kehidupan Kampus & Pemuda" (ext_youth_and_campus_life, 16 kata)
+     overlap kata: 23% (6 kata sama)   kemiripan nama: 55%
+     contoh kata sama: 上课、下课、作业、学生、教室、考试
+     -> kalau memang perlu digabung: python merge_tema.py ext_school_life_semester_start ext_youth_and_campus_life
+
+[32] "Olahraga & Kebugaran" (olahraga, 35 kata)  <->  "Olahraga" (ext_sports, 12 kata)
+     overlap kata: 21% (8 kata sama)   kemiripan nama: 57%
+     contoh kata sama: 乒乓球、游泳、篮球、网球、羽毛球、足球、跑步、运动
+     -> kalau memang perlu digabung: python merge_tema.py olahraga ext_sports
+
+[33] "Cuaca & Musim" (cuaca, 33 kata)  <->  "Bulan & Musim" (ext_month_and_season, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 77%
+     -> kalau memang perlu digabung: python merge_tema.py cuaca ext_month_and_season
+
+[34] "Musim Semi & Alam" (ext_spring_nature, 10 kata)  <->  "Awal Musim Semi (立春)" (ext_the_beginning_of_spring, 17 kata)
+     overlap kata: 17% (4 kata sama)   kemiripan nama: 59%
+     contoh kata sama: 春天、生长、花、阳光
+     -> kalau memang perlu digabung: python merge_tema.py ext_spring_nature ext_the_beginning_of_spring
+
+[35] "COVID-19 & Pandemi" (ext_covid_19, 25 kata)  <->  "Sakit & Penyakit" (ext_sick, 10 kata)
+     overlap kata: 35% (9 kata sama)   kemiripan nama: 41%
+     contoh kata sama: 发烧、咳嗽、嗓子、头疼、感冒、流感、生病、症状、鼻涕
+     -> kalau memang perlu digabung: python merge_tema.py ext_covid_19 ext_sick
+
+[36] "Cuaca & Musim" (cuaca, 33 kata)  <->  "Cuaca" (ext_weather, 22 kata)
+     overlap kata: 20% (9 kata sama)   kemiripan nama: 56%
+     contoh kata sama: 下雨、下雪、冰雹、台风、寒冷、晴、潮湿、炎热、阴
+     -> kalau memang perlu digabung: python merge_tema.py cuaca ext_weather
+
+[37] "Emosi & Perasaan" (ext_emotion, 36 kata)  <->  "Festival & Perayaan" (ext_festival, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 74%
+     -> kalau memang perlu digabung: python merge_tema.py ext_emotion ext_festival
+
+[38] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Minuman" (ext_beverage, 15 kata)
+     overlap kata: 16% (11 kata sama)   kemiripan nama: 58%
+     contoh kata sama: 可乐、咖啡、啤酒、奶茶、果汁、水、牛奶、白酒、矿泉水、红酒 ... (+1 lagi)
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman ext_beverage
+
+[39] "Hewan & Binatang" (hewan, 39 kata)  <->  "Hewan (HSK)" (ext_animals, 22 kata)
+     overlap kata: 30% (14 kata sama)   kemiripan nama: 44%
+     contoh kata sama: 兔子、动物、大象、宠物、昆虫、熊猫、狗、狮子、猪、猫 ... (+4 lagi)
+     -> kalau memang perlu digabung: python merge_tema.py hewan ext_animals
+
+[40] "Kelulusan & Kehidupan Sekolah" (ext_graduation_school_life, 16 kata)  <->  "Kehidupan Sekolah & Awal Semester" (ext_school_life_semester_start, 16 kata)
+     overlap kata: 19% (5 kata sama)   kemiripan nama: 55%
+     contoh kata sama: 作业、同学、老师、考试、课程
+     -> kalau memang perlu digabung: python merge_tema.py ext_graduation_school_life ext_school_life_semester_start
+
+[41] "Alam & Lingkungan" (alam_lingkungan, 44 kata)  <->  "Menanam Pohon & Kesadaran Lingkungan" (ext_tree_planting_environmental_awareness, 17 kata)
+     overlap kata: 13% (7 kata sama)   kemiripan nama: 60%
+     contoh kata sama: 保护、土地、地球、树、森林、空气、自然
+     -> kalau memang perlu digabung: python merge_tema.py alam_lingkungan ext_tree_planting_environmental_awareness
+
+[42] "Pendidikan & Sekolah" (pendidikan, 46 kata)  <->  "Kehidupan Sekolah & Awal Semester" (ext_school_life_semester_start, 16 kata)
+     overlap kata: 24% (12 kata sama)   kemiripan nama: 49%
+     contoh kata sama: 上课、下课、作业、同学、复习、学生、教室、教材、测验、老师 ... (+2 lagi)
+     -> kalau memang perlu digabung: python merge_tema.py pendidikan ext_school_life_semester_start
+
+[43] "Hobi & Hiburan" (hobi_hiburan, 21 kata)  <->  "Hobi & Waktu Luang" (ext_hobby, 21 kata)
+     overlap kata: 11% (4 kata sama)   kemiripan nama: 62%
+     contoh kata sama: 兴趣、游戏、爱好、电影
+     -> kalau memang perlu digabung: python merge_tema.py hobi_hiburan ext_hobby
+
+[44] "Suasana Awal Musim Panas" (ext_early_summer_vibes, 17 kata)  <->  "Liburan Musim Panas" (ext_summer_vacation_begins, 15 kata)
+     overlap kata: 3% (1 kata sama)   kemiripan nama: 70%
+     contoh kata sama: 夏天
+     -> kalau memang perlu digabung: python merge_tema.py ext_early_summer_vibes ext_summer_vacation_begins
+
+[45] "Paskah & Tradisi Musim Semi" (ext_easter_spring_traditions, 9 kata)  <->  "Festival & Bunga Musim Semi" (ext_spring_festivals_flowers, 10 kata)
+     overlap kata: 12% (2 kata sama)   kemiripan nama: 59%
+     contoh kata sama: 庆祝、春天
+     -> kalau memang perlu digabung: python merge_tema.py ext_easter_spring_traditions ext_spring_festivals_flowers
+
+[46] "Aktivitas Musim Dingin" (ext_winter_activities, 12 kata)  <->  "Kehidupan Musim Dingin" (ext_winter_life, 19 kata)
+     overlap kata: 7% (2 kata sama)   kemiripan nama: 64%
+     contoh kata sama: 围巾、手套
+     -> kalau memang perlu digabung: python merge_tema.py ext_winter_activities ext_winter_life
+
+[47] "Festival Musim Semi & Reuni" (ext_spring_festival_reunion, 20 kata)  <->  "Festival & Bunga Musim Semi" (ext_spring_festivals_flowers, 10 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 70%
+     -> kalau memang perlu digabung: python merge_tema.py ext_spring_festival_reunion ext_spring_festivals_flowers
+
+[48] "Belanja & Perdagangan" (belanja, 21 kata)  <->  "Keuangan & Perbankan" (keuangan, 30 kata)
+     overlap kata: 2% (1 kata sama)   kemiripan nama: 68%
+     contoh kata sama: 信用卡
+     -> kalau memang perlu digabung: python merge_tema.py belanja keuangan
+
+[49] "Keluarga" (keluarga, 69 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 6% (5 kata sama)   kemiripan nama: 64%
+     contoh kata sama: 女儿、妈妈、妻子、家人、家庭
+     -> kalau memang perlu digabung: python merge_tema.py keluarga ext_women_and_family
+
+[50] "Hari Anak & Masa Kecil" (ext_children_s_day_childhood, 19 kata)  <->  "Hari Ayah" (ext_father_s_day, 16 kata)
+     overlap kata: 25% (7 kata sama)   kemiripan nama: 45%
+     contoh kata sama: 关心、孩子、家人、家庭、温暖、爱、礼物
+     -> kalau memang perlu digabung: python merge_tema.py ext_children_s_day_childhood ext_father_s_day
+
+[51] "Alat Musik" (ext_musical_instrument, 15 kata)  <->  "Alat Tulis" (ext_names_of_stationery, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 70%
+     -> kalau memang perlu digabung: python merge_tema.py ext_musical_instrument ext_names_of_stationery
+
+[52] "Liburan Musim Panas Dimulai" (ext_hsk_summer_vacation_begins, 15 kata)  <->  "Musim Panas" (ext_summer, 23 kata)
+     overlap kata: 12% (4 kata sama)   kemiripan nama: 58%
+     contoh kata sama: 夏天、旅游、暑假、游泳
+     -> kalau memang perlu digabung: python merge_tema.py ext_hsk_summer_vacation_begins ext_summer
+
+[53] "Makanan Hangat Musim Dingin" (ext_comfort_food_in_winter, 6 kata)  <->  "Kehidupan Musim Dingin" (ext_winter_life, 19 kata)
+     overlap kata: 4% (1 kata sama)   kemiripan nama: 65%
+     contoh kata sama: 火锅
+     -> kalau memang perlu digabung: python merge_tema.py ext_comfort_food_in_winter ext_winter_life
+
+[54] "Musim Semi & Bunga" (ext_spring_and_flowers, 17 kata)  <->  "Festival Musim Semi & Reuni" (ext_spring_festival_reunion, 20 kata)
+     overlap kata: 3% (1 kata sama)   kemiripan nama: 67%
+     contoh kata sama: 一起
+     -> kalau memang perlu digabung: python merge_tema.py ext_spring_and_flowers ext_spring_festival_reunion
+
+[55] "Festival & Perayaan" (ext_festival, 8 kata)  <->  "Festival Lampion & Budaya Cahaya" (ext_lantern_festival_light_culture, 13 kata)
+     overlap kata: 11% (2 kata sama)   kemiripan nama: 59%
+     contoh kata sama: 元宵节、节日
+     -> kalau memang perlu digabung: python merge_tema.py ext_festival ext_lantern_festival_light_culture
+
+[56] "Pertanian & Pangan" (pertanian_pangan, 22 kata)  <->  "Gerakan Tangan" (ext_hand_movements, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 69%
+     -> kalau memang perlu digabung: python merge_tema.py pertanian_pangan ext_hand_movements
+
+[57] "Pekerjaan & Profesi" (pekerjaan, 52 kata)  <->  "Perasaan & Emosi" (perasaan_emosi, 53 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 69%
+     -> kalau memang perlu digabung: python merge_tema.py pekerjaan perasaan_emosi
+
+[58] "Negara & Kebangsaan" (negara_budaya, 16 kata)  <->  "Angka & Bilangan" (ext_numeral, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 69%
+     -> kalau memang perlu digabung: python merge_tema.py negara_budaya ext_numeral
+
+[59] "Kata Ganti Penunjuk" (ext_demonstrative_pronoun, 12 kata)  <->  "Kata Ganti Orang" (ext_personal_pronouns, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 69%
+     -> kalau memang perlu digabung: python merge_tema.py ext_demonstrative_pronoun ext_personal_pronouns
+
+[60] "Keuangan & Perbankan" (keuangan, 30 kata)  <->  "Pertanian & Pangan" (pertanian_pangan, 22 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 68%
+     -> kalau memang perlu digabung: python merge_tema.py keuangan pertanian_pangan
+
+[61] "Suasana Awal Musim Panas" (ext_early_summer_vibes, 17 kata)  <->  "Musim Panas" (ext_summer, 23 kata)
+     overlap kata: 5% (2 kata sama)   kemiripan nama: 63%
+     contoh kata sama: 夏天、天气
+     -> kalau memang perlu digabung: python merge_tema.py ext_early_summer_vibes ext_summer
+
+[62] "Festival Perahu Naga & Tradisi" (ext_dragon_boat_festival_traditions, 14 kata)  <->  "Festival Qingming & Peringatan" (ext_qingming_festival_remembrance, 16 kata)
+     overlap kata: 11% (3 kata sama)   kemiripan nama: 57%
+     contoh kata sama: 传统、纪念、节日
+     -> kalau memang perlu digabung: python merge_tema.py ext_dragon_boat_festival_traditions ext_qingming_festival_remembrance
+
+[63] "Lingkungan Hidup" (lingkungan_hidup, 14 kata)  <->  "Hari Bumi & Lingkungan" (ext_earth_day_environment, 9 kata)
+     overlap kata: 15% (3 kata sama)   kemiripan nama: 53%
+     contoh kata sama: 回收、垃圾、污染
+     -> kalau memang perlu digabung: python merge_tema.py lingkungan_hidup ext_earth_day_environment
+
+[64] "Festival Perahu Naga & Tradisi" (ext_dragon_boat_festival_traditions, 14 kata)  <->  "Festival & Perayaan" (ext_festival, 8 kata)
+     overlap kata: 10% (2 kata sama)   kemiripan nama: 57%
+     contoh kata sama: 端午节、节日
+     -> kalau memang perlu digabung: python merge_tema.py ext_dragon_boat_festival_traditions ext_festival
+
+[65] "Perasaan & Emosi" (perasaan_emosi, 53 kata)  <->  "Emosi & Perasaan" (ext_emotion, 36 kata)
+     overlap kata: 17% (13 kata sama)   kemiripan nama: 50%
+     contoh kata sama: 伤心、兴奋、失望、害怕、开心、快乐、愤怒、沮丧、激动、生气 ... (+3 lagi)
+     -> kalau memang perlu digabung: python merge_tema.py perasaan_emosi ext_emotion
+
+[66] "Pendidikan & Sekolah" (pendidikan, 46 kata)  <->  "Pendidikan Tinggi" (pendidikan_tinggi, 27 kata)
+     overlap kata: 7% (5 kata sama)   kemiripan nama: 59%
+     contoh kata sama: 大学、奖学金、学费、教授、食堂
+     -> kalau memang perlu digabung: python merge_tema.py pendidikan pendidikan_tinggi
+
+[67] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Makanan Hangat Musim Dingin" (ext_comfort_food_in_winter, 6 kata)
+     overlap kata: 8% (5 kata sama)   kemiripan nama: 59%
+     contoh kata sama: 汤圆、火锅、牛奶、粥、饺子
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman ext_comfort_food_in_winter
+
+[68] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Pakaian & Busana" (ext_clothing, 18 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 67%
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman ext_clothing
+
+[69] "Belanja & Perdagangan" (belanja, 21 kata)  <->  "Pertanian & Pangan" (pertanian_pangan, 22 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 67%
+     -> kalau memang perlu digabung: python merge_tema.py belanja pertanian_pangan
+
+[70] "Keuangan & Perbankan" (keuangan, 30 kata)  <->  "Kencan & Percintaan" (ext_dating, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 67%
+     -> kalau memang perlu digabung: python merge_tema.py keuangan ext_dating
+
+[71] "Hewan (HSK)" (ext_animals, 22 kata)  <->  "Sayuran (HSK)" (ext_vegetables, 12 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 67%
+     -> kalau memang perlu digabung: python merge_tema.py ext_animals ext_vegetables
+
+[72] "Pakaian & Busana" (ext_clothing, 18 kata)  <->  "Sapaan & Salam" (ext_greetings, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 67%
+     -> kalau memang perlu digabung: python merge_tema.py ext_clothing ext_greetings
+
+[73] "Kelulusan & Kehidupan Sekolah" (ext_graduation_school_life, 16 kata)  <->  "Kehidupan Kampus & Pemuda" (ext_youth_and_campus_life, 16 kata)
+     overlap kata: 19% (5 kata sama)   kemiripan nama: 48%
+     contoh kata sama: 作业、学习、校园、梦想、考试
+     -> kalau memang perlu digabung: python merge_tema.py ext_graduation_school_life ext_youth_and_campus_life
+
+[74] "Genre Film" (ext_movie_type, 12 kata)  <->  "Genre Musik" (ext_music_type, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 67%
+     -> kalau memang perlu digabung: python merge_tema.py ext_movie_type ext_music_type
+
+[75] "Suasana Awal Musim Panas" (ext_early_summer_vibes, 17 kata)  <->  "Cuaca & Musim" (ext_weather_and_seasons, 19 kata)
+     overlap kata: 12% (4 kata sama)   kemiripan nama: 54%
+     contoh kata sama: 凉快、夏天、天气、暖和
+     -> kalau memang perlu digabung: python merge_tema.py ext_early_summer_vibes ext_weather_and_seasons
+
+[76] "Hari Ibu" (ext_mother_s_day, 13 kata)  <->  "Hari Valentine" (ext_valentine_s_day, 15 kata)
+     overlap kata: 12% (3 kata sama)   kemiripan nama: 55%
+     contoh kata sama: 礼物、贺卡、鲜花
+     -> kalau memang perlu digabung: python merge_tema.py ext_mother_s_day ext_valentine_s_day
+
+[77] "Makanan Hangat Musim Dingin" (ext_comfort_food_in_winter, 6 kata)  <->  "Aktivitas Musim Dingin" (ext_winter_activities, 12 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 65%
+     -> kalau memang perlu digabung: python merge_tema.py ext_comfort_food_in_winter ext_winter_activities
+
+[78] "Perjalanan & Wisata" (perjalanan_wisata, 139 kata)  <->  "Pertanian & Pangan" (pertanian_pangan, 22 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 65%
+     -> kalau memang perlu digabung: python merge_tema.py perjalanan_wisata pertanian_pangan
+
+[79] "Angka & Bilangan" (angka, 33 kata)  <->  "Pertanian & Pangan" (pertanian_pangan, 22 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 65%
+     -> kalau memang perlu digabung: python merge_tema.py angka pertanian_pangan
+
+[80] "Perjalanan & Wisata" (perjalanan_wisata, 139 kata)  <->  "Peralatan Makan" (ext_tableware, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 65%
+     -> kalau memang perlu digabung: python merge_tema.py perjalanan_wisata ext_tableware
+
+[81] "Pertanian & Pangan" (pertanian_pangan, 22 kata)  <->  "Pakaian & Busana" (ext_clothing, 18 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 65%
+     -> kalau memang perlu digabung: python merge_tema.py pertanian_pangan ext_clothing
+
+[82] "Pertanian & Pangan" (pertanian_pangan, 22 kata)  <->  "Angka & Bilangan" (ext_numeral, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 65%
+     -> kalau memang perlu digabung: python merge_tema.py pertanian_pangan ext_numeral
+
+[83] "Buah-buahan (HSK)" (ext_fruit, 11 kata)  <->  "Sayuran (HSK)" (ext_vegetables, 12 kata)
+     overlap kata: 5% (1 kata sama)   kemiripan nama: 60%
+     contoh kata sama: 西红柿
+     -> kalau memang perlu digabung: python merge_tema.py ext_fruit ext_vegetables
+
+[84] "Angka & Bilangan" (angka, 33 kata)  <->  "Bentuk & Bangun" (ext_shapes, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 65%
+     -> kalau memang perlu digabung: python merge_tema.py angka ext_shapes
+
+[85] "Nama Mata Uang" (ext_names_of_the_currency, 11 kata)  <->  "Nama Negara Utama" (ext_names_of_the_main_countries, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 65%
+     -> kalau memang perlu digabung: python merge_tema.py ext_names_of_the_currency ext_names_of_the_main_countries
+
+[86] "Angka & Bilangan" (ext_numeral, 17 kata)  <->  "Bentuk & Bangun" (ext_shapes, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 65%
+     -> kalau memang perlu digabung: python merge_tema.py ext_numeral ext_shapes
+
+[87] "Hewan (HSK)" (ext_animals, 22 kata)  <->  "Buah-buahan (HSK)" (ext_fruit, 11 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 64%
+     -> kalau memang perlu digabung: python merge_tema.py ext_animals ext_fruit
+
+[88] "Suasana Awal Musim Panas" (ext_early_summer_vibes, 17 kata)  <->  "Awal Musim Semi (立春)" (ext_the_beginning_of_spring, 17 kata)
+     overlap kata: 10% (3 kata sama)   kemiripan nama: 55%
+     contoh kata sama: 天气、暖和、舒服
+     -> kalau memang perlu digabung: python merge_tema.py ext_early_summer_vibes ext_the_beginning_of_spring
+
+[89] "Musim Semi & Bunga" (ext_spring_and_flowers, 17 kata)  <->  "Piknik & Jalan-jalan Musim Semi" (ext_spring_outings, 15 kata)
+     overlap kata: 23% (6 kata sama)   kemiripan nama: 41%
+     contoh kata sama: 一起、公园、出去、散步、自然、阳光
+     -> kalau memang perlu digabung: python merge_tema.py ext_spring_and_flowers ext_spring_outings
+
+[90] "Festival & Bunga Musim Semi" (ext_spring_festivals_flowers, 10 kata)  <->  "Awal Musim Semi (立春)" (ext_the_beginning_of_spring, 17 kata)
+     overlap kata: 8% (2 kata sama)   kemiripan nama: 55%
+     contoh kata sama: 春天、花
+     -> kalau memang perlu digabung: python merge_tema.py ext_spring_festivals_flowers ext_the_beginning_of_spring
+
+[91] "Negara & Kebangsaan" (negara_budaya, 16 kata)  <->  "Agama & Kepercayaan" (agama_kepercayaan, 27 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 63%
+     -> kalau memang perlu digabung: python merge_tema.py negara_budaya agama_kepercayaan
+
+[92] "Negara & Kebangsaan" (negara_budaya, 16 kata)  <->  "Agama & Kepercayaan" (ext_religion, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 63%
+     -> kalau memang perlu digabung: python merge_tema.py negara_budaya ext_religion
+
+[93] "Agama & Kepercayaan" (agama_kepercayaan, 27 kata)  <->  "Festival & Perayaan" (ext_festival, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 63%
+     -> kalau memang perlu digabung: python merge_tema.py agama_kepercayaan ext_festival
+
+[94] "Mata Uang" (ext_currency, 25 kata)  <->  "Kata Tanya" (ext_interrogative_pronoun, 12 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 63%
+     -> kalau memang perlu digabung: python merge_tema.py ext_currency ext_interrogative_pronoun
+
+[95] "Festival & Perayaan" (ext_festival, 8 kata)  <->  "Agama & Kepercayaan" (ext_religion, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 63%
+     -> kalau memang perlu digabung: python merge_tema.py ext_festival ext_religion
+
+[96] "Gerakan Tangan" (ext_hand_movements, 17 kata)  <->  "Buruh & Kerajinan Tangan" (ext_labor_and_craftsmanship, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 63%
+     -> kalau memang perlu digabung: python merge_tema.py ext_hand_movements ext_labor_and_craftsmanship
+
+[97] "Musim Semi & Alam" (ext_spring_nature, 10 kata)  <->  "Festival & Bunga Musim Semi" (ext_spring_festivals_flowers, 10 kata)
+     overlap kata: 18% (3 kata sama)   kemiripan nama: 45%
+     contoh kata sama: 春天、春季、花
+     -> kalau memang perlu digabung: python merge_tema.py ext_spring_nature ext_spring_festivals_flowers
+
+[98] "Pakaian & Busana" (ext_clothing, 18 kata)  <->  "Cuaca Dingin & Kehangatan" (ext_cold_weather_staying_warm, 14 kata)
+     overlap kata: 14% (4 kata sama)   kemiripan nama: 49%
+     contoh kata sama: 帽子、手套、毛衣、羽绒服
+     -> kalau memang perlu digabung: python merge_tema.py ext_clothing ext_cold_weather_staying_warm
+
+[99] "Hewan & Binatang" (hewan, 39 kata)  <->  "Kencan & Percintaan" (ext_dating, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 63%
+     -> kalau memang perlu digabung: python merge_tema.py hewan ext_dating
+
+[100] "Angka & Bilangan" (angka, 33 kata)  <->  "Negara & Kebangsaan" (negara_budaya, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 63%
+     -> kalau memang perlu digabung: python merge_tema.py angka negara_budaya
+
+[101] "Perjalanan & Wisata" (perjalanan_wisata, 139 kata)  <->  "Perasaan & Emosi" (perasaan_emosi, 53 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 63%
+     -> kalau memang perlu digabung: python merge_tema.py perjalanan_wisata perasaan_emosi
+
+[102] "Perjalanan & Wisata" (perjalanan_wisata, 139 kata)  <->  "Pakaian & Busana" (ext_clothing, 18 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 63%
+     -> kalau memang perlu digabung: python merge_tema.py perjalanan_wisata ext_clothing
+
+[103] "Agama & Kepercayaan" (agama_kepercayaan, 27 kata)  <->  "Emosi & Perasaan" (ext_emotion, 36 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 63%
+     -> kalau memang perlu digabung: python merge_tema.py agama_kepercayaan ext_emotion
+
+[104] "Emosi & Perasaan" (ext_emotion, 36 kata)  <->  "Agama & Kepercayaan" (ext_religion, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 63%
+     -> kalau memang perlu digabung: python merge_tema.py ext_emotion ext_religion
+
+[105] "Hari Anak & Masa Kecil" (ext_children_s_day_childhood, 19 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 17% (5 kata sama)   kemiripan nama: 46%
+     contoh kata sama: 关心、家人、家庭、温暖、爱
+     -> kalau memang perlu digabung: python merge_tema.py ext_children_s_day_childhood ext_women_and_family
+
+[106] "Festival & Bunga Musim Semi" (ext_spring_festivals_flowers, 10 kata)  <->  "Piknik & Jalan-jalan Musim Semi" (ext_spring_outings, 15 kata)
+     overlap kata: 4% (1 kata sama)   kemiripan nama: 59%
+     contoh kata sama: 公园
+     -> kalau memang perlu digabung: python merge_tema.py ext_spring_festivals_flowers ext_spring_outings
+
+[107] "Minuman Keras & Alkohol" (ext_alcohol, 14 kata)  <->  "Minuman" (ext_beverage, 15 kata)
+     overlap kata: 16% (4 kata sama)   kemiripan nama: 47%
+     contoh kata sama: 啤酒、白酒、红酒、葡萄酒
+     -> kalau memang perlu digabung: python merge_tema.py ext_alcohol ext_beverage
+
+[108] "Keluarga" (keluarga, 69 kata)  <->  "Olahraga" (ext_sports, 12 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 62%
+     -> kalau memang perlu digabung: python merge_tema.py keluarga ext_sports
+
+[109] "Hewan & Binatang" (hewan, 39 kata)  <->  "Angka & Bilangan" (angka, 33 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 62%
+     -> kalau memang perlu digabung: python merge_tema.py hewan angka
+
+[110] "Hewan & Binatang" (hewan, 39 kata)  <->  "Angka & Bilangan" (ext_numeral, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 62%
+     -> kalau memang perlu digabung: python merge_tema.py hewan ext_numeral
+
+[111] "Pakaian & Busana" (ext_clothing, 18 kata)  <->  "Angka & Bilangan" (ext_numeral, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 62%
+     -> kalau memang perlu digabung: python merge_tema.py ext_clothing ext_numeral
+
+[112] "Bulan & Musim" (ext_month_and_season, 7 kata)  <->  "Liburan Musim Panas" (ext_summer_vacation_begins, 15 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 62%
+     -> kalau memang perlu digabung: python merge_tema.py ext_month_and_season ext_summer_vacation_begins
+
+[113] "Alam & Lingkungan" (alam_lingkungan, 44 kata)  <->  "Lingkungan Hidup" (lingkungan_hidup, 14 kata)
+     overlap kata: 2% (1 kata sama)   kemiripan nama: 61%
+     contoh kata sama: 污染
+     -> kalau memang perlu digabung: python merge_tema.py alam_lingkungan lingkungan_hidup
+
+[114] "Arah & Posisi" (arah_lokasi, 28 kata)  <->  "Karier & Profesi" (ext_careers, 51 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 62%
+     -> kalau memang perlu digabung: python merge_tema.py arah_lokasi ext_careers
+
+[115] "Suasana Awal Musim Panas" (ext_early_summer_vibes, 17 kata)  <->  "Liburan Musim Panas Dimulai" (ext_hsk_summer_vacation_begins, 15 kata)
+     overlap kata: 3% (1 kata sama)   kemiripan nama: 59%
+     contoh kata sama: 夏天
+     -> kalau memang perlu digabung: python merge_tema.py ext_early_summer_vibes ext_hsk_summer_vacation_begins
+
+[116] "Gerakan Tangan" (ext_hand_movements, 17 kata)  <->  "Persiapan Tahun Baru" (ext_preparing_for_the_new_year, 17 kata)
+     overlap kata: 3% (1 kata sama)   kemiripan nama: 59%
+     contoh kata sama: 扔
+     -> kalau memang perlu digabung: python merge_tema.py ext_hand_movements ext_preparing_for_the_new_year
+
+[117] "Pendidikan & Sekolah" (pendidikan, 46 kata)  <->  "Sekolah" (ext_school, 9 kata)
+     overlap kata: 10% (5 kata sama)   kemiripan nama: 52%
+     contoh kata sama: 中学、大学、小学、幼儿园、高中
+     -> kalau memang perlu digabung: python merge_tema.py pendidikan ext_school
+
+[118] "Musim Semi & Bunga" (ext_spring_and_flowers, 17 kata)  <->  "Festival & Bunga Musim Semi" (ext_spring_festivals_flowers, 10 kata)
+     overlap kata: 17% (4 kata sama)   kemiripan nama: 44%
+     contoh kata sama: 公园、春天、桃花、花
+     -> kalau memang perlu digabung: python merge_tema.py ext_spring_and_flowers ext_spring_festivals_flowers
+
+[119] "Pendidikan & Sekolah" (pendidikan, 46 kata)  <->  "Kelulusan & Kehidupan Sekolah" (ext_graduation_school_life, 16 kata)
+     overlap kata: 9% (5 kata sama)   kemiripan nama: 53%
+     contoh kata sama: 作业、同学、毕业、老师、考试
+     -> kalau memang perlu digabung: python merge_tema.py pendidikan ext_graduation_school_life
+
+[120] "Cuaca Dingin & Kehangatan" (ext_cold_weather_staying_warm, 14 kata)  <->  "Festival Qingming & Peringatan" (ext_qingming_festival_remembrance, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 62%
+     -> kalau memang perlu digabung: python merge_tema.py ext_cold_weather_staying_warm ext_qingming_festival_remembrance
+
+[121] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Buruh & Kerajinan Tangan" (ext_labor_and_craftsmanship, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 62%
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan ext_labor_and_craftsmanship
+
+[122] "Kata Tanya" (ext_interrogative_pronoun, 12 kata)  <->  "Kata Ganti Orang" (ext_personal_pronouns, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 62%
+     -> kalau memang perlu digabung: python merge_tema.py ext_interrogative_pronoun ext_personal_pronouns
+
+[123] "Pendidikan & Sekolah" (pendidikan, 46 kata)  <->  "Kehidupan Kampus & Pemuda" (ext_youth_and_campus_life, 16 kata)
+     overlap kata: 17% (9 kata sama)   kemiripan nama: 44%
+     contoh kata sama: 上课、下课、作业、图书馆、大学、学校、学生、教室、考试
+     -> kalau memang perlu digabung: python merge_tema.py pendidikan ext_youth_and_campus_life
+
+[124] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Kencan & Percintaan" (ext_dating, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 61%
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman ext_dating
+
+[125] "Keuangan & Perbankan" (keuangan, 30 kata)  <->  "Pakaian & Busana" (ext_clothing, 18 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 61%
+     -> kalau memang perlu digabung: python merge_tema.py keuangan ext_clothing
+
+[126] "Pertanian & Pangan" (pertanian_pangan, 22 kata)  <->  "Bepergian & Wisata" (ext_go_travelling, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 61%
+     -> kalau memang perlu digabung: python merge_tema.py pertanian_pangan ext_go_travelling
+
+[127] "Aplikasi Mandarin" (ext_chinese_apps, 13 kata)  <->  "Idiom Mandarin (成语)" (ext_chinese_idioms, 79 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 61%
+     -> kalau memang perlu digabung: python merge_tema.py ext_chinese_apps ext_chinese_idioms
+
+[128] "Minuman" (ext_beverage, 15 kata)  <->  "Musim Panas" (ext_summer, 23 kata)
+     overlap kata: 6% (2 kata sama)   kemiripan nama: 56%
+     contoh kata sama: 啤酒、果汁
+     -> kalau memang perlu digabung: python merge_tema.py ext_beverage ext_summer
+
+[129] "Cuaca & Musim" (cuaca, 33 kata)  <->  "Alat Musik" (ext_musical_instrument, 15 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 61%
+     -> kalau memang perlu digabung: python merge_tema.py cuaca ext_musical_instrument
+
+[130] "Bulan & Musim" (ext_month_and_season, 7 kata)  <->  "Alat Musik" (ext_musical_instrument, 15 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 61%
+     -> kalau memang perlu digabung: python merge_tema.py ext_month_and_season ext_musical_instrument
+
+[131] "Alat Musik" (ext_musical_instrument, 15 kata)  <->  "Cuaca & Musim" (ext_weather_and_seasons, 19 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 61%
+     -> kalau memang perlu digabung: python merge_tema.py ext_musical_instrument ext_weather_and_seasons
+
+[132] "Cuaca & Musim" (ext_weather_and_seasons, 19 kata)  <->  "Kehidupan Musim Dingin" (ext_winter_life, 19 kata)
+     overlap kata: 15% (5 kata sama)   kemiripan nama: 46%
+     contoh kata sama: 冬天、冷、天气、暖和、热
+     -> kalau memang perlu digabung: python merge_tema.py ext_weather_and_seasons ext_winter_life
+
+[133] "Festival Lampion & Budaya Cahaya" (ext_lantern_festival_light_culture, 13 kata)  <->  "Festival Musim Semi & Reuni" (ext_spring_festival_reunion, 20 kata)
+     overlap kata: 10% (3 kata sama)   kemiripan nama: 51%
+     contoh kata sama: 团圆、晚上、热闹
+     -> kalau memang perlu digabung: python merge_tema.py ext_lantern_festival_light_culture ext_spring_festival_reunion
+
+[134] "Angka & Bilangan" (angka, 33 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 61%
+     -> kalau memang perlu digabung: python merge_tema.py angka ext_women_and_family
+
+[135] "Kesehatan & Medis" (kesehatan, 46 kata)  <->  "Perasaan & Emosi" (perasaan_emosi, 53 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 61%
+     -> kalau memang perlu digabung: python merge_tema.py kesehatan perasaan_emosi
+
+[136] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Pertanian & Pangan" (pertanian_pangan, 22 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 61%
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan pertanian_pangan
+
+[137] "Alam & Lingkungan" (alam_lingkungan, 44 kata)  <->  "Angka & Bilangan" (ext_numeral, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 61%
+     -> kalau memang perlu digabung: python merge_tema.py alam_lingkungan ext_numeral
+
+[138] "Perjalanan & Wisata" (perjalanan_wisata, 139 kata)  <->  "Sapaan & Salam" (ext_greetings, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 61%
+     -> kalau memang perlu digabung: python merge_tema.py perjalanan_wisata ext_greetings
+
+[139] "Angka & Bilangan" (ext_numeral, 17 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 61%
+     -> kalau memang perlu digabung: python merge_tema.py ext_numeral ext_women_and_family
+
+[140] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Makanan Pokok" (ext_staple_food, 9 kata)
+     overlap kata: 7% (5 kata sama)   kemiripan nama: 53%
+     contoh kata sama: 包子、米饭、面包、面条、馒头
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman ext_staple_food
+
+[141] "Cuaca Dingin & Kehangatan" (ext_cold_weather_staying_warm, 14 kata)  <->  "Kehidupan Musim Dingin" (ext_winter_life, 19 kata)
+     overlap kata: 22% (6 kata sama)   kemiripan nama: 38%
+     contoh kata sama: 保暖、冬天、围巾、手套、毛衣、羽绒服
+     -> kalau memang perlu digabung: python merge_tema.py ext_cold_weather_staying_warm ext_winter_life
+
+[142] "Festival Perahu Naga & Tradisi" (ext_dragon_boat_festival_traditions, 14 kata)  <->  "Festival & Bunga Musim Semi" (ext_spring_festivals_flowers, 10 kata)
+     overlap kata: 4% (1 kata sama)   kemiripan nama: 56%
+     contoh kata sama: 节日
+     -> kalau memang perlu digabung: python merge_tema.py ext_dragon_boat_festival_traditions ext_spring_festivals_flowers
+
+[143] "Hari, Bulan & Tanggal" (hari_tanggal, 29 kata)  <->  "Hari Anak & Masa Kecil" (ext_children_s_day_childhood, 19 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 60%
+     -> kalau memang perlu digabung: python merge_tema.py hari_tanggal ext_children_s_day_childhood
+
+[144] "Keuangan & Perbankan" (keuangan, 30 kata)  <->  "Bisnis & Perdagangan" (bisnis_perdagangan, 31 kata)
+     overlap kata: 5% (3 kata sama)   kemiripan nama: 55%
+     contoh kata sama: 投资、支出、收入
+     -> kalau memang perlu digabung: python merge_tema.py keuangan bisnis_perdagangan
+
+[145] "Belanja & Perdagangan" (belanja, 21 kata)  <->  "Negara & Kebangsaan" (negara_budaya, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 60%
+     -> kalau memang perlu digabung: python merge_tema.py belanja negara_budaya
+
+[146] "Belanja & Perdagangan" (belanja, 21 kata)  <->  "Kencan & Percintaan" (ext_dating, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 60%
+     -> kalau memang perlu digabung: python merge_tema.py belanja ext_dating
+
+[147] "Gerakan Tangan" (ext_hand_movements, 17 kata)  <->  "Angka & Bilangan" (ext_numeral, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 60%
+     -> kalau memang perlu digabung: python merge_tema.py ext_hand_movements ext_numeral
+
+[148] "Festival Qingming & Peringatan" (ext_qingming_festival_remembrance, 16 kata)  <->  "Festival Musim Semi & Reuni" (ext_spring_festival_reunion, 20 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 60%
+     -> kalau memang perlu digabung: python merge_tema.py ext_qingming_festival_remembrance ext_spring_festival_reunion
+
+[149] "Festival Musim Semi & Reuni" (ext_spring_festival_reunion, 20 kata)  <->  "Awal Musim Semi (立春)" (ext_the_beginning_of_spring, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 60%
+     -> kalau memang perlu digabung: python merge_tema.py ext_spring_festival_reunion ext_the_beginning_of_spring
+
+[150] "Angka & Bilangan" (angka, 33 kata)  <->  "Belanja & Perdagangan" (belanja, 21 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 59%
+     -> kalau memang perlu digabung: python merge_tema.py angka belanja
+
+[151] "Belanja & Perdagangan" (belanja, 21 kata)  <->  "Angka & Bilangan" (ext_numeral, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 59%
+     -> kalau memang perlu digabung: python merge_tema.py belanja ext_numeral
+
+[152] "Komunikasi & Media" (komunikasi, 37 kata)  <->  "Konstruksi & Teknik" (konstruksi_teknik, 27 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 59%
+     -> kalau memang perlu digabung: python merge_tema.py komunikasi konstruksi_teknik
+
+[153] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Hari Bumi & Lingkungan" (ext_earth_day_environment, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 59%
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan ext_earth_day_environment
+
+[154] "Paskah & Tradisi Musim Semi" (ext_easter_spring_traditions, 9 kata)  <->  "Awal Musim Semi (立春)" (ext_the_beginning_of_spring, 17 kata)
+     overlap kata: 4% (1 kata sama)   kemiripan nama: 55%
+     contoh kata sama: 春天
+     -> kalau memang perlu digabung: python merge_tema.py ext_easter_spring_traditions ext_the_beginning_of_spring
+
+[155] "Negara & Kebangsaan" (negara_budaya, 16 kata)  <->  "Cuaca Dingin & Kehangatan" (ext_cold_weather_staying_warm, 14 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 59%
+     -> kalau memang perlu digabung: python merge_tema.py negara_budaya ext_cold_weather_staying_warm
+
+[156] "Musim Semi & Alam" (ext_spring_nature, 10 kata)  <->  "Festival Musim Semi & Reuni" (ext_spring_festival_reunion, 20 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 59%
+     -> kalau memang perlu digabung: python merge_tema.py ext_spring_nature ext_spring_festival_reunion
+
+[157] "Keluarga" (keluarga, 69 kata)  <->  "Kendaraan" (ext_vehicle, 11 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 59%
+     -> kalau memang perlu digabung: python merge_tema.py keluarga ext_vehicle
+
+[158] "Hewan & Binatang" (hewan, 39 kata)  <->  "Bepergian & Wisata" (ext_go_travelling, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 59%
+     -> kalau memang perlu digabung: python merge_tema.py hewan ext_go_travelling
+
+[159] "Pakaian & Aksesori" (pakaian, 35 kata)  <->  "Perasaan & Emosi" (perasaan_emosi, 53 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 59%
+     -> kalau memang perlu digabung: python merge_tema.py pakaian perasaan_emosi
+
+[160] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Negara & Kebangsaan" (negara_budaya, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 59%
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan negara_budaya
+
+[161] "Pakaian & Busana" (ext_clothing, 18 kata)  <->  "Bepergian & Wisata" (ext_go_travelling, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 59%
+     -> kalau memang perlu digabung: python merge_tema.py ext_clothing ext_go_travelling
+
+[162] "Makanan Hangat Musim Dingin" (ext_comfort_food_in_winter, 6 kata)  <->  "Suasana Awal Musim Panas" (ext_early_summer_vibes, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 59%
+     -> kalau memang perlu digabung: python merge_tema.py ext_comfort_food_in_winter ext_early_summer_vibes
+
+[163] "Paskah & Tradisi Musim Semi" (ext_easter_spring_traditions, 9 kata)  <->  "Piknik & Jalan-jalan Musim Semi" (ext_spring_outings, 15 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 59%
+     -> kalau memang perlu digabung: python merge_tema.py ext_easter_spring_traditions ext_spring_outings
+
+[164] "Liburan Musim Panas" (ext_summer_vacation_begins, 15 kata)  <->  "Kehidupan Musim Dingin" (ext_winter_life, 19 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 59%
+     -> kalau memang perlu digabung: python merge_tema.py ext_summer_vacation_begins ext_winter_life
+
+[165] "Hari Anak & Masa Kecil" (ext_children_s_day_childhood, 19 kata)  <->  "Hari Ibu" (ext_mother_s_day, 13 kata)
+     overlap kata: 19% (5 kata sama)   kemiripan nama: 40%
+     contoh kata sama: 关心、家人、家庭、爱、礼物
+     -> kalau memang perlu digabung: python merge_tema.py ext_children_s_day_childhood ext_mother_s_day
+
+[166] "Festival Lampion & Budaya Cahaya" (ext_lantern_festival_light_culture, 13 kata)  <->  "Festival Qingming & Peringatan" (ext_qingming_festival_remembrance, 16 kata)
+     overlap kata: 4% (1 kata sama)   kemiripan nama: 55%
+     contoh kata sama: 节日
+     -> kalau memang perlu digabung: python merge_tema.py ext_lantern_festival_light_culture ext_qingming_festival_remembrance
+
+[167] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Mata Uang" (ext_currency, 25 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 58%
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan ext_currency
+
+[168] "Pertanian & Pangan" (pertanian_pangan, 22 kata)  <->  "Festival Qingming & Peringatan" (ext_qingming_festival_remembrance, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 58%
+     -> kalau memang perlu digabung: python merge_tema.py pertanian_pangan ext_qingming_festival_remembrance
+
+[169] "Gerakan Tangan" (ext_hand_movements, 17 kata)  <->  "Kata Tanya" (ext_interrogative_pronoun, 12 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 58%
+     -> kalau memang perlu digabung: python merge_tema.py ext_hand_movements ext_interrogative_pronoun
+
+[170] "Cuaca & Musim" (cuaca, 33 kata)  <->  "Suasana Awal Musim Panas" (ext_early_summer_vibes, 17 kata)
+     overlap kata: 4% (2 kata sama)   kemiripan nama: 54%
+     contoh kata sama: 夏天、天气
+     -> kalau memang perlu digabung: python merge_tema.py cuaca ext_early_summer_vibes
+
+[171] "Hewan & Binatang" (hewan, 39 kata)  <->  "Bentuk & Bangun" (ext_shapes, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 58%
+     -> kalau memang perlu digabung: python merge_tema.py hewan ext_shapes
+
+[172] "Angka & Bilangan" (angka, 33 kata)  <->  "Rumah & Ruangan" (rumah_ruangan, 40 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 58%
+     -> kalau memang perlu digabung: python merge_tema.py angka rumah_ruangan
+
+[173] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Angka & Bilangan" (ext_numeral, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 58%
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan ext_numeral
+
+[174] "Seni & Budaya" (seni_budaya, 37 kata)  <->  "Musim Semi & Bunga" (ext_spring_and_flowers, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 58%
+     -> kalau memang perlu digabung: python merge_tema.py seni_budaya ext_spring_and_flowers
+
+[175] "Perasaan & Emosi" (perasaan_emosi, 53 kata)  <->  "Peralatan Makan" (ext_tableware, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 58%
+     -> kalau memang perlu digabung: python merge_tema.py perasaan_emosi ext_tableware
+
+[176] "Makanan Cepat Saji" (ext_fast_food, 17 kata)  <->  "Makanan Pokok" (ext_staple_food, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 58%
+     -> kalau memang perlu digabung: python merge_tema.py ext_fast_food ext_staple_food
+
+[177] "Festival & Perayaan" (ext_festival, 8 kata)  <->  "Festival & Bunga Musim Semi" (ext_spring_festivals_flowers, 10 kata)
+     overlap kata: 6% (1 kata sama)   kemiripan nama: 52%
+     contoh kata sama: 节日
+     -> kalau memang perlu digabung: python merge_tema.py ext_festival ext_spring_festivals_flowers
+
+[178] "Pekerjaan & Profesi" (pekerjaan, 52 kata)  <->  "Perjalanan & Wisata" (perjalanan_wisata, 139 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 58%
+     -> kalau memang perlu digabung: python merge_tema.py pekerjaan perjalanan_wisata
+
+[179] "Bisnis & Perdagangan" (bisnis_perdagangan, 31 kata)  <->  "Pertanian & Pangan" (pertanian_pangan, 22 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 58%
+     -> kalau memang perlu digabung: python merge_tema.py bisnis_perdagangan pertanian_pangan
+
+[180] "Agama & Kepercayaan" (agama_kepercayaan, 27 kata)  <->  "Kencan & Percintaan" (ext_dating, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 58%
+     -> kalau memang perlu digabung: python merge_tema.py agama_kepercayaan ext_dating
+
+[181] "Kencan & Percintaan" (ext_dating, 16 kata)  <->  "Festival & Perayaan" (ext_festival, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 58%
+     -> kalau memang perlu digabung: python merge_tema.py ext_dating ext_festival
+
+[182] "Kencan & Percintaan" (ext_dating, 16 kata)  <->  "Agama & Kepercayaan" (ext_religion, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 58%
+     -> kalau memang perlu digabung: python merge_tema.py ext_dating ext_religion
+
+[183] "Makanan Hangat Musim Dingin" (ext_comfort_food_in_winter, 6 kata)  <->  "Makanan Cepat Saji" (ext_fast_food, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 58%
+     -> kalau memang perlu digabung: python merge_tema.py ext_comfort_food_in_winter ext_fast_food
+
+[184] "Kesehatan & Medis" (kesehatan, 46 kata)  <->  "Pekerjaan & Profesi" (pekerjaan, 52 kata)
+     overlap kata: 2% (2 kata sama)   kemiripan nama: 56%
+     contoh kata sama: 医生、护士
+     -> kalau memang perlu digabung: python merge_tema.py kesehatan pekerjaan
+
+[185] "Seni & Budaya" (seni_budaya, 37 kata)  <->  "Hobi & Hiburan" (hobi_hiburan, 21 kata)
+     overlap kata: 5% (3 kata sama)   kemiripan nama: 52%
+     contoh kata sama: 书法、电影、绘画
+     -> kalau memang perlu digabung: python merge_tema.py seni_budaya hobi_hiburan
+
+[186] "Kesehatan & Medis" (kesehatan, 46 kata)  <->  "Kebersihan & Bersih-bersih" (ext_cleaning, 29 kata)
+     overlap kata: 1% (1 kata sama)   kemiripan nama: 56%
+     contoh kata sama: 检查
+     -> kalau memang perlu digabung: python merge_tema.py kesehatan ext_cleaning
+
+[187] "Hewan & Binatang" (hewan, 39 kata)  <->  "Perjalanan & Wisata" (perjalanan_wisata, 139 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 57%
+     -> kalau memang perlu digabung: python merge_tema.py hewan perjalanan_wisata
+
+[188] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Makanan Cepat Saji" (ext_fast_food, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 57%
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman ext_fast_food
+
+[189] "Negara & Kebangsaan" (negara_budaya, 16 kata)  <->  "Emosi & Perasaan" (ext_emotion, 36 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 57%
+     -> kalau memang perlu digabung: python merge_tema.py negara_budaya ext_emotion
+
+[190] "Pertanian & Pangan" (pertanian_pangan, 22 kata)  <->  "Buruh & Kerajinan Tangan" (ext_labor_and_craftsmanship, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 57%
+     -> kalau memang perlu digabung: python merge_tema.py pertanian_pangan ext_labor_and_craftsmanship
+
+[191] "Pertanian & Pangan" (pertanian_pangan, 22 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 57%
+     -> kalau memang perlu digabung: python merge_tema.py pertanian_pangan ext_women_and_family
+
+[192] "Kencan & Percintaan" (ext_dating, 16 kata)  <->  "Emosi & Perasaan" (ext_emotion, 36 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 57%
+     -> kalau memang perlu digabung: python merge_tema.py ext_dating ext_emotion
+
+[193] "Kencan & Percintaan" (ext_dating, 16 kata)  <->  "Festival Qingming & Peringatan" (ext_qingming_festival_remembrance, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 57%
+     -> kalau memang perlu digabung: python merge_tema.py ext_dating ext_qingming_festival_remembrance
+
+[194] "Kencan & Percintaan" (ext_dating, 16 kata)  <->  "Kendaraan" (ext_vehicle, 11 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 57%
+     -> kalau memang perlu digabung: python merge_tema.py ext_dating ext_vehicle
+
+[195] "Suasana Awal Musim Panas" (ext_early_summer_vibes, 17 kata)  <->  "Perlengkapan Liburan Musim Panas" (ext_summer_holiday_essentials, 26 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 57%
+     -> kalau memang perlu digabung: python merge_tema.py ext_early_summer_vibes ext_summer_holiday_essentials
+
+[196] "Perabot Rumah" (ext_furniture, 9 kata)  <->  "Peralatan Makan" (ext_tableware, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 57%
+     -> kalau memang perlu digabung: python merge_tema.py ext_furniture ext_tableware
+
+[197] "Liburan Musim Panas Dimulai" (ext_hsk_summer_vacation_begins, 15 kata)  <->  "Kehidupan Musim Dingin" (ext_winter_life, 19 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 57%
+     -> kalau memang perlu digabung: python merge_tema.py ext_hsk_summer_vacation_begins ext_winter_life
+
+[198] "Cedera & Luka" (ext_injure, 10 kata)  <->  "Tempat & Lokasi" (ext_places, 43 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 57%
+     -> kalau memang perlu digabung: python merge_tema.py ext_injure ext_places
+
+[199] "Bahasa" (ext_language, 7 kata)  <->  "Olahraga" (ext_sports, 12 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 57%
+     -> kalau memang perlu digabung: python merge_tema.py ext_language ext_sports
+
+[200] "Genre Musik" (ext_music_type, 7 kata)  <->  "Alat Musik" (ext_musical_instrument, 15 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 57%
+     -> kalau memang perlu digabung: python merge_tema.py ext_music_type ext_musical_instrument
+
+[201] "Festival Musim Semi & Reuni" (ext_spring_festival_reunion, 20 kata)  <->  "Aktivitas Musim Dingin" (ext_winter_activities, 12 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 57%
+     -> kalau memang perlu digabung: python merge_tema.py ext_spring_festival_reunion ext_winter_activities
+
+[202] "Festival & Perayaan" (ext_festival, 8 kata)  <->  "Festival Musim Semi & Reuni" (ext_spring_festival_reunion, 20 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 57%
+     -> kalau memang perlu digabung: python merge_tema.py ext_festival ext_spring_festival_reunion
+
+[203] "Hari, Bulan & Tanggal" (hari_tanggal, 29 kata)  <->  "Pertanian & Pangan" (pertanian_pangan, 22 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py hari_tanggal pertanian_pangan
+
+[204] "Olahraga & Kebugaran" (olahraga, 35 kata)  <->  "Negara & Kebangsaan" (negara_budaya, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py olahraga negara_budaya
+
+[205] "Olahraga & Kebugaran" (olahraga, 35 kata)  <->  "Agama & Kepercayaan" (agama_kepercayaan, 27 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py olahraga agama_kepercayaan
+
+[206] "Olahraga & Kebugaran" (olahraga, 35 kata)  <->  "Agama & Kepercayaan" (ext_religion, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py olahraga ext_religion
+
+[207] "Keuangan & Perbankan" (keuangan, 30 kata)  <->  "Agama & Kepercayaan" (agama_kepercayaan, 27 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py keuangan agama_kepercayaan
+
+[208] "Keuangan & Perbankan" (keuangan, 30 kata)  <->  "Agama & Kepercayaan" (ext_religion, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py keuangan ext_religion
+
+[209] "Agama & Kepercayaan" (agama_kepercayaan, 27 kata)  <->  "Kata Percakapan Umum" (ext_commonly_used_spoken_words, 13 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py agama_kepercayaan ext_commonly_used_spoken_words
+
+[210] "Kata Percakapan Umum" (ext_commonly_used_spoken_words, 13 kata)  <->  "Agama & Kepercayaan" (ext_religion, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py ext_commonly_used_spoken_words ext_religion
+
+[211] "Hari Ayah" (ext_father_s_day, 16 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 33% (8 kata sama)   kemiripan nama: 23%
+     contoh kata sama: 关心、家人、家庭、幸福、支持、温暖、照顾、爱
+     -> kalau memang perlu digabung: python merge_tema.py ext_father_s_day ext_women_and_family
+
+[212] "Angka & Bilangan" (angka, 33 kata)  <->  "Pakaian & Busana" (ext_clothing, 18 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py angka ext_clothing
+
+[213] "Pekerjaan & Profesi" (pekerjaan, 52 kata)  <->  "Arah & Posisi" (arah_lokasi, 28 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py pekerjaan arah_lokasi
+
+[214] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Alam & Lingkungan" (alam_lingkungan, 44 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan alam_lingkungan
+
+[215] "Perasaan & Emosi" (perasaan_emosi, 53 kata)  <->  "Pakaian & Busana" (ext_clothing, 18 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py perasaan_emosi ext_clothing
+
+[216] "Pertanian & Pangan" (pertanian_pangan, 22 kata)  <->  "Sapaan & Salam" (ext_greetings, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py pertanian_pangan ext_greetings
+
+[217] "Bepergian & Wisata" (ext_go_travelling, 9 kata)  <->  "Sapaan & Salam" (ext_greetings, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py ext_go_travelling ext_greetings
+
+[218] "Wawancara Kerja" (ext_job_interview, 27 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py ext_job_interview ext_women_and_family
+
+[219] "Mata Uang" (ext_currency, 25 kata)  <->  "Kata Ganti Orang" (ext_personal_pronouns, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py ext_currency ext_personal_pronouns
+
+[220] "Alat Musik" (ext_musical_instrument, 15 kata)  <->  "Peralatan Makan" (ext_tableware, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py ext_musical_instrument ext_tableware
+
+[221] "Hari, Bulan & Tanggal" (hari_tanggal, 29 kata)  <->  "Hari Bumi & Lingkungan" (ext_earth_day_environment, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py hari_tanggal ext_earth_day_environment
+
+[222] "Komunikasi & Media" (komunikasi, 37 kata)  <->  "Kehidupan Kampus & Pemuda" (ext_youth_and_campus_life, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py komunikasi ext_youth_and_campus_life
+
+[223] "Pertanian & Pangan" (pertanian_pangan, 22 kata)  <->  "Cuaca Dingin & Kehangatan" (ext_cold_weather_staying_warm, 14 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py pertanian_pangan ext_cold_weather_staying_warm
+
+[224] "Selamat Tinggal Tahun Lama" (ext_farewell_to_the_old_welcome_the_new, 23 kata)  <->  "Nama Negara Utama" (ext_names_of_the_main_countries, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py ext_farewell_to_the_old_welcome_the_new ext_names_of_the_main_countries
+
+[225] "Wanita & Keluarga" (ext_women_and_family, 16 kata)  <->  "Sanak Saudara" (ext_relatives, 26 kata)
+     overlap kata: 2% (1 kata sama)   kemiripan nama: 53%
+     contoh kata sama: 妈妈
+     -> kalau memang perlu digabung: python merge_tema.py ext_women_and_family ext_relatives
+
+[226] "Festival Musim Semi & Reuni" (ext_spring_festival_reunion, 20 kata)  <->  "Kehidupan Musim Dingin" (ext_winter_life, 19 kata)
+     overlap kata: 3% (1 kata sama)   kemiripan nama: 53%
+     contoh kata sama: 一起
+     -> kalau memang perlu digabung: python merge_tema.py ext_spring_festival_reunion ext_winter_life
+
+[227] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Perjalanan & Wisata" (perjalanan_wisata, 139 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman perjalanan_wisata
+
+[228] "Olahraga & Kebugaran" (olahraga, 35 kata)  <->  "Pakaian & Busana" (ext_clothing, 18 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py olahraga ext_clothing
+
+[229] "Olahraga & Kebugaran" (olahraga, 35 kata)  <->  "Angka & Bilangan" (ext_numeral, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py olahraga ext_numeral
+
+[230] "Belanja & Perdagangan" (belanja, 21 kata)  <->  "Rumah & Ruangan" (rumah_ruangan, 40 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py belanja rumah_ruangan
+
+[231] "Belanja & Perdagangan" (belanja, 21 kata)  <->  "Bentuk & Bangun" (ext_shapes, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py belanja ext_shapes
+
+[232] "Komunikasi & Media" (komunikasi, 37 kata)  <->  "Frekuensi Kejadian" (ext_frequency_of_occurrence, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py komunikasi ext_frequency_of_occurrence
+
+[233] "Hobi & Hiburan" (hobi_hiburan, 21 kata)  <->  "Hari Bumi & Lingkungan" (ext_earth_day_environment, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py hobi_hiburan ext_earth_day_environment
+
+[234] "Perasaan & Emosi" (perasaan_emosi, 53 kata)  <->  "Pemerintahan & Hukum" (pemerintahan_hukum, 36 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py perasaan_emosi pemerintahan_hukum
+
+[235] "Negara & Kebangsaan" (negara_budaya, 16 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py negara_budaya ext_women_and_family
+
+[236] "Bisnis & Perdagangan" (bisnis_perdagangan, 31 kata)  <->  "Emosi & Perasaan" (ext_emotion, 36 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 56%
+     -> kalau memang perlu digabung: python merge_tema.py bisnis_perdagangan ext_emotion
+
+[237] "Hari Ayah" (ext_father_s_day, 16 kata)  <->  "Hari Valentine" (ext_valentine_s_day, 15 kata)
+     overlap kata: 3% (1 kata sama)   kemiripan nama: 52%
+     contoh kata sama: 礼物
+     -> kalau memang perlu digabung: python merge_tema.py ext_father_s_day ext_valentine_s_day
+
+[238] "Pekerjaan & Profesi" (pekerjaan, 52 kata)  <->  "Pertanian & Pangan" (pertanian_pangan, 22 kata)
+     overlap kata: 1% (1 kata sama)   kemiripan nama: 54%
+     contoh kata sama: 农民
+     -> kalau memang perlu digabung: python merge_tema.py pekerjaan pertanian_pangan
+
+[239] "Perlengkapan Liburan Musim Panas" (ext_summer_holiday_essentials, 26 kata)  <->  "Musim Panas" (ext_summer, 23 kata)
+     overlap kata: 4% (2 kata sama)   kemiripan nama: 51%
+     contoh kata sama: 旅游、暑假
+     -> kalau memang perlu digabung: python merge_tema.py ext_summer_holiday_essentials ext_summer
+
+[240] "Festival Lampion & Budaya Cahaya" (ext_lantern_festival_light_culture, 13 kata)  <->  "Festival & Bunga Musim Semi" (ext_spring_festivals_flowers, 10 kata)
+     overlap kata: 5% (1 kata sama)   kemiripan nama: 51%
+     contoh kata sama: 节日
+     -> kalau memang perlu digabung: python merge_tema.py ext_lantern_festival_light_culture ext_spring_festivals_flowers
+
+[241] "Kehidupan Musim Dingin" (ext_winter_life, 19 kata)  <->  "Kehidupan Kampus & Pemuda" (ext_youth_and_campus_life, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py ext_winter_life ext_youth_and_campus_life
+
+[242] "Musim Panas" (ext_summer, 23 kata)  <->  "Cuaca & Musim" (ext_weather_and_seasons, 19 kata)
+     overlap kata: 14% (5 kata sama)   kemiripan nama: 42%
+     contoh kata sama: 冷、夏天、天气、季节、热
+     -> kalau memang perlu digabung: python merge_tema.py ext_summer ext_weather_and_seasons
+
+[243] "Hewan & Binatang" (hewan, 39 kata)  <->  "Seni & Budaya" (seni_budaya, 37 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py hewan seni_budaya
+
+[244] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Gerakan Tangan" (ext_hand_movements, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan ext_hand_movements
+
+[245] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Nama Mata Uang" (ext_names_of_the_currency, 11 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan ext_names_of_the_currency
+
+[246] "Cuaca & Musim" (cuaca, 33 kata)  <->  "Perasaan & Emosi" (perasaan_emosi, 53 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py cuaca perasaan_emosi
+
+[247] "Seni & Budaya" (seni_budaya, 37 kata)  <->  "Pakaian & Busana" (ext_clothing, 18 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py seni_budaya ext_clothing
+
+[248] "Perasaan & Emosi" (perasaan_emosi, 53 kata)  <->  "Arah & Posisi" (arah_lokasi, 28 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py perasaan_emosi arah_lokasi
+
+[249] "Perasaan & Emosi" (perasaan_emosi, 53 kata)  <->  "Bulan & Musim" (ext_month_and_season, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py perasaan_emosi ext_month_and_season
+
+[250] "Perasaan & Emosi" (perasaan_emosi, 53 kata)  <->  "Cuaca & Musim" (ext_weather_and_seasons, 19 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py perasaan_emosi ext_weather_and_seasons
+
+[251] "Ulang Tahun" (ext_birthday, 13 kata)  <->  "Persiapan Tahun Baru" (ext_preparing_for_the_new_year, 17 kata)
+     overlap kata: 3% (1 kata sama)   kemiripan nama: 52%
+     contoh kata sama: 礼物
+     -> kalau memang perlu digabung: python merge_tema.py ext_birthday ext_preparing_for_the_new_year
+
+[252] "Belanja & Perdagangan" (belanja, 21 kata)  <->  "Agama & Kepercayaan" (agama_kepercayaan, 27 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py belanja agama_kepercayaan
+
+[253] "Belanja & Perdagangan" (belanja, 21 kata)  <->  "Festival & Perayaan" (ext_festival, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py belanja ext_festival
+
+[254] "Belanja & Perdagangan" (belanja, 21 kata)  <->  "Agama & Kepercayaan" (ext_religion, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py belanja ext_religion
+
+[255] "Pemerintahan & Hukum" (pemerintahan_hukum, 36 kata)  <->  "Persiapan Tahun Baru" (ext_preparing_for_the_new_year, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py pemerintahan_hukum ext_preparing_for_the_new_year
+
+[256] "Kata Ganti Penunjuk" (ext_demonstrative_pronoun, 12 kata)  <->  "Arah & Petunjuk Jalan" (ext_directions, 13 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py ext_demonstrative_pronoun ext_directions
+
+[257] "Hari Bumi & Lingkungan" (ext_earth_day_environment, 9 kata)  <->  "Musim Semi & Bunga" (ext_spring_and_flowers, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py ext_earth_day_environment ext_spring_and_flowers
+
+[258] "Hewan & Binatang" (hewan, 39 kata)  <->  "Hobi & Waktu Luang" (ext_hobby, 21 kata)
+     overlap kata: 2% (1 kata sama)   kemiripan nama: 53%
+     contoh kata sama: 动物
+     -> kalau memang perlu digabung: python merge_tema.py hewan ext_hobby
+
+[259] "Hewan & Binatang" (hewan, 39 kata)  <->  "Makanan & Minuman" (makanan_minuman, 65 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py hewan makanan_minuman
+
+[260] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Angka & Bilangan" (angka, 33 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman angka
+
+[261] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Perasaan & Emosi" (perasaan_emosi, 53 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman perasaan_emosi
+
+[262] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Angka & Bilangan" (ext_numeral, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman ext_numeral
+
+[263] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Musim Semi & Bunga" (ext_spring_and_flowers, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan ext_spring_and_flowers
+
+[264] "Teknologi & Sains" (teknologi, 33 kata)  <->  "Emosi & Perasaan" (ext_emotion, 36 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py teknologi ext_emotion
+
+[265] "Seni & Budaya" (seni_budaya, 37 kata)  <->  "Bisnis & Perdagangan" (bisnis_perdagangan, 31 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py seni_budaya bisnis_perdagangan
+
+[266] "Hobi & Hiburan" (hobi_hiburan, 21 kata)  <->  "Hari Ibu" (ext_mother_s_day, 13 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py hobi_hiburan ext_mother_s_day
+
+[267] "Negara & Kebangsaan" (negara_budaya, 16 kata)  <->  "Gerakan Tangan" (ext_hand_movements, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py negara_budaya ext_hand_movements
+
+[268] "Pemerintahan & Hukum" (pemerintahan_hukum, 36 kata)  <->  "Cedera & Luka" (ext_injure, 10 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py pemerintahan_hukum ext_injure
+
+[269] "Bisnis & Perdagangan" (bisnis_perdagangan, 31 kata)  <->  "Buruh & Kerajinan Tangan" (ext_labor_and_craftsmanship, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py bisnis_perdagangan ext_labor_and_craftsmanship
+
+[270] "Sifat & Deskripsi" (sifat_deskripsi, 75 kata)  <->  "Sakit & Penyakit" (ext_sick, 10 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py sifat_deskripsi ext_sick
+
+[271] "Pertanian & Pangan" (pertanian_pangan, 22 kata)  <->  "Bentuk & Bangun" (ext_shapes, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py pertanian_pangan ext_shapes
+
+[272] "Tekstil & Mode" (tekstil_fashion, 21 kata)  <->  "Festival & Perayaan" (ext_festival, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py tekstil_fashion ext_festival
+
+[273] "Pendidikan Tinggi" (pendidikan_tinggi, 27 kata)  <->  "Penampilan Fisik" (ext_physical_appearances, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py pendidikan_tinggi ext_physical_appearances
+
+[274] "Warna (Ext)" (ext_colors, 12 kata)  <->  "Hewan (HSK)" (ext_animals, 22 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py ext_colors ext_animals
+
+[275] "Kantor" (ext_office, 13 kata)  <->  "Kata Ganti Orang" (ext_personal_pronouns, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 55%
+     -> kalau memang perlu digabung: python merge_tema.py ext_office ext_personal_pronouns
+
+[276] "Piknik & Jalan-jalan Musim Semi" (ext_spring_outings, 15 kata)  <->  "Awal Musim Semi (立春)" (ext_the_beginning_of_spring, 17 kata)
+     overlap kata: 3% (1 kata sama)   kemiripan nama: 51%
+     contoh kata sama: 阳光
+     -> kalau memang perlu digabung: python merge_tema.py ext_spring_outings ext_the_beginning_of_spring
+
+[277] "Hewan & Binatang" (hewan, 39 kata)  <->  "Hari, Bulan & Tanggal" (hari_tanggal, 29 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py hewan hari_tanggal
+
+[278] "Hewan & Binatang" (hewan, 39 kata)  <->  "Belanja & Perdagangan" (belanja, 21 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py hewan belanja
+
+[279] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Keuangan & Perbankan" (keuangan, 30 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman keuangan
+
+[280] "Pakaian & Aksesori" (pakaian, 35 kata)  <->  "Pekerjaan & Profesi" (pekerjaan, 52 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py pakaian pekerjaan
+
+[281] "Hari, Bulan & Tanggal" (hari_tanggal, 29 kata)  <->  "Pakaian & Busana" (ext_clothing, 18 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py hari_tanggal ext_clothing
+
+[282] "Olahraga & Kebugaran" (olahraga, 35 kata)  <->  "Alam & Lingkungan" (alam_lingkungan, 44 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py olahraga alam_lingkungan
+
+[283] "Olahraga & Kebugaran" (olahraga, 35 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py olahraga ext_women_and_family
+
+[284] "Belanja & Perdagangan" (belanja, 21 kata)  <->  "Emosi & Perasaan" (ext_emotion, 36 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py belanja ext_emotion
+
+[285] "Negara & Kebangsaan" (negara_budaya, 16 kata)  <->  "Pertanian & Pangan" (pertanian_pangan, 22 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py negara_budaya pertanian_pangan
+
+[286] "Pertanian & Pangan" (pertanian_pangan, 22 kata)  <->  "Kencan & Percintaan" (ext_dating, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py pertanian_pangan ext_dating
+
+[287] "Ulang Tahun" (ext_birthday, 13 kata)  <->  "Selamat Tinggal Tahun Lama" (ext_farewell_to_the_old_welcome_the_new, 23 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py ext_birthday ext_farewell_to_the_old_welcome_the_new
+
+[288] "Kota-kota di Tiongkok" (ext_china_cities, 16 kata)  <->  "Kata Ganti Orang" (ext_personal_pronouns, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py ext_china_cities ext_personal_pronouns
+
+[289] "Suasana Awal Musim Panas" (ext_early_summer_vibes, 17 kata)  <->  "Bulan & Musim" (ext_month_and_season, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py ext_early_summer_vibes ext_month_and_season
+
+[290] "Tubuh Manusia" (tubuh, 50 kata)  <->  "Bulan & Musim" (ext_month_and_season, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py tubuh ext_month_and_season
+
+[291] "Cuaca & Musim" (cuaca, 33 kata)  <->  "Arah & Posisi" (arah_lokasi, 28 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py cuaca arah_lokasi
+
+[292] "Seni & Budaya" (seni_budaya, 37 kata)  <->  "Sanak Saudara" (ext_relatives, 26 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py seni_budaya ext_relatives
+
+[293] "Arah & Posisi" (arah_lokasi, 28 kata)  <->  "Cuaca & Musim" (ext_weather_and_seasons, 19 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py arah_lokasi ext_weather_and_seasons
+
+[294] "Mata Uang" (ext_currency, 25 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py ext_currency ext_women_and_family
+
+[295] "Alat Musik" (ext_musical_instrument, 15 kata)  <->  "Penampilan Fisik" (ext_physical_appearances, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py ext_musical_instrument ext_physical_appearances
+
+[296] "Paskah & Tradisi Musim Semi" (ext_easter_spring_traditions, 9 kata)  <->  "Cuaca & Musim" (ext_weather_and_seasons, 19 kata)
+     overlap kata: 4% (1 kata sama)   kemiripan nama: 50%
+     contoh kata sama: 春天
+     -> kalau memang perlu digabung: python merge_tema.py ext_easter_spring_traditions ext_weather_and_seasons
+
+[297] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Suasana Awal Musim Panas" (ext_early_summer_vibes, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman ext_early_summer_vibes
+
+[298] "Angka & Bilangan" (angka, 33 kata)  <->  "Cuaca Dingin & Kehangatan" (ext_cold_weather_staying_warm, 14 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py angka ext_cold_weather_staying_warm
+
+[299] "Olahraga & Kebugaran" (olahraga, 35 kata)  <->  "Belanja & Perdagangan" (belanja, 21 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py olahraga belanja
+
+[300] "Cuaca Dingin & Kehangatan" (ext_cold_weather_staying_warm, 14 kata)  <->  "Angka & Bilangan" (ext_numeral, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 54%
+     -> kalau memang perlu digabung: python merge_tema.py ext_cold_weather_staying_warm ext_numeral
+
+[301] "Komunikasi & Media" (komunikasi, 37 kata)  <->  "Aplikasi Mandarin" (ext_chinese_apps, 13 kata)
+     overlap kata: 2% (1 kata sama)   kemiripan nama: 51%
+     contoh kata sama: 微信
+     -> kalau memang perlu digabung: python merge_tema.py komunikasi ext_chinese_apps
+
+[302] "Kencan & Percintaan" (ext_dating, 16 kata)  <->  "Hari Valentine" (ext_valentine_s_day, 15 kata)
+     overlap kata: 29% (7 kata sama)   kemiripan nama: 24%
+     contoh kata sama: 单身、女朋友、拥抱、爱情、男朋友、约会、表白
+     -> kalau memang perlu digabung: python merge_tema.py ext_dating ext_valentine_s_day
+
+[303] "Hewan & Binatang" (hewan, 39 kata)  <->  "Gerakan Tangan" (ext_hand_movements, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py hewan ext_hand_movements
+
+[304] "Sayuran" (sayuran, 16 kata)  <->  "Restoran" (ext_restaurant, 10 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py sayuran ext_restaurant
+
+[305] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Cuaca & Musim" (cuaca, 33 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman cuaca
+
+[306] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Bulan & Musim" (ext_month_and_season, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman ext_month_and_season
+
+[307] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Cuaca & Musim" (ext_weather_and_seasons, 19 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman ext_weather_and_seasons
+
+[308] "Angka & Bilangan" (angka, 33 kata)  <->  "Gerakan Tangan" (ext_hand_movements, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py angka ext_hand_movements
+
+[309] "Olahraga & Kebugaran" (olahraga, 35 kata)  <->  "Cuaca Dingin & Kehangatan" (ext_cold_weather_staying_warm, 14 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py olahraga ext_cold_weather_staying_warm
+
+[310] "Belanja & Perdagangan" (belanja, 21 kata)  <->  "Buruh & Kerajinan Tangan" (ext_labor_and_craftsmanship, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py belanja ext_labor_and_craftsmanship
+
+[311] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Bentuk & Bangun" (ext_shapes, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan ext_shapes
+
+[312] "Seni & Budaya" (seni_budaya, 37 kata)  <->  "Musim Semi & Alam" (ext_spring_nature, 10 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py seni_budaya ext_spring_nature
+
+[313] "Seni & Budaya" (seni_budaya, 37 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py seni_budaya ext_women_and_family
+
+[314] "Hobi & Hiburan" (hobi_hiburan, 21 kata)  <->  "Pakaian & Busana" (ext_clothing, 18 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py hobi_hiburan ext_clothing
+
+[315] "Hobi & Hiburan" (hobi_hiburan, 21 kata)  <->  "Emosi & Perasaan" (ext_emotion, 36 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py hobi_hiburan ext_emotion
+
+[316] "Perasaan & Emosi" (perasaan_emosi, 53 kata)  <->  "Sapaan & Salam" (ext_greetings, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py perasaan_emosi ext_greetings
+
+[317] "Keuangan & Perbankan" (keuangan, 30 kata)  <->  "Kehidupan Kampus & Pemuda" (ext_youth_and_campus_life, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py keuangan ext_youth_and_campus_life
+
+[318] "Bisnis & Perdagangan" (bisnis_perdagangan, 31 kata)  <->  "Cuaca Dingin & Kehangatan" (ext_cold_weather_staying_warm, 14 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py bisnis_perdagangan ext_cold_weather_staying_warm
+
+[319] "Tekstil & Mode" (tekstil_fashion, 21 kata)  <->  "Otomotif & Mobil" (ext_car_related, 19 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py tekstil_fashion ext_car_related
+
+[320] "Membeli Buah" (ext_buy_fruit, 21 kata)  <->  "Musim Semi & Bunga" (ext_spring_and_flowers, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py ext_buy_fruit ext_spring_and_flowers
+
+[321] "Sekolah" (ext_school, 9 kata)  <->  "Olahraga" (ext_sports, 12 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py ext_school ext_sports
+
+[322] "Perabot Rumah" (ext_furniture, 9 kata)  <->  "Perhotelan" (ext_hotel_related, 80 kata)
+     overlap kata: 1% (1 kata sama)   kemiripan nama: 52%
+     contoh kata sama: 沙发
+     -> kalau memang perlu digabung: python merge_tema.py ext_furniture ext_hotel_related
+
+[323] "Otomotif & Mobil" (ext_car_related, 19 kata)  <->  "Tempat & Lokasi" (ext_places, 43 kata)
+     overlap kata: 2% (1 kata sama)   kemiripan nama: 52%
+     contoh kata sama: 加油站
+     -> kalau memang perlu digabung: python merge_tema.py ext_car_related ext_places
+
+[324] "Pakaian & Aksesori" (pakaian, 35 kata)  <->  "Kebersihan & Bersih-bersih" (ext_cleaning, 29 kata)
+     overlap kata: 3% (2 kata sama)   kemiripan nama: 50%
+     contoh kata sama: 手套、衣服
+     -> kalau memang perlu digabung: python merge_tema.py pakaian ext_cleaning
+
+[325] "Negara & Kebangsaan" (negara_budaya, 16 kata)  <->  "Nama Negara Utama" (ext_names_of_the_main_countries, 17 kata)
+     overlap kata: 3% (1 kata sama)   kemiripan nama: 50%
+     contoh kata sama: 中国
+     -> kalau memang perlu digabung: python merge_tema.py negara_budaya ext_names_of_the_main_countries
+
+[326] "Keuangan & Perbankan" (keuangan, 30 kata)  <->  "Kelulusan & Kehidupan Sekolah" (ext_graduation_school_life, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py keuangan ext_graduation_school_life
+
+[327] "Liburan Musim Panas" (ext_summer_vacation_begins, 15 kata)  <->  "Cuaca & Musim" (ext_weather_and_seasons, 19 kata)
+     overlap kata: 3% (1 kata sama)   kemiripan nama: 50%
+     contoh kata sama: 夏天
+     -> kalau memang perlu digabung: python merge_tema.py ext_summer_vacation_begins ext_weather_and_seasons
+
+[328] "Alam & Lingkungan" (alam_lingkungan, 44 kata)  <->  "Pertanian & Pangan" (pertanian_pangan, 22 kata)
+     overlap kata: 2% (1 kata sama)   kemiripan nama: 51%
+     contoh kata sama: 土地
+     -> kalau memang perlu digabung: python merge_tema.py alam_lingkungan pertanian_pangan
+
+[329] "Hewan & Binatang" (hewan, 39 kata)  <->  "Pertanian & Pangan" (pertanian_pangan, 22 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py hewan pertanian_pangan
+
+[330] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Alam & Lingkungan" (alam_lingkungan, 44 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman alam_lingkungan
+
+[331] "Pakaian & Aksesori" (pakaian, 35 kata)  <->  "Karier & Profesi" (ext_careers, 51 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py pakaian ext_careers
+
+[332] "Pakaian & Aksesori" (pakaian, 35 kata)  <->  "Sakit & Penyakit" (ext_sick, 10 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py pakaian ext_sick
+
+[333] "Kesehatan & Medis" (kesehatan, 46 kata)  <->  "Sifat & Deskripsi" (sifat_deskripsi, 75 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py kesehatan sifat_deskripsi
+
+[334] "Pendidikan & Sekolah" (pendidikan, 46 kata)  <->  "Sapaan & Salam" (ext_greetings, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py pendidikan ext_greetings
+
+[335] "Olahraga & Kebugaran" (olahraga, 35 kata)  <->  "Hobi & Hiburan" (hobi_hiburan, 21 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py olahraga hobi_hiburan
+
+[336] "Alam & Lingkungan" (alam_lingkungan, 44 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py alam_lingkungan ext_women_and_family
+
+[337] "Perasaan & Emosi" (perasaan_emosi, 53 kata)  <->  "Pertanian & Pangan" (pertanian_pangan, 22 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py perasaan_emosi pertanian_pangan
+
+[338] "Perasaan & Emosi" (perasaan_emosi, 53 kata)  <->  "Bepergian & Wisata" (ext_go_travelling, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py perasaan_emosi ext_go_travelling
+
+[339] "Negara & Kebangsaan" (negara_budaya, 16 kata)  <->  "Bentuk & Bangun" (ext_shapes, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py negara_budaya ext_shapes
+
+[340] "Kata Percakapan Umum" (ext_commonly_used_spoken_words, 13 kata)  <->  "Sapaan & Salam" (ext_greetings, 7 kata)
+     overlap kata: 18% (3 kata sama)   kemiripan nama: 35%
+     contoh kata sama: 不好意思、不客气、没关系
+     -> kalau memang perlu digabung: python merge_tema.py ext_commonly_used_spoken_words ext_greetings
+
+[341] "Pakaian & Busana" (ext_clothing, 18 kata)  <->  "Makanan Cepat Saji" (ext_fast_food, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py ext_clothing ext_fast_food
+
+[342] "Tubuh Manusia" (tubuh, 50 kata)  <->  "Bahasa" (ext_language, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py tubuh ext_language
+
+[343] "Pakaian & Aksesori" (pakaian, 35 kata)  <->  "Pendidikan & Sekolah" (pendidikan, 46 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py pakaian pendidikan
+
+[344] "Pendidikan & Sekolah" (pendidikan, 46 kata)  <->  "Pertanian & Pangan" (pertanian_pangan, 22 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py pendidikan pertanian_pangan
+
+[345] "Pendidikan & Sekolah" (pendidikan, 46 kata)  <->  "Bepergian & Wisata" (ext_go_travelling, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py pendidikan ext_go_travelling
+
+[346] "Pekerjaan & Profesi" (pekerjaan, 52 kata)  <->  "Kencan & Percintaan" (ext_dating, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py pekerjaan ext_dating
+
+[347] "Belanja & Perdagangan" (belanja, 21 kata)  <->  "Alam & Lingkungan" (alam_lingkungan, 44 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py belanja alam_lingkungan
+
+[348] "Belanja & Perdagangan" (belanja, 21 kata)  <->  "Menanam Pohon & Kesadaran Lingkungan" (ext_tree_planting_environmental_awareness, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py belanja ext_tree_planting_environmental_awareness
+
+[349] "Belanja & Perdagangan" (belanja, 21 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py belanja ext_women_and_family
+
+[350] "Perjalanan & Wisata" (perjalanan_wisata, 139 kata)  <->  "Kencan & Percintaan" (ext_dating, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py perjalanan_wisata ext_dating
+
+[351] "Negara & Kebangsaan" (negara_budaya, 16 kata)  <->  "Kencan & Percintaan" (ext_dating, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py negara_budaya ext_dating
+
+[352] "Negara & Kebangsaan" (negara_budaya, 16 kata)  <->  "Festival & Perayaan" (ext_festival, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py negara_budaya ext_festival
+
+[353] "Pemerintahan & Hukum" (pemerintahan_hukum, 36 kata)  <->  "Pertanian & Pangan" (pertanian_pangan, 22 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py pemerintahan_hukum pertanian_pangan
+
+[354] "Festival Perahu Naga & Tradisi" (ext_dragon_boat_festival_traditions, 14 kata)  <->  "Festival Musim Semi & Reuni" (ext_spring_festival_reunion, 20 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py ext_dragon_boat_festival_traditions ext_spring_festival_reunion
+
+[355] "Pendidikan" (ext_education, 81 kata)  <->  "Kendaraan" (ext_vehicle, 11 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py ext_education ext_vehicle
+
+[356] "Hari Ayah" (ext_father_s_day, 16 kata)  <->  "Kata Tanya" (ext_interrogative_pronoun, 12 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py ext_father_s_day ext_interrogative_pronoun
+
+[357] "Kata Tanya" (ext_interrogative_pronoun, 12 kata)  <->  "Kendaraan" (ext_vehicle, 11 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 53%
+     -> kalau memang perlu digabung: python merge_tema.py ext_interrogative_pronoun ext_vehicle
+
+[358] "Cuaca & Musim" (cuaca, 33 kata)  <->  "Paskah & Tradisi Musim Semi" (ext_easter_spring_traditions, 9 kata)
+     overlap kata: 2% (1 kata sama)   kemiripan nama: 50%
+     contoh kata sama: 春天
+     -> kalau memang perlu digabung: python merge_tema.py cuaca ext_easter_spring_traditions
+
+[359] "Pekerjaan & Profesi" (pekerjaan, 52 kata)  <->  "Pemerintahan & Hukum" (pemerintahan_hukum, 36 kata)
+     overlap kata: 1% (1 kata sama)   kemiripan nama: 51%
+     contoh kata sama: 律师
+     -> kalau memang perlu digabung: python merge_tema.py pekerjaan pemerintahan_hukum
+
+[360] "Hari, Bulan & Tanggal" (hari_tanggal, 29 kata)  <->  "Belanja & Perdagangan" (belanja, 21 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py hari_tanggal belanja
+
+[361] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Perabot Rumah" (ext_furniture, 9 kata)
+     overlap kata: 17% (7 kata sama)   kemiripan nama: 36%
+     contoh kata sama: 书架、书桌、床、桌子、椅子、沙发、灯
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan ext_furniture
+
+[362] "Perasaan & Emosi" (perasaan_emosi, 53 kata)  <->  "Kebersihan & Bersih-bersih" (ext_cleaning, 29 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py perasaan_emosi ext_cleaning
+
+[363] "Hari, Bulan & Tanggal" (hari_tanggal, 29 kata)  <->  "Liburan Musim Panas" (ext_summer_vacation_begins, 15 kata)
+     overlap kata: 2% (1 kata sama)   kemiripan nama: 50%
+     contoh kata sama: 假期
+     -> kalau memang perlu digabung: python merge_tema.py hari_tanggal ext_summer_vacation_begins
+
+[364] "Hewan & Binatang" (hewan, 39 kata)  <->  "Festival Qingming & Peringatan" (ext_qingming_festival_remembrance, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py hewan ext_qingming_festival_remembrance
+
+[365] "Tubuh Manusia" (tubuh, 50 kata)  <->  "Alat Musik" (ext_musical_instrument, 15 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py tubuh ext_musical_instrument
+
+[366] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Olahraga" (ext_sports, 12 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan ext_sports
+
+[367] "Emosi & Perasaan" (ext_emotion, 36 kata)  <->  "Festival Qingming & Peringatan" (ext_qingming_festival_remembrance, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py ext_emotion ext_qingming_festival_remembrance
+
+[368] "Selamat Tinggal Tahun Lama" (ext_farewell_to_the_old_welcome_the_new, 23 kata)  <->  "Persiapan Tahun Baru" (ext_preparing_for_the_new_year, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py ext_farewell_to_the_old_welcome_the_new ext_preparing_for_the_new_year
+
+[369] "Festival & Bunga Musim Semi" (ext_spring_festivals_flowers, 10 kata)  <->  "Liburan Musim Panas" (ext_summer_vacation_begins, 15 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py ext_spring_festivals_flowers ext_summer_vacation_begins
+
+[370] "Cuaca & Musim" (cuaca, 33 kata)  <->  "Liburan Musim Panas" (ext_summer_vacation_begins, 15 kata)
+     overlap kata: 2% (1 kata sama)   kemiripan nama: 50%
+     contoh kata sama: 夏天
+     -> kalau memang perlu digabung: python merge_tema.py cuaca ext_summer_vacation_begins
+
+[371] "Keuangan & Perbankan" (keuangan, 30 kata)  <->  "Festival Qingming & Peringatan" (ext_qingming_festival_remembrance, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py keuangan ext_qingming_festival_remembrance
+
+[372] "Bisnis & Perdagangan" (bisnis_perdagangan, 31 kata)  <->  "Festival Qingming & Peringatan" (ext_qingming_festival_remembrance, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py bisnis_perdagangan ext_qingming_festival_remembrance
+
+[373] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Cuaca Dingin & Kehangatan" (ext_cold_weather_staying_warm, 14 kata)
+     overlap kata: 2% (1 kata sama)   kemiripan nama: 50%
+     contoh kata sama: 空调
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan ext_cold_weather_staying_warm
+
+[374] "Perjalanan & Wisata" (perjalanan_wisata, 139 kata)  <->  "Keuangan & Perbankan" (keuangan, 30 kata)
+     overlap kata: 1% (1 kata sama)   kemiripan nama: 51%
+     contoh kata sama: 汇率
+     -> kalau memang perlu digabung: python merge_tema.py perjalanan_wisata keuangan
+
+[375] "Waktu & Jam" (waktu, 16 kata)  <->  "Sakit & Penyakit" (ext_sick, 10 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py waktu ext_sick
+
+[376] "Seni & Budaya" (seni_budaya, 37 kata)  <->  "Sapaan & Salam" (ext_greetings, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py seni_budaya ext_greetings
+
+[377] "Mata Uang" (ext_currency, 25 kata)  <->  "Hobi & Waktu Luang" (ext_hobby, 21 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py ext_currency ext_hobby
+
+[378] "Emosi & Perasaan" (ext_emotion, 36 kata)  <->  "Musim Panas" (ext_summer, 23 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py ext_emotion ext_summer
+
+[379] "Sapaan & Salam" (ext_greetings, 7 kata)  <->  "Bulan & Musim" (ext_month_and_season, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py ext_greetings ext_month_and_season
+
+[380] "Sapaan & Salam" (ext_greetings, 7 kata)  <->  "Cuaca & Musim" (ext_weather_and_seasons, 19 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py ext_greetings ext_weather_and_seasons
+
+[381] "Sapaan & Salam" (ext_greetings, 7 kata)  <->  "Sanak Saudara" (ext_relatives, 26 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py ext_greetings ext_relatives
+
+[382] "Sakit & Penyakit" (ext_sick, 10 kata)  <->  "Waktu & Jam" (ext_time, 27 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py ext_sick ext_time
+
+[383] "Hari, Bulan & Tanggal" (hari_tanggal, 29 kata)  <->  "Waktu & Jam" (ext_time, 27 kata)
+     overlap kata: 14% (7 kata sama)   kemiripan nama: 38%
+     contoh kata sama: 世纪、今天、前天、后天、周末、明天、昨天
+     -> kalau memang perlu digabung: python merge_tema.py hari_tanggal ext_time
+
+[384] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Sapaan & Salam" (ext_greetings, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman ext_greetings
+
+[385] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Gerakan Tangan" (ext_hand_movements, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman ext_hand_movements
+
+[386] "Pakaian & Aksesori" (pakaian, 35 kata)  <->  "Arah & Posisi" (arah_lokasi, 28 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py pakaian arah_lokasi
+
+[387] "Pakaian & Aksesori" (pakaian, 35 kata)  <->  "Makanan Pokok" (ext_staple_food, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py pakaian ext_staple_food
+
+[388] "Kesehatan & Medis" (kesehatan, 46 kata)  <->  "Tekstil & Mode" (tekstil_fashion, 21 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py kesehatan tekstil_fashion
+
+[389] "Kesehatan & Medis" (kesehatan, 46 kata)  <->  "Sapaan & Salam" (ext_greetings, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py kesehatan ext_greetings
+
+[390] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Pakaian & Busana" (ext_clothing, 18 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan ext_clothing
+
+[391] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Rasa & Cita Rasa" (ext_flavor, 13 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan ext_flavor
+
+[392] "Seni & Budaya" (seni_budaya, 37 kata)  <->  "Pertanian & Pangan" (pertanian_pangan, 22 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py seni_budaya pertanian_pangan
+
+[393] "Perasaan & Emosi" (perasaan_emosi, 53 kata)  <->  "Tempat & Lokasi" (ext_places, 43 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py perasaan_emosi ext_places
+
+[394] "Pendidikan Tinggi" (pendidikan_tinggi, 27 kata)  <->  "Gerakan Tangan" (ext_hand_movements, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py pendidikan_tinggi ext_hand_movements
+
+[395] "Aplikasi Mandarin" (ext_chinese_apps, 13 kata)  <->  "Gerakan Tangan" (ext_hand_movements, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py ext_chinese_apps ext_hand_movements
+
+[396] "Rasa & Cita Rasa" (ext_flavor, 13 kata)  <->  "Peralatan Makan" (ext_tableware, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py ext_flavor ext_tableware
+
+[397] "Bepergian & Wisata" (ext_go_travelling, 9 kata)  <->  "Cedera & Luka" (ext_injure, 10 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py ext_go_travelling ext_injure
+
+[398] "Sapaan & Salam" (ext_greetings, 7 kata)  <->  "Musim Semi & Alam" (ext_spring_nature, 10 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py ext_greetings ext_spring_nature
+
+[399] "Penampilan Fisik" (ext_physical_appearances, 17 kata)  <->  "Peralatan Makan" (ext_tableware, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 52%
+     -> kalau memang perlu digabung: python merge_tema.py ext_physical_appearances ext_tableware
+
+[400] "Hewan & Binatang" (hewan, 39 kata)  <->  "Negara & Kebangsaan" (negara_budaya, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py hewan negara_budaya
+
+[401] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Pakaian & Aksesori" (pakaian, 35 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman pakaian
+
+[402] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Komunikasi & Media" (komunikasi, 37 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman komunikasi
+
+[403] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Pertanian & Pangan" (pertanian_pangan, 22 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman pertanian_pangan
+
+[404] "Pakaian & Aksesori" (pakaian, 35 kata)  <->  "Aplikasi Mandarin" (ext_chinese_apps, 13 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py pakaian ext_chinese_apps
+
+[405] "Angka & Bilangan" (angka, 33 kata)  <->  "Perjalanan & Wisata" (perjalanan_wisata, 139 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py angka perjalanan_wisata
+
+[406] "Hari, Bulan & Tanggal" (hari_tanggal, 29 kata)  <->  "Gerakan Tangan" (ext_hand_movements, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py hari_tanggal ext_hand_movements
+
+[407] "Kesehatan & Medis" (kesehatan, 46 kata)  <->  "Komunikasi & Media" (komunikasi, 37 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py kesehatan komunikasi
+
+[408] "Kesehatan & Medis" (kesehatan, 46 kata)  <->  "Bepergian & Wisata" (ext_go_travelling, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py kesehatan ext_go_travelling
+
+[409] "Pekerjaan & Profesi" (pekerjaan, 52 kata)  <->  "Pakaian & Busana" (ext_clothing, 18 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py pekerjaan ext_clothing
+
+[410] "Pekerjaan & Profesi" (pekerjaan, 52 kata)  <->  "Penampilan Fisik" (ext_physical_appearances, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py pekerjaan ext_physical_appearances
+
+[411] "Olahraga & Kebugaran" (olahraga, 35 kata)  <->  "Rumah & Ruangan" (rumah_ruangan, 40 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py olahraga rumah_ruangan
+
+[412] "Belanja & Perdagangan" (belanja, 21 kata)  <->  "Gerakan Tangan" (ext_hand_movements, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py belanja ext_hand_movements
+
+[413] "Komunikasi & Media" (komunikasi, 37 kata)  <->  "Musim Semi & Alam" (ext_spring_nature, 10 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py komunikasi ext_spring_nature
+
+[414] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Bisnis & Perdagangan" (bisnis_perdagangan, 31 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan bisnis_perdagangan
+
+[415] "Perjalanan & Wisata" (perjalanan_wisata, 139 kata)  <->  "Rasa & Cita Rasa" (ext_flavor, 13 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py perjalanan_wisata ext_flavor
+
+[416] "Perjalanan & Wisata" (perjalanan_wisata, 139 kata)  <->  "Penampilan Fisik" (ext_physical_appearances, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py perjalanan_wisata ext_physical_appearances
+
+[417] "Keuangan & Perbankan" (keuangan, 30 kata)  <->  "Peralatan Makan" (ext_tableware, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py keuangan ext_tableware
+
+[418] "Bisnis & Perdagangan" (bisnis_perdagangan, 31 kata)  <->  "Bentuk & Bangun" (ext_shapes, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py bisnis_perdagangan ext_shapes
+
+[419] "Pertanian & Pangan" (pertanian_pangan, 22 kata)  <->  "Pendidikan Tinggi" (pendidikan_tinggi, 27 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py pertanian_pangan pendidikan_tinggi
+
+[420] "Pakaian & Busana" (ext_clothing, 18 kata)  <->  "Liburan Musim Panas" (ext_summer_vacation_begins, 15 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py ext_clothing ext_summer_vacation_begins
+
+[421] "Kencan & Percintaan" (ext_dating, 16 kata)  <->  "Rasa & Cita Rasa" (ext_flavor, 13 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py ext_dating ext_flavor
+
+[422] "Festival & Perayaan" (ext_festival, 8 kata)  <->  "Sakit & Penyakit" (ext_sick, 10 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py ext_festival ext_sick
+
+[423] "Rasa & Cita Rasa" (ext_flavor, 13 kata)  <->  "Agama & Kepercayaan" (ext_religion, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py ext_flavor ext_religion
+
+[424] "Hobi & Waktu Luang" (ext_hobby, 21 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py ext_hobby ext_women_and_family
+
+[425] "Bulan & Musim" (ext_month_and_season, 7 kata)  <->  "Kehidupan Musim Dingin" (ext_winter_life, 19 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py ext_month_and_season ext_winter_life
+
+[426] "Pemimpin Negara" (ext_national_leader, 8 kata)  <->  "Persiapan Tahun Baru" (ext_preparing_for_the_new_year, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py ext_national_leader ext_preparing_for_the_new_year
+
+[427] "Persiapan Tahun Baru" (ext_preparing_for_the_new_year, 17 kata)  <->  "Peralatan Makan" (ext_tableware, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py ext_preparing_for_the_new_year ext_tableware
+
+[428] "Kesehatan & Medis" (kesehatan, 46 kata)  <->  "Hari Anak & Masa Kecil" (ext_children_s_day_childhood, 19 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py kesehatan ext_children_s_day_childhood
+
+[429] "Pendidikan & Sekolah" (pendidikan, 46 kata)  <->  "Perjalanan & Wisata" (perjalanan_wisata, 139 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py pendidikan perjalanan_wisata
+
+[430] "Pekerjaan & Profesi" (pekerjaan, 52 kata)  <->  "Keuangan & Perbankan" (keuangan, 30 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py pekerjaan keuangan
+
+[431] "Keuangan & Perbankan" (keuangan, 30 kata)  <->  "Kata Ganti Penunjuk" (ext_demonstrative_pronoun, 12 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py keuangan ext_demonstrative_pronoun
+
+[432] "Keuangan & Perbankan" (keuangan, 30 kata)  <->  "Festival & Perayaan" (ext_festival, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py keuangan ext_festival
+
+[433] "Negara & Kebangsaan" (negara_budaya, 16 kata)  <->  "Bisnis & Perdagangan" (bisnis_perdagangan, 31 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py negara_budaya bisnis_perdagangan
+
+[434] "Bisnis & Perdagangan" (bisnis_perdagangan, 31 kata)  <->  "Kencan & Percintaan" (ext_dating, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py bisnis_perdagangan ext_dating
+
+[435] "Bisnis & Perdagangan" (bisnis_perdagangan, 31 kata)  <->  "Festival & Perayaan" (ext_festival, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py bisnis_perdagangan ext_festival
+
+[436] "Pendidikan Tinggi" (pendidikan_tinggi, 27 kata)  <->  "Kehidupan Musim Dingin" (ext_winter_life, 19 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py pendidikan_tinggi ext_winter_life
+
+[437] "Kata Percakapan Umum" (ext_commonly_used_spoken_words, 13 kata)  <->  "Kencan & Percintaan" (ext_dating, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py ext_commonly_used_spoken_words ext_dating
+
+[438] "Liburan Musim Panas" (ext_summer_vacation_begins, 15 kata)  <->  "Bulan Sejarah Wanita" (ext_women_s_history_month, 19 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py ext_summer_vacation_begins ext_women_s_history_month
+
+[439] "Negara & Kebangsaan" (negara_budaya, 16 kata)  <->  "Buruh & Kerajinan Tangan" (ext_labor_and_craftsmanship, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py negara_budaya ext_labor_and_craftsmanship
+
+[440] "Kesehatan & Medis" (kesehatan, 46 kata)  <->  "Festival Perahu Naga & Tradisi" (ext_dragon_boat_festival_traditions, 14 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py kesehatan ext_dragon_boat_festival_traditions
+
+[441] "Belanja & Perdagangan" (belanja, 21 kata)  <->  "Festival Qingming & Peringatan" (ext_qingming_festival_remembrance, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py belanja ext_qingming_festival_remembrance
+
+[442] "Makanan Hangat Musim Dingin" (ext_comfort_food_in_winter, 6 kata)  <->  "Perlengkapan Liburan Musim Panas" (ext_summer_holiday_essentials, 26 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py ext_comfort_food_in_winter ext_summer_holiday_essentials
+
+[443] "Piknik & Jalan-jalan Musim Semi" (ext_spring_outings, 15 kata)  <->  "Perlengkapan Liburan Musim Panas" (ext_summer_holiday_essentials, 26 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 51%
+     -> kalau memang perlu digabung: python merge_tema.py ext_spring_outings ext_summer_holiday_essentials
+
+[444] "Warna" (warna, 31 kata)  <->  "Sayuran" (sayuran, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py warna sayuran
+
+[445] "Hewan & Binatang" (hewan, 39 kata)  <->  "Olahraga & Kebugaran" (olahraga, 35 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py hewan olahraga
+
+[446] "Hewan & Binatang" (hewan, 39 kata)  <->  "Keuangan & Perbankan" (keuangan, 30 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py hewan keuangan
+
+[447] "Hewan & Binatang" (hewan, 39 kata)  <->  "Pakaian & Busana" (ext_clothing, 18 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py hewan ext_clothing
+
+[448] "Sayuran" (sayuran, 16 kata)  <->  "Mata Uang" (ext_currency, 25 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py sayuran ext_currency
+
+[449] "Sayuran" (sayuran, 16 kata)  <->  "Kendaraan" (ext_vehicle, 11 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py sayuran ext_vehicle
+
+[450] "Sayuran" (sayuran, 16 kata)  <->  "Sanak Saudara" (ext_relatives, 26 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py sayuran ext_relatives
+
+[451] "Makanan & Minuman" (makanan_minuman, 65 kata)  <->  "Rumah & Ruangan" (rumah_ruangan, 40 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py makanan_minuman rumah_ruangan
+
+[452] "Tubuh Manusia" (tubuh, 50 kata)  <->  "Liburan Musim Panas" (ext_summer_vacation_begins, 15 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py tubuh ext_summer_vacation_begins
+
+[453] "Pakaian & Aksesori" (pakaian, 35 kata)  <->  "Pertanian & Pangan" (pertanian_pangan, 22 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py pakaian pertanian_pangan
+
+[454] "Pakaian & Aksesori" (pakaian, 35 kata)  <->  "Makanan Cepat Saji" (ext_fast_food, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py pakaian ext_fast_food
+
+[455] "Pakaian & Aksesori" (pakaian, 35 kata)  <->  "Sapaan & Salam" (ext_greetings, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py pakaian ext_greetings
+
+[456] "Angka & Bilangan" (angka, 33 kata)  <->  "Olahraga & Kebugaran" (olahraga, 35 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py angka olahraga
+
+[457] "Angka & Bilangan" (angka, 33 kata)  <->  "Bisnis & Perdagangan" (bisnis_perdagangan, 31 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py angka bisnis_perdagangan
+
+[458] "Angka & Bilangan" (angka, 33 kata)  <->  "Rasa & Cita Rasa" (ext_flavor, 13 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py angka ext_flavor
+
+[459] "Waktu & Jam" (waktu, 16 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py waktu ext_women_and_family
+
+[460] "Hari, Bulan & Tanggal" (hari_tanggal, 29 kata)  <->  "Negara & Kebangsaan" (negara_budaya, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py hari_tanggal negara_budaya
+
+[461] "Hari, Bulan & Tanggal" (hari_tanggal, 29 kata)  <->  "Ulang Tahun" (ext_birthday, 13 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py hari_tanggal ext_birthday
+
+[462] "Kesehatan & Medis" (kesehatan, 46 kata)  <->  "Perjalanan & Wisata" (perjalanan_wisata, 139 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py kesehatan perjalanan_wisata
+
+[463] "Kesehatan & Medis" (kesehatan, 46 kata)  <->  "Kencan & Percintaan" (ext_dating, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py kesehatan ext_dating
+
+[464] "Pendidikan & Sekolah" (pendidikan, 46 kata)  <->  "Keuangan & Perbankan" (keuangan, 30 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py pendidikan keuangan
+
+[465] "Pendidikan & Sekolah" (pendidikan, 46 kata)  <->  "Pakaian & Busana" (ext_clothing, 18 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py pendidikan ext_clothing
+
+[466] "Pendidikan & Sekolah" (pendidikan, 46 kata)  <->  "Penampilan Fisik" (ext_physical_appearances, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py pendidikan ext_physical_appearances
+
+[467] "Olahraga & Kebugaran" (olahraga, 35 kata)  <->  "Keuangan & Perbankan" (keuangan, 30 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py olahraga keuangan
+
+[468] "Olahraga & Kebugaran" (olahraga, 35 kata)  <->  "Rasa & Cita Rasa" (ext_flavor, 13 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py olahraga ext_flavor
+
+[469] "Belanja & Perdagangan" (belanja, 21 kata)  <->  "Perjalanan & Wisata" (perjalanan_wisata, 139 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py belanja perjalanan_wisata
+
+[470] "Komunikasi & Media" (komunikasi, 37 kata)  <->  "Musim Semi & Bunga" (ext_spring_and_flowers, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py komunikasi ext_spring_and_flowers
+
+[471] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Arah & Petunjuk Jalan" (ext_directions, 13 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan ext_directions
+
+[472] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Cedera & Luka" (ext_injure, 10 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan ext_injure
+
+[473] "Rumah & Ruangan" (rumah_ruangan, 40 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py rumah_ruangan ext_women_and_family
+
+[474] "Alam & Lingkungan" (alam_lingkungan, 44 kata)  <->  "Negara & Kebangsaan" (negara_budaya, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py alam_lingkungan negara_budaya
+
+[475] "Alam & Lingkungan" (alam_lingkungan, 44 kata)  <->  "Agama & Kepercayaan" (agama_kepercayaan, 27 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py alam_lingkungan agama_kepercayaan
+
+[476] "Alam & Lingkungan" (alam_lingkungan, 44 kata)  <->  "Minuman" (ext_beverage, 15 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py alam_lingkungan ext_beverage
+
+[477] "Alam & Lingkungan" (alam_lingkungan, 44 kata)  <->  "Agama & Kepercayaan" (ext_religion, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py alam_lingkungan ext_religion
+
+[478] "Seni & Budaya" (seni_budaya, 37 kata)  <->  "Festival & Perayaan" (ext_festival, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py seni_budaya ext_festival
+
+[479] "Seni & Budaya" (seni_budaya, 37 kata)  <->  "Bentuk & Bangun" (ext_shapes, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py seni_budaya ext_shapes
+
+[480] "Perasaan & Emosi" (perasaan_emosi, 53 kata)  <->  "Karier & Profesi" (ext_careers, 51 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py perasaan_emosi ext_careers
+
+[481] "Perasaan & Emosi" (perasaan_emosi, 53 kata)  <->  "Kata Percakapan Umum" (ext_commonly_used_spoken_words, 13 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py perasaan_emosi ext_commonly_used_spoken_words
+
+[482] "Perasaan & Emosi" (perasaan_emosi, 53 kata)  <->  "Rasa & Cita Rasa" (ext_flavor, 13 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py perasaan_emosi ext_flavor
+
+[483] "Perasaan & Emosi" (perasaan_emosi, 53 kata)  <->  "Penampilan Fisik" (ext_physical_appearances, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py perasaan_emosi ext_physical_appearances
+
+[484] "Keuangan & Perbankan" (keuangan, 30 kata)  <->  "Emosi & Perasaan" (ext_emotion, 36 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py keuangan ext_emotion
+
+[485] "Negara & Kebangsaan" (negara_budaya, 16 kata)  <->  "Potong Rambut & Salon" (ext_haircut, 10 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py negara_budaya ext_haircut
+
+[486] "Negara & Kebangsaan" (negara_budaya, 16 kata)  <->  "Cedera & Luka" (ext_injure, 10 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py negara_budaya ext_injure
+
+[487] "Arah & Posisi" (arah_lokasi, 28 kata)  <->  "Tempat & Lokasi" (ext_places, 43 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py arah_lokasi ext_places
+
+[488] "Bisnis & Perdagangan" (bisnis_perdagangan, 31 kata)  <->  "Angka & Bilangan" (ext_numeral, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py bisnis_perdagangan ext_numeral
+
+[489] "Sifat & Deskripsi" (sifat_deskripsi, 75 kata)  <->  "Film & Televisi" (ext_film_and_television, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py sifat_deskripsi ext_film_and_television
+
+[490] "Sifat & Deskripsi" (sifat_deskripsi, 75 kata)  <->  "Tempat & Lokasi" (ext_places, 43 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py sifat_deskripsi ext_places
+
+[491] "Agama & Kepercayaan" (agama_kepercayaan, 27 kata)  <->  "Arah & Petunjuk Jalan" (ext_directions, 13 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py agama_kepercayaan ext_directions
+
+[492] "Agama & Kepercayaan" (agama_kepercayaan, 27 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py agama_kepercayaan ext_women_and_family
+
+[493] "Pendidikan Tinggi" (pendidikan_tinggi, 27 kata)  <->  "Pemimpin Negara" (ext_national_leader, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py pendidikan_tinggi ext_national_leader
+
+[494] "Karier & Profesi" (ext_careers, 51 kata)  <->  "Sakit & Penyakit" (ext_sick, 10 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_careers ext_sick
+
+[495] "Karier & Profesi" (ext_careers, 51 kata)  <->  "Hari St. Patrick" (ext_st_patrick_s_day, 10 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_careers ext_st_patrick_s_day
+
+[496] "Warna (Ext)" (ext_colors, 12 kata)  <->  "Sayuran (HSK)" (ext_vegetables, 12 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_colors ext_vegetables
+
+[497] "Kata Percakapan Umum" (ext_commonly_used_spoken_words, 13 kata)  <->  "Persiapan Tahun Baru" (ext_preparing_for_the_new_year, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_commonly_used_spoken_words ext_preparing_for_the_new_year
+
+[498] "Kata Percakapan Umum" (ext_commonly_used_spoken_words, 13 kata)  <->  "Perlengkapan Liburan Musim Panas" (ext_summer_holiday_essentials, 26 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_commonly_used_spoken_words ext_summer_holiday_essentials
+
+[499] "Minuman Keras & Alkohol" (ext_alcohol, 14 kata)  <->  "Kehidupan Kampus & Pemuda" (ext_youth_and_campus_life, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_alcohol ext_youth_and_campus_life
+
+[500] "Alergi" (ext_allergy, 7 kata)  <->  "Daging" (ext_meat, 22 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_allergy ext_meat
+
+[501] "Ulang Tahun" (ext_birthday, 13 kata)  <->  "Bunga" (ext_flower, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_birthday ext_flower
+
+[502] "Ulang Tahun" (ext_birthday, 13 kata)  <->  "Bulan & Musim" (ext_month_and_season, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_birthday ext_month_and_season
+
+[503] "Bagian Tubuh" (ext_body_parts, 44 kata)  <->  "Membeli Buah" (ext_buy_fruit, 21 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_body_parts ext_buy_fruit
+
+[504] "Bagian Tubuh" (ext_body_parts, 44 kata)  <->  "Pakaian & Busana" (ext_clothing, 18 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_body_parts ext_clothing
+
+[505] "Bagian Tubuh" (ext_body_parts, 44 kata)  <->  "Hari Ibu" (ext_mother_s_day, 13 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_body_parts ext_mother_s_day
+
+[506] "Bagian Tubuh" (ext_body_parts, 44 kata)  <->  "Persiapan Tahun Baru" (ext_preparing_for_the_new_year, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_body_parts ext_preparing_for_the_new_year
+
+[507] "Hari Anak & Masa Kecil" (ext_children_s_day_childhood, 19 kata)  <->  "Sapaan & Salam" (ext_greetings, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_children_s_day_childhood ext_greetings
+
+[508] "Pakaian & Busana" (ext_clothing, 18 kata)  <->  "Perlengkapan Liburan Musim Panas" (ext_summer_holiday_essentials, 26 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_clothing ext_summer_holiday_essentials
+
+[509] "Mata Uang" (ext_currency, 25 kata)  <->  "Peralatan Makan" (ext_tableware, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_currency ext_tableware
+
+[510] "Kencan & Percintaan" (ext_dating, 16 kata)  <->  "Arah & Petunjuk Jalan" (ext_directions, 13 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_dating ext_directions
+
+[511] "Arah & Petunjuk Jalan" (ext_directions, 13 kata)  <->  "Agama & Kepercayaan" (ext_religion, 9 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_directions ext_religion
+
+[512] "Emosi & Perasaan" (ext_emotion, 36 kata)  <->  "Sakit & Penyakit" (ext_sick, 10 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_emotion ext_sick
+
+[513] "Makanan Cepat Saji" (ext_fast_food, 17 kata)  <->  "Sapaan & Salam" (ext_greetings, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_fast_food ext_greetings
+
+[514] "Rasa & Cita Rasa" (ext_flavor, 13 kata)  <->  "Angka & Bilangan" (ext_numeral, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_flavor ext_numeral
+
+[515] "Bepergian & Wisata" (ext_go_travelling, 9 kata)  <->  "Hobi & Waktu Luang" (ext_hobby, 21 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_go_travelling ext_hobby
+
+[516] "Gerakan Tangan" (ext_hand_movements, 17 kata)  <->  "Nama Mata Uang" (ext_names_of_the_currency, 11 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_hand_movements ext_names_of_the_currency
+
+[517] "Liburan Musim Panas Dimulai" (ext_hsk_summer_vacation_begins, 15 kata)  <->  "Bulan & Musim" (ext_month_and_season, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_hsk_summer_vacation_begins ext_month_and_season
+
+[518] "Kata Tanya" (ext_interrogative_pronoun, 12 kata)  <->  "Nama Mata Uang" (ext_names_of_the_currency, 11 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_interrogative_pronoun ext_names_of_the_currency
+
+[519] "Wawancara Kerja" (ext_job_interview, 27 kata)  <->  "Nama Negara Utama" (ext_names_of_the_main_countries, 17 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_job_interview ext_names_of_the_main_countries
+
+[520] "Bulan & Musim" (ext_month_and_season, 7 kata)  <->  "Genre Musik" (ext_music_type, 7 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_month_and_season ext_music_type
+
+[521] "Rutinitas Pagi" (ext_morning_routine, 17 kata)  <->  "Aktivitas Musim Dingin" (ext_winter_activities, 12 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_morning_routine ext_winter_activities
+
+[522] "Hari Ibu" (ext_mother_s_day, 13 kata)  <->  "Hari St. Patrick" (ext_st_patrick_s_day, 10 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_mother_s_day ext_st_patrick_s_day
+
+[523] "Nama Negara Utama" (ext_names_of_the_main_countries, 17 kata)  <->  "Pemimpin Negara" (ext_national_leader, 8 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_names_of_the_main_countries ext_national_leader
+
+[524] "Agama & Kepercayaan" (ext_religion, 9 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_religion ext_women_and_family
+
+[525] "Musim Semi & Alam" (ext_spring_nature, 10 kata)  <->  "Musim Panas" (ext_summer, 23 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_spring_nature ext_summer
+
+[526] "Waktu & Jam" (ext_time, 27 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 0% (0 kata sama)   kemiripan nama: 50%
+     -> kalau memang perlu digabung: python merge_tema.py ext_time ext_women_and_family
+
+[527] "Pride Month" (ext_pride_month, 15 kata)  <->  "Identitas Seksual" (ext_sexual_identity, 10 kata)
+     overlap kata: 14% (3 kata sama)   kemiripan nama: 36%
+     contoh kata sama: 平等、性别、身份
+     -> kalau memang perlu digabung: python merge_tema.py ext_pride_month ext_sexual_identity
+
+[528] "Pakaian & Busana" (ext_clothing, 18 kata)  <->  "Kehidupan Musim Dingin" (ext_winter_life, 19 kata)
+     overlap kata: 12% (4 kata sama)   kemiripan nama: 37%
+     contoh kata sama: 外套、手套、毛衣、羽绒服
+     -> kalau memang perlu digabung: python merge_tema.py ext_clothing ext_winter_life
+
+[529] "Suasana Awal Musim Panas" (ext_early_summer_vibes, 17 kata)  <->  "Musim Semi & Bunga" (ext_spring_and_flowers, 17 kata)
+     overlap kata: 13% (4 kata sama)   kemiripan nama: 33%
+     contoh kata sama: 出去、天气、散步、暖和
+     -> kalau memang perlu digabung: python merge_tema.py ext_early_summer_vibes ext_spring_and_flowers
+
+[530] "Pekerjaan & Profesi" (pekerjaan, 52 kata)  <->  "Buruh & Kerajinan Tangan" (ext_labor_and_craftsmanship, 16 kata)
+     overlap kata: 13% (8 kata sama)   kemiripan nama: 33%
+     contoh kata sama: 上班、下班、医生、工人、工作、工程师、老师、职业
+     -> kalau memang perlu digabung: python merge_tema.py pekerjaan ext_labor_and_craftsmanship
+
+[531] "Musim Semi & Bunga" (ext_spring_and_flowers, 17 kata)  <->  "Cuaca & Musim" (ext_weather_and_seasons, 19 kata)
+     overlap kata: 12% (4 kata sama)   kemiripan nama: 32%
+     contoh kata sama: 天气、季节、春天、暖和
+     -> kalau memang perlu digabung: python merge_tema.py ext_spring_and_flowers ext_weather_and_seasons
+
+[532] "Transportasi" (transportasi, 34 kata)  <->  "Kendaraan" (ext_vehicle, 11 kata)
+     overlap kata: 15% (6 kata sama)   kemiripan nama: 29%
+     contoh kata sama: 出租车、地铁、火车、自行车、轮船、飞机
+     -> kalau memang perlu digabung: python merge_tema.py transportasi ext_vehicle
+
+[533] "Selamat Tinggal Tahun Lama" (ext_farewell_to_the_old_welcome_the_new, 23 kata)  <->  "Festival Musim Semi & Reuni" (ext_spring_festival_reunion, 20 kata)
+     overlap kata: 13% (5 kata sama)   kemiripan nama: 30%
+     contoh kata sama: 回家、团圆、家人、年夜饭、幸福
+     -> kalau memang perlu digabung: python merge_tema.py ext_farewell_to_the_old_welcome_the_new ext_spring_festival_reunion
+
+[534] "Pekerjaan & Profesi" (pekerjaan, 52 kata)  <->  "Wawancara Kerja" (ext_job_interview, 27 kata)
+     overlap kata: 13% (9 kata sama)   kemiripan nama: 29%
+     contoh kata sama: 出差、加班、工作、招聘、福利、简历、职位、辞职、面试
+     -> kalau memang perlu digabung: python merge_tema.py pekerjaan ext_job_interview
+
+[535] "Hari Ibu" (ext_mother_s_day, 13 kata)  <->  "Wanita & Keluarga" (ext_women_and_family, 16 kata)
+     overlap kata: 26% (6 kata sama)   kemiripan nama: 16%
+     contoh kata sama: 关心、妈妈、家人、家庭、照顾、爱
+     -> kalau memang perlu digabung: python merge_tema.py ext_mother_s_day ext_women_and_family
+
+[536] "Kesehatan & Medis" (kesehatan, 46 kata)  <->  "COVID-19 & Pandemi" (ext_covid_19, 25 kata)
+     overlap kata: 13% (8 kata sama)   kemiripan nama: 29%
+     contoh kata sama: 体温、医生、医院、发烧、咳嗽、感冒、护士、药
+     -> kalau memang perlu digabung: python merge_tema.py kesehatan ext_covid_19
+
+[537] "Hujan & Istilah Kalender Surya" (ext_rain_and_solar_terms, 13 kata)  <->  "Awal Musim Semi (立春)" (ext_the_beginning_of_spring, 17 kata)
+     overlap kata: 20% (5 kata sama)   kemiripan nama: 20%
+     contoh kata sama: 农历、天气、春天、生长、节气
+     -> kalau memang perlu digabung: python merge_tema.py ext_rain_and_solar_terms ext_the_beginning_of_spring
+
+[538] "Pendidikan Tinggi" (pendidikan_tinggi, 27 kata)  <->  "Sekolah" (ext_school, 9 kata)
+     overlap kata: 12% (4 kata sama)   kemiripan nama: 25%
+     contoh kata sama: 博士、大学、研究生、硕士
+     -> kalau memang perlu digabung: python merge_tema.py pendidikan_tinggi ext_school
+
+[539] "Hobi & Waktu Luang" (ext_hobby, 21 kata)  <->  "Olahraga" (ext_sports, 12 kata)
+     overlap kata: 14% (4 kata sama)   kemiripan nama: 23%
+     contoh kata sama: 游泳、跑步、跳舞、运动
+     -> kalau memang perlu digabung: python merge_tema.py ext_hobby ext_sports
