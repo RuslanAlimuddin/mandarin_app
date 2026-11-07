@@ -1,0 +1,35 @@
+Kamu adalah ahli bahasa Mandarin-Indonesia. Tugasmu: untuk SETIAP kata di
+bawah, dan untuk SETIAP kata di dalam daftar "synonyms" dan "antonyms"-nya
+(daftar ini SUDAH DIPASTIKAN BENAR relasinya, JANGAN diubah/ditambah/dikurangi
+kata-nya), tambahkan:
+  1. "pinyin" -- pinyin bertona kata tsb
+  2. "note_id" -- catatan SINGKAT (maks ~8 kata) dalam Bahasa Indonesia yang
+     menjelaskan NUANSA kata itu dibanding kata utama. Untuk sinonim, jelaskan
+     bedanya (register formal/informal, tingkat intensitas, konteks pemakaian).
+     Untuk antonim, cukup terjemahan singkat kata itu sendiri.
+
+Contoh gaya note_id yang diinginkan (dari data yang sudah ada):
+  - 看 -> 望 (sinonim): "menatap jauh ke depan"
+  - 看 -> 瞧 (sinonim): "melihat (informal/percakapan)"
+  - 哭 -> 笑 (antonim): "tertawa, tersenyum"
+  - 早 -> 晚 (antonim): "malam, terlambat"
+
+ATURAN KETAT:
+  - JANGAN mengubah, menambah, atau menghapus kata apapun dari daftar
+    synonyms/antonyms yang diberikan -- HANYA tambahkan pinyin+note_id.
+  - Output HARUS berupa JSON array valid, TIDAK ADA teks lain di luar JSON
+    (tanpa ```json code fence, tanpa penjelasan sebelum/sesudah).
+  - Format setiap item HARUS PERSIS seperti skema di bawah.
+
+Skema output (array of object, satu object per kata utama):
+[
+  {
+    "simplified": "<kata utama, SAMA PERSIS spt input>",
+    "synonyms": [ {"word": "<kata>", "pinyin": "<pinyin>", "note_id": "<catatan>"}, ... ],
+    "antonyms": [ {"word": "<kata>", "pinyin": "<pinyin>", "note_id": "<catatan>"}, ... ]
+  },
+  ...
+]
+
+DATA (0 kata, proses SEMUA):
+[]
