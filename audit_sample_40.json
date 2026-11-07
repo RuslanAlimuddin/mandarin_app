@@ -1,0 +1,1904 @@
+[
+  {
+    "id": "b8_minzu_guojia_3511",
+    "category": "bangsa",
+    "words": [
+      "民族",
+      "国家"
+    ],
+    "core_distinction_id": "'民族' suku bangsa, '国家' negara.",
+    "comparison": [
+      {
+        "word": "民族",
+        "pinyin": "mín zú",
+        "hsk": 3,
+        "usage_id": "Suku bangsa atau etnis.",
+        "quantity": null,
+        "purpose": "Menyatakan etnis.",
+        "collocations": [
+          "中华民族",
+          "少数民族",
+          "民族传统"
+        ],
+        "example_cn": "中国有五十六个民族。",
+        "example_pinyin": "Zhōngguó yǒu wǔshíliù gè mínzú.",
+        "example_id": "Tiongkok memiliki lima puluh enam suku bangsa.",
+        "register": "formal"
+      },
+      {
+        "word": "国家",
+        "pinyin": "guó jiā",
+        "hsk": 1,
+        "usage_id": "Negara sebagai entitas politik.",
+        "quantity": null,
+        "purpose": "Menyatakan negara.",
+        "collocations": [
+          "发展中国家",
+          "国家主权",
+          "国家领导"
+        ],
+        "example_cn": "中国是一个大国。",
+        "example_pinyin": "Zhōngguó shì yīgè dàguó.",
+        "example_id": "Tiongkok adalah negara besar.",
+        "register": "formal"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: memakai '国家' untuk etnis, misal ❌ 中国国家 (bisa, tapi '民族' untuk etnis)."
+  },
+  {
+    "id": "b2_shou_ji_164",
+    "category": "telepon-ponsel",
+    "words": [
+      "手机",
+      "电话"
+    ],
+    "core_distinction_id": "手机= ponsel (perangkat); 电话= telepon (sistem/alat)",
+    "comparison": [
+      {
+        "word": "手机",
+        "pinyin": "shǒu jī",
+        "hsk": 1,
+        "usage_id": "telepon genggam modern",
+        "quantity": null,
+        "purpose": "ponsel",
+        "collocations": [
+          "手机号码",
+          "手机应用",
+          "买手机",
+          "玩手机"
+        ],
+        "example_cn": "我忘记带手机了。",
+        "example_pinyin": "Wo wangji dai shouji le.",
+        "example_id": "Saya lupa membawa ponsel.",
+        "register": "netral"
+      },
+      {
+        "word": "电话",
+        "pinyin": "diàn huà",
+        "hsk": 1,
+        "usage_id": "telepon umum, termasuk saluran atau alat",
+        "quantity": null,
+        "purpose": "telepon",
+        "collocations": [
+          "打电话",
+          "电话号码",
+          "电话会议",
+          "电话线"
+        ],
+        "example_cn": "我给他打了一个电话。",
+        "example_pinyin": "Wo gei ta da le yi ge dianhua.",
+        "example_id": "Saya menelepon dia.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: memakai '手机' untuk 'menelepon'. '打电话' (menelepon) menggunakan '电话', meskipun pakai ponsel."
+  },
+  {
+    "id": "b19_ren_jian_419",
+    "category": "dunia",
+    "words": [
+      "人间",
+      "人间"
+    ],
+    "core_distinction_id": "人间= dunia (tempat manusia); 世界= dunia (umum)",
+    "comparison": [
+      {
+        "word": "人间",
+        "pinyin": "rén jiān",
+        "hsk": 5,
+        "usage_id": "dunia tempat manusia hidup (sastra)",
+        "quantity": null,
+        "purpose": "dunia",
+        "collocations": [
+          "人间天堂",
+          "人间真情",
+          "人间仙境",
+          "人间烟火"
+        ],
+        "example_cn": "这里就像人间天堂。",
+        "example_pinyin": "Zheli jiu xiang renjian tiantang.",
+        "example_id": "Di sini seperti surga di dunia.",
+        "register": "formal"
+      },
+      {
+        "word": "世界",
+        "pinyin": "shì jiè",
+        "hsk": 3,
+        "usage_id": "dunia secara umum",
+        "quantity": null,
+        "purpose": "dunia",
+        "collocations": [
+          "全世界",
+          "世界上",
+          "世界杯",
+          "世界和平"
+        ],
+        "example_cn": "他环游世界。",
+        "example_pinyin": "Ta huanyou shijie.",
+        "example_id": "Dia berkeliling dunia.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: '人间' lebih puitis/sastra, '世界' umum."
+  },
+  {
+    "id": "b17_jasa_layanan_2708",
+    "category": "bisnis",
+    "words": [
+      "服务",
+      "业务"
+    ],
+    "core_distinction_id": "'服务' berarti 'layanan' (pelayanan), sedangkan '业务' berarti 'bisnis/usaha' (operasional).",
+    "comparison": [
+      {
+        "word": "服务",
+        "pinyin": "fú wù",
+        "hsk": 2,
+        "usage_id": "Layanan/pelayanan (untuk pelanggan).",
+        "quantity": null,
+        "purpose": "Layanan.",
+        "collocations": [
+          "客户服务",
+          "服务态度",
+          "服务质量",
+          "酒店服务"
+        ],
+        "example_cn": "这家酒店的服务很好。",
+        "example_pinyin": "Zhè jiā jiǔdiàn de fúwù hěn hǎo.",
+        "example_id": "Layanan hotel ini sangat baik.",
+        "register": "netral"
+      },
+      {
+        "word": "业务",
+        "pinyin": "yè wù",
+        "hsk": 5,
+        "usage_id": "Bisnis/usaha (operasional perusahaan).",
+        "quantity": null,
+        "purpose": "Bisnis.",
+        "collocations": [
+          "业务范围",
+          "业务流程",
+          "核心业务",
+          "业务增长"
+        ],
+        "example_cn": "公司的业务范围很广。",
+        "example_pinyin": "Gōngsī de yèwù fànwéi hěn guǎng.",
+        "example_id": "Jangkauan bisnis perusahaan sangat luas.",
+        "register": "formal"
+      }
+    ],
+    "common_mistake_id": "❌ '服务' untuk pelayanan, '业务' untuk bisnis."
+  },
+  {
+    "id": "b16_yi_jiang_435",
+    "category": "kuliah",
+    "words": [
+      "演讲",
+      "讲座"
+    ],
+    "core_distinction_id": "演讲= pidato/ceramah (formal); 讲座= kuliah/seminar (akademis)",
+    "comparison": [
+      {
+        "word": "演讲",
+        "pinyin": "yǎn jiǎng",
+        "hsk": 4,
+        "usage_id": "pidato atau ceramah di depan umum",
+        "quantity": null,
+        "purpose": "pidato",
+        "collocations": [
+          "公开演讲",
+          "演讲比赛",
+          "演讲技巧",
+          "演讲者"
+        ],
+        "example_cn": "他正在准备明天的演讲。",
+        "example_pinyin": "Ta zhengzai zhunbei mingtian de yanjiang.",
+        "example_id": "Dia sedang mempersiapkan pidato besok.",
+        "register": "netral"
+      },
+      {
+        "word": "讲座",
+        "pinyin": "jiǎng zuò",
+        "hsk": 4,
+        "usage_id": "kuliah atau seminar (akademis)",
+        "quantity": null,
+        "purpose": "kuliah",
+        "collocations": [
+          "学术讲座",
+          "专家讲座",
+          "听讲座",
+          "讲座系列"
+        ],
+        "example_cn": "我们参加了一个关于历史的讲座。",
+        "example_pinyin": "Women canjia le yi ge guanyu lishi de jiangzuo.",
+        "example_id": "Kami mengikuti kuliah tentang sejarah.",
+        "register": "formal"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: '演讲' = pidato; '讲座' = kuliah/seminar."
+  },
+  {
+    "id": "b10_shunli_chenggong_3378",
+    "category": "keberhasilan",
+    "words": [
+      "顺利",
+      "成功"
+    ],
+    "core_distinction_id": "'顺利' lancar (proses), '成功' sukses (hasil).",
+    "comparison": [
+      {
+        "word": "顺利",
+        "pinyin": "shùn lì",
+        "hsk": 2,
+        "usage_id": "Berjalan lancar tanpa hambatan.",
+        "quantity": null,
+        "purpose": "Menyatakan kelancaran proses.",
+        "collocations": [
+          "进展顺利",
+          "顺利完成",
+          "一路顺利"
+        ],
+        "example_cn": "项目进展得很顺利。",
+        "example_pinyin": "Xiàngmù jìnzhǎn de hěn shùnlì.",
+        "example_id": "Proyek berjalan dengan sangat lancar.",
+        "register": "netral"
+      },
+      {
+        "word": "成功",
+        "pinyin": "chéng gōng",
+        "hsk": 3,
+        "usage_id": "Berhasil mencapai tujuan.",
+        "quantity": null,
+        "purpose": "Menyatakan pencapaian tujuan.",
+        "collocations": [
+          "成功经验",
+          "成功人士",
+          "获得成功"
+        ],
+        "example_cn": "他终于成功了。",
+        "example_pinyin": "Tā zhōngyú chénggōng le.",
+        "example_id": "Akhirnya dia berhasil.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: memakai '成功' untuk kelancaran, misal ❌ 进展成功 (bisa, tapi '顺利' lebih untuk proses)."
+  },
+  {
+    "id": "b8_berhenti_beristirahat_1483",
+    "category": "nuansa berhenti total vs beristirahat sebentar",
+    "words": [
+      "停止",
+      "休息"
+    ],
+    "core_distinction_id": "停止 lebih ke berhenti atau menghentikan secara total; 休息 lebih ke beristirahat sejenak untuk memulihkan tenaga.",
+    "comparison": [
+      {
+        "word": "停止",
+        "pinyin": "tíng zhǐ",
+        "hsk": 3,
+        "usage_id": "Berhenti atau menghentikan sesuatu secara total dan menyeluruh.",
+        "quantity": null,
+        "purpose": "Menyatakan penghentian aktivitas.",
+        "collocations": [
+          "停止工作",
+          "停止运行",
+          "停止供应"
+        ],
+        "example_cn": "机器突然停止了运转。",
+        "example_pinyin": "Jīqì tūrán tíngzhǐle yùnzhuǎn.",
+        "example_id": "Mesin tiba-tiba berhenti beroperasi.",
+        "register": "netral"
+      },
+      {
+        "word": "休息",
+        "pinyin": "xiū xi",
+        "hsk": 1,
+        "usage_id": "Beristirahat sebentar untuk memulihkan tenaga, tidak berarti berhenti total.",
+        "quantity": null,
+        "purpose": "Menyatakan jeda untuk recovery.",
+        "collocations": [
+          "休息一下",
+          "好好休息",
+          "休息日"
+        ],
+        "example_cn": "我们休息十分钟吧。",
+        "example_pinyin": "Wǒmen xiūxi shí fēnzhōng ba.",
+        "example_id": "Kita istirahat sepuluh menit yuk.",
+        "register": "santai"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: memakai 停止 untuk istirahat. ❌ 停止十分钟 (berhenti total) vs ✅ 休息十分钟 (istirahat sepuluh menit)."
+  },
+  {
+    "id": "bA1_104",
+    "category": "izin",
+    "words": [
+      "允许",
+      "许可"
+    ],
+    "core_distinction_id": "允许=mengizinkan (umum); 许可=izin (formal/tertulis)",
+    "comparison": [
+      {
+        "word": "允许",
+        "pinyin": "yǔn xǔ",
+        "hsk": 6,
+        "usage_id": "mengizinkan, memperbolehkan (umum)",
+        "quantity": null,
+        "purpose": "menyatakan izin",
+        "collocations": [
+          "允许进入",
+          "允许拍照",
+          "允许吸烟",
+          "允许变动",
+          "允许迟到"
+        ],
+        "example_cn": "这里不允许停车，需要获得许可才可以。",
+        "example_pinyin": "Zhèlǐ bù yǔnxǔ tíngchē, xūyào huòdé xǔkě cái kěyǐ.",
+        "example_id": "Di sini tidak diizinkan parkir, harus mendapat izin dulu.",
+        "register": "netral"
+      },
+      {
+        "word": "许可",
+        "pinyin": "xǔ kě",
+        "hsk": 5,
+        "usage_id": "izin (kata benda), atau mengizinkan (formal/resmi)",
+        "quantity": null,
+        "purpose": "menyatakan izin resmi",
+        "collocations": [
+          "许可证",
+          "获得许可",
+          "特殊许可",
+          "许可范围",
+          "许可制度"
+        ],
+        "example_cn": "你需要有施工许可，否则我不允许你动工。",
+        "example_pinyin": "Nǐ xūyào yǒu shīgōng xǔkě, fǒuzé wǒ bù yǔnxǔ nǐ dònggōng.",
+        "example_id": "Kamu perlu ada izin pembangunan, kalau tidak saya tidak izinkan kamu mulai kerja.",
+        "register": "formal"
+      }
+    ],
+    "common_mistake_id": "❌ 许可证停车 (seharusnya: 需要许可才能停车/这里不允许停车) — 许可 bukan kata kerja untuk tindakan sehari-hari."
+  },
+  {
+    "id": "b7_dulu_dahulu_2106",
+    "category": "nuansa dulu vs dahulu",
+    "words": [
+      "以前",
+      "过去"
+    ],
+    "core_distinction_id": "'以前' berarti dulu/sebelumnya (masa lalu) secara netral, sedangkan '过去' berarti masa lalu (nomina) atau 'lewat' (verba) dengan nuansa waktu lampau.",
+    "comparison": [
+      {
+        "word": "以前",
+        "pinyin": "yǐ qián",
+        "hsk": 2,
+        "usage_id": "Dulu, sebelumnya (masa lalu) secara netral, untuk pengalaman/kebiasaan.",
+        "quantity": null,
+        "purpose": "Dulu (netral).",
+        "collocations": [
+          "以前住",
+          "以前学过",
+          "以前的事"
+        ],
+        "example_cn": "我以前住在中国。",
+        "example_pinyin": "Wǒ yǐqián zhù zài Zhōngguó.",
+        "example_id": "Saya dulu tinggal di China.",
+        "register": "netral"
+      },
+      {
+        "word": "过去",
+        "pinyin": "guò qù",
+        "hsk": 2,
+        "usage_id": "Masa lalu (nomina) atau 'lewat' (verba), sering untuk kontras dengan sekarang.",
+        "quantity": null,
+        "purpose": "Masa lalu (nomina).",
+        "collocations": [
+          "过去的事",
+          "在过去",
+          "回忆过去"
+        ],
+        "example_cn": "过去的就让它过去吧。",
+        "example_pinyin": "Guòqù de jiù ràng tā guòqù ba.",
+        "example_id": "Biarkan masa lalu berlalu.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: pakai '过去' sebagai keterangan waktu → ❌ 过去我住在中国 (bisa, tapi '以前' lebih alami); ✅ 我以前住在中国."
+  },
+  {
+    "id": "bA1_359",
+    "category": "pengumpulan & perolehan",
+    "words": [
+      "采集",
+      "收集"
+    ],
+    "core_distinction_id": "采集=mengumpulkan dari alam (tanaman, sampel, data); 收集=mengumpulkan barang/informasi secara umum",
+    "comparison": [
+      {
+        "word": "采集",
+        "pinyin": "cǎi jí",
+        "hsk": 7,
+        "usage_id": "mengumpulkan bahan alam, spesimen, atau data di lapangan",
+        "quantity": null,
+        "purpose": "menyatakan pengumpulan di alam/riset",
+        "collocations": [
+          "采集标本",
+          "采集植物",
+          "采集样本",
+          "采集数据",
+          "采集矿石"
+        ],
+        "example_cn": "科学家到森林里采集植物标本。",
+        "example_pinyin": "Kēxuéjiā dào sēnlín lǐ cǎijí zhíwù biāoběn.",
+        "example_id": "Para ilmuwan pergi ke hutan untuk mengumpulkan spesimen tumbuhan.",
+        "register": "netral/ilmiah"
+      },
+      {
+        "word": "收集",
+        "pinyin": "shōu jí",
+        "hsk": 5,
+        "usage_id": "mengumpulkan benda, informasi, atau bukti secara teratur",
+        "quantity": null,
+        "purpose": "menyatakan pengumpulan umum",
+        "collocations": [
+          "收集资料",
+          "收集信息",
+          "收集证据",
+          "收集邮票",
+          "收集垃圾"
+        ],
+        "example_cn": "他喜欢收集各种古老的邮票。",
+        "example_pinyin": "Tā xǐhuān shōují gèzhǒng gǔlǎo de yóupiào.",
+        "example_id": "Dia suka mengumpulkan berbagai perangko kuno.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "❌ 他去河边收集石头 (seharusnya: 他去河边采集石头 — jika untuk penelitian; 收集石头 juga bisa jika koleksi)"
+  },
+  {
+    "id": "b29_yi_shu_jia_345",
+    "category": "profesi",
+    "words": [
+      "艺术家",
+      "画家"
+    ],
+    "core_distinction_id": "艺术家= seniman (umum); 画家= pelukis (spesifik)",
+    "comparison": [
+      {
+        "word": "艺术家",
+        "pinyin": "yì shù jiā",
+        "hsk": null,
+        "usage_id": "seniman dalam berbagai bidang seni",
+        "quantity": null,
+        "purpose": "seniman",
+        "collocations": [
+          "现代艺术家",
+          "艺术家工作室",
+          "艺术家气质",
+          "年轻艺术家"
+        ],
+        "example_cn": "她是一位很有才华的艺术家。",
+        "example_pinyin": "Ta shi yi wei hen you caihua de yishujia.",
+        "example_id": "Dia adalah seniman yang sangat berbakat.",
+        "register": "netral"
+      },
+      {
+        "word": "画家",
+        "pinyin": "huà jiā",
+        "hsk": 2,
+        "usage_id": "pelukis, seniman lukis",
+        "quantity": null,
+        "purpose": "pelukis",
+        "collocations": [
+          "著名画家",
+          "画家作品",
+          "画家展览",
+          "山水画家"
+        ],
+        "example_cn": "齐白石是一位伟大的画家。",
+        "example_pinyin": "Qi Baishi shi yi wei weida de huajia.",
+        "example_id": "Qi Baishi adalah pelukis yang hebat.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: '艺术家' = seniman (umum); '画家' = pelukis."
+  },
+  {
+    "id": "b3_mencari_menemukan_1043",
+    "category": "nuansa proses/hasil",
+    "words": [
+      "找",
+      "找到"
+    ],
+    "core_distinction_id": "'找' berarti 'mencari' — proses mencari, sedangkan '找到' berarti 'menemukan' — hasil keberhasilan dari proses mencari.",
+    "comparison": [
+      {
+        "word": "找",
+        "pinyin": "zhǎo",
+        "hsk": 1,
+        "usage_id": "Dipakai untuk tindakan mencari, baik benda, orang, informasi, atau solusi. Fokus pada usaha, bukan hasil.",
+        "quantity": null,
+        "purpose": "proses mencari",
+        "collocations": [
+          "找朋友",
+          "找工作",
+          "找房子",
+          "找东西",
+          "找答案"
+        ],
+        "example_cn": "我在找我的钥匙。",
+        "example_pinyin": "Wǒ zài zhǎo wǒ de yàoshi.",
+        "example_id": "Saya sedang mencari kunci saya.",
+        "register": "netral"
+      },
+      {
+        "word": "找到",
+        "pinyin": "zhǎo dào",
+        "hsk": 1,
+        "usage_id": "Dipakai untuk menyatakan bahwa hasil pencarian berhasil — 'menemukan' atau 'berhasil menemukan'. Ada hasil positif.",
+        "quantity": null,
+        "purpose": "hasil menemukan",
+        "collocations": [
+          "找到工作",
+          "找到答案",
+          "找到办法",
+          "找到人",
+          "没找到"
+        ],
+        "example_cn": "我终于找到了我的手机。",
+        "example_pinyin": "Wǒ zhōngyú zhǎodào le wǒ de shǒujī.",
+        "example_id": "Akhirnya saya menemukan HP saya.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: pakai '找' untuk hasil. ❌ Saya sudah 找 kunci saya, di atas meja. ✅ Saya sudah 找到 kunci saya, di atas meja."
+  },
+  {
+    "id": "b3_nv_ren_333",
+    "category": "orang",
+    "words": [
+      "女人",
+      "女生"
+    ],
+    "core_distinction_id": "女人= wanita dewasa; 女生= siswi perempuan / pemudi",
+    "comparison": [
+      {
+        "word": "女人",
+        "pinyin": "nǚ rén",
+        "hsk": 1,
+        "usage_id": "wanita dewasa",
+        "quantity": null,
+        "purpose": "wanita",
+        "collocations": [
+          "这个女人",
+          "女人工作",
+          "女人权利",
+          "女人和男人"
+        ],
+        "example_cn": "那个女人是我的老师。",
+        "example_pinyin": "Na ge nvren shi wo de laoshi.",
+        "example_id": "Wanita itu adalah guru saya.",
+        "register": "netral"
+      },
+      {
+        "word": "女生",
+        "pinyin": "nǚ shēng",
+        "hsk": 1,
+        "usage_id": "siswi perempuan atau pemudi",
+        "quantity": null,
+        "purpose": "siswi perempuan",
+        "collocations": [
+          "学校女生",
+          "女生宿舍",
+          "女生人数",
+          "女生男生"
+        ],
+        "example_cn": "女生们都喜欢他。",
+        "example_pinyin": "Nvsheng men dou xihuan ta.",
+        "example_id": "Para siswi semua suka dia.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: '女人' = wanita dewasa; '女生' = siswi perempuan."
+  },
+  {
+    "id": "b7_kepala_rambut_2770",
+    "category": "tubuh",
+    "words": [
+      "头",
+      "发"
+    ],
+    "core_distinction_id": "'头' berarti 'kepala', sedangkan '发' berarti 'rambut' — perbedaan bagian tubuh.",
+    "comparison": [
+      {
+        "word": "头",
+        "pinyin": "tóu",
+        "hsk": 2,
+        "usage_id": "Kepala (bagian tubuh).",
+        "quantity": null,
+        "purpose": "Kepala.",
+        "collocations": [
+          "头脑",
+          "头疼",
+          "头发",
+          "头巾"
+        ],
+        "example_cn": "他的头有点疼。",
+        "example_pinyin": "Tā de tóu yǒudiǎn téng.",
+        "example_id": "Kepalanya agak sakit.",
+        "register": "netral"
+      },
+      {
+        "word": "发",
+        "pinyin": "fā",
+        "hsk": 2,
+        "usage_id": "Rambut (tumbuh di kepala).",
+        "quantity": null,
+        "purpose": "Rambut.",
+        "collocations": [
+          "头发",
+          "发型",
+          "理发",
+          "假发"
+        ],
+        "example_cn": "她的头发很长。",
+        "example_pinyin": "Tā de tóufa hěn cháng.",
+        "example_id": "Rambutnya panjang.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "❌ '头' untuk kepala, '发' untuk rambut."
+  },
+  {
+    "id": "b16_jielun_zongjie_3304",
+    "category": "kesimpulan",
+    "words": [
+      "结论",
+      "总结"
+    ],
+    "core_distinction_id": "'结论' kesimpulan (hasil analisis), '总结' rangkuman (menyeluruh).",
+    "comparison": [
+      {
+        "word": "结论",
+        "pinyin": "jié lùn",
+        "hsk": 4,
+        "usage_id": "Kesimpulan yang ditarik dari fakta atau analisis.",
+        "quantity": null,
+        "purpose": "Menyatakan hasil akhir.",
+        "collocations": [
+          "得出结论",
+          "科学结论",
+          "最终结论"
+        ],
+        "example_cn": "研究得出了重要结论。",
+        "example_pinyin": "Yánjiū déchū le zhòngyào jiélùn.",
+        "example_id": "Penelitian mencapai kesimpulan penting.",
+        "register": "formal"
+      },
+      {
+        "word": "总结",
+        "pinyin": "zǒng jié",
+        "hsk": 3,
+        "usage_id": "Rangkuman atau ringkasan dari suatu proses.",
+        "quantity": null,
+        "purpose": "Menyatakan rangkuman.",
+        "collocations": [
+          "工作总结",
+          "学习总结",
+          "总结报告"
+        ],
+        "example_cn": "他写了一份项目总结。",
+        "example_pinyin": "Tā xiě le yī fèn xiàngmù zǒngjié.",
+        "example_id": "Dia menulis ringkasan proyek.",
+        "register": "formal"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: memakai '总结' untuk kesimpulan analisis, misal ❌ 研究总结 (bisa, tapi '结论' lebih untuk hasil akhir)."
+  },
+  {
+    "id": "b16_qushi_chaoyue_3480",
+    "category": "tren",
+    "words": [
+      "趋势",
+      "潮流"
+    ],
+    "core_distinction_id": "'趋势' tren (perkembangan), '潮流' arus (gaya).",
+    "comparison": [
+      {
+        "word": "趋势",
+        "pinyin": "qū shì",
+        "hsk": 4,
+        "usage_id": "Tren atau kecenderungan dalam perubahan.",
+        "quantity": null,
+        "purpose": "Menyatakan tren.",
+        "collocations": [
+          "发展趋势",
+          "经济趋势",
+          "市场趋势"
+        ],
+        "example_cn": "经济趋势正在改善。",
+        "example_pinyin": "Jīngjì qūshì zhèngzài gǎishàn.",
+        "example_id": "Tren ekonomi sedang membaik.",
+        "register": "formal"
+      },
+      {
+        "word": "潮流",
+        "pinyin": "cháo liú",
+        "hsk": 4,
+        "usage_id": "Arus atau gaya yang sedang populer.",
+        "quantity": null,
+        "purpose": "Menyatakan gaya populer.",
+        "collocations": [
+          "时尚潮流",
+          "文化潮流",
+          "顺应潮流"
+        ],
+        "example_cn": "他喜欢追随时尚潮流。",
+        "example_pinyin": "Tā xǐhuān zhuīsuí shíshàng cháoliú.",
+        "example_id": "Dia suka mengikuti tren mode.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: memakai '潮流' untuk tren ekonomi, misal ❌ 经济潮流 (bisa, tapi '趋势' lebih untuk ekonomi)."
+  },
+  {
+    "id": "b35_selalu_kadang_1679",
+    "category": "nuansa selalu vs kadang-kadang",
+    "words": [
+      "恒",
+      "偶"
+    ],
+    "core_distinction_id": "恒 lebih ke selalu atau konstan; 偶 lebih ke kadang-kadang atau sesekali.",
+    "comparison": [
+      {
+        "word": "恒",
+        "pinyin": "héng",
+        "hsk": null,
+        "usage_id": "Selalu, konstan, atau tetap.",
+        "quantity": null,
+        "purpose": "Menyatakan ketetapan.",
+        "collocations": [
+          "永恒",
+          "恒心",
+          "恒温"
+        ],
+        "example_cn": "他对学习有恒心。",
+        "example_pinyin": "Tā duì xuéxí yǒu héngxīn.",
+        "example_id": "Dia memiliki ketekunan dalam belajar.",
+        "register": "formal"
+      },
+      {
+        "word": "偶",
+        "pinyin": "ǒu",
+        "hsk": null,
+        "usage_id": "Kadang-kadang atau sesekali.",
+        "quantity": null,
+        "purpose": "Menyatakan frekuensi rendah.",
+        "collocations": [
+          "偶尔",
+          "偶然",
+          "偶遇"
+        ],
+        "example_cn": "我偶尔去看电影。",
+        "example_pinyin": "Wǒ ǒu'ěr qù kàn diànyǐng.",
+        "example_id": "Saya kadang-kadang pergi menonton film.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: memakai 偶 untuk selalu. ❌ 偶去 (tidak tepat) vs ✅ 总是去 (selalu pergi)."
+  },
+  {
+    "id": "bA1_403",
+    "category": "penyelidikan & pencarian",
+    "words": [
+      "询问",
+      "查询"
+    ],
+    "core_distinction_id": "询问=bertanya kepada seseorang (informasi, pendapat); 查询=mencari/mengecek data (dokumen, sistem)",
+    "comparison": [
+      {
+        "word": "询问",
+        "pinyin": "xún wèn",
+        "hsk": 5,
+        "usage_id": "bertanya atau meminta keterangan kepada seseorang secara langsung",
+        "quantity": null,
+        "purpose": "menyatakan bertanya",
+        "collocations": [
+          "询问情况",
+          "询问价格",
+          "询问意见",
+          "询问路线",
+          "询问进展"
+        ],
+        "example_cn": "他向前台询问了会议室的的位置。",
+        "example_pinyin": "Tā xiàng qiántái xúnwèn le huìyìshì de wèizhi.",
+        "example_id": "Dia bertanya kepada resepsionis tentang lokasi ruang rapat.",
+        "register": "netral"
+      },
+      {
+        "word": "查询",
+        "pinyin": "chá xún",
+        "hsk": 5,
+        "usage_id": "mencari atau mengecek informasi melalui sistem, basis data, atau dokumen tertulis",
+        "quantity": null,
+        "purpose": "menyatakan pengecekan data",
+        "collocations": [
+          "查询信息",
+          "查询记录",
+          "查询号码",
+          "查询系统",
+          "查询账户"
+        ],
+        "example_cn": "你可以登录网站查询考试成绩。",
+        "example_pinyin": "Nǐ kěyǐ dēnglù wǎngzhàn cháxún kǎoshì chéngjī.",
+        "example_id": "Kamu bisa login ke situs web untuk mengecek nilai ujian.",
+        "register": "netral/teknologi"
+      }
+    ],
+    "common_mistake_id": "❌ 询问成绩 (seharusnya: 查询成绩 — jika mengecek di sistem; 询问如果 bertanya ke guru)"
+  },
+  {
+    "id": "b2_wai_guo_185",
+    "category": "luar-negeri",
+    "words": [
+      "外国",
+      "国外"
+    ],
+    "core_distinction_id": "外国= negara asing (konsep); 国外= luar negeri (tujuan)",
+    "comparison": [
+      {
+        "word": "外国",
+        "pinyin": "wài guó",
+        "hsk": 1,
+        "usage_id": "negara asing sebagai konsep",
+        "quantity": null,
+        "purpose": "negara asing",
+        "collocations": [
+          "外国人",
+          "外国朋友",
+          "外国文化",
+          "外国电影"
+        ],
+        "example_cn": "她是一个外国人。",
+        "example_pinyin": "Ta shi yi ge waiguoren.",
+        "example_id": "Dia adalah orang asing.",
+        "register": "netral"
+      },
+      {
+        "word": "国外",
+        "pinyin": "guó wài",
+        "hsk": 1,
+        "usage_id": "di luar negeri (tempat/tujuan)",
+        "quantity": null,
+        "purpose": "luar negeri",
+        "collocations": [
+          "在国外",
+          "去国外",
+          "国外生活",
+          "国外旅游"
+        ],
+        "example_cn": "他住在国外。",
+        "example_pinyin": "Ta zhu zai guowai.",
+        "example_id": "Dia tinggal di luar negeri.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: memakai '外国' untuk lokasi. '国外' = di luar negeri, '外国' = negara asing (konsep)."
+  },
+  {
+    "id": "bA1_210",
+    "category": "sempit",
+    "words": [
+      "狭小",
+      "窄小"
+    ],
+    "core_distinction_id": "狭小=sempit (ruang, formal); 窄小=sempit/kecil (ukuran, lebih lisan)",
+    "comparison": [
+      {
+        "word": "狭小",
+        "pinyin": "xiá xiǎo",
+        "hsk": 7,
+        "usage_id": "sempit, kecil (ruang, formal)",
+        "quantity": null,
+        "purpose": "menyatakan kesempitan",
+        "collocations": [
+          "狭小空间",
+          "狭小房间",
+          "狭小范围",
+          "狭小视野",
+          "狭小通道"
+        ],
+        "example_cn": "办公室空间狭小，走廊也很窄小。",
+        "example_pinyin": "Bàngōngshì kōngjiān xiáxiǎo, zǒuláng yě hěn zhǎixiǎo.",
+        "example_id": "Ruang kantor sempit, koridornya juga kecil.",
+        "register": "formal"
+      },
+      {
+        "word": "窄小",
+        "pinyin": "zhǎi xiǎo",
+        "hsk": null,
+        "usage_id": "sempit dan kecil (ukuran, lebih lisan)",
+        "quantity": null,
+        "purpose": "menyatakan kekecilan",
+        "collocations": [
+          "窄小房间",
+          "窄小路",
+          "窄小衣服",
+          "窄小缝隙",
+          "窄小空间"
+        ],
+        "example_cn": "这条路太窄小了，不能过车。",
+        "example_pinyin": "Zhè tiáo lù tài zhǎixiǎo le, bùnéng guò chē.",
+        "example_id": "Jalan ini terlalu sempit, tidak bisa dilalui mobil.",
+        "register": "lisan"
+      }
+    ],
+    "common_mistake_id": "❌ 狭小路 (seharusnya: 窄小路) — 狭小 untuk ruang formal, 窄小 untuk ukuran."
+  },
+  {
+    "id": "b14_cai_fang_388",
+    "category": "media",
+    "words": [
+      "采访",
+      "访问"
+    ],
+    "core_distinction_id": "采访= wawancara (jurnalis); 访问= mengunjungi (formal)",
+    "comparison": [
+      {
+        "word": "采访",
+        "pinyin": "cǎi fǎng",
+        "hsk": 4,
+        "usage_id": "mewawancarai untuk berita atau laporan",
+        "quantity": null,
+        "purpose": "wawancara",
+        "collocations": [
+          "采访记者",
+          "采访明星",
+          "采访现场",
+          "独家采访"
+        ],
+        "example_cn": "记者正在采访那位运动员。",
+        "example_pinyin": "Jizhe zhengzai caifang na wei yundongyuan.",
+        "example_id": "Wartawan sedang mewawancarai atlet itu.",
+        "register": "formal"
+      },
+      {
+        "word": "访问",
+        "pinyin": "fǎng wèn",
+        "hsk": 3,
+        "usage_id": "mengunjungi secara resmi",
+        "quantity": null,
+        "purpose": "mengunjungi",
+        "collocations": [
+          "国事访问",
+          "访问学者",
+          "网站访问",
+          "访问亲友"
+        ],
+        "example_cn": "总统正在访问这个国家。",
+        "example_pinyin": "Zongtong zhengzai fangwen zhe ge guojia.",
+        "example_id": "Presiden sedang mengunjungi negara ini.",
+        "register": "formal"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: '采访' = wawancara; '访问' = kunjungan resmi."
+  },
+  {
+    "id": "b29_di_tie_172",
+    "category": "transportasi",
+    "words": [
+      "地铁",
+      "轻轨"
+    ],
+    "core_distinction_id": "地铁= MRT/subway (bawah tanah); 轻轨= LRT (di atas permukaan)",
+    "comparison": [
+      {
+        "word": "地铁",
+        "pinyin": "dì tiě",
+        "hsk": 2,
+        "usage_id": "kereta bawah tanah dalam kota",
+        "quantity": null,
+        "purpose": "MRT",
+        "collocations": [
+          "坐地铁",
+          "地铁站",
+          "地铁线路",
+          "地铁卡"
+        ],
+        "example_cn": "我每天坐地铁上班。",
+        "example_pinyin": "Wo meitian zuo ditie shangban.",
+        "example_id": "Saya setiap hari naik MRT ke kantor.",
+        "register": "netral"
+      },
+      {
+        "word": "轻轨",
+        "pinyin": "qīng guǐ",
+        "hsk": null,
+        "usage_id": "kereta ringan yang biasanya berjalan di atas permukaan",
+        "quantity": null,
+        "purpose": "LRT",
+        "collocations": [
+          "坐轻轨",
+          "轻轨站",
+          "轻轨线路",
+          "轻轨列车"
+        ],
+        "example_cn": "这座城市有轻轨和地铁两种交通。",
+        "example_pinyin": "Zhe zuo chengshi you qinggui he ditie liang zhong jiaotong.",
+        "example_id": "Kota ini punya dua jenis transportasi: LRT dan MRT.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: memakai '地铁' untuk semua kereta kota. '地铁' di bawah tanah, '轻轨' di atas permukaan."
+  },
+  {
+    "id": "b16_li_fa_203",
+    "category": "profesi",
+    "words": [
+      "律师",
+      "法官"
+    ],
+    "core_distinction_id": "律师= pengacara (mewakili klien); 法官= hakim (memutuskan perkara)",
+    "comparison": [
+      {
+        "word": "律师",
+        "pinyin": "lǜ shī",
+        "hsk": 4,
+        "usage_id": "profesi yang memberi bantuan hukum dan mewakili klien",
+        "quantity": null,
+        "purpose": "pengacara",
+        "collocations": [
+          "请律师",
+          "律师费",
+          "律师事务所",
+          "刑事律师"
+        ],
+        "example_cn": "他请了一位律师。",
+        "example_pinyin": "Ta qing le yi wei lvshi.",
+        "example_id": "Dia menyewa seorang pengacara.",
+        "register": "formal"
+      },
+      {
+        "word": "法官",
+        "pinyin": "fǎ guān",
+        "hsk": 4,
+        "usage_id": "profesi yang memutuskan perkara di pengadilan",
+        "quantity": null,
+        "purpose": "hakim",
+        "collocations": [
+          "法官判决",
+          "法官公正",
+          "高等法官",
+          "法官开庭"
+        ],
+        "example_cn": "法官宣布了判决。",
+        "example_pinyin": "Faguan xuanbu le panjue.",
+        "example_id": "Hakim mengumumkan putusan.",
+        "register": "formal"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: memakai '律师' untuk hakim. '律师' = pengacara, '法官' = hakim."
+  },
+  {
+    "id": "b31_xiao_shou_502",
+    "category": "penjualan",
+    "words": [
+      "销售",
+      "营销"
+    ],
+    "core_distinction_id": "销售= penjualan (langsung); 营销= pemasaran (strategi)",
+    "comparison": [
+      {
+        "word": "销售",
+        "pinyin": "xiāo shòu",
+        "hsk": 4,
+        "usage_id": "kegiatan menjual produk secara langsung",
+        "quantity": null,
+        "purpose": "penjualan",
+        "collocations": [
+          "销售经理",
+          "销售员",
+          "销售业绩",
+          "销售渠道"
+        ],
+        "example_cn": "这家公司的销售业绩很好。",
+        "example_pinyin": "Zhe jia gongsi de xiaoshou yeji hen hao.",
+        "example_id": "Kinerja penjualan perusahaan ini sangat baik.",
+        "register": "formal"
+      },
+      {
+        "word": "营销",
+        "pinyin": "yíng xiāo",
+        "hsk": null,
+        "usage_id": "strategi pemasaran dan promosi",
+        "quantity": null,
+        "purpose": "pemasaran",
+        "collocations": [
+          "网络营销",
+          "市场营销",
+          "营销策略",
+          "营销人员"
+        ],
+        "example_cn": "他们正在制定新的营销策略。",
+        "example_pinyin": "Tamen zhengzai zhiding xin de yingxiao celue.",
+        "example_id": "Mereka sedang menyusun strategi pemasaran baru.",
+        "register": "formal"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: '销售' = penjualan; '营销' = pemasaran strategis."
+  },
+  {
+    "id": "bA1_355",
+    "category": "kepatutan & hukum",
+    "words": [
+      "合理",
+      "合法"
+    ],
+    "core_distinction_id": "合理=masuk akal/sesuai logika; 合法=sah/sesuai hukum",
+    "comparison": [
+      {
+        "word": "合理",
+        "pinyin": "hé lǐ",
+        "hsk": 3,
+        "usage_id": "menggambarkan sesuatu yang masuk akal, logis, atau sesuai dengan norma umum",
+        "quantity": null,
+        "purpose": "menilai kewajaran/logika",
+        "collocations": [
+          "价格合理",
+          "要求合理",
+          "安排合理",
+          "理由合理",
+          "分配合理"
+        ],
+        "example_cn": "这个价格很合理，我们决定买了。",
+        "example_pinyin": "Zhège jiàgé hěn hélǐ, wǒmen juédìng mǎi le.",
+        "example_id": "Harga ini sangat masuk akal, kami memutuskan untuk membelinya.",
+        "register": "netral"
+      },
+      {
+        "word": "合法",
+        "pinyin": "hé fǎ",
+        "hsk": 3,
+        "usage_id": "menggambarkan sesuatu yang sesuai dengan hukum atau peraturan resmi",
+        "quantity": null,
+        "purpose": "menilai kesesuaian dengan hukum",
+        "collocations": [
+          "合法经营",
+          "合法收入",
+          "合法权利",
+          "合法行为",
+          "合法途径"
+        ],
+        "example_cn": "这家公司所有业务都是合法的。",
+        "example_pinyin": "Zhè jiā gōngsī suǒyǒu yèwù dōu shì héfǎ de.",
+        "example_id": "Semua bisnis perusahaan ini sah secara hukum.",
+        "register": "resmi"
+      }
+    ],
+    "common_mistake_id": "❌ 他的收入很合理 (seharusnya: 他的收入合法 — jika maksudnya sah secara hukum)"
+  },
+  {
+    "id": "b20_kurang_minim_2333",
+    "category": "nuansa kurang vs minim",
+    "words": [
+      "缺乏",
+      "不足"
+    ],
+    "core_distinction_id": "'缺乏' berarti kekurangan (abstrak/formal) untuk pengalaman/keterampilan, sedangkan '不足' berarti tidak cukup (kuantitas/formal) untuk jumlah.",
+    "comparison": [
+      {
+        "word": "缺乏",
+        "pinyin": "quē fá",
+        "hsk": 5,
+        "usage_id": "Kekurangan (abstrak/formal) untuk pengalaman, keterampilan, atau perhatian.",
+        "quantity": null,
+        "purpose": "Kekurangan (abstrak).",
+        "collocations": [
+          "缺乏经验",
+          "缺乏自信",
+          "缺乏关注"
+        ],
+        "example_cn": "他缺乏足够的经验。",
+        "example_pinyin": "Tā quēfá zúgòu de jīngyàn.",
+        "example_id": "Dia kekurangan pengalaman yang cukup.",
+        "register": "formal"
+      },
+      {
+        "word": "不足",
+        "pinyin": "bù zú",
+        "hsk": 5,
+        "usage_id": "Tidak cukup, kurang (kuantitas/formal) untuk jumlah atau kualitas.",
+        "quantity": null,
+        "purpose": "Kurang (kuantitas).",
+        "collocations": [
+          "资金不足",
+          "经验不足",
+          "信心不足"
+        ],
+        "example_cn": "项目资金不足。",
+        "example_pinyin": "Xiàngmù zījīn bùzú.",
+        "example_id": "Dana proyek tidak cukup.",
+        "register": "formal"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: pakai '缺乏' untuk kuantitas → ❌ 缺乏资金 (bisa, tapi '资金不足' lebih umum); ✅ 资金不足."
+  },
+  {
+    "id": "juede_renwei_01",
+    "category": "opini & pendapat (ringan vs formal)",
+    "words": [
+      "觉得",
+      "认为"
+    ],
+    "core_distinction_id": "觉得 = 'merasa/menurut saya', opini yang lebih personal, berbasis perasaan/kesan, register santai. 认为 = 'berpendapat/menganggap', opini yang lebih rasional/berdasar argumen, register formal.",
+    "comparison": [
+      {
+        "word": "觉得",
+        "pinyin": "juéde",
+        "hsk": 1,
+        "usage_id": "Menyatakan pendapat yang lebih personal/berbasis perasaan atau kesan pertama -- cocok untuk percakapan sehari-hari, opini soal rasa, selera, kesan subjektif.",
+        "quantity": null,
+        "purpose": "menyatakan pendapat/perasaan pribadi secara santai",
+        "collocations": [
+          "我觉得",
+          "觉得好吃",
+          "觉得不舒服",
+          "你觉得呢"
+        ],
+        "example_cn": "我觉得这部电影很好看。",
+        "example_pinyin": "Wǒ juéde zhè bù diànyǐng hěn hǎokàn.",
+        "example_id": "Menurut saya film ini bagus.",
+        "register": "santai, sehari-hari"
+      },
+      {
+        "word": "认为",
+        "pinyin": "rènwéi",
+        "hsk": 2,
+        "usage_id": "Menyatakan pendapat yang lebih formal/rasional, biasanya berdasar pertimbangan atau argumen -- lazim dipakai dalam tulisan, debat, pernyataan resmi, berita. Kurang cocok untuk opini ringan soal rasa/selera pribadi.",
+        "quantity": null,
+        "purpose": "menyatakan pendapat formal berbasis pertimbangan/argumen",
+        "collocations": [
+          "专家认为",
+          "我们认为",
+          "普遍认为",
+          "认为...是"
+        ],
+        "example_cn": "专家认为这个方法更有效。",
+        "example_pinyin": "Zhuānjiā rènwéi zhège fāngfǎ gèng yǒuxiào.",
+        "example_id": "Para ahli berpendapat metode ini lebih efektif.",
+        "register": "formal, sering dalam tulisan/berita/argumentasi"
+      }
+    ],
+    "common_mistake_id": "Pembelajar pakai 认为 untuk opini ringan sehari-hari (mis. soal makanan enak/tidak) sehingga terdengar terlalu kaku/formal -- 我认为这个菜很好吃 kedengaran agak berlebihan dibanding 我觉得这个菜很好吃 yang lebih natural. Sebaliknya, dalam esai/laporan formal, 觉得 terlalu santai dan kurang cocok dibanding 认为."
+  },
+  {
+    "id": "b11_sekarang_cepat_2307",
+    "category": "nuansa sekarang vs cepat",
+    "words": [
+      "赶紧",
+      "赶快"
+    ],
+    "core_distinction_id": "'赶紧' berarti segera/lekas (desakan) secara umum, sedangkan '赶快' berarti segera/lekas (desakan) lebih ekspresif.",
+    "comparison": [
+      {
+        "word": "赶紧",
+        "pinyin": "gǎn jǐn",
+        "hsk": 3,
+        "usage_id": "Segera, lekas (desakan) dalam pengertian umum untuk bertindak.",
+        "quantity": null,
+        "purpose": "Segera (desakan).",
+        "collocations": [
+          "赶紧走",
+          "赶紧做",
+          "赶紧回家"
+        ],
+        "example_cn": "要迟到了，赶紧走吧。",
+        "example_pinyin": "Yào chídào le, gǎnjǐn zǒu ba.",
+        "example_id": "Hampir telat, cepat pergi.",
+        "register": "netral"
+      },
+      {
+        "word": "赶快",
+        "pinyin": "gǎn kuài",
+        "hsk": 3,
+        "usage_id": "Segera, lekas (desakan) lebih ekspresif/tegas dalam percakapan.",
+        "quantity": null,
+        "purpose": "Lekas (ekspresif).",
+        "collocations": [
+          "赶快来",
+          "赶快去",
+          "赶快行动"
+        ],
+        "example_cn": "赶快起来，要迟到了。",
+        "example_pinyin": "Gǎnkuài qǐlái, yào chídào le.",
+        "example_id": "Cepat bangun, hampir telat.",
+        "register": "santai"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: pakai '赶快' untuk desakan ringan → ❌ 赶快吧 (terlalu tegas); ✅ 赶紧吧."
+  },
+  {
+    "id": "b29_lembut_keras_1694",
+    "category": "nuansa lembut vs keras (tekstur/sikap)",
+    "words": [
+      "柔",
+      "刚"
+    ],
+    "core_distinction_id": "柔 lebih ke lembut (tekstur, sikap); 刚 lebih ke keras atau tegas.",
+    "comparison": [
+      {
+        "word": "柔",
+        "pinyin": "róu",
+        "hsk": null,
+        "usage_id": "Lembut, halus, atau tidak keras.",
+        "quantity": null,
+        "purpose": "Menyatakan kelembutan.",
+        "collocations": [
+          "柔软",
+          "温柔",
+          "柔和"
+        ],
+        "example_cn": "她的头发很柔软。",
+        "example_pinyin": "Tā de tóufa hěn róuruǎn.",
+        "example_id": "Rambutnya sangat lembut.",
+        "register": "netral"
+      },
+      {
+        "word": "刚",
+        "pinyin": "gāng",
+        "hsk": 2,
+        "usage_id": "Keras, tegas, atau baru saja.",
+        "quantity": null,
+        "purpose": "Menyatakan kekerasan/ketegasan.",
+        "collocations": [
+          "刚强",
+          "刚性",
+          "刚刚"
+        ],
+        "example_cn": "他的性格很刚强。",
+        "example_pinyin": "Tā de xìnggé hěn gāngqiáng.",
+        "example_id": "Karakter dia sangat tegas.",
+        "register": "formal"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: memakai 柔 untuk keras, atau sebaliknya. Pasangan kontras jelas."
+  },
+  {
+    "id": "b24_heran_keheranan_2023",
+    "category": "nuansa heran vs keheranan",
+    "words": [
+      "奇怪",
+      "惊讶"
+    ],
+    "core_distinction_id": "'奇怪' berarti aneh/ganjil (tidak biasa) atau heran, sedangkan '惊讶' berarti terkejut (karena sesuatu yang tidak terduga).",
+    "comparison": [
+      {
+        "word": "奇怪",
+        "pinyin": "qí guài",
+        "hsk": 3,
+        "usage_id": "Aneh, ganjil (tidak biasa) atau heran dalam pengertian umum.",
+        "quantity": null,
+        "purpose": "Aneh/heran (umum).",
+        "collocations": [
+          "很奇怪",
+          "奇怪的事",
+          "别奇怪"
+        ],
+        "example_cn": "他今天没来，真奇怪。",
+        "example_pinyin": "Tā jīntiān méi lái, zhēn qíguài.",
+        "example_id": "Dia tidak datang hari ini, sungguh aneh.",
+        "register": "netral"
+      },
+      {
+        "word": "惊讶",
+        "pinyin": "jīng yà",
+        "hsk": 7,
+        "usage_id": "Terkejut, kaget (karena sesuatu yang tidak diduga) dengan nuansa reaksi mendadak.",
+        "quantity": null,
+        "purpose": "Terkejut (reaksi).",
+        "collocations": [
+          "感到惊讶",
+          "惊讶的表情",
+          "令人惊讶"
+        ],
+        "example_cn": "听到这个消息，她非常惊讶。",
+        "example_pinyin": "Tīng dào zhège xiāoxi, tā fēicháng jīngyà.",
+        "example_id": "Mendengar berita itu, dia sangat terkejut.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: pakai '惊讶' untuk keanehan → ❌ 他的行为很惊讶 (salah, seharusnya '奇怪'); ✅ 他的行为很奇怪."
+  },
+  {
+    "id": "b11_nyata_jelas_1030",
+    "category": "nuansa bukti/visual",
+    "words": [
+      "明显",
+      "显然"
+    ],
+    "core_distinction_id": "'明显' berarti 'jelas/nyata' berdasarkan pengamatan objektif (bisa dilihat/diukur), sedangkan '显然' berarti 'jelas sekali' berdasarkan logika atau kesimpulan — sering dengan implikasi 'sudah pasti/terbukti'.",
+    "comparison": [
+      {
+        "word": "明显",
+        "pinyin": "míng xiǎn",
+        "hsk": 3,
+        "usage_id": "Dipakai untuk sesuatu yang mudah dilihat, dirasakan, atau dipahami karena perbedaan yang mencolok. Fokus pada bukti visual/indrawi.",
+        "quantity": null,
+        "purpose": "menyatakan jelas secara objektif",
+        "collocations": [
+          "明显变化",
+          "明显区别",
+          "明显提高",
+          "明显错误",
+          "看得明显"
+        ],
+        "example_cn": "他的中文水平有了明显提高。",
+        "example_pinyin": "Tā de zhōngwén shuǐpíng yǒu le míngxiǎn tígāo.",
+        "example_id": "Kemampuan bahasa Mandarinnya meningkat secara jelas.",
+        "register": "netral"
+      },
+      {
+        "word": "显然",
+        "pinyin": "xiǎn rán",
+        "hsk": 3,
+        "usage_id": "Dipakai untuk menyatakan bahwa sesuatu sudah sangat jelas berdasarkan bukti/logika, sering dengan nada 'tidak perlu diragukan lagi' atau untuk kesimpulan.",
+        "quantity": null,
+        "purpose": "menyatakan jelas sekali/kesimpulan",
+        "collocations": [
+          "显然不是",
+          "显然可以",
+          "显然有问题",
+          "显然不知道",
+          "显然正确"
+        ],
+        "example_cn": "他显然没听懂老师的问题。",
+        "example_pinyin": "Tā xiǎnrán méi tīngdǒng lǎoshī de wèntí.",
+        "example_id": "Dia jelas tidak memahami pertanyaan guru.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: pakai '显然' untuk perbedaan fisik. ❌ Warna kedua tas ini 显然 berbeda. ✅ Warna kedua tas ini 明显 berbeda."
+  },
+  {
+    "id": "b15_zhaokai_huiyi_3177",
+    "category": "rapat",
+    "words": [
+      "召开",
+      "会议"
+    ],
+    "core_distinction_id": "'召开' mengadakan/memanggil rapat, '会议' rapat (kata benda).",
+    "comparison": [
+      {
+        "word": "召开",
+        "pinyin": "zhào kāi",
+        "hsk": 4,
+        "usage_id": "Mengadakan atau memanggil rapat, konferensi, atau pertemuan.",
+        "quantity": null,
+        "purpose": "Menyatakan tindakan mengadakan rapat.",
+        "collocations": [
+          "召开会议",
+          "召开大会",
+          "召开董事会"
+        ],
+        "example_cn": "公司明天将召开年度会议。",
+        "example_pinyin": "Gōngsī míngtiān jiāng zhàokāi niándù huìyì.",
+        "example_id": "Perusahaan akan mengadakan rapat tahunan besok.",
+        "register": "formal"
+      },
+      {
+        "word": "会议",
+        "pinyin": "huì yì",
+        "hsk": 3,
+        "usage_id": "Rapat atau pertemuan sebagai suatu acara.",
+        "quantity": null,
+        "purpose": "Menyatakan rapat.",
+        "collocations": [
+          "工作会议",
+          "国际会议",
+          "会议记录"
+        ],
+        "example_cn": "会议将讨论新的项目。",
+        "example_pinyin": "Huìyì jiāng tǎolùn xīn de xiàngmù.",
+        "example_id": "Rapat akan membahas proyek baru.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: memakai '会议' sebagai verba, misal ❌ 会议明天 (tidak tepat) vs ✅ 召开会议明天."
+  },
+  {
+    "id": "b24_memperhatikan_memerhatikan_1441",
+    "category": "nuansa intensitas dan durasi perhatian",
+    "words": [
+      "注意",
+      "留意"
+    ],
+    "core_distinction_id": "注意 lebih umum untuk mengarahkan perhatian ke sesuatu; 留意 lebih ke memperhatikan dengan saksama dan terus-menerus, sering untuk detail atau perubahan halus.",
+    "comparison": [
+      {
+        "word": "注意",
+        "pinyin": "zhù yì",
+        "hsk": 3,
+        "usage_id": "Digunakan untuk memfokuskan perhatian pada sesuatu yang penting atau berpotensi berbahaya. Bisa bersifat instruksi singkat atau peringatan.",
+        "quantity": null,
+        "purpose": "Memberi tahu seseorang agar waspada atau fokus pada suatu hal.",
+        "collocations": [
+          "注意安全",
+          "注意听",
+          "注意身体"
+        ],
+        "example_cn": "请注意听老师说话。",
+        "example_pinyin": "Qǐng zhùyì tīng lǎoshī shuōhuà.",
+        "example_id": "Mohon perhatikan baik-baik apa yang dikatakan guru.",
+        "register": "netral"
+      },
+      {
+        "word": "留意",
+        "pinyin": "liú yì",
+        "hsk": 7,
+        "usage_id": "Menunjukkan perhatian yang berkelanjutan dan lebih halus, sering untuk mengamati perubahan, detail, atau tanda-tanda kecil.",
+        "quantity": null,
+        "purpose": "Mengamati dengan saksama agar tidak terlewatkan perubahan atau detail tertentu.",
+        "collocations": [
+          "留意细节",
+          "留意天气变化",
+          "多留意"
+        ],
+        "example_cn": "你要多留意天气变化。",
+        "example_pinyin": "Nǐ yào duō liúyì tiānqì biànhuà.",
+        "example_id": "Kamu harus lebih memperhatikan perubahan cuaca.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: memakai 注意 untuk hal yang memerlukan pengamatan jangka panjang (mis. perubahan cuaca). ❌ 你要注意天气变化 (terkesan 'waspadai bahaya cuaca') vs ✅ 你要留意天气变化 (perhatikan perubahannya secara saksama)."
+  },
+  {
+    "id": "b7_seperti_umpama_2669",
+    "category": "perbandingan",
+    "words": [
+      "比如",
+      "例如"
+    ],
+    "core_distinction_id": "'比如' berarti 'misalnya' (umum), sedangkan '例如' berarti 'misalnya' (formal/tulisan).",
+    "comparison": [
+      {
+        "word": "比如",
+        "pinyin": "bǐ rú",
+        "hsk": 2,
+        "usage_id": "Misalnya (umum, lisan).",
+        "quantity": null,
+        "purpose": "Contoh.",
+        "collocations": [
+          "比如水果",
+          "比如这个",
+          "比如他",
+          "比如北京"
+        ],
+        "example_cn": "很多城市，比如北京，人口很多。",
+        "example_pinyin": "Hěnduō chéngshì, bǐrú Běijīng, rénkǒu hěnduō.",
+        "example_id": "Banyak kota, misalnya Beijing, penduduknya banyak.",
+        "register": "netral"
+      },
+      {
+        "word": "例如",
+        "pinyin": "lì rú",
+        "hsk": 2,
+        "usage_id": "Misalnya (formal, tulisan).",
+        "quantity": null,
+        "purpose": "Contoh formal.",
+        "collocations": [
+          "例如水果",
+          "例如这个",
+          "例如他",
+          "例如北京"
+        ],
+        "example_cn": "一些国家，例如中国，有悠久历史。",
+        "example_pinyin": "Yīxiē guójiā, lìrú Zhōngguó, yǒu yōujiǔ lìshǐ.",
+        "example_id": "Beberapa negara, misalnya China, memiliki sejarah panjang.",
+        "register": "formal"
+      }
+    ],
+    "common_mistake_id": "❌ '比如' untuk lisan, '例如' untuk tulisan."
+  },
+  {
+    "id": "b27_licin_halus_2251",
+    "category": "nuansa licin vs halus",
+    "words": [
+      "滑",
+      "光滑"
+    ],
+    "core_distinction_id": "'滑' berarti licin (permukaan) secara umum, sedangkan '光滑' berarti halus/licin (formal) untuk permukaan yang rata.",
+    "comparison": [
+      {
+        "word": "滑",
+        "pinyin": "huá",
+        "hsk": 5,
+        "usage_id": "Licin (permukaan) atau tergelincir dalam pengertian umum sehari-hari.",
+        "quantity": null,
+        "purpose": "Licin (umum).",
+        "collocations": [
+          "滑倒",
+          "滑冰",
+          "光滑"
+        ],
+        "example_cn": "地板很滑，小心摔倒。",
+        "example_pinyin": "Dìbǎn hěn huá, xiǎoxīn shuāidǎo.",
+        "example_id": "Lantai licin, hati-hati jatuh.",
+        "register": "netral"
+      },
+      {
+        "word": "光滑",
+        "pinyin": "guāng huá",
+        "hsk": 7,
+        "usage_id": "Halus, licin (formal) untuk permukaan yang rata dan mengkilap.",
+        "quantity": null,
+        "purpose": "Halus (formal).",
+        "collocations": [
+          "光滑的皮肤",
+          "光滑的大理石",
+          "光滑的表面"
+        ],
+        "example_cn": "这块石头表面非常光滑。",
+        "example_pinyin": "Zhè kuài shítou biǎomiàn fēicháng guānghuá.",
+        "example_id": "Permukaan batu ini sangat halus.",
+        "register": "formal"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: pakai '光滑' untuk licin berbahaya → ❌ 光滑的地板 (bisa berarti halus, bukan licin); ✅ 很滑的地板."
+  },
+  {
+    "id": "b7_renkou_renshu_3510",
+    "category": "populasi",
+    "words": [
+      "人口",
+      "人数"
+    ],
+    "core_distinction_id": "'人口' populasi (wilayah), '人数' jumlah orang (kelompok).",
+    "comparison": [
+      {
+        "word": "人口",
+        "pinyin": "rén kǒu",
+        "hsk": 2,
+        "usage_id": "Jumlah penduduk suatu wilayah atau negara.",
+        "quantity": null,
+        "purpose": "Menyatakan populasi.",
+        "collocations": [
+          "人口增长",
+          "人口普查",
+          "人口密度"
+        ],
+        "example_cn": "中国人口超过十四亿。",
+        "example_pinyin": "Zhōngguó rénkǒu chāoguò shísì yì.",
+        "example_id": "Populasi Tiongkok melebihi 1,4 miliar.",
+        "register": "formal"
+      },
+      {
+        "word": "人数",
+        "pinyin": "rén shù",
+        "hsk": 2,
+        "usage_id": "Jumlah orang dalam kelompok tertentu.",
+        "quantity": null,
+        "purpose": "Menyatakan jumlah orang.",
+        "collocations": [
+          "参加人数",
+          "出席人数",
+          "人数限制"
+        ],
+        "example_cn": "这次活动参加人数很多。",
+        "example_pinyin": "Zhè cì huódòng cānjiā rénshù hěnduō.",
+        "example_id": "Jumlah peserta kegiatan ini sangat banyak.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: memakai '人数' untuk populasi, misal ❌ 中国人数 (bisa, tapi '人口' untuk wilayah)."
+  },
+  {
+    "id": "b25_memotong_mengiris_1492",
+    "category": "nuansa memotong umum vs mengiris tipis",
+    "words": [
+      "切",
+      "割"
+    ],
+    "core_distinction_id": "切 lebih ke memotong dengan pisau atau alat, sering untuk makanan atau benda; 割 lebih ke mengiris atau memotong dengan gerakan menarik (seperti pisau, sabit, atau kaca).",
+    "comparison": [
+      {
+        "word": "切",
+        "pinyin": "qiē",
+        "hsk": 4,
+        "usage_id": "Memotong dengan pisau atau alat, biasanya untuk makanan, kertas, atau benda. Gerakan menekan ke bawah.",
+        "quantity": null,
+        "purpose": "Menyatakan pemotongan dengan tekanan.",
+        "collocations": [
+          "切菜",
+          "切水果",
+          "切蛋糕"
+        ],
+        "example_cn": "她在切苹果。",
+        "example_pinyin": "Tā zài qiē píngguǒ.",
+        "example_id": "Dia sedang memotong apel.",
+        "register": "santai"
+      },
+      {
+        "word": "割",
+        "pinyin": "gē",
+        "hsk": 7,
+        "usage_id": "Mengiris atau memotong dengan gerakan menarik, sering untuk rumput, tanaman, atau kertas (dengan silet).",
+        "quantity": null,
+        "purpose": "Menyatakan pengirisan dengan tarikan.",
+        "collocations": [
+          "割草",
+          "割伤",
+          "割断"
+        ],
+        "example_cn": "他不小心割破了手指。",
+        "example_pinyin": "Tā bù xiǎoxīn gē pòle shǒuzhǐ.",
+        "example_id": "Dia tidak sengaja mengiris jarinya.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: memakai 割 untuk memotong makanan. ❌ 割苹果 (tidak lazim) vs ✅ 切苹果 (memotong apel)."
+  },
+  {
+    "id": "b24_kamar_mandi_2725",
+    "category": "tempat",
+    "words": [
+      "卫生间",
+      "浴室"
+    ],
+    "core_distinction_id": "'卫生间' berarti 'kamar mandi/toilet' (umum), sedangkan '浴室' berarti 'kamar mandi' (untuk mandi).",
+    "comparison": [
+      {
+        "word": "卫生间",
+        "pinyin": "wèi shēng jiān",
+        "hsk": 3,
+        "usage_id": "Kamar mandi/toilet (termasuk WC).",
+        "quantity": null,
+        "purpose": "Toilet.",
+        "collocations": [
+          "去卫生间",
+          "卫生间干净",
+          "公共卫生间",
+          "主卧卫生间"
+        ],
+        "example_cn": "请问卫生间在哪里？",
+        "example_pinyin": "Qǐngwèn wèishēngjiān zài nǎlǐ?",
+        "example_id": "Permisi, di mana toiletnya?",
+        "register": "netral"
+      },
+      {
+        "word": "浴室",
+        "pinyin": "yù shì",
+        "hsk": 7,
+        "usage_id": "Kamar mandi (untuk mandi, kadang termasuk WC).",
+        "quantity": null,
+        "purpose": "Kamar mandi.",
+        "collocations": [
+          "浴室设备",
+          "浴室毛巾",
+          "大浴室",
+          "浴室装修"
+        ],
+        "example_cn": "她在浴室里洗澡。",
+        "example_pinyin": "Tā zài yùshì lǐ xǐzǎo.",
+        "example_id": "Dia mandi di kamar mandi.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "❌ '卫生间' untuk toilet, '浴室' untuk mandi."
+  },
+  {
+    "id": "bA1_414",
+    "category": "penyelesaian & penghapusan",
+    "words": [
+      "化解",
+      "消除"
+    ],
+    "core_distinction_id": "化解=meredakan/menyelesaikan (konflik, masalah); 消除=menghilangkan (gejala, risiko, dampak)",
+    "comparison": [
+      {
+        "word": "化解",
+        "pinyin": "huà jiě",
+        "hsk": 6,
+        "usage_id": "meredakan atau menyelesaikan konflik, ketegangan, atau masalah secara damai",
+        "quantity": null,
+        "purpose": "menyatakan resolusi konflik",
+        "collocations": [
+          "化解矛盾",
+          "化解危机",
+          "化解纠纷",
+          "化解误解",
+          "化解敌意"
+        ],
+        "example_cn": "双方通过对话化解了多年的矛盾。",
+        "example_pinyin": "Shuāngfāng tōngguò duìhuà huàjiě le duōnián de máodùn.",
+        "example_id": "Kedua belah pihak menyelesaikan konflik bertahun-tahun melalui dialog.",
+        "register": "netral"
+      },
+      {
+        "word": "消除",
+        "pinyin": "xiāo chú",
+        "hsk": 5,
+        "usage_id": "menghilangkan atau menyingkirkan gejala, risiko, atau dampak negatif",
+        "quantity": null,
+        "purpose": "menyatakan penghapusan",
+        "collocations": [
+          "消除隐患",
+          "消除影响",
+          "消除疲劳",
+          "消除误解",
+          "消除隔阂"
+        ],
+        "example_cn": "政府采取措施消除贫困。",
+        "example_pinyin": "Zhèngfǔ cǎiqǔ cuòshī xiāochú pínkùn.",
+        "example_id": "Pemerintah mengambil langkah untuk menghilangkan kemiskinan.",
+        "register": "netral/resmi"
+      }
+    ],
+    "common_mistake_id": "❌ 消除矛盾 (seharusnya: 化解矛盾 — 消除 untuk dampak/gejala, 化解 untuk hubungan)"
+  },
+  {
+    "id": "b19_jingzheng_hezuo_3462",
+    "category": "kompetisi",
+    "words": [
+      "竞争",
+      "合作"
+    ],
+    "core_distinction_id": "'竞争' bersaing, '合作' bekerja sama.",
+    "comparison": [
+      {
+        "word": "竞争",
+        "pinyin": "jìng zhēng",
+        "hsk": 5,
+        "usage_id": "Bersaing dengan orang lain untuk sesuatu.",
+        "quantity": null,
+        "purpose": "Menyatakan persaingan.",
+        "collocations": [
+          "市场竞争",
+          "激烈竞争",
+          "竞争对手"
+        ],
+        "example_cn": "市场上有很多竞争。",
+        "example_pinyin": "Shìchǎng shàng yǒu hěnduō jìngzhēng.",
+        "example_id": "Ada banyak persaingan di pasar.",
+        "register": "netral"
+      },
+      {
+        "word": "合作",
+        "pinyin": "hé zuò",
+        "hsk": 3,
+        "usage_id": "Bekerja sama dengan orang lain.",
+        "quantity": null,
+        "purpose": "Menyatakan kerja sama.",
+        "collocations": [
+          "合作项目",
+          "合作愉快",
+          "密切合作"
+        ],
+        "example_cn": "两家公司正在合作。",
+        "example_pinyin": "Liǎng jiā gōngsī zhèngzài hézuò.",
+        "example_id": "Dua perusahaan sedang bekerja sama.",
+        "register": "netral"
+      }
+    ],
+    "common_mistake_id": "Kesalahan: memakai '合作' untuk persaingan, misal ❌ 市场竞争合作 (kurang tepat) vs ✅ 市场竞争竞争."
+  }
+]
