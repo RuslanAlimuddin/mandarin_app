@@ -1,0 +1,809 @@
+{
+  "folder_listing": [
+    {
+      "name": "# HSK 5 - DAFTAR LENGKAP TATA BAHASA (120+ Poin).txt",
+      "size_bytes": 62070
+    },
+    {
+      "name": "# HSK 6 - DAFTAR LENGKAP TATA BAHASA (100+ Poin).txt",
+      "size_bytes": 47212
+    },
+    {
+      "name": "# HSK 7 - DAFTAR LENGKAP TATA BAHASA (70+ Poin).txt",
+      "size_bytes": 42454
+    },
+    {
+      "name": "# HSK 8 - DAFTAR LENGKAP TATA BAHASA (80+ Poin).txt",
+      "size_bytes": 51626
+    },
+    {
+      "name": "# HSK 9 - DAFTAR LENGKAP TATA BAHASA (70+ Poin).txt",
+      "size_bytes": 22504
+    },
+    {
+      "name": "1 📚 HSK 1 - 48 POIN TATA BAHASA LENGKAP.txt",
+      "size_bytes": 36214
+    },
+    {
+      "name": "2 📚 HSK 2 - DAFTAR LENGKAP TATA BAHASA (60+ Poin).txt",
+      "size_bytes": 31826
+    },
+    {
+      "name": "3 📚 HSK 3 - DAFTAR LENGKAP TATA BAHASA (80+ Poin).txt",
+      "size_bytes": 35119
+    },
+    {
+      "name": "4 📚 HSK 4 - DAFTAR LENGKAP TATA BAHASA (100+ Poin).txt",
+      "size_bytes": 38912
+    },
+    {
+      "name": "analisis_produktivitas.py",
+      "size_bytes": 4519
+    },
+    {
+      "name": "app_words lama.json",
+      "size_bytes": 9485276
+    },
+    {
+      "name": "app_words.bak_manual18_20260730_173849.json",
+      "size_bytes": 8870364
+    },
+    {
+      "name": "app_words.bak_round2_20260730_190609.json",
+      "size_bytes": 9973026
+    },
+    {
+      "name": "app_words.json",
+      "size_bytes": 9750510
+    },
+    {
+      "name": "app_words.json.bak_20260724_195632",
+      "size_bytes": 8295045
+    },
+    {
+      "name": "app_words.json.bak_20260727_145048",
+      "size_bytes": 8826144
+    },
+    {
+      "name": "app_words.json.bak_20260727_192509",
+      "size_bytes": 8876089
+    },
+    {
+      "name": "app_words.json.bak_20260727_192549",
+      "size_bytes": 8875519
+    },
+    {
+      "name": "app_words.json.bak_20260727_192558",
+      "size_bytes": 8875209
+    },
+    {
+      "name": "app_words.json.bak_20260727_192605",
+      "size_bytes": 8875034
+    },
+    {
+      "name": "app_words.json.bak_20260727_192614",
+      "size_bytes": 8874800
+    },
+    {
+      "name": "app_words.json.bak_20260727_192621",
+      "size_bytes": 8874328
+    },
+    {
+      "name": "app_words.json.bak_20260727_192627",
+      "size_bytes": 8873968
+    },
+    {
+      "name": "app_words.json.bak_20260727_192634",
+      "size_bytes": 8873888
+    },
+    {
+      "name": "app_words.json.bak_20260727_192642",
+      "size_bytes": 8873602
+    },
+    {
+      "name": "app_words.json.bak_20260727_194631",
+      "size_bytes": 8872829
+    },
+    {
+      "name": "app_words.json.bak_20260727_194813",
+      "size_bytes": 8872685
+    },
+    {
+      "name": "app_words.json.bak_20260727_195045",
+      "size_bytes": 8872390
+    },
+    {
+      "name": "app_words.json.bak_20260727_195322",
+      "size_bytes": 8872347
+    },
+    {
+      "name": "app_words.json.bak_20260727_195414",
+      "size_bytes": 8871981
+    },
+    {
+      "name": "app_words.json.bak_20260727_195512",
+      "size_bytes": 8872207
+    },
+    {
+      "name": "app_words.json.bak_20260727_195647",
+      "size_bytes": 8872027
+    },
+    {
+      "name": "app_words.json.bak_20260727_195724",
+      "size_bytes": 8871783
+    },
+    {
+      "name": "app_words.json.bak_20260727_195743",
+      "size_bytes": 8871368
+    },
+    {
+      "name": "app_words.json.bak_20260727_195922",
+      "size_bytes": 8871336
+    },
+    {
+      "name": "app_words.json.bak_20260727_200014",
+      "size_bytes": 8870930
+    },
+    {
+      "name": "app_words.json.bak_20260727_200401",
+      "size_bytes": 8870706
+    },
+    {
+      "name": "app_words.json.bak_20260727_200451",
+      "size_bytes": 8870661
+    },
+    {
+      "name": "app_words.json.bak_20260727_200728",
+      "size_bytes": 8870514
+    },
+    {
+      "name": "app_words.json.bak_20260729_221158",
+      "size_bytes": 8870366
+    },
+    {
+      "name": "app_words.json.bak_override_20260730_071443",
+      "size_bytes": 8870368
+    },
+    {
+      "name": "build_fixed.py",
+      "size_bytes": 13206
+    },
+    {
+      "name": "char_etymology_id.json",
+      "size_bytes": 313846
+    },
+    {
+      "name": "character_etymology_en.json",
+      "size_bytes": 600190
+    },
+    {
+      "name": "cidict.py",
+      "size_bytes": 632
+    },
+    {
+      "name": "cidict_full.json",
+      "size_bytes": 24734529
+    },
+    {
+      "name": "cidict_index.json",
+      "size_bytes": 27075825
+    },
+    {
+      "name": "cidict_semantic_index.json",
+      "size_bytes": 36980487
+    },
+    {
+      "name": "cidict_ts.u8",
+      "size_bytes": 10022891
+    },
+    {
+      "name": "confusion_groups.json",
+      "size_bytes": 8819
+    },
+    {
+      "name": "dictionary.txt",
+      "size_bytes": 2570140
+    },
+    {
+      "name": "extract_v2.py",
+      "size_bytes": 6104
+    },
+    {
+      "name": "graded_readers.json",
+      "size_bytes": 1341977
+    },
+    {
+      "name": "graded_readers.json.bak_20260727_091543",
+      "size_bytes": 1220441
+    },
+    {
+      "name": "graded_readers.json.bak_20260728_074216",
+      "size_bytes": 1017053
+    },
+    {
+      "name": "graded_readers.json.bak_20260730_133133",
+      "size_bytes": 1150782
+    },
+    {
+      "name": "graded_readers.json.bak_20260730_183325",
+      "size_bytes": 1157386
+    },
+    {
+      "name": "graded_readers.json.bak_20260730_194328",
+      "size_bytes": 1155964
+    },
+    {
+      "name": "graded_readers_backup_sebelum_merge.json",
+      "size_bytes": 468289
+    },
+    {
+      "name": "graded_readers_backup_sebelum_merge_hsk9.json",
+      "size_bytes": 1177144
+    },
+    {
+      "name": "graded_readers_tema.json",
+      "size_bytes": 37131
+    },
+    {
+      "name": "graded_readers_tema2.json",
+      "size_bytes": 16578
+    },
+    {
+      "name": "graded_readers_tema3.json",
+      "size_bytes": 8067
+    },
+    {
+      "name": "graded_readers_tema4.json",
+      "size_bytes": 11270
+    },
+    {
+      "name": "graded_readers_tema5.json",
+      "size_bytes": 24269
+    },
+    {
+      "name": "graded_readers_tema6.json",
+      "size_bytes": 125673
+    },
+    {
+      "name": "graded_readers_tema7.json",
+      "size_bytes": 127736
+    },
+    {
+      "name": "graded_readers_tema8.json",
+      "size_bytes": 112799
+    },
+    {
+      "name": "grammar_hsk1.json",
+      "size_bytes": 61084
+    },
+    {
+      "name": "grammar_hsk2.json",
+      "size_bytes": 60729
+    },
+    {
+      "name": "grammar_hsk3.json",
+      "size_bytes": 71723
+    },
+    {
+      "name": "grammar_hsk4.json",
+      "size_bytes": 69427
+    },
+    {
+      "name": "grammar_hsk5.json",
+      "size_bytes": 90879
+    },
+    {
+      "name": "grammar_hsk6.json",
+      "size_bytes": 61290
+    },
+    {
+      "name": "grammar_hsk7.json",
+      "size_bytes": 65359
+    },
+    {
+      "name": "grammar_hsk8.json",
+      "size_bytes": 80250
+    },
+    {
+      "name": "grammar_hsk9.json",
+      "size_bytes": 50338
+    },
+    {
+      "name": "graphics.txt",
+      "size_bytes": 30778076
+    },
+    {
+      "name": "hanzi_writer_data.json",
+      "size_bytes": 8506550
+    },
+    {
+      "name": "hsk_7_9_grammar_reference.json",
+      "size_bytes": 19576
+    },
+    {
+      "name": "hsk_new_words.json",
+      "size_bytes": 24499470
+    },
+    {
+      "name": "hsk_new_words_v2.json",
+      "size_bytes": 2027839
+    },
+    {
+      "name": "index_kelompok_khusus.json",
+      "size_bytes": 10104
+    },
+    {
+      "name": "index_phonetic.json",
+      "size_bytes": 686537
+    },
+    {
+      "name": "index_radical.json",
+      "size_bytes": 117109
+    },
+    {
+      "name": "index_stroke.json",
+      "size_bytes": 115366
+    },
+    {
+      "name": "index_theme.json",
+      "size_bytes": 86754
+    },
+    {
+      "name": "index_theme.json.bak_20260727_192509",
+      "size_bytes": 83732
+    },
+    {
+      "name": "index_theme.json.bak_20260727_192549",
+      "size_bytes": 95757
+    },
+    {
+      "name": "index_theme.json.bak_20260727_192558",
+      "size_bytes": 95282
+    },
+    {
+      "name": "index_theme.json.bak_20260727_192605",
+      "size_bytes": 94876
+    },
+    {
+      "name": "index_theme.json.bak_20260727_192614",
+      "size_bytes": 94452
+    },
+    {
+      "name": "index_theme.json.bak_20260727_192621",
+      "size_bytes": 94010
+    },
+    {
+      "name": "index_theme.json.bak_20260727_192627",
+      "size_bytes": 93445
+    },
+    {
+      "name": "index_theme.json.bak_20260727_192634",
+      "size_bytes": 93099
+    },
+    {
+      "name": "index_theme.json.bak_20260727_192642",
+      "size_bytes": 92628
+    },
+    {
+      "name": "index_theme.json.bak_20260727_194631",
+      "size_bytes": 91918
+    },
+    {
+      "name": "index_theme.json.bak_20260727_194813",
+      "size_bytes": 91598
+    },
+    {
+      "name": "index_theme.json.bak_20260727_195045",
+      "size_bytes": 91089
+    },
+    {
+      "name": "index_theme.json.bak_20260727_195322",
+      "size_bytes": 90810
+    },
+    {
+      "name": "index_theme.json.bak_20260727_195414",
+      "size_bytes": 90273
+    },
+    {
+      "name": "index_theme.json.bak_20260727_195512",
+      "size_bytes": 89973
+    },
+    {
+      "name": "index_theme.json.bak_20260727_195647",
+      "size_bytes": 89429
+    },
+    {
+      "name": "index_theme.json.bak_20260727_195724",
+      "size_bytes": 89021
+    },
+    {
+      "name": "index_theme.json.bak_20260727_195743",
+      "size_bytes": 88696
+    },
+    {
+      "name": "index_theme.json.bak_20260727_195922",
+      "size_bytes": 88346
+    },
+    {
+      "name": "index_theme.json.bak_20260727_200014",
+      "size_bytes": 87992
+    },
+    {
+      "name": "index_theme.json.bak_20260727_200401",
+      "size_bytes": 87615
+    },
+    {
+      "name": "index_theme.json.bak_20260727_200451",
+      "size_bytes": 87238
+    },
+    {
+      "name": "index_theme.json.bak_20260727_200728",
+      "size_bytes": 86995
+    },
+    {
+      "name": "index_theme_backup.json",
+      "size_bytes": 92266
+    },
+    {
+      "name": "kangxi_radical_map.json",
+      "size_bytes": 3533
+    },
+    {
+      "name": "kata_majemuk_pola.json",
+      "size_bytes": 1390913
+    },
+    {
+      "name": "konversi_tabel_akar.py",
+      "size_bytes": 11485
+    },
+    {
+      "name": "laporan_tema_sample.json",
+      "size_bytes": 140742
+    },
+    {
+      "name": "nuance_pairs.json",
+      "size_bytes": 2193236
+    },
+    {
+      "name": "output akar kosakata.xlsx",
+      "size_bytes": 1821254
+    },
+    {
+      "name": "pattern_explanations.json",
+      "size_bytes": 110910
+    },
+    {
+      "name": "peek_and_extract.py",
+      "size_bytes": 6668
+    },
+    {
+      "name": "peek_random.py",
+      "size_bytes": 4194
+    },
+    {
+      "name": "peek_random_report.txt",
+      "size_bytes": 14039
+    },
+    {
+      "name": "peek_report.txt",
+      "size_bytes": 1776
+    },
+    {
+      "name": "pelajaran",
+      "is_dir": true
+    },
+    {
+      "name": "produktif_karakter.json",
+      "size_bytes": 2517180
+    },
+    {
+      "name": "synonym_antonym.json",
+      "size_bytes": 104142
+    },
+    {
+      "name": "themes_external_raw.json",
+      "size_bytes": 409831
+    },
+    {
+      "name": "themes_extracted.json",
+      "size_bytes": 16560988
+    },
+    {
+      "name": "themes_extracted_v2.json",
+      "size_bytes": 8126318
+    },
+    {
+      "name": "tone_drills.json",
+      "size_bytes": 625336
+    },
+    {
+      "name": "unmatched_theme_words.json",
+      "size_bytes": 90397
+    },
+    {
+      "name": "wb_pools.json",
+      "size_bytes": 94770
+    },
+    {
+      "name": "xlsx_ke_html_mandiri.py",
+      "size_bytes": 11804
+    }
+  ],
+  "field_info": {
+    "all_fields": [
+      "_flag",
+      "_source_note",
+      "antonyms",
+      "bopomofo",
+      "char_type",
+      "components",
+      "contoh_kalimat_cn",
+      "contoh_kalimat_id",
+      "contoh_kalimat_pinyin",
+      "frequency",
+      "hsk",
+      "hsk2",
+      "id",
+      "inyin_numeric",
+      "meanings_en",
+      "meanings_id",
+      "pinyin",
+      "pinyin_numeric",
+      "pinyin_tone",
+      "pos",
+      "pos_id",
+      "radical",
+      "radical_number",
+      "simplified",
+      "stroke_count",
+      "structure",
+      "synonyms",
+      "themes",
+      "traditional"
+    ],
+    "field_presence_count": {
+      "pos_id": 11733,
+      "radical_number": 11333,
+      "meanings_en": 11906,
+      "contoh_kalimat_cn": 257,
+      "id": 11983,
+      "structure": 11983,
+      "pinyin_numeric": 11726,
+      "stroke_count": 11983,
+      "simplified": 11983,
+      "char_type": 11983,
+      "hsk2": 4991,
+      "inyin_numeric": 0,
+      "_source_note": 256,
+      "components": 11983,
+      "hsk": 10969,
+      "pinyin_tone": 1,
+      "traditional": 11983,
+      "themes": 2364,
+      "pos": 11733,
+      "synonyms": 116,
+      "_flag": 21,
+      "bopomofo": 11983,
+      "pinyin": 11983,
+      "meanings_id": 11952,
+      "contoh_kalimat_pinyin": 257,
+      "antonyms": 170,
+      "contoh_kalimat_id": 257,
+      "radical": 11983,
+      "frequency": 11470
+    }
+  },
+  "sample_entries": {
+    "土": {
+      "id": "土",
+      "simplified": "土",
+      "traditional": "土",
+      "pinyin": "tǔ",
+      "pinyin_numeric": "Tu3",
+      "bopomofo": "ㄊㄨˇ",
+      "hsk": "3",
+      "hsk2": null,
+      "frequency": 2399,
+      "pos": [
+        "n",
+        "b",
+        "a"
+      ],
+      "pos_id": [
+        "kata benda",
+        "non-predikatif",
+        "kata sifat"
+      ],
+      "meanings_id": [
+        "Tu (kelompok etnis)",
+        "marga Tu",
+        "tanah",
+        "debu",
+        "liat",
+        "lokal",
+        "asli",
+        "opium mentah",
+        "tidak canggih",
+        "salah satu dari delapan kategori alat musik kuno 八音[ba1 yin1]"
+      ],
+      "meanings_en": [
+        "Tu (ethnic group)",
+        "surname Tu",
+        "earth",
+        "dust",
+        "clay",
+        "local",
+        "indigenous",
+        "crude opium",
+        "unsophisticated",
+        "one of the eight categories of ancient musical instruments 音"
+      ],
+      "radical": "土",
+      "radical_number": 32,
+      "stroke_count": 3,
+      "structure": "top-bottom",
+      "components": [
+        "十",
+        "一"
+      ],
+      "char_type": "ideogram",
+      "themes": [],
+      "synonyms": [],
+      "antonyms": []
+    },
+    "吃": {
+      "id": "吃",
+      "simplified": "吃",
+      "traditional": "喫",
+      "pinyin": "chī",
+      "pinyin_numeric": "chi1",
+      "bopomofo": "ㄔ",
+      "hsk": "1",
+      "hsk2": "1",
+      "frequency": 142,
+      "pos": [
+        "v"
+      ],
+      "pos_id": [
+        "kata kerja"
+      ],
+      "meanings_id": [
+        "makan; mengonsumsi",
+        "makan di (kafetaria dll)",
+        "memberantas; menghancurkan",
+        "menyerap",
+        "menderita (kejutan, cedera, kekalahan dll)",
+        "variasi dari 吃[chi1]"
+      ],
+      "meanings_en": [
+        "to eat; to consume",
+        "to eat at (a cafeteria etc)",
+        "to eradicate; to destroy",
+        "to absorb",
+        "to suffer (shock, injury, defeat etc)",
+        "variant of 吃"
+      ],
+      "radical": "口",
+      "radical_number": 30,
+      "stroke_count": 6,
+      "structure": "left-right",
+      "components": [
+        "口",
+        "乞"
+      ],
+      "char_type": "compound",
+      "themes": [
+        "ext_buy_fruit",
+        "ext_morning_routine",
+        "ext_summer"
+      ],
+      "synonyms": [
+        "用餐",
+        "进食",
+        "享用"
+      ],
+      "antonyms": []
+    },
+    "个": {
+      "id": "个",
+      "simplified": "个",
+      "traditional": "個",
+      "pinyin": "gě",
+      "pinyin_numeric": "ge3",
+      "bopomofo": "ㄍㄜˇ",
+      "hsk": "1",
+      "hsk2": "1",
+      "frequency": 19,
+      "pos": [
+        "q",
+        "g"
+      ],
+      "pos_id": [
+        "kata ukuran",
+        "g"
+      ],
+      "meanings_id": [
+        "digunakan dalam 自個兒|自个儿[zi4 ge3 r5]",
+        "(kata penggolong yang digunakan sebelum kata benda yang tidak memiliki kata penggolong spesifik)",
+        "(bentuk terikat) individu",
+        "varian dari 個|个[ge4]"
+      ],
+      "meanings_en": [
+        "used in 自个儿",
+        "(classifier used before a noun that has no specific classifier)",
+        "(bound form) individual",
+        "variant of 个"
+      ],
+      "radical": "丨",
+      "radical_number": 2,
+      "stroke_count": 3,
+      "structure": "top-bottom",
+      "components": [
+        "人",
+        "丨"
+      ],
+      "char_type": "ideogram",
+      "themes": [],
+      "synonyms": [],
+      "antonyms": []
+    },
+    "了": {
+      "id": "了",
+      "simplified": "了",
+      "traditional": "瞭",
+      "pinyin": "le",
+      "pinyin_numeric": "le5",
+      "bopomofo": "ㄌㄜ˙",
+      "hsk": "1",
+      "hsk2": "1",
+      "frequency": 3,
+      "pos": [
+        "y",
+        "u",
+        "v"
+      ],
+      "pos_id": [
+        "partikel",
+        "u",
+        "kata kerja"
+      ],
+      "meanings_id": [
+        "(penanda tindakan selesai)",
+        "(partikel modal yang menunjukkan perubahan keadaan, situasi sekarang)",
+        "(partikel modal yang mengintensifkan klausa sebelumnya)",
+        "menyelesaikan",
+        "(digunakan dengan 得[de2] atau 不[bu4] setelah kata kerja untuk menyatakan ke(tidak)mungkinan, seperti 忘不了[wang4 bu5 liao3] \"tidak bisa melupakan\")",
+        "(sastra) (biasanya diikuti kata negatif seperti 無|无[wu2] atau 不[bu4]) sepenuhnya (tidak); sama sekali (tidak); sedikit pun (tidak)",
+        "memahami dengan jelas (varian dari 瞭|了[liao3])",
+        "(mata) cerah",
+        "berpandangan jernih",
+        "memahami dengan jelas",
+        "varian tidak resmi dari 瞭[liao4]"
+      ],
+      "meanings_en": [
+        "(completed action marker)",
+        "(modal particle indicating change of state, situation now)",
+        "(modal particle intensifying preceding clause)",
+        "to finish",
+        "to achieve",
+        "variant of 了",
+        "to understand clearly",
+        "(of eyes) bright",
+        "clear-sighted",
+        "unofficial variant of 瞭"
+      ],
+      "radical": "亅",
+      "radical_number": 6,
+      "stroke_count": 2,
+      "structure": "top-bottom",
+      "components": [
+        "乛",
+        "亅"
+      ],
+      "char_type": "pictogram",
+      "themes": [],
+      "synonyms": [],
+      "antonyms": []
+    }
+  }
+}
