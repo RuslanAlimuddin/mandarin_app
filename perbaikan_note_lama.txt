@@ -1,0 +1,14 @@
+{"id": 1, "character": "己", "note": "Perbedaan pada lengkung kecil di bagian atas — 己 terbuka, 已 setengah tertutup, 巳 tertutup penuh."}
+{"id": 2, "character": "大", "note": "太 menambahkan satu titik di bawah (di antara kedua kaki 大); 犬 menambahkan satu titik di kanan atas."}
+{"id": 4, "character": "少", "note": "少 memiliki satu goresan miring kiri (撇) tambahan dibandingkan 小."}
+{"id": 13, "character": "直", "note": "Bagian bawah berbeda — 真 diakhiri 八 (dua goresan miring), sedangkan 直 diakhiri goresan siku 乚 yang turun lalu berbelok ke kanan di sisi kiri bawah."}
+{"id": 20, "character": "告", "note": "Bagian atas berbeda — 告 = 牛 + 口, sedangkan 吉 = 士 + 口; keduanya memakai 口 di bawah."}
+{"id": 25, "character": "贝", "note": "Kerangka 冂 dan goresan miring kiri di bawahnya sama; goresan terakhir berbeda — 贝 berupa titik, 见 berupa 竖弯钩 (kait)."}
+{"id": 26, "character": "失", "note": "失 diawali goresan miring kiri (撇) di bagian atas, sedangkan 夫 diawali garis mendatar."}
+{"id": 27, "character": "天", "note": "夭 menggantikan garis mendatar atas 天 dengan goresan miring kiri (撇) di bagian atas."}
+{"id": 34, "character": "体", "note": "Radikal kiri 亻 sama; bagian kanan berbeda — 体 memakai 本 (木 dengan garis tambahan di bawah), 休 memakai 木."}
+{"id": 35, "character": "末", "note": "Perbedaan panjang garis mendatar — pada 末 garis atas lebih panjang daripada garis bawah, pada 未 garis atas lebih pendek daripada garis bawah."}
+{"id": 36, "character": "目", "note": "自 = 目 + goresan miring kiri (撇) di bagian atas; garis-garis mendatar di dalam bingkainya sama pada keduanya."}
+{"id": 49, "character": "云", "note": "云 adalah dasar; 会 = 人 (di atas) + 云, sedangkan 动 = 云 + 力 (di kanan)."}
+{"id": 52, "character": "土", "note": "土: garis mendatar atas lebih pendek daripada garis bawah; 士: garis mendatar atas lebih panjang daripada garis bawah."}
+{"id": 58, "character": "辨", "note": "Komponen di antara dua 辛 berbeda — 辨 (刂 pisau), 辩 (讠 bicara), 辫 (纟 benang), 瓣 (瓜 melon)."}
