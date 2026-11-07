@@ -1,0 +1,885 @@
+[
+  {
+    "id": "上",
+    "simplified": "上",
+    "traditional": "上",
+    "pinyin": "shǎng",
+    "pinyin_numeric": "shang3",
+    "bopomofo": "ㄕㄤˇ",
+    "hsk": "1",
+    "hsk2": "1",
+    "frequency": 29,
+    "pos": [
+      "f",
+      "v",
+      "g"
+    ],
+    "pos_id": [
+      "kata tempat",
+      "kata kerja",
+      "g"
+    ],
+    "meanings_id": [
+      "digunakan dalam 上聲|上声[shang3 sheng1]",
+      "(bentuk terikat) atas; bagian atas; di atas; sebelumnya",
+      "pertama (dari beberapa bagian)",
+      "memanjat; naik ke; naik",
+      "menghadiri (kelas atau universitas)",
+      "(pelengkap pengarah) ke atas",
+      "(akhiran kata benda) di"
+    ],
+    "meanings_en": [
+      "used in 上声",
+      "(bound form) up; upper; above; previous",
+      "first (of multiple parts)",
+      "to climb; to get onto; to go up",
+      "to attend (class or university)",
+      "(directional complement) up",
+      "(noun suffix) on; above"
+    ],
+    "radical": "一",
+    "radical_number": 1,
+    "stroke_count": 3,
+    "structure": "top-bottom",
+    "components": [
+      "⺊",
+      "一"
+    ],
+    "char_type": "ideogram",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": [
+      "下"
+    ]
+  },
+  {
+    "id": "新",
+    "simplified": "新",
+    "traditional": "新",
+    "pinyin": "xīn",
+    "pinyin_numeric": "Xin1",
+    "bopomofo": "ㄒㄧㄣ",
+    "hsk": "1",
+    "hsk2": "2",
+    "frequency": 150,
+    "pos": [
+      "a",
+      "d",
+      "b"
+    ],
+    "pos_id": [
+      "kata sifat",
+      "kata keterangan",
+      "non-predikatif"
+    ],
+    "meanings_id": [
+      "singkatan dari Xinjiang 新疆[Xin1 jiang1]",
+      "singkatan dari Singapura 新加坡[Xin1 jia1 po1]",
+      "marga Xin",
+      "baru",
+      "baru saja",
+      "meso-(kimia)"
+    ],
+    "meanings_en": [
+      "abbr. for Xinjiang 疆 or Singapore 坡",
+      "surname Xin",
+      "new",
+      "newly",
+      "meso- (chemistry)"
+    ],
+    "radical": "斤",
+    "radical_number": 69,
+    "stroke_count": 13,
+    "structure": "left-right",
+    "components": [
+      "亲",
+      "斤"
+    ],
+    "char_type": "compound",
+    "themes": [
+      "sifat_deskripsi",
+      "ext_the_beginning_of_spring"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "旧"
+    ]
+  },
+  {
+    "id": "比",
+    "simplified": "比",
+    "traditional": "比",
+    "pinyin": "bǐ",
+    "pinyin_numeric": "Bi3",
+    "bopomofo": "ㄅㄧˇ",
+    "hsk": "1",
+    "hsk2": "2",
+    "frequency": 155,
+    "pos": [
+      "p",
+      "v",
+      "n",
+      "b"
+    ],
+    "pos_id": [
+      "kata depan",
+      "kata kerja",
+      "kata benda",
+      "non-predikatif"
+    ],
+    "meanings_id": [
+      "Belgia",
+      "singkatan dari 比利時|比利时[Bi3 li4 shi2]",
+      "varian eupemistik dari 屄[bi1]",
+      "membandingkan",
+      "(diikuti oleh kata benda dan kata sifat) lebih {kata sifat} daripada {kata benda}",
+      "rasio",
+      "memberi isyarat",
+      "(Taiwan dibaca [bi4] dalam beberapa senyawa yang berasal dari Bahasa Tionghoa Klasik)"
+    ],
+    "meanings_en": [
+      "Belgium",
+      "Belgian",
+      "abbr. for 比利时",
+      "euphemistic variant of 屄",
+      "to compare",
+      "(followed by a noun and adjective) more {adj.} than {noun}",
+      "ratio",
+      "to gesture",
+      "(Taiwan pr. [bì] in some compounds derived from Classical Chinese)"
+    ],
+    "radical": "比",
+    "radical_number": 81,
+    "stroke_count": 4,
+    "structure": "single",
+    "components": [
+      "比"
+    ],
+    "char_type": "ideogram",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "以",
+    "simplified": "以",
+    "traditional": "㕥",
+    "pinyin": "yǐ",
+    "pinyin_numeric": "yi3",
+    "bopomofo": "ㄧˇ",
+    "hsk": "7",
+    "hsk2": "4",
+    "frequency": 166,
+    "pos": [
+      "p",
+      "c",
+      "b"
+    ],
+    "pos_id": [
+      "kata depan",
+      "konjungsi",
+      "non-predikatif"
+    ],
+    "meanings_id": [
+      "singkatan dari Israel 以色列[Yi3 se4 lie4]",
+      "varian lama dari 以[yi3]",
+      "menggunakan",
+      "dengan cara",
+      "menurut",
+      "agar",
+      "karena",
+      "pada (tanggal atau tempat tertentu)"
+    ],
+    "meanings_en": [
+      "old variant of 以",
+      "abbr. for Israel 列",
+      "to use",
+      "by means of",
+      "according to",
+      "in order to",
+      "because of",
+      "at (a certain date or place)"
+    ],
+    "radical": "人",
+    "radical_number": 9,
+    "stroke_count": 4,
+    "structure": "single",
+    "components": [
+      "以"
+    ],
+    "char_type": "ideogram",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "加",
+    "simplified": "加",
+    "traditional": "加",
+    "pinyin": "jiā",
+    "pinyin_numeric": "Jia1",
+    "bopomofo": "ㄐㄧㄚ",
+    "hsk": "2",
+    "hsk2": null,
+    "frequency": 503,
+    "pos": [
+      "v",
+      "b"
+    ],
+    "pos_id": [
+      "kata kerja",
+      "non-predikatif"
+    ],
+    "meanings_id": [
+      "Kanada (singkatan dari 加拿大[Jia1 na2 da4])",
+      "marga Jia",
+      "menambah",
+      "(matematika) ditambah",
+      "untuk meningkatkan; untuk menambah",
+      "(digunakan sebelum kata kerja dua suku kata, seringkali setelah kata keterangan seperti 不[bu4], 大[da4], 稍[shao1] dll, untuk menunjukkan bahwa tindakan tersebut berlaku untuk sesuatu yang disebutkan sebelumnya, seperti dalam 稍加改良[shao1 jia1 gai3 liang2] \"membuat beberapa perbaikan kecil pada (itu)\")"
+    ],
+    "meanings_en": [
+      "Canada (abbr. for 大)",
+      "surname Jia",
+      "to add",
+      "plus",
+      "(used after an adverb such as 不, 大, 稍 etc, and before a disyllabic verb, to indicate that the action of the verb is applied to sth or sb previously mentioned)",
+      "to apply (restrictions etc) to (sb)",
+      "to give (support, consideration etc) to (sth)"
+    ],
+    "radical": "力",
+    "radical_number": 19,
+    "stroke_count": 5,
+    "structure": "left-right",
+    "components": [
+      "力",
+      "口"
+    ],
+    "char_type": "ideogram",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": [
+      "减"
+    ]
+  },
+  {
+    "id": "哈",
+    "simplified": "哈",
+    "traditional": "哈",
+    "pinyin": "hā",
+    "pinyin_numeric": "Ha1",
+    "bopomofo": "ㄏㄚ",
+    "hsk": null,
+    "hsk2": "5",
+    "frequency": 676,
+    "pos": [
+      "b",
+      "v"
+    ],
+    "pos_id": [
+      "non-predikatif",
+      "kata kerja"
+    ],
+    "meanings_id": [
+      "singkatan dari 哈薩克斯坦|哈萨克斯坦[Ha1 sa4 ke4 si1 tan3], Kazakhstan",
+      "singkatan dari 哈爾濱|哈尔滨[Ha1 er3 bin1], Harbin",
+      "(kata seru) ha!",
+      "(tiruan bunyi untuk tertawa)",
+      "(slang) tergila-gila dengan; memuja",
+      "(bentuk terikat) husky (anjing) (singkatan dari 哈士奇[ha1 shi4 qi2])",
+      "anjing Peking; anjing pesek",
+      "(dialek) memarahi"
+    ],
+    "meanings_en": [
+      "abbr. for 哈萨克斯坦, Kazakhstan",
+      "abbr. for 哈尔滨, Harbin",
+      "(interj.) ha!",
+      "(onom. for laughter)",
+      "(slang) to be infatuated with",
+      "to adore",
+      "abbr. for 奇, husky (dog)",
+      "a Pekinese",
+      "a pug",
+      "(dialect) to scold"
+    ],
+    "radical": "口",
+    "radical_number": 30,
+    "stroke_count": 9,
+    "structure": "left-right",
+    "components": [
+      "口",
+      "合"
+    ],
+    "char_type": "compound",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "红",
+    "simplified": "红",
+    "traditional": "紅",
+    "pinyin": "hóng",
+    "pinyin_numeric": "Hong2",
+    "bopomofo": "ㄏㄨㄥˊ",
+    "hsk": "2",
+    "hsk2": "2",
+    "frequency": 794,
+    "pos": [
+      "a",
+      "v",
+      "g"
+    ],
+    "pos_id": [
+      "kata sifat",
+      "kata kerja",
+      "g"
+    ],
+    "meanings_id": [
+      "panas membara",
+      "semangat membara",
+      "bergairah",
+      "penuh gairah",
+      "marga Hong",
+      "digunakan dalam 女紅|女红[nu : 3 gong1]"
+    ],
+    "meanings_en": [
+      "surname Hong",
+      "red",
+      "popular",
+      "revolutionary",
+      "bonus"
+    ],
+    "radical": "纟",
+    "radical_number": 120,
+    "stroke_count": 6,
+    "structure": "left-right",
+    "components": [
+      "纟",
+      "工"
+    ],
+    "char_type": "compound",
+    "themes": [
+      "ext_colors",
+      "ext_buy_fruit"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "大学",
+    "simplified": "大学",
+    "traditional": "大學",
+    "pinyin": "dà xué",
+    "pinyin_numeric": "Da4 xue2",
+    "bopomofo": "ㄉㄚˋ ㄒㄩㄝˊ",
+    "hsk": "1",
+    "hsk2": null,
+    "frequency": 814,
+    "pos": [
+      "n"
+    ],
+    "pos_id": [
+      "kata benda"
+    ],
+    "meanings_id": [
+      "The Great Learning, salah satu dari Empat Buku 四書|四书[Si4 shu1] dalam Konfusianisme",
+      "universitas",
+      "akademi",
+      "KP:所[suo3]"
+    ],
+    "meanings_en": [
+      "the Great Learning, one of the Four Books 四书 in Confucianism",
+      "university",
+      "college"
+    ],
+    "radical": "大",
+    "radical_number": 37,
+    "stroke_count": 11,
+    "structure": "overlapping",
+    "components": [
+      "一",
+      "人",
+      "冖",
+      "子"
+    ],
+    "char_type": "compound",
+    "themes": [
+      "pendidikan_tinggi",
+      "ext_education",
+      "ext_school",
+      "ext_youth_and_campus_life"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "单",
+    "simplified": "单",
+    "traditional": "單",
+    "pinyin": "chán",
+    "pinyin_numeric": "chan2",
+    "bopomofo": "ㄕㄢˋ",
+    "hsk": "4",
+    "hsk2": null,
+    "frequency": 931,
+    "pos": [
+      "d",
+      "b",
+      "g"
+    ],
+    "pos_id": [
+      "kata keterangan",
+      "non-predikatif",
+      "g"
+    ],
+    "meanings_id": [
+      "digunakan dalam 單于|单于[chan2 yu2]",
+      "marga Shan",
+      "tagihan",
+      "daftar",
+      "formulir",
+      "tunggal",
+      "hanya",
+      "satu-satunya",
+      "nomor ganjil",
+      "KP:個|个[ge4]"
+    ],
+    "meanings_en": [
+      "surname Shan",
+      "bill",
+      "list",
+      "form",
+      "single",
+      "only",
+      "sole",
+      "odd number"
+    ],
+    "radical": "丷",
+    "radical_number": null,
+    "stroke_count": 8,
+    "structure": "top-bottom",
+    "components": [
+      "丷",
+      "甲",
+      "一"
+    ],
+    "char_type": "compound",
+    "themes": [
+      "angka"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "保",
+    "simplified": "保",
+    "traditional": "保",
+    "pinyin": "bǎo",
+    "pinyin_numeric": "Bao3",
+    "bopomofo": "ㄅㄠˇ",
+    "hsk": "3",
+    "hsk2": null,
+    "frequency": 1597,
+    "pos": [
+      "v",
+      "b"
+    ],
+    "pos_id": [
+      "kata kerja",
+      "non-predikatif"
+    ],
+    "meanings_id": [
+      "Bulgaria (singkatan dari 保加利亞|保加利亚[Bao3 jia1 li4 ya4])",
+      "membela; melindungi; menjaga",
+      "menjamin; memastikan",
+      "(kuno) unit administrasi sipil dalam sistem baojia 保甲[bao3 jia3]"
+    ],
+    "meanings_en": [
+      "Bulgaria",
+      "Bulgarian",
+      "abbr. for 保加利亚",
+      "to defend; to protect; to keep",
+      "to guarantee; to ensure",
+      "civil administration unit in the baojia 甲 system (old)"
+    ],
+    "radical": "亻",
+    "radical_number": 9,
+    "stroke_count": 9,
+    "structure": "left-right",
+    "components": [
+      "亻",
+      "呆"
+    ],
+    "char_type": "compound",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "签",
+    "simplified": "签",
+    "traditional": "簽",
+    "pinyin": "qiān",
+    "pinyin_numeric": "qian1",
+    "bopomofo": "ㄑㄧㄢ",
+    "hsk": "5",
+    "hsk2": null,
+    "frequency": 2244,
+    "pos": [
+      "v",
+      "n"
+    ],
+    "pos_id": [
+      "kata kerja",
+      "kata benda"
+    ],
+    "meanings_id": [
+      "tongkat bambu bertuliskan (digunakan dalam ramalan, perjudian, undian dll)",
+      "serpihan kayu kecil",
+      "label",
+      "tag",
+      "menandatangani nama; menulis komentar singkat pada dokumen; stik bambu bertulis (varian dari 籤|签[qian1]); visa"
+    ],
+    "meanings_en": [
+      "to sign one's name",
+      "to write brief comments on a document",
+      "inscribed bamboo stick (variant of 签)",
+      "visa",
+      "Japanese variant of 签",
+      "inscribed bamboo stick (used in divination, gambling, drawing lots etc)",
+      "small wood sliver",
+      "label",
+      "tag"
+    ],
+    "radical": "⺮",
+    "radical_number": null,
+    "stroke_count": 13,
+    "structure": "top-bottom",
+    "components": [
+      "竹",
+      "佥"
+    ],
+    "char_type": "compound",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "现代",
+    "simplified": "现代",
+    "traditional": "現代",
+    "pinyin": "xiàn dài",
+    "pinyin_numeric": "Xian4 dai4",
+    "bopomofo": "ㄒㄧㄢˋ ㄉㄞˋ",
+    "hsk": "3",
+    "hsk2": "4",
+    "frequency": 2512,
+    "pos": [
+      "t"
+    ],
+    "pos_id": [
+      "kata waktu"
+    ],
+    "meanings_id": [
+      "Hyundai, perusahaan Korea Selatan",
+      "zaman modern",
+      "era modern"
+    ],
+    "meanings_en": [
+      "Hyundai, South Korean company",
+      "modern times",
+      "modern age",
+      "modern era"
+    ],
+    "radical": "王",
+    "radical_number": 96,
+    "stroke_count": 13,
+    "structure": "left-right",
+    "components": [
+      "王",
+      "见",
+      "亻",
+      "弋"
+    ],
+    "char_type": "compound",
+    "themes": [
+      "seni_budaya"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "率",
+    "simplified": "率",
+    "traditional": "率",
+    "pinyin": "shuài",
+    "pinyin_numeric": "shuai4",
+    "bopomofo": "ㄌㄩˋ",
+    "hsk": "7",
+    "hsk2": null,
+    "frequency": 2786,
+    "pos": [
+      "v",
+      "k"
+    ],
+    "pos_id": [
+      "kata kerja",
+      "prefiks"
+    ],
+    "meanings_id": [
+      "memimpin",
+      "memerintah",
+      "ceroboh",
+      "terburu-buru",
+      "jujur",
+      "terus terang",
+      "umumnya",
+      "biasanya",
+      "(bentuk terikat) rasio; tingkat; proporsi"
+    ],
+    "meanings_en": [
+      "rate",
+      "frequency",
+      "to lead",
+      "to command",
+      "rash",
+      "hasty",
+      "frank",
+      "straightforward",
+      "generally",
+      "usually"
+    ],
+    "radical": "玄",
+    "radical_number": 95,
+    "stroke_count": 11,
+    "structure": "top-bottom",
+    "components": [
+      "玄",
+      "丷",
+      "八",
+      "十"
+    ],
+    "char_type": "compound",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "大众",
+    "simplified": "大众",
+    "traditional": "大眾",
+    "pinyin": "dà zhòng",
+    "pinyin_numeric": "Da4 zhong4",
+    "bopomofo": "ㄉㄚˋ ㄓㄨㄥˋ",
+    "hsk": "4",
+    "hsk2": null,
+    "frequency": 3665,
+    "pos": [
+      "n",
+      "nz"
+    ],
+    "pos_id": [
+      "kata benda",
+      "nama diri"
+    ],
+    "meanings_id": [
+      "Volkswagen (produsen mobil)",
+      "massa",
+      "mayoritas populasi",
+      "populer (musik, sains, dll)"
+    ],
+    "meanings_en": [
+      "Volkswagen (automobile manufacturer)",
+      "the masses",
+      "the great bulk of the population",
+      "popular (of music, science etc)"
+    ],
+    "radical": "大",
+    "radical_number": 37,
+    "stroke_count": 9,
+    "structure": "overlapping",
+    "components": [
+      "一",
+      "人",
+      "从"
+    ],
+    "char_type": "compound",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "佛",
+    "simplified": "佛",
+    "traditional": "彿",
+    "pinyin": "fó",
+    "pinyin_numeric": "Fo2",
+    "bopomofo": "ㄈㄛˊ",
+    "hsk": "6",
+    "hsk2": null,
+    "frequency": 3671,
+    "pos": [
+      "n"
+    ],
+    "pos_id": [
+      "kata benda"
+    ],
+    "meanings_id": [
+      "Buddha; Buddhisme (singkatan dari 佛陀[Fo2 tuo2])",
+      "digunakan dalam 仿佛[fang3 fu2]",
+      "digunakan dalam 彷彿|仿佛[fang3 fu2]",
+      "hiasan kepala (wanita)",
+      "varian dari 彿|佛[fu2]"
+    ],
+    "meanings_en": [
+      "Buddha; Buddhism (abbr. for 陀)",
+      "seemingly",
+      "(female) head ornament",
+      "variant of 佛"
+    ],
+    "radical": "亻",
+    "radical_number": 9,
+    "stroke_count": 7,
+    "structure": "left-right",
+    "components": [
+      "亻",
+      "弗"
+    ],
+    "char_type": "compound",
+    "themes": [
+      "agama_kepercayaan"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "扬",
+    "simplified": "扬",
+    "traditional": "揚",
+    "pinyin": "yáng",
+    "pinyin_numeric": "Yang2",
+    "bopomofo": "ㄧㄤˊ",
+    "hsk": "7",
+    "hsk2": null,
+    "frequency": 6047,
+    "pos": [
+      "g",
+      "v"
+    ],
+    "pos_id": [
+      "g",
+      "kata kerja"
+    ],
+    "meanings_id": [
+      "singkatan dari Yangzhou 揚州|扬州[Yang2 zhou1] di Jiangsu",
+      "marga Yang",
+      "mengangkat",
+      "mengibarkan",
+      "menaburkan (tertiup angin)",
+      "mengepak",
+      "menyebarkan",
+      "varian dari 揚|扬[yang2]"
+    ],
+    "meanings_en": [
+      "abbr. for 扬州",
+      "surname Yang",
+      "to raise",
+      "to hoist",
+      "the action of tossing or winnowing",
+      "scattering (in the wind)",
+      "to flutter",
+      "to propagate",
+      "variant of 扬"
+    ],
+    "radical": "扌",
+    "radical_number": 64,
+    "stroke_count": 6,
+    "structure": "left-right",
+    "components": [
+      "扌",
+      "𠃓"
+    ],
+    "char_type": "compound",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "美德",
+    "simplified": "美德",
+    "traditional": "美德",
+    "pinyin": "měi Dé",
+    "pinyin_numeric": "Mei3 De2",
+    "bopomofo": "ㄇㄟˇ ㄉㄜˊ",
+    "hsk": "7",
+    "hsk2": null,
+    "frequency": 12541,
+    "pos": [
+      "n"
+    ],
+    "pos_id": [
+      "kata benda"
+    ],
+    "meanings_id": [
+      "Amerika Serikat dan Jerman",
+      "kebajikan"
+    ],
+    "meanings_en": [
+      "USA and Germany",
+      "virtue"
+    ],
+    "radical": "羊",
+    "radical_number": 123,
+    "stroke_count": 24,
+    "structure": "top-bottom",
+    "components": [
+      "𦍌",
+      "大",
+      "彳",
+      "𢛳"
+    ],
+    "char_type": "compound",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "头条",
+    "simplified": "头条",
+    "traditional": "頭條",
+    "pinyin": "tóu tiáo",
+    "pinyin_numeric": "Tou2 tiao2",
+    "bopomofo": "ㄊㄡˊ ㄊㄧㄠˊ",
+    "hsk": "7",
+    "hsk2": null,
+    "frequency": 17548,
+    "pos": [
+      "n"
+    ],
+    "pos_id": [
+      "kata benda"
+    ],
+    "meanings_id": [
+      "Toutiao, aplikasi rekomendasi konten yang dipersonalisasi (singkatan dari 今日頭條|今日头条[Jin1 ri4 Tou2 tiao2])",
+      "berita utama (di berita)"
+    ],
+    "meanings_en": [
+      "Toutiao, personalized content recommendation app (abbr. for 今日头条)",
+      "lead story (on the news)"
+    ],
+    "radical": "大",
+    "radical_number": 37,
+    "stroke_count": 12,
+    "structure": "single",
+    "components": [
+      "头",
+      "夂",
+      "朩"
+    ],
+    "char_type": "compound",
+    "themes": [],
+    "synonyms": [],
+    "antonyms": []
+  }
+]
