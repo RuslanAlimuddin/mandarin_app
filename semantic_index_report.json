@@ -1,0 +1,706 @@
+{
+  "total_entries": 122342,
+  "total_meanings": 196436,
+  "filled_context": 0,
+  "unknown_context": 196436,
+  "filled_examples": 0,
+  "empty_examples": 196436,
+  "focus_words_detail": {
+    "吃": {
+      "char": "吃",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "makan; mengonsumsi",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m2",
+          "idn": "makan di (kafetaria dll)",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m3",
+          "idn": "memberantas; menghancurkan",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m4",
+          "idn": "menyerap",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m5",
+          "idn": "menderita (kejutan, cedera, kekalahan dll)",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "了": {
+      "char": "了",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "(penanda tindakan selesai)",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m2",
+          "idn": "(partikel modal yang menunjukkan perubahan keadaan, situasi sekarang)",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m3",
+          "idn": "(partikel modal yang mengintensifkan klausa sebelumnya)",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m4",
+          "idn": "menyelesaikan",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m5",
+          "idn": "(digunakan dengan 得[de2] atau 不[bu4] setelah kata kerja untuk menyatakan ke(tidak)mungkinan, seperti 忘不了[wang4 bu5 liao3] \"tidak bisa melupakan\")",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m6",
+          "idn": "(sastra) (biasanya diikuti kata negatif seperti 無|无[wu2] atau 不[bu4]) sepenuhnya (tidak); sama sekali (tidak); sedikit pun (tidak)",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m7",
+          "idn": "memahami dengan jelas (varian dari 瞭|了[liao3])",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "着": {
+      "char": "着",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "varian dari 著|着[zhao2]",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m2",
+          "idn": "varian dari 著|着[zhao1]",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m3",
+          "idn": "varian dari 著|着[zhuo2]",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m4",
+          "idn": "varian dari 著|着[zhe5]",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "那": {
+      "char": "那",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "marga Na",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m2",
+          "idn": "marga Nuo",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m3",
+          "idn": "varian dari 哪[na3]",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m4",
+          "idn": "(penunjuk) itu; tersebut; mereka (bahasa sehari-hari dibaca [nei4])",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m5",
+          "idn": "(kata ganti) itu (merujuk pada orang, benda, atau situasi)",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m6",
+          "idn": "kemudian (dalam hal itu)",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m7",
+          "idn": "(kuno) banyak",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m8",
+          "idn": "indah",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m9",
+          "idn": "bagaimana",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m10",
+          "idn": "varian lama dari 挪[nuo2]",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "从": {
+      "char": "从",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "varian dari 從|从[cong2]",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "里": {
+      "char": "里",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "Li (nama keluarga)",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m2",
+          "idn": "li, ukuran panjang kuno, sekitar 500 m",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m3",
+          "idn": "lingkungan",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m4",
+          "idn": "unit administratif kuno yang terdiri dari 25 keluarga",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m5",
+          "idn": "(Tw) kelurahan, unit administratif antara tingkat kecamatan 鎮|镇[zhen4] dan lingkungan 鄰|邻[lin2]",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "为": null,
+    "个": null,
+    "是": {
+      "char": "是",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "adalah (diikuti hanya oleh kata benda)",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m2",
+          "idn": "benar; tepat; sejati",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m3",
+          "idn": "(pengakuan hormat atas perintah) baik sekali",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m4",
+          "idn": "(kata keterangan untuk penegasan)",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "土": {
+      "char": "土",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "Tu (kelompok etnis)",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m2",
+          "idn": "marga Tu",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m3",
+          "idn": "tanah",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m4",
+          "idn": "debu",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m5",
+          "idn": "liat",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m6",
+          "idn": "lokal",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m7",
+          "idn": "asli",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m8",
+          "idn": "opium mentah",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m9",
+          "idn": "tidak canggih",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m10",
+          "idn": "salah satu dari delapan kategori alat musik kuno 八音[ba1 yin1]",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "打": {
+      "char": "打",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "(kata serapan) lusin",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m2",
+          "idn": "Taiwan dibaca [da3]",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m3",
+          "idn": "kata kerja transitif ringan secara semantik yang digabungkan dengan berbagai objek gramatikal untuk membentuk kata kerja majemuk dan frasa kata kerja-objek dengan berbagai makna (misalnya, 打傘|打伞[da3 san3] \"memegang payung\", 打電話|打电话[da3 dian4 hua4] \"menelepon\", 打針|打针[da3 zhen1] \"mendapatkan suntikan\", 打手套[da3 shou3 tao4] \"merajut sarung tangan\", 打氣|打气[da3 qi4] \"memompa\")",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m4",
+          "idn": "memukul; menyerang",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m5",
+          "idn": "berkelahi",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m6",
+          "idn": "(pengucapan) dari; sejak (seperti dalam 打那以後|打那以后[da3 na4 yi3 hou4] \"sejak saat itu\")",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "上": {
+      "char": "上",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "(bentuk terikat) atas; bagian atas; di atas; sebelumnya",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m2",
+          "idn": "pertama (dari beberapa bagian)",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m3",
+          "idn": "memanjat; naik ke; naik",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m4",
+          "idn": "menghadiri (kelas atau universitas)",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m5",
+          "idn": "(pelengkap pengarah) ke atas",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m6",
+          "idn": "(akhiran kata benda) di",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m7",
+          "idn": "digunakan dalam 上聲|上声[shang3 sheng1]",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "下": {
+      "char": "下",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "turun",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m2",
+          "idn": "ke bawah",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m3",
+          "idn": "di bawah",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m4",
+          "idn": "lebih rendah",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m5",
+          "idn": "nanti",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m6",
+          "idn": "selanjutnya (minggu dll)",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m7",
+          "idn": "kedua (dari dua bagian)",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m8",
+          "idn": "menurun",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m9",
+          "idn": "tiba di (keputusan, kesimpulan dll)",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m10",
+          "idn": "kata pengukur untuk menunjukkan frekuensi suatu tindakan",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "错": null,
+    "麻": {
+      "char": "麻",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "marga Ma",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m2",
+          "idn": "nama generik untuk rami, linen dll",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m3",
+          "idn": "serat rami atau linen untuk bahan tekstil",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m4",
+          "idn": "wijen",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m5",
+          "idn": "KP:縷|缕[lu:3]",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m6",
+          "idn": "(dari bahan) kasar",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m7",
+          "idn": "berlubang",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m8",
+          "idn": "berbintik-bintik",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m9",
+          "idn": "merasa kesemutan atau geli",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m10",
+          "idn": "merasa mati rasa",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "保": {
+      "char": "保",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "Bulgaria (singkatan dari 保加利亞|保加利亚[Bao3 jia1 li4 ya4])",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m2",
+          "idn": "membela; melindungi; menjaga",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m3",
+          "idn": "menjamin; memastikan",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m4",
+          "idn": "(kuno) unit administrasi sipil dalam sistem baojia 保甲[bao3 jia3]",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    }
+  },
+  "random_sample": {
+    "總歸": {
+      "char": "總歸",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "bagaimanapun; lagipula; akhirnya",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "力傳遞": {
+      "char": "力傳遞",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "transmisi mekanis",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "中國文學藝術界聯合會": {
+      "char": "中國文學藝術界聯合會",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "Federasi Lingkaran Sastra dan Seni Tiongkok (CFLAC)",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m2",
+          "idn": "singkatan dari 文聯|文联",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "試藥族": {
+      "char": "試藥族",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "orang yang berpartisipasi dalam uji coba klinis",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "帶回": {
+      "char": "帶回",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "membawa kembali",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "寓居": {
+      "char": "寓居",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "tinggal di",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m2",
+          "idn": "bertempat tinggal di",
+          "context": "unknown",
+          "examples": []
+        },
+        {
+          "id": "m3",
+          "idn": "menghuni",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "妖物": {
+      "char": "妖物",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "monster",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "古墓葬群": {
+      "char": "古墓葬群",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "(arkeologi) kompleks pemakaman",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "觵": {
+      "char": "觵",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "varian lama dari 觥[gong1]",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    },
+    "列缺霹靂": {
+      "char": "列缺霹靂",
+      "meanings": [
+        {
+          "id": "m1",
+          "idn": "petir dan guntur",
+          "context": "unknown",
+          "examples": []
+        }
+      ]
+    }
+  }
+}
