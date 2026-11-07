@@ -1,0 +1,49 @@
+# Kata dengan keterangan_id generik/copy-paste -- pola JANGAN diubah, hanya tulis ulang keterangan_id
+
+起来 | pola: lainnya | keterangan_lama: Kata kerja bantu arah, tidak terurai secara struktural produktif.
+出来 | pola: lainnya | keterangan_lama: Kata kerja bantu arah, tidak terurai secara struktural produktif.
+回来 | pola: lainnya | keterangan_lama: Kata kerja bantu arah, tidak terurai secara struktural produktif.
+妈妈 | pola: lainnya | keterangan_lama: Reduplikasi kata panggilan, tidak terurai struktural.
+下来 | pola: lainnya | keterangan_lama: Kata kerja bantu arah, tidak terurai secara struktural produktif.
+过来 | pola: lainnya | keterangan_lama: Kata kerja bantu arah, tidak terurai secara struktural produktif.
+出去 | pola: lainnya | keterangan_lama: Kata kerja bantu arah, tidak terurai secara struktural produktif.
+下去 | pola: lainnya | keterangan_lama: Kata kerja bantu arah, tidak terurai secara struktural produktif.
+爸爸 | pola: lainnya | keterangan_lama: Reduplikasi kata panggilan, tidak terurai struktural.
+回去 | pola: lainnya | keterangan_lama: Kata kerja bantu arah, tidak terurai secara struktural produktif.
+姐姐 | pola: lainnya | keterangan_lama: Reduplikasi kata panggilan, tidak terurai struktural.
+进去 | pola: lainnya | keterangan_lama: Kata kerja bantu arah, tidak terurai secara struktural produktif.
+哥哥 | pola: lainnya | keterangan_lama: Reduplikasi kata panggilan, tidak terurai struktural.
+进来 | pola: lainnya | keterangan_lama: Kata kerja bantu arah, tidak terurai secara struktural produktif.
+宝宝 | pola: lainnya | keterangan_lama: Reduplikasi kata panggilan, tidak terurai struktural.
+妹妹 | pola: lainnya | keterangan_lama: Reduplikasi kata panggilan, tidak terurai struktural.
+上去 | pola: lainnya | keterangan_lama: Kata kerja bantu arah, tidak terurai secara struktural produktif.
+弟弟 | pola: lainnya | keterangan_lama: Reduplikasi kata panggilan, tidak terurai struktural.
+奶奶 | pola: lainnya | keterangan_lama: Reduplikasi kata panggilan, tidak terurai struktural.
+爷爷 | pola: lainnya | keterangan_lama: Reduplikasi kata panggilan, tidak terurai struktural.
+叔叔 | pola: lainnya | keterangan_lama: Reduplikasi kata panggilan, tidak terurai struktural.
+太太 | pola: lainnya | keterangan_lama: Reduplikasi kata panggilan, tidak terurai struktural.
+舅舅 | pola: lainnya | keterangan_lama: Reduplikasi kata panggilan, tidak terurai struktural.
+铲子 | pola: lainnya | keterangan_lama: Karakter kedua adalah sufiks penamaan benda, bukan kata bermakna mandiri.
+粽子 | pola: lainnya | keterangan_lama: Karakter kedua adalah sufiks penamaan benda, bukan kata bermakna mandiri.
+钳子 | pola: lainnya | keterangan_lama: Karakter kedua adalah sufiks penamaan benda, bukan kata bermakna mandiri.
+帘子 | pola: lainnya | keterangan_lama: Karakter kedua adalah sufiks penamaan benda, bukan kata bermakna mandiri.
+斧子 | pola: lainnya | keterangan_lama: Karakter kedua adalah sufiks penamaan benda, bukan kata bermakna mandiri.
+剪子 | pola: lainnya | keterangan_lama: Karakter kedua adalah sufiks penamaan benda, bukan kata bermakna mandiri.
+亭子 | pola: lainnya | keterangan_lama: Karakter kedua adalah sufiks penamaan benda, bukan kata bermakna mandiri.
+尺子 | pola: lainnya | keterangan_lama: Karakter kedua adalah sufiks penamaan benda, bukan kata bermakna mandiri.
+渣子 | pola: lainnya | keterangan_lama: Karakter kedua adalah sufiks penamaan benda, bukan kata bermakna mandiri.
+卡子 | pola: lainnya | keterangan_lama: Karakter kedua adalah sufiks penamaan benda, bukan kata bermakna mandiri.
+帐子 | pola: lainnya | keterangan_lama: Karakter kedua adalah sufiks penamaan benda, bukan kata bermakna mandiri.
+上海 | pola: lainnya | keterangan_lama: Nama proper (kota), tidak mengikuti pola pembentukan kata umum.
+深圳 | pola: lainnya | keterangan_lama: Nama proper (kota), tidak mengikuti pola pembentukan kata umum.
+三亚 | pola: lainnya | keterangan_lama: Nama proper (kota), tidak mengikuti pola pembentukan kata umum.
+天津 | pola: lainnya | keterangan_lama: Nama proper (kota), tidak mengikuti pola pembentukan kata umum.
+青岛 | pola: lainnya | keterangan_lama: Nama proper (kota), tidak mengikuti pola pembentukan kata umum.
+大连 | pola: lainnya | keterangan_lama: Nama proper (kota), tidak mengikuti pola pembentukan kata umum.
+杭州 | pola: lainnya | keterangan_lama: Nama proper (kota), tidak mengikuti pola pembentukan kata umum.
+苏州 | pola: lainnya | keterangan_lama: Nama proper (kota), tidak mengikuti pola pembentukan kata umum.
+成都 | pola: lainnya | keterangan_lama: Nama proper (kota), tidak mengikuti pola pembentukan kata umum.
+广州 | pola: lainnya | keterangan_lama: Nama proper (kota), tidak mengikuti pola pembentukan kata umum.
+武汉 | pola: lainnya | keterangan_lama: Nama proper (kota), tidak mengikuti pola pembentukan kata umum.
+南京 | pola: lainnya | keterangan_lama: Nama proper (kota), tidak mengikuti pola pembentukan kata umum.
+厦门 | pola: lainnya | keterangan_lama: Nama proper (kota), tidak mengikuti pola pembentukan kata umum.
