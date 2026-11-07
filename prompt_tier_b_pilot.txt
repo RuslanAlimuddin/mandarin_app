@@ -1,0 +1,970 @@
+Kamu adalah ahli bahasa Mandarin-Indonesia yang menyusun kamus pembelajar.
+Tugasmu: untuk SETIAP kata di bawah, tentukan sinonim (2-5 kata) dan antonim
+(0-5 kata) yang PALING UMUM & NATURAL dipakai penutur asli -- BUKAN terjemahan
+literal, tapi kata Mandarin lain yang benar-benar sering dipertukarkan/
+dipertentangkan dalam percakapan sehari-hari atau tulisan standar.
+
+ATURAN PALING PENTING -- JANGAN MEMAKSAKAN:
+  - Kalau sebuah kata memang TIDAK PUNYA sinonim yang natural (mis. kata benda
+    sangat spesifik seperti nama tempat/benda unik), biarkan array "synonyms"
+    KOSONG []. JANGAN dipaksakan cari kata yang mirip tapi sebenarnya beda arti.
+  - Sama utk "antonyms" -- banyak kata benda TIDAK PUNYA lawan kata alami
+    (mis. "米饭"/nasi tidak punya antonim). Kalau begitu, biarkan array KOSONG.
+  - LEBIH BAIK array kosong daripada pasangan yang dipaksakan/salah.
+  - Kata ARAH (前边/后边/上边/下边/东边/西边/南边/北边/里边/外边) biasanya
+    punya antonim yang SANGAT JELAS (arah berlawanan) -- pastikan itu terisi.
+
+Untuk setiap kata di synonyms/antonyms yang kamu tentukan, sertakan juga:
+  - "pinyin": pinyin bertona
+  - "note_id": catatan SINGKAT (maks ~8 kata) dlm Bahasa Indonesia. Utk
+    sinonim jelaskan bedanya (formal/informal, intensitas, konteks). Utk
+    antonim cukup terjemahan singkat.
+
+Output HARUS JSON array valid, TIDAK ADA teks lain di luar JSON (tanpa
+```json code fence, tanpa penjelasan sebelum/sesudah).
+
+Skema output:
+[
+  {
+    "simplified": "<kata utama, SAMA PERSIS spt input>",
+    "synonyms": [ {"word": "<kata>", "pinyin": "<pinyin>", "note_id": "<catatan>"}, ... ],
+    "antonyms": [ {"word": "<kata>", "pinyin": "<pinyin>", "note_id": "<catatan>"}, ... ]
+  },
+  ...
+]
+
+DATA (100 kata, proses SEMUA -- kalau suatu kata memang tidak punya
+sinonim/antonim natural, tetap sertakan object-nya dgn array kosong,
+JANGAN dilewati/dihilangkan dari output):
+[
+  {
+    "simplified": "听写",
+    "pinyin": "tīng xiě",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja",
+      "kata kerja-benda"
+    ],
+    "meaning_id": "(dari seorang siswa) menulis (dalam latihan dikte); dikte"
+  },
+  {
+    "simplified": "半年",
+    "pinyin": "bàn nián",
+    "hsk": "1",
+    "pos_id": [
+      "nr"
+    ],
+    "meaning_id": "setengah tahun"
+  },
+  {
+    "simplified": "网友",
+    "pinyin": "wǎng yǒu",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "teman daring"
+  },
+  {
+    "simplified": "教学楼",
+    "pinyin": "jiào xué lóu",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "gedung sekolah; gedung akademik"
+  },
+  {
+    "simplified": "前边",
+    "pinyin": "qián bian",
+    "hsk": "1",
+    "pos_id": [
+      "kata tempat"
+    ],
+    "meaning_id": "depan"
+  },
+  {
+    "simplified": "汉字",
+    "pinyin": "hàn zì",
+    "hsk": "1",
+    "pos_id": [
+      "nama diri",
+      "kata benda"
+    ],
+    "meaning_id": "aksara Mandarin"
+  },
+  {
+    "simplified": "下边",
+    "pinyin": "xià bian",
+    "hsk": "1",
+    "pos_id": [
+      "kata tempat"
+    ],
+    "meaning_id": "di bawah"
+  },
+  {
+    "simplified": "北边",
+    "pinyin": "běi biān",
+    "hsk": "1",
+    "pos_id": [
+      "kata tempat"
+    ],
+    "meaning_id": "utara"
+  },
+  {
+    "simplified": "南边",
+    "pinyin": "nán bian",
+    "hsk": "1",
+    "pos_id": [
+      "kata tempat"
+    ],
+    "meaning_id": "selatan"
+  },
+  {
+    "simplified": "东边",
+    "pinyin": "dōng bian",
+    "hsk": "1",
+    "pos_id": [
+      "kata tempat"
+    ],
+    "meaning_id": "timur"
+  },
+  {
+    "simplified": "打车",
+    "pinyin": "dǎ chē",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "naik taksi (di kota)"
+  },
+  {
+    "simplified": "上边",
+    "pinyin": "shàng bian",
+    "hsk": "1",
+    "pos_id": [
+      "kata tempat",
+      "kata benda"
+    ],
+    "meaning_id": "bagian atas"
+  },
+  {
+    "simplified": "西边",
+    "pinyin": "xī biān",
+    "hsk": "1",
+    "pos_id": [
+      "kata tempat",
+      "nr"
+    ],
+    "meaning_id": "barat"
+  },
+  {
+    "simplified": "后边",
+    "pinyin": "hòu bian",
+    "hsk": "1",
+    "pos_id": [
+      "kata tempat"
+    ],
+    "meaning_id": "bagian belakang; belakang; bagian terakhir"
+  },
+  {
+    "simplified": "星期日",
+    "pinyin": "Xīng qī rì",
+    "hsk": "1",
+    "pos_id": [
+      "kata waktu"
+    ],
+    "meaning_id": "Minggu"
+  },
+  {
+    "simplified": "中学生",
+    "pinyin": "zhōng xué shēng",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "siswa sekolah menengah"
+  },
+  {
+    "simplified": "外边",
+    "pinyin": "wài bian",
+    "hsk": "1",
+    "pos_id": [
+      "kata tempat"
+    ],
+    "meaning_id": "luar"
+  },
+  {
+    "simplified": "没事儿",
+    "pinyin": "méi shì r",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "punya waktu luang; bebas dari pekerjaan; tidak penting; tidak apa-apa; jangan khawatir"
+  },
+  {
+    "simplified": "里边",
+    "pinyin": "lǐ bian",
+    "hsk": "1",
+    "pos_id": [
+      "kata tempat"
+    ],
+    "meaning_id": "di dalam"
+  },
+  {
+    "simplified": "米饭",
+    "pinyin": "mǐ fàn",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "nasi (matang)"
+  },
+  {
+    "simplified": "请假",
+    "pinyin": "qǐng jià",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "meminta izin tidak masuk kerja"
+  },
+  {
+    "simplified": "下课",
+    "pinyin": "xià kè",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja",
+      "kata kerja-benda"
+    ],
+    "meaning_id": "selesai kelas"
+  },
+  {
+    "simplified": "洗手间",
+    "pinyin": "xǐ shǒu jiān",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "toilet"
+  },
+  {
+    "simplified": "渴",
+    "pinyin": "kě",
+    "hsk": "1",
+    "pos_id": [
+      "kata sifat",
+      "kata kerja"
+    ],
+    "meaning_id": "haus"
+  },
+  {
+    "simplified": "后天",
+    "pinyin": "hòu tiān",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda",
+      "kata waktu"
+    ],
+    "meaning_id": "lusa"
+  },
+  {
+    "simplified": "前天",
+    "pinyin": "qián tiān",
+    "hsk": "1",
+    "pos_id": [
+      "kata waktu",
+      "kata benda"
+    ],
+    "meaning_id": "kemarin lusa"
+  },
+  {
+    "simplified": "看病",
+    "pinyin": "kàn bìng",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja",
+      "kata kerja-benda"
+    ],
+    "meaning_id": "mengunjungi dokter"
+  },
+  {
+    "simplified": "车票",
+    "pinyin": "chē piào",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "tiket (untuk bus atau kereta)"
+  },
+  {
+    "simplified": "星期天",
+    "pinyin": "Xīng qī tiān",
+    "hsk": "1",
+    "pos_id": [
+      "kata waktu"
+    ],
+    "meaning_id": "Minggu"
+  },
+  {
+    "simplified": "玩儿",
+    "pinyin": "wán r",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "bermain"
+  },
+  {
+    "simplified": "关上",
+    "pinyin": "guān shàng",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "menutup (pintu)"
+  },
+  {
+    "simplified": "放学",
+    "pinyin": "fàng xué",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "menyelesaikan sekolah pada akhir hari"
+  },
+  {
+    "simplified": "中文",
+    "pinyin": "Zhōng wén",
+    "hsk": "1",
+    "pos_id": [
+      "nama diri"
+    ],
+    "meaning_id": "Bahasa Mandarin"
+  },
+  {
+    "simplified": "有名",
+    "pinyin": "yǒu míng",
+    "hsk": "1",
+    "pos_id": [
+      "kata sifat"
+    ],
+    "meaning_id": "terkenal"
+  },
+  {
+    "simplified": "路口",
+    "pinyin": "lù kǒu",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "persimpangan"
+  },
+  {
+    "simplified": "放假",
+    "pinyin": "fàng jià",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "libur atau cuti"
+  },
+  {
+    "simplified": "下车",
+    "pinyin": "xià chē",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja",
+      "kata kerja-benda"
+    ],
+    "meaning_id": "turun dari (bus, kereta api, mobil, dll)"
+  },
+  {
+    "simplified": "下雨",
+    "pinyin": "xià yǔ",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "hujan"
+  },
+  {
+    "simplified": "打球",
+    "pinyin": "dǎ qiú",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja",
+      "kata kerja-benda"
+    ],
+    "meaning_id": "bermain bola"
+  },
+  {
+    "simplified": "楼上",
+    "pinyin": "lóu shàng",
+    "hsk": "1",
+    "pos_id": [
+      "sufiks",
+      "kata tempat"
+    ],
+    "meaning_id": "lantai atas"
+  },
+  {
+    "simplified": "门票",
+    "pinyin": "mén piào",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "tiket (untuk teater, bioskop dll)"
+  },
+  {
+    "simplified": "上车",
+    "pinyin": "shàng chē",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "naik ke (bus, kereta api, mobil, dll)"
+  },
+  {
+    "simplified": "不大",
+    "pinyin": "bù dà",
+    "hsk": "1",
+    "pos_id": [
+      "kata keterangan"
+    ],
+    "meaning_id": "tidak terlalu"
+  },
+  {
+    "simplified": "有用",
+    "pinyin": "yǒu yòng",
+    "hsk": "1",
+    "pos_id": [
+      "kata sifat",
+      "kata kerja"
+    ],
+    "meaning_id": "berguna"
+  },
+  {
+    "simplified": "北京",
+    "pinyin": "Běi jīng",
+    "hsk": "1",
+    "pos_id": [
+      "ns"
+    ],
+    "meaning_id": "Kota Beijing, ibu kota Republik Rakyat Tiongkok (disingkat menjadi 京[Jing1])"
+  },
+  {
+    "simplified": "左边",
+    "pinyin": "zuǒ bian",
+    "hsk": "1",
+    "pos_id": [
+      "kata tempat"
+    ],
+    "meaning_id": "kiri; sisi kiri; di sebelah kiri"
+  },
+  {
+    "simplified": "走路",
+    "pinyin": "zǒu lù",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja",
+      "kata kerja-benda"
+    ],
+    "meaning_id": "berjalan; pergi dengan berjalan kaki"
+  },
+  {
+    "simplified": "大学生",
+    "pinyin": "dà xué shēng",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "mahasiswa universitas; mahasiswa"
+  },
+  {
+    "simplified": "钱包",
+    "pinyin": "qián bāo",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "Dompet"
+  },
+  {
+    "simplified": "开会",
+    "pinyin": "kāi huì",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "mengadakan rapat"
+  },
+  {
+    "simplified": "好听",
+    "pinyin": "hǎo tīng",
+    "hsk": "1",
+    "pos_id": [
+      "kata sifat"
+    ],
+    "meaning_id": "enak didengar"
+  },
+  {
+    "simplified": "生病",
+    "pinyin": "shēng bìng",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "sakit"
+  },
+  {
+    "simplified": "外国",
+    "pinyin": "wài guó",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "negara asing"
+  },
+  {
+    "simplified": "楼下",
+    "pinyin": "lóu xià",
+    "hsk": "1",
+    "pos_id": [
+      "sufiks"
+    ],
+    "meaning_id": "lantai bawah"
+  },
+  {
+    "simplified": "上网",
+    "pinyin": "shàng wǎng",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja",
+      "kata kerja-benda"
+    ],
+    "meaning_id": "online"
+  },
+  {
+    "simplified": "中学",
+    "pinyin": "zhōng xué",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "sekolah menengah"
+  },
+  {
+    "simplified": "国外",
+    "pinyin": "guó wài",
+    "hsk": "1",
+    "pos_id": [
+      "sufiks"
+    ],
+    "meaning_id": "luar negeri"
+  },
+  {
+    "simplified": "开玩笑",
+    "pinyin": "kāi wán xiào",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "bercanda; menggoda"
+  },
+  {
+    "simplified": "小学",
+    "pinyin": "xiǎo xué",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "sekolah dasar"
+  },
+  {
+    "simplified": "请问",
+    "pinyin": "qǐng wèn",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "Permisi, bolehkah saya bertanya...?"
+  },
+  {
+    "simplified": "零",
+    "pinyin": "líng",
+    "hsk": "1",
+    "pos_id": [
+      "kata bilangan",
+      "kata waktu",
+      "g"
+    ],
+    "meaning_id": "nol"
+  },
+  {
+    "simplified": "坐下",
+    "pinyin": "zuò xia",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "duduk"
+  },
+  {
+    "simplified": "姐",
+    "pinyin": "jiě",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "kakak perempuan"
+  },
+  {
+    "simplified": "没关系",
+    "pinyin": "méi guān xi",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "tidak masalah"
+  },
+  {
+    "simplified": "商店",
+    "pinyin": "shāng diàn",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "toko; warung"
+  },
+  {
+    "simplified": "读书",
+    "pinyin": "dú shū",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja",
+      "kata kerja-benda"
+    ],
+    "meaning_id": "membaca buku"
+  },
+  {
+    "simplified": "下班",
+    "pinyin": "xià bān",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja",
+      "kata kerja-benda"
+    ],
+    "meaning_id": "selesai kerja; pulang kerja"
+  },
+  {
+    "simplified": "男朋友",
+    "pinyin": "nán péng you",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "pacar pria"
+  },
+  {
+    "simplified": "听见",
+    "pinyin": "tīng jiàn",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "mendengar"
+  },
+  {
+    "simplified": "爷爷",
+    "pinyin": "yé ye",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "(pengucapan) kakek dari pihak ayah; kakek"
+  },
+  {
+    "simplified": "上课",
+    "pinyin": "shàng kè",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja",
+      "kata kerja-benda"
+    ],
+    "meaning_id": "pergi ke kelas"
+  },
+  {
+    "simplified": "女朋友",
+    "pinyin": "nǚ péng you",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "pacar wanita"
+  },
+  {
+    "simplified": "上学",
+    "pinyin": "shàng xué",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "pergi ke sekolah"
+  },
+  {
+    "simplified": "右边",
+    "pinyin": "yòu bian",
+    "hsk": "1",
+    "pos_id": [
+      "kata tempat"
+    ],
+    "meaning_id": "sisi kanan"
+  },
+  {
+    "simplified": "唱歌",
+    "pinyin": "chàng gē",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja",
+      "kata kerja-benda"
+    ],
+    "meaning_id": "menyanyikan sebuah lagu"
+  },
+  {
+    "simplified": "上次",
+    "pinyin": "shàng cì",
+    "hsk": "1",
+    "pos_id": [
+      "kata waktu"
+    ],
+    "meaning_id": "terakhir kali"
+  },
+  {
+    "simplified": "男生",
+    "pinyin": "nán shēng",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "siswa laki-laki"
+  },
+  {
+    "simplified": "常常",
+    "pinyin": "cháng cháng",
+    "hsk": "1",
+    "pos_id": [
+      "kata keterangan"
+    ],
+    "meaning_id": "sering; kerap kali"
+  },
+  {
+    "simplified": "干什么",
+    "pinyin": "gàn shén me",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "apa yang kamu lakukan?"
+  },
+  {
+    "simplified": "开车",
+    "pinyin": "kāi chē",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja",
+      "kata kerja-benda"
+    ],
+    "meaning_id": "mengendarai mobil (atau kereta api, dll)"
+  },
+  {
+    "simplified": "是不是",
+    "pinyin": "shì bù shì",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "ya atau tidak (digunakan untuk membentuk pertanyaan ya-tidak)"
+  },
+  {
+    "simplified": "起床",
+    "pinyin": "qǐ chuáng",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "bangun dari tempat tidur; bangun"
+  },
+  {
+    "simplified": "不对",
+    "pinyin": "bù duì",
+    "hsk": "1",
+    "pos_id": [
+      "kata sifat"
+    ],
+    "meaning_id": "salah"
+  },
+  {
+    "simplified": "妹",
+    "pinyin": "mèi",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "adik perempuan"
+  },
+  {
+    "simplified": "再见",
+    "pinyin": "zài jiàn",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "selamat tinggal"
+  },
+  {
+    "simplified": "明年",
+    "pinyin": "míng nián",
+    "hsk": "1",
+    "pos_id": [
+      "kata waktu"
+    ],
+    "meaning_id": "tahun depan"
+  },
+  {
+    "simplified": "好吃",
+    "pinyin": "hǎo chī",
+    "hsk": "1",
+    "pos_id": [
+      "kata sifat"
+    ],
+    "meaning_id": "enak; lezat"
+  },
+  {
+    "simplified": "网上",
+    "pinyin": "wǎng shàng",
+    "hsk": "1",
+    "pos_id": [
+      "sufiks"
+    ],
+    "meaning_id": "daring"
+  },
+  {
+    "simplified": "百",
+    "pinyin": "bǎi",
+    "hsk": "1",
+    "pos_id": [
+      "kata bilangan",
+      "kata waktu"
+    ],
+    "meaning_id": "seratus"
+  },
+  {
+    "simplified": "在家",
+    "pinyin": "zài jiā",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja"
+    ],
+    "meaning_id": "berada di rumah"
+  },
+  {
+    "simplified": "老人",
+    "pinyin": "lǎo rén",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda"
+    ],
+    "meaning_id": "pria atau wanita tua"
+  },
+  {
+    "simplified": "下次",
+    "pinyin": "xià cì",
+    "hsk": "1",
+    "pos_id": [
+      "kata waktu"
+    ],
+    "meaning_id": "lain kali"
+  },
+  {
+    "simplified": "一会儿",
+    "pinyin": "yī huì r",
+    "hsk": "1",
+    "pos_id": [
+      "mq"
+    ],
+    "meaning_id": "sebentar"
+  },
+  {
+    "simplified": "上午",
+    "pinyin": "shàng wǔ",
+    "hsk": "1",
+    "pos_id": [
+      "kata waktu"
+    ],
+    "meaning_id": "pagi"
+  },
+  {
+    "simplified": "地上",
+    "pinyin": "dì shang",
+    "hsk": "1",
+    "pos_id": [
+      "sufiks"
+    ],
+    "meaning_id": "di tanah"
+  },
+  {
+    "simplified": "生气",
+    "pinyin": "shēng qì",
+    "hsk": "1",
+    "pos_id": [
+      "kata sifat",
+      "kata benda",
+      "kata kerja",
+      "an"
+    ],
+    "meaning_id": "menjadi marah; menjadi sangat marah"
+  },
+  {
+    "simplified": "九",
+    "pinyin": "jiǔ",
+    "hsk": "1",
+    "pos_id": [
+      "kata bilangan",
+      "kata waktu",
+      "non-predikatif"
+    ],
+    "meaning_id": "sembilan"
+  },
+  {
+    "simplified": "考",
+    "pinyin": "kǎo",
+    "hsk": "1",
+    "pos_id": [
+      "kata kerja",
+      "g"
+    ],
+    "meaning_id": "memukul"
+  },
+  {
+    "simplified": "车上",
+    "pinyin": "chē shàng",
+    "hsk": "1",
+    "pos_id": [
+      "sufiks"
+    ],
+    "meaning_id": ""
+  },
+  {
+    "simplified": "女生",
+    "pinyin": "nǚ shēng",
+    "hsk": "1",
+    "pos_id": [
+      "kata benda",
+      "nr"
+    ],
+    "meaning_id": "gadis sekolah"
+  }
+]
