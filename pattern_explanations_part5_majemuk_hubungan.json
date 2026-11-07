@@ -1,0 +1,127 @@
+{
+  "C-yinwei-suoyi": {
+    "penjelasan_dasar": "因为…所以 adalah pasangan konjungsi sebab-akibat yang membentuk kalimat majemuk dua klausa: klausa pertama (因为 + sebab) menjelaskan ALASAN, klausa kedua (所以 + akibat) menjelaskan HASIL/akibatnya. Yang unik di Mandarin: kedua kata ini SERING dipakai BERSAMAAN dalam satu kalimat, tidak seperti bahasa Indonesia yang biasanya cukup pakai salah satu ('karena' ATAU 'maka', jarang keduanya sekaligus).",
+    "perbandingan_indonesia": "Di Indonesia, kita biasa bilang 'KARENA hujan, saya tidak jadi pergi' (tanpa 'maka') atau 'Hujan, MAKA saya tidak jadi pergi' (tanpa 'karena') — pakai salah satu saja sudah cukup dan terdengar natural. Di Mandarin, memakai KEDUANYA sekaligus (因为…所以…) justru yang paling natural dan baku, meski secara teknis salah satu boleh dihilangkan dalam percakapan santai.",
+    "kapan_tidak_boleh": "Jangan hilangkan 所以 di klausa kedua kalau sedang menulis secara formal/baku — dalam konteks formal, pasangan ini idealnya lengkap keduanya. Dalam percakapan sangat santai, kadang orang cuma bilang 因为… tanpa 所以 dan tetap dipahami dari konteks, tapi untuk pelajar, lebih aman selalu pakai keduanya sampai terbiasa.",
+    "kesalahan_umum": [
+      {
+        "salah": "因为下雨，我不去了所以。 (menaruh 所以 di akhir kalimat)",
+        "benar": "因为下雨，所以我不去了。",
+        "penjelasan": "所以 harus di AWAL klausa kedua (sebelum subjek klausa itu), bukan di akhir kalimat."
+      },
+      {
+        "salah": "所以下雨，因为我不去了。 (membalik urutan 因为 dan 所以)",
+        "benar": "因为下雨，所以我不去了。",
+        "penjelasan": "因为 (sebab) SELALU di klausa pertama, 所以 (akibat) SELALU di klausa kedua — urutannya tidak bisa dibalik karena mengikuti logika sebab dulu baru akibat."
+      }
+    ],
+    "contoh_tambahan": [
+      { "cn": "因为我忙，所以没去。",       "py": "Yīnwèi wǒ máng, suǒyǐ méi qù.",         "id": "Karena saya sibuk, maka tidak pergi." },
+      { "cn": "因为他生病了，所以在家休息。", "py": "Yīnwèi tā shēngbìng le, suǒyǐ zài jiā xiūxi.", "id": "Karena dia sakit, maka istirahat di rumah." }
+    ],
+    "pola_terkait": [
+      { "key": "C-suiran-danshi", "alasan": "Pola dua klausa lain dengan struktur mirip, tapi untuk hubungan 'meski-tapi' (kontras), bukan sebab-akibat." },
+      { "key": "C-ruguo-jiu",     "alasan": "Kalau hubungannya bersyarat/pengandaian (bukan sebab yang sudah pasti terjadi), pakai pola 如果…就 ini." }
+    ]
+  },
+
+  "C-suiran-danshi": {
+    "penjelasan_dasar": "虽然…但是 membentuk kalimat KONTRAS — klausa pertama (虽然 + kondisi) menyatakan suatu fakta, klausa kedua (但是 + kontras) menyatakan hal yang berlawanan/tidak terduga dari fakta pertama. Sama seperti pasangan 因为…所以, kedua kata ini juga umum dipakai bersamaan dalam satu kalimat di Mandarin.",
+    "perbandingan_indonesia": "Mirip 'meskipun…tetapi…' dalam bahasa Indonesia, yang juga kadang dipakai berpasangan lengkap ('Meskipun sibuk, tapi dia tetap datang'). Jadi pola ini termasuk salah satu yang paling intuitif buat pelajar Indonesia karena kebiasaan berbahasanya mirip.",
+    "kapan_tidak_boleh": "Jangan pakai 但是 sendirian tanpa 虽然 kalau memang berniat membuat kontras formal dua klausa terhubung — 但是 sendirian lebih cocok untuk kontras antar-kalimat terpisah (bukan satu kalimat majemuk). Untuk kalimat majemuk yang benar, pakai keduanya.",
+    "kesalahan_umum": [
+      {
+        "salah": "虽然他很忙，他很高兴。 (lupa 但是 di klausa kedua)",
+        "benar": "虽然他很忙，但是他很高兴。",
+        "penjelasan": "但是 di klausa kedua penting untuk menandai kontras secara eksplisit — tanpa itu, hubungan antar klausa jadi kurang jelas."
+      },
+      {
+        "salah": "他但是很忙，虽然很高兴。 (membalik urutan)",
+        "benar": "虽然他很忙，但是很高兴。",
+        "penjelasan": "虽然 (meski) selalu di klausa pertama (fakta), 但是 (tapi) selalu di klausa kedua (kontrasnya) — urutan logisnya tetap."
+      }
+    ],
+    "contoh_tambahan": [
+      { "cn": "虽然很贵，但是我喜欢。",     "py": "Suīrán hěn guì, dànshì wǒ xǐhuan.",       "id": "Meskipun mahal, tapi saya suka." },
+      { "cn": "虽然下雨，但是他还是来了。", "py": "Suīrán xià yǔ, dànshì tā háishi lái le.", "id": "Meskipun hujan, tapi dia tetap datang." }
+    ],
+    "pola_terkait": [
+      { "key": "C-yinwei-suoyi", "alasan": "Struktur dua klausa yang mirip secara gramatikal, tapi untuk hubungan sebab-akibat, bukan kontras." }
+    ]
+  },
+
+  "C-ruguo-jiu": {
+    "penjelasan_dasar": "如果…就 membentuk kalimat BERSYARAT/pengandaian — klausa pertama (如果 + syarat) menyatakan kondisi yang MUNGKIN terjadi, klausa kedua (就 + hasil) menyatakan apa yang akan terjadi KALAU syarat itu terpenuhi. Beda dengan 因为…所以 (yang menyatakan sebab yang SUDAH terjadi), 如果…就 selalu tentang kemungkinan/andaian, belum tentu benar-benar terjadi.",
+    "perbandingan_indonesia": "Persis sama dengan 'jika…maka…' dalam bahasa Indonesia — logika dan urutannya identik. Yang perlu diperhatikan: 就 di Mandarin posisinya SEBELUM kata kerja di klausa hasil (bukan di awal klausa seperti 所以), ini beda kecil dari pola sebab-akibat sebelumnya.",
+    "kapan_tidak_boleh": "Jangan pakai pola ini untuk fakta yang SUDAH PASTI terjadi (gunakan 因为…所以 untuk itu) — 如果…就 khusus untuk kondisi hipotesis/andaian yang belum tentu terjadi. Jangan pula taruh 就 di awal klausa (sebelum subjek) — 就 harus setelah subjek, sebelum kata kerja.",
+    "kesalahan_umum": [
+      {
+        "salah": "如果你来，就我高兴。 (menaruh 就 sebelum subjek)",
+        "benar": "如果你来，我就高兴。 (Rúguǒ nǐ lái, wǒ jiù gāoxìng.)",
+        "penjelasan": "就 diletakkan SETELAH subjek klausa kedua, SEBELUM kata kerja/sifatnya — bukan di paling depan klausa."
+      },
+      {
+        "salah": "因为你来，就我高兴。 (mencampur 因为 dengan 就, padahal pasangan yang benar adalah 如果…就)",
+        "benar": "如果你来，我就高兴。",
+        "penjelasan": "就 adalah pasangan tetap dari 如果 (jika), bukan dari 因为 (karena) — jangan dicampur dengan konjungsi dari pola lain."
+      }
+    ],
+    "contoh_tambahan": [
+      { "cn": "如果明天不下雨，我们就去公园。", "py": "Rúguǒ míngtiān bù xià yǔ, wǒmen jiù qù gōngyuán.", "id": "Jika besok tidak hujan, kita akan pergi ke taman." },
+      { "cn": "如果你忙，我就自己去。",         "py": "Rúguǒ nǐ máng, wǒ jiù zìjǐ qù.",                 "id": "Jika kamu sibuk, saya akan pergi sendiri." }
+    ],
+    "pola_terkait": [
+      { "key": "C-yinwei-suoyi", "alasan": "Untuk sebab yang SUDAH terjadi (bukan andaian), pakai pola 因为…所以 sebagai gantinya." }
+    ]
+  },
+
+  "C-bujin-erqie": {
+    "penjelasan_dasar": "不仅…而且 dipakai untuk menyatakan bahwa suatu hal punya DUA sifat/kualitas sekaligus, di mana yang kedua menambah/memperkuat yang pertama secara positif ('tidak hanya A, bahkan juga B'). Berbeda dengan pola dua-klausa sebelumnya (yang punya dua SUBJEK berbeda), pola ini biasanya punya SATU subjek dengan dua kata sifat.",
+    "perbandingan_indonesia": "Setara dengan 'tidak hanya…bahkan/tapi juga…' dalam bahasa Indonesia — 'Dia tidak hanya pintar, bahkan juga rajin'. Logika penekanannya sama: unsur kedua (而且) biasanya dianggap sebagai nilai tambah/kejutan positif dari unsur pertama (不仅).",
+    "kapan_tidak_boleh": "Jangan pakai pola ini kalau dua sifatnya justru BERTENTANGAN/kontras (untuk itu pakai 虽然…但是) — 不仅…而且 khusus untuk dua sifat yang SEARAH/saling memperkuat, bukan berlawanan.",
+    "kesalahan_umum": [
+      {
+        "salah": "他不仅聪明，而且笨。 (menggabungkan dua sifat yang bertentangan: cerdas vs bodoh)",
+        "benar": "他不仅聪明，而且努力。 (Tā bùjǐn cōngming, érqiě nǔlì.)",
+        "penjelasan": "不仅…而且 dipakai untuk dua sifat yang SEARAH/saling mendukung, bukan sifat yang berlawanan. Untuk kontras, pakai 虽然…但是."
+      },
+      {
+        "salah": "不仅他聪明，而且他努力。 (mengulang subjek di kedua klausa, padahal pola ini biasanya satu subjek)",
+        "benar": "他不仅聪明，而且努力。",
+        "penjelasan": "Pola ini biasanya memakai SATU subjek yang disebut sekali di awal, lalu langsung diikuti dua sifat berturutan — tidak perlu mengulang subjeknya."
+      }
+    ],
+    "contoh_tambahan": [
+      { "cn": "这个地方不仅美，而且安静。", "py": "Zhège dìfang bùjǐn měi, érqiě ānjìng.", "id": "Tempat ini tidak hanya indah, bahkan juga tenang." },
+      { "cn": "她不仅漂亮，而且善良。",     "py": "Tā bùjǐn piàoliang, érqiě shànliáng.", "id": "Dia tidak hanya cantik, bahkan juga baik hati." }
+    ],
+    "pola_terkait": [
+      { "key": "C-suiran-danshi", "alasan": "Kalau dua sifatnya justru bertentangan/kontras (bukan saling memperkuat), pakai pola 虽然…但是 sebagai gantinya." }
+    ]
+  },
+
+  "C-yibian-yibian": {
+    "penjelasan_dasar": "一边…一边 dipakai untuk menyatakan DUA aksi yang berlangsung BERSAMAAN pada waktu yang sama, dilakukan oleh subjek yang sama pula ('sambil melakukan A, juga melakukan B'). Kedua kata kerja di sini harus aksi yang secara fisik MUNGKIN dilakukan bersamaan — misalnya makan sambil menonton TV, jalan sambil bicara.",
+    "perbandingan_indonesia": "Persis sama dengan 'sambil' dalam bahasa Indonesia — 'Dia sambil makan, sambil menonton TV'. Logikanya identik, hanya saja di Mandarin kata 一边 diulang DUA kali (sekali di depan tiap kata kerja), sedangkan di Indonesia biasanya cukup satu kata 'sambil' saja untuk aksi pertama.",
+    "kapan_tidak_boleh": "Jangan pakai pola ini untuk dua aksi yang TIDAK MUNGKIN dilakukan bersamaan secara fisik (misal 'sambil tidur, sambil berlari' tidak masuk akal). Jangan pula lupakan pengulangan 一边 di depan kata kerja KEDUA — banyak pemula cuma menaruh 一边 sekali di depan kata kerja pertama saja.",
+    "kesalahan_umum": [
+      {
+        "salah": "他一边吃饭，看电视。 (lupa mengulang 一边 di klausa kedua)",
+        "benar": "他一边吃饭，一边看电视。 (Tā yībiān chī fàn, yībiān kàn diànshì.)",
+        "penjelasan": "一边 harus diulang di depan KEDUA kata kerja, bukan cuma sekali di depan yang pertama. Ini pasangan wajib, bukan konjungsi yang boleh dihilangkan sebagian."
+      },
+      {
+        "salah": "他一边吃饭，一边跑步。 (menggabungkan dua aksi yang secara fisik sulit dilakukan bersamaan)",
+        "benar": "他一边喝水，一边跑步。 (lebih masuk akal: minum sambil lari)",
+        "penjelasan": "Pastikan kedua aksi memang realistis dilakukan bersamaan secara fisik — makan besar sambil lari kencang kurang masuk akal, beda dengan minum sambil lari santai."
+      }
+    ],
+    "contoh_tambahan": [
+      { "cn": "我一边听音乐，一边写作业。", "py": "Wǒ yībiān tīng yīnyuè, yībiān xiě zuòyè.", "id": "Saya sambil mendengarkan musik, sambil mengerjakan PR." },
+      { "cn": "他们一边走，一边聊天。",     "py": "Tāmen yībiān zǒu, yībiān liáotiān.",     "id": "Mereka sambil berjalan, sambil mengobrol." }
+    ],
+    "pola_terkait": [
+      { "key": "S-zai-V", "alasan": "Kalau cuma satu aksi yang sedang berlangsung (bukan dua bersamaan), cukup pakai 在 + V, tanpa perlu pola 一边…一边." }
+    ]
+  }
+}
