@@ -1,0 +1,161 @@
+=== LAPORAN repair_glossary.py (v2, scoped) — 2026-07-30 19:43:28.541311 ===
+Baseline: data\app_words.bak_manual18_20260730_173849.json
+Mode: EKSEKUSI
+Kata dlm cakupan (verified_changed): 32
+Total entri diperiksa: 123
+
+=== hsk1_01 — "我的一天" (HSK1, bacaan) ===
+  - "看": py 'kàn' -> 'kàn' | arti 'menonton/melihat' -> 'menonton'
+
+=== hsk2_02 — "生病了" (HSK2, bacaan) ===
+  - "说": py 'shuō' -> 'shuō' | arti 'berkata' -> 'berbicara; berkata'
+
+=== hsk4_02 — "一封迟到的信" (HSK4, bacaan) ===
+  - "说": py 'shuō' -> 'shuō' | arti 'berkata' -> 'berbicara; berkata'
+
+=== tema_pasar_hsk1 — "在市场 (Di Pasar)" (HSK1, bacaan) ===
+  - "苹果": py 'píngguǒ' -> 'píng guǒ' | arti 'apel' -> 'apel'
+  - "说": py 'shuō' -> 'shuō' | arti 'berkata; mengatakan' -> 'berbicara; berkata'
+
+=== tema_pasar_hsk2 — "在市场买菜 (Belanja di Pasar)" (HSK2, bacaan) ===
+  - "说": py 'shuō' -> 'shuō' | arti 'berkata; mengatakan' -> 'berbicara; berkata'
+
+=== tema_pasar_hsk3 — "热闹的市场 (Pasar yang Ramai)" (HSK3, bacaan) ===
+  - "看": py 'kàn' -> 'kàn' | arti 'melihat' -> 'menonton'
+  - "老板": py 'lǎo bǎn' -> 'lǎo bǎn' | arti 'Robam (merek)' -> 'bos'
+
+=== tema_kelas_hsk1 — "在教室 (Di Kelas)" (HSK1, bacaan) ===
+  - "说": py 'shuō' -> 'shuō' | arti 'berkata; mengatakan' -> 'berbicara; berkata'
+
+=== tema_kelas_hsk2 — "汉语课 (Pelajaran Bahasa Mandarin)" (HSK2, bacaan) ===
+  - "说": py 'shuō' -> 'shuō' | arti 'berkata; mengatakan' -> 'berbicara; berkata'
+
+=== tema_kelas_hsk3 — "难忘的一堂课 (Pelajaran yang Berkesan)" (HSK3, bacaan) ===
+  - "看": py 'kàn' -> 'kàn' | arti 'melihat' -> 'menonton'
+  - "说": py 'shuō' -> 'shuō' | arti 'berkata; mengatakan' -> 'berbicara; berkata'
+
+=== tema_restoran_hsk1 — "在饭馆 (Di Rumah Makan)" (HSK1, bacaan) ===
+  - "说": py 'shuō' -> 'shuō' | arti 'berkata; mengatakan' -> 'berbicara; berkata'
+
+=== tema_restoran_hsk2 — "第一次点菜 (Pertama Kali Memesan Makanan)" (HSK2, bacaan) ===
+  - "说": py 'shuō' -> 'shuō' | arti 'berkata; mengatakan' -> 'berbicara; berkata'
+
+=== tema_restoran_hsk3 — "难忘的聚餐 (Makan Bersama yang Berkesan)" (HSK3, bacaan) ===
+  - "说": py 'shuō' -> 'shuō' | arti 'berkata; mengatakan' -> 'berbicara; berkata'
+
+=== tema_bandara_hsk4 — "在机场 (Di Bandara)" (HSK4, bacaan) ===
+  - "说": py 'shuō' -> 'shuō' | arti 'berkata; mengatakan' -> 'berbicara; berkata'
+
+=== tema_rumahsakit_hsk4 — "去医院看病 (Berobat ke Rumah Sakit)" (HSK4, bacaan) ===
+  - "看": py 'kān' -> 'kàn' | arti 'menjaga' -> 'menonton'
+  - "说": py 'shuō' -> 'shuō' | arti 'berkata; mengatakan' -> 'berbicara; berkata'
+
+=== tema_kantor_hsk6 — "公司里的大项目 (Proyek Besar di Kantor)" (HSK6, bacaan) ===
+  - "说": py 'shuō' -> 'shuō' | arti 'berkata; mengatakan' -> 'berbicara; berkata'
+
+=== tema_kesehatan_hsk7 — "一场传染病 (Wabah Penyakit Menular)" (HSK7, bacaan) ===
+  - "说": py 'shuō' -> 'shuō' | arti 'berkata; mengatakan' -> 'berbicara; berkata'
+
+=== tema_keluarga_hsk1 — "我的家 (Keluargaku)" (HSK1, bacaan) ===
+  - "看": py 'kàn' -> 'kàn' | arti 'melihat' -> 'menonton'
+
+=== tema_cuaca_hsk2 — "今天天气怎么样 (Bagaimana Cuaca Hari Ini)" (HSK2, bacaan) ===
+  - "说": py 'shuō' -> 'shuō' | arti 'berkata; mengatakan' -> 'berbicara; berkata'
+  - "看": py 'kān' -> 'kàn' | arti 'bergantung pada' -> 'menonton'
+
+=== tema_olahraga_hsk3 — "篮球比赛 (Pertandingan Basket)" (HSK3, bacaan) ===
+  - "说": py 'shuō' -> 'shuō' | arti 'berkata; mengatakan' -> 'berbicara; berkata'
+
+=== tema_warna_hsk1 — "我的衣服 (Baju Saya)" (HSK1, bacaan) ===
+  - "说": py 'shuì' -> 'shuō' | arti 'membujuk' -> 'berbicara; berkata'
+
+=== tema_belanja_hsk2 — "在商店买东西 (Belanja di Toko)" (HSK2, bacaan) ===
+  - "说": py 'shuì' -> 'shuō' | arti 'membujuk' -> 'berbicara; berkata'
+
+=== tema_wisata_hsk4 — "一次难忘的旅行 (Perjalanan yang Tak Terlupakan)" (HSK4, bacaan) ===
+  - "看": py 'kān' -> 'kàn' | arti 'menjaga' -> 'menonton'
+
+=== tema_tubuh_hsk2 — "我生病了 (Saya Sakit)" (HSK2, bacaan) ===
+  - "说": py 'shuì' -> 'shuō' | arti 'membujuk' -> 'berbicara; berkata'
+  - "看": py 'kān' -> 'kàn' | arti 'menjaga' -> 'menonton'
+
+=== tema_makanan_hsk1 — "我爱吃的东西 (Makanan yang Saya Suka)" (HSK1, bacaan) ===
+  - "全家": py 'quán jiā' -> 'quán jiā' | arti 'FamilyMart (jaringan toko serba ada)' -> 'seluruh keluarga'
+
+=== tema_haritanggal_hsk1 — "我的生日 (Ulang Tahun Saya)" (HSK1, bacaan) ===
+  - "说": py 'shuì' -> 'shuō' | arti 'membujuk' -> 'berbicara; berkata'
+  - "号": py 'háo' -> 'hào' | arti 'auman' -> 'nomor urut'
+
+=== tema_buah_hsk1 — "我最喜欢的水果 (Buah yang Paling Saya Suka)" (HSK1, bacaan) ===
+  - "苹果": py 'píng guǒ' -> 'píng guǒ' | arti 'Apple (perusahaan teknologi Amerika)' -> 'apel'
+  - "说": py 'shuì' -> 'shuō' | arti 'membujuk' -> 'berbicara; berkata'
+
+=== tema_sayuran_hsk2 — "妈妈做的菜 (Masakan Ibu)" (HSK2, bacaan) ===
+  - "说": py 'shuì' -> 'shuō' | arti 'membujuk' -> 'berbicara; berkata'
+
+=== tema_rumahruangan_hsk2 — "我的新家 (Rumah Baru Saya)" (HSK2, bacaan) ===
+  - "看": py 'kān' -> 'kàn' | arti 'menjaga' -> 'menonton'
+
+=== tema_komunikasi_hsk5 — "手机改变了我们的交流方式 (Ponsel Mengubah Cara Kita Berkomunikasi)" (HSK5, bacaan) ===
+  - "看": py 'kān' -> 'kàn' | arti 'menjaga' -> 'menonton'
+
+=== tema_negarabudaya_hsk5 — "春节的意义 (Makna Tahun Baru Imlek)" (HSK5, bacaan) ===
+  - "藏": py 'zàng' -> 'cáng' | arti 'Tibet' -> 'menyembunyikan'
+
+=== tema_pertanian_hsk4 — "爷爷的农田 (Ladang Kakek)" (HSK4, bacaan) ===
+  - "看": py 'kān' -> 'kàn' | arti 'menjaga' -> 'menonton'
+  - "说": py 'shuì' -> 'shuō' | arti 'membujuk' -> 'berbicara; berkata'
+
+=== tema_senibudaya_hsk5 — "一场特别的画展 (Pameran Lukisan yang Istimewa)" (HSK5, bacaan) ===
+  - "看": py 'kān' -> 'kàn' | arti 'menjaga' -> 'menonton'
+
+=== tema_negarabudaya_hsk6 — "为什么要保护自己国家的语言 (Mengapa Perlu Melindungi Bahasa Negara Sendiri)" (HSK6, bacaan) ===
+  - "说": py 'shuì' -> 'shuō' | arti 'membujuk' -> 'berbicara; berkata'
+
+=== tema_agama_hsk9 — "科学发展是否会让宗教消失 (Apakah Perkembangan Sains Akan Membuat Agama Hilang)" (HSK9, bacaan) ===
+  - "看": py 'kān' -> 'kàn' | arti 'menjaga' -> 'menonton'
+
+=== tema_buah_hsk3 — "夏天的水果 (Buah-buahan Musim Panas)" (HSK3, bacaan) ===
+  - "说": py 'shuì' -> 'shuō' | arti 'membujuk' -> 'berbicara; berkata'
+
+=== tema_sayuran_hsk4 — "自己种菜的乐趣 (Serunya Menanam Sayur Sendiri)" (HSK4, bacaan) ===
+  - "看": py 'kān' -> 'kàn' | arti 'menjaga' -> 'menonton'
+  - "全家": py 'quán jiā' -> 'quán jiā' | arti 'FamilyMart (jaringan toko serba ada)' -> 'seluruh keluarga'
+
+=== tema_olahraga_hsk5 — "运动员是怎么坚持训练的 (Bagaimana Atlet Bertahan dalam Latihan)" (HSK5, bacaan) ===
+  - "说": py 'shuì' -> 'shuō' | arti 'membujuk' -> 'berbicara; berkata'
+
+=== tema_pakaian_hsk4 — "网上买衣服的烦恼 (Kerepotan Membeli Baju secara Online)" (HSK4, bacaan) ===
+  - "看": py 'kān' -> 'kàn' | arti 'menjaga' -> 'menonton'
+
+=== tema_angka_hsk3 — "我的电话号码 (Nomor Telepon Saya)" (HSK3, bacaan) ===
+  - "说": py 'shuì' -> 'shuō' | arti 'membujuk' -> 'berbicara; berkata'
+
+=== tema_komunikasi_hsk7 — "社交媒体让我们更亲近还是更疏远 (Media Sosial Membuat Kita Lebih Dekat atau Lebih Jauh)" (HSK7, bacaan) ===
+  - "看": py 'kān' -> 'kàn' | arti 'menjaga' -> 'menonton'
+
+=== tema_alamlingkungan_hsk8 — "城市绿化对居民生活的意义 (Arti Penghijauan Kota bagi Kehidupan Warga)" (HSK8, bacaan) ===
+  - "看": py 'kān' -> 'kàn' | arti 'menjaga' -> 'menonton'
+  - "说": py 'shuì' -> 'shuō' | arti 'membujuk' -> 'berbicara; berkata'
+
+=== tema_pekerjaan_hsk8 — "远程办公改变了工作方式 (Kerja Jarak Jauh Mengubah Cara Bekerja)" (HSK8, bacaan) ===
+  - "说": py 'shuì' -> 'shuō' | arti 'membujuk' -> 'berbicara; berkata'
+
+=== di_bandara_hsk1 — "Mencari Gerbang Keberangkatan" (HSK1, percakapan) ===
+  - "看": py 'kān' -> 'kàn' | arti 'menjaga' -> 'menonton'
+  - "号": py 'hào' -> 'hào' | arti 'nomor' -> 'nomor urut'
+
+=== waktu_luang_hsk3 — "周末的计划" (HSK3, bacaan) ===
+  - "说": py 'shuì' -> 'shuō' | arti 'membujuk' -> 'berbicara; berkata'
+
+=== rapat_proyek_kantor_hsk5 — "项目讨论会" (HSK5, percakapan) ===
+  - "说": py 'shuì' -> 'shuō' | arti 'membujuk' -> 'berbicara; berkata'
+
+=== wawancara_ekonomi_hsk7 — "专访经济学家" (HSK7, percakapan) ===
+  - "看": py 'kān' -> 'kàn' | arti 'menjaga' -> 'menonton'
+
+--- RINGKASAN ---
+Entri diperiksa       : 123
+Entri berubah         : 46
+Total kata diperbarui : 58
+Masih mencurigakan    : 0 (lihat daftar di atas)
