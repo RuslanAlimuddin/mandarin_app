@@ -1,0 +1,66 @@
+=== LAPORAN complete_theme_json.py -- 2026-07-24 19:56:33.501438 ===
+Tema: Perjalanan & Wisata (key: perjalanan_wisata)
+Total kata di file mentah: 128
+  Kata baru dibangun & ditambah ke app_words.json: 54
+  Kata sudah ada, baru ditag tema ini: 54
+  Kata sudah ada & sudah tertag tema ini sebelumnya: 20
+  Dilewati (hanzi kosong): 0
+Jumlah kartu tema 'Perjalanan & Wisata' sekarang: 139
+
+--- Kata baru dari cidict_index.json (arti resmi, kualitas tinggi) ---
+  船票 | chuán piào | tiket kapal
+  航空公司 | háng kōng gōng sī | maskapai penerbangan
+  登机口 | dēng jī kǒu | gerbang naik pesawat (penerbangan)
+  直飞 | zhí fēi | terbang tanpa henti; terbang langsung (ke...)
+  民宿 | mín sù | (pinjaman ortografis dari bahasa Jepang 民宿 "minshuku") properti yang disewa melalui Airbnb atau platform serupa; wisma; tempat tidur dan sarapan; homestay; pensiun
+  度假村 | dù jià cūn | resor (properti liburan)
+  单人间 | dān rén jiān | kamar single (hotel)
+  双人间 | shuāng rén jiān | kamar ganda (hotel)
+  套房 | tào fáng | kamar kecil yang terbuka dari kamar lain; kamar dalam
+  标准间 | biāo zhǔn jiān | kamar (hotel) standar
+  大床房 | dà chuáng fáng | kamar hotel dengan satu ranjang double (atau queen atau king)
+  入住 | rù zhù | untuk check-in (di hotel, dll.); untuk pindah ke (rumah)
+  退房 | tuì fáng | check out dari kamar hotel
+  房卡 | fáng kǎ | kartu kamar (di hotel)
+  名胜古迹 | míng shèng gǔ jì | situs bersejarah dan tempat wisata
+  自然风光 | zì rán fēng guāng | alam dan pemandangan
+  人文景观 | rén wén jǐng guān | tempat yang menarik secara budaya
+  美术馆 | měi shù guǎn | galeri seni
+  植物园 | zhí wù yuán | kebun raya
+  水族馆 | shuǐ zú guǎn | akuarium (terbuka untuk umum)
+  游乐园 | yóu lè yuán | taman hiburan
+  冰川 | bīng chuān | gletser
+  旅行团 | lǚ xíng tuán | grup tur
+  自由行 | zì yóu xíng | perjalanan yang diorganisir sendiri daripada dalam kelompok tur
+  全陪 | quán péi | pendamping tur (selama seluruh tur)
+  地陪 | dì péi | pemandu lokal
+  纪念品 | jì niàn pǐn | cinderamata; kenang-kenangan
+  蹦极 | bèng jí | (kata serapan) bungee jumping
+  露营 | lù yíng | berkemah
+  防晒霜 | fáng shài shuāng | krim tabir surya
+  退税 | tuì shuì | pengembalian atau pengembalian pajak
+
+--- Kata baru TANPA cidict (dari AI, PERLU DICEK MANUAL traditional & arti) ---
+  免税店 | miǎnshuìdiàn | toko bebas pajak
+  候机室 | hòujīshì | ruang tunggu bandara
+  青年旅社 | qīngnián lǚshè | hostel
+  风景区 | fēngjǐngqū | kawasan wisata
+  古镇 | gǔzhèn | kota kuno
+  团费 | tuánfèi | biaya tur
+  学生票 | xuéshēngpiào | tiket pelajar
+  老人票 | lǎorénpiào | tiket lansia
+  免费入场 | miǎnfèi rùchǎng | masuk gratis
+  开放时间 | kāifàng shíjiān | jam buka
+  闭馆时间 | bìguǎn shíjiān | jam tutup
+  游客中心 | yóukè zhōngxīn | pusat informasi pengunjung
+  语音导览 | yǔyīn dǎolǎn | audio guide
+  观光车 | guānguāngchē | kereta wisata
+  转换插头 | zhuǎnhuàn chātóu | adaptor colokan
+  常用药 | chángyòngyào | obat-obatan umum
+  晕车药 | yùnchēyào | obat mabuk perjalanan
+  签证到期 | qiānzhèng dàoqī | visa habis masa berlaku
+  护照有效期 | hùzhào yǒuxiàoqī | masa berlaku paspor
+  随身携带 | suíshēn xiédài | dibawa ke kabin
+  行李提取处 | xíngli tíqǔchù | area pengambilan bagasi
+  出境卡 | chūjìngkǎ | kartu keberangkatan
+  入境卡 | rùjìngkǎ | kartu kedatangan
