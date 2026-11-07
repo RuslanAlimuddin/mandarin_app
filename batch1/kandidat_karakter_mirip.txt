@@ -1,0 +1,40 @@
+{"character":"干","confusable_with":["于"],"note":"Perbedaan pada satu goresan kecil di bagian tengah; 干 memiliki garis tengah mendatar, sedangkan 于 memiliki garis kedua yang berbeda susunan dan arah."}
+{"character":"厂","confusable_with":["广"],"note":"Perbedaan pada satu titik di bagian dalam atas — 厂 tidak memiliki titik, sedangkan 广 memiliki titik di atas."}
+{"character":"夕","confusable_with":["外"],"note":"Perbedaan pada satu titik di kiri bawah — 外 pada dasarnya menambahkan titik pada 夕."}
+{"character":"目","confusable_with":["且"],"note":"Perbedaan pada garis horizontal di dalam kotak — 目 dan 且 memiliki kerangka sangat mirip, tetapi susunan garis dalamnya berbeda."}
+{"character":"电","confusable_with":["申"],"note":"Perbedaan pada ujung garis vertikal — 电 memiliki garis vertikal yang berbelok menjadi kait, sedangkan 申 memiliki garis vertikal lurus menembus bagian tengah."}
+{"character":"门","confusable_with":["问","间","闻"],"note":"Kerangka luar sama; perbedaannya pada komponen di dalam — 问 memiliki 口, 间 memiliki 日, 闻 memiliki 耳, sedangkan 门 kosong."}
+{"character":"回","confusable_with":["因","困"],"note":"Kerangka kotak sama, tetapi komponen di dalam berbeda — 回 berisi 口, 因 berisi 大, dan 困 berisi 木."}
+{"character":"国","confusable_with":["园","圆","团"],"note":"Kerangka luar sama; komponen di dalam berbeda — 国 = 玉, 园 = 元, 圆 = 员, 团 = 才."}
+{"character":"坏","confusable_with":["怀","杯"],"note":"Bagian kanan sama-sama 不, tetapi radikal kiri berbeda — 坏 = 土, 怀 = 忄, 杯 = 木."}
+{"character":"他","confusable_with":["她","地","池"],"note":"Bagian kanan sama-sama 也, sedangkan radikal kiri berbeda — 他 = 亻, 她 = 女, 地 = 土, 池 = 氵."}
+{"character":"识","confusable_with":["织","职"],"note":"Bagian kanan sama-sama 只, tetapi komponen kiri berbeda — 识 = 讠, 织 = 纟, 职 = 耳."}
+{"character":"很","confusable_with":["恨","狠"],"note":"Bagian kanan sama-sama 艮, sedangkan radikal kiri berbeda — 很 = 彳, 恨 = 忄, 狠 = 犭."}
+{"character":"根","confusable_with":["跟","银"],"note":"Bagian kanan sama-sama 艮, tetapi komponen kiri berbeda — 根 = 木, 跟 = 足, 银 = 钅."}
+{"character":"课","confusable_with":["棵","颗"],"note":"Bagian kanan sama-sama 果, sedangkan komponen kiri berbeda — 课 = 讠, 棵 = 木, 颗 = 页."}
+{"character":"河","confusable_with":["何","荷"],"note":"Bagian kanan sama-sama 可, tetapi komponen kiri berbeda — 河 = 氵, 何 = 亻, 荷 = 艹."}
+{"character":"种","confusable_with":["钟","肿"],"note":"Bagian kanan sama-sama 中, tetapi radikal kiri berbeda — 种 = 禾, 钟 = 钅, 肿 = 月."}
+{"character":"姐","confusable_with":["组","阻"],"note":"Bagian kanan sama-sama 且, sedangkan komponen kiri berbeda — 姐 = 女, 组 = 纟, 阻 = 阝."}
+{"character":"租","confusable_with":["祖","组"],"note":"Bagian kanan sama-sama 且, tetapi komponen kiri berbeda — 租 = 禾, 祖 = 礻, 组 = 纟."}
+{"character":"路","confusable_with":["格","客"],"note":"Bagian kanan sama-sama 各, sedangkan komponen kiri berbeda — 路 = 足, 格 = 木, 客 = 宀."}
+{"character":"落","confusable_with":["络","洛"],"note":"Bagian kanan sama-sama 各; 落 memiliki 艹 di atas dan 氵 di kiri bawah, 络 memiliki 纟, sedangkan 洛 memiliki 氵."}
+{"character":"妈","confusable_with":["吗","码","蚂"],"note":"Bagian kanan sama-sama 马, sedangkan radikal kiri berbeda — 妈 = 女, 吗 = 口, 码 = 石, 蚂 = 虫."}
+{"character":"纸","confusable_with":["低","底"],"note":"Bagian kanan sama-sama 氐, tetapi komponen kiri berbeda — 纸 = 纟, 低 = 亻, 底 = 广."}
+{"character":"访","confusable_with":["防","芳"],"note":"Bagian kanan sama-sama 方, tetapi komponen kiri berbeda — 访 = 讠, 防 = 阝, 芳 = 艹."}
+{"character":"旁","confusable_with":["榜","傍"],"note":"旁 menjadi bagian utama di kanan — 榜 menambahkan 木 di kiri, sedangkan 傍 menambahkan 亻 di kiri."}
+{"character":"桃","confusable_with":["跳","逃"],"note":"Bagian kanan sama-sama 兆, tetapi komponen kiri berbeda — 桃 = 木, 跳 = 足, 逃 = 辶."}
+{"character":"玻","confusable_with":["坡","破"],"note":"Bagian kanan sama-sama 皮, sedangkan komponen kiri berbeda — 玻 = 王, 坡 = 土, 破 = 石."}
+{"character":"场","confusable_with":["扬","杨"],"note":"Bagian kanan sama-sama 昜, tetapi komponen kiri berbeda — 场 = 土, 扬 = 扌, 杨 = 木."}
+{"character":"练","confusable_with":["炼"],"note":"Bagian kanan sama-sama 柬, tetapi komponen kiri berbeda — 练 = 纟, sedangkan 炼 = 火."}
+{"character":"刚","confusable_with":["钢"],"note":"Bagian kanan sama-sama 刚的 bagian 刚? Perbedaan utama ada pada komponen kiri — 刚 memiliki 刀, sedangkan 钢 memiliki 钅."}
+{"character":"功","confusable_with":["攻"],"note":"Bagian kiri sama-sama 工, tetapi komponen kanan berbeda — 功 memiliki 力, sedangkan 攻 memiliki 攵."}
+{"character":"历","confusable_with":["厉","励"],"note":"Kerangka kiri dan bagian bawah sangat mirip; perbedaannya terutama pada komponen akhir — 厉 = 厂+万, 励 = 厂+万+力."}
+{"character":"庄","confusable_with":["床","压"],"note":"Sama-sama memakai kerangka 广/厂 dengan komponen bawah; 庄 = 广+土, 床 = 广+木, 压 = 厂+土+丶."}
+{"character":"完","confusable_with":["玩","远"],"note":"Bagian kanan sama-sama 元, tetapi komponen kiri berbeda — 完 = 宀, 玩 = 王, 远 = 辶."}
+{"character":"看","confusable_with":["着"],"note":"Bagian bawah sama-sama 目, tetapi komponen atas berbeda — 看 memakai 手, sedangkan 着 memakai 羊."}
+{"character":"段","confusable_with":["锻"],"note":"Bagian utama 段 tetap sama; 锻 hanya menambahkan radikal kiri 钅 (logam)." }
+{"character":"烧","confusable_with":["浇","晓"],"note":"Bagian kanan sama-sama 尧, sedangkan komponen kiri berbeda — 烧 = 火, 浇 = 氵, 晓 = 日."}
+{"character":"消","confusable_with":["稍","哨"],"note":"Bagian kanan sama-sama 肖, tetapi komponen kiri berbeda — 消 = 氵, 稍 = 禾, 哨 = 口."}
+{"character":"妙","confusable_with":["秒","抄"],"note":"Bagian kanan sama-sama 少, sedangkan komponen kiri berbeda — 妙 = 女, 秒 = 禾, 抄 = 扌."}
+{"character":"折","confusable_with":["析","拆"],"note":"Keduanya memiliki komponen 斤 di kanan; perbedaannya pada komponen kiri — 折 = 扌, 析 = 木, 拆 = 扌 dengan komponen kanan 斥."}
+{"character":"海","confusable_with":["悔","梅"],"note":"Bagian kanan sama-sama 每, tetapi komponen kiri berbeda — 海 = 氵, 悔 = 忄, 梅 = 木."}
