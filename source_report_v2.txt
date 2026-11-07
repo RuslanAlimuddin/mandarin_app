@@ -1,0 +1,264 @@
+PENCARIAN DIPERLUAS — mandarin_app + mandarin_kamus + hanyu_extract + zip
+
+======================================================================
+SCAN FOLDER: C:\mandarin_app
+======================================================================
+  Total file .py ditemukan: 99
+
+  Script relevan (diurutkan, paling kuat dulu):
+    - C:\mandarin_app\find_structural_source.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, char_type, bopomofo, decomposition, makemeahanzi, make_me_a_hanzi, kangxi, radical, stroke_count
+    - C:\mandarin_app\find_structural_source_v2.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, char_type, bopomofo, decomposition, makemeahanzi, make_me_a_hanzi, kangxi, radical, stroke_count
+    - C:\mandarin_app\build_theme_entries.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, char_type, bopomofo, decomposition, makemeahanzi, radical, stroke_count
+    - C:\mandarin_app\complete_theme_json.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, char_type, bopomofo, decomposition, radical, stroke_count
+    - C:\mandarin_app\py\periksa_data.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, char_type, bopomofo, decomposition, radical, stroke_count
+    - C:\mandarin_app\build_remaining_themes.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, char_type, bopomofo, radical, stroke_count
+    - C:\mandarin_app\inspect_hanzi_sources.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, char_type, bopomofo, radical, stroke_count
+    - C:\mandarin_app\data\extract_v2.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, bopomofo, radical
+    - C:\mandarin_app\py\peek_words.py ⭐ KANDIDAT KUAT
+        kata kunci: decomposition, radical
+    - C:\mandarin_app\py\inspect_stroke_data.py
+        kata kunci: makemeahanzi, make_me_a_hanzi, radical
+    - C:\mandarin_app\py\enrichment.py
+        kata kunci: radical, stroke_count
+    - C:\mandarin_app\py\merge_themes.py
+        kata kunci: radical, stroke_count
+    - C:\mandarin_app\audit_known_polyphones.py
+        kata kunci: bopomofo
+    - C:\mandarin_app\check_file_sizes.py
+        kata kunci: radical
+    - C:\mandarin_app\fetch_hanzi_etymology.py
+        kata kunci: makemeahanzi
+    - C:\mandarin_app\fix_15_words_round2.py
+        kata kunci: bopomofo
+    - C:\mandarin_app\fix_18_words_manual.py
+        kata kunci: bopomofo
+    - C:\mandarin_app\fix_app_words_readings.py
+        kata kunci: bopomofo
+    - C:\mandarin_app\data\konversi_tabel_akar.py
+        kata kunci: radical
+    - C:\mandarin_app\py\ekstrak_kandidat_tema.py
+        kata kunci: radical
+    - C:\mandarin_app\py\extract_phonetic.py
+        kata kunci: radical
+    - C:\mandarin_app\py\intip_file_kunci.py
+        kata kunci: radical
+
+  File lain (non-.py) dengan nama mengandung 'radical'/'kangxi'/'stroke':
+    - C:\mandarin_app\data\index_radical.json
+    - C:\mandarin_app\data\index_stroke.json
+    - C:\mandarin_app\kamus\kamus-stroke-order.js
+
+======================================================================
+SCAN FOLDER: C:\mandarin_kamus
+======================================================================
+  Total file .py ditemukan: 83
+
+  Script relevan (diurutkan, paling kuat dulu):
+    - C:\mandarin_kamus\build_app_words.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, char_type, bopomofo, radical, stroke_count
+    - C:\mandarin_kamus\scripts\03_parse_unihan_strokes.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, kangxi, radical, stroke_count
+    - C:\mandarin_kamus\scripts\inspect_03.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, kangxi, radical, stroke_count
+    - C:\mandarin_kamus\scripts\30_generate_radical_packages_v2.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, kangxi, radical
+    - C:\mandarin_kamus\scripts\31_fix_unihan_radical_parser.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, kangxi, radical
+    - C:\mandarin_kamus\prepare_data.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, bopomofo, radical, stroke_count
+    - C:\mandarin_kamus\build_structure_component.py ⭐ KANDIDAT KUAT
+        kata kunci: kangxi, radical
+    - C:\mandarin_kamus\scripts\29_build_kangxi_radical_map.py ⭐ KANDIDAT KUAT
+        kata kunci: kangxi, radical
+    - C:\mandarin_kamus\scripts\2build_radicals_index.py ⭐ KANDIDAT KUAT
+        kata kunci: kangxi, radical
+    - C:\mandarin_kamus\scripts\33_build_char_keyed_unihan.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, radical
+    - C:\mandarin_kamus\scripts\36_build_master_hanzi.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, radical
+    - C:\mandarin_kamus\scripts\diag_unihan.py ⭐ KANDIDAT KUAT
+        kata kunci: kangxi, radical
+    - C:\mandarin_kamus\scripts\46_build_component_engine.py ⭐ KANDIDAT KUAT
+        kata kunci: decomposition
+    - C:\mandarin_kamus\inspeksi_mendalam.py
+        kata kunci: stroke_count
+    - C:\mandarin_kamus\inspeksi_unihan.py
+        kata kunci: radical
+    - C:\mandarin_kamus\scripts\07_unihan_sample.py
+        kata kunci: radical
+    - C:\mandarin_kamus\scripts\08_unihan_fields.py
+        kata kunci: radical
+    - C:\mandarin_kamus\scripts\09_scan_unihan.py
+        kata kunci: radical
+    - C:\mandarin_kamus\scripts\20_build_master_words.py
+        kata kunci: radical
+    - C:\mandarin_kamus\scripts\21_audit_master_words.py
+        kata kunci: radical
+    - C:\mandarin_kamus\scripts\25_build_unihan_index.py
+        kata kunci: radical
+    - C:\mandarin_kamus\scripts\28_generate_radical_packages.py
+        kata kunci: radical
+    - C:\mandarin_kamus\scripts\32_generate_radical_packages_v3.py
+        kata kunci: radical
+    - C:\mandarin_kamus\scripts\34_generate_radical_packages_v4.py
+        kata kunci: radical
+    - C:\mandarin_kamus\scripts\37_audit_master_hanzi.py
+        kata kunci: radical
+    - C:\mandarin_kamus\scripts\3build_strokes_index.py
+        kata kunci: stroke_count
+    - C:\mandarin_kamus\scripts\41_build_index_radical.py
+        kata kunci: radical
+    - C:\mandarin_kamus\scripts\45_build_structure_engine.py
+        kata kunci: radical
+    - C:\mandarin_kamus\scripts\51_build_semantic_enrichment_engine.py
+        kata kunci: radical
+    - C:\mandarin_kamus\scripts\55_build_flashcard_engine.py
+        kata kunci: radical
+    - C:\mandarin_kamus\scripts\56_build_adaptive_learning_controller.py
+        kata kunci: radical
+
+  File lain (non-.py) dengan nama mengandung 'radical'/'kangxi'/'stroke':
+    - C:\mandarin_kamus\Unihan_RadicalStrokeCounts.txt
+    - C:\mandarin_kamus\database\kangxi_radical_map.json
+    - C:\mandarin_kamus\indexes\index_radical.json
+    - C:\mandarin_kamus\indexes\index_stroke.json
+    - C:\mandarin_kamus\output\radicals.json
+    - C:\mandarin_kamus\output\strokes.json
+
+======================================================================
+SCAN FOLDER: C:\hanyu_extract
+======================================================================
+  Total file .py ditemukan: 57
+
+  Script relevan (diurutkan, paling kuat dulu):
+    - C:\hanyu_extract\enrich_master.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, kangxi, radical
+    - C:\hanyu_extract\output_final\enrich_master.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, kangxi, radical
+    - C:\hanyu_extract\classify_char_type.py ⭐ KANDIDAT KUAT
+        kata kunci: char_type, radical
+    - C:\hanyu_extract\final_packager.py ⭐ KANDIDAT KUAT
+        kata kunci: kangxi, radical
+    - C:\hanyu_extract\group_by_radical.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, radical
+    - C:\hanyu_extract\group_by_strokes.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, radical
+    - C:\hanyu_extract\make_radicals.py ⭐ KANDIDAT KUAT
+        kata kunci: kangxi, radical
+    - C:\hanyu_extract\merge_master_unihan.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, radical
+    - C:\hanyu_extract\parse_unihan_rs.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, radical
+    - C:\hanyu_extract\validate_outputs.py ⭐ KANDIDAT KUAT
+        kata kunci: kangxi, radical
+    - C:\hanyu_extract\validate_outputs_smart.py ⭐ KANDIDAT KUAT
+        kata kunci: kangxi, radical
+    - C:\hanyu_extract\validate_outputs_strict.py ⭐ KANDIDAT KUAT
+        kata kunci: kangxi, radical
+    - C:\hanyu_extract\output_final\classify_char_type.py ⭐ KANDIDAT KUAT
+        kata kunci: char_type, radical
+    - C:\hanyu_extract\output_final\final_packager.py ⭐ KANDIDAT KUAT
+        kata kunci: kangxi, radical
+    - C:\hanyu_extract\output_final\group_by_radical.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, radical
+    - C:\hanyu_extract\output_final\group_by_strokes.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, radical
+    - C:\hanyu_extract\output_final\make_radicals.py ⭐ KANDIDAT KUAT
+        kata kunci: kangxi, radical
+    - C:\hanyu_extract\output_final\merge_master_unihan.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, radical
+    - C:\hanyu_extract\output_final\parse_unihan_rs.py ⭐ KANDIDAT KUAT
+        kata kunci: radical_number, radical
+    - C:\hanyu_extract\output_final\validate_outputs.py ⭐ KANDIDAT KUAT
+        kata kunci: kangxi, radical
+    - C:\hanyu_extract\output_final\validate_outputs_smart.py ⭐ KANDIDAT KUAT
+        kata kunci: kangxi, radical
+    - C:\hanyu_extract\output_final\validate_outputs_strict.py ⭐ KANDIDAT KUAT
+        kata kunci: kangxi, radical
+    - C:\hanyu_extract\detect_structure.py
+        kata kunci: radical
+    - C:\hanyu_extract\detect_structure_v2.py
+        kata kunci: radical
+    - C:\hanyu_extract\enrich_unihan.py
+        kata kunci: radical
+    - C:\hanyu_extract\group_by_pinyin.py
+        kata kunci: radical
+    - C:\hanyu_extract\group_by_pinyin_v2.py
+        kata kunci: radical
+    - C:\hanyu_extract\group_by_semantic.py
+        kata kunci: radical
+    - C:\hanyu_extract\group_by_semantic_v2.py
+        kata kunci: radical
+    - C:\hanyu_extract\group_by_structure.py
+        kata kunci: radical
+    - C:\hanyu_extract\phonetic_group.py
+        kata kunci: radical
+    - C:\hanyu_extract\output_final\detect_structure.py
+        kata kunci: radical
+    - C:\hanyu_extract\output_final\detect_structure_v2.py
+        kata kunci: radical
+    - C:\hanyu_extract\output_final\enrich_unihan.py
+        kata kunci: radical
+    - C:\hanyu_extract\output_final\group_by_pinyin.py
+        kata kunci: radical
+    - C:\hanyu_extract\output_final\group_by_pinyin_v2.py
+        kata kunci: radical
+    - C:\hanyu_extract\output_final\group_by_semantic.py
+        kata kunci: radical
+    - C:\hanyu_extract\output_final\group_by_semantic_v2.py
+        kata kunci: radical
+    - C:\hanyu_extract\output_final\group_by_structure.py
+        kata kunci: radical
+    - C:\hanyu_extract\output_final\phonetic_group.py
+        kata kunci: radical
+
+  File lain (non-.py) dengan nama mengandung 'radical'/'kangxi'/'stroke':
+    - C:\hanyu_extract\grouped_by_radical.json
+    - C:\hanyu_extract\grouped_by_radical_summary.json
+    - C:\hanyu_extract\grouped_by_strokes.json
+    - C:\hanyu_extract\grouped_by_strokes_summary.json
+    - C:\hanyu_extract\kangxi_radicals.json
+    - C:\hanyu_extract\kangxi_radicals_map.json
+    - C:\hanyu_extract\Unihan_RadicalStrokeCounts.txt
+    - C:\hanyu_extract\unihan_total_strokes.json
+    - C:\hanyu_extract\output_final\grouped_by_radical.json
+    - C:\hanyu_extract\output_final\grouped_by_radical_summary.json
+    - C:\hanyu_extract\output_final\grouped_by_strokes.json
+    - C:\hanyu_extract\output_final\grouped_by_strokes_summary.json
+    - C:\hanyu_extract\output_final\kangxi_radicals.json
+    - C:\hanyu_extract\output_final\kangxi_radicals_map.json
+    - C:\hanyu_extract\output_final\Unihan_RadicalStrokeCounts.txt
+    - C:\hanyu_extract\output_final\unihan_total_strokes.json
+
+======================================================================
+SCAN ARSIP CHECKPOINT (*.zip) di C:\mandarin_app
+======================================================================
+  Total arsip .zip ditemukan: 5
+
+  📦 checkpoint_20260730_195004.zip (78.8 MB) -- kandidat ditemukan:
+      - fetch_hanzi_etymology.py
+      - sample_dict_structure.py
+
+  📦 checkpoint_20260803_075022.zip (79.2 MB) -- kandidat ditemukan:
+      - fetch_hanzi_etymology.py
+      - sample_dict_structure.py
+
+  📦 checkpoint_20260803_172840.zip (81.0 MB) -- kandidat ditemukan:
+      - fetch_hanzi_etymology.py
+      - sample_dict_structure.py
+
+  📦 checkpoint_20260805_104411.zip (81.4 MB) -- kandidat ditemukan:
+      - fetch_hanzi_etymology.py
+      - sample_dict_structure.py
+
+  (Kalau ada kandidat di atas, beri tahu nama zip + nama file-nya,
+   nanti saya kasih 1 baris perintah untuk ekstrak file itu SAJA
+   dari dalam zip, tanpa membongkar seluruh arsip.)
