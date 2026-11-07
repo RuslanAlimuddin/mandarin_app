@@ -1,0 +1,1092 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Simulasi Ujian HSK — Mandarin Interaktif</title>
+  <link rel="stylesheet" href="shared/style.css" />
+  <script src="shared/core.js"></script>
+  <script src="shared/pinyin.js"></script>
+  <script src="shared/audio.js"></script>
+  <style>
+    /* ═══════════════════════════════════════════════════
+       CSS LOKAL hsk-exam.html
+    ═══════════════════════════════════════════════════ */
+
+    .ex-layout {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: calc(var(--nav-h) + 24px) 20px 60px;
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+    }
+
+    .ex-header {
+      text-align: center;
+    }
+
+    .ex-header h1 {
+      font-size: 1.3rem;
+      color: var(--text-main);
+      font-weight: 500;
+      margin-bottom: 4px;
+    }
+
+    .ex-header p {
+      font-size: 0.84rem;
+      color: var(--text-muted);
+    }
+
+    /* ── SETUP SCREEN ────────────────────────────────────── */
+    .ex-setup-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg, var(--radius));
+      padding: 22px;
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+    }
+
+    .ex-setup-label {
+      font-size: 0.82rem;
+      color: var(--text-dim);
+      font-weight: 500;
+      margin-bottom: 8px;
+    }
+
+    .ex-level-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(70px, 1fr));
+      gap: 8px;
+    }
+
+    .ex-level-btn {
+      padding: 10px 6px;
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      background: var(--bg-card2);
+      color: var(--text-dim);
+      font-size: 0.85rem;
+      cursor: pointer;
+      transition: all var(--transition);
+    }
+
+    .ex-level-btn.active {
+      background: var(--gold-bg);
+      border-color: var(--gold-dim);
+      color: var(--gold);
+    }
+
+    .ex-type-list {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .ex-type-option {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 10px;
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      background: var(--bg-card2);
+      cursor: pointer;
+      font-size: 0.86rem;
+      color: var(--text-main);
+    }
+
+    .ex-type-option input[type="checkbox"] {
+      accent-color: var(--gold);
+      cursor: pointer;
+    }
+
+    .ex-summary {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      text-align: center;
+    }
+
+    .ex-start-btn {
+      padding: 12px;
+      background: var(--gold-bg);
+      border: 1px solid var(--gold-dim);
+      color: var(--gold);
+      border-radius: var(--radius);
+      font-size: 0.95rem;
+      font-weight: 500;
+      cursor: pointer;
+    }
+
+    .ex-start-btn:hover {
+      background: var(--gold-bg-hover);
+    }
+
+    .ex-start-btn:disabled {
+      opacity: 0.4;
+      cursor: default;
+    }
+
+    /* ── EXAM SCREEN ─────────────────────────────────────── */
+    .ex-exam-topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .ex-progress {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+    }
+
+    .ex-timer {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--gold);
+      padding: 4px 14px;
+      border: 1px solid var(--gold-dim);
+      border-radius: var(--radius);
+      background: var(--gold-bg);
+    }
+
+    .ex-timer.warning {
+      color: #d97070;
+      border-color: rgba(217, 112, 112, 0.4);
+      background: rgba(217, 112, 112, 0.1);
+    }
+
+    .ex-progress-bar-wrap {
+      width: 100%;
+      height: 3px;
+      background: var(--bg-card2);
+      border-radius: 99px;
+      overflow: hidden;
+    }
+
+    .ex-progress-bar-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--gold-dim), var(--gold));
+      transition: width 0.3s ease;
+    }
+
+    .ex-question-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg, var(--radius));
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .ex-question-type-badge {
+      font-size: 0.68rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--gold-dim);
+      align-self: flex-start;
+      padding: 2px 8px;
+      border: 1px solid var(--border-gold);
+      border-radius: 99px;
+    }
+
+    .ex-question-prompt {
+      font-size: 0.9rem;
+      color: var(--text-dim);
+    }
+
+    .ex-question-hanzi {
+      font-size: 2.2rem;
+      color: var(--text-main);
+      text-align: center;
+      font-weight: 300;
+    }
+
+    .ex-passage-context {
+      background: var(--bg-card2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 14px 16px;
+      font-size: 1.1rem;
+      line-height: 1.9;
+      color: var(--text-main);
+    }
+
+    .ex-passage-context .ex-target-word {
+      color: var(--gold);
+      font-weight: 500;
+      border-bottom: 2px solid var(--gold-dim);
+    }
+
+    .ex-audio-btn {
+      align-self: center;
+      width: 64px;
+      height: 64px;
+      border-radius: 50%;
+      background: var(--gold-bg);
+      border: 1px solid var(--gold-dim);
+      color: var(--gold);
+      font-size: 1.6rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .ex-options {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .ex-option-btn {
+      padding: 11px 16px;
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      background: var(--bg-card2);
+      color: var(--text-main);
+      font-size: 0.88rem;
+      cursor: pointer;
+      text-align: left;
+      transition: all var(--transition);
+    }
+
+    .ex-option-btn:hover:not(:disabled) {
+      border-color: var(--gold-dim);
+      background: var(--gold-bg);
+    }
+
+    .ex-option-btn:disabled {
+      cursor: default;
+    }
+
+    .ex-option-btn.mark-correct {
+      background: rgba(88, 166, 88, 0.18) !important;
+      border-color: rgba(88, 166, 88, 0.5) !important;
+      color: #7ac47a !important;
+    }
+
+    .ex-option-btn.mark-wrong {
+      background: rgba(217, 112, 112, 0.14) !important;
+      border-color: rgba(217, 112, 112, 0.4) !important;
+      color: #d97070 !important;
+    }
+
+    /* ── RESULT SCREEN ───────────────────────────────────── */
+    .ex-result-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg, var(--radius));
+      padding: 28px;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      align-items: center;
+    }
+
+    .ex-result-score {
+      font-size: 2.4rem;
+      color: var(--gold);
+      font-weight: 600;
+    }
+
+    .ex-result-sub {
+      font-size: 0.88rem;
+      color: var(--text-dim);
+    }
+
+    .ex-result-breakdown {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
+      width: 100%;
+      margin-top: 6px;
+    }
+
+    .ex-result-stat {
+      background: var(--bg-card2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 10px;
+    }
+
+    .ex-result-stat-val {
+      font-size: 1.2rem;
+      color: var(--text-main);
+      font-weight: 600;
+    }
+
+    .ex-result-stat-label {
+      font-size: 0.7rem;
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
+
+    .ex-review-list {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      margin-top: 10px;
+      text-align: left;
+    }
+
+    .ex-review-item {
+      background: var(--bg-card2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 10px 14px;
+      font-size: 0.82rem;
+    }
+
+    .ex-review-item .rq { color: var(--text-dim); margin-bottom: 4px; }
+    .ex-review-item .ra { color: #d97070; }
+    .ex-review-item .rc { color: #7ac47a; }
+
+    .ex-restart-btn {
+      margin-top: 10px;
+      padding: 10px 24px;
+      background: var(--gold-bg);
+      border: 1px solid var(--gold-dim);
+      color: var(--gold);
+      border-radius: var(--radius);
+      font-size: 0.88rem;
+      font-weight: 500;
+      cursor: pointer;
+    }
+
+    .ex-empty {
+      text-align: center;
+      color: var(--text-muted);
+      padding: 30px 20px;
+      font-size: 0.85rem;
+      line-height: 1.7;
+    }
+
+    /* ── RIWAYAT UJIAN (Tier 3) ─────────────────────────────────── */
+    .ex-history-btn {
+      margin-top: 8px;
+      padding: 8px 20px;
+      background: var(--bg-card2);
+      border: 1px solid var(--border);
+      color: var(--text-dim);
+      border-radius: var(--radius);
+      font-size: 0.82rem;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+
+    .ex-history-btn:hover {
+      border-color: var(--gold-dim);
+      color: var(--gold);
+    }
+
+    .ex-history-clear-btn {
+      margin-top: 6px;
+      padding: 6px 16px;
+      background: none;
+      border: 1px solid rgba(192, 57, 43, 0.35);
+      color: #c0392b;
+      border-radius: var(--radius);
+      font-size: 0.76rem;
+      cursor: pointer;
+    }
+
+    .ex-history-clear-btn:hover { background: rgba(192, 57, 43, 0.08); }
+
+    .ex-history-empty {
+      text-align: center;
+      color: var(--text-muted);
+      padding: 24px 16px;
+      font-size: 0.85rem;
+      line-height: 1.7;
+    }
+
+    .ex-history-list {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      max-height: 360px;
+      overflow-y: auto;
+      margin-bottom: 6px;
+    }
+
+    .ex-history-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      background: var(--bg-card2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 10px 14px;
+    }
+
+    .ex-history-score {
+      flex-shrink: 0;
+      width: 54px;
+      height: 54px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.95rem;
+      font-weight: 600;
+      border: 2px solid;
+    }
+
+    .ex-history-score.good { color: #7ac47a; border-color: #7ac47a; }
+    .ex-history-score.mid  { color: var(--gold); border-color: var(--gold-dim); }
+    .ex-history-score.low  { color: #d97070; border-color: #d97070; }
+
+    .ex-history-info { flex: 1; min-width: 0; }
+
+    .ex-history-level {
+      font-size: 0.85rem;
+      color: var(--text-main);
+      font-weight: 500;
+      margin-bottom: 2px;
+    }
+
+    .ex-history-detail {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      margin-bottom: 2px;
+    }
+
+    .ex-history-date {
+      font-size: 0.7rem;
+      color: var(--text-muted);
+      opacity: 0.75;
+    }
+  </style>
+</head>
+<body>
+
+<nav class="app-nav">
+  <a href="index.html" class="nav-brand">
+    <span class="hanzi-logo">漢</span>
+    <span>Mandarin Interaktif</span>
+  </a>
+  <div class="nav-links">
+    <a href="kamus.html"       class="nav-link">Kamus</a>
+    <a href="flashcard.html"   class="nav-link">Flashcard</a>
+    <a href="wordbuilder.html" class="nav-link">Word Builder</a>
+    <a href="tone.html"        class="nav-link">Tone</a>
+    <a href="graded-reader.html" class="nav-link">Bacaan</a>
+    <a href="hsk-exam.html"    class="nav-link active">Ujian HSK</a>
+	<a href="tatabahasa.html" class="nav-link">Tata Bahasa</a>
+	<a href="terjemah-bebas.html" class="nav-link">Terjemah Bebas</a>
+	<a href="peta-bahasa.html" class="nav-link">Peta Bahasa</a>
+  </div>
+</nav>
+
+<div class="ex-layout">
+
+  <div class="ex-header">
+    <h1>⏱️ Simulasi Ujian HSK</h1>
+    <p>Ujian bertimer, cakupan kumulatif sesuai level yang dipilih.</p>
+  </div>
+
+  <div id="ex-main-area">
+    <div class="ex-empty">Memuat data ujian…</div>
+  </div>
+
+</div>
+
+<div class="toast-wrap" id="toast-wrap"></div>
+
+<script>
+/* ═══════════════════════════════════════════════════════════════
+   hsk-exam.html — Simulasi Ujian HSK Bertimer (Tier 3)
+
+   Sumber soal (tidak ada data baru, semua reuse):
+     - Kosakata / Mendengar / Bacaan -> glossary di data/graded_readers.json
+     - Tata Bahasa                   -> kesalahan_umum di data/pattern_explanations.json
+
+   Cakupan KUMULATIF: ujian level N menguji kosakata dari level 1..N
+   (meniru sifat ujian HSK asli yang berjenjang menaik).
+
+   Timer: jumlah_soal x SECONDS_PER_QUESTION, satu countdown keseluruhan
+   (bukan per-soal), auto-submit saat habis.
+═══════════════════════════════════════════════════════════════ */
+
+const SECONDS_PER_QUESTION = 20;
+
+const QUESTIONS_PER_LEVEL = {
+  1: 10, 2: 12, 3: 15, 4: 18, 5: 20, 6: 24, 7: 28,
+};
+
+const EX = {
+  readers:   [],   // passages dari graded_readers.json
+  patterns:  {},   // dari pattern_explanations.json
+  level:     1,
+  types:     new Set(['kosakata', 'mendengar', 'bacaan', 'tatabahasa']),
+  questions: [],
+  idx:       0,
+  answers:   [],   // { question, correct, picked, isCorrect }
+  timerTotal: 0,
+  timerLeft:  0,
+  timerHandle: null,
+};
+
+/* ── MUAT DATA ──────────────────────────────────────────────── */
+async function loadExamData() {
+  try {
+    const [resReaders, resPatterns] = await Promise.all([
+      fetch('data/graded_readers.json'),
+      fetch('data/pattern_explanations.json'),
+    ]);
+    const readersData = resReaders.ok ? await resReaders.json() : { passages: [] };
+    EX.readers  = readersData.passages || [];
+    EX.patterns = resPatterns.ok ? await resPatterns.json() : {};
+  } catch (e) {
+    console.error('Gagal memuat data ujian:', e);
+  }
+  restoreExLastState();
+  renderSetupScreen();
+}
+
+/* ── INGAT KONFIGURASI SETUP TERAKHIR (Tier 1 lintas-halaman) ──────
+   Yang direstorasi CUMA layar setup (level + jenis soal dicentang) --
+   BUKAN sesi ujian yang sedang berjalan. Sengaja begitu: ujian punya
+   timer countdown, kalau dipaksa "lanjutkan" setelah رسلان sempat
+   pindah halaman, hasilnya bisa aneh (timer sudah kadaluarsa, dsb).
+   Lebih aman & jujur kalau ujian yang sedang jalan dianggap batal
+   kalau ditinggal, dan رسلان mulai lagi dari setup (tapi setup-nya
+   sudah diisi ulang otomatis sesuai pilihan terakhir). */
+const EX_LAST_STATE_KEY = 'mandarin_ex_last_state_v1';
+
+function saveExLastState() {
+  try {
+    localStorage.setItem(EX_LAST_STATE_KEY, JSON.stringify({
+      level: EX.level,
+      types: [...EX.types],
+    }));
+  } catch (e) { /* abaikan senyap -- bukan fitur kritis */ }
+}
+
+function restoreExLastState() {
+  let saved;
+  try {
+    saved = JSON.parse(localStorage.getItem(EX_LAST_STATE_KEY) || 'null');
+  } catch (e) { return; }
+  if (!saved) return;
+
+  if (saved.level && QUESTIONS_PER_LEVEL[saved.level]) EX.level = saved.level;
+  if (Array.isArray(saved.types) && saved.types.length) EX.types = new Set(saved.types);
+}
+
+/* ── SETUP SCREEN ───────────────────────────────────────────── */
+function renderSetupScreen() {
+  const area = $('ex-main-area');
+  const levels = [1, 2, 3, 4, 5, 6, 7];
+
+  let levelBtns = levels.map(lv => {
+    const label = lv === 7 ? 'HSK 7-9' : `HSK ${lv}`;
+    return `<button class="ex-level-btn ${lv === EX.level ? 'active' : ''}" data-level="${lv}" onclick="setExamLevel(${lv})">${label}</button>`;
+  }).join('');
+
+  const typeDefs = [
+    { key: 'kosakata',   label: '📖 Kosakata — lihat hanzi, pilih arti' },
+    { key: 'mendengar',  label: '🔊 Mendengar — dengar audio, pilih hanzi' },
+    { key: 'bacaan',     label: '📚 Bacaan — kata dalam konteks paragraf' },
+    { key: 'tatabahasa', label: '✍️ Tata Bahasa — pilih kalimat yang benar' },
+  ];
+  let typeOpts = typeDefs.map(t => `
+    <label class="ex-type-option">
+      <input type="checkbox" data-type="${t.key}" ${EX.types.has(t.key) ? 'checked' : ''} onchange="toggleExamType('${t.key}')">
+      <span>${t.label}</span>
+    </label>
+  `).join('');
+
+  const count = QUESTIONS_PER_LEVEL[EX.level];
+  const totalSeconds = count * SECONDS_PER_QUESTION;
+  const minutes = Math.round(totalSeconds / 60 * 10) / 10;
+
+  area.innerHTML = `
+    <div class="ex-setup-card">
+      <div>
+        <div class="ex-setup-label">Level HSK (kumulatif dari level 1)</div>
+        <div class="ex-level-grid">${levelBtns}</div>
+      </div>
+      <div>
+        <div class="ex-setup-label">Jenis Soal (pilih minimal 1)</div>
+        <div class="ex-type-list">${typeOpts}</div>
+      </div>
+      <div class="ex-summary" id="ex-summary">
+        ${count} soal &middot; ~${minutes} menit
+      </div>
+      <button class="ex-start-btn" id="ex-start-btn" onclick="startExam()">Mulai Ujian</button>
+      <button class="ex-history-btn" onclick="renderExamHistory()">📊 Riwayat Ujian</button>
+    </div>
+  `;
+  updateStartButtonState();
+}
+
+function setExamLevel(level) {
+  EX.level = level;
+  renderSetupScreen();
+  saveExLastState();
+}
+
+function toggleExamType(type) {
+  if (EX.types.has(type)) EX.types.delete(type);
+  else EX.types.add(type);
+  updateStartButtonState();
+  saveExLastState();
+}
+
+function updateStartButtonState() {
+  const btn = $('ex-start-btn');
+  if (!btn) return;
+  btn.disabled = EX.types.size === 0;
+
+  const count = QUESTIONS_PER_LEVEL[EX.level];
+  const totalSeconds = count * SECONDS_PER_QUESTION;
+  const minutes = Math.round(totalSeconds / 60 * 10) / 10;
+  const summary = $('ex-summary');
+  if (summary) {
+    summary.textContent = EX.types.size === 0
+      ? 'Pilih minimal 1 jenis soal.'
+      : `${count} soal · ~${minutes} menit`;
+  }
+}
+
+/* ── KUMPULAN DATA SOAL (dari data yang sudah ada) ───────────── */
+
+// Semua kata glosarium dari bacaan level <= level yang dipilih (kumulatif),
+// dedupe berdasarkan hanzi.
+function collectVocabPool(maxLevel) {
+  const seen = new Map();
+  EX.readers
+    .filter(p => p.level <= maxLevel)
+    .forEach(p => {
+      (p.glossary || []).forEach(g => {
+        if (g.cn && g.id && !seen.has(g.cn)) seen.set(g.cn, g);
+      });
+    });
+  return [...seen.values()];
+}
+
+// Semua entri kesalahan_umum dari SEMUA pola (tidak leveled per-HSK)
+function collectGrammarPool() {
+  const pool = [];
+  Object.keys(EX.patterns).forEach(key => {
+    const p = EX.patterns[key];
+    if (Array.isArray(p.kesalahan_umum)) {
+      p.kesalahan_umum.forEach(m => {
+        if (m.salah && m.benar) pool.push({ salah: m.salah, benar: m.benar, patternKey: key });
+      });
+    }
+  });
+  return pool;
+}
+
+function pickRandom(arr, n, exclude) {
+  const pool = exclude ? arr.filter(x => x !== exclude) : arr.slice();
+  const picked = [];
+  while (picked.length < n && pool.length) {
+    const i = Math.floor(Math.random() * pool.length);
+    picked.push(pool.splice(i, 1)[0]);
+  }
+  return picked;
+}
+
+function shuffle(arr) {
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+/* ── GENERATE SOAL ────────────────────────────────────────────
+   Membangun N soal dari campuran tipe yang dipilih, diacak urutannya. */
+function generateQuestions(count) {
+  const vocabPool   = collectVocabPool(EX.level);
+  const grammarPool = collectGrammarPool();
+  const readingPassages = EX.readers.filter(p => p.level <= EX.level && (p.glossary || []).length >= 4);
+
+  const activeTypes = [...EX.types];
+  const questions = [];
+
+  for (let i = 0; i < count; i++) {
+    const type = activeTypes[i % activeTypes.length]; // giliran rata tiap tipe, urutan nanti diacak
+    let q = null;
+
+    if (type === 'kosakata' && vocabPool.length >= 4) {
+      q = buildVocabQuestion(vocabPool);
+    } else if (type === 'mendengar' && vocabPool.length >= 4) {
+      q = buildListeningQuestion(vocabPool);
+    } else if (type === 'bacaan' && readingPassages.length >= 1) {
+      q = buildReadingQuestion(readingPassages);
+    } else if (type === 'tatabahasa' && grammarPool.length >= 4) {
+      q = buildGrammarQuestion(grammarPool);
+    }
+
+    if (q) questions.push(q);
+  }
+
+  return shuffle(questions);
+}
+
+function buildVocabQuestion(pool) {
+  const correct = pool[Math.floor(Math.random() * pool.length)];
+  const distractors = pickRandom(pool, 3, correct);
+  const options = shuffle([correct, ...distractors]);
+  return {
+    type: 'kosakata',
+    prompt: 'Apa arti kata ini?',
+    hanzi: correct.cn,
+    options: options.map(o => o.id),
+    correctAnswer: correct.id,
+  };
+}
+
+function buildListeningQuestion(pool) {
+  const correct = pool[Math.floor(Math.random() * pool.length)];
+  const distractors = pickRandom(pool, 3, correct);
+  const options = shuffle([correct, ...distractors]);
+  return {
+    type: 'mendengar',
+    prompt: 'Dengarkan, lalu pilih hanzi yang benar.',
+    audioText: correct.cn,
+    options: options.map(o => o.cn),
+    correctAnswer: correct.cn,
+  };
+}
+
+function buildReadingQuestion(passages) {
+  const passage = passages[Math.floor(Math.random() * passages.length)];
+  const glossary = passage.glossary;
+
+  // Utamakan kata yang cuma muncul SEKALI di teks (supaya sorotan tidak ambigu)
+  const uniqueWords = glossary.filter(g => countOccurrences(passage.text, g.cn) === 1);
+  const candidates  = uniqueWords.length ? uniqueWords : glossary;
+  const correct     = candidates[Math.floor(Math.random() * candidates.length)];
+
+  const otherPool   = collectVocabPool(7).filter(g => g.cn !== correct.cn);
+  const distractors = pickRandom(otherPool, 3);
+  const options      = shuffle([correct, ...distractors]);
+
+  // Highlight cuma kemunculan PERTAMA supaya jelas kata mana yang dimaksud
+  const firstIdx = passage.text.indexOf(correct.cn);
+  const highlighted = firstIdx === -1
+    ? passage.text
+    : passage.text.slice(0, firstIdx) +
+      `<mark class="ex-target-word">${correct.cn}</mark>` +
+      passage.text.slice(firstIdx + correct.cn.length);
+
+  return {
+    type: 'bacaan',
+    prompt: `Dalam bacaan "${passage.title}", apa arti kata yang ditandai?`,
+    passageHtml: highlighted,
+    options: options.map(o => o.id),
+    correctAnswer: correct.id,
+  };
+}
+
+function countOccurrences(text, sub) {
+  let count = 0, pos = 0;
+  while ((pos = text.indexOf(sub, pos)) !== -1) { count++; pos += sub.length; }
+  return count;
+}
+
+function buildGrammarQuestion(pool) {
+  const correctItem = pool[Math.floor(Math.random() * pool.length)];
+  const distractorItems = pickRandom(pool, 3, correctItem);
+  const options = shuffle([correctItem.benar, ...distractorItems.map(d => d.salah)]);
+  return {
+    type: 'tatabahasa',
+    prompt: 'Kalimat mana yang BENAR secara tata bahasa?',
+    options,
+    correctAnswer: correctItem.benar,
+  };
+}
+
+/* ── JALANKAN UJIAN ───────────────────────────────────────────── */
+function startExam() {
+  const count = QUESTIONS_PER_LEVEL[EX.level];
+  EX.questions = generateQuestions(count);
+
+  if (!EX.questions.length) {
+    showToast('⚠ Tidak cukup data untuk membuat soal. Coba pilih jenis soal lain.', 'error');
+    return;
+  }
+
+  EX.idx = 0;
+  EX.answers = [];
+  EX.timerTotal = EX.questions.length * SECONDS_PER_QUESTION;
+  EX.timerLeft = EX.timerTotal;
+
+  renderExamQuestion();
+  startTimer();
+}
+
+function startTimer() {
+  clearInterval(EX.timerHandle);
+  EX.timerHandle = setInterval(() => {
+    EX.timerLeft--;
+    updateTimerDisplay();
+    if (EX.timerLeft <= 0) {
+      clearInterval(EX.timerHandle);
+      finishExam();
+    }
+  }, 1000);
+}
+
+function updateTimerDisplay() {
+  const el = $('ex-timer');
+  if (!el) return;
+  const m = Math.floor(EX.timerLeft / 60);
+  const s = EX.timerLeft % 60;
+  el.textContent = `${m}:${s.toString().padStart(2, '0')}`;
+  el.classList.toggle('warning', EX.timerLeft <= 30);
+}
+
+function renderExamQuestion() {
+  const q = EX.questions[EX.idx];
+  const area = $('ex-main-area');
+
+  const typeLabel = {
+    kosakata: 'Kosakata', mendengar: 'Mendengar',
+    bacaan: 'Bacaan', tatabahasa: 'Tata Bahasa',
+  }[q.type];
+
+  let bodyHtml = '';
+  if (q.type === 'kosakata') {
+    bodyHtml = `<div class="ex-question-hanzi">${escHtml(q.hanzi)}</div>`;
+  } else if (q.type === 'mendengar') {
+    bodyHtml = `<button class="ex-audio-btn" onclick="speak('${escHtml(q.audioText)}', {rate: AudioTTS.rate})">🔊</button>`;
+  } else if (q.type === 'bacaan') {
+    bodyHtml = `<div class="ex-passage-context">${q.passageHtml}</div>`;
+  }
+  // tatabahasa: tidak ada body khusus, langsung ke opsi
+
+  const optionsHtml = q.options.map(opt => `
+    <button class="ex-option-btn" data-opt="${escHtml(opt)}" onclick="answerExamQuestion('${escHtml(opt).replace(/'/g, "\\'")}')">${escHtml(opt)}</button>
+  `).join('');
+
+  area.innerHTML = `
+    <div class="ex-exam-topbar">
+      <div class="ex-progress">Soal ${EX.idx + 1} / ${EX.questions.length}</div>
+      <div class="ex-timer" id="ex-timer">--:--</div>
+    </div>
+    <div class="ex-progress-bar-wrap">
+      <div class="ex-progress-bar-fill" style="width:${(EX.idx / EX.questions.length) * 100}%"></div>
+    </div>
+    <div class="ex-question-card">
+      <span class="ex-question-type-badge">${typeLabel}</span>
+      <div class="ex-question-prompt">${escHtml(q.prompt)}</div>
+      ${bodyHtml}
+      <div class="ex-options">${optionsHtml}</div>
+    </div>
+  `;
+  updateTimerDisplay();
+
+  // Mode "Mendengar": putar otomatis begitu soal muncul
+  if (q.type === 'mendengar') {
+    speak(q.audioText, { rate: AudioTTS.rate });
+  }
+}
+
+function answerExamQuestion(picked) {
+  const q = EX.questions[EX.idx];
+  const isCorrect = picked === q.correctAnswer;
+
+  document.querySelectorAll('.ex-option-btn').forEach(btn => {
+    btn.disabled = true;
+    if (btn.dataset.opt === q.correctAnswer) btn.classList.add('mark-correct');
+    else if (btn.dataset.opt === picked)     btn.classList.add('mark-wrong');
+  });
+
+  EX.answers.push({ question: q, picked, isCorrect });
+
+  setTimeout(() => {
+    EX.idx++;
+    if (EX.idx >= EX.questions.length) {
+      clearInterval(EX.timerHandle);
+      finishExam();
+    } else {
+      renderExamQuestion();
+    }
+  }, 900);
+}
+
+/* ── HASIL UJIAN ─────────────────────────────────────────────── */
+function finishExam() {
+  clearInterval(EX.timerHandle);
+
+  // Soal yang belum terjawab (waktu habis) dianggap salah
+  while (EX.answers.length < EX.questions.length) {
+    EX.answers.push({ question: EX.questions[EX.answers.length], picked: null, isCorrect: false });
+  }
+
+  const correct = EX.answers.filter(a => a.isCorrect).length;
+  const total   = EX.answers.length;
+  const percent = Math.round((correct / total) * 100);
+
+  const byType = {};
+  EX.answers.forEach(a => {
+    const t = a.question.type;
+    byType[t] = byType[t] || { correct: 0, total: 0 };
+    byType[t].total++;
+    if (a.isCorrect) byType[t].correct++;
+  });
+
+  const typeLabel = {
+    kosakata: 'Kosakata', mendengar: 'Mendengar',
+    bacaan: 'Bacaan', tatabahasa: 'Tata Bahasa',
+  };
+
+  let breakdownHtml = Object.keys(byType).map(t => `
+    <div class="ex-result-stat">
+      <div class="ex-result-stat-val">${byType[t].correct}/${byType[t].total}</div>
+      <div class="ex-result-stat-label">${typeLabel[t]}</div>
+    </div>
+  `).join('');
+
+  const wrongAnswers = EX.answers.filter(a => !a.isCorrect);
+  let reviewHtml = '';
+  if (wrongAnswers.length) {
+    reviewHtml = '<div class="ex-review-list">' + wrongAnswers.map(a => `
+      <div class="ex-review-item">
+        <div class="rq">${escHtml(a.question.prompt)}</div>
+        <div class="ra">Jawabanmu: ${escHtml(a.picked || '(tidak dijawab)')}</div>
+        <div class="rc">Jawaban benar: ${escHtml(a.question.correctAnswer)}</div>
+      </div>
+    `).join('') + '</div>';
+  }
+
+  // Simpan ke riwayat (Tier 3) -- dipakai renderExamHistory()
+  saveExamHistoryEntry({
+    ts: Date.now(),
+    level: EX.level,
+    percent, correct, total,
+    byType,
+  });
+
+  const area = $('ex-main-area');
+  area.innerHTML = `
+    <div class="ex-result-card">
+      <div class="ex-result-score">${percent}%</div>
+      <div class="ex-result-sub">${correct} dari ${total} soal benar</div>
+      <div class="ex-result-breakdown">${breakdownHtml}</div>
+      <button class="ex-restart-btn" onclick="renderSetupScreen()">Ujian Baru</button>
+      <button class="ex-history-btn" onclick="renderExamHistory()">📊 Lihat Riwayat</button>
+      ${reviewHtml}
+    </div>
+  `;
+}
+
+/* ── RIWAYAT UJIAN (Tier 3) ─────────────────────────────────────────
+   Simpan tiap hasil ujian ke localStorage supaya رسلان bisa lihat
+   progres dari waktu ke waktu, bukan cuma sekali lihat lalu hilang. */
+const EX_HISTORY_KEY = 'mandarin_hsk_history_v1';
+const EX_HISTORY_MAX = 100; // batasi biar localStorage tidak membengkak
+
+function loadExamHistory() {
+  try {
+    return JSON.parse(localStorage.getItem(EX_HISTORY_KEY) || '[]');
+  } catch (e) { return []; }
+}
+
+function saveExamHistoryEntry(entry) {
+  try {
+    const history = loadExamHistory();
+    history.unshift(entry); // terbaru di depan
+    if (history.length > EX_HISTORY_MAX) history.length = EX_HISTORY_MAX;
+    localStorage.setItem(EX_HISTORY_KEY, JSON.stringify(history));
+  } catch (e) { /* abaikan senyap -- bukan fitur kritis */ }
+}
+
+function clearExamHistory() {
+  if (!confirm('Hapus semua riwayat ujian? Tindakan ini tidak bisa dibatalkan.')) return;
+  try { localStorage.removeItem(EX_HISTORY_KEY); } catch (e) {}
+  renderExamHistory();
+}
+
+function formatHistoryDate(ts) {
+  const d = new Date(ts);
+  const pad = n => String(n).padStart(2, '0');
+  return `${pad(d.getDate())}/${pad(d.getMonth() + 1)}/${d.getFullYear()} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+}
+
+function renderExamHistory() {
+  const history = loadExamHistory();
+  const area = $('ex-main-area');
+
+  if (!history.length) {
+    area.innerHTML = `
+      <div class="ex-setup-card">
+        <div class="ex-history-empty">
+          Belum ada riwayat ujian. Kerjakan satu ujian dulu, hasilnya akan
+          tercatat di sini.
+        </div>
+        <button class="ex-restart-btn" onclick="renderSetupScreen()">← Kembali</button>
+      </div>
+    `;
+    return;
+  }
+
+  // Ringkasan: rata-rata skor & jumlah ujian per level
+  const byLevel = {};
+  history.forEach(h => {
+    byLevel[h.level] = byLevel[h.level] || { count: 0, sum: 0 };
+    byLevel[h.level].count++;
+    byLevel[h.level].sum += h.percent;
+  });
+  const summaryHtml = Object.keys(byLevel).sort().map(lv => {
+    const s = byLevel[lv];
+    const avg = Math.round(s.sum / s.count);
+    const label = lv == 7 ? 'HSK 7-9' : `HSK ${lv}`;
+    return `<div class="ex-result-stat">
+      <div class="ex-result-stat-val">${avg}%</div>
+      <div class="ex-result-stat-label">${label} (${s.count}x)</div>
+    </div>`;
+  }).join('');
+
+  const typeLabel = {
+    kosakata: 'Kosakata', mendengar: 'Mendengar',
+    bacaan: 'Bacaan', tatabahasa: 'Tata Bahasa',
+  };
+
+  const rowsHtml = history.map(h => {
+    const levelLabel = h.level == 7 ? 'HSK 7-9' : `HSK ${h.level}`;
+    const breakdown = Object.keys(h.byType || {}).map(t =>
+      `${typeLabel[t] || t} ${h.byType[t].correct}/${h.byType[t].total}`
+    ).join(' · ');
+    const scoreClass = h.percent >= 80 ? 'good' : h.percent >= 50 ? 'mid' : 'low';
+    return `
+      <div class="ex-history-row">
+        <div class="ex-history-score ${scoreClass}">${h.percent}%</div>
+        <div class="ex-history-info">
+          <div class="ex-history-level">${levelLabel} &middot; ${h.correct}/${h.total} benar</div>
+          <div class="ex-history-detail">${escHtml(breakdown)}</div>
+          <div class="ex-history-date">${formatHistoryDate(h.ts)}</div>
+        </div>
+      </div>`;
+  }).join('');
+
+  area.innerHTML = `
+    <div class="ex-setup-card">
+      <div class="ex-setup-label">Ringkasan Rata-rata Skor</div>
+      <div class="ex-result-breakdown" style="margin-bottom:4px">${summaryHtml}</div>
+      <div class="ex-setup-label">Riwayat (${history.length} ujian, terbaru dulu)</div>
+      <div class="ex-history-list">${rowsHtml}</div>
+      <button class="ex-restart-btn" onclick="renderSetupScreen()">← Kembali</button>
+      <button class="ex-history-clear-btn" onclick="clearExamHistory()">🗑 Hapus Riwayat</button>
+    </div>
+  `;
+}
+
+/* ── INIT ───────────────────────────────────────────────────── */
+document.addEventListener('DOMContentLoaded', loadExamData);
+</script>
+
+</body>
+</html>
