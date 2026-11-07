@@ -1,0 +1,311 @@
+{"word": "需要", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "需(perlu) dan 要(mau/perlu) setara/sinonim, keduanya bisa berarti 'memerlukan' sendirian."}
+{"word": "认为", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "认(mengakui/berpendapat) dan 为(menganggap) setara/sinonim dalam konteks 'berpendapat'."}
+{"word": "告诉", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "告(memberitahu) dan 诉(memberitahu) setara/sinonim, keduanya berarti 'memberi tahu'."}
+{"word": "成为", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "成(menjadi) dan 为(menjadi) setara/sinonim, keduanya berarti 'menjadi'."}
+{"word": "通过", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "通(melewati) dan 过(melewati) setara/sinonim, keduanya berarti 'melintas/melewati'."}
+{"word": "作为", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "作(menjadi/melakukan) dan 为(menjadi) setara/sinonim dalam konteks 'sebagai'."}
+{"word": "成功", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "成(berhasil) dan 功(berhasil) setara/sinonim, keduanya berarti 'berhasil'."}
+{"word": "调查", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "调(menyelidiki) dan 查(menyelidiki) setara/sinonim, keduanya berarti 'menyelidiki/memeriksa'."}
+{"word": "处理", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "处(mengurus) dan 理(mengurus) setara/sinonim, keduanya berarti 'menangani/mengurus'."}
+{"word": "支持", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "支(menyangga/mendukung) dan 持(menyangga/mendukung) setara/sinonim."}
+{"word": "注意", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "注(memerhatikan) dan 意(memerhatikan) setara/sinonim, keduanya berarti 'perhatian/memerhatikan'."}
+{"word": "组织", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "组(mengorganisir) dan 织(menenun/mengorganisir) setara/sinonim dalam konteks 'mengorganisasi'."}
+{"word": "提供", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "提(memberi/menyodorkan) dan 供(memberi/menyediakan) setara/sinonim."}
+{"word": "代表", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "代(mewakili) dan 表(mewakili) setara/sinonim, keduanya berarti 'mewakili'."}
+{"word": "保持", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "保(menjaga) dan 持(menjaga) setara/sinonim, keduanya berarti 'menjaga/mempertahankan'."}
+{"word": "报告", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "报(melaporkan) dan 告(melaporkan) setara/sinonim, keduanya berarti 'melapor/memberitahu'."}
+{"word": "拥有", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "拥(memiliki) dan 有(memiliki) setara/sinonim, keduanya berarti 'mempunyai'."}
+{"word": "获得", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "获(memperoleh) dan 得(memperoleh) setara/sinonim, keduanya berarti 'mendapatkan'."}
+{"word": "设计", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "设(merancang) dan 计(merancang) setara/sinonim, keduanya berarti 'merancang/merencanakan'."}
+{"word": "利用", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "利(memanfaatkan) dan 用(menggunakan/memanfaatkan) setara/sinonim."}
+{"word": "建议", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "建(mengusulkan) dan 议(mengusulkan) setara/sinonim, keduanya berarti 'memberi usul'."}
+{"word": "包括", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "包(mencakup) dan 括(mencakup) setara/sinonim, keduanya berarti 'mencakup/termasuk'."}
+{"word": "欢迎", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "欢(menyambut) dan 迎(menyambut) setara/sinonim, keduanya berarti 'menyambut'."}
+{"word": "证明", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "证(membuktikan) dan 明(membuktikan) setara/sinonim, keduanya berarti 'membuktikan'."}
+{"word": "变成", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "变(berubah menjadi) dan 成(menjadi) setara/sinonim, keduanya berarti 'menjadi'."}
+{"word": "表示", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "表(menyatakan) dan 示(menyatakan) setara/sinonim, keduanya berarti 'menyatakan/menunjukkan'."}
+{"word": "负责", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "负(memikul/menanggung) dan 责(memikul/menanggung) setara/sinonim, keduanya berarti 'bertanggung jawab'."}
+{"word": "说话", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "说(berbicara) dan 话(berbicara) — 话 di sini bukan objek pasif melainkan sinonim verba 'berkata' (ungkapan lisan)." }
+{"word": "报道", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "报(melaporkan) dan 道(melaporkan) setara/sinonim, keduanya berarti 'melaporkan/memberitakan'."}
+{"word": "失去", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "失(kehilangan) dan 去(kehilangan) setara/sinonim, keduanya berarti 'kehilangan'."}
+{"word": "作用", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "作(berfungsi) dan 用(berfungsi) setara/sinonim, keduanya berarti 'fungsi/berfungsi'."}
+{"word": "说明", "pola_lama": "补充式", "pola_baru": "联合式", "alasan_id": "说(menerangkan) dan 明(menerangkan) setara/sinonim, keduanya berarti 'menjelaskan/menerangkan'."}
+{"word": "放弃", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "放(melepaskan) dan 弃(melepaskan/meninggalkan) setara/sinonim, keduanya berarti 'melepaskan/meninggalkan'."}
+{"word": "参与", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "参(berpartisipasi) dan 与(berpartisipasi) setara/sinonim, keduanya berarti 'ikut serta'."}
+{"word": "显示", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "显(menunjukkan) dan 示(menunjukkan) setara/sinonim, keduanya berarti 'menunjukkan/memperlihatkan'."}
+{"word": "值得", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "值(berharga/layak) dan 得(layak) setara/sinonim, keduanya berarti 'layak/patut'."}
+{"word": "加入", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "加(bergabung) dan 入(masuk/bergabung) setara/sinonim, keduanya berarti 'bergabung/masuk'."}
+{"word": "分析", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "分(memisahkan/menganalisis) dan 析(menganalisis) setara/sinonim, keduanya berarti 'menganalisis'."}
+{"word": "享受", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "享(menikmati) dan 受(menikmati) setara/sinonim, keduanya berarti 'menikmati'."}
+{"word": "关注", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "关(memerhatikan) dan 注(memerhatikan) setara/sinonim, keduanya berarti 'memperhatikan'."}
+{"word": "提出", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "提(mengemukakan) dan 出(mengemukakan) setara/sinonim, keduanya berarti 'mengajukan/mengemukakan'."}
+{"word": "表演", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "表(memperagakan) dan 演(memperagakan) setara/sinonim, keduanya berarti 'beraksi/bermain'."}
+{"word": "实现", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "实(mewujudkan) dan 现(mewujudkan) setara/sinonim, keduanya berarti 'mewujudkan'."}
+{"word": "产生", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "产(menghasilkan) dan 生(menghasilkan) setara/sinonim, keduanya berarti 'menghasilkan/timbul'."}
+{"word": "关心", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "关(memperhatikan) dan 心(memperhatikan/kepedulian) setara/sinonim dalam konteks 'peduli'."}
+{"word": "管理", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "管(mengurus) dan 理(mengurus) setara/sinonim, keduanya berarti 'mengelola/mengurus'."}
+{"word": "习惯", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "习(membiasakan) dan 惯(membiasakan) setara/sinonim, keduanya berarti 'kebiasaan/membiasakan'."}
+{"word": "集中", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "集(mengumpulkan) dan 中(memusatkan) setara/sinonim dalam konteks 'memusatkan/mengumpulkan'."}
+{"word": "执行", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "执(menjalankan) dan 行(menjalankan) setara/sinonim, keduanya berarti 'melaksanakan'."}
+{"word": "打算", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "打(merencanakan) dan 算(merencanakan) setara/sinonim, keduanya berarti 'berencana/berniat'."}
+{"word": "分享", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "分(membagi) dan 享(menikmati/berbagi) setara/sinonim, keduanya berarti 'berbagi'."}
+{"word": "反对", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "反(menentang) dan 对(menentang) setara/sinonim, keduanya berarti 'menentang/melawan'."}
+{"word": "讨厌", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "讨(membenci) dan 厌(membenci) setara/sinonim, keduanya berarti 'benci/sebel'."}
+{"word": "举行", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "举(mengadakan) dan 行(mengadakan) setara/sinonim, keduanya berarti 'melaksanakan/mengadakan'."}
+{"word": "著名", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "著(terkenal) dan 名(terkenal) setara/sinonim, keduanya berarti 'terkenal'."}
+{"word": "申请", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "申(mengajukan) dan 请(mengajukan) setara/sinonim, keduanya berarti 'memohon/mengajukan'."}
+{"word": "演出", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "演(mementaskan) dan 出(mementaskan) setara/sinonim, keduanya berarti 'pertunjukan/mementaskan'."}
+{"word": "挑战", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "挑(menantang) dan 战(menantang) setara/sinonim, keduanya berarti 'menantang'."}
+{"word": "教授", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "教(mengajar) dan 授(mengajar) setara/sinonim, keduanya berarti 'mengajar/guru besar'."}
+{"word": "吸引", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "吸(menarik) dan 引(menarik) setara/sinonim, keduanya berarti 'menarik/memikat'."}
+{"word": "照顾", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "照(mengurus) dan 顾(mengurus/memperhatikan) setara/sinonim."}
+{"word": "提醒", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "提(mengingatkan) dan 醒(mengingatkan) setara/sinonim, keduanya berarti 'mengingatkan'."}
+{"word": "建筑", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "建(membangun) dan 筑(membangun) setara/sinonim, keduanya berarti 'membangun/konstruksi'."}
+{"word": "表达", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "表(menyatakan) dan 达(menyatakan) setara/sinonim, keduanya berarti 'menyatakan/mengungkapkan'."}
+{"word": "投入", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "投(memasukkan) dan 入(memasukkan) setara/sinonim, keduanya berarti 'memasukkan/mencurahkan'."}
+{"word": "确保", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "确(memastikan) dan 保(memastikan) setara/sinonim, keduanya berarti 'memastikan/menjamin'."}
+{"word": "拍摄", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "拍(memotret/mengambil) dan 摄(memotret/mengambil) setara/sinonim."}
+{"word": "采取", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "采(mengambil) dan 取(mengambil) setara/sinonim, keduanya berarti 'mengambil/menerapkan'."}
+{"word": "考试", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "考(menguji) dan 试(menguji) setara/sinonim, keduanya berarti 'ujian/menguji'."}
+{"word": "表明", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "表(menunjukkan) dan 明(menunjukkan/menerangkan) setara/sinonim."}
+{"word": "具有", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "具(memiliki) dan 有(memiliki) setara/sinonim, keduanya berarti 'mempunyai'."}
+{"word": "怀疑", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "怀(meragukan) dan 疑(meragukan) setara/sinonim, keduanya berarti 'ragu/mencurigai'."}
+{"word": "发表", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "发(mengeluarkan) dan 表(mengeluarkan/menyatakan) setara/sinonim."}
+{"word": "展示", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "展(memperlihatkan) dan 示(memperlihatkan) setara/sinonim, keduanya berarti 'menunjukkan'."}
+{"word": "司机", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "司(mengemudikan) dan 机(mengemudikan) setara/sinonim, keduanya berarti 'mengemudi/sopir'."}
+{"word": "教练", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "教(melatih) dan 练(melatih) setara/sinonim, keduanya berarti 'pelatih/melatih'."}
+{"word": "经理", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "经(mengelola) dan 理(mengelola) setara/sinonim, keduanya berarti 'mengelola/manajer'."}
+{"word": "帮忙", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "帮(membantu) dan 忙(membantu) setara/sinonim, keduanya berarti 'membantu'."}
+{"word": "发挥", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "发(memunculkan) dan 挥(memunculkan/mengerahkan) setara/sinonim."}
+{"word": "符合", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "符(sesuai) dan 合(sesuai) setara/sinonim, keduanya berarti 'sesuai/memenuhi'."}
+{"word": "采访", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "采(mewawancarai) dan 访(mewawancarai) setara/sinonim, keduanya berarti 'wawancara/meliput'."}
+{"word": "针对", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "针(menunjuk/menuju) dan 对(menuju) setara/sinonim, keduanya berarti 'menuju/mengenai'."}
+{"word": "接触", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "接(menyentuh) dan 触(menyentuh) setara/sinonim, keduanya berarti 'menyentuh/kontak'."}
+{"word": "启动", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "启(memulai) dan 动(memulai/menggerakkan) setara/sinonim."}
+{"word": "出色", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "出(muncul) dan 色(penampilan) — keduanya setara dalam arti 'unggul/menonjol'."}
+{"word": "回忆", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "回(mengingat) dan 忆(mengingat) setara/sinonim, keduanya berarti 'mengingat/kenangan'."}
+{"word": "打击", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "打(memukul) dan 击(memukul) setara/sinonim, keduanya berarti 'memukul/menyerang'."}
+{"word": "宣传", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "宣(mengumumkan) dan 传(mengumumkan) setara/sinonim, keduanya berarti 'menyiarkan/mempromosikan'."}
+{"word": "付出", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "付(memberi) dan 出(memberi) setara/sinonim, keduanya berarti 'mengeluarkan/memberikan'."}
+{"word": "导演", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "导(mengarahkan) dan 演(mengarahkan/mementaskan) setara/sinonim."}
+{"word": "评价", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "评(menilai) dan 价(menilai) setara/sinonim, keduanya berarti 'menilai/mengevaluasi'."}
+{"word": "避免", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "避(menghindari) dan 免(menghindari) setara/sinonim, keduanya berarti 'menghindari'."}
+{"word": "生产", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "生(menghasilkan) dan 产(menghasilkan) setara/sinonim, keduanya berarti 'memproduksi'."}
+{"word": "适应", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "适(menyesuaikan) dan 应(menyesuaikan) setara/sinonim, keduanya berarti 'menyesuaikan'."}
+{"word": "推荐", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "推(menganjurkan) dan 荐(menganjurkan) setara/sinonim, keduanya berarti 'merekomendasikan'."}
+{"word": "指导", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "指(membimbing) dan 导(membimbing) setara/sinonim, keduanya berarti 'membimbing'."}
+{"word": "组合", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "组(menggabungkan) dan 合(menggabungkan) setara/sinonim, keduanya berarti 'gabung/mengkombinasikan'."}
+{"word": "争取", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "争(berusaha) dan 取(berusaha) setara/sinonim, keduanya berarti 'berjuang/memperjuangkan'."}
+{"word": "收入", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "收(memasukkan) dan 入(memasukkan) setara/sinonim, keduanya berarti 'pendapatan/memasukkan'."}
+{"word": "尽量", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "尽(sebisa mungkin) dan 量(sebisa mungkin) setara/sinonim, keduanya berarti 'sebisa mungkin/berusaha maksimal'."}
+{"word": "追求", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "追(mengejar) dan 求(mencari/mengejar) setara/sinonim, keduanya berarti 'mengejar/mengupayakan'."}
+{"word": "欣赏", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "欣(mengagumi) dan 赏(mengagumi) setara/sinonim, keduanya berarti 'menikmati/mengagumi'."}
+{"word": "放松", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "放(melepaskan) dan 松(melepaskan/mengendur) setara/sinonim."}
+{"word": "形成", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "形(membentuk) dan 成(membentuk) setara/sinonim, keduanya berarti 'membentuk/terbentuk'."}
+{"word": "承担", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "承(menanggung) dan 担(menanggung) setara/sinonim, keduanya berarti 'memikul/menanggung'."}
+{"word": "面临", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "面(menghadapi) dan 临(menghadapi) setara/sinonim, keduanya berarti 'menghadapi'."}
+{"word": "登记", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "登(mendaftar) dan 记(mendaftar) setara/sinonim, keduanya berarti 'mendaftar/mencatat'."}
+{"word": "进攻", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "进(menyerang) dan 攻(menyerang) setara/sinonim, keduanya berarti 'menyerang'."}
+{"word": "对待", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "对(menghadapi/memperlakukan) dan 待(memperlakukan) setara/sinonim."}
+{"word": "编辑", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "编(menyunting) dan 辑(menyunting) setara/sinonim, keduanya berarti 'menyunting/mengedit'."}
+{"word": "证实", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "证(membuktikan) dan 实(membuktikan) setara/sinonim, keduanya berarti 'memverifikasi/membuktikan'."}
+{"word": "放心", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "放(melepaskan) dan 心(hati/pikiran) — dalam konteks 'tenang', keduanya setara/sinonim."}
+{"word": "透露", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "透(mengungkapkan) dan 露(mengungkapkan) setara/sinonim, keduanya berarti 'mengungkapkan/membocorkan'."}
+{"word": "限制", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "限(membatasi) dan 制(membatasi) setara/sinonim, keduanya berarti 'membatasi'."}
+{"word": "恭喜", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "恭(mengucapkan selamat) dan 喜(mengucapkan selamat) setara/sinonim."}
+{"word": "前往", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "前(menuju) dan 往(menuju) setara/sinonim, keduanya berarti 'menuju/berangkat ke'."}
+{"word": "恋爱", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "恋(mencintai) dan 爱(mencintai) setara/sinonim, keduanya berarti 'cinta/berpacaran'."}
+{"word": "成立", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "成(terbentuk) dan 立(terbentuk) setara/sinonim, keduanya berarti 'didirikan/terbentuk'."}
+{"word": "出席", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "出(menghadiri) dan 席(menghadiri) setara/sinonim, keduanya berarti 'hadir/menghadiri'."}
+{"word": "试图", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "试(mencoba) dan 图(bermaksud/mencoba) setara/sinonim."}
+{"word": "伤心", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "伤(menyakiti) dan 心(hati) — setara/sinonim dalam konteks 'sedih/terluka hati'."}
+{"word": "庆祝", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "庆(merayakan) dan 祝(merayakan) setara/sinonim, keduanya berarti 'merayakan'."}
+{"word": "体验", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "体(mengalami) dan 验(mengalami) setara/sinonim, keduanya berarti 'merasakan/mengalami'."}
+{"word": "缺乏", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "缺(kekurangan) dan 乏(kekurangan) setara/sinonim, keduanya berarti 'kurang/kekurangan'."}
+{"word": "前进", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "前(maju) dan 进(maju) setara/sinonim, keduanya berarti 'maju/melaju'."}
+{"word": "释放", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "释(melepaskan) dan 放(melepaskan) setara/sinonim, keduanya berarti 'membebaskan/melepas'."}
+{"word": "获胜", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "获(memperoleh) dan 胜(menang) setara/sinonim, keduanya berarti 'menang'."}
+{"word": "达成", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "达(mencapai) dan 成(mencapai) setara/sinonim, keduanya berarti 'mencapai/tercapai'."}
+{"word": "指出", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "指(menunjuk) dan 出(menunjuk) setara/sinonim, keduanya berarti 'menunjukkan/menunjuk'."}
+{"word": "后悔", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "后(menyesal) dan 悔(menyesal) setara/sinonim, keduanya berarti 'menyesal'."}
+{"word": "举办", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "举(mengadakan) dan 办(mengadakan) setara/sinonim, keduanya berarti 'menyelenggarakan'."}
+{"word": "感动", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "感(tergerak) dan 动(tergerak) setara/sinonim, keduanya berarti 'terharu/tergerak'."}
+{"word": "给予", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "给(memberi) dan 予(memberi) setara/sinonim, keduanya berarti 'memberi'."}
+{"word": "突破", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "突(menembus) dan 破(menembus) setara/sinonim, keduanya berarti 'menerobos/terobosan'."}
+{"word": "组成", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "组(membentuk) dan 成(membentuk) setara/sinonim, keduanya berarti 'membentuk/terdiri dari'."}
+{"word": "支付", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "支(membayar) dan 付(membayar) setara/sinonim, keduanya berarti 'membayar'."}
+{"word": "主管", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "主(memimpin) dan 管(memimpin/mengurus) setara/sinonim."}
+{"word": "原谅", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "原(memaafkan) dan 谅(memaafkan) setara/sinonim, keduanya berarti 'memaafkan'."}
+{"word": "祝福", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "祝(memberkati) dan 福(memberkati) setara/sinonim, keduanya berarti 'memberkati/mendoakan'."}
+{"word": "领先", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "领(memimpin) dan 先(memimpin) setara/sinonim, keduanya berarti 'memimpin/unggul'."}
+{"word": "上升", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "上(naik) dan 升(naik) setara/sinonim, keduanya berarti 'naik/meningkat'."}
+{"word": "成交", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "成(tercapai) dan 交(tercapai) setara/sinonim, keduanya berarti 'terjadi transaksi'."}
+{"word": "纪念", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "纪(memperingati) dan 念(memperingati) setara/sinonim, keduanya berarti 'memperingati/kenangan'."}
+{"word": "造型", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "造(membentuk) dan 型(membentuk) setara/sinonim, keduanya berarti 'bentuk/model'."}
+{"word": "度过", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "度(menghabiskan) dan 过(menghabiskan) setara/sinonim, keduanya berarti 'melewati/menghabiskan waktu'."}
+{"word": "相比", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "相(saling) dan 比(membandingkan) setara/sinonim, keduanya berarti 'membandingkan'."}
+{"word": "深入", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "深(dalam) dan 入(masuk) setara/sinonim, keduanya berarti 'mendalam/masuk ke dalam'."}
+{"word": "驾驶", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "驾(mengemudi) dan 驶(mengemudi) setara/sinonim, keduanya berarti 'mengemudi'."}
+{"word": "革命", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "革(mengubah) dan 命(mengubah) setara/sinonim, keduanya berarti 'revolusi/merombak'."}
+{"word": "装置", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "装(memasang) dan 置(memasang) setara/sinonim, keduanya berarti 'perangkat/memasang'."}
+{"word": "贡献", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "贡(memberi) dan 献(memberi) setara/sinonim, keduanya berarti 'memberikan/kontribusi'."}
+{"word": "出版", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "出(menerbitkan) dan 版(menerbitkan) setara/sinonim, keduanya berarti 'menerbitkan'."}
+{"word": "诊断", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "诊(mendiagnosis) dan 断(mendiagnosis) setara/sinonim, keduanya berarti 'mendiagnosis'."}
+{"word": "加强", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "加(menambah) dan 强(memperkuat) setara/sinonim, keduanya berarti 'memperkuat/meningkatkan'."}
+{"word": "发射", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "发(menembakkan) dan 射(menembakkan) setara/sinonim, keduanya berarti 'meluncurkan/menembak'."}
+{"word": "穿着", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "穿(memakai) dan 着(memakai) setara/sinonim, keduanya berarti 'memakai/berpakaian'."}
+{"word": "保安", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "保(menjaga) dan 安(menjaga) setara/sinonim, keduanya berarti 'menjaga keamanan/keamanan'."}
+{"word": "降低", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "降(menurunkan) dan 低(menurunkan) setara/sinonim, keduanya berarti 'menurunkan'."}
+{"word": "作出", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "作(membuat) dan 出(membuat) setara/sinonim, keduanya berarti 'membuat/melakukan'."}
+{"word": "涉及", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "涉(menyangkut) dan 及(menyangkut) setara/sinonim, keduanya berarti 'menyangkut/melibatkan'."}
+{"word": "展开", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "展(membentang) dan 开(membentang) setara/sinonim, keduanya berarti 'mengembangkan/membentang'."}
+{"word": "把握", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "握(menggenggam) dan 把(menggenggam) setara/sinonim, keduanya berarti 'memegang/menguasai'."}
+{"word": "发动", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "发(memulai) dan 动(memulai) setara/sinonim, keduanya berarti 'meluncurkan/memulai'."}
+{"word": "预测", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "预(meramalkan) dan 测(meramalkan) setara/sinonim, keduanya berarti 'meramalkan/memprediksi'."}
+{"word": "注册", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "注(mendaftar) dan 册(mendaftar) setara/sinonim, keduanya berarti 'mendaftar/registrasi'."}
+{"word": "牺牲", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "牺(mengorbankan) dan 牲(mengorbankan) setara/sinonim, keduanya berarti 'berkorban/gugur'."}
+{"word": "选举", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "选(memilih) dan 举(memilih) setara/sinonim, keduanya berarti 'memilih'."}
+{"word": "陷入", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "陷(terjebak) dan 入(masuk) setara/sinonim, keduanya berarti 'terjerumus/terperangkap'."}
+{"word": "回报", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "回(membalas) dan 报(membalas) setara/sinonim, keduanya berarti 'membalas/memberi imbalan'."}
+{"word": "展现", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "展(memperlihatkan) dan 现(memperlihatkan) setara/sinonim, keduanya berarti 'menunjukkan/memamerkan'."}
+{"word": "谈话", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "谈(berbicara) dan 话(berbicara) setara/sinonim, keduanya berarti 'berbicara/berdialog'."}
+{"word": "打破", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "打(memecahkan) dan 破(memecahkan) setara/sinonim, keduanya berarti 'memecahkan/menghancurkan'."}
+{"word": "违反", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "违(melanggar) dan 反(melanggar) setara/sinonim, keduanya berarti 'melanggar'."}
+{"word": "跟踪", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "跟(mengikuti) dan 踪(mengikuti) setara/sinonim, keduanya berarti 'mengikuti/melacak'."}
+{"word": "对付", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "对(menghadapi) dan 付(menghadapi) setara/sinonim, keduanya berarti 'menghadapi/mengatasi'."}
+{"word": "委托", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "委(mempercayakan) dan 托(mempercayakan) setara/sinonim, keduanya berarti 'menitipkan/mendelegasikan'."}
+{"word": "主持", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "主(memimpin) dan 持(memimpin) setara/sinonim, keduanya berarti 'memimpin/mengelola'."}
+{"word": "访问", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "访(mengunjungi) dan 问(mengunjungi) setara/sinonim, keduanya berarti 'mengunjungi/mewawancarai'."}
+{"word": "签名", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "签(menandatangani) dan 名(menandatangani) setara/sinonim, keduanya berarti 'menandatangani'."}
+{"word": "摄影", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "摄(memotret) dan 影(memotret) setara/sinonim, keduanya berarti 'memotret/fotografi'."}
+{"word": "描述", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "描(menggambarkan) dan 述(menggambarkan) setara/sinonim, keduanya berarti 'menggambarkan/mendeskripsikan'."}
+{"word": "对话", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "对(berdialog) dan 话(berdialog) setara/sinonim, keduanya berarti 'berdialog/percakapan'."}
+{"word": "注射", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "注(menyuntik) dan 射(menyuntik) setara/sinonim, keduanya berarti 'menyuntik/injeksi'."}
+{"word": "在场", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "在(hadir) dan 场(hadir) setara/sinonim, keduanya berarti 'hadir/berada di tempat'."}
+{"word": "起诉", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "起(menggugat) dan 诉(menggugat) setara/sinonim, keduanya berarti 'menggugat/menuntut'."}
+{"word": "提示", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "提(memberi tahu) dan 示(memberi tahu) setara/sinonim, keduanya berarti 'memberi petunjuk/mengingatkan'."}
+{"word": "防止", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "防(mencegah) dan 止(mencegah) setara/sinonim, keduanya berarti 'mencegah'."}
+{"word": "设置", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "设(mengatur) dan 置(mengatur) setara/sinonim, keduanya berarti 'mengatur/memasang'."}
+{"word": "采用", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "采(mengambil) dan 用(mengambil) setara/sinonim, keduanya berarti 'mengadopsi/menggunakan'."}
+{"word": "教训", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "教(mengajar) dan 训(mengajar) setara/sinonim, keduanya berarti 'mengajar/memberi pelajaran'."}
+{"word": "提升", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "提(menaikkan) dan 升(menaikkan) setara/sinonim, keduanya berarti 'menaikkan/mempromosikan'."}
+{"word": "定位", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "定(menentukan) dan 位(menentukan) setara/sinonim, keduanya berarti 'menentukan posisi/menempatkan'."}
+{"word": "广播", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "广(menyiarkan) dan 播(menyiarkan) setara/sinonim, keduanya berarti 'menyiarkan'."}
+{"word": "抱怨", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "抱(mengeluh) dan 怨(mengeluh) setara/sinonim, keduanya berarti 'mengeluh/meratap'."}
+{"word": "失踪", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "失(menghilang) dan 踪(menghilang) setara/sinonim, keduanya berarti 'hilang'."}
+{"word": "从事", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "从(menekuni) dan 事(menekuni) setara/sinonim, keduanya berarti 'mengerjakan/berkarir di'."}
+{"word": "改造", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "改(mengubah) dan 造(mengubah) setara/sinonim, keduanya berarti 'mengubah/merombak'."}
+{"word": "靠近", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "靠(mendekat) dan 近(mendekat) setara/sinonim, keduanya berarti 'mendekat/dekat'."}
+{"word": "引发", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "引(memicu) dan 发(memicu) setara/sinonim, keduanya berarti 'memicu/menimbulkan'."}
+{"word": "渴望", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "渴(merindukan) dan 望(merindukan) setara/sinonim, keduanya berarti 'merindukan/mendambakan'."}
+{"word": "摆脱", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "摆(melepaskan) dan 脱(melepaskan) setara/sinonim, keduanya berarti 'melepaskan diri dari'."}
+{"word": "当作", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "当(menganggap) dan 作(menganggap) setara/sinonim, keduanya berarti 'menganggap sebagai'."}
+{"word": "扮演", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "扮(berperan) dan 演(berperan) setara/sinonim, keduanya berarti 'memerankan/bermain'."}
+{"word": "创作", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "创(menciptakan) dan 作(menciptakan) setara/sinonim, keduanya berarti 'menciptakan/karya'."}
+{"word": "例如", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "例(misal) dan 如(misal) setara/sinonim, keduanya berarti 'misalnya/contoh'."}
+{"word": "保障", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "保(menjamin) dan 障(menjamin) setara/sinonim, keduanya berarti 'menjamin/melindungi'."}
+{"word": "祝贺", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "祝(mengucapkan selamat) dan 贺(mengucapkan selamat) setara/sinonim."}
+{"word": "批评", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "批(mengkritik) dan 评(mengkritik) setara/sinonim, keduanya berarti 'mengkritik'."}
+{"word": "重视", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "重(mementingkan) dan 视(mementingkan) setara/sinonim, keduanya berarti 'mementingkan/memperhatikan'."}
+{"word": "演讲", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "演(berpidato) dan 讲(berpidato) setara/sinonim, keduanya berarti 'berpidato/berceramah'."}
+{"word": "注定", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "注(menentukan) dan 定(menentukan) setara/sinonim, keduanya berarti 'ditakdirkan/pasti'."}
+{"word": "负担", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "负(memikul) dan 担(memikul) setara/sinonim, keduanya berarti 'memikul/menanggung'."}
+{"word": "否认", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "否(menyangkal) dan 认(menyangkal) setara/sinonim, keduanya berarti 'menyangkal/membantah'."}
+{"word": "安慰", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "安(menghibur) dan 慰(menghibur) setara/sinonim, keduanya berarti 'menghibur/menenangkan'."}
+{"word": "战胜", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "战(mengalahkan) dan 胜(mengalahkan) setara/sinonim, keduanya berarti 'mengalahkan/menang'."}
+{"word": "过分", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "过(berlebihan) dan 分(berlebihan) setara/sinonim, keduanya berarti 'berlebihan'."}
+{"word": "排除", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "排(menyingkirkan) dan 除(menyingkirkan) setara/sinonim, keduanya berarti 'menyingkirkan/mengeluarkan'."}
+{"word": "升级", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "升(menaikkan) dan 级(menaikkan) setara/sinonim, keduanya berarti 'naik level/meningkat'."}
+{"word": "加速", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "加(menambah) dan 速(menambah) setara/sinonim, keduanya berarti 'mempercepat'."}
+{"word": "发行", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "发(menerbitkan) dan 行(menerbitkan) setara/sinonim, keduanya berarti 'menerbitkan/mengedarkan'."}
+{"word": "体会", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "体(merasakan) dan 会(merasakan) setara/sinonim, keduanya berarti 'merasakan/memahami'."}
+{"word": "作战", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "作(berperang) dan 战(berperang) setara/sinonim, keduanya berarti 'bertempur/berperang'."}
+{"word": "赚钱", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "赚(mendapat) dan 钱(mendapat) setara/sinonim, keduanya berarti 'mencari uang/berpenghasilan'."}
+{"word": "扩大", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "扩(memperluas) dan 大(memperluas) setara/sinonim, keduanya berarti 'memperluas/membesar'."}
+{"word": "推进", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "推(mendorong) dan 进(mendorong) setara/sinonim, keduanya berarti 'mendorong/memajukan'."}
+{"word": "解放", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "解(membebaskan) dan 放(membebaskan) setara/sinonim, keduanya berarti 'membebaskan'."}
+{"word": "幻想", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "幻(berkhayal) dan 想(berkhayal) setara/sinonim, keduanya berarti 'berkhayal/berimajinasi'."}
+{"word": "改善", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "改(memperbaiki) dan 善(memperbaiki) setara/sinonim, keduanya berarti 'memperbaiki/meningkatkan'."}
+{"word": "拥抱", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "拥(memeluk) dan 抱(memeluk) setara/sinonim, keduanya berarti 'memeluk/merangkul'."}
+{"word": "消防", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "消(memadamkan) dan 防(mencegah) — keduanya setara/sinonim dalam konteks 'pemadam kebakaran'."}
+{"word": "请问", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "请(meminta) dan 问(bertanya) setara/sinonim, keduanya berarti 'bertanya/mohon izin bertanya'."}
+{"word": "引导", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "引(membimbing) dan 导(membimbing) setara/sinonim, keduanya berarti 'membimbing/mengarahkan'."}
+{"word": "约会", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "约(berjanji) dan 会(berjanji) setara/sinonim, keduanya berarti 'berjanji/berkencan'."}
+{"word": "顾问", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "顾(menasihati) dan 问(menasihati) setara/sinonim, keduanya berarti 'penasihat/konsultan'."}
+{"word": "助理", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "助(membantu) dan 理(membantu) setara/sinonim, keduanya berarti 'asisten/membantu'."}
+{"word": "出售", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "出(menjual) dan 售(menjual) setara/sinonim, keduanya berarti 'menjual'."}
+{"word": "拍照", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "拍(memotret) dan 照(memotret) setara/sinonim, keduanya berarti 'memotret'."}
+{"word": "消除", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "消(menghilangkan) dan 除(menghilangkan) setara/sinonim, keduanya berarti 'menghilangkan/menghapus'."}
+{"word": "参观", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "参(mengunjungi) dan 观(mengunjungi) setara/sinonim, keduanya berarti 'mengunjungi/melihat'."}
+{"word": "落后", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "落(tertinggal) dan 后(tertinggal) setara/sinonim, keduanya berarti 'tertinggal'."}
+{"word": "授权", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "授(memberi wewenang) dan 权(memberi wewenang) setara/sinonim, keduanya berarti 'memberi kuasa'."}
+{"word": "强调", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "强(menekankan) dan 调(menekankan) setara/sinonim, keduanya berarti 'menekankan/menegaskan'."}
+{"word": "加快", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "加(menambah) dan 快(cepat) setara/sinonim, keduanya berarti 'mempercepat'."}
+{"word": "当成", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "当(menganggap) dan 成(menganggap) setara/sinonim, keduanya berarti 'menganggap sebagai'."}
+{"word": "远离", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "远(menjauh) dan 离(menjauh) setara/sinonim, keduanya berarti 'menjauhi'."}
+{"word": "如同", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "如(seperti) dan 同(seperti) setara/sinonim, keduanya berarti 'seperti/sama dengan'."}
+{"word": "辞职", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "辞(mengundurkan diri) dan 职(mengundurkan diri) setara/sinonim, keduanya berarti 'mengundurkan diri'."}
+{"word": "呈现", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "呈(muncul) dan 现(muncul) setara/sinonim, keduanya berarti 'muncul/menampakkan'."}
+{"word": "遵守", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "遵(mematuhi) dan 守(mematuhi) setara/sinonim, keduanya berarti 'mematuhi/menjalankan'."}
+{"word": "演唱", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "演(menyanyi) dan 唱(menyanyi) setara/sinonim, keduanya berarti 'bernyanyi/membawakan lagu'."}
+{"word": "相处", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "相(saling) dan 处(berhubungan) setara/sinonim, keduanya berarti 'berhubungan/bergaul'."}
+{"word": "信仰", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "信(percaya) dan 仰(percaya) setara/sinonim, keduanya berarti 'keyakinan/beriman'."}
+{"word": "反映", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "反(memantulkan) dan 映(memantulkan) setara/sinonim, keduanya berarti 'mencerminkan/menunjukkan'."}
+{"word": "跳舞", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "跳(menari) dan 舞(menari) setara/sinonim, keduanya berarti 'menari'."}
+{"word": "录像", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "录(merekam) dan 像(merekam) setara/sinonim, keduanya berarti 'merekam video'."}
+{"word": "发明", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "发(menemukan) dan 明(menemukan) setara/sinonim, keduanya berarti 'menemukan/menciptakan'."}
+{"word": "播放", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "播(memutar) dan 放(memutar) setara/sinonim, keduanya berarti 'memutar/menyiarkan'."}
+{"word": "会见", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "会(bertemu) dan 见(bertemu) setara/sinonim, keduanya berarti 'bertemu/berjumpa'."}
+{"word": "代理", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "代(mewakili) dan 理(mewakili) setara/sinonim, keduanya berarti 'mewakili/agen'."}
+{"word": "过度", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "过(berlebihan) dan 度(berlebihan) setara/sinonim, keduanya berarti 'terlalu/berlebihan'."}
+{"word": "突出", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "突(menonjol) dan 出(menonjol) setara/sinonim, keduanya berarti 'menonjol/menekankan'."}
+{"word": "投诉", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "投(mengadu) dan 诉(mengadu) setara/sinonim, keduanya berarti 'mengadu/mengeluh'."}
+{"word": "按摩", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "按(memijat) dan 摩(memijat) setara/sinonim, keduanya berarti 'memijat'."}
+{"word": "绑架", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "绑(mengikat) dan 架(mengikat) setara/sinonim, keduanya berarti 'menculik/memborgol'."}
+{"word": "倾向", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "倾(condong) dan 向(condong) setara/sinonim, keduanya berarti 'cenderung/berkecenderungan'."}
+{"word": "面试", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "面(berhadapan) dan 试(berhadapan) setara/sinonim, keduanya berarti 'wawancara/tes langsung'."}
+{"word": "移民", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "移(bermigrasi) dan 民(bermigrasi) setara/sinonim, keduanya berarti 'bermigrasi/imigran'."}
+{"word": "翻译", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "翻(menerjemahkan) dan 译(menerjemahkan) setara/sinonim, keduanya berarti 'menerjemahkan'."}
+{"word": "担任", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "担(memegang) dan 任(memegang) setara/sinonim, keduanya berarti 'memegang jabatan/menjabat'."}
+{"word": "持有", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "持(memegang) dan 有(memegang) setara/sinonim, keduanya berarti 'memegang/memiliki'."}
+{"word": "带领", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "带(memimpin) dan 领(memimpin) setara/sinonim, keduanya berarti 'memimpin/membawa'."}
+{"word": "支援", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "支(mendukung) dan 援(mendukung) setara/sinonim, keduanya berarti 'mendukung/membantu'."}
+{"word": "决心", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "决(memutuskan) dan 心(memutuskan) setara/sinonim, keduanya berarti 'bertekad/memutuskan'."}
+{"word": "路过", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "路(melewati) dan 过(melewati) setara/sinonim, keduanya berarti 'melewati/lewat'."}
+{"word": "质疑", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "质(meragukan) dan 疑(meragukan) setara/sinonim, keduanya berarti 'meragukan/mempertanyakan'."}
+{"word": "召开", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "召(memanggil) dan 开(memulai) setara/sinonim, keduanya berarti 'mengadakan/memanggil rapat'."}
+{"word": "移植", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "移(memindahkan) dan 植(memindahkan) setara/sinonim, keduanya berarti 'memindahkan/mencangkok'."}
+{"word": "代替", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "代(mengganti) dan 替(mengganti) setara/sinonim, keduanya berarti 'menggantikan'."}
+{"word": "体现", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "体(mewujudkan) dan 现(mewujudkan) setara/sinonim, keduanya berarti 'mewujudkan/mencerminkan'."}
+{"word": "热爱", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "热(sangat) dan 爱(mencintai) setara/sinonim, keduanya berarti 'sangat mencintai'."}
+{"word": "汇报", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "汇(melaporkan) dan 报(melaporkan) setara/sinonim, keduanya berarti 'melaporkan/menyampaikan'."}
+{"word": "超越", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "超(melewati) dan 越(melewati) setara/sinonim, keduanya berarti 'melewati/melampaui'."}
+{"word": "穿越", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "穿(menembus) dan 越(menembus) setara/sinonim, keduanya berarti 'menembus/melintasi'."}
+{"word": "形容", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "形(menggambarkan) dan 容(menggambarkan) setara/sinonim, keduanya berarti 'menggambarkan'."}
+{"word": "迎接", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "迎(menyambut) dan 接(menyambut) setara/sinonim, keduanya berarti 'menyambut'."}
+{"word": "改进", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "改(memperbaiki) dan 进(memperbaiki) setara/sinonim, keduanya berarti 'memperbaiki/meningkatkan'."}
+{"word": "认定", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "认(mengakui) dan 定(mengakui) setara/sinonim, keduanya berarti 'mengakui/menetapkan'."}
+{"word": "建设", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "建(membangun) dan 设(membangun) setara/sinonim, keduanya berarti 'membangun'."}
+{"word": "会计", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "会(menghitung) dan 计(menghitung) setara/sinonim, keduanya berarti 'akuntansi/akuntan'."}
+{"word": "应付", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "应(menghadapi) dan 付(menghadapi) setara/sinonim, keduanya berarti 'menghadapi/mengatasi'."}
+{"word": "缺少", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "缺(kurang) dan 少(kurang) setara/sinonim, keduanya berarti 'kekurangan'."}
+{"word": "脱离", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "脱(melepas) dan 离(melepas) setara/sinonim, keduanya berarti 'melepas diri/meninggalkan'."}
+{"word": "解除", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "解(membebaskan) dan 除(membebaskan) setara/sinonim, keduanya berarti 'membebaskan/mencabut'."}
+{"word": "在意", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "在(menghiraukan) dan 意(menghiraukan) setara/sinonim, keduanya berarti 'memperhatikan/ peduli'."}
+{"word": "实行", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "实(melaksanakan) dan 行(melaksanakan) setara/sinonim, keduanya berarti 'melaksanakan/menerapkan'."}
+{"word": "援助", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "援(membantu) dan 助(membantu) setara/sinonim, keduanya berarti 'membantu/memberi bantuan'."}
+{"word": "预期", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "预(meramalkan) dan 期(meramalkan) setara/sinonim, keduanya berarti 'memperkirakan/meramal'."}
+{"word": "打扮", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "打(berdandan) dan 扮(berdandan) setara/sinonim, keduanya berarti 'berdandan/berhias'."}
+{"word": "吵架", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "吵(bertengkar) dan 架(bertengkar) setara/sinonim, keduanya berarti 'bertengkar/berkelahi'."}
+{"word": "推出", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "推(meluncurkan) dan 出(meluncurkan) setara/sinonim, keduanya berarti 'meluncurkan/memperkenalkan'."}
+{"word": "收回", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "收(mengambil kembali) dan 回(mengambil kembali) setara/sinonim."}
+{"word": "化妆", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "化(berdandan) dan 妆(berdandan) setara/sinonim, keduanya berarti 'berdandan/berhias'."}
+{"word": "裁判", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "裁(memutuskan) dan 判(memutuskan) setara/sinonim, keduanya berarti 'wasit/memutuskan'."}
+{"word": "具备", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "具(memiliki) dan 备(memiliki) setara/sinonim, keduanya berarti 'memiliki/mempunyai'."}
+{"word": "干扰", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "干(mengganggu) dan 扰(mengganggu) setara/sinonim, keduanya berarti 'mengganggu'."}
+{"word": "增强", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "增(menambah) dan 强(memperkuat) setara/sinonim, keduanya berarti 'memperkuat/meningkatkan'."}
+{"word": "遭受", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "遭(mengalami) dan 受(mengalami) setara/sinonim, keduanya berarti 'mengalami/menderita'."}
+{"word": "尽力", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "尽(berusaha) dan 力(berusaha) setara/sinonim, keduanya berarti 'berusaha maksimal'."}
+{"word": "忍受", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "忍(menahan) dan 受(menahan) setara/sinonim, keduanya berarti 'menahan/menderita'."}
+{"word": "企图", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "企(bermaksud) dan 图(bermaksud) setara/sinonim, keduanya berarti 'berniat/bermaksud'."}
+{"word": "构成", "pola_lama": "动宾式", "pola_baru": "联合式", "alasan_id": "构(membentuk) dan 成(membentuk) setara/sinonim, keduanya berarti 'membentuk/terdiri dari'."}
