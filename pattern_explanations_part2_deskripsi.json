@@ -1,0 +1,107 @@
+{
+  "S-hen-Adj": {
+    "penjelasan_dasar": "很 (hěn) secara harafiah berarti 'sangat', tapi dalam praktiknya sering dipakai hanya sebagai 'perekat' netral antara subjek dan kata sifat — TANPA benar-benar menekankan makna 'sangat'. Ini konsep yang agak asing buat pemula: di Mandarin, kata sifat TIDAK BISA langsung menempel ke subjek tanpa kata penghubung seperti 很. Kalau langsung 我好 (tanpa 很), telinga penutur asli akan menangkapnya sebagai perbandingan implisit ('saya [lebih] baik [dibanding yang lain]'), bukan pernyataan netral.",
+    "perbandingan_indonesia": "Di bahasa Indonesia, kata sifat bisa langsung menempel ke subjek tanpa kata penghubung sama sekali: 'Saya baik' sudah lengkap. Di Mandarin, kalimat sifat yang natural HAMPIR SELALU butuh 很 (atau kata keterangan derajat lain) di depannya meskipun maknanya tidak benar-benar 'sangat' — ini salah satu penyesuaian mental terbesar buat pelajar Indonesia.",
+    "kapan_tidak_boleh": "Jangan pakai 很 kalau memang berniat MEMBANDINGKAN dua hal secara eksplisit (untuk itu ada pola khusus A+比+B+Adj). Juga, kalau ingin benar-benar menekankan 'SANGAT' (bukan sekadar netral), biasanya perlu penekanan intonasi ekstra atau kata lain seperti 非常 (fēicháng = benar-benar sangat).",
+    "kesalahan_umum": [
+      {
+        "salah": "我好。 (untuk menyatakan 'saya baik-baik saja' secara netral)",
+        "benar": "我很好。 (Wǒ hěn hǎo.)",
+        "penjelasan": "Tanpa 很, kalimat sifat terdengar seperti perbandingan tersirat atau kurang lengkap secara gramatikal bagi penutur asli. 很 di sini berfungsi sebagai penghubung wajib, bukan penekanan makna."
+      },
+      {
+        "salah": "我很是好。",
+        "benar": "我很好。",
+        "penjelasan": "Jangan tambahkan 是 di antara subjek dan 很+sifat — kata sifat di Mandarin tidak butuh 'kata kerja penghubung' seperti 是, beda dengan pola bahasa Inggris 'I am good'."
+      }
+    ],
+    "contoh_tambahan": [
+      { "cn": "她很漂亮。",   "py": "Tā hěn piàoliang.", "id": "Dia sangat cantik." },
+      { "cn": "这个很有趣。", "py": "Zhège hěn yǒuqù.",  "id": "Ini sangat menarik." },
+      { "cn": "天气很热。",   "py": "Tiānqì hěn rè.",    "id": "Cuacanya sangat panas." }
+    ],
+    "pola_terkait": [
+      { "key": "S-bu-Adj",     "alasan": "Untuk negasi kata sifat, ganti 很 dengan 不 di posisi yang sama." },
+      { "key": "S-tai-Adj-le", "alasan": "Kalau ingin menekankan 'terlalu', pakai pola 太…了 sebagai ganti 很." }
+    ]
+  },
+
+  "S-bu-Adj": {
+    "penjelasan_dasar": "不 (bù) adalah kata negasi paling umum di Mandarin, dipakai untuk menegasikan kata sifat maupun kata kerja pada umumnya (kecuali 有, yang negasinya wajib 没有). Strukturnya sangat sederhana: cukup sisipkan 不 tepat sebelum kata sifat/kata kerja yang ingin dinegasikan.",
+    "perbandingan_indonesia": "Persis seperti bahasa Indonesia menambahkan kata 'tidak' sebelum kata sifat/kerja: 'saya TIDAK sibuk' = 我不忙. Urutan dan logikanya identik, tidak ada yang perlu disesuaikan cara berpikirnya — ini salah satu pola paling intuitif untuk pelajar Indonesia.",
+    "kapan_tidak_boleh": "Jangan pakai 不 untuk menegasikan 有 (punya) — itu SATU-SATUNYA pengecualian, wajib pakai 没有. Juga, untuk kejadian di MASA LALU yang tidak terjadi (bukan sifat/kebiasaan permanen), biasanya dipakai 没 bukan 不 — misalnya 'saya tidak pergi (kemarin)' = 我没去, bukan 我不去 (yang lebih ke arah 'saya tidak [biasa/akan] pergi').",
+    "kesalahan_umum": [
+      {
+        "salah": "我不有钱。",
+        "benar": "我没有钱。",
+        "penjelasan": "有 tidak dinegasikan dengan 不 — ini pengecualian penting, wajib pakai 没有."
+      },
+      {
+        "salah": "我不去昨天。 (mencoba bilang 'saya tidak pergi kemarin')",
+        "benar": "我昨天没去。",
+        "penjelasan": "Untuk aksi masa lalu yang tidak terjadi, pakai 没 (bukan 不), dan keterangan waktu (昨天=kemarin) diletakkan sebelum kata kerja, bukan di akhir kalimat."
+      }
+    ],
+    "contoh_tambahan": [
+      { "cn": "他不高。",   "py": "Tā bù gāo.",     "id": "Dia tidak tinggi." },
+      { "cn": "我不喜欢。", "py": "Wǒ bù xǐhuan.",  "id": "Saya tidak suka." },
+      { "cn": "这不难。",   "py": "Zhè bù nán.",    "id": "Ini tidak sulit." }
+    ],
+    "pola_terkait": [
+      { "key": "S-hen-Adj", "alasan": "Bentuk positif/netral dari pola ini — ganti 不 dengan 很." },
+      { "key": "S-you-O",   "alasan": "Kalau yang dinegasikan adalah 有 (punya), lihat pola ini untuk aturan khusus 没有." }
+    ]
+  },
+
+  "S-tai-Adj-le": {
+    "penjelasan_dasar": "太…了 (tài…le) artinya 'terlalu…'. Pola ini unik karena kata sifatnya 'diapit' oleh dua elemen: 太 di depan (artinya 'terlalu') dan 了 di belakang (di sini berfungsi sebagai penegas emosi/nada, bukan penanda aksi selesai seperti di pola lain). Sering dipakai untuk mengungkapkan reaksi spontan — kekaguman, keluhan, atau kejutan.",
+    "perbandingan_indonesia": "Konsepnya mirip 'terlalu…' atau '…banget/sekali' dalam bahasa Indonesia sehari-hari — 太贵了 = 'terlalu mahal' ATAU 'mahal banget', tergantung nada bicara. Yang perlu dibiasakan: 了 di akhir itu WAJIB ada untuk pola ini supaya terdengar natural sebagai ekspresi, bukan cuma pernyataan datar.",
+    "kapan_tidak_boleh": "Jangan hilangkan 了 di akhir kalau tujuannya adalah ekspresi emosional/reaksi spontan (太贵了 vs 太贵 tanpa 了 terasa seperti kalimat terpotong). Jangan pula pakai pola ini untuk pernyataan objektif netral tanpa nuansa 'berlebihan' — untuk itu cukup pakai 很 (S-hen-Adj).",
+    "kesalahan_umum": [
+      {
+        "salah": "太贵。 (tanpa 了)",
+        "benar": "太贵了！(Tài guì le!)",
+        "penjelasan": "了 di akhir pola ini penting untuk kesan natural sebagai ungkapan reaksi. Tanpa itu, kalimatnya terasa seperti terpotong di tengah."
+      },
+      {
+        "salah": "我很太忙了。",
+        "benar": "我太忙了。",
+        "penjelasan": "Jangan gabungkan 很 dan 太 sekaligus — keduanya sama-sama kata keterangan derajat, dipakai salah satu saja sesuai maksud (很=sangat netral, 太=terlalu/berlebihan)."
+      }
+    ],
+    "contoh_tambahan": [
+      { "cn": "这个太难了！", "py": "Zhège tài nán le!", "id": "Ini terlalu sulit!" },
+      { "cn": "你太好了！",   "py": "Nǐ tài hǎo le!",   "id": "Kamu baik banget!" },
+      { "cn": "太可惜了。",   "py": "Tài kěxī le.",     "id": "Sayang sekali." }
+    ],
+    "pola_terkait": [
+      { "key": "S-hen-Adj", "alasan": "Untuk pernyataan sifat netral tanpa nuansa 'berlebihan', pakai 很 sebagai gantinya." }
+    ]
+  },
+
+  "S-Num-M-N": {
+    "penjelasan_dasar": "量词 (liàngcí, kata pengukur/penjodoh bilangan) adalah salah satu konsep gramatika Mandarin yang paling asing buat pemula — hampir SEMUA kata benda WAJIB pakai kata pengukur khusus saat disertai angka, tidak bisa langsung 'angka + benda'. Setiap jenis benda punya kata pengukurnya sendiri: 本 untuk buku, 张 untuk benda pipih (kertas/meja), 个 untuk hampir semua benda umum (kata pengukur paling serbaguna kalau ragu), dan seterusnya.",
+    "perbandingan_indonesia": "Bahasa Indonesia sebenarnya juga punya konsep serupa meski tidak seketat Mandarin: 'sehelai kertas', 'seekor kucing', 'sebuah meja' — kata 'helai/ekor/buah' itu sama fungsinya dengan 量词. Bedanya, di Indonesia penjodoh bilangan ini SERING dihilangkan dalam percakapan santai ('satu kertas' juga dipahami), sedangkan di Mandarin, 量词 HAMPIR SELALU wajib, jarang bisa dihilangkan begitu saja.",
+    "kapan_tidak_boleh": "Jangan pernah langsung menempelkan angka ke kata benda tanpa 量词 (misal 三书 SALAH, harus 三本书) — ini kesalahan gramatikal yang langsung kentara sebagai ciri khas penutur asing pemula. Kalau ragu kata pengukur yang tepat untuk suatu benda, 个 adalah pilihan paling aman sebagai 'default' meski tidak selalu 100% tepat secara formal.",
+    "kesalahan_umum": [
+      {
+        "salah": "三书 (Sān shū.)",
+        "benar": "三本书 (Sān běn shū.)",
+        "penjelasan": "Angka tidak boleh langsung menempel ke kata benda — HARUS ada 量词 di antaranya. Ini aturan paling dasar tapi paling sering dilupakan pemula."
+      },
+      {
+        "salah": "一个茶 (memakai 个 untuk semua jenis benda tanpa pandang bulu)",
+        "benar": "一杯茶 (Yī bēi chá.)",
+        "penjelasan": "Meski 个 itu serbaguna, sebisa mungkin pakai kata pengukur yang sesuai jenis bendanya (杯=cangkir/gelas untuk minuman) supaya terdengar lebih natural."
+      }
+    ],
+    "contoh_tambahan": [
+      { "cn": "两个人", "py": "liǎng gè rén", "id": "dua orang" },
+      { "cn": "一条鱼", "py": "yī tiáo yú",   "id": "seekor ikan" },
+      { "cn": "五张纸", "py": "wǔ zhāng zhǐ", "id": "lima lembar kertas" }
+    ],
+    "pola_terkait": [
+      { "key": "Q-duoshao", "alasan": "Untuk menanyakan jumlah/berapa banyak, jawabannya biasanya juga memakai pola Angka+量词+Benda ini." }
+    ]
+  }
+}
