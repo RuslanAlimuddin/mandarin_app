@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>Prototipe: Beda dengan Kata Mirip — 尝 vs 吃</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700;900&family=Zilla+Slab:ital,wght@0,400;0,600;1,400&family=Inter:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper: #F6F1E4;
+    --paper-deep: #EDE5D0;
+    --ink: #2A2420;
+    --ink-soft: #5B5148;
+    --seal-red: #A63D2F;
+    --seal-red-soft: #C8695A;
+    --jade: #3E6E5E;
+    --jade-soft: #5F9384;
+    --gold: #B8933E;
+    --radius: 4px;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:
+      radial-gradient(ellipse at top left, rgba(184,147,62,0.06), transparent 55%),
+      var(--paper);
+    color:var(--ink);
+    font-family:'Zilla Slab', serif;
+    padding:48px 20px;
+    display:flex;
+    justify-content:center;
+  }
+  .panel{
+    width:100%;
+    max-width:760px;
+    background:var(--paper);
+    border:1px solid rgba(42,36,32,0.14);
+    border-radius:var(--radius);
+    box-shadow:0 1px 2px rgba(42,36,32,0.06);
+    overflow:hidden;
+  }
+  .panel-header{
+    padding:22px 28px 18px;
+    border-bottom:1px solid rgba(42,36,32,0.12);
+  }
+  .eyebrow{
+    display:inline-flex;
+    align-items:center;
+    gap:8px;
+    font-family:'Inter',sans-serif;
+    font-size:11px;
+    font-weight:600;
+    letter-spacing:0.09em;
+    text-transform:uppercase;
+    color:var(--seal-red);
+  }
+  .eyebrow .stamp{
+    width:16px;height:16px;
+    border-radius:3px;
+    background:var(--seal-red);
+    color:#fff;
+    font-family:'Noto Serif SC',serif;
+    font-size:10px;
+    display:flex;align-items:center;justify-content:center;
+    line-height:1;
+  }
+  .panel-title{
+    margin:8px 0 4px;
+    font-family:'Noto Serif SC', serif;
+    font-weight:700;
+    font-size:22px;
+    color:var(--ink);
+  }
+  .panel-sub{
+    margin:0;
+    font-size:14.5px;
+    color:var(--ink-soft);
+    line-height:1.55;
+    font-style:italic;
+  }
+
+  .duel{
+    display:grid;
+    grid-template-columns:1fr auto 1fr;
+    align-items:stretch;
+  }
+  .side{
+    padding:24px 24px 20px;
+    display:flex;
+    flex-direction:column;
+    gap:14px;
+  }
+
+  .divider{
+    width:1px;
+    position:relative;
+    background:
+      repeating-linear-gradient(to bottom,
+        transparent, transparent 6px,
+        rgba(184,147,62,0.5) 6px, rgba(184,147,62,0.5) 8px);
+  }
+  .divider::before{
+    content:"对";
+    font-family:'Noto Serif SC',serif;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    background:var(--gold);
+    color:#fff;
+    width:26px;height:26px;
+    border-radius:50%;
+    display:flex;align-items:center;justify-content:center;
+    font-size:14px;
+    box-shadow:0 0 0 5px var(--paper);
+  }
+
+  .hz-row{
+    display:flex;
+    align-items:baseline;
+    gap:10px;
+  }
+  .hz{
+    font-family:'Noto Serif SC', serif;
+    font-weight:900;
+    font-size:56px;
+    line-height:1;
+  }
+  .chang .hz{ color:var(--seal-red); }
+  .chi .hz{ color:var(--jade); }
+
+  .py{
+    font-family:'Inter',sans-serif;
+    font-size:15px;
+    font-weight:600;
+    color:var(--ink-soft);
+  }
+  .hsk-badge{
+    font-family:'Inter',sans-serif;
+    font-size:10px;
+    font-weight:600;
+    letter-spacing:0.04em;
+    padding:2px 7px;
+    border-radius:20px;
+    border:1px solid currentColor;
+  }
+  .chang .hsk-badge{ color:var(--seal-red-soft); }
+  .chi .hsk-badge{ color:var(--jade-soft); }
+
+  .usage{
+    font-size:14.5px;
+    line-height:1.6;
+    color:var(--ink);
+  }
+
+  .meta-row{
+    display:flex;
+    gap:10px;
+    flex-wrap:wrap;
+    font-family:'Inter',sans-serif;
+    font-size:12px;
+  }
+  .meta-chip{
+    background:var(--paper-deep);
+    border-radius:20px;
+    padding:4px 10px;
+    color:var(--ink-soft);
+  }
+  .meta-chip b{ color:var(--ink); font-weight:600; }
+
+  .colloc{
+    font-family:'Inter',sans-serif;
+    font-size:12.5px;
+    color:var(--ink-soft);
+    display:flex;
+    flex-wrap:wrap;
+    gap:6px;
+  }
+  .colloc span{
+    font-family:'Noto Serif SC',serif;
+    background:transparent;
+    border:1px dashed rgba(42,36,32,0.25);
+    border-radius:20px;
+    padding:2px 9px;
+    font-size:13px;
+    color:var(--ink);
+  }
+
+  .example{
+    margin-top:auto;
+    padding-top:14px;
+    border-top:1px dotted rgba(42,36,32,0.2);
+  }
+  .example .cn{
+    font-family:'Noto Serif SC',serif;
+    font-size:17px;
+    margin-bottom:2px;
+  }
+  .example .py2{
+    font-family:'Inter',sans-serif;
+    font-size:12px;
+    color:var(--ink-soft);
+    margin-bottom:4px;
+  }
+  .example .id{
+    font-size:14px;
+    font-style:italic;
+    color:var(--ink-soft);
+  }
+
+  .mistake{
+    margin:0 24px 22px;
+    padding:16px 18px;
+    background:rgba(166,61,47,0.06);
+    border-left:3px solid var(--seal-red);
+    border-radius:0 var(--radius) var(--radius) 0;
+    font-size:14px;
+    line-height:1.6;
+  }
+  .mistake b{
+    display:block;
+    font-family:'Inter',sans-serif;
+    font-size:11px;
+    font-weight:600;
+    letter-spacing:0.06em;
+    text-transform:uppercase;
+    color:var(--seal-red);
+    margin-bottom:6px;
+  }
+
+  .related-toggle{
+    margin:0 24px 24px;
+    font-family:'Inter',sans-serif;
+    font-size:13px;
+  }
+  .related-toggle summary{
+    cursor:pointer;
+    color:var(--gold);
+    font-weight:600;
+    list-style:none;
+    display:flex;
+    align-items:center;
+    gap:6px;
+  }
+  .related-toggle summary::before{
+    content:"▸";
+    transition:transform 0.15s ease;
+    display:inline-block;
+  }
+  .related-toggle[open] summary::before{ transform:rotate(90deg); }
+  .related-toggle .body{
+    margin-top:10px;
+    padding:12px 14px;
+    background:var(--paper-deep);
+    border-radius:var(--radius);
+    font-family:'Zilla Slab',serif;
+    font-size:13.5px;
+    line-height:1.6;
+    color:var(--ink-soft);
+  }
+  .related-toggle .body .hz-inline{
+    font-family:'Noto Serif SC',serif;
+    color:var(--ink);
+    font-weight:700;
+  }
+
+  @media (max-width:600px){
+    .duel{ grid-template-columns:1fr; }
+    .divider{ width:auto; height:1px;
+      background:repeating-linear-gradient(to right, transparent, transparent 6px, rgba(184,147,62,0.5) 6px, rgba(184,147,62,0.5) 8px);
+    }
+    .divider::before{ box-shadow:0 0 0 5px var(--paper); }
+  }
+
+  .footnote{
+    text-align:center;
+    font-family:'Inter',sans-serif;
+    font-size:11px;
+    color:var(--ink-soft);
+    margin-top:16px;
+    opacity:0.7;
+  }
+</style>
+</head>
+<body>
+
+<div>
+  <div class="panel">
+    <div class="panel-header">
+      <span class="eyebrow"><span class="stamp">近</span> Kata Mirip · Near-Synonym</span>
+      <h2 class="panel-title">尝 vs 吃 — beda mencicipi &amp; makan</h2>
+      <p class="panel-sub" id="core-distinction"></p>
+    </div>
+
+    <div class="duel">
+      <div class="side chang">
+        <div class="hz-row">
+          <span class="hz">尝</span>
+          <span class="py">cháng</span>
+          <span class="hsk-badge">HSK 4</span>
+        </div>
+        <p class="usage" id="usage-chang"></p>
+        <div class="meta-row">
+          <span class="meta-chip"><b>Jumlah:</b> <span id="qty-chang"></span></span>
+        </div>
+        <div class="meta-row">
+          <span class="meta-chip"><b>Tujuan:</b> <span id="purpose-chang"></span></span>
+        </div>
+        <div class="colloc" id="colloc-chang"></div>
+        <div class="example">
+          <div class="cn" id="ex-cn-chang"></div>
+          <div class="py2" id="ex-py-chang"></div>
+          <div class="id" id="ex-id-chang"></div>
+        </div>
+      </div>
+
+      <div class="divider"></div>
+
+      <div class="side chi">
+        <div class="hz-row">
+          <span class="hz">吃</span>
+          <span class="py">chī</span>
+          <span class="hsk-badge">HSK 1</span>
+        </div>
+        <p class="usage" id="usage-chi"></p>
+        <div class="meta-row">
+          <span class="meta-chip"><b>Jumlah:</b> <span id="qty-chi"></span></span>
+        </div>
+        <div class="meta-row">
+          <span class="meta-chip"><b>Tujuan:</b> <span id="purpose-chi"></span></span>
+        </div>
+        <div class="colloc" id="colloc-chi"></div>
+        <div class="example">
+          <div class="cn" id="ex-cn-chi"></div>
+          <div class="py2" id="ex-py-chi"></div>
+          <div class="id" id="ex-id-chi"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mistake">
+      <b>Kesalahan Umum</b>
+      <span id="mistake-text"></span>
+    </div>
+
+    <details class="related-toggle">
+      <summary>Jangan bingung dengan 尝试 (chángshì)</summary>
+      <div class="body" id="related-text"></div>
+    </details>
+  </div>
+  <div class="footnote">Prototipe panel Kamus — data dari nuance_pairs_prototype.json</div>
+</div>
+
+<script>
+// Data ini identik dengan nuance_pairs_prototype.json -- di implementasi asli,
+// panel ini akan fetch dari file JSON tsb, bukan hardcode seperti demo ini.
+const pair = {
+  "core_distinction_id": "尝 = mencicipi sedikit untuk merasakan rasa; 吃 = makan sungguhan dalam jumlah wajar untuk kenyang/nutrisi.",
+  "comparison": [
+    {
+      "word": "尝", "usage_id": "Jumlah sedikit, tujuannya merasakan/menguji rasa — bukan untuk kenyang. Sering dipakai saat mencoba makanan baru atau menilai masakan.",
+      "quantity": "sedikit (satu suap/gigitan)",
+      "purpose": "merasakan rasa, menguji, mencoba pengalaman baru",
+      "collocations": ["尝一下", "尝一口", "尝尝", "尝味道", "尝新"],
+      "example_cn": "你尝一下这个汤，好喝吗？",
+      "example_pinyin": "Nǐ cháng yīxià zhège tāng, hǎohē ma?",
+      "example_id": "Coba cicipi sup ini, enak tidak?"
+    },
+    {
+      "word": "吃", "usage_id": "Makan dalam pengertian umum/sungguhan — jumlah wajar, tujuannya kenyang atau memenuhi kebutuhan makan. Kata paling dasar untuk 'makan'.",
+      "quantity": "wajar/banyak (semangkuk, sepiring, satu porsi)",
+      "purpose": "kenyang, nutrisi, kebutuhan makan sehari-hari",
+      "collocations": ["吃饭", "吃东西", "吃早饭", "吃药"],
+      "example_cn": "我每天吃三顿饭。",
+      "example_pinyin": "Wǒ měitiān chī sān dùn fàn.",
+      "example_id": "Saya makan tiga kali sehari."
+    }
+  ],
+  "common_mistake_id": "Pembelajar sering pakai 吃 padahal maksudnya cuma mencicipi sedikit (harusnya 尝), atau sebaliknya pakai 尝 untuk makan sungguhan (harusnya 吃). Contoh: ingin bilang \"coba cicipi masakan Sichuan\" → 我想尝一下四川菜. Tapi kalau maksudnya makan satu porsi penuh → 我想吃四川菜.",
+  "related": "尝试 (chángshì) artinya 'mencoba melakukan sesuatu' — kata kerja abstrak untuk usaha/percobaan, bukan soal rasa makanan. Satu karakter sama (尝) tapi konsepnya beda dari 尝 versi 'mencicipi'."
+};
+
+document.getElementById('core-distinction').textContent = pair.core_distinction_id;
+
+const chang = pair.comparison[0];
+const chi = pair.comparison[1];
+
+document.getElementById('usage-chang').textContent = chang.usage_id;
+document.getElementById('qty-chang').textContent = chang.quantity;
+document.getElementById('purpose-chang').textContent = chang.purpose;
+document.getElementById('colloc-chang').innerHTML = chang.collocations.map(function(c){return '<span>'+c+'</span>';}).join('');
+document.getElementById('ex-cn-chang').textContent = chang.example_cn;
+document.getElementById('ex-py-chang').textContent = chang.example_pinyin;
+document.getElementById('ex-id-chang').textContent = chang.example_id;
+
+document.getElementById('usage-chi').textContent = chi.usage_id;
+document.getElementById('qty-chi').textContent = chi.quantity;
+document.getElementById('purpose-chi').textContent = chi.purpose;
+document.getElementById('colloc-chi').innerHTML = chi.collocations.map(function(c){return '<span>'+c+'</span>';}).join('');
+document.getElementById('ex-cn-chi').textContent = chi.example_cn;
+document.getElementById('ex-py-chi').textContent = chi.example_pinyin;
+document.getElementById('ex-id-chi').textContent = chi.example_id;
+
+document.getElementById('mistake-text').textContent = pair.common_mistake_id;
+document.getElementById('related-text').innerHTML = pair.related.replace('尝试', '<span class="hz-inline">尝试</span>');
+</script>
+
+</body>
+</html>
