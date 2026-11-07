@@ -1,0 +1,577 @@
+[
+ {
+  "id": "tema_kesehatan_hsk7",
+  "level": 7,
+  "tema": "Kesehatan",
+  "title": "一场传染病 (Wabah Penyakit Menular)",
+  "text": "最近，一种新的传染病在很多地方蔓延，医院里都是因为感染住院的病人。医生说，这种病毒传播得很快，症状包括发烧、咳嗽，严重的甚至需要治疗很久。为了控制病情，政府紧急买了一些疫苗，希望更多人能产生免疫力。护士们日夜坚守在临床一线，给病人量体温、打针、护理伤口，几乎没有休息时间。一位护士说，她最担心那些本身患有慢性病的老人，他们身体比较弱，更容易被传染。经过两个星期的急救和治疗，大部分病人的病情终于好转，陆续康复出院。这次生病的经历也让大家明白，平时注意卫生、按时打疫苗，才是预防疾病最好的办法。",
+  "translation": "Baru-baru ini, sebuah penyakit menular baru menyebar di banyak tempat, rumah sakit dipenuhi pasien yang dirawat karena terinfeksi. Dokter berkata, virus ini menyebar sangat cepat, gejalanya termasuk demam dan batuk, yang parah bahkan butuh perawatan lama. Demi mengendalikan wabah, pemerintah mendesak membeli sejumlah vaksin, berharap lebih banyak orang bisa membentuk kekebalan. Para perawat bertahan siang dan malam di garis depan klinis, mengukur suhu tubuh pasien, menyuntik, merawat luka, hampir tidak punya waktu istirahat. Seorang perawat berkata, yang paling ia khawatirkan adalah para lansia yang sudah menderita penyakit kronis, tubuh mereka lebih lemah dan lebih mudah tertular. Setelah dua minggu pertolongan darurat dan perawatan, kondisi sebagian besar pasien akhirnya membaik, satu demi satu pulih dan diperbolehkan pulang. Pengalaman sakit kali ini juga membuat semua orang sadar, menjaga kebersihan sehari-hari dan vaksinasi tepat waktu adalah cara terbaik mencegah penyakit.",
+  "glossary": [
+   {
+    "cn": "最近",
+    "py": "zuì jìn",
+    "id": "baru-baru ini"
+   },
+   {
+    "cn": "一",
+    "py": "yī",
+    "id": "juga diucapkan [yao1] untuk kejelasan yang lebih besar saat mengeja angka digit"
+   },
+   {
+    "cn": "种",
+    "py": "zhǒng",
+    "id": "spesies"
+   },
+   {
+    "cn": "新",
+    "py": "Xīn",
+    "id": "baru saja"
+   },
+   {
+    "cn": "的",
+    "py": "de",
+    "id": "(digunakan setelah atribut ketika memodifikasi kata benda)"
+   },
+   {
+    "cn": "传染病",
+    "py": "chuán rǎn bìng",
+    "id": "penyakit menular"
+   },
+   {
+    "cn": "在",
+    "py": "zài",
+    "id": "(dari seseorang atau sesuatu) berada (berlokasi) di"
+   },
+   {
+    "cn": "很",
+    "py": "hěn",
+    "id": "sangat"
+   },
+   {
+    "cn": "多",
+    "py": "duō",
+    "id": "(bentuk terikat) multi-"
+   },
+   {
+    "cn": "地方",
+    "py": "dì fāng",
+    "id": "area"
+   },
+   {
+    "cn": "蔓延",
+    "py": "màn yán",
+    "id": "menyebar"
+   },
+   {
+    "cn": "医院",
+    "py": "yī yuàn",
+    "id": "KP:所[suo3],家[jia1],座[zuo4]"
+   },
+   {
+    "cn": "里",
+    "py": "lǐ",
+    "id": "varian dari 裡|里[li3]"
+   },
+   {
+    "cn": "都",
+    "py": "Dū",
+    "id": "(digunakan untuk penekanan) bahkan"
+   },
+   {
+    "cn": "是",
+    "py": "shì",
+    "id": "varian dari 是[shi4]"
+   },
+   {
+    "cn": "因为",
+    "py": "yīn wèi",
+    "id": "disebabkan oleh"
+   },
+   {
+    "cn": "感染",
+    "py": "gǎn rǎn",
+    "id": "(kiasan) memengaruhi"
+   },
+   {
+    "cn": "住院",
+    "py": "zhù yuàn",
+    "id": "dirawat di rumah sakit"
+   },
+   {
+    "cn": "病人",
+    "py": "bìng rén",
+    "id": "pasien"
+   },
+   {
+    "cn": "医生",
+    "py": "yī shēng",
+    "id": "dokter"
+   },
+   {
+    "cn": "说",
+    "py": "shuì",
+    "id": "varian dari 說|说[shuo1]"
+   },
+   {
+    "cn": "这",
+    "py": "zhè",
+    "id": "(percakapan) ini"
+   },
+   {
+    "cn": "病毒",
+    "py": "bìng dú",
+    "id": "virus"
+   },
+   {
+    "cn": "传播",
+    "py": "chuán bō",
+    "id": "menyebarluaskan"
+   },
+   {
+    "cn": "得",
+    "py": "dé",
+    "id": "mendapatkan"
+   },
+   {
+    "cn": "快",
+    "py": "kuài",
+    "id": "senang"
+   },
+   {
+    "cn": "症状",
+    "py": "zhèng zhuàng",
+    "id": "gejala (penyakit)"
+   },
+   {
+    "cn": "包括",
+    "py": "bāo kuò",
+    "id": "mencakup"
+   },
+   {
+    "cn": "发烧",
+    "py": "fā shāo",
+    "id": "(kiasan) terpesona dengan"
+   },
+   {
+    "cn": "咳嗽",
+    "py": "ké sou",
+    "id": "KP:陣|阵[zhen4]"
+   },
+   {
+    "cn": "严重",
+    "py": "yán zhòng",
+    "id": "genting"
+   },
+   {
+    "cn": "甚至",
+    "py": "shèn zhì",
+    "id": "bahkan"
+   },
+   {
+    "cn": "需要",
+    "py": "xū yào",
+    "id": "membutuhkan"
+   },
+   {
+    "cn": "治疗",
+    "py": "zhì liáo",
+    "id": "mengobati (penyakit)"
+   },
+   {
+    "cn": "久",
+    "py": "jiǔ",
+    "id": "(dari periode waktu) lama"
+   },
+   {
+    "cn": "为了",
+    "py": "wèi le",
+    "id": "untuk"
+   },
+   {
+    "cn": "控制",
+    "py": "kòng zhì",
+    "id": "mengendalikan"
+   },
+   {
+    "cn": "病情",
+    "py": "bìng qíng",
+    "id": "kondisi pasien"
+   },
+   {
+    "cn": "政府",
+    "py": "zhèng fǔ",
+    "id": "KP:個|个[ge4]"
+   },
+   {
+    "cn": "紧急",
+    "py": "jǐn jí",
+    "id": "mendesak"
+   },
+   {
+    "cn": "买",
+    "py": "mǎi",
+    "id": "membeli"
+   },
+   {
+    "cn": "了",
+    "py": "le",
+    "id": "(digunakan dengan 得[de2] atau 不[bu4] setelah kata kerja untuk menyatakan ke(tida"
+   },
+   {
+    "cn": "一些",
+    "py": "yī xiē",
+    "id": "beberapa"
+   },
+   {
+    "cn": "疫苗",
+    "py": "yì miáo",
+    "id": "vaksin"
+   },
+   {
+    "cn": "希望",
+    "py": "xī wàng",
+    "id": "berharap"
+   },
+   {
+    "cn": "更",
+    "py": "gēng",
+    "id": "mengganti atau mengganti"
+   },
+   {
+    "cn": "人",
+    "py": "rén",
+    "id": "orang"
+   },
+   {
+    "cn": "能",
+    "py": "Néng",
+    "id": "mampu"
+   },
+   {
+    "cn": "产生",
+    "py": "chǎn shēng",
+    "id": "menimbulkan"
+   },
+   {
+    "cn": "免疫",
+    "py": "miǎn yì",
+    "id": "kekebalan (terhadap penyakit)"
+   },
+   {
+    "cn": "力",
+    "py": "Lì",
+    "id": "daya"
+   },
+   {
+    "cn": "护士",
+    "py": "hù shi",
+    "id": "perawat"
+   },
+   {
+    "cn": "们",
+    "py": "men",
+    "id": "penanda jamak untuk kata ganti, dan kata benda yang merujuk pada individu"
+   },
+   {
+    "cn": "日夜",
+    "py": "rì yè",
+    "id": "siang dan malam"
+   },
+   {
+    "cn": "坚守",
+    "py": "jiān shǒu",
+    "id": "berpegang teguh pada"
+   },
+   {
+    "cn": "临床",
+    "py": "lín chuáng",
+    "id": "klinis"
+   },
+   {
+    "cn": "一线",
+    "py": "yī xiàn",
+    "id": "garis depan"
+   },
+   {
+    "cn": "给",
+    "py": "gěi",
+    "id": "(padanan gramatikal dari 把)"
+   },
+   {
+    "cn": "量",
+    "py": "liáng",
+    "id": "kapasitas"
+   },
+   {
+    "cn": "体温",
+    "py": "tǐ wēn",
+    "id": "suhu tubuh"
+   },
+   {
+    "cn": "打针",
+    "py": "dǎ zhēn",
+    "id": "memberi atau mendapatkan suntikan"
+   },
+   {
+    "cn": "护理",
+    "py": "hù lǐ",
+    "id": "merawat"
+   },
+   {
+    "cn": "伤口",
+    "py": "shāng kǒu",
+    "id": "luka"
+   },
+   {
+    "cn": "几乎",
+    "py": "jī hū",
+    "id": "hampir"
+   },
+   {
+    "cn": "没有",
+    "py": "méi yǒu",
+    "id": "belum punya"
+   },
+   {
+    "cn": "休息",
+    "py": "xiū xi",
+    "id": "istirahat"
+   },
+   {
+    "cn": "时间",
+    "py": "shí jiān",
+    "id": "(durasi) waktu"
+   },
+   {
+    "cn": "位",
+    "py": "wèi",
+    "id": "posisi"
+   },
+   {
+    "cn": "她",
+    "py": "tā",
+    "id": "dia (pr)"
+   },
+   {
+    "cn": "最",
+    "py": "zuì",
+    "id": "(setelah 之[zhi1]) contoh terbaik atau paling ekstrem (mis. 世界之最[shi4 jie4 zhi1 z"
+   },
+   {
+    "cn": "担心",
+    "py": "dān xīn",
+    "id": "cemas"
+   },
+   {
+    "cn": "那些",
+    "py": "nà xiē",
+    "id": "itu (jamak)"
+   },
+   {
+    "cn": "本身",
+    "py": "běn shēn",
+    "id": "secara inheren"
+   },
+   {
+    "cn": "患有",
+    "py": "huàn yǒu",
+    "id": "terkena (penyakit)"
+   },
+   {
+    "cn": "慢性",
+    "py": "màn xìng",
+    "id": "lambat dan sabar"
+   },
+   {
+    "cn": "病",
+    "py": "bìng",
+    "id": "penyakit"
+   },
+   {
+    "cn": "老人",
+    "py": "lǎo rén",
+    "id": "lansia"
+   },
+   {
+    "cn": "他们",
+    "py": "tā men",
+    "id": "mereka"
+   },
+   {
+    "cn": "身体",
+    "py": "shēn tǐ",
+    "id": "kesehatan seseorang"
+   },
+   {
+    "cn": "比较",
+    "py": "bǐ jiào",
+    "id": "secara komparatif"
+   },
+   {
+    "cn": "弱",
+    "py": "ruò",
+    "id": "lemah"
+   },
+   {
+    "cn": "容易",
+    "py": "róng yì",
+    "id": "kemungkinan"
+   },
+   {
+    "cn": "被",
+    "py": "bèi",
+    "id": "untuk menutupi (dengan)"
+   },
+   {
+    "cn": "传染",
+    "py": "chuán rǎn",
+    "id": "menulari"
+   },
+   {
+    "cn": "经过",
+    "py": "jīng guò",
+    "id": "proses"
+   },
+   {
+    "cn": "两",
+    "py": "liǎng",
+    "id": "dua"
+   },
+   {
+    "cn": "个",
+    "py": "gě",
+    "id": "(kata penggolong yang digunakan sebelum kata benda yang tidak memiliki kata peng"
+   },
+   {
+    "cn": "星期",
+    "py": "xīng qī",
+    "id": "KP:個|个[ge4]"
+   },
+   {
+    "cn": "急救",
+    "py": "jí jiù",
+    "id": "memberikan pertolongan darurat"
+   },
+   {
+    "cn": "和",
+    "py": "hé",
+    "id": "(bentuk terikat) harmonis"
+   },
+   {
+    "cn": "大部分",
+    "py": "dà bù fen",
+    "id": "Taiwan dibaca [da4bu4fen4]"
+   },
+   {
+    "cn": "终于",
+    "py": "zhōng yú",
+    "id": "akhirnya"
+   },
+   {
+    "cn": "好转",
+    "py": "hǎo zhuǎn",
+    "id": "mengambil giliran yang lebih baik"
+   },
+   {
+    "cn": "陆续",
+    "py": "lù xù",
+    "id": "sedikit demi sedikit"
+   },
+   {
+    "cn": "康复",
+    "py": "kāng fù",
+    "id": "masa pemulihan"
+   },
+   {
+    "cn": "出院",
+    "py": "chū yuàn",
+    "id": "dipulangkan dari rumah sakit"
+   },
+   {
+    "cn": "次",
+    "py": "cì",
+    "id": "berikutnya dalam urutan"
+   },
+   {
+    "cn": "生病",
+    "py": "shēng bìng",
+    "id": "jatuh sakit"
+   },
+   {
+    "cn": "经历",
+    "py": "jīng lì",
+    "id": "pengalaman (KP:段[duan4],次[ci4])"
+   },
+   {
+    "cn": "也",
+    "py": "Yě",
+    "id": "(sastra) partikel yang memiliki fungsi yang mirip dengan 啊[a5]"
+   },
+   {
+    "cn": "让",
+    "py": "ràng",
+    "id": "membuat seseorang (merasa sedih dll)"
+   },
+   {
+    "cn": "大家",
+    "py": "dà jiā",
+    "id": "ahli besar"
+   },
+   {
+    "cn": "明白",
+    "py": "míng bai",
+    "id": "jelas"
+   },
+   {
+    "cn": "平时",
+    "py": "píng shí",
+    "id": "di masa damai"
+   },
+   {
+    "cn": "注意",
+    "py": "zhù yì",
+    "id": "memperhatikan"
+   },
+   {
+    "cn": "卫生",
+    "py": "wèi shēng",
+    "id": "higienis"
+   },
+   {
+    "cn": "按时",
+    "py": "àn shí",
+    "id": "tepat waktu"
+   },
+   {
+    "cn": "打",
+    "py": "dá",
+    "id": "(kata serapan) lusin"
+   },
+   {
+    "cn": "才",
+    "py": "cái",
+    "id": "baru saja"
+   },
+   {
+    "cn": "预防",
+    "py": "yù fáng",
+    "id": "profilaksis"
+   },
+   {
+    "cn": "疾病",
+    "py": "jí bìng",
+    "id": "penyakit"
+   },
+   {
+    "cn": "最好",
+    "py": "zuì hǎo",
+    "id": "sebaiknya ..."
+   },
+   {
+    "cn": "办法",
+    "py": "bàn fǎ",
+    "id": "KP:條|条[tiao2],個|个[ge4]"
+   }
+  ]
+ }
+]
