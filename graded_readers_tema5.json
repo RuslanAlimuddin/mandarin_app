@@ -1,0 +1,1267 @@
+[
+ {
+  "id": "tema_keluarga_hsk1",
+  "level": 1,
+  "tema": "Keluarga",
+  "title": "我的家 (Keluargaku)",
+  "text": "我家有五口人：爸爸、妈妈、哥哥、我和妹妹。爸爸每天去上班，妈妈在家做饭。哥哥在学校学习，妹妹很小，还不上学。我们家很幸福，大家都很爱我。晚上，我们一起吃饭，一起看电视。星期天，爸爸妈妈会带我们去公园玩。我很爱我的家人。",
+  "translation": "Keluarga saya ada lima orang: ayah, ibu, kakak laki-laki, saya, dan adik perempuan. Ayah setiap hari pergi bekerja, ibu memasak di rumah. Kakak belajar di sekolah, adik masih kecil, belum bersekolah. Keluarga kami sangat bahagia, semua orang sangat menyayangi saya. Malam hari, kami makan bersama, menonton TV bersama. Hari Minggu, ayah dan ibu akan mengajak kami pergi ke taman bermain. Saya sangat mencintai keluarga saya.",
+  "glossary": [
+   {
+    "cn": "我",
+    "py": "wǒ",
+    "id": "saya"
+   },
+   {
+    "cn": "家",
+    "py": "jiā",
+    "id": "rumah/keluarga"
+   },
+   {
+    "cn": "有",
+    "py": "yǒu",
+    "id": "punya/ada"
+   },
+   {
+    "cn": "五",
+    "py": "wǔ",
+    "id": "lima"
+   },
+   {
+    "cn": "口",
+    "py": "kǒu",
+    "id": "(kata bantu bilangan anggota keluarga)"
+   },
+   {
+    "cn": "人",
+    "py": "rén",
+    "id": "orang"
+   },
+   {
+    "cn": "爸爸",
+    "py": "bà ba",
+    "id": "(percakapan) ayah"
+   },
+   {
+    "cn": "妈妈",
+    "py": "mā ma",
+    "id": "mama"
+   },
+   {
+    "cn": "哥哥",
+    "py": "gē ge",
+    "id": "kakak laki-laki"
+   },
+   {
+    "cn": "和",
+    "py": "hé",
+    "id": "dan"
+   },
+   {
+    "cn": "妹妹",
+    "py": "mèi mei",
+    "id": "adik perempuan"
+   },
+   {
+    "cn": "每天",
+    "py": "měitiān",
+    "id": "setiap hari"
+   },
+   {
+    "cn": "去",
+    "py": "qù",
+    "id": "pergi"
+   },
+   {
+    "cn": "上班",
+    "py": "shàng bān",
+    "id": "bertugas"
+   },
+   {
+    "cn": "在",
+    "py": "zài",
+    "id": "(dari seseorang atau sesuatu) berada (berlokasi) di"
+   },
+   {
+    "cn": "做饭",
+    "py": "zuò fàn",
+    "id": "menyiapkan makanan"
+   },
+   {
+    "cn": "学校",
+    "py": "xué xiào",
+    "id": "KP:所[suo3]"
+   },
+   {
+    "cn": "学习",
+    "py": "xué xí",
+    "id": "mempelajari"
+   },
+   {
+    "cn": "很",
+    "py": "hěn",
+    "id": "sangat"
+   },
+   {
+    "cn": "小",
+    "py": "xiǎo",
+    "id": "mungil"
+   },
+   {
+    "cn": "还",
+    "py": "hái",
+    "id": "masih/juga"
+   },
+   {
+    "cn": "不",
+    "py": "bù",
+    "id": "(bentuk terikat) tidak"
+   },
+   {
+    "cn": "上学",
+    "py": "shàng xué",
+    "id": "bersekolah"
+   },
+   {
+    "cn": "我们",
+    "py": "wǒ men",
+    "id": "kami"
+   },
+   {
+    "cn": "幸福",
+    "py": "xìng fú",
+    "id": "bahagia"
+   },
+   {
+    "cn": "大家",
+    "py": "dàjiā",
+    "id": "semua orang"
+   },
+   {
+    "cn": "都",
+    "py": "dōu",
+    "id": "semua"
+   },
+   {
+    "cn": "爱",
+    "py": "ài",
+    "id": "kasih sayang"
+   },
+   {
+    "cn": "晚上",
+    "py": "wǎn shang",
+    "id": "malam"
+   },
+   {
+    "cn": "一起",
+    "py": "yī qǐ",
+    "id": "di tempat yang sama"
+   },
+   {
+    "cn": "吃饭",
+    "py": "chī fàn",
+    "id": "makan"
+   },
+   {
+    "cn": "看",
+    "py": "kàn",
+    "id": "melihat"
+   },
+   {
+    "cn": "电视",
+    "py": "diàn shì",
+    "id": "televisi"
+   },
+   {
+    "cn": "星期天",
+    "py": "Xīng qī tiān",
+    "id": "Minggu"
+   },
+   {
+    "cn": "会",
+    "py": "huì",
+    "id": "akan"
+   },
+   {
+    "cn": "带",
+    "py": "dài",
+    "id": "memakai"
+   },
+   {
+    "cn": "公园",
+    "py": "gōng yuán",
+    "id": "KP:座[zuo4]"
+   },
+   {
+    "cn": "玩",
+    "py": "wán",
+    "id": "bermain"
+   },
+   {
+    "cn": "的",
+    "py": "de",
+    "id": "(digunakan setelah atribut ketika memodifikasi kata benda)"
+   },
+   {
+    "cn": "家人",
+    "py": "jiā rén",
+    "id": "anggota keluarga"
+   }
+  ]
+ },
+ {
+  "id": "tema_cuaca_hsk2",
+  "level": 2,
+  "tema": "Cuaca",
+  "title": "今天天气怎么样 (Bagaimana Cuaca Hari Ini)",
+  "text": "今天天气很好，是晴天，天上有一些白云。可是天气预报说，明天会下雨，还会刮风。妈妈让我出门的时候带伞，还要穿外套，因为温度会变低。我不喜欢下雨天，因为下雨的时候不能出去玩。我更喜欢晴天，可以看到太阳，也可以出去运动。冬天的时候，这里有时候会下雪，非常漂亮。不管天气怎么样，我每天都很开心。",
+  "translation": "Hari ini cuacanya sangat bagus, langit cerah, di langit ada beberapa awan putih. Tapi ramalan cuaca bilang, besok akan hujan, dan juga akan berangin. Ibu menyuruh saya membawa payung saat keluar rumah, dan juga harus memakai jaket, karena suhu akan turun. Saya tidak suka hari hujan, karena saat hujan tidak bisa keluar bermain. Saya lebih suka hari cerah, bisa melihat matahari, dan juga bisa berolahraga di luar. Saat musim dingin, di sini kadang-kadang turun salju, sangat indah. Bagaimanapun cuacanya, saya setiap hari selalu bahagia.",
+  "glossary": [
+   {
+    "cn": "今天",
+    "py": "jīn tiān",
+    "id": "hari ini"
+   },
+   {
+    "cn": "天气",
+    "py": "tiān qì",
+    "id": "cuaca"
+   },
+   {
+    "cn": "很",
+    "py": "hěn",
+    "id": "sangat"
+   },
+   {
+    "cn": "好",
+    "py": "hǎo",
+    "id": "(pelengkap kata kerja yang menunjukkan penyelesaian)"
+   },
+   {
+    "cn": "是",
+    "py": "shì",
+    "id": "adalah"
+   },
+   {
+    "cn": "晴天",
+    "py": "qíng tiān",
+    "id": "langit cerah"
+   },
+   {
+    "cn": "天上",
+    "py": "tiān shàng",
+    "id": "langit"
+   },
+   {
+    "cn": "有",
+    "py": "yǒu",
+    "id": "(bentuk terikat) memiliki"
+   },
+   {
+    "cn": "一些",
+    "py": "yī xiē",
+    "id": "beberapa"
+   },
+   {
+    "cn": "白",
+    "py": "Bái",
+    "id": "kosong"
+   },
+   {
+    "cn": "云",
+    "py": "yún",
+    "id": "awan"
+   },
+   {
+    "cn": "可是",
+    "py": "kě shì",
+    "id": "(digunakan untuk penekanan) sungguh"
+   },
+   {
+    "cn": "天气预报",
+    "py": "tiānqì yùbào",
+    "id": "ramalan cuaca"
+   },
+   {
+    "cn": "说",
+    "py": "shuō",
+    "id": "berkata"
+   },
+   {
+    "cn": "明天",
+    "py": "míng tiān",
+    "id": "besok"
+   },
+   {
+    "cn": "会",
+    "py": "huì",
+    "id": "bisa"
+   },
+   {
+    "cn": "下雨",
+    "py": "xià yǔ",
+    "id": "hujan"
+   },
+   {
+    "cn": "还",
+    "py": "Huán",
+    "id": "masih banyak"
+   },
+   {
+    "cn": "刮风",
+    "py": "guā fēng",
+    "id": "berangin"
+   },
+   {
+    "cn": "妈妈",
+    "py": "mā ma",
+    "id": "mama"
+   },
+   {
+    "cn": "让",
+    "py": "ràng",
+    "id": "membuat seseorang (merasa sedih dll)"
+   },
+   {
+    "cn": "我",
+    "py": "wǒ",
+    "id": "saya"
+   },
+   {
+    "cn": "出门",
+    "py": "chūmén",
+    "id": "keluar rumah"
+   },
+   {
+    "cn": "的",
+    "py": "de",
+    "id": "(digunakan setelah atribut ketika memodifikasi kata benda)"
+   },
+   {
+    "cn": "时候",
+    "py": "shí hou",
+    "id": "waktu"
+   },
+   {
+    "cn": "带",
+    "py": "dài",
+    "id": "memakai"
+   },
+   {
+    "cn": "伞",
+    "py": "sǎn",
+    "id": "payung"
+   },
+   {
+    "cn": "要",
+    "py": "yào",
+    "id": "akan/mau"
+   },
+   {
+    "cn": "穿",
+    "py": "chuān",
+    "id": "memakai"
+   },
+   {
+    "cn": "外套",
+    "py": "wài tào",
+    "id": "jaket"
+   },
+   {
+    "cn": "因为",
+    "py": "yīn wèi",
+    "id": "disebabkan oleh"
+   },
+   {
+    "cn": "温度",
+    "py": "wēn dù",
+    "id": "suhu"
+   },
+   {
+    "cn": "变",
+    "py": "biàn",
+    "id": "berubah"
+   },
+   {
+    "cn": "低",
+    "py": "dī",
+    "id": "rendah"
+   },
+   {
+    "cn": "不",
+    "py": "bù",
+    "id": "(bentuk terikat) tidak"
+   },
+   {
+    "cn": "喜欢",
+    "py": "xǐ huan",
+    "id": "menyukai"
+   },
+   {
+    "cn": "天",
+    "py": "tiān",
+    "id": "langit"
+   },
+   {
+    "cn": "不能",
+    "py": "bùnéng",
+    "id": "tidak bisa"
+   },
+   {
+    "cn": "出去",
+    "py": "chū qù",
+    "id": "keluar"
+   },
+   {
+    "cn": "玩",
+    "py": "wán",
+    "id": "bermain"
+   },
+   {
+    "cn": "更",
+    "py": "gèng",
+    "id": "lebih"
+   },
+   {
+    "cn": "可以",
+    "py": "kě yǐ",
+    "id": "mampu"
+   },
+   {
+    "cn": "看",
+    "py": "kān",
+    "id": "bergantung pada"
+   },
+   {
+    "cn": "到",
+    "py": "dào",
+    "id": "ke (suatu tempat)"
+   },
+   {
+    "cn": "太阳",
+    "py": "tài yang",
+    "id": "matahari"
+   },
+   {
+    "cn": "也",
+    "py": "yě",
+    "id": "juga"
+   },
+   {
+    "cn": "运动",
+    "py": "yùn dòng",
+    "id": "gerakan"
+   },
+   {
+    "cn": "冬天",
+    "py": "dōng tiān",
+    "id": "KP:個|个[ge4]"
+   },
+   {
+    "cn": "这里",
+    "py": "zhè lǐ",
+    "id": "varian dari 這裡|这里[zhe4 li3]"
+   },
+   {
+    "cn": "下雪",
+    "py": "xià xuě",
+    "id": "salju"
+   },
+   {
+    "cn": "非常",
+    "py": "fēi cháng",
+    "id": "sangat"
+   },
+   {
+    "cn": "漂亮",
+    "py": "piào liang",
+    "id": "cantik"
+   },
+   {
+    "cn": "不管",
+    "py": "bù guǎn",
+    "id": "tidak masalah"
+   },
+   {
+    "cn": "怎么样",
+    "py": "zěn me yàng",
+    "id": "bagaimana kalau?"
+   },
+   {
+    "cn": "每天",
+    "py": "měitiān",
+    "id": "setiap hari"
+   },
+   {
+    "cn": "都",
+    "py": "Dū",
+    "id": "(digunakan untuk penekanan) bahkan"
+   },
+   {
+    "cn": "开心",
+    "py": "kāi xīn",
+    "id": "merasa bahagia"
+   }
+  ]
+ },
+ {
+  "id": "tema_olahraga_hsk3",
+  "level": 3,
+  "tema": "Olahraga",
+  "title": "篮球比赛 (Pertandingan Basket)",
+  "text": "我很喜欢运动，每个星期都会去打篮球或者踢足球。教练说，运动可以让身体更健康，还能让人心情变好。上个月，我们班和别的班比赛篮球，虽然一开始我们输了，但是大家都不放弃。教练让我们每天多练习，还教我们怎么跟队友配合。经过一个月的锻炼，我们的技术进步了很多。比赛的时候，虽然很累，出了很多汗，但是大家都坚持到最后。最后我们赢了比赛，全队都非常开心。",
+  "translation": "Saya sangat suka berolahraga, setiap minggu selalu pergi main basket atau main bola. Pelatih berkata, olahraga bisa membuat tubuh lebih sehat, dan juga bisa membuat suasana hati membaik. Bulan lalu, kelas kami bertanding basket melawan kelas lain, meski di awal kami kalah, tapi semua orang tidak menyerah. Pelatih menyuruh kami berlatih lebih banyak setiap hari, dan juga mengajari kami cara bekerja sama dengan teman satu tim. Setelah sebulan berlatih, teknik kami banyak berkembang. Saat pertandingan, meski sangat lelah, berkeringat banyak, tapi semua orang bertahan sampai akhir. Akhirnya kami memenangkan pertandingan, seluruh tim sangat senang.",
+  "glossary": [
+   {
+    "cn": "我",
+    "py": "wǒ",
+    "id": "saya"
+   },
+   {
+    "cn": "很",
+    "py": "hěn",
+    "id": "sangat"
+   },
+   {
+    "cn": "喜欢",
+    "py": "xǐ huan",
+    "id": "menyukai"
+   },
+   {
+    "cn": "运动",
+    "py": "yùn dòng",
+    "id": "gerakan"
+   },
+   {
+    "cn": "每个",
+    "py": "měige",
+    "id": "setiap"
+   },
+   {
+    "cn": "星期",
+    "py": "xīng qī",
+    "id": "KP:個|个[ge4]"
+   },
+   {
+    "cn": "都",
+    "py": "Dū",
+    "id": "(digunakan untuk penekanan) bahkan"
+   },
+   {
+    "cn": "会",
+    "py": "huì",
+    "id": "bisa"
+   },
+   {
+    "cn": "去",
+    "py": "qù",
+    "id": "(digunakan setelah kata kerja tertentu untuk menunjukkan keterpisahan atau pemis"
+   },
+   {
+    "cn": "打",
+    "py": "dǎ",
+    "id": "memainkan (olahraga)"
+   },
+   {
+    "cn": "篮球",
+    "py": "lán qiú",
+    "id": "KP:個|个[ge4],隻|只[zhi1]"
+   },
+   {
+    "cn": "或者",
+    "py": "huò zhě",
+    "id": "atau"
+   },
+   {
+    "cn": "踢",
+    "py": "tī",
+    "id": "menendang"
+   },
+   {
+    "cn": "足球",
+    "py": "zú qiú",
+    "id": "bola sepak"
+   },
+   {
+    "cn": "教练",
+    "py": "jiào liàn",
+    "id": "melatih"
+   },
+   {
+    "cn": "说",
+    "py": "shuì",
+    "id": "varian dari 說|说[shuo1]"
+   },
+   {
+    "cn": "可以",
+    "py": "kě yǐ",
+    "id": "mampu"
+   },
+   {
+    "cn": "让",
+    "py": "ràng",
+    "id": "membuat seseorang (merasa sedih dll)"
+   },
+   {
+    "cn": "身体",
+    "py": "shēn tǐ",
+    "id": "kesehatan seseorang"
+   },
+   {
+    "cn": "更",
+    "py": "gēng",
+    "id": "mengganti atau mengganti"
+   },
+   {
+    "cn": "健康",
+    "py": "jiàn kāng",
+    "id": "kesehatan"
+   },
+   {
+    "cn": "还",
+    "py": "Huán",
+    "id": "masih banyak"
+   },
+   {
+    "cn": "能",
+    "py": "Néng",
+    "id": "mampu"
+   },
+   {
+    "cn": "人",
+    "py": "rén",
+    "id": "orang"
+   },
+   {
+    "cn": "心情",
+    "py": "xīnqíng",
+    "id": "suasana hati"
+   },
+   {
+    "cn": "变",
+    "py": "biàn",
+    "id": "pemberontakan"
+   },
+   {
+    "cn": "好",
+    "py": "hǎo",
+    "id": "(pelengkap kata kerja yang menunjukkan penyelesaian)"
+   },
+   {
+    "cn": "上个月",
+    "py": "shàng ge yuè",
+    "id": "bulan lalu"
+   },
+   {
+    "cn": "我们",
+    "py": "wǒ men",
+    "id": "kami"
+   },
+   {
+    "cn": "班",
+    "py": "Bān",
+    "id": "(militer) regu"
+   },
+   {
+    "cn": "和",
+    "py": "hé",
+    "id": "(bentuk terikat) harmonis"
+   },
+   {
+    "cn": "别的",
+    "py": "bié de",
+    "id": "lain"
+   },
+   {
+    "cn": "比赛",
+    "py": "bǐ sài",
+    "id": "pertandingan"
+   },
+   {
+    "cn": "虽然",
+    "py": "suī rán",
+    "id": "meskipun"
+   },
+   {
+    "cn": "一",
+    "py": "yī",
+    "id": "juga diucapkan [yao1] untuk kejelasan yang lebih besar saat mengeja angka digit"
+   },
+   {
+    "cn": "开始",
+    "py": "kāishǐ",
+    "id": "mulai"
+   },
+   {
+    "cn": "输",
+    "py": "shū",
+    "id": "kalah"
+   },
+   {
+    "cn": "了",
+    "py": "le",
+    "id": "(digunakan dengan 得[de2] atau 不[bu4] setelah kata kerja untuk menyatakan ke(tida"
+   },
+   {
+    "cn": "但是",
+    "py": "dàn shì",
+    "id": "tetapi"
+   },
+   {
+    "cn": "大家",
+    "py": "dà jiā",
+    "id": "ahli besar"
+   },
+   {
+    "cn": "不",
+    "py": "bù",
+    "id": "(bentuk terikat) tidak"
+   },
+   {
+    "cn": "放弃",
+    "py": "fàng qì",
+    "id": "menyerah"
+   },
+   {
+    "cn": "每天",
+    "py": "měitiān",
+    "id": "setiap hari"
+   },
+   {
+    "cn": "多",
+    "py": "duō",
+    "id": "(bentuk terikat) multi-"
+   },
+   {
+    "cn": "练习",
+    "py": "liàn xí",
+    "id": "latihan"
+   },
+   {
+    "cn": "教",
+    "py": "Jiào",
+    "id": "mengajar"
+   },
+   {
+    "cn": "怎么",
+    "py": "zěn me",
+    "id": "varian dari 怎麼|怎么[zen3 me5]"
+   },
+   {
+    "cn": "跟",
+    "py": "gēn",
+    "id": "dibandingkan dengan"
+   },
+   {
+    "cn": "队友",
+    "py": "duìyǒu",
+    "id": "teman satu tim"
+   },
+   {
+    "cn": "配合",
+    "py": "pèi hé",
+    "id": "bertindak bersama"
+   },
+   {
+    "cn": "经过",
+    "py": "jīng guò",
+    "id": "proses"
+   },
+   {
+    "cn": "一个月",
+    "py": "yí ge yuè",
+    "id": "satu bulan"
+   },
+   {
+    "cn": "的",
+    "py": "de",
+    "id": "(digunakan setelah atribut ketika memodifikasi kata benda)"
+   },
+   {
+    "cn": "锻炼",
+    "py": "duàn liàn",
+    "id": "menguatkan"
+   },
+   {
+    "cn": "技术",
+    "py": "jì shù",
+    "id": "teknologi"
+   },
+   {
+    "cn": "进步",
+    "py": "jìn bù",
+    "id": "meningkatkan"
+   },
+   {
+    "cn": "时候",
+    "py": "shí hou",
+    "id": "waktu"
+   },
+   {
+    "cn": "累",
+    "py": "lèi",
+    "id": "lelah"
+   },
+   {
+    "cn": "出",
+    "py": "chū",
+    "id": "(digunakan setelah kata kerja untuk menunjukkan arah keluar atau hasil positif)"
+   },
+   {
+    "cn": "汗",
+    "py": "hàn",
+    "id": "keringat"
+   },
+   {
+    "cn": "坚持",
+    "py": "jiān chí",
+    "id": "bersikeras pada"
+   },
+   {
+    "cn": "到",
+    "py": "dào",
+    "id": "ke (suatu tempat)"
+   },
+   {
+    "cn": "最后",
+    "py": "zuì hòu",
+    "id": "terakhir"
+   },
+   {
+    "cn": "赢",
+    "py": "yíng",
+    "id": "menang"
+   },
+   {
+    "cn": "全队",
+    "py": "quánduì",
+    "id": "seluruh tim"
+   },
+   {
+    "cn": "非常",
+    "py": "fēi cháng",
+    "id": "sangat"
+   },
+   {
+    "cn": "开心",
+    "py": "kāi xīn",
+    "id": "merasa bahagia"
+   }
+  ]
+ },
+ {
+  "id": "tema_teknologi_hsk5",
+  "level": 5,
+  "tema": "Teknologi",
+  "title": "科技改变生活 (Teknologi Mengubah Kehidupan)",
+  "text": "现在科技发展得很快，手机已经变成我们生活中最重要的东西之一。不管做什么事情，我们都会用手机上的应用来解决，比如买东西、找路、聊天。最近，人工智能越来越普及，很多软件都能像人一样跟我们对话。虽然人工智能带来很多便利，但也让不少人开始担心隐私问题。因为手机需要收集很多数据，才能提供更智能的服务。有的人觉得，我们越来越依赖科技，反而失去了一些原来的能力，比如记路、算数。不管怎么样，科技已经深深地影响了我们的生活方式。",
+  "translation": "Sekarang teknologi berkembang sangat cepat, ponsel sudah menjadi salah satu benda terpenting dalam hidup kami. Apa pun urusannya, kami selalu memakai aplikasi di ponsel untuk menyelesaikannya, misalnya belanja, mencari jalan, mengobrol. Belakangan ini, kecerdasan buatan semakin populer, banyak perangkat lunak bisa bercakap-cakap dengan kami seperti manusia. Meski kecerdasan buatan membawa banyak kemudahan, tapi juga membuat tidak sedikit orang mulai khawatir soal masalah privasi. Karena ponsel perlu mengumpulkan banyak data, agar bisa memberikan layanan yang lebih pintar. Ada orang yang merasa, kami semakin bergantung pada teknologi, malah kehilangan sebagian kemampuan asli, misalnya mengingat jalan, berhitung. Bagaimanapun, teknologi sudah memengaruhi gaya hidup kami secara mendalam.",
+  "glossary": [
+   {
+    "cn": "现在",
+    "py": "xiàn zài",
+    "id": "sekarang"
+   },
+   {
+    "cn": "科技",
+    "py": "kē jì",
+    "id": "sains dan teknologi"
+   },
+   {
+    "cn": "发展",
+    "py": "fā zhǎn",
+    "id": "berkembang"
+   },
+   {
+    "cn": "得",
+    "py": "dé",
+    "id": "mendapatkan"
+   },
+   {
+    "cn": "很",
+    "py": "hěn",
+    "id": "sangat"
+   },
+   {
+    "cn": "快",
+    "py": "kuài",
+    "id": "senang"
+   },
+   {
+    "cn": "手机",
+    "py": "shǒujī",
+    "id": "ponsel"
+   },
+   {
+    "cn": "已经",
+    "py": "yǐ jīng",
+    "id": "sudah"
+   },
+   {
+    "cn": "变成",
+    "py": "biàn chéng",
+    "id": "menjadi"
+   },
+   {
+    "cn": "我们",
+    "py": "wǒ men",
+    "id": "kami"
+   },
+   {
+    "cn": "生活",
+    "py": "shēng huó",
+    "id": "kehidupan"
+   },
+   {
+    "cn": "中",
+    "py": "zhōng",
+    "id": "di dalam"
+   },
+   {
+    "cn": "最",
+    "py": "zuì",
+    "id": "(setelah 之[zhi1]) contoh terbaik atau paling ekstrem (mis. 世界之最[shi4 jie4 zhi1 z"
+   },
+   {
+    "cn": "重要",
+    "py": "zhòng yào",
+    "id": "penting"
+   },
+   {
+    "cn": "的",
+    "py": "de",
+    "id": "(digunakan setelah atribut ketika memodifikasi kata benda)"
+   },
+   {
+    "cn": "东西",
+    "py": "dōng xī",
+    "id": "orang"
+   },
+   {
+    "cn": "之一",
+    "py": "zhī yī",
+    "id": "salah satu dari (sesuatu)"
+   },
+   {
+    "cn": "不管",
+    "py": "bù guǎn",
+    "id": "tidak masalah"
+   },
+   {
+    "cn": "做",
+    "py": "zuò",
+    "id": "mengambil (sikap atau perilaku)"
+   },
+   {
+    "cn": "什么",
+    "py": "shén me",
+    "id": "apa?"
+   },
+   {
+    "cn": "事情",
+    "py": "shì qing",
+    "id": "KP:件[jian4],樁|桩[zhuang1]"
+   },
+   {
+    "cn": "都",
+    "py": "Dū",
+    "id": "(digunakan untuk penekanan) bahkan"
+   },
+   {
+    "cn": "会",
+    "py": "huì",
+    "id": "bisa"
+   },
+   {
+    "cn": "用",
+    "py": "yòng",
+    "id": "menggunakan"
+   },
+   {
+    "cn": "上",
+    "py": "shàng",
+    "id": "di atas"
+   },
+   {
+    "cn": "应用",
+    "py": "yìng yòng",
+    "id": "(komputasi) aplikasi"
+   },
+   {
+    "cn": "来",
+    "py": "lái",
+    "id": "datang"
+   },
+   {
+    "cn": "解决",
+    "py": "jiě jué",
+    "id": "memecahkan"
+   },
+   {
+    "cn": "比如",
+    "py": "bǐ rú",
+    "id": "misalnya"
+   },
+   {
+    "cn": "买",
+    "py": "mǎi",
+    "id": "membeli"
+   },
+   {
+    "cn": "找路",
+    "py": "zhǎo lù",
+    "id": "mencari jalan"
+   },
+   {
+    "cn": "聊天",
+    "py": "liáo tiān",
+    "id": "mengobrol"
+   },
+   {
+    "cn": "最近",
+    "py": "zuì jìn",
+    "id": "baru-baru ini"
+   },
+   {
+    "cn": "人工智能",
+    "py": "rén gōng zhì néng",
+    "id": "kecerdasan buatan (AI)"
+   },
+   {
+    "cn": "越来越",
+    "py": "yuè lái yuè",
+    "id": "semakin"
+   },
+   {
+    "cn": "普及",
+    "py": "pǔjí",
+    "id": "menyebar luas/populer"
+   },
+   {
+    "cn": "多",
+    "py": "duō",
+    "id": "(bentuk terikat) multi-"
+   },
+   {
+    "cn": "软件",
+    "py": "ruǎn jiàn",
+    "id": "perangkat lunak (komputer)"
+   },
+   {
+    "cn": "能",
+    "py": "Néng",
+    "id": "mampu"
+   },
+   {
+    "cn": "像",
+    "py": "xiàng",
+    "id": "penampilan"
+   },
+   {
+    "cn": "人",
+    "py": "rén",
+    "id": "orang"
+   },
+   {
+    "cn": "一样",
+    "py": "yī yàng",
+    "id": "sama"
+   },
+   {
+    "cn": "跟",
+    "py": "gēn",
+    "id": "dibandingkan dengan"
+   },
+   {
+    "cn": "对话",
+    "py": "duì huà",
+    "id": "dialog"
+   },
+   {
+    "cn": "虽然",
+    "py": "suī rán",
+    "id": "meskipun"
+   },
+   {
+    "cn": "带来",
+    "py": "dài lái",
+    "id": "membawa"
+   },
+   {
+    "cn": "便利",
+    "py": "biàn lì",
+    "id": "nyaman"
+   },
+   {
+    "cn": "但",
+    "py": "dàn",
+    "id": "tetapi"
+   },
+   {
+    "cn": "也",
+    "py": "Yě",
+    "id": "(sastra) partikel yang memiliki fungsi yang mirip dengan 啊[a5]"
+   },
+   {
+    "cn": "让",
+    "py": "ràng",
+    "id": "membuat seseorang (merasa sedih dll)"
+   },
+   {
+    "cn": "不",
+    "py": "bù",
+    "id": "(bentuk terikat) tidak"
+   },
+   {
+    "cn": "少",
+    "py": "shǎo",
+    "id": "berhenti (melakukan sesuatu)"
+   },
+   {
+    "cn": "开始",
+    "py": "kāi shǐ",
+    "id": "KP:個|个[ge4]"
+   },
+   {
+    "cn": "担心",
+    "py": "dān xīn",
+    "id": "cemas"
+   },
+   {
+    "cn": "隐私",
+    "py": "yǐn sī",
+    "id": "rahasia"
+   },
+   {
+    "cn": "问题",
+    "py": "wèn tí",
+    "id": "masalah"
+   },
+   {
+    "cn": "因为",
+    "py": "yīn wèi",
+    "id": "disebabkan oleh"
+   },
+   {
+    "cn": "需要",
+    "py": "xū yào",
+    "id": "membutuhkan"
+   },
+   {
+    "cn": "收集",
+    "py": "shōu jí",
+    "id": "mengumpulkan"
+   },
+   {
+    "cn": "数据",
+    "py": "shù jù",
+    "id": "data"
+   },
+   {
+    "cn": "才",
+    "py": "cái",
+    "id": "baru saja"
+   },
+   {
+    "cn": "提供",
+    "py": "tí gōng",
+    "id": "memberikan"
+   },
+   {
+    "cn": "更",
+    "py": "gēng",
+    "id": "mengganti atau mengganti"
+   },
+   {
+    "cn": "智能",
+    "py": "zhì néng",
+    "id": "pintar"
+   },
+   {
+    "cn": "服务",
+    "py": "fú wù",
+    "id": "layanan"
+   },
+   {
+    "cn": "有的",
+    "py": "yǒu de",
+    "id": "(ada) beberapa (yang...)"
+   },
+   {
+    "cn": "觉得",
+    "py": "jué de",
+    "id": "berpikir bahwa ..."
+   },
+   {
+    "cn": "依赖",
+    "py": "yī lài",
+    "id": "bergantung pada"
+   },
+   {
+    "cn": "反而",
+    "py": "fǎn ér",
+    "id": "sebaliknya"
+   },
+   {
+    "cn": "失去",
+    "py": "shī qù",
+    "id": "hilang"
+   },
+   {
+    "cn": "了",
+    "py": "le",
+    "id": "(digunakan dengan 得[de2] atau 不[bu4] setelah kata kerja untuk menyatakan ke(tida"
+   },
+   {
+    "cn": "一些",
+    "py": "yī xiē",
+    "id": "beberapa"
+   },
+   {
+    "cn": "原来",
+    "py": "yuán lái",
+    "id": "asli"
+   },
+   {
+    "cn": "能力",
+    "py": "nénglì",
+    "id": "kemampuan"
+   },
+   {
+    "cn": "记",
+    "py": "jì",
+    "id": "klasifikasi untuk pukulan, tendangan, tembakan"
+   },
+   {
+    "cn": "路",
+    "py": "lù",
+    "id": "jalan"
+   },
+   {
+    "cn": "算数",
+    "py": "suàn shù",
+    "id": "menghitung angka"
+   },
+   {
+    "cn": "怎么样",
+    "py": "zěn me yàng",
+    "id": "bagaimana kalau?"
+   },
+   {
+    "cn": "深深地",
+    "py": "shēnshēn de",
+    "id": "secara mendalam"
+   },
+   {
+    "cn": "影响",
+    "py": "yǐng xiǎng",
+    "id": "mempengaruhi"
+   },
+   {
+    "cn": "生活方式",
+    "py": "shēnghuó fāngshì",
+    "id": "gaya hidup"
+   }
+  ]
+ }
+]
