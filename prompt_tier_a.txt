@@ -1,0 +1,1047 @@
+Kamu adalah ahli bahasa Mandarin-Indonesia. Tugasmu: untuk SETIAP kata di
+bawah, dan untuk SETIAP kata di dalam daftar "synonyms" dan "antonyms"-nya
+(daftar ini SUDAH DIPASTIKAN BENAR relasinya, JANGAN diubah/ditambah/dikurangi
+kata-nya), tambahkan:
+  1. "pinyin" -- pinyin bertona kata tsb
+  2. "note_id" -- catatan SINGKAT (maks ~8 kata) dalam Bahasa Indonesia yang
+     menjelaskan NUANSA kata itu dibanding kata utama. Untuk sinonim, jelaskan
+     bedanya (register formal/informal, tingkat intensitas, konteks pemakaian).
+     Untuk antonim, cukup terjemahan singkat kata itu sendiri.
+
+Contoh gaya note_id yang diinginkan (dari data yang sudah ada):
+  - 看 -> 望 (sinonim): "menatap jauh ke depan"
+  - 看 -> 瞧 (sinonim): "melihat (informal/percakapan)"
+  - 哭 -> 笑 (antonim): "tertawa, tersenyum"
+  - 早 -> 晚 (antonim): "malam, terlambat"
+
+ATURAN KETAT:
+  - JANGAN mengubah, menambah, atau menghapus kata apapun dari daftar
+    synonyms/antonyms yang diberikan -- HANYA tambahkan pinyin+note_id.
+  - Output HARUS berupa JSON array valid, TIDAK ADA teks lain di luar JSON
+    (tanpa ```json code fence, tanpa penjelasan sebelum/sesudah).
+  - Format setiap item HARUS PERSIS seperti skema di bawah.
+
+Skema output (array of object, satu object per kata utama):
+[
+  {
+    "simplified": "<kata utama, SAMA PERSIS spt input>",
+    "synonyms": [ {"word": "<kata>", "pinyin": "<pinyin>", "note_id": "<catatan>"}, ... ],
+    "antonyms": [ {"word": "<kata>", "pinyin": "<pinyin>", "note_id": "<catatan>"}, ... ]
+  },
+  ...
+]
+
+DATA (60 kata, proses SEMUA):
+[
+  {
+    "simplified": "相信",
+    "pinyin": "xiāng xìn",
+    "meaning_id": "percaya; yakin; menerima sebagai kebenaran",
+    "synonyms": [
+      "信任",
+      "信赖",
+      "确信",
+      "坚信"
+    ],
+    "antonyms": [
+      "怀疑",
+      "质疑",
+      "不信",
+      "猜疑",
+      "疑虑"
+    ]
+  },
+  {
+    "simplified": "努力",
+    "pinyin": "nǔ lì",
+    "meaning_id": "berusaha; bekerja keras; berjuang",
+    "synonyms": [
+      "勤奋",
+      "刻苦",
+      "用功",
+      "奋发"
+    ],
+    "antonyms": [
+      "懒惰",
+      "懈怠",
+      "松懈"
+    ]
+  },
+  {
+    "simplified": "谢谢",
+    "pinyin": "xiè xie",
+    "meaning_id": "berterima kasih",
+    "synonyms": [
+      "感谢",
+      "感激",
+      "道谢",
+      "致谢"
+    ],
+    "antonyms": []
+  },
+  {
+    "simplified": "明显",
+    "pinyin": "míng xiǎn",
+    "meaning_id": "jelas",
+    "synonyms": [
+      "显然",
+      "清晰",
+      "突出",
+      "昭然"
+    ],
+    "antonyms": [
+      "隐约",
+      "模糊",
+      "不显",
+      "暗含"
+    ]
+  },
+  {
+    "simplified": "清楚",
+    "pinyin": "qīng chu",
+    "meaning_id": "jelas",
+    "synonyms": [
+      "清晰",
+      "明白",
+      "明了",
+      "显而易见"
+    ],
+    "antonyms": [
+      "模糊",
+      "含糊",
+      "朦胧",
+      "不清"
+    ]
+  },
+  {
+    "simplified": "理解",
+    "pinyin": "lǐ jiě",
+    "meaning_id": "memahami; mengerti",
+    "synonyms": [
+      "明白",
+      "了解",
+      "体会",
+      "领悟"
+    ],
+    "antonyms": [
+      "误解",
+      "曲解",
+      "困惑",
+      "疑惑"
+    ]
+  },
+  {
+    "simplified": "幸福",
+    "pinyin": "xìng fú",
+    "meaning_id": "kebahagiaan",
+    "synonyms": [
+      "美满",
+      "安康",
+      "快乐",
+      "甜蜜"
+    ],
+    "antonyms": [
+      "痛苦",
+      "悲惨",
+      "不幸",
+      "凄惨"
+    ]
+  },
+  {
+    "simplified": "认真",
+    "pinyin": "rèn zhēn",
+    "meaning_id": "teliti",
+    "synonyms": [
+      "郑重",
+      "严肃",
+      "谨慎",
+      "正经"
+    ],
+    "antonyms": [
+      "马虎",
+      "草率",
+      "轻率",
+      "敷衍"
+    ]
+  },
+  {
+    "simplified": "休息",
+    "pinyin": "xiū xi",
+    "meaning_id": "istirahat",
+    "synonyms": [
+      "歇息",
+      "休养",
+      "放松",
+      "安歇"
+    ],
+    "antonyms": [
+      "工作",
+      "劳动",
+      "忙碌"
+    ]
+  },
+  {
+    "simplified": "美丽",
+    "pinyin": "měi lì",
+    "meaning_id": "cantik",
+    "synonyms": [
+      "漂亮",
+      "好看",
+      "秀丽",
+      "俊美"
+    ],
+    "antonyms": [
+      "丑陋",
+      "难看",
+      "丑"
+    ]
+  },
+  {
+    "simplified": "错误",
+    "pinyin": "cuò wù",
+    "meaning_id": "keliru; salah",
+    "synonyms": [
+      "谬误",
+      "差池",
+      "失当",
+      "失误"
+    ],
+    "antonyms": [
+      "正确",
+      "准确",
+      "无误",
+      "精确"
+    ]
+  },
+  {
+    "simplified": "痛苦",
+    "pinyin": "tòng kǔ",
+    "meaning_id": "rasa sakit",
+    "synonyms": [
+      "疼痛",
+      "悲伤",
+      "惨痛",
+      "折磨"
+    ],
+    "antonyms": [
+      "幸福",
+      "快乐",
+      "美满",
+      "安康"
+    ]
+  },
+  {
+    "simplified": "讨厌",
+    "pinyin": "tǎo yàn",
+    "meaning_id": "tidak menyukai",
+    "synonyms": [
+      "厌恶",
+      "反感",
+      "憎恶",
+      "嫌弃"
+    ],
+    "antonyms": [
+      "喜欢",
+      "喜爱",
+      "爱好",
+      "钟情"
+    ]
+  },
+  {
+    "simplified": "麻烦",
+    "pinyin": "má fan",
+    "meaning_id": "masalah; ketidaknyamanan",
+    "synonyms": [
+      "不便",
+      "繁琐",
+      "费事",
+      "头疼"
+    ],
+    "antonyms": [
+      "方便",
+      "便利",
+      "便捷",
+      "顺手"
+    ]
+  },
+  {
+    "simplified": "破坏",
+    "pinyin": "pò huài",
+    "meaning_id": "penghancuran",
+    "synonyms": [
+      "摧毁",
+      "损坏",
+      "毁灭",
+      "毁坏"
+    ],
+    "antonyms": [
+      "保护",
+      "维护",
+      "保障",
+      "爱护"
+    ]
+  },
+  {
+    "simplified": "怀疑",
+    "pinyin": "huái yí",
+    "meaning_id": "meragukan (sesuatu); bersikap skeptis terhadap",
+    "synonyms": [
+      "猜疑",
+      "疑虑",
+      "疑惑",
+      "质疑"
+    ],
+    "antonyms": [
+      "相信",
+      "信任",
+      "信赖",
+      "确信"
+    ]
+  },
+  {
+    "simplified": "激动",
+    "pinyin": "jī dòng",
+    "meaning_id": "tergerak secara emosional",
+    "synonyms": [
+      "冲动",
+      "激昂",
+      "振奋",
+      "冲动"
+    ],
+    "antonyms": [
+      "平静",
+      "冷静",
+      "沉着",
+      "淡定"
+    ]
+  },
+  {
+    "simplified": "合理",
+    "pinyin": "hé lǐ",
+    "meaning_id": "rasional; masuk akal; bijaksana; adil",
+    "synonyms": [
+      "得当",
+      "适宜",
+      "适度",
+      "合适"
+    ],
+    "antonyms": [
+      "无理",
+      "荒唐",
+      "荒谬",
+      "悖理"
+    ]
+  },
+  {
+    "simplified": "方便",
+    "pinyin": "fāng biàn",
+    "meaning_id": "nyaman; cocok",
+    "synonyms": [
+      "便利",
+      "便捷",
+      "顺手",
+      "便民"
+    ],
+    "antonyms": [
+      "麻烦",
+      "不便",
+      "繁琐",
+      "费事"
+    ]
+  },
+  {
+    "simplified": "回忆",
+    "pinyin": "huí yì",
+    "meaning_id": "mengingat",
+    "synonyms": [
+      "回想",
+      "追忆",
+      "怀旧",
+      "追溯"
+    ],
+    "antonyms": [
+      "遗忘",
+      "忘记",
+      "忘却",
+      "失忆"
+    ]
+  },
+  {
+    "simplified": "熟悉",
+    "pinyin": "shú xī",
+    "meaning_id": "akrab dengan; mengenal dengan baik",
+    "synonyms": [
+      "熟识",
+      "了解",
+      "熟知",
+      "精通"
+    ],
+    "antonyms": [
+      "陌生",
+      "生疏",
+      "不熟悉"
+    ]
+  },
+  {
+    "simplified": "合适",
+    "pinyin": "hé shì",
+    "meaning_id": "cocok; sesuai; pantas",
+    "synonyms": [
+      "恰当",
+      "适当",
+      "适合",
+      "妥当"
+    ],
+    "antonyms": [
+      "不合适",
+      "不恰当",
+      "失当",
+      "不当"
+    ]
+  },
+  {
+    "simplified": "仔细",
+    "pinyin": "zǐ xì",
+    "meaning_id": "hati-hati; penuh perhatian",
+    "synonyms": [
+      "细致",
+      "认真",
+      "谨慎",
+      "周密"
+    ],
+    "antonyms": [
+      "马虎",
+      "粗心",
+      "草率",
+      "轻率"
+    ]
+  },
+  {
+    "simplified": "放松",
+    "pinyin": "fàng sōng",
+    "meaning_id": "bersantai; mengendurkan; melonggarkan",
+    "synonyms": [
+      "舒缓",
+      "松弛",
+      "安心",
+      "放心"
+    ],
+    "antonyms": [
+      "紧张",
+      "焦虑",
+      "着急",
+      "恐慌"
+    ]
+  },
+  {
+    "simplified": "进步",
+    "pinyin": "jìn bù",
+    "meaning_id": "kemajuan; peningkatan",
+    "synonyms": [
+      "发展",
+      "前进",
+      "突破",
+      "改进"
+    ],
+    "antonyms": [
+      "退步",
+      "落后",
+      "退化",
+      "停滞"
+    ]
+  },
+  {
+    "simplified": "安静",
+    "pinyin": "ān jìng",
+    "meaning_id": "tenang",
+    "synonyms": [
+      "宁静",
+      "恬静",
+      "安谧",
+      "肃静"
+    ],
+    "antonyms": [
+      "吵闹",
+      "喧哗",
+      "嘈杂",
+      "喧闹"
+    ]
+  },
+  {
+    "simplified": "深刻",
+    "pinyin": "shēn kè",
+    "meaning_id": "mendalam",
+    "synonyms": [
+      "深切",
+      "深厚",
+      "浓厚",
+      "强烈"
+    ],
+    "antonyms": [
+      "肤浅",
+      "浅薄",
+      "表面",
+      "微弱"
+    ]
+  },
+  {
+    "simplified": "坚强",
+    "pinyin": "jiān qiáng",
+    "meaning_id": "kukuh",
+    "synonyms": [
+      "坚毅",
+      "刚强",
+      "顽强",
+      "坚韧"
+    ],
+    "antonyms": [
+      "软弱",
+      "脆弱",
+      "怯懦",
+      "动摇"
+    ]
+  },
+  {
+    "simplified": "难过",
+    "pinyin": "nán guò",
+    "meaning_id": "merasa sedih",
+    "synonyms": [
+      "悲伤",
+      "伤心",
+      "痛苦",
+      "哀伤"
+    ],
+    "antonyms": [
+      "高兴",
+      "愉快",
+      "开心",
+      "快乐"
+    ]
+  },
+  {
+    "simplified": "丰富",
+    "pinyin": "fēng fù",
+    "meaning_id": "memperkaya",
+    "synonyms": [
+      "丰盛",
+      "充裕",
+      "富饶",
+      "繁多"
+    ],
+    "antonyms": [
+      "贫乏",
+      "匮乏",
+      "单调",
+      "单一"
+    ]
+  },
+  {
+    "simplified": "温暖",
+    "pinyin": "wēn nuǎn",
+    "meaning_id": "hangat",
+    "synonyms": [
+      "暖和",
+      "温馨",
+      "温煦",
+      "和煦"
+    ],
+    "antonyms": [
+      "寒冷",
+      "冰凉",
+      "冰冷",
+      "严寒"
+    ]
+  },
+  {
+    "simplified": "矛盾",
+    "pinyin": "máo dùn",
+    "meaning_id": "kontradiksi",
+    "synonyms": [
+      "冲突",
+      "抵触",
+      "对立",
+      "纠葛"
+    ],
+    "antonyms": [
+      "和谐",
+      "融洽",
+      "一致",
+      "协调"
+    ]
+  },
+  {
+    "simplified": "准确",
+    "pinyin": "zhǔn què",
+    "meaning_id": "akurat; tepat; presisi",
+    "synonyms": [
+      "精确",
+      "精准",
+      "无误",
+      "正确"
+    ],
+    "antonyms": [
+      "错误",
+      "谬误",
+      "失准",
+      "偏差"
+    ]
+  },
+  {
+    "simplified": "平静",
+    "pinyin": "píng jìng",
+    "meaning_id": "tenang",
+    "synonyms": [
+      "宁静",
+      "安静",
+      "平和",
+      "安稳"
+    ],
+    "antonyms": [
+      "激动",
+      "动荡",
+      "激动",
+      "嘈杂"
+    ]
+  },
+  {
+    "simplified": "黑暗",
+    "pinyin": "hēi àn",
+    "meaning_id": "gelap",
+    "synonyms": [
+      "昏暗",
+      "暗淡",
+      "漆黑",
+      "朦胧"
+    ],
+    "antonyms": [
+      "明亮",
+      "光明",
+      "璀璨",
+      "明媚"
+    ]
+  },
+  {
+    "simplified": "悲伤",
+    "pinyin": "bēi shāng",
+    "meaning_id": "sedih; berduka",
+    "synonyms": [
+      "悲痛",
+      "哀伤",
+      "伤感",
+      "忧郁"
+    ],
+    "antonyms": [
+      "快乐",
+      "愉快",
+      "欢喜",
+      "喜悦"
+    ]
+  },
+  {
+    "simplified": "耐心",
+    "pinyin": "nài xīn",
+    "meaning_id": "sabar",
+    "synonyms": [
+      "耐性",
+      "忍性",
+      "毅力",
+      "恒心"
+    ],
+    "antonyms": [
+      "急躁",
+      "焦躁",
+      "不耐",
+      "焦虑"
+    ]
+  },
+  {
+    "simplified": "和谐",
+    "pinyin": "hé xié",
+    "meaning_id": "harmonis",
+    "synonyms": [
+      "融洽",
+      "协调",
+      "和睦",
+      "和顺"
+    ],
+    "antonyms": [
+      "矛盾",
+      "冲突",
+      "对立",
+      "抵触"
+    ]
+  },
+  {
+    "simplified": "陌生",
+    "pinyin": "mò shēng",
+    "meaning_id": "asing; tidak dikenal",
+    "synonyms": [
+      "生疏",
+      "不熟",
+      "新奇",
+      "新颖"
+    ],
+    "antonyms": [
+      "熟悉",
+      "熟识",
+      "了解",
+      "熟知"
+    ]
+  },
+  {
+    "simplified": "脆弱",
+    "pinyin": "cuì ruò",
+    "meaning_id": "lemah",
+    "synonyms": [
+      "软弱",
+      "娇弱",
+      "单薄",
+      "易碎"
+    ],
+    "antonyms": [
+      "坚强",
+      "坚毅",
+      "刚强",
+      "顽强"
+    ]
+  },
+  {
+    "simplified": "模糊",
+    "pinyin": "mó hu",
+    "meaning_id": "samar",
+    "synonyms": [
+      "含糊",
+      "朦胧",
+      "不清",
+      "隐约"
+    ],
+    "antonyms": [
+      "清楚",
+      "清晰",
+      "明了",
+      "显而易见"
+    ]
+  },
+  {
+    "simplified": "诚实",
+    "pinyin": "chéng shí",
+    "meaning_id": "jujur",
+    "synonyms": [
+      "真诚",
+      "守信",
+      "坦率",
+      "诚恳"
+    ],
+    "antonyms": [
+      "虚伪",
+      "欺骗",
+      "狡诈",
+      "虚假"
+    ]
+  },
+  {
+    "simplified": "遗忘",
+    "pinyin": "yí wàng",
+    "meaning_id": "lupa; berhenti memikirkan (seseorang atau sesuatu) lagi",
+    "synonyms": [
+      "忘记",
+      "忘却",
+      "淡忘",
+      "失忆"
+    ],
+    "antonyms": [
+      "回忆",
+      "回想",
+      "追忆",
+      "铭记"
+    ]
+  },
+  {
+    "simplified": "灵活",
+    "pinyin": "líng huó",
+    "meaning_id": "fleksibel",
+    "synonyms": [
+      "灵便",
+      "机灵",
+      "聪明",
+      "变通"
+    ],
+    "antonyms": [
+      "呆板",
+      "愚钝",
+      "笨拙",
+      "死板"
+    ]
+  },
+  {
+    "simplified": "精确",
+    "pinyin": "jīng què",
+    "meaning_id": "akurat; presisi",
+    "synonyms": [
+      "准确",
+      "精准",
+      "周密",
+      "严谨"
+    ],
+    "antonyms": [
+      "粗陋",
+      "粗略",
+      "不精",
+      "含混"
+    ]
+  },
+  {
+    "simplified": "寒冷",
+    "pinyin": "hán lěng",
+    "meaning_id": "dingin (cuaca)",
+    "synonyms": [
+      "冰凉",
+      "冰冷",
+      "严寒",
+      "凛冽"
+    ],
+    "antonyms": [
+      "温暖",
+      "暖和",
+      "温馨",
+      "温煦"
+    ]
+  },
+  {
+    "simplified": "误解",
+    "pinyin": "wù jiě",
+    "meaning_id": "salah paham",
+    "synonyms": [
+      "曲解",
+      "误会",
+      "冤枉",
+      "错觉"
+    ],
+    "antonyms": [
+      "理解",
+      "明白",
+      "了解",
+      "清楚"
+    ]
+  },
+  {
+    "simplified": "消极",
+    "pinyin": "xiāo jí",
+    "meaning_id": "negatif; pasif; tidak aktif",
+    "synonyms": [
+      "被动",
+      "消沉",
+      "怠惰",
+      "冷淡"
+    ],
+    "antonyms": [
+      "积极",
+      "主动",
+      "踊跃",
+      "热烈"
+    ]
+  },
+  {
+    "simplified": "软弱",
+    "pinyin": "ruǎn ruò",
+    "meaning_id": "lemah",
+    "synonyms": [
+      "脆弱",
+      "怯懦",
+      "懦弱",
+      "动摇"
+    ],
+    "antonyms": [
+      "坚强",
+      "坚毅",
+      "刚强",
+      "顽强"
+    ]
+  },
+  {
+    "simplified": "虚伪",
+    "pinyin": "xū wěi",
+    "meaning_id": "palsu",
+    "synonyms": [
+      "虚假",
+      "做作",
+      "矫饰",
+      "装模作样"
+    ],
+    "antonyms": [
+      "诚实",
+      "真诚",
+      "坦率",
+      "诚恳"
+    ]
+  },
+  {
+    "simplified": "明亮",
+    "pinyin": "míng liàng",
+    "meaning_id": "terang",
+    "synonyms": [
+      "光亮",
+      "光明",
+      "明媚",
+      "璀璨"
+    ],
+    "antonyms": [
+      "黑暗",
+      "昏暗",
+      "暗淡",
+      "朦胧"
+    ]
+  },
+  {
+    "simplified": "胆小",
+    "pinyin": "dǎn xiǎo",
+    "meaning_id": "pengecut",
+    "synonyms": [
+      "怯懦",
+      "畏缩",
+      "胆怯",
+      "怕事"
+    ],
+    "antonyms": [
+      "勇敢",
+      "英勇",
+      "骁勇",
+      "刚毅"
+    ]
+  },
+  {
+    "simplified": "懒惰",
+    "pinyin": "lǎn duò",
+    "meaning_id": "malas",
+    "synonyms": [
+      "懈怠",
+      "松散",
+      "怠慢"
+    ],
+    "antonyms": [
+      "努力",
+      "勤奋",
+      "刻苦",
+      "用功"
+    ]
+  },
+  {
+    "simplified": "急躁",
+    "pinyin": "jí zào",
+    "meaning_id": "mudah marah; pemarah",
+    "synonyms": [
+      "焦躁",
+      "烦躁",
+      "暴躁",
+      "急切"
+    ],
+    "antonyms": [
+      "耐心",
+      "沉着",
+      "冷静",
+      "稳重"
+    ]
+  },
+  {
+    "simplified": "次要",
+    "pinyin": "cì yào",
+    "meaning_id": "sekunder",
+    "synonyms": [
+      "无关",
+      "可有可无",
+      "不紧要",
+      "非必须"
+    ],
+    "antonyms": [
+      "重要",
+      "主要",
+      "关键",
+      "重大"
+    ]
+  },
+  {
+    "simplified": "隐约",
+    "pinyin": "yǐn yuē",
+    "meaning_id": "samar; redup; tidak jelas",
+    "synonyms": [
+      "模糊",
+      "朦胧",
+      "若隐若现",
+      "依稀"
+    ],
+    "antonyms": [
+      "明显",
+      "清晰",
+      "突出",
+      "昭然"
+    ]
+  },
+  {
+    "simplified": "马虎",
+    "pinyin": "mǎ hu",
+    "meaning_id": "ceroboh",
+    "synonyms": [
+      "草率",
+      "轻率",
+      "敷衍",
+      "粗心"
+    ],
+    "antonyms": [
+      "认真",
+      "郑重",
+      "谨慎",
+      "仔细"
+    ]
+  },
+  {
+    "simplified": "退步",
+    "pinyin": "tuì bù",
+    "meaning_id": "menjadi lebih buruk dari sebelumnya",
+    "synonyms": [
+      "落后",
+      "退化",
+      "退行",
+      "衰退"
+    ],
+    "antonyms": [
+      "进步",
+      "发展",
+      "前进",
+      "突破"
+    ]
+  },
+  {
+    "simplified": "粗心",
+    "pinyin": "cū xīn",
+    "meaning_id": "ceroboh",
+    "synonyms": [
+      "马虎",
+      "大意",
+      "疏忽",
+      "不慎"
+    ],
+    "antonyms": [
+      "仔细",
+      "细致",
+      "认真",
+      "谨慎"
+    ]
+  },
+  {
+    "simplified": "贫乏",
+    "pinyin": "pín fá",
+    "meaning_id": "miskin",
+    "synonyms": [
+      "匮乏",
+      "贫困",
+      "干涸",
+      "干瘪"
+    ],
+    "antonyms": [
+      "丰富",
+      "丰盛",
+      "充裕",
+      "富饶"
+    ]
+  }
+]
