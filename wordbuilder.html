@@ -1,0 +1,1706 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Word Builder — Mandarin Interaktif</title>
+  <link rel="stylesheet" href="shared/style.css" />
+  <script src="shared/core.js"></script>
+<script src="shared/pinyin.js"></script>
+<script src="shared/audio.js"></script>
+<script src="shared/srs.js"></script>
+  <style>
+    /* ═══════════════════════════════════════════════════
+       CSS LOKAL wordbuilder.html
+    ═══════════════════════════════════════════════════ */
+
+    /* ── LAYOUT 2-PANEL (sidebar + main) ──────────────── */
+    .wb-layout {
+      display: flex;
+      height: 100vh;
+      padding-top: var(--nav-h);
+      overflow: hidden;
+    }
+
+    /* ── SIDEBAR POLA ──────────────────────────────────── */
+    .wb-sidebar {
+      width: 220px;
+      flex-shrink: 0;
+      background: #111110;
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .wb-sidebar-inner {
+      flex: 1;
+      overflow-y: auto;
+      padding: 14px 10px;
+    }
+
+    /* ── AREA UTAMA ────────────────────────────────────── */
+    .wb-main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      min-width: 0;
+    }
+
+    /* ── TOPBAR: nama pola aktif ───────────────────────── */
+    .wb-topbar {
+      padding: 13px 20px 11px;
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 9px;
+    }
+
+    .wb-topbar-titlerow {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .wb-pattern-name {
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--text-main);
+    }
+
+    .wb-pattern-formula {
+      font-size: 0.78rem;
+      color: var(--gold-dim);
+      font-family: monospace;
+      letter-spacing: 0.04em;
+    }
+
+    .wb-topbar-actions {
+      display: flex;
+      gap: 8px;
+      flex-shrink: 0;
+    }
+
+    /* Tip sintaksis kini tampil di header (digabung judul), bukan di
+       tengah konten -- versi lebih ringkas dari .wb-tip aslinya */
+    .wb-topbar .wb-tip {
+      padding: 8px 12px;
+      font-size: 0.78rem;
+    }
+
+    /* ── AREA SCROLL KONTEN ────────────────────────────── */
+    .wb-content {
+      flex: 1;
+      overflow-y: auto;
+      padding: 20px 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    /* ── SECTION BUILDER ───────────────────────────────── */
+    .wb-section {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 18px 20px;
+    }
+
+    .wb-section-title {
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--text-muted);
+      margin-bottom: 14px;
+    }
+
+    /* ── SLOT ROW (dropdown komponen kalimat) ──────────── */
+    .wb-slot-row {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: flex-end;
+      margin-bottom: 6px;
+    }
+
+    .wb-slot {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      min-width: 90px;
+    }
+
+    .wb-slot-label {
+      font-size: 0.67rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      white-space: nowrap;
+    }
+
+    .wb-slot-label .slot-required {
+      color: var(--red);
+      margin-left: 2px;
+    }
+
+    .wb-slot-label .slot-optional {
+      color: var(--text-muted);
+      font-size: 0.6rem;
+      margin-left: 2px;
+    }
+
+    .wb-select {
+      background: var(--bg-input);
+      color: var(--text-main);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 7px 10px;
+      font-size: 1rem;
+      transition: border-color var(--transition);
+      cursor: pointer;
+      min-width: 90px;
+    }
+
+    .wb-select:hover,
+    .wb-select:focus {
+      border-color: var(--gold-dim);
+      outline: none;
+    }
+
+    .wb-select option {
+      background: var(--bg-card2);
+      color: var(--text-main);
+      font-size: 0.9rem;
+    }
+
+    /* Slot opsional: border putus-putus */
+    .wb-slot.optional .wb-select {
+      border-style: dashed;
+      opacity: 0.8;
+    }
+
+    .wb-slot.optional .wb-select:hover,
+    .wb-slot.optional .wb-select:focus {
+      opacity: 1;
+      border-style: solid;
+      border-color: var(--gold-dim);
+    }
+
+    /* Pemisah antar grup slot */
+    .wb-slot-sep {
+      display: flex;
+      align-items: flex-end;
+      padding-bottom: 9px;
+      color: var(--text-muted);
+      font-size: 1rem;
+      flex-shrink: 0;
+    }
+
+    /* ── OUTPUT KALIMAT + TOOLBAR SAMPING ──────────────── */
+    .wb-output-row {
+      display: flex;
+      align-items: stretch;
+      gap: 10px;
+    }
+
+    .wb-output-row .wb-output {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .wb-output-tools {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      flex-shrink: 0;
+      padding: 4px 2px;
+    }
+
+    .wb-output {
+      background: var(--bg-card2);
+      border: 1px solid var(--border-gold);
+      border-radius: var(--radius-lg);
+      padding: 22px 24px;
+      text-align: center;
+      position: relative;
+      min-height: 110px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+    }
+
+    .wb-output-chinese {
+      font-size: 2rem;
+      color: var(--text-main);
+      font-weight: 300;
+      letter-spacing: 3px;
+      line-height: 1.2;
+    }
+
+    .wb-output-pinyin {
+      font-size: 1rem;
+      color: var(--gold);
+      letter-spacing: 2px;
+    }
+
+    .wb-output-translation {
+      font-size: 0.88rem;
+      color: var(--text-dim);
+      margin-top: 2px;
+    }
+
+    /* Placeholder saat belum lengkap */
+    .wb-output-placeholder {
+      color: var(--text-muted);
+      font-size: 0.85rem;
+      font-style: italic;
+    }
+
+    /* Tombol copy -- dulu absolute di sudut output, sekarang jadi bagian
+       toolbar di samping (.wb-output-tools) supaya tidak menutupi teks */
+    .wb-copy-btn {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      padding: 3px 8px;
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      transition: all var(--transition);
+      background: var(--bg-card2);
+      white-space: nowrap;
+    }
+
+    .wb-copy-btn:hover {
+      color: var(--gold);
+      border-color: var(--gold-dim);
+    }
+
+    /* ── TOMBOL AKSI ───────────────────────────────────── */
+    .wb-actions {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .btn-wb {
+      padding: 8px 18px;
+      border-radius: var(--radius);
+      font-size: 0.83rem;
+      font-weight: 500;
+      transition: all var(--transition);
+      border: 1px solid transparent;
+    }
+
+    .btn-wb-primary {
+      background: var(--gold-bg);
+      border-color: var(--gold-dim);
+      color: var(--gold);
+    }
+
+    .btn-wb-primary:hover {
+      background: var(--gold-bg-hover);
+    }
+
+    .btn-wb-secondary {
+      background: var(--bg-card2);
+      border-color: var(--border);
+      color: var(--text-dim);
+    }
+
+    .btn-wb-secondary:hover {
+      color: var(--text-main);
+      border-color: var(--text-muted);
+    }
+
+    .btn-wb-danger {
+      background: var(--red-bg);
+      border-color: rgba(192,57,43,0.35);
+      color: var(--red);
+    }
+
+    .btn-wb-danger:hover {
+      filter: brightness(1.15);
+    }
+
+    /* ── TIP / CATATAN SINTAKSIS ───────────────────────── */
+    .wb-tip {
+      background: rgba(201, 168, 76, 0.06);
+      border: 1px solid var(--border-gold);
+      border-radius: var(--radius);
+      padding: 11px 14px;
+      font-size: 0.82rem;
+      color: var(--text-dim);
+      line-height: 1.6;
+    }
+
+    .wb-tip strong {
+      color: var(--gold);
+      font-weight: 500;
+    }
+
+    /* ── PENJELASAN LENGKAP (accordion) ────────────────── */
+    .wb-explain-toggle {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 100%;
+      background: var(--bg-card2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 10px 14px;
+      cursor: pointer;
+      color: var(--text);
+      font-size: 0.85rem;
+      font-weight: 500;
+      user-select: none;
+    }
+
+    .wb-explain-toggle:hover {
+      border-color: var(--border-gold);
+    }
+
+    .wb-explain-chevron {
+      transition: transform 0.2s ease;
+      color: var(--gold);
+      font-size: 0.8rem;
+    }
+
+    .wb-explain-toggle.open .wb-explain-chevron {
+      transform: rotate(90deg);
+    }
+
+    .wb-explain-panel {
+      display: none;
+      flex-direction: column;
+      gap: 14px;
+      margin-top: 10px;
+      padding: 14px;
+      background: rgba(201, 168, 76, 0.04);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+    }
+
+    .wb-explain-panel.open {
+      display: flex;
+    }
+
+    .wb-explain-block-title {
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--gold);
+      margin-bottom: 4px;
+      font-weight: 600;
+    }
+
+    .wb-explain-text {
+      font-size: 0.82rem;
+      line-height: 1.65;
+      color: var(--text-dim);
+    }
+
+    .wb-mistake-card {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      background: var(--bg-card2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 10px 12px;
+      margin-bottom: 8px;
+    }
+
+    .wb-mistake-card:last-child {
+      margin-bottom: 0;
+    }
+
+    .wb-mistake-wrong, .wb-mistake-right {
+      font-size: 0.82rem;
+      line-height: 1.5;
+    }
+
+    .wb-mistake-wrong {
+      color: #d97070;
+    }
+
+    .wb-mistake-right {
+      color: #7ac47a;
+    }
+
+    .wb-mistake-note {
+      font-size: 0.78rem;
+      color: var(--text-dim);
+      line-height: 1.5;
+      margin-top: 2px;
+    }
+
+    /* ── SPOT-THE-ERROR (Tier 3) ────────────────────────── */
+    .wb-spot-scope-toggle {
+      display: flex;
+      gap: 6px;
+      margin-bottom: 10px;
+    }
+
+    .wb-spot-scope-btn {
+      flex: 1;
+      padding: 5px 8px;
+      font-size: 0.76rem;
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      background: var(--bg-card2);
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: all var(--transition);
+    }
+
+    .wb-spot-scope-btn.active {
+      background: var(--gold-bg);
+      border-color: var(--gold-dim);
+      color: var(--gold);
+    }
+
+    .wb-spot-progress {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      margin-bottom: 8px;
+      text-align: right;
+    }
+
+    .wb-spot-card {
+      background: var(--bg-card2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 12px 14px;
+      margin-bottom: 10px;
+    }
+
+    .wb-spot-card:last-child {
+      margin-bottom: 0;
+    }
+
+    .wb-spot-instruction {
+      font-size: 0.76rem;
+      color: var(--text-muted);
+      margin-bottom: 8px;
+    }
+
+    .wb-spot-sentence {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 2px;
+      margin-bottom: 10px;
+    }
+
+    .wb-spot-char {
+      font-size: 1.3rem;
+      padding: 3px 6px;
+      border-radius: 4px;
+      border: 1px solid transparent;
+      cursor: pointer;
+      transition: all var(--transition);
+      color: var(--text-main);
+    }
+
+    .wb-spot-char:hover {
+      background: var(--bg-card);
+      border-color: var(--border);
+    }
+
+    .wb-spot-char.selected {
+      background: var(--gold-bg);
+      border-color: var(--gold-dim);
+      color: var(--gold);
+    }
+
+    .wb-spot-char.disabled {
+      cursor: default;
+    }
+
+    .wb-spot-char.mark-correct {
+      background: rgba(88, 166, 88, 0.18);
+      border-color: rgba(88, 166, 88, 0.5);
+      color: #7ac47a;
+    }
+
+    .wb-spot-char.mark-missed {
+      background: rgba(88, 166, 88, 0.08);
+      border-color: rgba(88, 166, 88, 0.35);
+      border-style: dashed;
+      color: #7ac47a;
+    }
+
+    .wb-spot-char.mark-off {
+      background: rgba(217, 112, 112, 0.1);
+      border-color: rgba(217, 112, 112, 0.35);
+      color: #d97070;
+    }
+
+    .wb-spot-controls {
+      display: flex;
+      gap: 8px;
+    }
+
+    .wb-spot-feedback {
+      margin-top: 10px;
+    }
+
+    .wb-spot-feedback-status {
+      font-size: 0.84rem;
+      font-weight: 600;
+      margin-bottom: 6px;
+    }
+
+    .wb-spot-feedback-status.ok   { color: #7ac47a; }
+    .wb-spot-feedback-status.miss { color: #d9a870; }
+
+    .wb-spot-feedback-benar {
+      font-size: 1.1rem;
+      color: var(--gold);
+      margin-bottom: 4px;
+    }
+
+    .wb-spot-feedback-pinyin {
+      font-size: 0.82rem;
+      color: var(--text-dim);
+      font-style: italic;
+      margin-bottom: 6px;
+    }
+
+    .wb-spot-feedback-note {
+      font-size: 0.8rem;
+      color: var(--text-dim);
+      line-height: 1.5;
+      margin-bottom: 8px;
+    }
+
+    .wb-spot-source-pattern {
+      font-size: 0.7rem;
+      color: var(--text-muted);
+      margin-bottom: 6px;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+
+    .wb-related-wrap {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .wb-related-badge {
+      background: var(--bg-card2);
+      border: 1px solid var(--border-gold);
+      border-radius: 999px;
+      padding: 5px 12px;
+      font-size: 0.78rem;
+      color: var(--gold);
+      cursor: pointer;
+    }
+
+    .wb-related-badge:hover {
+      background: rgba(201, 168, 76, 0.12);
+    }
+
+    .wb-related-reason {
+      display: block;
+      font-size: 0.72rem;
+      color: var(--text-dim);
+      margin-top: 2px;
+    }
+
+    /* ── KOLEKSI TERSIMPAN (nav button + modal) ─────────── */
+    .nav-collection-btn {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--bg-card2);
+      border: 1px solid var(--border-gold);
+      border-radius: var(--radius);
+      padding: 6px 12px;
+      color: var(--gold);
+      font-size: 0.82rem;
+      cursor: pointer;
+      margin-left: auto;
+    }
+
+    .nav-collection-btn:hover {
+      background: rgba(201, 168, 76, 0.1);
+    }
+
+    .nav-collection-count {
+      background: var(--gold);
+      color: #1a1a1a;
+      border-radius: 999px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      padding: 1px 7px;
+      min-width: 18px;
+      text-align: center;
+    }
+
+    .nav-backup-btn {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--bg-card2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 6px 12px;
+      color: var(--text-dim);
+      font-size: 0.82rem;
+      cursor: pointer;
+    }
+
+    .nav-backup-btn:hover {
+      border-color: var(--border-gold);
+      color: var(--gold);
+    }
+
+    .wb-modal-backdrop {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.55);
+      z-index: 1000;
+      align-items: flex-start;
+      justify-content: center;
+      padding: 5vh 20px;
+      overflow-y: auto;
+    }
+
+    .wb-modal-backdrop.open {
+      display: flex;
+    }
+
+    .wb-modal {
+      background: var(--bg-card);
+      border: 1px solid var(--border-gold);
+      border-radius: var(--radius);
+      width: 100%;
+      max-width: 640px;
+      max-height: 90vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .wb-modal-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .wb-modal-header h3 {
+      margin: 0;
+      font-size: 1rem;
+      color: var(--text);
+    }
+
+    .wb-modal-close {
+      background: none;
+      border: none;
+      color: var(--text-dim);
+      font-size: 1.3rem;
+      cursor: pointer;
+      line-height: 1;
+      padding: 2px 6px;
+    }
+
+    .wb-modal-close:hover {
+      color: var(--text);
+    }
+
+    .wb-modal-body {
+      padding: 16px 20px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .wb-modal-footer {
+      padding: 12px 20px;
+      border-top: 1px solid var(--border);
+      display: flex;
+      justify-content: flex-end;
+    }
+
+    .wb-collection-card {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 10px;
+      background: var(--bg-card2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 10px 12px;
+      cursor: pointer;
+    }
+
+    .wb-collection-card:hover {
+      border-color: var(--border-gold);
+    }
+
+    .wb-collection-info {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .wb-collection-pattern {
+      font-size: 0.7rem;
+      color: var(--gold);
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+      margin-bottom: 2px;
+    }
+
+    .wb-collection-delete {
+      background: none;
+      border: none;
+      color: var(--text-dim);
+      font-size: 1rem;
+      cursor: pointer;
+      flex-shrink: 0;
+      padding: 2px 4px;
+    }
+
+    .wb-collection-delete:hover {
+      color: #d97070;
+    }
+
+    .wb-collection-empty {
+      text-align: center;
+      color: var(--text-dim);
+      font-size: 0.85rem;
+      padding: 30px 0;
+    }
+
+    /* ── CONTOH KALIMAT ────────────────────────────────── */
+    .wb-examples {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .wb-example-card {
+      background: var(--bg-card2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 12px 14px;
+      cursor: pointer;
+      transition: all var(--transition);
+    }
+
+    .wb-example-card:hover {
+      border-color: var(--border-gold);
+      background: var(--bg-hover);
+    }
+
+    .wb-example-cn {
+      font-size: 1.1rem;
+      color: var(--text-main);
+      font-weight: 300;
+      letter-spacing: 1px;
+      margin-bottom: 3px;
+    }
+
+    .wb-example-py {
+      font-size: 0.82rem;
+      color: var(--gold);
+      margin-bottom: 2px;
+    }
+
+    .wb-example-id {
+      font-size: 0.82rem;
+      color: var(--text-dim);
+    }
+
+    /* Baris tombol "Contoh Lain" + penghitung (gabungan stok Tier 3) */
+    .wb-example-nav {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 8px;
+      margin-top: 8px;
+    }
+
+    .wb-example-nav-count {
+      font-size: 0.7rem;
+      color: var(--text-muted);
+    }
+
+    /* ── SCREEN PILIH POLA (default) ───────────────────── */
+    .wb-choose-screen {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      padding: 32px;
+      text-align: center;
+      color: var(--text-muted);
+    }
+
+    .wb-choose-icon {
+      font-size: 3rem;
+      opacity: 0.12;
+      color: var(--gold);
+    }
+
+    .wb-choose-title {
+      font-size: 1rem;
+      color: var(--text-dim);
+    }
+
+    .wb-choose-sub {
+      font-size: 0.83rem;
+      line-height: 1.7;
+      max-width: 280px;
+    }
+
+    /* ── KUIS POLA KALIMAT (Tier 3) ─────────────────────── */
+    .wb-quiz-screen {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      padding: 24px 28px;
+      overflow-y: auto;
+    }
+
+    .wb-quiz-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 20px;
+    }
+
+    .wb-quiz-title {
+      font-size: 1rem;
+      color: var(--text-main);
+      font-weight: 500;
+    }
+
+    .wb-quiz-score {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+    }
+
+    .wb-quiz-score .ok  { color: #7ac47a; }
+    .wb-quiz-score .bad { color: #d97070; }
+
+    .wb-quiz-card {
+      max-width: 520px;
+      margin: 0 auto;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg, var(--radius));
+      padding: 28px 24px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 18px;
+      text-align: center;
+    }
+
+    .wb-quiz-sentence-cn {
+      font-size: 1.7rem;
+      color: var(--text-main);
+      font-weight: 300;
+    }
+
+    .wb-quiz-sentence-py {
+      font-size: 1rem;
+      color: var(--gold);
+    }
+
+    .wb-quiz-sentence-id {
+      font-size: 0.86rem;
+      color: var(--text-dim);
+    }
+
+    .wb-quiz-instruction {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+    }
+
+    .wb-quiz-options {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      width: 100%;
+    }
+
+    .wb-quiz-option-btn {
+      padding: 11px 16px;
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      background: var(--bg-card2);
+      color: var(--text-main);
+      font-size: 0.88rem;
+      cursor: pointer;
+      transition: all var(--transition);
+      text-align: left;
+    }
+
+    .wb-quiz-option-btn:hover:not(:disabled) {
+      border-color: var(--gold-dim);
+      background: var(--gold-bg);
+    }
+
+    .wb-quiz-option-btn:disabled {
+      cursor: default;
+    }
+
+    .wb-quiz-option-btn.mark-correct {
+      background: rgba(88, 166, 88, 0.18) !important;
+      border-color: rgba(88, 166, 88, 0.5) !important;
+      color: #7ac47a !important;
+    }
+
+    .wb-quiz-option-btn.mark-wrong {
+      background: rgba(217, 112, 112, 0.14) !important;
+      border-color: rgba(217, 112, 112, 0.4) !important;
+      color: #d97070 !important;
+    }
+
+    .wb-quiz-feedback {
+      width: 100%;
+      display: none;
+      flex-direction: column;
+      gap: 8px;
+      padding-top: 14px;
+      border-top: 1px solid var(--border);
+    }
+
+    .wb-quiz-feedback.visible {
+      display: flex;
+    }
+
+    .wb-quiz-feedback-status {
+      font-size: 0.9rem;
+      font-weight: 600;
+    }
+
+    .wb-quiz-feedback-status.ok  { color: #7ac47a; }
+    .wb-quiz-feedback-status.bad { color: #d97070; }
+
+    .wb-quiz-feedback-note {
+      font-size: 0.8rem;
+      color: var(--text-dim);
+      line-height: 1.5;
+    }
+
+    .wb-quiz-next-btn {
+      margin-top: 4px;
+      padding: 10px 24px;
+      background: var(--gold-bg);
+      border: 1px solid var(--gold-dim);
+      color: var(--gold);
+      border-radius: var(--radius);
+      font-size: 0.86rem;
+      font-weight: 500;
+      cursor: pointer;
+      align-self: center;
+    }
+
+    .wb-quiz-next-btn:hover {
+      background: var(--gold-bg-hover);
+    }
+
+    /* ── BADGE POLA DI SIDEBAR ─────────────────────────── */
+    .pattern-badge {
+      font-size: 0.65rem;
+      padding: 1px 6px;
+      border-radius: 3px;
+      background: var(--bg-card2);
+      color: var(--text-muted);
+      border: 1px solid var(--border);
+      flex-shrink: 0;
+      font-family: monospace;
+    }
+
+    /* ── TABS (Kalimat Tunggal / Majemuk / Fungsi) ─────── */
+    .wb-tabs {
+      display: flex;
+      gap: 2px;
+      padding: 10px 10px 6px;
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+
+    .wb-tab {
+      padding: 5px 10px;
+      border-radius: var(--radius);
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: all var(--transition);
+      border: none;
+      background: none;
+      font-family: inherit;
+    }
+
+    .wb-tab:hover {
+      color: var(--text-main);
+      background: var(--bg-hover);
+    }
+
+    .wb-tab.active {
+      color: var(--gold);
+      background: var(--gold-bg);
+    }
+
+    /* ── Baris kedua di bawah Tunggal/Majemuk/Fungsi -- khusus tombol
+       Kuis Pola, supaya tidak berebut ruang & ketutupan di baris pertama ── */
+    .wb-tabs-secondary {
+      padding: 0 10px 8px;
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+
+    .wb-tab-kuis {
+      width: 100%;
+      padding: 6px 10px;
+      border-radius: var(--radius);
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: all var(--transition);
+      border: 1px dashed var(--border);
+      background: none;
+      font-family: inherit;
+      text-align: center;
+    }
+
+    .wb-tab-kuis:hover {
+      color: var(--text-main);
+      border-color: var(--text-muted);
+      background: var(--bg-hover);
+    }
+
+    .wb-tab-kuis.active {
+      color: var(--gold);
+      background: var(--gold-bg);
+      border-color: var(--gold-dim);
+      border-style: solid;
+    }
+
+    /* ── KONEKTOR KALIMAT MAJEMUK ──────────────────────── */
+    .wb-connector-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 0;
+    }
+
+    .wb-connector-badge {
+      font-size: 0.95rem;
+      color: var(--red);
+      font-weight: 500;
+      background: var(--red-bg);
+      padding: 3px 10px;
+      border-radius: var(--radius);
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .wb-connector-label {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+    }
+
+    /* ── FILTER HSK (sidebar, di atas tab) ─────────────────── */
+    .wb-hsk-filter {
+      padding: 12px 10px 10px;
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+
+    .wb-hsk-filter-label {
+      font-size: 0.67rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-muted);
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .wb-hsk-filter-label button {
+      font-size: 0.65rem;
+      color: var(--gold-dim);
+      text-transform: none;
+      letter-spacing: normal;
+      padding: 1px 6px;
+      border-radius: 3px;
+      transition: color var(--transition);
+    }
+
+    .wb-hsk-filter-label button:hover {
+      color: var(--gold);
+    }
+
+    /* ── FILTER MASTERY (Tier 2): Mastered / Weak ──────────── */
+    .wb-mastery-filter {
+      padding: 10px 10px 12px;
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+
+    .wb-mastery-option {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      padding: 5px 4px;
+      font-size: 0.8rem;
+      color: var(--text-dim);
+      cursor: pointer;
+    }
+
+    .wb-mastery-option:hover {
+      color: var(--text-main);
+    }
+
+    .wb-mastery-option input[type="radio"] {
+      accent-color: var(--gold);
+      cursor: pointer;
+    }
+
+    .wb-hsk-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+    }
+
+    .wb-hsk-chip {
+      font-size: 0.72rem;
+      padding: 4px 9px;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      background: var(--bg-card2);
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: all var(--transition);
+      user-select: none;
+      font-family: inherit;
+    }
+
+    .wb-hsk-chip:hover {
+      border-color: var(--gold-dim);
+      color: var(--text-dim);
+    }
+
+    .wb-hsk-chip.active {
+      background: var(--gold-bg);
+      border-color: var(--gold-dim);
+      color: var(--gold);
+      font-weight: 500;
+    }
+
+    /* ── PESAN HINT DI BAWAH DROPDOWN (pool kosong/sedikit) ── */
+    .wb-slot-hint {
+      font-size: 0.68rem;
+      color: var(--text-muted);
+      margin-top: 3px;
+      max-width: 160px;
+      line-height: 1.4;
+    }
+
+    .wb-slot-hint.empty {
+      color: var(--red);
+    }
+
+    /* ── LOADING STATE POOL KATA ───────────────────────────── */
+    .wb-loading-note {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      padding: 8px 10px;
+      text-align: center;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+
+<!-- ══════════════════════════════════════════════════
+     NAVBAR
+══════════════════════════════════════════════════ -->
+<nav class="app-nav">
+  <a href="index.html" class="nav-brand">
+    <span class="hanzi-logo">漢</span>
+    <span>Mandarin Interaktif</span>
+  </a>
+  <div class="nav-links">
+    <a href="kamus.html"       class="nav-link">Kamus</a>
+    <a href="flashcard.html"   class="nav-link">Flashcard</a>
+    <a href="wordbuilder.html" class="nav-link active">Word Builder</a>
+    <a href="tone.html"        class="nav-link">Tone</a>
+    <a href="graded-reader.html" class="nav-link">Bacaan</a>
+    <a href="hsk-exam.html" class="nav-link">Ujian HSK</a>
+	<a href="tatabahasa.html" class="nav-link">Tata Bahasa</a>
+	<a href="terjemah-bebas.html" class="nav-link">Terjemah Bebas</a>
+	<a href="peta-bahasa.html" class="nav-link">Peta Bahasa</a>
+  </div>
+  <button class="nav-collection-btn" onclick="openCollectionModal()">
+    📑 Koleksi <span class="nav-collection-count" id="wb-collection-count">0</span>
+  </button>
+  <button class="nav-backup-btn" onclick="exportBackup()" title="Unduh backup semua data (SRS, koleksi, bookmark, dll)">
+    💾 Export
+  </button>
+  <button class="nav-backup-btn" onclick="$('wb-backup-file-input').click()" title="Pulihkan data dari file backup .json">
+    📂 Import
+  </button>
+  <input type="file" id="wb-backup-file-input" accept="application/json,.json" class="hidden"
+         onchange="handleBackupFileInput(this)">
+</nav>
+
+<!-- ══════════════════════════════════════════════════
+     MODAL — KOLEKSI TERSIMPAN (mandarin_wb_saved)
+══════════════════════════════════════════════════ -->
+<div class="wb-modal-backdrop" id="wb-collection-modal" onclick="if(event.target===this) closeCollectionModal()">
+  <div class="wb-modal">
+    <div class="wb-modal-header">
+      <h3>📑 Koleksi Tersimpan</h3>
+      <button class="wb-modal-close" onclick="closeCollectionModal()">✕</button>
+    </div>
+    <div class="wb-modal-body" id="wb-collection-list"></div>
+    <div class="wb-modal-footer">
+      <button class="btn-wb-danger" onclick="clearAllCollection()">Hapus Semua</button>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════
+     LAYOUT UTAMA
+══════════════════════════════════════════════════ -->
+<div class="wb-layout">
+
+  <!-- ────────────────────────────────────────────────
+       SIDEBAR KIRI — Daftar Pola
+  ──────────────────────────────────────────────── -->
+  <aside class="wb-sidebar">
+
+    <!-- Filter level HSK -- pengaruhi isi semua dropdown kata di semua pola -->
+    <div class="wb-hsk-filter">
+      <div class="wb-hsk-filter-label">
+        <span>Level HSK</span>
+        <button type="button" onclick="toggleHskAll()" id="wb-hsk-toggle-all">Semua</button>
+      </div>
+      <div class="wb-hsk-chips" id="wb-hsk-chips">
+        <!-- diisi JS: chip HSK1..HSK7 -->
+      </div>
+    </div>
+
+    <!-- Filter status SRS (Tier 2) -- Mastered / Weak, pengaruhi isi semua dropdown -->
+    <div class="wb-mastery-filter">
+      <div class="wb-hsk-filter-label">
+        <span>Status Kata</span>
+      </div>
+      <label class="wb-mastery-option">
+        <input type="radio" name="wb-mastery" value="all" checked onchange="setMasteryFilter('all')">
+        <span>Semua Kata</span>
+      </label>
+      <label class="wb-mastery-option">
+        <input type="radio" name="wb-mastery" value="mastered" onchange="setMasteryFilter('mastered')">
+        <span>✓ Sudah Dikuasai</span>
+      </label>
+      <label class="wb-mastery-option">
+        <input type="radio" name="wb-mastery" value="weak" onchange="setMasteryFilter('weak')">
+        <span>⚠ Sering Salah</span>
+      </label>
+    </div>
+
+    <!-- Tabs kategori -->
+    <div class="wb-tabs">
+      <button class="wb-tab active" data-tab="tunggal" onclick="switchTab('tunggal')">Tunggal</button>
+      <button class="wb-tab"        data-tab="majemuk" onclick="switchTab('majemuk')">Majemuk</button>
+      <button class="wb-tab"        data-tab="fungsi"  onclick="switchTab('fungsi')">Fungsi</button>
+    </div>
+    <div class="wb-tabs-secondary">
+      <button class="wb-tab-kuis" data-tab="kuis" onclick="switchTab('kuis')">🧩 Kuis Pola</button>
+    </div>
+
+    <div class="wb-sidebar-inner">
+
+      <!-- ── TAB: KALIMAT TUNGGAL ── -->
+      <div id="tab-tunggal">
+
+        <div class="sidebar-section">
+          <div class="sidebar-label">Dasar</div>
+
+          <div class="sidebar-item" data-pattern="S-V"
+               onclick="loadPattern('S-V')">
+            <span>Subjek + Kata Kerja</span>
+            <span class="pattern-badge">S+V</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="S-V-O"
+               onclick="loadPattern('S-V-O')">
+            <span>S + KK + Objek</span>
+            <span class="pattern-badge">S+V+O</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="S-shi-O"
+               onclick="loadPattern('S-shi-O')">
+            <span>S + 是 + O</span>
+            <span class="pattern-badge">是</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="S-you-O"
+               onclick="loadPattern('S-you-O')">
+            <span>S + 有 + O</span>
+            <span class="pattern-badge">有</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="S-zai-L"
+               onclick="loadPattern('S-zai-L')">
+            <span>S + 在 + Tempat</span>
+            <span class="pattern-badge">在</span>
+          </div>
+        </div>
+
+        <div class="sidebar-divider"></div>
+
+        <div class="sidebar-section">
+          <div class="sidebar-label">Deskripsi</div>
+
+          <div class="sidebar-item" data-pattern="S-hen-Adj"
+               onclick="loadPattern('S-hen-Adj')">
+            <span>S + 很 + Sifat</span>
+            <span class="pattern-badge">很</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="S-bu-Adj"
+               onclick="loadPattern('S-bu-Adj')">
+            <span>S + 不 + Sifat/KK</span>
+            <span class="pattern-badge">不</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="S-tai-Adj-le"
+               onclick="loadPattern('S-tai-Adj-le')">
+            <span>S + 太…了</span>
+            <span class="pattern-badge">太了</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="S-Num-M-N"
+               onclick="loadPattern('S-Num-M-N')">
+            <span>Angka + Satuan + Nomina</span>
+            <span class="pattern-badge">量</span>
+          </div>
+        </div>
+
+        <div class="sidebar-divider"></div>
+
+        <div class="sidebar-section">
+          <div class="sidebar-label">Waktu & Aspek</div>
+
+          <div class="sidebar-item" data-pattern="S-T-V-O"
+               onclick="loadPattern('S-T-V-O')">
+            <span>S + Waktu + V + O</span>
+            <span class="pattern-badge">时间</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="S-V-guo"
+               onclick="loadPattern('S-V-guo')">
+            <span>S + V + 过 (pengalaman)</span>
+            <span class="pattern-badge">过</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="S-V-le"
+               onclick="loadPattern('S-V-le')">
+            <span>S + V + 了 (selesai)</span>
+            <span class="pattern-badge">了</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="S-zai-V"
+               onclick="loadPattern('S-zai-V')">
+            <span>S + 在 + V (sedang)</span>
+            <span class="pattern-badge">在V</span>
+          </div>
+        </div>
+
+        <div class="sidebar-divider"></div>
+
+        <div class="sidebar-section">
+          <div class="sidebar-label">Tanya</div>
+
+          <div class="sidebar-item" data-pattern="Q-ma"
+               onclick="loadPattern('Q-ma')">
+            <span>Pertanyaan + 吗</span>
+            <span class="pattern-badge">吗</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="Q-ne"
+               onclick="loadPattern('Q-ne')">
+            <span>Pertanyaan + 呢</span>
+            <span class="pattern-badge">呢</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="Q-shenme"
+               onclick="loadPattern('Q-shenme')">
+            <span>S + V + 什么</span>
+            <span class="pattern-badge">什么</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="Q-zenme"
+               onclick="loadPattern('Q-zenme')">
+            <span>怎么 + V (bagaimana)</span>
+            <span class="pattern-badge">怎么</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="Q-duoshao"
+               onclick="loadPattern('Q-duoshao')">
+            <span>多少 / 几 (berapa)</span>
+            <span class="pattern-badge">多少</span>
+          </div>
+        </div>
+
+      </div><!-- /tab-tunggal -->
+
+      <!-- ── TAB: KALIMAT MAJEMUK ── -->
+      <div id="tab-majemuk" class="hidden">
+
+        <div class="sidebar-section">
+          <div class="sidebar-label">Hubungan</div>
+
+          <div class="sidebar-item" data-pattern="C-yinwei-suoyi"
+               onclick="loadPattern('C-yinwei-suoyi')">
+            <span>因为…所以 (sebab-akibat)</span>
+            <span class="pattern-badge">因所</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="C-suiran-danshi"
+               onclick="loadPattern('C-suiran-danshi')">
+            <span>虽然…但是 (meski-tapi)</span>
+            <span class="pattern-badge">虽但</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="C-ruguo-jiu"
+               onclick="loadPattern('C-ruguo-jiu')">
+            <span>如果…就 (jika-maka)</span>
+            <span class="pattern-badge">如就</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="C-bujin-erqie"
+               onclick="loadPattern('C-bujin-erqie')">
+            <span>不仅…而且 (tidak hanya)</span>
+            <span class="pattern-badge">不而</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="C-yibian-yibian"
+               onclick="loadPattern('C-yibian-yibian')">
+            <span>一边…一边 (sambil)</span>
+            <span class="pattern-badge">一边</span>
+          </div>
+        </div>
+
+        <div class="sidebar-divider"></div>
+
+        <div class="sidebar-section">
+          <div class="sidebar-label">Perbandingan</div>
+
+          <div class="sidebar-item" data-pattern="C-bi"
+               onclick="loadPattern('C-bi')">
+            <span>A + 比 + B + Adj</span>
+            <span class="pattern-badge">比</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="C-meiyou"
+               onclick="loadPattern('C-meiyou')">
+            <span>A + 没有 + B + Adj</span>
+            <span class="pattern-badge">没有</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="C-yiyang"
+               onclick="loadPattern('C-yiyang')">
+            <span>A + 跟 B + 一样 + Adj</span>
+            <span class="pattern-badge">一样</span>
+          </div>
+        </div>
+
+      </div><!-- /tab-majemuk -->
+
+      <!-- ── TAB: FUNGSI KOMUNIKATIF ── -->
+      <div id="tab-fungsi" class="hidden">
+
+        <div class="sidebar-section">
+          <div class="sidebar-label">Ekspresi</div>
+
+          <div class="sidebar-item" data-pattern="F-keyi"
+               onclick="loadPattern('F-keyi')">
+            <span>可以 (boleh/bisa)</span>
+            <span class="pattern-badge">可以</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="F-yao"
+               onclick="loadPattern('F-yao')">
+            <span>要 (ingin/harus)</span>
+            <span class="pattern-badge">要</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="F-xiang"
+               onclick="loadPattern('F-xiang')">
+            <span>想 (ingin/hendak)</span>
+            <span class="pattern-badge">想</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="F-qing"
+               onclick="loadPattern('F-qing')">
+            <span>请 (mohon/tolong)</span>
+            <span class="pattern-badge">请</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="F-ba"
+               onclick="loadPattern('F-ba')">
+            <span>把 (konstruksi BA)</span>
+            <span class="pattern-badge">把</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="F-bei"
+               onclick="loadPattern('F-bei')">
+            <span>被 (pasif)</span>
+            <span class="pattern-badge">被</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="F-gei"
+               onclick="loadPattern('F-gei')">
+            <span>给 (memberi kepada)</span>
+            <span class="pattern-badge">给</span>
+          </div>
+
+          <div class="sidebar-item" data-pattern="F-cong-dao"
+               onclick="loadPattern('F-cong-dao')">
+            <span>从…到 (dari…ke)</span>
+            <span class="pattern-badge">从到</span>
+          </div>
+        </div>
+
+      </div><!-- /tab-fungsi -->
+
+    </div><!-- /wb-sidebar-inner -->
+  </aside><!-- /wb-sidebar -->
+
+  <!-- ────────────────────────────────────────────────
+       AREA UTAMA WORD BUILDER
+  ──────────────────────────────────────────────── -->
+  <main class="wb-main">
+
+    <!-- Topbar: nama pola yang sedang aktif + tip sintaksis singkat -->
+    <div class="wb-topbar hidden" id="wb-topbar">
+      <div class="wb-topbar-titlerow">
+        <div>
+          <div class="wb-pattern-name"  id="wb-pattern-name">—</div>
+          <div class="wb-pattern-formula" id="wb-pattern-formula"></div>
+        </div>
+        <div class="wb-topbar-actions">
+          <button class="btn-wb btn-wb-secondary" onclick="resetSlots()">↺ Reset</button>
+          <button class="btn-wb btn-wb-secondary" onclick="randomFill()">🎲 Acak</button>
+        </div>
+      </div>
+      <div class="wb-tip" id="wb-tip"></div>
+    </div>
+
+    <!-- Screen: belum pilih pola -->
+    <div class="wb-choose-screen" id="wb-choose-screen">
+      <div class="wb-choose-icon">句</div>
+      <div class="wb-choose-title">Pilih Pola Kalimat</div>
+      <div class="wb-choose-sub">
+        Pilih pola kalimat dari sidebar kiri, lalu isi slot dengan kata yang tersedia untuk membangun kalimat Mandarin.
+      </div>
+    </div>
+
+    <!-- Area konten builder (tersembunyi sampai pola dipilih) -->
+    <div class="wb-content hidden" id="wb-content">
+
+      <!-- SECTION 1: Slot builder -->
+      <div class="wb-section">
+        <div class="wb-section-title">Susun Kalimat</div>
+        <div id="wb-slots-container"></div>
+      </div>
+
+      <!-- SECTION 2: Output kalimat + toolbar audio di samping -->
+      <div class="wb-output-row">
+        <div class="wb-output" id="wb-output">
+          <div class="wb-output-placeholder" id="wb-output-placeholder">
+            Lengkapi slot di atas untuk melihat kalimat…
+          </div>
+          <div class="hidden" id="wb-output-result">
+            <div class="wb-output-chinese"     id="wb-out-chinese"></div>
+            <div class="wb-output-pinyin"       id="wb-out-pinyin"></div>
+            <div class="wb-output-translation"  id="wb-out-translation"></div>
+          </div>
+        </div>
+        <div class="wb-output-tools">
+          <button class="wb-copy-btn" onclick="copyOutput()" id="wb-copy-btn">Salin</button>
+          <button class="btn-audio" id="btn-speak-wb" onclick="speakOutput()"
+                  title="Dengarkan pengucapan"
+                  style="display:none;font-size:1.1rem;background:var(--bg-card2);border:1px solid var(--border);border-radius:var(--radius);padding:4px 10px;cursor:pointer;color:var(--gold)">🔊</button>
+          <button class="audio-speed-btn" onclick="toggleAudioRate()"
+                  title="Kecepatan: Lambat (klik untuk normal)"
+                  style="font-size:1.1rem;background:var(--bg-card2);border:1px solid var(--border);border-radius:var(--radius);padding:4px 10px;cursor:pointer">🐢</button>
+        </div>
+      </div>
+
+      <!-- SECTION 3: Aksi -->
+      <div class="wb-actions">
+        <button class="btn-wb btn-wb-primary"    onclick="addToFlashcardWB()">+ Simpan ke Flashcard</button>
+        <button class="btn-wb btn-wb-secondary"  onclick="randomFill()">🎲 Isi Acak</button>
+      </div>
+
+      <!-- SECTION 4b: Penjelasan lengkap (accordion, collapsed default) -->
+      <div class="wb-section">
+        <div class="wb-explain-toggle" id="wb-explain-toggle" onclick="toggleExplainPanel()">
+          <span>📖 Penjelasan Lengkap</span>
+          <span class="wb-explain-chevron">▶</span>
+        </div>
+        <div class="wb-explain-panel" id="wb-explain-panel"></div>
+      </div>
+
+      <!-- SECTION 5: Contoh Kalimat (gabungan contoh pola + contoh tambahan,
+           1 tampil sekaligus + tombol "Contoh Lain" supaya hemat ruang) -->
+      <div class="wb-section">
+        <div class="wb-section-title">Contoh Kalimat</div>
+        <div class="wb-examples" id="wb-examples"></div>
+      </div>
+
+    </div><!-- /wb-content -->
+
+    <!-- Screen: Kuis Pola Kalimat (kebalikan builder — tebak pola dari kalimat) -->
+    <div class="wb-quiz-screen hidden" id="wb-quiz-screen">
+      <div class="wb-quiz-header">
+        <div class="wb-quiz-title">🧩 Kuis Pola Kalimat</div>
+        <div class="wb-quiz-score">
+          Benar: <strong class="ok" id="wb-quiz-score-ok">0</strong> ·
+          Salah: <strong class="bad" id="wb-quiz-score-bad">0</strong>
+        </div>
+      </div>
+      <div id="wb-quiz-body"></div>
+    </div>
+
+  </main><!-- /wb-main -->
+
+</div><!-- /wb-layout -->
+
+<!-- Toast -->
+<div class="toast-wrap" id="toast-wrap"></div>
+
+
+<script src="wordbuilder/wordbuilder-data.js"></script>
+<script src="wordbuilder/wordbuilder-core.js"></script>
+<script src="wordbuilder/wordbuilder-builder.js"></script>
+<script src="wordbuilder/wordbuilder-quiz.js"></script>
+<script src="wordbuilder/wordbuilder-spot.js"></script>
+<script src="wordbuilder/wordbuilder-collection.js"></script>
+<script src="wordbuilder/wordbuilder-init.js"></script>
+</body>
+</html>
