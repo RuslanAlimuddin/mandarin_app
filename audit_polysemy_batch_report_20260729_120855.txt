@@ -1,0 +1,70 @@
+=== LAPORAN audit_polysemy_batch.py — 2026-07-29 12:08:55.739690 ===
+Entri diaudit: 19 dari total 123
+
+=== di_bandara_hsk1 — "Mencari Gerbang Keberangkatan" (HSK1, percakapan) ===
+  ℹ️  INFO (kemungkinan aman, cuma catatan):
+    - "号" (dipakai: hào) — muncul 2x
+        catatan: beda dari hasil lookup saat ini -- kemungkinan override nama tokoh (aman), atau data referensi berubah sejak entri dibuat
+        konteks: B: 你的登机口是15号。
+        varian pinyin di cidict: háo (auman); hào (nomor urut)
+
+=== menelepon_teman_hsk3 — "打电话" (HSK3, percakapan) ===
+  🟠 PRIORITAS SEDANG (pola serupa kasus historis):
+    - "别" (dipakai: Bié) — muncul 1x
+        catatan: bacaan di app_words.json terlihat langka/marga/sastra, ada alternatif umum -- pola spt kasus "都"
+        konteks: 王芳: 别紧张,你平时学习那么认真,一定没问题。
+        varian pinyin di cidict: bié (marga Bie); bié (berpisah; meninggalkan); biè (membuat seseorang mengubah jalan, pendapat, dll.)
+    - "那" (dipakai: Nā) — muncul 2x
+        catatan: bacaan di app_words.json terlihat langka/marga/sastra, ada alternatif umum -- pola spt kasus "都"
+        konteks: 王芳: 别紧张,你平时学习那么认真,一定没问题。
+        varian pinyin di cidict: nā (marga Na); nuó (marga Nuo); nǎ (varian dari 哪[na3]); nà ((penunjuk) itu; tersebut; mereka (bahasa sehari-hari dibaca [nei4])); nuó ((kuno) banyak)
+
+=== wawancara_kerja_hsk4 — "面试" (HSK4, percakapan) ===
+  🟠 PRIORITAS SEDANG (pola serupa kasus historis):
+    - "过" (dipakai: Guō) — muncul 1x
+        catatan: bacaan di app_words.json terlihat langka/marga/sastra, ada alternatif umum -- pola spt kasus "都"
+        konteks: 陈静: 您好,我叫陈静,我毕业于经济系,曾经在一家贸易公司实习过一年。
+        varian pinyin di cidict: guō (marga Guo); guò (menyeberang); guo ((penanda tindakan yang dialami))
+    - "强" (dipakai: Qiáng) — muncul 1x
+        catatan: bacaan di app_words.json terlihat langka/marga/sastra, ada alternatif umum -- pola spt kasus "都"
+        konteks: 陈静: 我做事认真负责,而且学习能力比较强。
+        varian pinyin di cidict: qiáng (marga Qiang); jiàng (keras kepala); qiáng (kuat); qiǎng (memaksa); jiàng (varian dari 強|强[jiang4]); qiáng (varian dari 強|强[qiang2]); qiǎng (varian dari 強|强[qiang3])
+
+=== rapat_proyek_kantor_hsk5 — "项目讨论会" (HSK5, percakapan) ===
+  🟠 PRIORITAS SEDANG (pola serupa kasus historis):
+    - "那" (dipakai: Nā) — muncul 1x
+        catatan: bacaan di app_words.json terlihat langka/marga/sastra, ada alternatif umum -- pola spt kasus "都"
+        konteks: 组长: 好,那从下周开始,我们每周一开一次进度会。
+        varian pinyin di cidict: nā (marga Na); nuó (marga Nuo); nǎ (varian dari 哪[na3]); nà ((penunjuk) itu; tersebut; mereka (bahasa sehari-hari dibaca [nei4])); nuó ((kuno) banyak)
+
+=== kecerdasan_buatan_pekerjaan_hsk7 — "人工智能与就业市场" (HSK7, bacaan) ===
+  🟠 PRIORITAS SEDANG (pola serupa kasus historis):
+    - "化" (dipakai: huā) — muncul 2x
+        catatan: bacaan di app_words.json terlihat langka/marga/sastra, ada alternatif umum -- pola spt kasus "都"
+        konteks: 一方面,许多重复性、程式化的工作岗位面临被自动化取代的风险,劳动者不得不重新审视自身的职业规划;另一方面,新兴技术领域也催生出大量前所未有的就业机会,对具备跨学科能力的复合型人才需求日益旺盛。
+        varian pinyin di cidict: huā (varian dari 花[hua1]); huà (membuat menjadi)
+    - "与" (dipakai: yú) — muncul 1x
+        catatan: bacaan di app_words.json terlihat langka/marga/sastra, ada alternatif umum -- pola spt kasus "都"
+        konteks: 学界普遍认为,唯有通过持续学习与技能升级,才能在这场深刻的产业变革中占据主动地位,而非被时代所淘汰。
+        varian pinyin di cidict: yú (varian dari 歟|欤[yu2]); yǔ (dan); yù (mengambil bagian dalam)
+
+=== kebijakan_publik_hsk9 — "公共政策的制定与权衡" (HSK9, bacaan) ===
+  🟠 PRIORITAS SEDANG (pola serupa kasus historis):
+    - "与" (dipakai: yú) — muncul 3x
+        catatan: bacaan di app_words.json terlihat langka/marga/sastra, ada alternatif umum -- pola spt kasus "都"
+        konteks: 公共政策的制定往往牵涉多方利益的博弈与权衡,任何一项看似简单的决策,背后都可能蕴含着错综复杂的社会、经济乃至伦理考量。
+        varian pinyin di cidict: yú (varian dari 歟|欤[yu2]); yǔ (dan); yù (mengambil bagian dalam)
+
+=== debat_kebijakan_lingkungan_hsk9 — "环保政策辩论赛" (HSK9, percakapan) ===
+  🟠 PRIORITAS SEDANG (pola serupa kasus historis):
+    - "与" (dipakai: yú) — muncul 1x
+        catatan: bacaan di app_words.json terlihat langka/marga/sastra, ada alternatif umum -- pola spt kasus "都"
+        konteks: 反方: 我方主张,应当采取循序渐进、兼顾激励与约束的综合性政策路径,而非简单粗暴的一刀切做法。
+        varian pinyin di cidict: yú (varian dari 歟|欤[yu2]); yǔ (dan); yù (mengambil bagian dalam)
+
+
+--- RINGKASAN ---
+Entri diaudit         : 19
+Entri dengan temuan   : 7
+Total kata ditandai   : 10
+(Entri tanpa temuan berarti tidak ada kata multi-pinyin yang mencurigakan -- aman.)
