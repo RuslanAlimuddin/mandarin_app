@@ -1,0 +1,305 @@
+Diagnosis 59 karakter bermasalah
+======================================================================
+
+[侄]
+  dictionary.txt : ADA -> radical='亻', decomposition='⿰亻至', pinyin=['zhí']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[吱]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口支', pinyin=['zhī']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[呃]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口厄', pinyin=['è']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[呗]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口贝', pinyin=['bei']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[呣]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口母', pinyin=['ḿ']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[呱]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口瓜', pinyin=['gū']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[呸]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口丕', pinyin=['pēi']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[咔]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口卡', pinyin=['kā']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[咕]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口古', pinyin=['gū']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[咚]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口冬', pinyin=['dōng']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[咦]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口夷', pinyin=['yí']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[咩]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口羊', pinyin=['miē']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[咯]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口各', pinyin=['gē']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[哐]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口匡', pinyin=['kuāng']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[哒]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口达', pinyin=['dā']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[哞]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口牟', pinyin=['mōu']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[唄]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口貝', pinyin=['bei']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[唷]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口育', pinyin=['yō']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[唻]
+  dictionary.txt : TIDAK ADA
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[啪]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口拍', pinyin=['pā']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[啵]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口波', pinyin=['bo']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[喏]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口若', pinyin=['nuò']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[喔]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口屋', pinyin=['ō']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[喵]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口苗', pinyin=['miāo']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[喽]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口娄', pinyin=['lóu']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[嗡]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口翁', pinyin=['wēng']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[嗲]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口爹', pinyin=['diǎ']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[嗳]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口爱', pinyin=['āi']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[嗷]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口敖', pinyin=['áo']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[嘎]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口戛', pinyin=['gā']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[嘘]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口虚', pinyin=['xū']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[嘞]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口勒', pinyin=['lei']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[嘟]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口都', pinyin=['dū']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[嘶]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口斯', pinyin=['sī']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[嘻]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口喜', pinyin=['xī']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[噎]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口壹', pinyin=['yē']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[噜]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口鲁', pinyin=['lū']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[噢]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口奥', pinyin=['ō']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[噻]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口塞', pinyin=['sāi']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[噼]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口辟', pinyin=['pī']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[嚓]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口察', pinyin=['cā']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[嚯]
+  dictionary.txt : ADA -> radical='口', decomposition='⿰口霍', pinyin=['huò']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[妯]
+  dictionary.txt : ADA -> radical='女', decomposition='⿰女由', pinyin=['zhóu']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[娌]
+  dictionary.txt : ADA -> radical='女', decomposition='⿰女里', pinyin=['lǐ']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[婶]
+  dictionary.txt : ADA -> radical='女', decomposition='⿰女审', pinyin=['shěn']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[嫒]
+  dictionary.txt : ADA -> radical='女', decomposition='⿰女爱', pinyin=['ài']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[庚]
+  dictionary.txt : ADA -> radical='广', decomposition='⿸广？', pinyin=['gēng']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[沥]
+  dictionary.txt : ADA -> radical='氵', decomposition='⿰氵历', pinyin=['lì']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[淅]
+  dictionary.txt : ADA -> radical='氵', decomposition='⿰氵析', pinyin=['xī']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[潺]
+  dictionary.txt : ADA -> radical='氵', decomposition='⿰氵孱', pinyin=['chán']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[甥]
+  dictionary.txt : ADA -> radical='生', decomposition='⿰生男', pinyin=['shēng']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[砰]
+  dictionary.txt : ADA -> radical='石', decomposition='⿰石平', pinyin=['pēng']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[窣]
+  dictionary.txt : ADA -> radical='穴', decomposition='⿱穴卒', pinyin=['sū']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[窸]
+  dictionary.txt : ADA -> radical='穴', decomposition='⿱穴悉', pinyin=['xī']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[笃]
+  dictionary.txt : ADA -> radical='⺮', decomposition='⿱⺮马', pinyin=['dǔ']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[耶]
+  dictionary.txt : ADA -> radical='耳', decomposition='⿰耳阝', pinyin=['yé']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[襟]
+  dictionary.txt : ADA -> radical='衤', decomposition='⿰衤禁', pinyin=['jīn']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[诶]
+  dictionary.txt : ADA -> radical='讠', decomposition='⿰讠矣', pinyin=['éi']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+[陀]
+  dictionary.txt : ADA -> radical='阝', decomposition='⿰阝它', pinyin=['tuó']
+  hanzi_writer   : TIDAK ADA
+  char_etymology : TIDAK ADA
+
+======================================================================
+RINGKASAN
+  Total karakter didiagnosis      : 59
+  Tidak ada di dictionary.txt      : 1
+  Tidak ada di hanzi_writer_data   : 59
+  Ada di KEDUANYA (harusnya lolos!): 0
+  Tidak ada di KEDUANYA sama sekali: 1
