@@ -1,0 +1,6267 @@
+[
+  {
+    "id": "tema_teknologi_hsk7",
+    "level": 7,
+    "tema": "Teknologi",
+    "title": "人工智能会不会抢走我们的工作 (Apakah Kecerdasan Buatan Akan Merebut Pekerjaan Kita)",
+    "text": "近年来，人工智能技术的发展速度越来越快，从工厂里的自动化机器，到能够写文章、画图片的智能程序，人工智能已经开始进入我们生活的各个方面。这也让不少人开始担心，未来自己的工作会不会被人工智能取代。事实上，这种担心并非没有道理。一些重复性强、规律性明显的工作，比如工厂里的组装工作、简单的数据处理工作，确实已经开始被机器和程序取代。但是，也有专家指出，人工智能虽然能够完成很多具体的任务，却很难完全代替需要创造力、情感理解以及复杂判断的工作，比如医生看病、老师教学、艺术创作等等。这些工作不仅需要专业知识，还需要与人打交道的能力，而这正是目前的人工智能比较欠缺的部分。因此，与其担心工作被完全取代，不如把注意力放在如何学习新技能，让自己能够和人工智能合作，而不是被它替代。历史经验也告诉我们，每一次技术革新，虽然会让一些旧的工作消失，但同时也会创造出许多新的工作机会，关键在于我们能不能及时适应这些变化。",
+    "translation": "Belakangan ini, kecepatan perkembangan teknologi kecerdasan buatan semakin cepat, dari mesin otomatis di pabrik hingga program pintar yang bisa menulis artikel dan menggambar, kecerdasan buatan sudah mulai memasuki berbagai aspek kehidupan kita. Hal ini juga membuat tidak sedikit orang mulai khawatir apakah pekerjaan mereka di masa depan akan digantikan oleh kecerdasan buatan. Sebenarnya, kekhawatiran ini bukan tanpa alasan. Beberapa pekerjaan yang sangat berulang dan pola-nya jelas, misalnya pekerjaan perakitan di pabrik, pekerjaan pengolahan data sederhana, memang sudah mulai digantikan oleh mesin dan program. Namun, sejumlah pakar juga menunjukkan bahwa meskipun kecerdasan buatan bisa menyelesaikan banyak tugas konkret, sangat sulit baginya untuk sepenuhnya menggantikan pekerjaan yang membutuhkan kreativitas, pemahaman emosi, serta penilaian kompleks, seperti dokter memeriksa pasien, guru mengajar, penciptaan karya seni, dan sebagainya. Pekerjaan-pekerjaan ini bukan hanya membutuhkan pengetahuan profesional, tetapi juga kemampuan berinteraksi dengan orang lain, dan inilah bagian yang saat ini masih kurang dimiliki kecerdasan buatan. Oleh karena itu, daripada khawatir pekerjaan akan sepenuhnya digantikan, lebih baik memusatkan perhatian pada bagaimana mempelajari keterampilan baru, agar diri sendiri bisa bekerja sama dengan kecerdasan buatan, bukan malah digantikan olehnya. Pengalaman sejarah juga mengajarkan kita, setiap kali ada pembaruan teknologi, meskipun akan membuat sejumlah pekerjaan lama menghilang, pada saat yang sama juga akan menciptakan banyak peluang kerja baru, kuncinya adalah apakah kita bisa segera menyesuaikan diri dengan perubahan ini.",
+    "glossary": [
+      {
+        "cn": "近年来",
+        "py": "jìn nián lái",
+        "id": "selama beberapa tahun terakhir"
+      },
+      {
+        "cn": "人工智能",
+        "py": "rén gōng zhì néng",
+        "id": "kecerdasan buatan (AI)"
+      },
+      {
+        "cn": "技术",
+        "py": "jì shù",
+        "id": "teknologi; teknik; keterampilan"
+      },
+      {
+        "cn": "的",
+        "py": "de",
+        "id": "dari; milik ~ (partikel posesif)"
+      },
+      {
+        "cn": "发展",
+        "py": "fā zhǎn",
+        "id": "pembangunan"
+      },
+      {
+        "cn": "速度",
+        "py": "sù dù",
+        "id": "kecepatan"
+      },
+      {
+        "cn": "越来越",
+        "py": "yuè lái yuè",
+        "id": "semakin"
+      },
+      {
+        "cn": "快",
+        "py": "kuài",
+        "id": "cepat"
+      },
+      {
+        "cn": "从",
+        "py": "cóng",
+        "id": "dari; melalui; lewat"
+      },
+      {
+        "cn": "工厂",
+        "py": "gōng chǎng",
+        "id": "pabrik"
+      },
+      {
+        "cn": "里",
+        "py": "lǐ",
+        "id": "lapisan dalam"
+      },
+      {
+        "cn": "自动",
+        "py": "zì dòng",
+        "id": "otomatis"
+      },
+      {
+        "cn": "化",
+        "py": "huā",
+        "id": "membuat menjadi"
+      },
+      {
+        "cn": "机器",
+        "py": "jī qì",
+        "id": "mesin"
+      },
+      {
+        "cn": "到",
+        "py": "dào",
+        "id": "mencapai; tiba"
+      },
+      {
+        "cn": "能够",
+        "py": "néng gòu",
+        "id": "mampu"
+      },
+      {
+        "cn": "写",
+        "py": "xiě",
+        "id": "menulis"
+      },
+      {
+        "cn": "文章",
+        "py": "wén zhāng",
+        "id": "artikel"
+      },
+      {
+        "cn": "画",
+        "py": "huà",
+        "id": "menggambar; melukis"
+      },
+      {
+        "cn": "图片",
+        "py": "tú piàn",
+        "id": "gambar; foto"
+      },
+      {
+        "cn": "智能",
+        "py": "zhì néng",
+        "id": "pintar; mampu; cerdas (ponsel, sistem, bom dll)"
+      },
+      {
+        "cn": "程序",
+        "py": "chéng xù",
+        "id": "prosedur"
+      },
+      {
+        "cn": "已经",
+        "py": "yǐ jīng",
+        "id": "sudah"
+      },
+      {
+        "cn": "开始",
+        "py": "kāi shǐ",
+        "id": "memulai"
+      },
+      {
+        "cn": "进入",
+        "py": "jìn rù",
+        "id": "masuk"
+      },
+      {
+        "cn": "我们",
+        "py": "wǒ men",
+        "id": "kami; kita; diri kami; milik kami"
+      },
+      {
+        "cn": "生活",
+        "py": "shēng huó",
+        "id": "hidup"
+      },
+      {
+        "cn": "各个",
+        "py": "gè gè",
+        "id": "setiap"
+      },
+      {
+        "cn": "方面",
+        "py": "fāng miàn",
+        "id": "aspek"
+      },
+      {
+        "cn": "这",
+        "py": "zhè",
+        "id": "(kata ganti) ini; ini"
+      },
+      {
+        "cn": "也",
+        "py": "Yě",
+        "id": "juga; terlalu; (tidak ...) juga"
+      },
+      {
+        "cn": "让",
+        "py": "ràng",
+        "id": "mengalah"
+      },
+      {
+        "cn": "不少",
+        "py": "bù shǎo",
+        "id": "banyak"
+      },
+      {
+        "cn": "人",
+        "py": "rén",
+        "id": "orang; orang-orang"
+      },
+      {
+        "cn": "担心",
+        "py": "dān xīn",
+        "id": "cemas"
+      },
+      {
+        "cn": "未来",
+        "py": "wèi lái",
+        "id": "masa depan"
+      },
+      {
+        "cn": "自己",
+        "py": "zì jǐ",
+        "id": "diri sendiri"
+      },
+      {
+        "cn": "工作",
+        "py": "gōng zuò",
+        "id": "bekerja"
+      },
+      {
+        "cn": "会",
+        "py": "huì",
+        "id": "bisa; memiliki keahlian; tahu cara"
+      },
+      {
+        "cn": "不",
+        "py": "bù",
+        "id": "tidak; tidak begitu"
+      },
+      {
+        "cn": "被",
+        "py": "bèi",
+        "id": "selimut"
+      },
+      {
+        "cn": "取代",
+        "py": "qǔ dài",
+        "id": "menggantikan"
+      },
+      {
+        "cn": "事实上",
+        "py": "shì shí shàng",
+        "id": "pada kenyataannya"
+      },
+      {
+        "cn": "种",
+        "py": "zhǒng",
+        "id": "benih"
+      },
+      {
+        "cn": "并非",
+        "py": "bìng fēi",
+        "id": "sebenarnya bukan"
+      },
+      {
+        "cn": "没有",
+        "py": "méi yǒu",
+        "id": "belum punya; belum ada; tidak ada; tidak memiliki; bukan"
+      },
+      {
+        "cn": "道理",
+        "py": "dào li",
+        "id": "alasan; argumen; akal; prinsip; dasar; justifikasi; KP:個|个[ge4]"
+      },
+      {
+        "cn": "一些",
+        "py": "yī xiē",
+        "id": "beberapa; sedikit; (mengikuti kata sifat) sedikit lebih ..."
+      },
+      {
+        "cn": "重复",
+        "py": "chóng fù",
+        "id": "mengulang"
+      },
+      {
+        "cn": "性",
+        "py": "xìng",
+        "id": "sifat"
+      },
+      {
+        "cn": "强",
+        "py": "Qiáng",
+        "id": "keras kepala"
+      },
+      {
+        "cn": "规律",
+        "py": "guī lǜ",
+        "id": "aturan (misalnya ilmu pengetahuan)"
+      },
+      {
+        "cn": "明显",
+        "py": "míng xiǎn",
+        "id": "jelas"
+      },
+      {
+        "cn": "比如",
+        "py": "bǐ rú",
+        "id": "misalnya; contohnya; seperti"
+      },
+      {
+        "cn": "组装",
+        "py": "zǔ zhuāng",
+        "id": "merakit; menyusun"
+      },
+      {
+        "cn": "简单",
+        "py": "jiǎn dān",
+        "id": "sederhana; tidak rumit"
+      },
+      {
+        "cn": "数据",
+        "py": "shù jù",
+        "id": "data"
+      },
+      {
+        "cn": "处理",
+        "py": "chǔ lǐ",
+        "id": "menangani; mengurus"
+      },
+      {
+        "cn": "确实",
+        "py": "què shí",
+        "id": "memang"
+      },
+      {
+        "cn": "和",
+        "py": "hé",
+        "id": "varian lama dari 和[he2]"
+      },
+      {
+        "cn": "但是",
+        "py": "dàn shì",
+        "id": "tetapi; namun"
+      },
+      {
+        "cn": "有",
+        "py": "yǒu",
+        "id": "memiliki; ada"
+      },
+      {
+        "cn": "专家",
+        "py": "zhuān jiā",
+        "id": "ahli; spesialis"
+      },
+      {
+        "cn": "指出",
+        "py": "zhǐ chū",
+        "id": "menunjukkan"
+      },
+      {
+        "cn": "虽然",
+        "py": "suī rán",
+        "id": "meskipun; walaupun (sering digunakan secara korelatif dengan 可是[ke3 shi4] atau 但是[dan4 shi4] dll)"
+      },
+      {
+        "cn": "完成",
+        "py": "wán chéng",
+        "id": "menyelesaikan; mencapai"
+      },
+      {
+        "cn": "很",
+        "py": "hěn",
+        "id": "sangat; cukup"
+      },
+      {
+        "cn": "多",
+        "py": "duō",
+        "id": "banyak; banyak sekali; lebih"
+      },
+      {
+        "cn": "具体",
+        "py": "jù tǐ",
+        "id": "konkret; spesifik; rinci"
+      },
+      {
+        "cn": "任务",
+        "py": "rèn wu",
+        "id": "misi; tugas; pekerjaan; kewajiban; peran"
+      },
+      {
+        "cn": "却",
+        "py": "què",
+        "id": "varian lama dari 卻|却[que4]"
+      },
+      {
+        "cn": "难",
+        "py": "nán",
+        "id": "sulit (untuk...)"
+      },
+      {
+        "cn": "完全",
+        "py": "wán quán",
+        "id": "lengkap; utuh"
+      },
+      {
+        "cn": "代替",
+        "py": "dài tì",
+        "id": "menggantikan; mengambil tempat"
+      },
+      {
+        "cn": "需要",
+        "py": "xū yào",
+        "id": "membutuhkan; menginginkan; menuntut; memerlukan"
+      },
+      {
+        "cn": "创造",
+        "py": "chuàng zào",
+        "id": "menciptakan"
+      },
+      {
+        "cn": "力",
+        "py": "Lì",
+        "id": "kekuatan"
+      },
+      {
+        "cn": "情感",
+        "py": "qíng gǎn",
+        "id": "perasaan; emosi; tersentuh (secara emosional)"
+      },
+      {
+        "cn": "理解",
+        "py": "lǐ jiě",
+        "id": "memahami; mengerti"
+      },
+      {
+        "cn": "以及",
+        "py": "yǐ jí",
+        "id": "dan; serta"
+      },
+      {
+        "cn": "复杂",
+        "py": "fù zá",
+        "id": "rumit; kompleks"
+      },
+      {
+        "cn": "判断",
+        "py": "pàn duàn",
+        "id": "menilai"
+      },
+      {
+        "cn": "医生",
+        "py": "yī shēng",
+        "id": "dokter"
+      },
+      {
+        "cn": "看病",
+        "py": "kàn bìng",
+        "id": "mengunjungi dokter"
+      },
+      {
+        "cn": "老师",
+        "py": "lǎo shī",
+        "id": "guru"
+      },
+      {
+        "cn": "教学",
+        "py": "jiāo xué",
+        "id": "mengajar (sebagai profesor)"
+      },
+      {
+        "cn": "艺术",
+        "py": "yì shù",
+        "id": "seni"
+      },
+      {
+        "cn": "创作",
+        "py": "chuàng zuò",
+        "id": "menciptakan; memproduksi; menulis"
+      },
+      {
+        "cn": "等",
+        "py": "děng",
+        "id": "menunggu"
+      },
+      {
+        "cn": "这些",
+        "py": "zhè xiē",
+        "id": "ini (jamak)"
+      },
+      {
+        "cn": "不仅",
+        "py": "bù jǐn",
+        "id": "tidak hanya; tidak terbatas pada"
+      },
+      {
+        "cn": "专业",
+        "py": "zhuān yè",
+        "id": "spesialisasi"
+      },
+      {
+        "cn": "知识",
+        "py": "zhī shi",
+        "id": "pengetahuan"
+      },
+      {
+        "cn": "还",
+        "py": "Huán",
+        "id": "masih"
+      },
+      {
+        "cn": "与",
+        "py": "yú",
+        "id": "dan"
+      },
+      {
+        "cn": "打交道",
+        "py": "dǎ jiāo dào",
+        "id": "berhubungan dengan"
+      },
+      {
+        "cn": "能力",
+        "py": "néng lì",
+        "id": "kemampuan"
+      },
+      {
+        "cn": "而",
+        "py": "ér",
+        "id": "dan"
+      },
+      {
+        "cn": "正是",
+        "py": "zhèng shì",
+        "id": "persis"
+      },
+      {
+        "cn": "目前",
+        "py": "mù qián",
+        "id": "saat ini"
+      },
+      {
+        "cn": "比较",
+        "py": "bǐ jiào",
+        "id": "membandingkan"
+      },
+      {
+        "cn": "欠缺",
+        "py": "qiàn quē",
+        "id": "kurang dalam"
+      },
+      {
+        "cn": "部分",
+        "py": "bù fen",
+        "id": "bagian; porsi; potongan"
+      },
+      {
+        "cn": "因此",
+        "py": "yīn cǐ",
+        "id": "karena itu; akibatnya; sebagai akibatnya"
+      },
+      {
+        "cn": "与其",
+        "py": "yǔ qí",
+        "id": "daripada... (digunakan dalam ekspresi berbentuk 與其|与其[yu3 qi2] + {kata kerja1} + 不如[bu4 ru2] + {kata kerja2} \"daripada {kata kerja1}, lebih baik {kata kerja2}\")"
+      },
+      {
+        "cn": "不如",
+        "py": "bù rú",
+        "id": "tidak sama dengan; tidak sebaik; lebih rendah dari"
+      },
+      {
+        "cn": "把",
+        "py": "bǎ",
+        "id": "memegang; menggenggam"
+      },
+      {
+        "cn": "注意",
+        "py": "zhù yì",
+        "id": "memperhatikan; memberi perhatian pada"
+      },
+      {
+        "cn": "放",
+        "py": "fàng",
+        "id": "meletakkan"
+      },
+      {
+        "cn": "在",
+        "py": "zài",
+        "id": "ada; menjadi hidup"
+      },
+      {
+        "cn": "如何",
+        "py": "rú hé",
+        "id": "bagaimana"
+      },
+      {
+        "cn": "学习",
+        "py": "xué xí",
+        "id": "belajar"
+      },
+      {
+        "cn": "新",
+        "py": "Xīn",
+        "id": "singkatan dari Xinjiang 新疆[Xin1 jiang1]"
+      },
+      {
+        "cn": "技能",
+        "py": "jì néng",
+        "id": "kemampuan teknis"
+      },
+      {
+        "cn": "合作",
+        "py": "hé zuò",
+        "id": "bekerja sama; berkolaborasi; bekerja bersama"
+      },
+      {
+        "cn": "是",
+        "py": "shì",
+        "id": "adalah (diikuti hanya oleh kata benda)"
+      },
+      {
+        "cn": "它",
+        "py": "tā",
+        "id": "itu"
+      },
+      {
+        "cn": "替代",
+        "py": "tì dài",
+        "id": "menggantikan"
+      },
+      {
+        "cn": "历史",
+        "py": "lì shǐ",
+        "id": "sejarah"
+      },
+      {
+        "cn": "经验",
+        "py": "jīng yàn",
+        "id": "pengalaman"
+      },
+      {
+        "cn": "告诉",
+        "py": "gào sù",
+        "id": "mengajukan tuntutan; mengajukan keluhan"
+      },
+      {
+        "cn": "每",
+        "py": "měi",
+        "id": "setiap"
+      },
+      {
+        "cn": "一",
+        "py": "yī",
+        "id": "satu"
+      },
+      {
+        "cn": "次",
+        "py": "cì",
+        "id": "berikutnya dalam urutan"
+      },
+      {
+        "cn": "革新",
+        "py": "gé xīn",
+        "id": "berinovasi"
+      },
+      {
+        "cn": "旧",
+        "py": "jiù",
+        "id": "tua"
+      },
+      {
+        "cn": "消失",
+        "py": "xiāo shī",
+        "id": "menghilang; memudar"
+      },
+      {
+        "cn": "但",
+        "py": "dàn",
+        "id": "tetapi; namun; akan tetapi; masih"
+      },
+      {
+        "cn": "同时",
+        "py": "tóng shí",
+        "id": "pada saat yang sama; serentak"
+      },
+      {
+        "cn": "出",
+        "py": "chū",
+        "id": "keluar; muncul"
+      },
+      {
+        "cn": "许多",
+        "py": "xǔ duō",
+        "id": "banyak"
+      },
+      {
+        "cn": "机会",
+        "py": "jī huì",
+        "id": "kesempatan; peluang; acara"
+      },
+      {
+        "cn": "关键",
+        "py": "guān jiàn",
+        "id": "titik krusial"
+      },
+      {
+        "cn": "在于",
+        "py": "zài yú",
+        "id": "terletak pada; disebabkan oleh (atribut tertentu)"
+      },
+      {
+        "cn": "能不能",
+        "py": "néng bùnéng",
+        "id": ""
+      },
+      {
+        "cn": "及时",
+        "py": "jí shí",
+        "id": "tepat waktu; pada waktu yang tepat"
+      },
+      {
+        "cn": "适应",
+        "py": "shì yìng",
+        "id": "beradaptasi"
+      },
+      {
+        "cn": "变化",
+        "py": "biàn huà",
+        "id": "(intransitif) berubah; bervariasi"
+      }
+    ]
+  },
+  {
+    "id": "tema_komunikasi_hsk7",
+    "level": 7,
+    "tema": "Komunikasi",
+    "title": "社交媒体让我们更亲近还是更疏远 (Media Sosial Membuat Kita Lebih Dekat atau Lebih Jauh)",
+    "text": "社交媒体的普及，彻底改变了人们交流的方式。过去，想要和远方的朋友保持联系，可能需要写信或者打长途电话，而现在，只需要打开手机，就能随时看到朋友的最新动态，发一条消息也能马上得到回复。从这个角度来看，社交媒体确实让人与人之间的距离变得更近了。然而，也有越来越多的人开始反思，这种便利的联系方式，是否真的加深了人与人之间的感情。有研究发现，很多人虽然在社交媒体上拥有几百甚至几千个好友，但真正能够在遇到困难时倾诉心事的对象，却少之又少。人们习惯于在社交媒体上展示生活中美好的一面，却很少分享真实的烦恼与压力，这使得线上的交流常常停留在表面，缺少真正深入的理解。此外，花费大量时间浏览社交媒体，反而可能减少了与身边家人朋友面对面交流的时间，造成一种表面上很热闹、实际上很孤独的现象。或许，社交媒体本身并不是问题的根源，真正重要的是，我们如何合理地使用它，既能利用它保持与远方朋友的联系，又不忽视身边真实的人和人之间的交往。",
+    "translation": "Meluasnya media sosial secara mendasar mengubah cara orang berkomunikasi. Dahulu, untuk menjaga hubungan dengan teman yang jauh, mungkin perlu menulis surat atau menelepon jarak jauh, sedangkan sekarang, cukup membuka ponsel, bisa langsung melihat kabar terbaru teman kapan saja, mengirim pesan pun bisa segera mendapat balasan. Dari sudut pandang ini, media sosial memang membuat jarak antarmanusia menjadi lebih dekat. Namun, semakin banyak orang mulai merenungkan apakah cara berhubungan yang praktis ini benar-benar memperdalam hubungan emosional antarmanusia. Ada penelitian menemukan bahwa meskipun banyak orang memiliki ratusan bahkan ribuan teman di media sosial, orang yang benar-benar bisa diajak curhat saat menghadapi kesulitan justru sangat sedikit. Orang terbiasa menampilkan sisi kehidupan yang indah di media sosial, tapi jarang berbagi kesulitan dan tekanan yang sebenarnya, sehingga komunikasi daring sering hanya sebatas permukaan, kurang pemahaman yang benar-benar mendalam. Selain itu, menghabiskan banyak waktu menjelajahi media sosial justru bisa mengurangi waktu berkomunikasi tatap muka dengan keluarga dan teman di sekitar, menciptakan fenomena tampak ramai di permukaan tapi sebenarnya sangat kesepian. Barangkali, media sosial itu sendiri bukanlah akar masalahnya, yang benar-benar penting adalah bagaimana kita menggunakannya secara bijak, agar tetap bisa menjaga hubungan dengan teman yang jauh, sekaligus tidak mengabaikan hubungan antarmanusia yang nyata di sekitar kita.",
+    "glossary": [
+      {
+        "cn": "社交",
+        "py": "shè jiāo",
+        "id": "interaksi"
+      },
+      {
+        "cn": "媒体",
+        "py": "méi tǐ",
+        "id": "media, terutama media berita"
+      },
+      {
+        "cn": "的",
+        "py": "de",
+        "id": "dari; milik ~ (partikel posesif)"
+      },
+      {
+        "cn": "普及",
+        "py": "pǔ jí",
+        "id": "menyebar luas"
+      },
+      {
+        "cn": "彻底",
+        "py": "chè dǐ",
+        "id": "menyeluruh"
+      },
+      {
+        "cn": "改变",
+        "py": "gǎi biàn",
+        "id": "mengubah"
+      },
+      {
+        "cn": "了",
+        "py": "le",
+        "id": "(penanda tindakan selesai)"
+      },
+      {
+        "cn": "人们",
+        "py": "rén men",
+        "id": "orang-orang"
+      },
+      {
+        "cn": "交流",
+        "py": "jiāo liú",
+        "id": "bertukar"
+      },
+      {
+        "cn": "方式",
+        "py": "fāng shì",
+        "id": "cara; metode; perilaku; mode; pola (perilaku dll)"
+      },
+      {
+        "cn": "过去",
+        "py": "guò qù",
+        "id": "(di masa) lalu; mantan; sebelumnya"
+      },
+      {
+        "cn": "想",
+        "py": "xiǎng",
+        "id": "berpikir (tentang); memikirkan; merancang; berpikir (bahwa); percaya (bahwa); ingin; mau (untuk); rindu (merasa sedih karena ketidakberadaan)"
+      },
+      {
+        "cn": "要",
+        "py": "yāo",
+        "id": "(bentuk terikat) menuntut; memaksa"
+      },
+      {
+        "cn": "和",
+        "py": "hé",
+        "id": "varian lama dari 和[he2]"
+      },
+      {
+        "cn": "远方",
+        "py": "yuǎn fāng",
+        "id": "jauh"
+      },
+      {
+        "cn": "朋友",
+        "py": "péng you",
+        "id": "teman"
+      },
+      {
+        "cn": "保持",
+        "py": "bǎo chí",
+        "id": "menjaga"
+      },
+      {
+        "cn": "联系",
+        "py": "lián xì",
+        "id": "koneksi"
+      },
+      {
+        "cn": "可能",
+        "py": "kě néng",
+        "id": "mungkin (terjadi)"
+      },
+      {
+        "cn": "需要",
+        "py": "xū yào",
+        "id": "membutuhkan; menginginkan; menuntut; memerlukan"
+      },
+      {
+        "cn": "写",
+        "py": "xiě",
+        "id": "menulis"
+      },
+      {
+        "cn": "信",
+        "py": "xìn",
+        "id": "surat"
+      },
+      {
+        "cn": "或者",
+        "py": "huò zhě",
+        "id": "atau"
+      },
+      {
+        "cn": "打",
+        "py": "dá",
+        "id": "(kata serapan) lusin"
+      },
+      {
+        "cn": "长途",
+        "py": "cháng tú",
+        "id": "jarak jauh"
+      },
+      {
+        "cn": "电话",
+        "py": "diàn huà",
+        "id": "telepon"
+      },
+      {
+        "cn": "而",
+        "py": "ér",
+        "id": "dan"
+      },
+      {
+        "cn": "现在",
+        "py": "xiàn zài",
+        "id": "sekarang; saat ini"
+      },
+      {
+        "cn": "只",
+        "py": "zhǐ",
+        "id": "hanya"
+      },
+      {
+        "cn": "打开",
+        "py": "dǎ kāi",
+        "id": "membuka"
+      },
+      {
+        "cn": "手机",
+        "py": "shǒu jī",
+        "id": "ponsel; telepon seluler"
+      },
+      {
+        "cn": "就",
+        "py": "jiù",
+        "id": "(setelah klausa pengandaian) dalam hal itu; maka"
+      },
+      {
+        "cn": "能",
+        "py": "Néng",
+        "id": "bisa"
+      },
+      {
+        "cn": "随时",
+        "py": "suí shí",
+        "id": "kapan saja; setiap saat"
+      },
+      {
+        "cn": "看到",
+        "py": "kàn dào",
+        "id": "melihat"
+      },
+      {
+        "cn": "最",
+        "py": "zuì",
+        "id": "varian lama dari 最[zui4]"
+      },
+      {
+        "cn": "新",
+        "py": "Xīn",
+        "id": "singkatan dari Xinjiang 新疆[Xin1 jiang1]"
+      },
+      {
+        "cn": "动态",
+        "py": "dòng tài",
+        "id": "gerakan"
+      },
+      {
+        "cn": "发",
+        "py": "fā",
+        "id": "mengirim"
+      },
+      {
+        "cn": "一",
+        "py": "yī",
+        "id": "satu"
+      },
+      {
+        "cn": "条",
+        "py": "tiáo",
+        "id": "strip"
+      },
+      {
+        "cn": "消息",
+        "py": "xiāo xi",
+        "id": "(sepotong) berita; informasi"
+      },
+      {
+        "cn": "也",
+        "py": "Yě",
+        "id": "juga; terlalu; (tidak ...) juga"
+      },
+      {
+        "cn": "马上",
+        "py": "mǎ shàng",
+        "id": "segera"
+      },
+      {
+        "cn": "得到",
+        "py": "dé dào",
+        "id": "mendapatkan; memperoleh; menerima"
+      },
+      {
+        "cn": "回复",
+        "py": "huí fù",
+        "id": "untuk memulihkan; untuk kembali; untuk kembali ke (kesehatan yang baik, kondisi normal dll)"
+      },
+      {
+        "cn": "从",
+        "py": "cóng",
+        "id": "dari; melalui; lewat"
+      },
+      {
+        "cn": "这",
+        "py": "zhè",
+        "id": "(kata ganti) ini; ini"
+      },
+      {
+        "cn": "个",
+        "py": "gě",
+        "id": "digunakan dalam 自個兒|自个儿[zi4 ge3 r5]"
+      },
+      {
+        "cn": "角度",
+        "py": "jiǎo dù",
+        "id": "sudut; sudut pandang"
+      },
+      {
+        "cn": "来",
+        "py": "lái",
+        "id": "datang"
+      },
+      {
+        "cn": "看",
+        "py": "kān",
+        "id": "menjaga"
+      },
+      {
+        "cn": "确实",
+        "py": "què shí",
+        "id": "memang"
+      },
+      {
+        "cn": "让",
+        "py": "ràng",
+        "id": "mengalah"
+      },
+      {
+        "cn": "人",
+        "py": "rén",
+        "id": "orang; orang-orang"
+      },
+      {
+        "cn": "与",
+        "py": "yú",
+        "id": "dan"
+      },
+      {
+        "cn": "之间",
+        "py": "zhī jiān",
+        "id": "(setelah kata benda) antara; di antara; di tengah"
+      },
+      {
+        "cn": "距离",
+        "py": "jù lí",
+        "id": "jarak"
+      },
+      {
+        "cn": "变",
+        "py": "biàn",
+        "id": "berubah"
+      },
+      {
+        "cn": "得",
+        "py": "dé",
+        "id": "memperoleh"
+      },
+      {
+        "cn": "更",
+        "py": "gēng",
+        "id": "mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)"
+      },
+      {
+        "cn": "近",
+        "py": "jìn",
+        "id": "dekat"
+      },
+      {
+        "cn": "然而",
+        "py": "rán ér",
+        "id": "namun; tetapi; masih"
+      },
+      {
+        "cn": "有",
+        "py": "yǒu",
+        "id": "memiliki; ada"
+      },
+      {
+        "cn": "越来越",
+        "py": "yuè lái yuè",
+        "id": "semakin"
+      },
+      {
+        "cn": "多",
+        "py": "duō",
+        "id": "banyak; banyak sekali; lebih"
+      },
+      {
+        "cn": "开始",
+        "py": "kāi shǐ",
+        "id": "memulai"
+      },
+      {
+        "cn": "反思",
+        "py": "fǎn sī",
+        "id": "memikirkan kembali sesuatu"
+      },
+      {
+        "cn": "种",
+        "py": "zhǒng",
+        "id": "benih"
+      },
+      {
+        "cn": "便利",
+        "py": "biàn lì",
+        "id": "nyaman"
+      },
+      {
+        "cn": "是否",
+        "py": "shì fǒu",
+        "id": "apakah (atau tidak)"
+      },
+      {
+        "cn": "真的",
+        "py": "zhēn de",
+        "id": "benar-benar; sungguh-sungguh; memang"
+      },
+      {
+        "cn": "加深",
+        "py": "jiā shēn",
+        "id": "memperdalam"
+      },
+      {
+        "cn": "感情",
+        "py": "gǎn qíng",
+        "id": "emosi; sentimen"
+      },
+      {
+        "cn": "研究",
+        "py": "yán jiū",
+        "id": "penelitian"
+      },
+      {
+        "cn": "发现",
+        "py": "fā xiàn",
+        "id": "memperhatikan; menyadari"
+      },
+      {
+        "cn": "很",
+        "py": "hěn",
+        "id": "sangat; cukup"
+      },
+      {
+        "cn": "虽然",
+        "py": "suī rán",
+        "id": "meskipun; walaupun (sering digunakan secara korelatif dengan 可是[ke3 shi4] atau 但是[dan4 shi4] dll)"
+      },
+      {
+        "cn": "在",
+        "py": "zài",
+        "id": "ada; menjadi hidup"
+      },
+      {
+        "cn": "上",
+        "py": "shǎng",
+        "id": "(bentuk terikat) atas; bagian atas; di atas; sebelumnya"
+      },
+      {
+        "cn": "拥有",
+        "py": "yōng yǒu",
+        "id": "memiliki; mempunyai"
+      },
+      {
+        "cn": "几",
+        "py": "jī",
+        "id": "meja kecil"
+      },
+      {
+        "cn": "百",
+        "py": "Bǎi",
+        "id": "seratus"
+      },
+      {
+        "cn": "甚至",
+        "py": "shèn zhì",
+        "id": "bahkan; begitu rupa sehingga"
+      },
+      {
+        "cn": "千",
+        "py": "qiān",
+        "id": "ribu"
+      },
+      {
+        "cn": "好友",
+        "py": "hǎo yǒu",
+        "id": "teman dekat"
+      },
+      {
+        "cn": "但",
+        "py": "dàn",
+        "id": "tetapi; namun; akan tetapi; masih"
+      },
+      {
+        "cn": "真正",
+        "py": "zhēn zhèng",
+        "id": "asli; nyata; benar"
+      },
+      {
+        "cn": "能够",
+        "py": "néng gòu",
+        "id": "mampu"
+      },
+      {
+        "cn": "遇到",
+        "py": "yù dào",
+        "id": "bertemu; berpapasan; menemukan"
+      },
+      {
+        "cn": "困难",
+        "py": "kùn nan",
+        "id": "sulit"
+      },
+      {
+        "cn": "时",
+        "py": "shí",
+        "id": "varian lama dari 時|时[shi2]"
+      },
+      {
+        "cn": "倾诉",
+        "py": "qīng sù",
+        "id": "mengatakan segalanya (yang ada di pikiran seseorang)"
+      },
+      {
+        "cn": "心事",
+        "py": "xīn shì",
+        "id": "beban pikiran"
+      },
+      {
+        "cn": "对象",
+        "py": "duì xiàng",
+        "id": "target; objek"
+      },
+      {
+        "cn": "却",
+        "py": "què",
+        "id": "varian lama dari 卻|却[que4]"
+      },
+      {
+        "cn": "少",
+        "py": "shǎo",
+        "id": "sedikit"
+      },
+      {
+        "cn": "之",
+        "py": "zhī",
+        "id": "(partikel posesif, padanan sastra dari 的[de5])"
+      },
+      {
+        "cn": "又",
+        "py": "yòu",
+        "id": "(sekali) lagi"
+      },
+      {
+        "cn": "习惯",
+        "py": "xí guàn",
+        "id": "kebiasaan"
+      },
+      {
+        "cn": "于",
+        "py": "Yú",
+        "id": "pergi"
+      },
+      {
+        "cn": "展示",
+        "py": "zhǎn shì",
+        "id": "mengungkapkan; menampilkan; menunjukkan; memamerkan"
+      },
+      {
+        "cn": "生活",
+        "py": "shēng huó",
+        "id": "hidup"
+      },
+      {
+        "cn": "中",
+        "py": "Zhōng",
+        "id": "(bentuk terikat) Tiongkok; Orang Tiongkok"
+      },
+      {
+        "cn": "美好",
+        "py": "měi hǎo",
+        "id": "indah"
+      },
+      {
+        "cn": "一面",
+        "py": "yī miàn",
+        "id": "satu sisi"
+      },
+      {
+        "cn": "分享",
+        "py": "fēn xiǎng",
+        "id": "berbagi (membiarkan orang lain memiliki sebagian dari sesuatu yang baik)"
+      },
+      {
+        "cn": "真实",
+        "py": "zhēn shí",
+        "id": "sejati; nyata"
+      },
+      {
+        "cn": "烦恼",
+        "py": "fán nǎo",
+        "id": "cemas"
+      },
+      {
+        "cn": "压力",
+        "py": "yā lì",
+        "id": "tekanan"
+      },
+      {
+        "cn": "使得",
+        "py": "shǐ de",
+        "id": "dapat digunakan; dapat diperbaiki"
+      },
+      {
+        "cn": "线",
+        "py": "xiàn",
+        "id": "benang"
+      },
+      {
+        "cn": "常常",
+        "py": "cháng cháng",
+        "id": "sering; kerap kali"
+      },
+      {
+        "cn": "停留",
+        "py": "tíng liú",
+        "id": "tinggal di suatu tempat sementara"
+      },
+      {
+        "cn": "表面",
+        "py": "biǎo miàn",
+        "id": "permukaan"
+      },
+      {
+        "cn": "缺少",
+        "py": "quē shǎo",
+        "id": "kurang"
+      },
+      {
+        "cn": "深入",
+        "py": "shēn rù",
+        "id": "menembus secara mendalam"
+      },
+      {
+        "cn": "理解",
+        "py": "lǐ jiě",
+        "id": "memahami; mengerti"
+      },
+      {
+        "cn": "此外",
+        "py": "cǐ wài",
+        "id": "selain itu; sebagai tambahan; apalagi; lebih jauh lagi"
+      },
+      {
+        "cn": "花费",
+        "py": "huā fèi",
+        "id": "biaya"
+      },
+      {
+        "cn": "大量",
+        "py": "dà liàng",
+        "id": "jumlah besar"
+      },
+      {
+        "cn": "时间",
+        "py": "shí jiān",
+        "id": "(konsep) waktu"
+      },
+      {
+        "cn": "浏览",
+        "py": "liú lǎn",
+        "id": "melirik"
+      },
+      {
+        "cn": "反而",
+        "py": "fǎn ér",
+        "id": "sebaliknya; alih-alih"
+      },
+      {
+        "cn": "减少",
+        "py": "jiǎn shǎo",
+        "id": "mengurangi; menurunkan; mengecilkan"
+      },
+      {
+        "cn": "身边",
+        "py": "shēn biān",
+        "id": "di sisi"
+      },
+      {
+        "cn": "家人",
+        "py": "jiā rén",
+        "id": "anggota keluarga"
+      },
+      {
+        "cn": "面对面",
+        "py": "miàn duì miàn",
+        "id": "tatap muka"
+      },
+      {
+        "cn": "造成",
+        "py": "zào chéng",
+        "id": "mendatangkan; menciptakan; menyebabkan"
+      },
+      {
+        "cn": "表面上",
+        "py": "biǎo miàn shang",
+        "id": "secara lahiriah; secara superfisial; di permukaan"
+      },
+      {
+        "cn": "热闹",
+        "py": "rè nao",
+        "id": "ramai dengan suara dan kegembiraan"
+      },
+      {
+        "cn": "实际上",
+        "py": "shí jì shàng",
+        "id": "pada kenyataannya"
+      },
+      {
+        "cn": "孤独",
+        "py": "gū dú",
+        "id": "kesepian"
+      },
+      {
+        "cn": "现象",
+        "py": "xiàn xiàng",
+        "id": "fenomena"
+      },
+      {
+        "cn": "或许",
+        "py": "huò xǔ",
+        "id": "barangkali; mungkin"
+      },
+      {
+        "cn": "本身",
+        "py": "běn shēn",
+        "id": "dirinya sendiri"
+      },
+      {
+        "cn": "并",
+        "py": "bìng",
+        "id": "dan"
+      },
+      {
+        "cn": "不",
+        "py": "bù",
+        "id": "tidak; tidak begitu"
+      },
+      {
+        "cn": "是",
+        "py": "shì",
+        "id": "adalah (diikuti hanya oleh kata benda)"
+      },
+      {
+        "cn": "问题",
+        "py": "wèn tí",
+        "id": "pertanyaan"
+      },
+      {
+        "cn": "根源",
+        "py": "gēn yuán",
+        "id": "asal"
+      },
+      {
+        "cn": "重要",
+        "py": "zhòng yào",
+        "id": "penting; signifikan; utama"
+      },
+      {
+        "cn": "我们",
+        "py": "wǒ men",
+        "id": "kami; kita; diri kami; milik kami"
+      },
+      {
+        "cn": "如何",
+        "py": "rú hé",
+        "id": "bagaimana"
+      },
+      {
+        "cn": "合理",
+        "py": "hé lǐ",
+        "id": "rasional; masuk akal; bijaksana; adil"
+      },
+      {
+        "cn": "地",
+        "py": "de",
+        "id": "partikel struktural: digunakan sebelum kata kerja atau kata sifat untuk menghubungkan keterangan yang mendahuluinya (setara dengan akhiran “-ly” dalam bahasa Inggris)"
+      },
+      {
+        "cn": "使用",
+        "py": "shǐ yòng",
+        "id": "menggunakan"
+      },
+      {
+        "cn": "它",
+        "py": "tā",
+        "id": "itu"
+      },
+      {
+        "cn": "既",
+        "py": "jì",
+        "id": "sudah"
+      },
+      {
+        "cn": "利用",
+        "py": "lì yòng",
+        "id": "mengeksploitasi"
+      },
+      {
+        "cn": "忽视",
+        "py": "hū shì",
+        "id": "mengabaikan; lupa"
+      },
+      {
+        "cn": "交往",
+        "py": "jiāo wǎng",
+        "id": "bergaul (dengan)"
+      }
+    ]
+  },
+  {
+    "id": "tema_lingkunganhidup_hsk7",
+    "level": 7,
+    "tema": "Lingkungan Hidup",
+    "title": "海洋里的塑料垃圾问题 (Masalah Sampah Plastik di Lautan)",
+    "text": "每年，都有大量的塑料垃圾通过河流、风力等各种途径，最终流入海洋。这些塑料垃圾在海洋中很难自然分解，有些甚至需要几百年的时间才能完全消失。在这个漫长的过程中，塑料垃圾会给海洋生物带来严重的伤害。有些海龟会把漂浮在水面上的塑料袋误认为是水母，吃下去以后无法消化，最终因此死亡；还有一些海鸟和鱼类，会被绳子缠住身体，导致受伤甚至无法正常游动。除了直接伤害海洋动物以外，塑料垃圾在海水和阳光的长期作用下，会慢慢碎裂成非常小的颗粒。这些小小的塑料颗粒很容易被小鱼小虾吃掉，然后一步一步进入到更大的鱼类甚至人类的身体里，可能对健康造成潜在的危害。面对这一问题，一些国家已经开始限制一次性塑料制品的使用，鼓励人们使用可以重复利用的购物袋和水杯，希望能够从源头上，减少流入海洋的塑料垃圾数量。",
+    "translation": "Setiap tahun, sejumlah besar sampah plastik mengalir masuk ke lautan melalui sungai, angin, dan berbagai cara lain. Sampah plastik ini sangat sulit terurai secara alami di laut, ada yang bahkan butuh waktu ratusan tahun untuk benar-benar menghilang. Dalam proses yang panjang ini, sampah plastik akan menimbulkan kerusakan serius bagi makhluk hidup laut. Ada penyu laut yang salah mengira kantong plastik yang mengambang di permukaan air sebagai ubur-ubur, setelah dimakan tidak bisa dicerna, akhirnya mati karenanya; ada juga burung laut dan ikan yang tubuhnya terlilit jaring ikan atau tali plastik, menyebabkan luka bahkan tidak bisa berenang normal. Selain langsung melukai hewan laut, sampah plastik di bawah pengaruh air laut dan sinar matahari dalam jangka panjang, akan perlahan pecah menjadi partikel yang sangat kecil, partikel plastik yang sangat kecil ini disebut mikroplastik. Mikroplastik sangat mudah dimakan oleh ikan dan udang kecil, kemudian melalui rantai makanan, langkah demi langkah masuk ke dalam tubuh ikan yang lebih besar bahkan manusia, yang mungkin menimbulkan bahaya tersembunyi bagi kesehatan. Menghadapi masalah ini, sejumlah negara sudah mulai membatasi penggunaan produk plastik sekali pakai, mendorong orang menggunakan tas belanja dan gelas yang bisa dipakai berulang kali, dengan harapan bisa mengurangi jumlah sampah plastik yang mengalir ke laut sejak dari sumbernya.",
+    "glossary": [
+      {
+        "cn": "每",
+        "py": "měi",
+        "id": "setiap"
+      },
+      {
+        "cn": "年",
+        "py": "Nián",
+        "id": "tahun"
+      },
+      {
+        "cn": "都",
+        "py": "Dū",
+        "id": "semua; keduanya; seluruhnya"
+      },
+      {
+        "cn": "有",
+        "py": "yǒu",
+        "id": "memiliki; ada"
+      },
+      {
+        "cn": "大量",
+        "py": "dà liàng",
+        "id": "jumlah besar"
+      },
+      {
+        "cn": "的",
+        "py": "de",
+        "id": "dari; milik ~ (partikel posesif)"
+      },
+      {
+        "cn": "塑料",
+        "py": "sù liào",
+        "id": "plastik"
+      },
+      {
+        "cn": "垃圾",
+        "py": "lā jī",
+        "id": "sampah"
+      },
+      {
+        "cn": "通过",
+        "py": "tōng guò",
+        "id": "melalui; melewati"
+      },
+      {
+        "cn": "河流",
+        "py": "hé liú",
+        "id": "sungai"
+      },
+      {
+        "cn": "风力",
+        "py": "fēng lì",
+        "id": "kekuatan angin"
+      },
+      {
+        "cn": "等",
+        "py": "děng",
+        "id": "menunggu"
+      },
+      {
+        "cn": "各种",
+        "py": "gè zhǒng",
+        "id": "setiap jenis; semua jenis; berbagai"
+      },
+      {
+        "cn": "途径",
+        "py": "tú jìng",
+        "id": "jalan; cara; saluran"
+      },
+      {
+        "cn": "最终",
+        "py": "zuì zhōng",
+        "id": "akhir"
+      },
+      {
+        "cn": "流入",
+        "py": "liú rù",
+        "id": "mengalir ke"
+      },
+      {
+        "cn": "海洋",
+        "py": "hǎi yáng",
+        "id": "lautan"
+      },
+      {
+        "cn": "这些",
+        "py": "zhè xiē",
+        "id": "ini (jamak)"
+      },
+      {
+        "cn": "在",
+        "py": "zài",
+        "id": "ada; menjadi hidup"
+      },
+      {
+        "cn": "中",
+        "py": "Zhōng",
+        "id": "(bentuk terikat) Tiongkok; Orang Tiongkok"
+      },
+      {
+        "cn": "很",
+        "py": "hěn",
+        "id": "sangat; cukup"
+      },
+      {
+        "cn": "难",
+        "py": "nán",
+        "id": "sulit (untuk...)"
+      },
+      {
+        "cn": "自然",
+        "py": "zì rán",
+        "id": "alam"
+      },
+      {
+        "cn": "分解",
+        "py": "fēn jiě",
+        "id": "menyelesaikan"
+      },
+      {
+        "cn": "有些",
+        "py": "yǒu xiē",
+        "id": "beberapa"
+      },
+      {
+        "cn": "甚至",
+        "py": "shèn zhì",
+        "id": "bahkan; begitu rupa sehingga"
+      },
+      {
+        "cn": "需要",
+        "py": "xū yào",
+        "id": "membutuhkan; menginginkan; menuntut; memerlukan"
+      },
+      {
+        "cn": "几",
+        "py": "jī",
+        "id": "meja kecil"
+      },
+      {
+        "cn": "百",
+        "py": "Bǎi",
+        "id": "seratus"
+      },
+      {
+        "cn": "时间",
+        "py": "shí jiān",
+        "id": "(konsep) waktu"
+      },
+      {
+        "cn": "才能",
+        "py": "cái néng",
+        "id": "bakat"
+      },
+      {
+        "cn": "完全",
+        "py": "wán quán",
+        "id": "lengkap; utuh"
+      },
+      {
+        "cn": "消失",
+        "py": "xiāo shī",
+        "id": "menghilang; memudar"
+      },
+      {
+        "cn": "这",
+        "py": "zhè",
+        "id": "(kata ganti) ini; ini"
+      },
+      {
+        "cn": "个",
+        "py": "gě",
+        "id": "digunakan dalam 自個兒|自个儿[zi4 ge3 r5]"
+      },
+      {
+        "cn": "漫长",
+        "py": "màn cháng",
+        "id": "sangat panjang"
+      },
+      {
+        "cn": "过程",
+        "py": "guò chéng",
+        "id": "jalannya peristiwa"
+      },
+      {
+        "cn": "会",
+        "py": "huì",
+        "id": "bisa; memiliki keahlian; tahu cara"
+      },
+      {
+        "cn": "给",
+        "py": "gěi",
+        "id": "kepada"
+      },
+      {
+        "cn": "生物",
+        "py": "shēng wù",
+        "id": "organisme"
+      },
+      {
+        "cn": "带来",
+        "py": "dài lái",
+        "id": "membawa"
+      },
+      {
+        "cn": "严重",
+        "py": "yán zhòng",
+        "id": "genting; serius; parah; kritis"
+      },
+      {
+        "cn": "伤害",
+        "py": "shāng hài",
+        "id": "melukai; membahayakan"
+      },
+      {
+        "cn": "海",
+        "py": "Hǎi",
+        "id": "lautan"
+      },
+      {
+        "cn": "龟",
+        "py": "guī",
+        "id": "kura-kura; penyu"
+      },
+      {
+        "cn": "把",
+        "py": "bǎ",
+        "id": "memegang; menggenggam"
+      },
+      {
+        "cn": "漂浮",
+        "py": "piāo fú",
+        "id": "mengapung; melayang; melayang (juga kiasan, menjalani kehidupan yang berpindah-pindah); berkeliaran; mencolok; dangkal"
+      },
+      {
+        "cn": "水面",
+        "py": "shuǐ miàn",
+        "id": "permukaan air"
+      },
+      {
+        "cn": "上",
+        "py": "shǎng",
+        "id": "(bentuk terikat) atas; bagian atas; di atas; sebelumnya"
+      },
+      {
+        "cn": "塑料袋",
+        "py": "sù liào dài",
+        "id": "kantong plastik"
+      },
+      {
+        "cn": "误",
+        "py": "wù",
+        "id": "kesalahan"
+      },
+      {
+        "cn": "认为",
+        "py": "rèn wéi",
+        "id": "percaya; berpikir; menganggap; merasa"
+      },
+      {
+        "cn": "是",
+        "py": "shì",
+        "id": "adalah (diikuti hanya oleh kata benda)"
+      },
+      {
+        "cn": "水",
+        "py": "Shuǐ",
+        "id": "air"
+      },
+      {
+        "cn": "母",
+        "py": "mǔ",
+        "id": "ibu"
+      },
+      {
+        "cn": "吃",
+        "py": "chī",
+        "id": "makan; mengonsumsi"
+      },
+      {
+        "cn": "下去",
+        "py": "xià qù",
+        "id": "turun"
+      },
+      {
+        "cn": "以后",
+        "py": "yǐ hòu",
+        "id": "setelah"
+      },
+      {
+        "cn": "无法",
+        "py": "wú fǎ",
+        "id": "tidak dapat; tidak mampu"
+      },
+      {
+        "cn": "消化",
+        "py": "xiāo huà",
+        "id": "mencerna (makanan)"
+      },
+      {
+        "cn": "因此",
+        "py": "yīn cǐ",
+        "id": "karena itu; akibatnya; sebagai akibatnya"
+      },
+      {
+        "cn": "死亡",
+        "py": "sǐ wáng",
+        "id": "meninggal"
+      },
+      {
+        "cn": "还有",
+        "py": "hái yǒu",
+        "id": "masih ada yang tersisa; masih ada"
+      },
+      {
+        "cn": "一些",
+        "py": "yī xiē",
+        "id": "beberapa; sedikit; (mengikuti kata sifat) sedikit lebih ..."
+      },
+      {
+        "cn": "鸟",
+        "py": "diǎo",
+        "id": "penis"
+      },
+      {
+        "cn": "和",
+        "py": "hé",
+        "id": "varian lama dari 和[he2]"
+      },
+      {
+        "cn": "鱼",
+        "py": "Yú",
+        "id": "digunakan dalam nama berbagai hewan air yang bukan ikan (termasuk abalon 鮑魚|鲍鱼[bao4 yu2], aligator dan buaya 鱷魚|鳄鱼[e4 yu2] dan gurita 章魚|章鱼[zhang1 yu2])"
+      },
+      {
+        "cn": "类",
+        "py": "lèi",
+        "id": "jenis; tipe; kelas; kategori"
+      },
+      {
+        "cn": "被",
+        "py": "bèi",
+        "id": "selimut"
+      },
+      {
+        "cn": "绳子",
+        "py": "shéng zi",
+        "id": "tali; benang"
+      },
+      {
+        "cn": "缠",
+        "py": "chán",
+        "id": "melilit"
+      },
+      {
+        "cn": "住",
+        "py": "zhù",
+        "id": "tinggal"
+      },
+      {
+        "cn": "身体",
+        "py": "shēn tǐ",
+        "id": "tubuh"
+      },
+      {
+        "cn": "导致",
+        "py": "dǎo zhì",
+        "id": "menyebabkan; menciptakan; menimbulkan; menghasilkan"
+      },
+      {
+        "cn": "受伤",
+        "py": "shòu shāng",
+        "id": "menderita luka-luka"
+      },
+      {
+        "cn": "正常",
+        "py": "zhèng cháng",
+        "id": "reguler"
+      },
+      {
+        "cn": "游",
+        "py": "Yóu",
+        "id": "berenang"
+      },
+      {
+        "cn": "动",
+        "py": "dòng",
+        "id": "(sesuatu) bergerak"
+      },
+      {
+        "cn": "除了",
+        "py": "chú le",
+        "id": "terlepas dari; selain itu; di samping (digunakan untuk mengecualikan, seperti dalam 除了他，誰也沒來|除了他，谁也没来[chu2 le5 ta1 , shei2 ye3 mei2 lai2] \"selain dia, tidak ada yang datang\", atau untuk menyertakan, seperti dalam 除了英語，他也會法語|除了英语，他也会法语[chu2 le5 Ying1 yu3 , ta1 ye3 hui4 Fa3 yu3] \"selain bahasa Inggris, dia juga tahu bahasa Prancis\")"
+      },
+      {
+        "cn": "直接",
+        "py": "zhí jiē",
+        "id": "langsung (lawan kata: tidak langsung 間接|间接[jian4 jie1])"
+      },
+      {
+        "cn": "动物",
+        "py": "dòng wù",
+        "id": "binatang"
+      },
+      {
+        "cn": "以外",
+        "py": "yǐ wài",
+        "id": "selain dari"
+      },
+      {
+        "cn": "海水",
+        "py": "hǎi shuǐ",
+        "id": "air laut"
+      },
+      {
+        "cn": "阳光",
+        "py": "yáng guāng",
+        "id": "sinar matahari"
+      },
+      {
+        "cn": "长期",
+        "py": "cháng qī",
+        "id": "jangka panjang"
+      },
+      {
+        "cn": "作用",
+        "py": "zuò yòng",
+        "id": "memengaruhi"
+      },
+      {
+        "cn": "下",
+        "py": "xià",
+        "id": "turun"
+      },
+      {
+        "cn": "慢慢",
+        "py": "màn màn",
+        "id": "perlahan; bertahap"
+      },
+      {
+        "cn": "碎",
+        "py": "suì",
+        "id": "(transitif atau intransitif) pecah berkeping-keping; menghancurkan; hancur"
+      },
+      {
+        "cn": "裂",
+        "py": "liè",
+        "id": "retak"
+      },
+      {
+        "cn": "成",
+        "py": "Chéng",
+        "id": "nama singkat untuk Chengdu 成都[Cheng2 du1]"
+      },
+      {
+        "cn": "非常",
+        "py": "fēi cháng",
+        "id": "sangat; sungguh"
+      },
+      {
+        "cn": "小",
+        "py": "xiǎo",
+        "id": "kecil"
+      },
+      {
+        "cn": "颗粒",
+        "py": "kē lì",
+        "id": "butir"
+      },
+      {
+        "cn": "容易",
+        "py": "róng yì",
+        "id": "mudah; lugas"
+      },
+      {
+        "cn": "虾",
+        "py": "há",
+        "id": "digunakan dalam 蝦蟆|虾蟆[ha2 ma5]"
+      },
+      {
+        "cn": "掉",
+        "py": "diào",
+        "id": "jatuh; menjatuhkan; tertinggal; hilang; kehilangan; mengurangi; jatuh (harga); kehilangan (nilai, berat, dll.); mengibaskan; mengayun; berputar; berubah; menukar; bertukar; pamer; menggugurkan (rambut); (digunakan setelah kata kerja tertentu untuk menunjukkan penyelesaian, pemenuhan, penghapusan, dll.)"
+      },
+      {
+        "cn": "然后",
+        "py": "rán hòu",
+        "id": "kemudian; setelah itu; sesudahnya"
+      },
+      {
+        "cn": "一",
+        "py": "yī",
+        "id": "satu"
+      },
+      {
+        "cn": "步",
+        "py": "Bù",
+        "id": "satu langkah"
+      },
+      {
+        "cn": "进入",
+        "py": "jìn rù",
+        "id": "masuk"
+      },
+      {
+        "cn": "到",
+        "py": "dào",
+        "id": "mencapai; tiba"
+      },
+      {
+        "cn": "更",
+        "py": "gēng",
+        "id": "mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)"
+      },
+      {
+        "cn": "大",
+        "py": "dà",
+        "id": "besar; luas; hebat"
+      },
+      {
+        "cn": "人类",
+        "py": "rén lèi",
+        "id": "kemanusiaan"
+      },
+      {
+        "cn": "里",
+        "py": "lǐ",
+        "id": "lapisan dalam"
+      },
+      {
+        "cn": "可能",
+        "py": "kě néng",
+        "id": "mungkin (terjadi)"
+      },
+      {
+        "cn": "对",
+        "py": "duì",
+        "id": "benar; tepat"
+      },
+      {
+        "cn": "健康",
+        "py": "jiàn kāng",
+        "id": "kesehatan"
+      },
+      {
+        "cn": "造成",
+        "py": "zào chéng",
+        "id": "mendatangkan; menciptakan; menyebabkan"
+      },
+      {
+        "cn": "潜在",
+        "py": "qián zài",
+        "id": "tersembunyi"
+      },
+      {
+        "cn": "危害",
+        "py": "wēi hài",
+        "id": "membahayakan"
+      },
+      {
+        "cn": "面对",
+        "py": "miàn duì",
+        "id": "menghadapi; konfrontasi"
+      },
+      {
+        "cn": "问题",
+        "py": "wèn tí",
+        "id": "pertanyaan"
+      },
+      {
+        "cn": "国家",
+        "py": "guó jiā",
+        "id": "negara; bangsa"
+      },
+      {
+        "cn": "已经",
+        "py": "yǐ jīng",
+        "id": "sudah"
+      },
+      {
+        "cn": "开始",
+        "py": "kāi shǐ",
+        "id": "memulai"
+      },
+      {
+        "cn": "限制",
+        "py": "xiàn zhì",
+        "id": "membatasi"
+      },
+      {
+        "cn": "一次性",
+        "py": "yī cì xìng",
+        "id": "sekali saja (penawaran)"
+      },
+      {
+        "cn": "制品",
+        "py": "zhì pǐn",
+        "id": "produk"
+      },
+      {
+        "cn": "使用",
+        "py": "shǐ yòng",
+        "id": "menggunakan"
+      },
+      {
+        "cn": "鼓励",
+        "py": "gǔ lì",
+        "id": "mendorong; menyemangati"
+      },
+      {
+        "cn": "人们",
+        "py": "rén men",
+        "id": "orang-orang"
+      },
+      {
+        "cn": "可以",
+        "py": "kě yǐ",
+        "id": "bisa"
+      },
+      {
+        "cn": "重复",
+        "py": "chóng fù",
+        "id": "mengulang"
+      },
+      {
+        "cn": "利用",
+        "py": "lì yòng",
+        "id": "mengeksploitasi"
+      },
+      {
+        "cn": "购物",
+        "py": "gòu wù",
+        "id": "berbelanja"
+      },
+      {
+        "cn": "袋",
+        "py": "dài",
+        "id": "kantong"
+      },
+      {
+        "cn": "杯",
+        "py": "bēi",
+        "id": "cangkir"
+      },
+      {
+        "cn": "希望",
+        "py": "xī wàng",
+        "id": "berharap"
+      },
+      {
+        "cn": "能够",
+        "py": "néng gòu",
+        "id": "mampu"
+      },
+      {
+        "cn": "从",
+        "py": "cóng",
+        "id": "dari; melalui; lewat"
+      },
+      {
+        "cn": "源头",
+        "py": "yuán tóu",
+        "id": "sumber; asal; mata air"
+      },
+      {
+        "cn": "减少",
+        "py": "jiǎn shǎo",
+        "id": "mengurangi; menurunkan; mengecilkan"
+      },
+      {
+        "cn": "数量",
+        "py": "shù liàng",
+        "id": "kuantitatif"
+      }
+    ]
+  },
+  {
+    "id": "tema_pendidikan_hsk7",
+    "level": 7,
+    "tema": "Pendidikan",
+    "title": "在家上学是不是一个好选择 (Apakah Belajar di Rumah Pilihan yang Baik)",
+    "text": "近几年，选择让孩子在家接受教育、而不是去学校上学的家庭正在慢慢增加。支持这种教育方式的家长认为，在家上学可以根据孩子自身的兴趣和学习速度，安排更加灵活的课程，不必受到学校统一进度的限制，孩子也可以有更多时间发展自己特别喜欢的爱好。此外，一些家长还担心学校环境中存在的欺负同学、学习压力过大等问题，希望通过在家教育，给孩子提供一个更加安全、轻松的成长环境。然而，反对这种做法的人也提出了不同的担忧。他们认为，学校不仅仅是学习知识的地方，更是孩子学习如何与不同性格的人相处、如何在集体中承担责任的重要场所。长期在家学习的孩子，可能会缺少与年纪差不多的孩子交往的机会，这对孩子社交能力的发展，可能产生不利的影响。另外，并不是所有家长都具备足够的时间和专业知识，来承担起孩子各科目的教学任务，如果安排不当，反而可能影响孩子的学习效果。总的来说，在家上学是否是一个好选择，恐怕并没有统一的答案，需要根据每个孩子和家庭的具体情况来判断。",
+    "translation": "Beberapa tahun terakhir, keluarga yang memilih mendidik anak di rumah, alih-alih menyekolahkannya, perlahan bertambah. Orang tua yang mendukung cara pendidikan ini berpendapat bahwa belajar di rumah bisa mengatur kurikulum yang lebih fleksibel sesuai minat dan kecepatan belajar anak sendiri, tidak perlu terikat oleh kemajuan seragam sekolah, anak juga bisa punya lebih banyak waktu mengembangkan hobi yang sangat disukainya. Selain itu, sejumlah orang tua juga khawatir dengan masalah seperti perundungan antar siswa dan tekanan belajar yang berlebihan di lingkungan sekolah, sehingga berharap melalui pendidikan di rumah bisa memberi anak lingkungan tumbuh kembang yang lebih aman dan santai. Namun, pihak yang menentang cara ini juga mengajukan kekhawatiran yang berbeda. Mereka berpendapat sekolah bukan hanya tempat belajar pengetahuan, tetapi juga tempat penting bagi anak belajar bagaimana bergaul dengan orang berkarakter berbeda dan bagaimana memikul tanggung jawab dalam kelompok. Anak yang belajar di rumah dalam jangka panjang mungkin kekurangan kesempatan bergaul dengan teman seusianya, yang bisa berdampak kurang baik bagi perkembangan kemampuan sosial anak. Selain itu, tidak semua orang tua memiliki cukup waktu dan pengetahuan profesional untuk mengemban tugas mengajar berbagai mata pelajaran anak, jika pengaturannya kurang tepat, justru bisa memengaruhi hasil belajar anak. Secara keseluruhan, apakah belajar di rumah pilihan yang baik, sepertinya tidak memiliki jawaban tunggal, perlu dinilai berdasarkan kondisi konkret setiap anak dan keluarga.",
+    "glossary": [
+      {
+        "cn": "近",
+        "py": "jìn",
+        "id": "dekat"
+      },
+      {
+        "cn": "几",
+        "py": "jī",
+        "id": "meja kecil"
+      },
+      {
+        "cn": "年",
+        "py": "Nián",
+        "id": "tahun"
+      },
+      {
+        "cn": "选择",
+        "py": "xuǎn zé",
+        "id": "memilih"
+      },
+      {
+        "cn": "让",
+        "py": "ràng",
+        "id": "mengalah"
+      },
+      {
+        "cn": "孩子",
+        "py": "hái zi",
+        "id": "anak"
+      },
+      {
+        "cn": "在家",
+        "py": "zài jiā",
+        "id": "berada di rumah"
+      },
+      {
+        "cn": "接受",
+        "py": "jiē shòu",
+        "id": "menerima (saran, hukuman, suap, dll); menyetujui"
+      },
+      {
+        "cn": "教育",
+        "py": "jiào yù",
+        "id": "mendidik"
+      },
+      {
+        "cn": "而",
+        "py": "ér",
+        "id": "dan"
+      },
+      {
+        "cn": "不",
+        "py": "bù",
+        "id": "tidak; tidak begitu"
+      },
+      {
+        "cn": "是",
+        "py": "shì",
+        "id": "adalah (diikuti hanya oleh kata benda)"
+      },
+      {
+        "cn": "去",
+        "py": "qù",
+        "id": "pergi"
+      },
+      {
+        "cn": "学校",
+        "py": "xué xiào",
+        "id": "sekolah"
+      },
+      {
+        "cn": "上学",
+        "py": "shàng xué",
+        "id": "pergi ke sekolah"
+      },
+      {
+        "cn": "的",
+        "py": "de",
+        "id": "dari; milik ~ (partikel posesif)"
+      },
+      {
+        "cn": "家庭",
+        "py": "jiā tíng",
+        "id": "keluarga"
+      },
+      {
+        "cn": "正在",
+        "py": "zhèng zài",
+        "id": "berada dalam proses (melakukan sesuatu); sedang ...-ing"
+      },
+      {
+        "cn": "慢慢",
+        "py": "màn màn",
+        "id": "perlahan; bertahap"
+      },
+      {
+        "cn": "增加",
+        "py": "zēng jiā",
+        "id": "menaikkan; menambah"
+      },
+      {
+        "cn": "支持",
+        "py": "zhī chí",
+        "id": "mendukung"
+      },
+      {
+        "cn": "这",
+        "py": "zhè",
+        "id": "(kata ganti) ini; ini"
+      },
+      {
+        "cn": "种",
+        "py": "zhǒng",
+        "id": "benih"
+      },
+      {
+        "cn": "方式",
+        "py": "fāng shì",
+        "id": "cara; metode; perilaku; mode; pola (perilaku dll)"
+      },
+      {
+        "cn": "家长",
+        "py": "jiā zhǎng",
+        "id": "kepala rumah tangga"
+      },
+      {
+        "cn": "认为",
+        "py": "rèn wéi",
+        "id": "percaya; berpikir; menganggap; merasa"
+      },
+      {
+        "cn": "可以",
+        "py": "kě yǐ",
+        "id": "bisa"
+      },
+      {
+        "cn": "根据",
+        "py": "gēn jù",
+        "id": "menurut"
+      },
+      {
+        "cn": "自身",
+        "py": "zì shēn",
+        "id": "dirinya sendiri"
+      },
+      {
+        "cn": "兴趣",
+        "py": "xìng qù",
+        "id": "ketertarikan (keinginan untuk tahu tentang sesuatu)"
+      },
+      {
+        "cn": "和",
+        "py": "hé",
+        "id": "varian lama dari 和[he2]"
+      },
+      {
+        "cn": "学习",
+        "py": "xué xí",
+        "id": "belajar"
+      },
+      {
+        "cn": "速度",
+        "py": "sù dù",
+        "id": "kecepatan"
+      },
+      {
+        "cn": "安排",
+        "py": "ān pái",
+        "id": "mengatur"
+      },
+      {
+        "cn": "更加",
+        "py": "gèng jiā",
+        "id": "lebih (daripada yang lain); bahkan lebih"
+      },
+      {
+        "cn": "灵活",
+        "py": "líng huó",
+        "id": "fleksibel"
+      },
+      {
+        "cn": "课程",
+        "py": "kè chéng",
+        "id": "kursus; program akademik"
+      },
+      {
+        "cn": "不必",
+        "py": "bù bì",
+        "id": "tidak perlu"
+      },
+      {
+        "cn": "受到",
+        "py": "shòu dào",
+        "id": "menerima (pujian, pendidikan, hukuman dll)"
+      },
+      {
+        "cn": "统一",
+        "py": "tǒng yī",
+        "id": "menyatukan; mengintegrasikan"
+      },
+      {
+        "cn": "进度",
+        "py": "jìn dù",
+        "id": "tingkat kemajuan"
+      },
+      {
+        "cn": "限制",
+        "py": "xiàn zhì",
+        "id": "membatasi"
+      },
+      {
+        "cn": "也",
+        "py": "Yě",
+        "id": "juga; terlalu; (tidak ...) juga"
+      },
+      {
+        "cn": "有",
+        "py": "yǒu",
+        "id": "memiliki; ada"
+      },
+      {
+        "cn": "更",
+        "py": "gēng",
+        "id": "mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)"
+      },
+      {
+        "cn": "多",
+        "py": "duō",
+        "id": "banyak; banyak sekali; lebih"
+      },
+      {
+        "cn": "时间",
+        "py": "shí jiān",
+        "id": "(konsep) waktu"
+      },
+      {
+        "cn": "发展",
+        "py": "fā zhǎn",
+        "id": "pembangunan"
+      },
+      {
+        "cn": "自己",
+        "py": "zì jǐ",
+        "id": "diri sendiri"
+      },
+      {
+        "cn": "特别",
+        "py": "tè bié",
+        "id": "tidak biasa; istimewa; sangat; terutama; khususnya; secara khusus; tujuan tertentu (sering diikuti oleh 是[shi4]) khususnya"
+      },
+      {
+        "cn": "喜欢",
+        "py": "xǐ huan",
+        "id": "menyukai; gemar"
+      },
+      {
+        "cn": "爱好",
+        "py": "ài hào",
+        "id": "menyukai; gemar; senang; berminat pada"
+      },
+      {
+        "cn": "此外",
+        "py": "cǐ wài",
+        "id": "selain itu; sebagai tambahan; apalagi; lebih jauh lagi"
+      },
+      {
+        "cn": "一些",
+        "py": "yī xiē",
+        "id": "beberapa; sedikit; (mengikuti kata sifat) sedikit lebih ..."
+      },
+      {
+        "cn": "还",
+        "py": "Huán",
+        "id": "masih"
+      },
+      {
+        "cn": "担心",
+        "py": "dān xīn",
+        "id": "cemas"
+      },
+      {
+        "cn": "环境",
+        "py": "huán jìng",
+        "id": "lingkungan"
+      },
+      {
+        "cn": "中",
+        "py": "Zhōng",
+        "id": "(bentuk terikat) Tiongkok; Orang Tiongkok"
+      },
+      {
+        "cn": "存在",
+        "py": "cún zài",
+        "id": "ada"
+      },
+      {
+        "cn": "欺负",
+        "py": "qī fu",
+        "id": "mengganggu"
+      },
+      {
+        "cn": "同学",
+        "py": "tóng xué",
+        "id": "belajar di sekolah yang sama"
+      },
+      {
+        "cn": "压力",
+        "py": "yā lì",
+        "id": "tekanan"
+      },
+      {
+        "cn": "过",
+        "py": "Guō",
+        "id": "menyeberang"
+      },
+      {
+        "cn": "大",
+        "py": "dà",
+        "id": "besar; luas; hebat"
+      },
+      {
+        "cn": "等",
+        "py": "děng",
+        "id": "menunggu"
+      },
+      {
+        "cn": "问题",
+        "py": "wèn tí",
+        "id": "pertanyaan"
+      },
+      {
+        "cn": "希望",
+        "py": "xī wàng",
+        "id": "berharap"
+      },
+      {
+        "cn": "通过",
+        "py": "tōng guò",
+        "id": "melalui; melewati"
+      },
+      {
+        "cn": "给",
+        "py": "gěi",
+        "id": "kepada"
+      },
+      {
+        "cn": "提供",
+        "py": "tí gōng",
+        "id": "menawarkan"
+      },
+      {
+        "cn": "一",
+        "py": "yī",
+        "id": "satu"
+      },
+      {
+        "cn": "个",
+        "py": "gě",
+        "id": "digunakan dalam 自個兒|自个儿[zi4 ge3 r5]"
+      },
+      {
+        "cn": "安全",
+        "py": "ān quán",
+        "id": "aman"
+      },
+      {
+        "cn": "轻松",
+        "py": "qīng sōng",
+        "id": "ringan"
+      },
+      {
+        "cn": "成长",
+        "py": "chéng zhǎng",
+        "id": "menjadi dewasa"
+      },
+      {
+        "cn": "然而",
+        "py": "rán ér",
+        "id": "namun; tetapi; masih"
+      },
+      {
+        "cn": "反对",
+        "py": "fǎn duì",
+        "id": "menentang; keberatan"
+      },
+      {
+        "cn": "做法",
+        "py": "zuò fǎ",
+        "id": "cara menangani sesuatu"
+      },
+      {
+        "cn": "人",
+        "py": "rén",
+        "id": "orang; orang-orang"
+      },
+      {
+        "cn": "提出",
+        "py": "tí chū",
+        "id": "mengajukan (isu)"
+      },
+      {
+        "cn": "了",
+        "py": "le",
+        "id": "(penanda tindakan selesai)"
+      },
+      {
+        "cn": "不同",
+        "py": "bù tóng",
+        "id": "berbeda"
+      },
+      {
+        "cn": "担忧",
+        "py": "dān yōu",
+        "id": "cemas"
+      },
+      {
+        "cn": "他们",
+        "py": "tā men",
+        "id": "mereka"
+      },
+      {
+        "cn": "不仅仅",
+        "py": "bù jǐn jǐn",
+        "id": "tidak hanya; tidak cuma"
+      },
+      {
+        "cn": "知识",
+        "py": "zhī shi",
+        "id": "pengetahuan"
+      },
+      {
+        "cn": "地方",
+        "py": "dì fāng",
+        "id": "wilayah"
+      },
+      {
+        "cn": "更是",
+        "py": "gèng shì",
+        "id": "bahkan lebih (demikian); terlebih lagi"
+      },
+      {
+        "cn": "如何",
+        "py": "rú hé",
+        "id": "bagaimana"
+      },
+      {
+        "cn": "与",
+        "py": "yú",
+        "id": "dan"
+      },
+      {
+        "cn": "性格",
+        "py": "xìng gé",
+        "id": "sifat"
+      },
+      {
+        "cn": "相处",
+        "py": "xiāng chǔ",
+        "id": "bergaul (dengan seseorang)"
+      },
+      {
+        "cn": "在",
+        "py": "zài",
+        "id": "ada; menjadi hidup"
+      },
+      {
+        "cn": "集体",
+        "py": "jí tǐ",
+        "id": "kolektif (keputusan)"
+      },
+      {
+        "cn": "承担",
+        "py": "chéng dān",
+        "id": "mengambil"
+      },
+      {
+        "cn": "责任",
+        "py": "zé rèn",
+        "id": "tanggung jawab"
+      },
+      {
+        "cn": "重要",
+        "py": "zhòng yào",
+        "id": "penting; signifikan; utama"
+      },
+      {
+        "cn": "场所",
+        "py": "chǎng suǒ",
+        "id": "lokasi; tempat"
+      },
+      {
+        "cn": "长期",
+        "py": "cháng qī",
+        "id": "jangka panjang"
+      },
+      {
+        "cn": "可能",
+        "py": "kě néng",
+        "id": "mungkin (terjadi)"
+      },
+      {
+        "cn": "会",
+        "py": "huì",
+        "id": "bisa; memiliki keahlian; tahu cara"
+      },
+      {
+        "cn": "缺少",
+        "py": "quē shǎo",
+        "id": "kurang"
+      },
+      {
+        "cn": "年纪",
+        "py": "nián jì",
+        "id": "usia"
+      },
+      {
+        "cn": "差不多",
+        "py": "chà bu duō",
+        "id": "hampir"
+      },
+      {
+        "cn": "交往",
+        "py": "jiāo wǎng",
+        "id": "bergaul (dengan)"
+      },
+      {
+        "cn": "机会",
+        "py": "jī huì",
+        "id": "kesempatan; peluang; acara"
+      },
+      {
+        "cn": "对",
+        "py": "duì",
+        "id": "benar; tepat"
+      },
+      {
+        "cn": "社交",
+        "py": "shè jiāo",
+        "id": "interaksi"
+      },
+      {
+        "cn": "能力",
+        "py": "néng lì",
+        "id": "kemampuan"
+      },
+      {
+        "cn": "产生",
+        "py": "chǎn shēng",
+        "id": "muncul; lahir; terjadi"
+      },
+      {
+        "cn": "不利",
+        "py": "bù lì",
+        "id": "tidak menguntungkan"
+      },
+      {
+        "cn": "影响",
+        "py": "yǐng xiǎng",
+        "id": "pengaruh"
+      },
+      {
+        "cn": "另外",
+        "py": "lìng wài",
+        "id": "tambahan"
+      },
+      {
+        "cn": "并",
+        "py": "bìng",
+        "id": "dan"
+      },
+      {
+        "cn": "所有",
+        "py": "suǒ yǒu",
+        "id": "semua"
+      },
+      {
+        "cn": "都",
+        "py": "Dū",
+        "id": "semua; keduanya; seluruhnya"
+      },
+      {
+        "cn": "具备",
+        "py": "jù bèi",
+        "id": "memiliki"
+      },
+      {
+        "cn": "足够",
+        "py": "zú gòu",
+        "id": "cukup; memadai"
+      },
+      {
+        "cn": "专业",
+        "py": "zhuān yè",
+        "id": "spesialisasi"
+      },
+      {
+        "cn": "来",
+        "py": "lái",
+        "id": "datang"
+      },
+      {
+        "cn": "起",
+        "py": "qǐ",
+        "id": "bangkit"
+      },
+      {
+        "cn": "各",
+        "py": "gè",
+        "id": "masing-masing"
+      },
+      {
+        "cn": "科目",
+        "py": "kē mù",
+        "id": "mata pelajaran akademik"
+      },
+      {
+        "cn": "教学",
+        "py": "jiāo xué",
+        "id": "mengajar (sebagai profesor)"
+      },
+      {
+        "cn": "任务",
+        "py": "rèn wu",
+        "id": "misi; tugas; pekerjaan; kewajiban; peran"
+      },
+      {
+        "cn": "如果",
+        "py": "rú guǒ",
+        "id": "jika"
+      },
+      {
+        "cn": "当",
+        "py": "dāng",
+        "id": "(tiruan bunyi) dong"
+      },
+      {
+        "cn": "反而",
+        "py": "fǎn ér",
+        "id": "sebaliknya; alih-alih"
+      },
+      {
+        "cn": "效果",
+        "py": "xiào guǒ",
+        "id": "hasil"
+      },
+      {
+        "cn": "总的来说",
+        "py": "zǒng de lái shuō",
+        "id": "secara umum"
+      },
+      {
+        "cn": "是否",
+        "py": "shì fǒu",
+        "id": "apakah (atau tidak)"
+      },
+      {
+        "cn": "好",
+        "py": "hǎo",
+        "id": "baik"
+      },
+      {
+        "cn": "恐怕",
+        "py": "kǒng pà",
+        "id": "takut"
+      },
+      {
+        "cn": "没有",
+        "py": "méi yǒu",
+        "id": "belum punya; belum ada; tidak ada; tidak memiliki; bukan"
+      },
+      {
+        "cn": "答案",
+        "py": "dá àn",
+        "id": "jawaban"
+      },
+      {
+        "cn": "需要",
+        "py": "xū yào",
+        "id": "membutuhkan; menginginkan; menuntut; memerlukan"
+      },
+      {
+        "cn": "每",
+        "py": "měi",
+        "id": "setiap"
+      },
+      {
+        "cn": "具体",
+        "py": "jù tǐ",
+        "id": "konkret; spesifik; rinci"
+      },
+      {
+        "cn": "情况",
+        "py": "qíng kuàng",
+        "id": "situasi; keadaan; KP:個|个[ge4],種|种[zhong3]"
+      },
+      {
+        "cn": "判断",
+        "py": "pàn duàn",
+        "id": "menilai"
+      }
+    ]
+  },
+  {
+    "id": "tema_tekstilfashion_hsk8",
+    "level": 8,
+    "tema": "Tekstil & Fashion",
+    "title": "快时尚背后的环境代价 (Harga Lingkungan di Balik Fesyen Cepat)",
+    "text": "近年来，快时尚这一商业模式在全球范围内迅速扩张。所谓快时尚，指的是服装品牌以极快的速度设计、生产并推出新款服饰，往往每隔几周就会更新一批产品，价格通常也很便宜。这种模式满足了消费者对新鲜感和低价格的追求，也让追赶潮流变得前所未有的容易。然而，快时尚的繁荣背后，隐藏着巨大的环境代价。首先，服装的生产过程需要消耗大量的水资源，染色和印花工艺还会产生含有化学物质的废水，如果处理不当，将严重污染河流和土壤。其次，由于快时尚服装通常价格很便宜、质量一般，消费者往往在穿过几次之后就将其丢弃，导致大量纺织品垃圾被送往垃圾填埋场，而这些合成纤维材料往往需要数十年甚至数百年才能自然分解。此外，快时尚产业还带来了巨大的碳排放，从原材料的种植与加工，到成品的生产与全球运输，整个供应过程都在持续消耗能源。面对这些问题，一些品牌开始尝试使用可回收材料，推出回收旧衣服的计划，也有越来越多的消费者，开始重新思考自己的消费习惯，倾向于购买质量更好、能够穿得更久的服装，而不是不断追逐短暂的潮流。",
+    "translation": "Belakangan ini, model bisnis fesyen cepat berkembang pesat di seluruh dunia. Yang disebut fesyen cepat adalah merek pakaian merancang, memproduksi, dan meluncurkan model baju baru dengan kecepatan sangat tinggi, sering kali memperbarui produk setiap beberapa minggu, dan harganya biasanya juga sangat terjangkau. Model ini memenuhi keinginan konsumen akan hal baru dan harga murah, sekaligus membuat mengikuti tren menjadi sangat mudah seperti belum pernah terjadi sebelumnya. Namun, di balik kejayaan fesyen cepat, tersembunyi harga lingkungan yang sangat besar. Pertama, proses produksi pakaian membutuhkan banyak sumber daya air, proses pewarnaan dan pencetakan pola juga menghasilkan air limbah yang mengandung zat kimia, jika tidak diolah dengan baik, akan mencemari sungai dan tanah secara serius. Kedua, karena pakaian fesyen cepat biasanya berharga murah dan kualitasnya biasa saja, konsumen sering membuangnya setelah dipakai beberapa kali, menyebabkan banyak sampah tekstil dikirim ke tempat pembuangan akhir, sementara bahan serat sintetis ini biasanya butuh puluhan bahkan ratusan tahun untuk terurai secara alami. Selain itu, industri fesyen cepat juga membawa emisi karbon yang sangat besar, dari penanaman dan pengolahan bahan baku hingga produksi barang jadi dan pengiriman global, seluruh proses pasokan terus-menerus mengonsumsi energi. Menghadapi masalah ini, sejumlah merek mulai mencoba menggunakan bahan yang bisa didaur ulang, meluncurkan program daur ulang pakaian lama, dan semakin banyak konsumen mulai memikirkan ulang kebiasaan konsumsi mereka sendiri, cenderung membeli pakaian berkualitas lebih baik yang bisa dipakai lebih lama, alih-alih terus mengejar tren yang singkat.",
+    "glossary": [
+      {
+        "cn": "近年来",
+        "py": "jìn nián lái",
+        "id": "selama beberapa tahun terakhir"
+      },
+      {
+        "cn": "快",
+        "py": "kuài",
+        "id": "cepat"
+      },
+      {
+        "cn": "时尚",
+        "py": "shí shàng",
+        "id": "mode"
+      },
+      {
+        "cn": "这",
+        "py": "zhè",
+        "id": "(kata ganti) ini; ini"
+      },
+      {
+        "cn": "一",
+        "py": "yī",
+        "id": "satu"
+      },
+      {
+        "cn": "商业",
+        "py": "shāng yè",
+        "id": "bisnis"
+      },
+      {
+        "cn": "模式",
+        "py": "mó shì",
+        "id": "mode; pola; model"
+      },
+      {
+        "cn": "在",
+        "py": "zài",
+        "id": "ada; menjadi hidup"
+      },
+      {
+        "cn": "全球",
+        "py": "quán qiú",
+        "id": "seluruh dunia"
+      },
+      {
+        "cn": "范围",
+        "py": "fàn wéi",
+        "id": "rentang"
+      },
+      {
+        "cn": "内",
+        "py": "nèi",
+        "id": "dalam"
+      },
+      {
+        "cn": "迅速",
+        "py": "xùn sù",
+        "id": "cepat"
+      },
+      {
+        "cn": "扩张",
+        "py": "kuò zhāng",
+        "id": "ekspansi"
+      },
+      {
+        "cn": "所谓",
+        "py": "suǒ wèi",
+        "id": "apa yang dimaksud dengan ungkapan ...; apa yang disebut sebagai ..."
+      },
+      {
+        "cn": "指",
+        "py": "zhǐ",
+        "id": "jari"
+      },
+      {
+        "cn": "的",
+        "py": "de",
+        "id": "dari; milik ~ (partikel posesif)"
+      },
+      {
+        "cn": "是",
+        "py": "shì",
+        "id": "adalah (diikuti hanya oleh kata benda)"
+      },
+      {
+        "cn": "服装",
+        "py": "fú zhuāng",
+        "id": "busana"
+      },
+      {
+        "cn": "品牌",
+        "py": "pǐn pái",
+        "id": "nama merek"
+      },
+      {
+        "cn": "以",
+        "py": "yǐ",
+        "id": "varian lama dari 以[yi3]"
+      },
+      {
+        "cn": "极",
+        "py": "jí",
+        "id": "sangat"
+      },
+      {
+        "cn": "速度",
+        "py": "sù dù",
+        "id": "kecepatan"
+      },
+      {
+        "cn": "设计",
+        "py": "shè jì",
+        "id": "merancang; merencanakan"
+      },
+      {
+        "cn": "生产",
+        "py": "shēng chǎn",
+        "id": "memproduksi; memanufaktur"
+      },
+      {
+        "cn": "并",
+        "py": "bìng",
+        "id": "dan"
+      },
+      {
+        "cn": "推出",
+        "py": "tuī chū",
+        "id": "mendorong keluar"
+      },
+      {
+        "cn": "新款",
+        "py": "xīn kuǎn",
+        "id": "model baru"
+      },
+      {
+        "cn": "服饰",
+        "py": "fú shì",
+        "id": "pakaian"
+      },
+      {
+        "cn": "往往",
+        "py": "wǎng wǎng",
+        "id": "biasanya"
+      },
+      {
+        "cn": "每",
+        "py": "měi",
+        "id": "setiap"
+      },
+      {
+        "cn": "隔",
+        "py": "gé",
+        "id": "memisahkan"
+      },
+      {
+        "cn": "几",
+        "py": "jī",
+        "id": "meja kecil"
+      },
+      {
+        "cn": "周",
+        "py": "Zhōu",
+        "id": "Dinasti Zhou (1046–256 SM)"
+      },
+      {
+        "cn": "就",
+        "py": "jiù",
+        "id": "(setelah klausa pengandaian) dalam hal itu; maka"
+      },
+      {
+        "cn": "会",
+        "py": "huì",
+        "id": "bisa; memiliki keahlian; tahu cara"
+      },
+      {
+        "cn": "更新",
+        "py": "gēng xīn",
+        "id": "mengganti yang lama dengan yang baru; memperbarui; merenovasi; meningkatkan; meregenerasi"
+      },
+      {
+        "cn": "批",
+        "py": "pī",
+        "id": "memastikan"
+      },
+      {
+        "cn": "产品",
+        "py": "chǎn pǐn",
+        "id": "barang"
+      },
+      {
+        "cn": "价格",
+        "py": "jià gé",
+        "id": "harga"
+      },
+      {
+        "cn": "通常",
+        "py": "tōng cháng",
+        "id": "biasa; lazim; normal"
+      },
+      {
+        "cn": "也",
+        "py": "Yě",
+        "id": "juga; terlalu; (tidak ...) juga"
+      },
+      {
+        "cn": "很",
+        "py": "hěn",
+        "id": "sangat; cukup"
+      },
+      {
+        "cn": "便宜",
+        "py": "biàn yí",
+        "id": "nyaman"
+      },
+      {
+        "cn": "种",
+        "py": "zhǒng",
+        "id": "benih"
+      },
+      {
+        "cn": "满足",
+        "py": "mǎn zú",
+        "id": "memuaskan"
+      },
+      {
+        "cn": "了",
+        "py": "le",
+        "id": "(penanda tindakan selesai)"
+      },
+      {
+        "cn": "消费者",
+        "py": "xiāo fèi zhě",
+        "id": "konsumen"
+      },
+      {
+        "cn": "对",
+        "py": "duì",
+        "id": "benar; tepat"
+      },
+      {
+        "cn": "新鲜",
+        "py": "xīn xiān",
+        "id": "segar (pengalaman, makanan, dll.)"
+      },
+      {
+        "cn": "感",
+        "py": "gǎn",
+        "id": "merasa"
+      },
+      {
+        "cn": "和",
+        "py": "hé",
+        "id": "varian lama dari 和[he2]"
+      },
+      {
+        "cn": "低价",
+        "py": "dī jià",
+        "id": "harga rendah"
+      },
+      {
+        "cn": "格",
+        "py": "gé",
+        "id": "digunakan dalam 格登[ge1 deng1]"
+      },
+      {
+        "cn": "追求",
+        "py": "zhuī qiú",
+        "id": "mengejar (tujuan dll) dengan gigih"
+      },
+      {
+        "cn": "让",
+        "py": "ràng",
+        "id": "mengalah"
+      },
+      {
+        "cn": "追赶",
+        "py": "zhuī gǎn",
+        "id": "mengejar"
+      },
+      {
+        "cn": "潮流",
+        "py": "cháo liú",
+        "id": "pasang"
+      },
+      {
+        "cn": "变",
+        "py": "biàn",
+        "id": "berubah"
+      },
+      {
+        "cn": "得",
+        "py": "dé",
+        "id": "memperoleh"
+      },
+      {
+        "cn": "前所未有",
+        "py": "qián suǒ wèi yǒu",
+        "id": "(idiom) belum pernah terjadi sebelumnya"
+      },
+      {
+        "cn": "容易",
+        "py": "róng yì",
+        "id": "mudah; lugas"
+      },
+      {
+        "cn": "然而",
+        "py": "rán ér",
+        "id": "namun; tetapi; masih"
+      },
+      {
+        "cn": "繁荣",
+        "py": "fán róng",
+        "id": "makmur; berkembang pesat"
+      },
+      {
+        "cn": "背后",
+        "py": "bèi hòu",
+        "id": "di belakang"
+      },
+      {
+        "cn": "隐藏",
+        "py": "yǐn cáng",
+        "id": "menyembunyikan"
+      },
+      {
+        "cn": "着",
+        "py": "zhāo",
+        "id": "trik; taktik"
+      },
+      {
+        "cn": "巨大",
+        "py": "jù dà",
+        "id": "besar sekali; sangat besar; luar biasa; raksasa"
+      },
+      {
+        "cn": "环境",
+        "py": "huán jìng",
+        "id": "lingkungan"
+      },
+      {
+        "cn": "代价",
+        "py": "dài jià",
+        "id": "harga"
+      },
+      {
+        "cn": "首先",
+        "py": "shǒu xiān",
+        "id": "pertama (di atas segalanya)"
+      },
+      {
+        "cn": "过程",
+        "py": "guò chéng",
+        "id": "jalannya peristiwa"
+      },
+      {
+        "cn": "需要",
+        "py": "xū yào",
+        "id": "membutuhkan; menginginkan; menuntut; memerlukan"
+      },
+      {
+        "cn": "消耗",
+        "py": "xiāo hào",
+        "id": "untuk mengkonsumsi; untuk menghabiskan"
+      },
+      {
+        "cn": "大量",
+        "py": "dà liàng",
+        "id": "jumlah besar"
+      },
+      {
+        "cn": "水",
+        "py": "Shuǐ",
+        "id": "air"
+      },
+      {
+        "cn": "资源",
+        "py": "Zī yuán",
+        "id": "lihat 資源縣|资源县[Zi1 yuan2 Xian4]"
+      },
+      {
+        "cn": "染",
+        "py": "rǎn",
+        "id": "mewarnai"
+      },
+      {
+        "cn": "色",
+        "py": "sè",
+        "id": "warna"
+      },
+      {
+        "cn": "印",
+        "py": "Yìn",
+        "id": "singkatan dari 印度[Yin4 du4], India"
+      },
+      {
+        "cn": "花",
+        "py": "Huā",
+        "id": "bunga"
+      },
+      {
+        "cn": "工艺",
+        "py": "gōng yì",
+        "id": "kerajinan tangan"
+      },
+      {
+        "cn": "还",
+        "py": "Huán",
+        "id": "masih"
+      },
+      {
+        "cn": "产生",
+        "py": "chǎn shēng",
+        "id": "muncul; lahir; terjadi"
+      },
+      {
+        "cn": "含有",
+        "py": "hán yǒu",
+        "id": "mengandung"
+      },
+      {
+        "cn": "化学",
+        "py": "huà xué",
+        "id": "kimia"
+      },
+      {
+        "cn": "物质",
+        "py": "wù zhì",
+        "id": "materi; zat; materiil; materialistis; KP:個|个[ge4]"
+      },
+      {
+        "cn": "废",
+        "py": "fèi",
+        "id": "menghapus"
+      },
+      {
+        "cn": "如果",
+        "py": "rú guǒ",
+        "id": "jika"
+      },
+      {
+        "cn": "处理",
+        "py": "chǔ lǐ",
+        "id": "menangani; mengurus"
+      },
+      {
+        "cn": "不",
+        "py": "bù",
+        "id": "tidak; tidak begitu"
+      },
+      {
+        "cn": "当",
+        "py": "dāng",
+        "id": "(tiruan bunyi) dong"
+      },
+      {
+        "cn": "将",
+        "py": "jiāng",
+        "id": "akan; (akan) menggunakan; mengambil; sekakmat; sebentar tadi; (memperkenalkan objek dari kata kerja utama, digunakan sama seperti 把[ba3])"
+      },
+      {
+        "cn": "严重",
+        "py": "yán zhòng",
+        "id": "genting; serius; parah; kritis"
+      },
+      {
+        "cn": "污染",
+        "py": "wū rǎn",
+        "id": "mencemari; mengotori (baik harfiah maupun kiasan)"
+      },
+      {
+        "cn": "河流",
+        "py": "hé liú",
+        "id": "sungai"
+      },
+      {
+        "cn": "土壤",
+        "py": "tǔ rǎng",
+        "id": "tanah"
+      },
+      {
+        "cn": "其次",
+        "py": "qí cì",
+        "id": "berikutnya"
+      },
+      {
+        "cn": "由于",
+        "py": "yóu yú",
+        "id": "karena"
+      },
+      {
+        "cn": "质量",
+        "py": "zhì liàng",
+        "id": "(fisika) massa"
+      },
+      {
+        "cn": "一般",
+        "py": "yī bān",
+        "id": "sama"
+      },
+      {
+        "cn": "穿过",
+        "py": "chuān guò",
+        "id": "melewati"
+      },
+      {
+        "cn": "次",
+        "py": "cì",
+        "id": "berikutnya dalam urutan"
+      },
+      {
+        "cn": "之后",
+        "py": "zhī hòu",
+        "id": "setelah; di belakang"
+      },
+      {
+        "cn": "其",
+        "py": "qí",
+        "id": "miliknya"
+      },
+      {
+        "cn": "丢弃",
+        "py": "diū qì",
+        "id": "membuang"
+      },
+      {
+        "cn": "导致",
+        "py": "dǎo zhì",
+        "id": "menyebabkan; menciptakan; menimbulkan; menghasilkan"
+      },
+      {
+        "cn": "纺织",
+        "py": "fǎng zhī",
+        "id": "pemintalan dan penenunan"
+      },
+      {
+        "cn": "品",
+        "py": "pǐn",
+        "id": "(bentuk terikat) artikel; komoditas; produk; barang"
+      },
+      {
+        "cn": "垃圾",
+        "py": "lā jī",
+        "id": "sampah"
+      },
+      {
+        "cn": "被",
+        "py": "bèi",
+        "id": "selimut"
+      },
+      {
+        "cn": "送",
+        "py": "sòng",
+        "id": "mengirim; mengantarkan; menyalurkan"
+      },
+      {
+        "cn": "往",
+        "py": "wǎng",
+        "id": "pergi (ke arah)"
+      },
+      {
+        "cn": "填",
+        "py": "tián",
+        "id": "mengisi atau menjejalkan"
+      },
+      {
+        "cn": "埋",
+        "py": "mái",
+        "id": "mengubur"
+      },
+      {
+        "cn": "场",
+        "py": "cháng",
+        "id": "tempat penjemuran; penggolong untuk peristiwa dan kejadian: periode, episode, pertandingan"
+      },
+      {
+        "cn": "而",
+        "py": "ér",
+        "id": "dan"
+      },
+      {
+        "cn": "这些",
+        "py": "zhè xiē",
+        "id": "ini (jamak)"
+      },
+      {
+        "cn": "合成",
+        "py": "hé chéng",
+        "id": "menyusun"
+      },
+      {
+        "cn": "纤维",
+        "py": "xiān wéi",
+        "id": "serat"
+      },
+      {
+        "cn": "材料",
+        "py": "cái liào",
+        "id": "bahan (mentah)"
+      },
+      {
+        "cn": "数",
+        "py": "shǔ",
+        "id": "menghitung"
+      },
+      {
+        "cn": "十",
+        "py": "shí",
+        "id": "sepuluh"
+      },
+      {
+        "cn": "年",
+        "py": "Nián",
+        "id": "tahun"
+      },
+      {
+        "cn": "甚至",
+        "py": "shèn zhì",
+        "id": "bahkan; begitu rupa sehingga"
+      },
+      {
+        "cn": "百",
+        "py": "Bǎi",
+        "id": "seratus"
+      },
+      {
+        "cn": "才能",
+        "py": "cái néng",
+        "id": "bakat"
+      },
+      {
+        "cn": "自然",
+        "py": "zì rán",
+        "id": "alam"
+      },
+      {
+        "cn": "分解",
+        "py": "fēn jiě",
+        "id": "menyelesaikan"
+      },
+      {
+        "cn": "此外",
+        "py": "cǐ wài",
+        "id": "selain itu; sebagai tambahan; apalagi; lebih jauh lagi"
+      },
+      {
+        "cn": "产业",
+        "py": "chǎn yè",
+        "id": "industri"
+      },
+      {
+        "cn": "带来",
+        "py": "dài lái",
+        "id": "membawa"
+      },
+      {
+        "cn": "碳",
+        "py": "tàn",
+        "id": "karbon (kimia)"
+      },
+      {
+        "cn": "排放",
+        "py": "pái fàng",
+        "id": "mengatur dalam urutan"
+      },
+      {
+        "cn": "从",
+        "py": "cóng",
+        "id": "dari; melalui; lewat"
+      },
+      {
+        "cn": "原材料",
+        "py": "yuán cái liào",
+        "id": "bahan mentah dan setengah jadi"
+      },
+      {
+        "cn": "种植",
+        "py": "zhòng zhí",
+        "id": "menanam; menumbuhkan (tanaman); membudidayakan"
+      },
+      {
+        "cn": "与",
+        "py": "yú",
+        "id": "dan"
+      },
+      {
+        "cn": "加工",
+        "py": "jiā gōng",
+        "id": "memproses"
+      },
+      {
+        "cn": "到",
+        "py": "dào",
+        "id": "mencapai; tiba"
+      },
+      {
+        "cn": "成品",
+        "py": "chéng pǐn",
+        "id": "barang jadi"
+      },
+      {
+        "cn": "运输",
+        "py": "yùn shū",
+        "id": "mengangkut"
+      },
+      {
+        "cn": "整个",
+        "py": "zhěng gè",
+        "id": "seluruh; semua; total"
+      },
+      {
+        "cn": "供应",
+        "py": "gōng yìng",
+        "id": "memasok"
+      },
+      {
+        "cn": "都",
+        "py": "Dū",
+        "id": "semua; keduanya; seluruhnya"
+      },
+      {
+        "cn": "持续",
+        "py": "chí xù",
+        "id": "berlanjut"
+      },
+      {
+        "cn": "能源",
+        "py": "néng yuán",
+        "id": "sumber energi; energi"
+      },
+      {
+        "cn": "面对",
+        "py": "miàn duì",
+        "id": "menghadapi; konfrontasi"
+      },
+      {
+        "cn": "问题",
+        "py": "wèn tí",
+        "id": "pertanyaan"
+      },
+      {
+        "cn": "一些",
+        "py": "yī xiē",
+        "id": "beberapa; sedikit; (mengikuti kata sifat) sedikit lebih ..."
+      },
+      {
+        "cn": "开始",
+        "py": "kāi shǐ",
+        "id": "memulai"
+      },
+      {
+        "cn": "尝试",
+        "py": "cháng shì",
+        "id": "mencoba; berusaha"
+      },
+      {
+        "cn": "使用",
+        "py": "shǐ yòng",
+        "id": "menggunakan"
+      },
+      {
+        "cn": "可",
+        "py": "kě",
+        "id": "(prefiks) bisa; boleh; mampu; -dapat"
+      },
+      {
+        "cn": "回收",
+        "py": "huí shōu",
+        "id": "mendaur ulang"
+      },
+      {
+        "cn": "旧",
+        "py": "jiù",
+        "id": "tua"
+      },
+      {
+        "cn": "衣服",
+        "py": "yī fu",
+        "id": "pakaian"
+      },
+      {
+        "cn": "计划",
+        "py": "jì huà",
+        "id": "rencana"
+      },
+      {
+        "cn": "有",
+        "py": "yǒu",
+        "id": "memiliki; ada"
+      },
+      {
+        "cn": "越来越",
+        "py": "yuè lái yuè",
+        "id": "semakin"
+      },
+      {
+        "cn": "多",
+        "py": "duō",
+        "id": "banyak; banyak sekali; lebih"
+      },
+      {
+        "cn": "重新",
+        "py": "chóng xīn",
+        "id": "lagi; sekali lagi; re-"
+      },
+      {
+        "cn": "思考",
+        "py": "sī kǎo",
+        "id": "merenungkan"
+      },
+      {
+        "cn": "自己",
+        "py": "zì jǐ",
+        "id": "diri sendiri"
+      },
+      {
+        "cn": "消费",
+        "py": "xiāo fèi",
+        "id": "mengonsumsi (barang dan jasa, sumber daya dll)"
+      },
+      {
+        "cn": "习惯",
+        "py": "xí guàn",
+        "id": "kebiasaan"
+      },
+      {
+        "cn": "倾向",
+        "py": "qīng xiàng",
+        "id": "tren"
+      },
+      {
+        "cn": "于",
+        "py": "Yú",
+        "id": "pergi"
+      },
+      {
+        "cn": "购买",
+        "py": "gòu mǎi",
+        "id": "membeli; memperoleh"
+      },
+      {
+        "cn": "更",
+        "py": "gēng",
+        "id": "mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)"
+      },
+      {
+        "cn": "好",
+        "py": "hǎo",
+        "id": "baik"
+      },
+      {
+        "cn": "能够",
+        "py": "néng gòu",
+        "id": "mampu"
+      },
+      {
+        "cn": "穿",
+        "py": "chuān",
+        "id": "memakai"
+      },
+      {
+        "cn": "久",
+        "py": "jiǔ",
+        "id": "(dari periode waktu) lama"
+      },
+      {
+        "cn": "不断",
+        "py": "bù duàn",
+        "id": "tak henti-hentinya"
+      },
+      {
+        "cn": "追逐",
+        "py": "zhuī zhú",
+        "id": "mengejar"
+      },
+      {
+        "cn": "短暂",
+        "py": "duǎn zàn",
+        "id": "durasi pendek; singkat; sesaat"
+      }
+    ]
+  },
+  {
+    "id": "tema_alamlingkungan_hsk8",
+    "level": 8,
+    "tema": "Alam & Lingkungan",
+    "title": "城市绿化对居民生活的意义 (Arti Penghijauan Kota bagi Kehidupan Warga)",
+    "text": "随着城市化进程的加快，越来越多的高楼大厦取代了原本的绿地，城市的绿化面积因此受到了不小的挤压。然而，近年来，不少城市政府开始重新认识到城市绿化的重要性，纷纷加大了在公园建设、道路绿化等方面的投入。这一转变，背后有着多方面的原因。首先，从环境角度来看，树木和植物能够吸收空气中的二氧化碳，释放氧气，有效改善城市的空气质量；同时，大面积的绿地还能够调节局部气温，缓解城市中常见的热岛效应，让夏天的城市不再那么闷热。其次，从居民生活质量的角度来看，城市中的公园和绿地，为人们提供了休闲散步、锻炼身体、亲近自然的场所，这对于长期生活在钢筋水泥环境中的城市居民来说，具有重要的心理调节作用。有研究显示，经常接触绿色环境的人，压力水平往往更低，心理健康状况也相对更好。此外，城市绿化还能为鸟类、昆虫等野生动物提供生活的空间，在一定程度上帮助维持城市生态系统的多样性。正因如此，越来越多的城市规划者，开始将绿化建设视为让城市变得更适合居住的重要一环，而不仅仅是美化环境的附属工作。",
+    "translation": "Seiring cepatnya proses urbanisasi, semakin banyak gedung tinggi menggantikan lahan hijau yang asli, sehingga luas area hijau kota mengalami tekanan yang tidak kecil. Namun, belakangan ini, tidak sedikit pemerintah kota mulai kembali menyadari pentingnya penghijauan kota, dan berlomba-lomba menambah investasi dalam pembangunan taman dan penghijauan jalan. Perubahan ini memiliki berbagai alasan di baliknya. Pertama, dari sudut pandang lingkungan, pohon dan tumbuhan bisa menyerap karbon dioksida di udara dan melepaskan oksigen, secara efektif memperbaiki kualitas udara kota; pada saat yang sama, lahan hijau berskala besar juga bisa mengatur suhu udara lokal, meredakan efek pulau panas yang umum terjadi di kota, membuat kota di musim panas tidak lagi begitu pengap. Kedua, dari sudut pandang kualitas hidup warga, taman dan lahan hijau di kota menyediakan tempat bagi orang untuk bersantai, jalan-jalan, berolahraga, dan dekat dengan alam, yang memiliki peran penting dalam menyeimbangkan psikologis bagi warga kota yang tinggal lama di lingkungan beton dan besi. Ada penelitian menunjukkan bahwa orang yang sering bersentuhan dengan lingkungan hijau cenderung memiliki tingkat stres lebih rendah, kondisi kesehatan mentalnya juga relatif lebih baik. Selain itu, penghijauan kota juga bisa menyediakan ruang bersarang bagi burung, serangga, dan satwa liar lain, sampai tingkat tertentu membantu menjaga keberagaman ekosistem kota. Justru karena itu, semakin banyak perencana kota mulai memandang pembangunan penghijauan sebagai bagian penting untuk meningkatkan kelayakan huni kota, bukan hanya sekadar pekerjaan tambahan mempercantik lingkungan.",
+    "glossary": [
+      {
+        "cn": "随着",
+        "py": "suí zhe",
+        "id": "bersama dengan"
+      },
+      {
+        "cn": "城市",
+        "py": "chéng shì",
+        "id": "kota; kota kecil"
+      },
+      {
+        "cn": "化",
+        "py": "huā",
+        "id": "membuat menjadi"
+      },
+      {
+        "cn": "进程",
+        "py": "jìn chéng",
+        "id": "jalannya peristiwa; proses"
+      },
+      {
+        "cn": "的",
+        "py": "de",
+        "id": "dari; milik ~ (partikel posesif)"
+      },
+      {
+        "cn": "加快",
+        "py": "jiā kuài",
+        "id": "mempercepat; untuk mempercepat"
+      },
+      {
+        "cn": "越来越",
+        "py": "yuè lái yuè",
+        "id": "semakin"
+      },
+      {
+        "cn": "多",
+        "py": "duō",
+        "id": "banyak; banyak sekali; lebih"
+      },
+      {
+        "cn": "高",
+        "py": "Gāo",
+        "id": "tinggi"
+      },
+      {
+        "cn": "楼",
+        "py": "Lóu",
+        "id": "rumah bertingkat lebih dari 1"
+      },
+      {
+        "cn": "大厦",
+        "py": "dà shà",
+        "id": "(digunakan dalam nama bangunan megah seperti 百老匯大廈|百老汇大厦 Broadway Mansions (di Shanghai) atau 帝國大廈|帝国大厦 Empire State Building dll)"
+      },
+      {
+        "cn": "取代",
+        "py": "qǔ dài",
+        "id": "menggantikan"
+      },
+      {
+        "cn": "了",
+        "py": "le",
+        "id": "(penanda tindakan selesai)"
+      },
+      {
+        "cn": "原本",
+        "py": "yuán běn",
+        "id": "awalnya"
+      },
+      {
+        "cn": "绿地",
+        "py": "lǜ dì",
+        "id": "area hijau (misalnya taman kota atau kebun)"
+      },
+      {
+        "cn": "绿化",
+        "py": "lǜ huà",
+        "id": "menghijaukan dengan tanaman"
+      },
+      {
+        "cn": "面积",
+        "py": "miàn jī",
+        "id": "luas area (lantai, bidang tanah dll)"
+      },
+      {
+        "cn": "因此",
+        "py": "yīn cǐ",
+        "id": "karena itu; akibatnya; sebagai akibatnya"
+      },
+      {
+        "cn": "受到",
+        "py": "shòu dào",
+        "id": "menerima (pujian, pendidikan, hukuman dll)"
+      },
+      {
+        "cn": "不",
+        "py": "bù",
+        "id": "tidak; tidak begitu"
+      },
+      {
+        "cn": "小",
+        "py": "xiǎo",
+        "id": "kecil"
+      },
+      {
+        "cn": "挤压",
+        "py": "jǐ yā",
+        "id": "memeras"
+      },
+      {
+        "cn": "然而",
+        "py": "rán ér",
+        "id": "namun; tetapi; masih"
+      },
+      {
+        "cn": "近年来",
+        "py": "jìn nián lái",
+        "id": "selama beberapa tahun terakhir"
+      },
+      {
+        "cn": "不少",
+        "py": "bù shǎo",
+        "id": "banyak"
+      },
+      {
+        "cn": "政府",
+        "py": "zhèng fǔ",
+        "id": "pemerintah"
+      },
+      {
+        "cn": "开始",
+        "py": "kāi shǐ",
+        "id": "memulai"
+      },
+      {
+        "cn": "重新",
+        "py": "chóng xīn",
+        "id": "lagi; sekali lagi; re-"
+      },
+      {
+        "cn": "认识",
+        "py": "rèn shi",
+        "id": "tahu"
+      },
+      {
+        "cn": "到",
+        "py": "dào",
+        "id": "mencapai; tiba"
+      },
+      {
+        "cn": "重要",
+        "py": "zhòng yào",
+        "id": "penting; signifikan; utama"
+      },
+      {
+        "cn": "性",
+        "py": "xìng",
+        "id": "sifat"
+      },
+      {
+        "cn": "纷纷",
+        "py": "fēn fēn",
+        "id": "satu demi satu"
+      },
+      {
+        "cn": "加",
+        "py": "Jiā",
+        "id": "Kanada (singkatan dari 加拿大[Jia1 na2 da4])"
+      },
+      {
+        "cn": "大",
+        "py": "dà",
+        "id": "besar; luas; hebat"
+      },
+      {
+        "cn": "在",
+        "py": "zài",
+        "id": "ada; menjadi hidup"
+      },
+      {
+        "cn": "公园",
+        "py": "gōng yuán",
+        "id": "taman (untuk rekreasi umum)"
+      },
+      {
+        "cn": "建设",
+        "py": "jiàn shè",
+        "id": "membangun; mendirikan; mengembangkan; menetapkan"
+      },
+      {
+        "cn": "道路",
+        "py": "dào lù",
+        "id": "jalan; jalur; cara; KP:條|条[tiao2]"
+      },
+      {
+        "cn": "等",
+        "py": "děng",
+        "id": "menunggu"
+      },
+      {
+        "cn": "方面",
+        "py": "fāng miàn",
+        "id": "aspek"
+      },
+      {
+        "cn": "投入",
+        "py": "tóu rù",
+        "id": "melemparkan ke"
+      },
+      {
+        "cn": "这",
+        "py": "zhè",
+        "id": "(kata ganti) ini; ini"
+      },
+      {
+        "cn": "一",
+        "py": "yī",
+        "id": "satu"
+      },
+      {
+        "cn": "转变",
+        "py": "zhuǎn biàn",
+        "id": "berubah"
+      },
+      {
+        "cn": "背后",
+        "py": "bèi hòu",
+        "id": "di belakang"
+      },
+      {
+        "cn": "有着",
+        "py": "yǒu zhe",
+        "id": "memiliki"
+      },
+      {
+        "cn": "多方面",
+        "py": "duō fāng miàn",
+        "id": "berbagai sisi"
+      },
+      {
+        "cn": "原因",
+        "py": "yuán yīn",
+        "id": "penyebab"
+      },
+      {
+        "cn": "首先",
+        "py": "shǒu xiān",
+        "id": "pertama (di atas segalanya)"
+      },
+      {
+        "cn": "从",
+        "py": "cóng",
+        "id": "dari; melalui; lewat"
+      },
+      {
+        "cn": "环境",
+        "py": "huán jìng",
+        "id": "lingkungan"
+      },
+      {
+        "cn": "角度",
+        "py": "jiǎo dù",
+        "id": "sudut; sudut pandang"
+      },
+      {
+        "cn": "来",
+        "py": "lái",
+        "id": "datang"
+      },
+      {
+        "cn": "看",
+        "py": "kān",
+        "id": "menjaga"
+      },
+      {
+        "cn": "树木",
+        "py": "shù mù",
+        "id": "pohon"
+      },
+      {
+        "cn": "和",
+        "py": "hé",
+        "id": "varian lama dari 和[he2]"
+      },
+      {
+        "cn": "植物",
+        "py": "zhí wù",
+        "id": "tanaman"
+      },
+      {
+        "cn": "能够",
+        "py": "néng gòu",
+        "id": "mampu"
+      },
+      {
+        "cn": "吸收",
+        "py": "xī shōu",
+        "id": "menyerap"
+      },
+      {
+        "cn": "空气",
+        "py": "kōng qì",
+        "id": "udara"
+      },
+      {
+        "cn": "中",
+        "py": "Zhōng",
+        "id": "(bentuk terikat) Tiongkok; Orang Tiongkok"
+      },
+      {
+        "cn": "二氧化碳",
+        "py": "èr yǎng huà tàn",
+        "id": "karbon dioksida CO2"
+      },
+      {
+        "cn": "释放",
+        "py": "shì fàng",
+        "id": "melepaskan"
+      },
+      {
+        "cn": "氧气",
+        "py": "yǎng qì",
+        "id": "oksigen"
+      },
+      {
+        "cn": "有效",
+        "py": "yǒu xiào",
+        "id": "efektif"
+      },
+      {
+        "cn": "改善",
+        "py": "gǎi shàn",
+        "id": "memperbaiki; meningkat"
+      },
+      {
+        "cn": "质量",
+        "py": "zhì liàng",
+        "id": "(fisika) massa"
+      },
+      {
+        "cn": "同时",
+        "py": "tóng shí",
+        "id": "pada saat yang sama; serentak"
+      },
+      {
+        "cn": "大面积",
+        "py": "dà miàn jī",
+        "id": "area luas"
+      },
+      {
+        "cn": "还",
+        "py": "Huán",
+        "id": "masih"
+      },
+      {
+        "cn": "调节",
+        "py": "tiáo jié",
+        "id": "menyesuaikan"
+      },
+      {
+        "cn": "局部",
+        "py": "jú bù",
+        "id": "bagian"
+      },
+      {
+        "cn": "气温",
+        "py": "qì wēn",
+        "id": "suhu udara"
+      },
+      {
+        "cn": "缓解",
+        "py": "huǎn jiě",
+        "id": "membawa kelegaan"
+      },
+      {
+        "cn": "常见",
+        "py": "cháng jiàn",
+        "id": "umum terlihat"
+      },
+      {
+        "cn": "热",
+        "py": "rè",
+        "id": "menghangatkan"
+      },
+      {
+        "cn": "岛",
+        "py": "dǎo",
+        "id": "pulau"
+      },
+      {
+        "cn": "效应",
+        "py": "xiào yìng",
+        "id": "efek (fenomena ilmiah)"
+      },
+      {
+        "cn": "让",
+        "py": "ràng",
+        "id": "mengalah"
+      },
+      {
+        "cn": "夏天",
+        "py": "xià tiān",
+        "id": "musim panas"
+      },
+      {
+        "cn": "不再",
+        "py": "bù zài",
+        "id": "tidak lagi; tidak lebih lama"
+      },
+      {
+        "cn": "那么",
+        "py": "nà me",
+        "id": "seperti itu; dengan cara itu; sampai tingkat itu"
+      },
+      {
+        "cn": "闷",
+        "py": "mēn",
+        "id": "pengap"
+      },
+      {
+        "cn": "其次",
+        "py": "qí cì",
+        "id": "berikutnya"
+      },
+      {
+        "cn": "居民",
+        "py": "jū mín",
+        "id": "penduduk; penghuni"
+      },
+      {
+        "cn": "生活",
+        "py": "shēng huó",
+        "id": "hidup"
+      },
+      {
+        "cn": "为人",
+        "py": "wéi rén",
+        "id": "bersikap"
+      },
+      {
+        "cn": "们",
+        "py": "men",
+        "id": "penanda jamak untuk kata ganti, dan kata benda yang merujuk pada individu"
+      },
+      {
+        "cn": "提供",
+        "py": "tí gōng",
+        "id": "menawarkan"
+      },
+      {
+        "cn": "休闲",
+        "py": "xiū xián",
+        "id": "waktu luang"
+      },
+      {
+        "cn": "散步",
+        "py": "sàn bù",
+        "id": "berjalan-jalan; pergi jalan-jalan"
+      },
+      {
+        "cn": "锻炼",
+        "py": "duàn liàn",
+        "id": "menguatkan"
+      },
+      {
+        "cn": "身体",
+        "py": "shēn tǐ",
+        "id": "tubuh"
+      },
+      {
+        "cn": "亲近",
+        "py": "qīn jìn",
+        "id": "intim"
+      },
+      {
+        "cn": "自然",
+        "py": "zì rán",
+        "id": "alam"
+      },
+      {
+        "cn": "场所",
+        "py": "chǎng suǒ",
+        "id": "lokasi; tempat"
+      },
+      {
+        "cn": "对于",
+        "py": "duì yú",
+        "id": "mengenai; sejauh menyangkut (sesuatu); berkenaan dengan"
+      },
+      {
+        "cn": "长期",
+        "py": "cháng qī",
+        "id": "jangka panjang"
+      },
+      {
+        "cn": "钢",
+        "py": "gāng",
+        "id": "baja"
+      },
+      {
+        "cn": "筋",
+        "py": "jīn",
+        "id": "otot"
+      },
+      {
+        "cn": "水泥",
+        "py": "shuǐ ní",
+        "id": "semen"
+      },
+      {
+        "cn": "说",
+        "py": "shuì",
+        "id": "membujuk"
+      },
+      {
+        "cn": "具有",
+        "py": "jù yǒu",
+        "id": "memiliki; mempunyai"
+      },
+      {
+        "cn": "心理",
+        "py": "xīn lǐ",
+        "id": "psikologi"
+      },
+      {
+        "cn": "作用",
+        "py": "zuò yòng",
+        "id": "memengaruhi"
+      },
+      {
+        "cn": "有",
+        "py": "yǒu",
+        "id": "memiliki; ada"
+      },
+      {
+        "cn": "研究",
+        "py": "yán jiū",
+        "id": "penelitian"
+      },
+      {
+        "cn": "显示",
+        "py": "xiǎn shì",
+        "id": "menunjukkan"
+      },
+      {
+        "cn": "经常",
+        "py": "jīng cháng",
+        "id": "sering; terus-menerus; teratur"
+      },
+      {
+        "cn": "接触",
+        "py": "jiē chù",
+        "id": "menyentuh"
+      },
+      {
+        "cn": "绿色",
+        "py": "lǜ sè",
+        "id": "hijau"
+      },
+      {
+        "cn": "人",
+        "py": "rén",
+        "id": "orang; orang-orang"
+      },
+      {
+        "cn": "压力",
+        "py": "yā lì",
+        "id": "tekanan"
+      },
+      {
+        "cn": "水平",
+        "py": "shuǐ píng",
+        "id": "horizontal; datar"
+      },
+      {
+        "cn": "往往",
+        "py": "wǎng wǎng",
+        "id": "biasanya"
+      },
+      {
+        "cn": "更",
+        "py": "gēng",
+        "id": "mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)"
+      },
+      {
+        "cn": "低",
+        "py": "dī",
+        "id": "rendah"
+      },
+      {
+        "cn": "健康",
+        "py": "jiàn kāng",
+        "id": "kesehatan"
+      },
+      {
+        "cn": "状况",
+        "py": "zhuàng kuàng",
+        "id": "kondisi; keadaan; situasi"
+      },
+      {
+        "cn": "也",
+        "py": "Yě",
+        "id": "juga; terlalu; (tidak ...) juga"
+      },
+      {
+        "cn": "相对",
+        "py": "xiāng duì",
+        "id": "relatif"
+      },
+      {
+        "cn": "好",
+        "py": "hǎo",
+        "id": "baik"
+      },
+      {
+        "cn": "此外",
+        "py": "cǐ wài",
+        "id": "selain itu; sebagai tambahan; apalagi; lebih jauh lagi"
+      },
+      {
+        "cn": "能",
+        "py": "Néng",
+        "id": "bisa"
+      },
+      {
+        "cn": "为",
+        "py": "wéi",
+        "id": "sebagai (dalam kapasitas)"
+      },
+      {
+        "cn": "鸟",
+        "py": "diǎo",
+        "id": "penis"
+      },
+      {
+        "cn": "类",
+        "py": "lèi",
+        "id": "jenis; tipe; kelas; kategori"
+      },
+      {
+        "cn": "昆虫",
+        "py": "kūn chóng",
+        "id": "serangga"
+      },
+      {
+        "cn": "野生",
+        "py": "yě shēng",
+        "id": "liar"
+      },
+      {
+        "cn": "动物",
+        "py": "dòng wù",
+        "id": "binatang"
+      },
+      {
+        "cn": "空间",
+        "py": "kōng jiān",
+        "id": "ruang; tempat"
+      },
+      {
+        "cn": "一定",
+        "py": "yī dìng",
+        "id": "pasti"
+      },
+      {
+        "cn": "程度",
+        "py": "chéng dù",
+        "id": "tingkat; level; sejauh mana"
+      },
+      {
+        "cn": "上",
+        "py": "shǎng",
+        "id": "(bentuk terikat) atas; bagian atas; di atas; sebelumnya"
+      },
+      {
+        "cn": "帮助",
+        "py": "bāng zhù",
+        "id": "bantuan; pertolongan"
+      },
+      {
+        "cn": "维持",
+        "py": "wéi chí",
+        "id": "menjaga; mempertahankan; melestarikan"
+      },
+      {
+        "cn": "生态",
+        "py": "shēng tài",
+        "id": "ekologi (studi tentang interaksi antara organisme dan lingkungannya)"
+      },
+      {
+        "cn": "系统",
+        "py": "xì tǒng",
+        "id": "sistem"
+      },
+      {
+        "cn": "多样",
+        "py": "duō yàng",
+        "id": "beragam"
+      },
+      {
+        "cn": "正",
+        "py": "zhēng",
+        "id": "bulan pertama tahun lunar"
+      },
+      {
+        "cn": "因",
+        "py": "yīn",
+        "id": "varian lama dari 因[yin1]"
+      },
+      {
+        "cn": "如此",
+        "py": "rú cǐ",
+        "id": "seperti ini; begitu; sedemikian"
+      },
+      {
+        "cn": "规划",
+        "py": "guī huà",
+        "id": "menyusun rencana; memetakan program"
+      },
+      {
+        "cn": "者",
+        "py": "zhě",
+        "id": "(setelah kata kerja atau kata sifat) orang yang (adalah)..."
+      },
+      {
+        "cn": "将",
+        "py": "jiāng",
+        "id": "akan; (akan) menggunakan; mengambil; sekakmat; sebentar tadi; (memperkenalkan objek dari kata kerja utama, digunakan sama seperti 把[ba3])"
+      },
+      {
+        "cn": "视为",
+        "py": "shì wéi",
+        "id": "menganggap sebagai"
+      },
+      {
+        "cn": "变",
+        "py": "biàn",
+        "id": "berubah"
+      },
+      {
+        "cn": "得",
+        "py": "dé",
+        "id": "memperoleh"
+      },
+      {
+        "cn": "适合",
+        "py": "shì hé",
+        "id": "cocok"
+      },
+      {
+        "cn": "居住",
+        "py": "jū zhù",
+        "id": "tinggal"
+      },
+      {
+        "cn": "环",
+        "py": "Huán",
+        "id": "cincin"
+      },
+      {
+        "cn": "而",
+        "py": "ér",
+        "id": "dan"
+      },
+      {
+        "cn": "不仅仅",
+        "py": "bù jǐn jǐn",
+        "id": "tidak hanya; tidak cuma"
+      },
+      {
+        "cn": "是",
+        "py": "shì",
+        "id": "adalah (diikuti hanya oleh kata benda)"
+      },
+      {
+        "cn": "美化",
+        "py": "měi huà",
+        "id": "memperindah"
+      },
+      {
+        "cn": "附属",
+        "py": "fù shǔ",
+        "id": "anak perusahaan"
+      },
+      {
+        "cn": "工作",
+        "py": "gōng zuò",
+        "id": "bekerja"
+      }
+    ]
+  },
+  {
+    "id": "tema_pekerjaan_hsk8",
+    "level": 8,
+    "tema": "Pekerjaan",
+    "title": "远程办公改变了工作方式 (Kerja Jarak Jauh Mengubah Cara Bekerja)",
+    "text": "过去几年，远程办公从一种只有少数人使用的工作方式，逐渐变成许多行业普遍接受的选择。借助网络会议软件和各种在线协作工具，员工不必每天前往公司办公室，也能够完成大部分工作任务，与同事保持沟通。这种转变，给员工和企业都带来了不同程度的影响。对员工来说，远程办公最直接的好处，是节省了上下班路上花费的时间和精力，也让工作安排变得更加灵活，员工可以根据自己的生活节奏，合理安排工作与休息的时间。然而，远程办公也带来了一些新的挑战。由于工作地点和生活空间重合，不少员工反映，很难真正做到工作与生活的分离，有时候工作时间被无限延长，反而增加了心理压力。此外，缺少面对面的交流，也使得团队成员之间的沟通效率有所下降，一些原本可以在办公室里几分钟解决的问题，通过线上沟通，可能需要更长的时间才能达成一致。对企业来说，远程办公虽然能够降低办公场地的成本，但也对管理方式提出了新的要求，如何在员工不在同一空间工作的情况下，依然保持团队的凝聚力和工作效率，成为许多管理者需要重新思考的问题。可以预见，未来的工作方式，很可能不是完全的远程办公，也不是完全回到传统的办公室模式，而是介于两者之间的混合模式。",
+    "translation": "Beberapa tahun terakhir, kerja jarak jauh dari cara kerja yang relatif minoritas, perlahan menjadi pilihan yang diterima secara umum di banyak industri. Dengan bantuan perangkat lunak rapat daring dan berbagai alat kolaborasi online, karyawan tidak perlu setiap hari pergi ke kantor perusahaan, dan tetap bisa menyelesaikan sebagian besar tugas pekerjaan serta menjaga komunikasi dengan rekan kerja. Perubahan ini membawa dampak dengan tingkat berbeda bagi karyawan maupun perusahaan. Bagi karyawan, manfaat paling langsung dari kerja jarak jauh adalah menghemat waktu dan tenaga yang dihabiskan untuk perjalanan pulang-pergi, juga membuat pengaturan kerja menjadi lebih fleksibel, karyawan bisa mengatur waktu kerja dan istirahat secara wajar sesuai ritme hidup masing-masing. Namun, kerja jarak jauh juga membawa sejumlah tantangan baru. Karena tempat kerja dan ruang hidup bertumpang tindih, tidak sedikit karyawan melaporkan sulit benar-benar memisahkan pekerjaan dan kehidupan, terkadang jam kerja menjadi tanpa batas, justru meningkatkan tekanan psikologis. Selain itu, kurangnya komunikasi tatap muka juga membuat efisiensi komunikasi antar anggota tim menurun, sejumlah masalah yang seharusnya bisa diselesaikan dalam beberapa menit di kantor, melalui komunikasi daring mungkin butuh waktu lebih lama untuk mencapai kesepakatan. Bagi perusahaan, kerja jarak jauh meskipun bisa menurunkan biaya tempat kantor, tetapi juga menuntut cara manajemen yang baru, bagaimana tetap menjaga kekompakan dan efisiensi kerja tim ketika karyawan tidak bekerja di ruang yang sama, menjadi masalah yang perlu dipikirkan ulang oleh banyak manajer. Bisa diperkirakan, cara kerja di masa depan kemungkinan besar bukan sepenuhnya kerja jarak jauh, juga bukan sepenuhnya kembali ke model kantor tradisional, melainkan model campuran di antara keduanya.",
+    "glossary": [
+      {
+        "cn": "过去",
+        "py": "guò qù",
+        "id": "(di masa) lalu; mantan; sebelumnya"
+      },
+      {
+        "cn": "几",
+        "py": "jī",
+        "id": "meja kecil"
+      },
+      {
+        "cn": "年",
+        "py": "Nián",
+        "id": "tahun"
+      },
+      {
+        "cn": "远程",
+        "py": "yuǎn chéng",
+        "id": "jarak jauh"
+      },
+      {
+        "cn": "办公",
+        "py": "bàn gōng",
+        "id": "menangani urusan resmi (biasanya di kantor); melakukan pekerjaan (kantor)"
+      },
+      {
+        "cn": "从",
+        "py": "cóng",
+        "id": "dari; melalui; lewat"
+      },
+      {
+        "cn": "一",
+        "py": "yī",
+        "id": "satu"
+      },
+      {
+        "cn": "种",
+        "py": "zhǒng",
+        "id": "benih"
+      },
+      {
+        "cn": "只有",
+        "py": "zhǐ yǒu",
+        "id": "hanya memiliki ...; hanya ada ..."
+      },
+      {
+        "cn": "少数",
+        "py": "shǎo shù",
+        "id": "jumlah kecil"
+      },
+      {
+        "cn": "人",
+        "py": "rén",
+        "id": "orang; orang-orang"
+      },
+      {
+        "cn": "使用",
+        "py": "shǐ yòng",
+        "id": "menggunakan"
+      },
+      {
+        "cn": "的",
+        "py": "de",
+        "id": "dari; milik ~ (partikel posesif)"
+      },
+      {
+        "cn": "工作",
+        "py": "gōng zuò",
+        "id": "bekerja"
+      },
+      {
+        "cn": "方式",
+        "py": "fāng shì",
+        "id": "cara; metode; perilaku; mode; pola (perilaku dll)"
+      },
+      {
+        "cn": "逐渐",
+        "py": "zhú jiàn",
+        "id": "secara bertahap"
+      },
+      {
+        "cn": "变成",
+        "py": "biàn chéng",
+        "id": "menjadi"
+      },
+      {
+        "cn": "许多",
+        "py": "xǔ duō",
+        "id": "banyak"
+      },
+      {
+        "cn": "行业",
+        "py": "háng yè",
+        "id": "perdagangan; profesi; industri; bisnis"
+      },
+      {
+        "cn": "普遍",
+        "py": "pǔ biàn",
+        "id": "universal"
+      },
+      {
+        "cn": "接受",
+        "py": "jiē shòu",
+        "id": "menerima (saran, hukuman, suap, dll); menyetujui"
+      },
+      {
+        "cn": "选择",
+        "py": "xuǎn zé",
+        "id": "memilih"
+      },
+      {
+        "cn": "借助",
+        "py": "jiè zhù",
+        "id": "mendapatkan dukungan dari"
+      },
+      {
+        "cn": "网络",
+        "py": "Wǎng luò",
+        "id": "Internet"
+      },
+      {
+        "cn": "会议",
+        "py": "huì yì",
+        "id": "pertemuan"
+      },
+      {
+        "cn": "软件",
+        "py": "ruǎn jiàn",
+        "id": "perangkat lunak (komputer)"
+      },
+      {
+        "cn": "和",
+        "py": "hé",
+        "id": "varian lama dari 和[he2]"
+      },
+      {
+        "cn": "各种",
+        "py": "gè zhǒng",
+        "id": "setiap jenis; semua jenis; berbagai"
+      },
+      {
+        "cn": "在线",
+        "py": "zài xiàn",
+        "id": "daring; terhubung ke Internet"
+      },
+      {
+        "cn": "协作",
+        "py": "xié zuò",
+        "id": "kerja sama"
+      },
+      {
+        "cn": "工具",
+        "py": "gōng jù",
+        "id": "alat"
+      },
+      {
+        "cn": "员工",
+        "py": "yuán gōng",
+        "id": "staf; personel; karyawan"
+      },
+      {
+        "cn": "不必",
+        "py": "bù bì",
+        "id": "tidak perlu"
+      },
+      {
+        "cn": "每",
+        "py": "měi",
+        "id": "setiap"
+      },
+      {
+        "cn": "天",
+        "py": "tiān",
+        "id": "hari"
+      },
+      {
+        "cn": "前往",
+        "py": "qián wǎng",
+        "id": "berangkat ke; menuju ke; pergi ke"
+      },
+      {
+        "cn": "公司",
+        "py": "gōng sī",
+        "id": "perusahaan; firma; korporasi"
+      },
+      {
+        "cn": "办公室",
+        "py": "bàn gōng shì",
+        "id": "kantor; tempat bisnis"
+      },
+      {
+        "cn": "也",
+        "py": "Yě",
+        "id": "juga; terlalu; (tidak ...) juga"
+      },
+      {
+        "cn": "能够",
+        "py": "néng gòu",
+        "id": "mampu"
+      },
+      {
+        "cn": "完成",
+        "py": "wán chéng",
+        "id": "menyelesaikan; mencapai"
+      },
+      {
+        "cn": "大部分",
+        "py": "dà bù fen",
+        "id": "bagian yang lebih besar; mayoritas; sebagian besar"
+      },
+      {
+        "cn": "任务",
+        "py": "rèn wu",
+        "id": "misi; tugas; pekerjaan; kewajiban; peran"
+      },
+      {
+        "cn": "与",
+        "py": "yú",
+        "id": "dan"
+      },
+      {
+        "cn": "同事",
+        "py": "tóng shì",
+        "id": "kolega; rekan kerja"
+      },
+      {
+        "cn": "保持",
+        "py": "bǎo chí",
+        "id": "menjaga"
+      },
+      {
+        "cn": "沟通",
+        "py": "gōu tōng",
+        "id": "menghubungkan; terhubung; menyambungkan"
+      },
+      {
+        "cn": "这",
+        "py": "zhè",
+        "id": "(kata ganti) ini; ini"
+      },
+      {
+        "cn": "转变",
+        "py": "zhuǎn biàn",
+        "id": "berubah"
+      },
+      {
+        "cn": "给",
+        "py": "gěi",
+        "id": "kepada"
+      },
+      {
+        "cn": "企业",
+        "py": "qǐ yè",
+        "id": "perusahaan; firma; korporasi"
+      },
+      {
+        "cn": "都",
+        "py": "Dū",
+        "id": "semua; keduanya; seluruhnya"
+      },
+      {
+        "cn": "带来",
+        "py": "dài lái",
+        "id": "membawa"
+      },
+      {
+        "cn": "了",
+        "py": "le",
+        "id": "(penanda tindakan selesai)"
+      },
+      {
+        "cn": "不同",
+        "py": "bù tóng",
+        "id": "berbeda"
+      },
+      {
+        "cn": "程度",
+        "py": "chéng dù",
+        "id": "tingkat; level; sejauh mana"
+      },
+      {
+        "cn": "影响",
+        "py": "yǐng xiǎng",
+        "id": "pengaruh"
+      },
+      {
+        "cn": "对",
+        "py": "duì",
+        "id": "benar; tepat"
+      },
+      {
+        "cn": "来",
+        "py": "lái",
+        "id": "datang"
+      },
+      {
+        "cn": "说",
+        "py": "shuì",
+        "id": "membujuk"
+      },
+      {
+        "cn": "最",
+        "py": "zuì",
+        "id": "varian lama dari 最[zui4]"
+      },
+      {
+        "cn": "直接",
+        "py": "zhí jiē",
+        "id": "langsung (lawan kata: tidak langsung 間接|间接[jian4 jie1])"
+      },
+      {
+        "cn": "好处",
+        "py": "hǎo chǔ",
+        "id": "mudah diajak berteman"
+      },
+      {
+        "cn": "是",
+        "py": "shì",
+        "id": "adalah (diikuti hanya oleh kata benda)"
+      },
+      {
+        "cn": "节省",
+        "py": "jié shěng",
+        "id": "hemat"
+      },
+      {
+        "cn": "上下",
+        "py": "shàng xià",
+        "id": "bagian atas dan bawah dari sesuatu"
+      },
+      {
+        "cn": "班",
+        "py": "Bān",
+        "id": "tim; kelas; tingkatan"
+      },
+      {
+        "cn": "路上",
+        "py": "lù shang",
+        "id": "di jalan"
+      },
+      {
+        "cn": "花费",
+        "py": "huā fèi",
+        "id": "biaya"
+      },
+      {
+        "cn": "时间",
+        "py": "shí jiān",
+        "id": "(konsep) waktu"
+      },
+      {
+        "cn": "精力",
+        "py": "jīng lì",
+        "id": "energi"
+      },
+      {
+        "cn": "让",
+        "py": "ràng",
+        "id": "mengalah"
+      },
+      {
+        "cn": "安排",
+        "py": "ān pái",
+        "id": "mengatur"
+      },
+      {
+        "cn": "变",
+        "py": "biàn",
+        "id": "berubah"
+      },
+      {
+        "cn": "得",
+        "py": "dé",
+        "id": "memperoleh"
+      },
+      {
+        "cn": "更加",
+        "py": "gèng jiā",
+        "id": "lebih (daripada yang lain); bahkan lebih"
+      },
+      {
+        "cn": "灵活",
+        "py": "líng huó",
+        "id": "fleksibel"
+      },
+      {
+        "cn": "可以",
+        "py": "kě yǐ",
+        "id": "bisa"
+      },
+      {
+        "cn": "根据",
+        "py": "gēn jù",
+        "id": "menurut"
+      },
+      {
+        "cn": "自己",
+        "py": "zì jǐ",
+        "id": "diri sendiri"
+      },
+      {
+        "cn": "生活",
+        "py": "shēng huó",
+        "id": "hidup"
+      },
+      {
+        "cn": "节奏",
+        "py": "jié zòu",
+        "id": "ritme"
+      },
+      {
+        "cn": "合理",
+        "py": "hé lǐ",
+        "id": "rasional; masuk akal; bijaksana; adil"
+      },
+      {
+        "cn": "休息",
+        "py": "xiū xi",
+        "id": "istirahat"
+      },
+      {
+        "cn": "然而",
+        "py": "rán ér",
+        "id": "namun; tetapi; masih"
+      },
+      {
+        "cn": "一些",
+        "py": "yī xiē",
+        "id": "beberapa; sedikit; (mengikuti kata sifat) sedikit lebih ..."
+      },
+      {
+        "cn": "新",
+        "py": "Xīn",
+        "id": "singkatan dari Xinjiang 新疆[Xin1 jiang1]"
+      },
+      {
+        "cn": "挑战",
+        "py": "tiǎo zhàn",
+        "id": "tantangan"
+      },
+      {
+        "cn": "由于",
+        "py": "yóu yú",
+        "id": "karena"
+      },
+      {
+        "cn": "地点",
+        "py": "dì diǎn",
+        "id": "tempat"
+      },
+      {
+        "cn": "空间",
+        "py": "kōng jiān",
+        "id": "ruang; tempat"
+      },
+      {
+        "cn": "重合",
+        "py": "chóng hé",
+        "id": "cocok"
+      },
+      {
+        "cn": "不少",
+        "py": "bù shǎo",
+        "id": "banyak"
+      },
+      {
+        "cn": "反映",
+        "py": "fǎn yìng",
+        "id": "mencerminkan"
+      },
+      {
+        "cn": "很",
+        "py": "hěn",
+        "id": "sangat; cukup"
+      },
+      {
+        "cn": "难",
+        "py": "nán",
+        "id": "sulit (untuk...)"
+      },
+      {
+        "cn": "真正",
+        "py": "zhēn zhèng",
+        "id": "asli; nyata; benar"
+      },
+      {
+        "cn": "做到",
+        "py": "zuò dào",
+        "id": "mencapai"
+      },
+      {
+        "cn": "分离",
+        "py": "fēn lí",
+        "id": "memisahkan"
+      },
+      {
+        "cn": "有时候",
+        "py": "yǒu shí hou",
+        "id": "terkadang"
+      },
+      {
+        "cn": "被",
+        "py": "bèi",
+        "id": "selimut"
+      },
+      {
+        "cn": "无限",
+        "py": "wú xiàn",
+        "id": "tak terbatas"
+      },
+      {
+        "cn": "延长",
+        "py": "Yán cháng",
+        "id": "memperpanjang"
+      },
+      {
+        "cn": "反而",
+        "py": "fǎn ér",
+        "id": "sebaliknya; alih-alih"
+      },
+      {
+        "cn": "增加",
+        "py": "zēng jiā",
+        "id": "menaikkan; menambah"
+      },
+      {
+        "cn": "心理",
+        "py": "xīn lǐ",
+        "id": "psikologi"
+      },
+      {
+        "cn": "压力",
+        "py": "yā lì",
+        "id": "tekanan"
+      },
+      {
+        "cn": "此外",
+        "py": "cǐ wài",
+        "id": "selain itu; sebagai tambahan; apalagi; lebih jauh lagi"
+      },
+      {
+        "cn": "缺少",
+        "py": "quē shǎo",
+        "id": "kurang"
+      },
+      {
+        "cn": "面对面",
+        "py": "miàn duì miàn",
+        "id": "tatap muka"
+      },
+      {
+        "cn": "交流",
+        "py": "jiāo liú",
+        "id": "bertukar"
+      },
+      {
+        "cn": "使得",
+        "py": "shǐ de",
+        "id": "dapat digunakan; dapat diperbaiki"
+      },
+      {
+        "cn": "团队",
+        "py": "tuán duì",
+        "id": "tim"
+      },
+      {
+        "cn": "成员",
+        "py": "chéng yuán",
+        "id": "anggota"
+      },
+      {
+        "cn": "之间",
+        "py": "zhī jiān",
+        "id": "(setelah kata benda) antara; di antara; di tengah"
+      },
+      {
+        "cn": "效率",
+        "py": "xiào lǜ",
+        "id": "efisiensi"
+      },
+      {
+        "cn": "有所",
+        "py": "yǒu suǒ",
+        "id": "agak"
+      },
+      {
+        "cn": "下降",
+        "py": "xià jiàng",
+        "id": "menurun"
+      },
+      {
+        "cn": "原本",
+        "py": "yuán běn",
+        "id": "awalnya"
+      },
+      {
+        "cn": "在",
+        "py": "zài",
+        "id": "ada; menjadi hidup"
+      },
+      {
+        "cn": "里",
+        "py": "lǐ",
+        "id": "lapisan dalam"
+      },
+      {
+        "cn": "分钟",
+        "py": "fēn zhōng",
+        "id": "menit"
+      },
+      {
+        "cn": "解决",
+        "py": "jiě jué",
+        "id": "memecahkan; menyelesaikan; menyelesaikan (masalah)"
+      },
+      {
+        "cn": "问题",
+        "py": "wèn tí",
+        "id": "pertanyaan"
+      },
+      {
+        "cn": "通过",
+        "py": "tōng guò",
+        "id": "melalui; melewati"
+      },
+      {
+        "cn": "线",
+        "py": "xiàn",
+        "id": "benang"
+      },
+      {
+        "cn": "上",
+        "py": "shǎng",
+        "id": "(bentuk terikat) atas; bagian atas; di atas; sebelumnya"
+      },
+      {
+        "cn": "可能",
+        "py": "kě néng",
+        "id": "mungkin (terjadi)"
+      },
+      {
+        "cn": "需要",
+        "py": "xū yào",
+        "id": "membutuhkan; menginginkan; menuntut; memerlukan"
+      },
+      {
+        "cn": "更",
+        "py": "gēng",
+        "id": "mengganti atau mengganti; mengalami; salah satu dari lima periode dua jam yang dibagi pada malam hari; jaga (misalnya penjaga)"
+      },
+      {
+        "cn": "长",
+        "py": "cháng",
+        "id": "panjang"
+      },
+      {
+        "cn": "才能",
+        "py": "cái néng",
+        "id": "bakat"
+      },
+      {
+        "cn": "达成",
+        "py": "dá chéng",
+        "id": "mencapai (kesepakatan)"
+      },
+      {
+        "cn": "一致",
+        "py": "yī zhì",
+        "id": "konsisten; bulat; setuju"
+      },
+      {
+        "cn": "虽然",
+        "py": "suī rán",
+        "id": "meskipun; walaupun (sering digunakan secara korelatif dengan 可是[ke3 shi4] atau 但是[dan4 shi4] dll)"
+      },
+      {
+        "cn": "降低",
+        "py": "jiàng dī",
+        "id": "mengurangi; menurunkan"
+      },
+      {
+        "cn": "场地",
+        "py": "chǎng dì",
+        "id": "ruang; lokasi; tempat; lapangan olahraga"
+      },
+      {
+        "cn": "成本",
+        "py": "chéng běn",
+        "id": "biaya (manufaktur, produksi dll)"
+      },
+      {
+        "cn": "但",
+        "py": "dàn",
+        "id": "tetapi; namun; akan tetapi; masih"
+      },
+      {
+        "cn": "管理",
+        "py": "guǎn lǐ",
+        "id": "mengawasi"
+      },
+      {
+        "cn": "提出",
+        "py": "tí chū",
+        "id": "mengajukan (isu)"
+      },
+      {
+        "cn": "要求",
+        "py": "yāo qiú",
+        "id": "meminta"
+      },
+      {
+        "cn": "如何",
+        "py": "rú hé",
+        "id": "bagaimana"
+      },
+      {
+        "cn": "不",
+        "py": "bù",
+        "id": "tidak; tidak begitu"
+      },
+      {
+        "cn": "同一",
+        "py": "tóng yī",
+        "id": "identik; sama"
+      },
+      {
+        "cn": "情况",
+        "py": "qíng kuàng",
+        "id": "situasi; keadaan; KP:個|个[ge4],種|种[zhong3]"
+      },
+      {
+        "cn": "下",
+        "py": "xià",
+        "id": "turun"
+      },
+      {
+        "cn": "依然",
+        "py": "yī rán",
+        "id": "masih; seperti sebelumnya"
+      },
+      {
+        "cn": "凝聚",
+        "py": "níng jù",
+        "id": "memampatkan"
+      },
+      {
+        "cn": "力",
+        "py": "Lì",
+        "id": "kekuatan"
+      },
+      {
+        "cn": "成为",
+        "py": "chéng wéi",
+        "id": "menjadi; berubah menjadi"
+      },
+      {
+        "cn": "者",
+        "py": "zhě",
+        "id": "(setelah kata kerja atau kata sifat) orang yang (adalah)..."
+      },
+      {
+        "cn": "重新",
+        "py": "chóng xīn",
+        "id": "lagi; sekali lagi; re-"
+      },
+      {
+        "cn": "思考",
+        "py": "sī kǎo",
+        "id": "merenungkan"
+      },
+      {
+        "cn": "预见",
+        "py": "yù jiàn",
+        "id": "melihat ke depan"
+      },
+      {
+        "cn": "未来",
+        "py": "wèi lái",
+        "id": "masa depan"
+      },
+      {
+        "cn": "完全",
+        "py": "wán quán",
+        "id": "lengkap; utuh"
+      },
+      {
+        "cn": "回到",
+        "py": "huí dào",
+        "id": "kembali ke"
+      },
+      {
+        "cn": "传统",
+        "py": "chuán tǒng",
+        "id": "tradisi"
+      },
+      {
+        "cn": "模式",
+        "py": "mó shì",
+        "id": "mode; pola; model"
+      },
+      {
+        "cn": "而是",
+        "py": "ér shì",
+        "id": "melainkan"
+      },
+      {
+        "cn": "介于",
+        "py": "jiè yú",
+        "id": "di antara"
+      },
+      {
+        "cn": "两",
+        "py": "liǎng",
+        "id": "dua"
+      },
+      {
+        "cn": "混合",
+        "py": "hùn hé",
+        "id": "mencampur; memadukan"
+      }
+    ]
+  },
+  {
+    "id": "tema_transportasi_hsk8",
+    "level": 8,
+    "tema": "Transportasi",
+    "title": "共享单车如何改变城市出行 (Bagaimana Sepeda Berbagi Mengubah Perjalanan di Kota)",
+    "text": "近几年，共享单车在许多城市迅速普及，成为人们日常出行中一种常见的选择。与传统的自行车不同，共享单车不需要用户自己购买和保养，只需要通过手机应用扫描车身上的二维码，就可以随时租用，使用结束后，也可以在规定区域内直接停放，不必找固定的停车桩，这种便利性大大降低了骑车出行的门槛。共享单车的出现，尤其解决了城市交通中所谓最后一公里的问题：很多人从家到地铁站，或者从公司到公交车站，这段距离步行稍显遥远，开车又显得没有必要，共享单车正好填补了这一空白，让距离比较短的出行变得更加高效。此外，相比开车，骑自行车不会产生尾气排放，对缓解城市交通堵车和空气污染，也有一定的积极作用。然而，共享单车的快速发展，也带来了一些新的管理难题。由于投放数量庞大，不少城市出现了共享单车乱停乱放、占用人行道的现象，影响了城市的样子和行人通行。同时，部分共享单车因为缺乏及时维护，损坏率较高，也给运营企业带来了不小的成本压力。如何在方便市民出行和维持城市秩序之间找到平衡，成为共享单车行业持续发展需要面对的重要课题。",
+    "translation": "Beberapa tahun terakhir, sepeda berbagi dengan cepat meluas di banyak kota, menjadi salah satu pilihan umum dalam perjalanan sehari-hari masyarakat. Berbeda dengan sepeda tradisional, sepeda berbagi tidak memerlukan pengguna membeli dan merawatnya sendiri, cukup memindai kode QR di badan sepeda melalui aplikasi ponsel untuk bisa langsung menyewanya kapan saja, setelah selesai digunakan, juga bisa langsung diparkir di area yang ditentukan, tidak perlu mencari tempat parkir tetap, kepraktisan ini sangat menurunkan hambatan bagi orang untuk bepergian dengan sepeda. Kemunculan sepeda berbagi khususnya menyelesaikan masalah yang disebut satu kilometer terakhir dalam transportasi kota: banyak orang dari rumah ke stasiun kereta bawah tanah, atau dari kantor ke halte bus, jarak ini agak jauh jika berjalan kaki, tetapi juga terasa tidak perlu jika naik mobil, sepeda berbagi tepat mengisi kekosongan ini, membuat perjalanan jarak pendek menjadi lebih efisien. Selain itu, dibanding mengemudi mobil, bersepeda tidak menghasilkan emisi gas buang, sehingga juga memiliki peran positif dalam meredakan kemacetan lalu lintas dan polusi udara kota. Namun, perkembangan pesat sepeda berbagi juga membawa sejumlah masalah pengelolaan baru. Karena jumlah yang disebar sangat besar, tidak sedikit kota mengalami fenomena sepeda berbagi diparkir sembarangan, memakan trotoar pejalan kaki, memengaruhi tampilan kota dan lalu lintas pejalan kaki. Pada saat yang sama, sebagian sepeda berbagi karena kurang perawatan tepat waktu, tingkat kerusakannya cukup tinggi, juga membawa tekanan biaya yang tidak kecil bagi perusahaan operator. Bagaimana menemukan keseimbangan antara memudahkan perjalanan warga dan menjaga ketertiban kota, menjadi isu penting yang harus dihadapi industri sepeda berbagi untuk terus berkembang.",
+    "glossary": [
+      {
+        "cn": "近",
+        "py": "jìn",
+        "id": "dekat"
+      },
+      {
+        "cn": "几",
+        "py": "jī",
+        "id": "meja kecil"
+      },
+      {
+        "cn": "年",
+        "py": "Nián",
+        "id": "tahun"
+      },
+      {
+        "cn": "共享",
+        "py": "gòng xiǎng",
+        "id": "berbagi"
+      },
+      {
+        "cn": "单",
+        "py": "Shàn",
+        "id": "digunakan dalam 單于|单于[chan2 yu2]"
+      },
+      {
+        "cn": "车",
+        "py": "Chē",
+        "id": "mobil"
+      },
+      {
+        "cn": "在",
+        "py": "zài",
+        "id": "ada; menjadi hidup"
+      },
+      {
+        "cn": "许多",
+        "py": "xǔ duō",
+        "id": "banyak"
+      },
+      {
+        "cn": "城市",
+        "py": "chéng shì",
+        "id": "kota; kota kecil"
+      },
+      {
+        "cn": "迅速",
+        "py": "xùn sù",
+        "id": "cepat"
+      },
+      {
+        "cn": "普及",
+        "py": "pǔ jí",
+        "id": "menyebar luas"
+      },
+      {
+        "cn": "成为",
+        "py": "chéng wéi",
+        "id": "menjadi; berubah menjadi"
+      },
+      {
+        "cn": "人们",
+        "py": "rén men",
+        "id": "orang-orang"
+      },
+      {
+        "cn": "日常",
+        "py": "rì cháng",
+        "id": "sehari-hari; harian; setiap hari"
+      },
+      {
+        "cn": "出行",
+        "py": "chū xíng",
+        "id": "pergi keluar ke suatu tempat (perjalanan yang relatif singkat)"
+      },
+      {
+        "cn": "中",
+        "py": "Zhōng",
+        "id": "(bentuk terikat) Tiongkok; Orang Tiongkok"
+      },
+      {
+        "cn": "一",
+        "py": "yī",
+        "id": "satu"
+      },
+      {
+        "cn": "种",
+        "py": "zhǒng",
+        "id": "benih"
+      },
+      {
+        "cn": "常见",
+        "py": "cháng jiàn",
+        "id": "umum terlihat"
+      },
+      {
+        "cn": "的",
+        "py": "de",
+        "id": "dari; milik ~ (partikel posesif)"
+      },
+      {
+        "cn": "选择",
+        "py": "xuǎn zé",
+        "id": "memilih"
+      },
+      {
+        "cn": "与",
+        "py": "yú",
+        "id": "dan"
+      },
+      {
+        "cn": "传统",
+        "py": "chuán tǒng",
+        "id": "tradisi"
+      },
+      {
+        "cn": "自行车",
+        "py": "zì xíng chē",
+        "id": "sepeda"
+      },
+      {
+        "cn": "不同",
+        "py": "bù tóng",
+        "id": "berbeda"
+      },
+      {
+        "cn": "不",
+        "py": "bù",
+        "id": "tidak; tidak begitu"
+      },
+      {
+        "cn": "需要",
+        "py": "xū yào",
+        "id": "membutuhkan; menginginkan; menuntut; memerlukan"
+      },
+      {
+        "cn": "用户",
+        "py": "yòng hù",
+        "id": "pengguna"
+      },
+      {
+        "cn": "自己",
+        "py": "zì jǐ",
+        "id": "diri sendiri"
+      },
+      {
+        "cn": "购买",
+        "py": "gòu mǎi",
+        "id": "membeli; memperoleh"
+      },
+      {
+        "cn": "和",
+        "py": "hé",
+        "id": "varian lama dari 和[he2]"
+      },
+      {
+        "cn": "保养",
+        "py": "bǎo yǎng",
+        "id": "menjaga kesehatan seseorang"
+      },
+      {
+        "cn": "只",
+        "py": "zhǐ",
+        "id": "hanya"
+      },
+      {
+        "cn": "通过",
+        "py": "tōng guò",
+        "id": "melalui; melewati"
+      },
+      {
+        "cn": "手机",
+        "py": "shǒu jī",
+        "id": "ponsel; telepon seluler"
+      },
+      {
+        "cn": "应用",
+        "py": "yìng yòng",
+        "id": "menggunakan; menerapkan"
+      },
+      {
+        "cn": "扫描",
+        "py": "sǎo miáo",
+        "id": "memindai"
+      },
+      {
+        "cn": "身上",
+        "py": "shēn shang",
+        "id": "di badan"
+      },
+      {
+        "cn": "二维码",
+        "py": "èr wéi mǎ",
+        "id": "barcode 2D; kode matriks"
+      },
+      {
+        "cn": "就",
+        "py": "jiù",
+        "id": "(setelah klausa pengandaian) dalam hal itu; maka"
+      },
+      {
+        "cn": "可以",
+        "py": "kě yǐ",
+        "id": "bisa"
+      },
+      {
+        "cn": "随时",
+        "py": "suí shí",
+        "id": "kapan saja; setiap saat"
+      },
+      {
+        "cn": "租",
+        "py": "zū",
+        "id": "menyewa"
+      },
+      {
+        "cn": "用",
+        "py": "yòng",
+        "id": "menggunakan; memanfaatkan; mempekerjakan"
+      },
+      {
+        "cn": "使用",
+        "py": "shǐ yòng",
+        "id": "menggunakan"
+      },
+      {
+        "cn": "结束",
+        "py": "jié shù",
+        "id": "pengakhiran"
+      },
+      {
+        "cn": "后",
+        "py": "Hòu",
+        "id": "permaisuri"
+      },
+      {
+        "cn": "也",
+        "py": "Yě",
+        "id": "juga; terlalu; (tidak ...) juga"
+      },
+      {
+        "cn": "规定",
+        "py": "guī dìng",
+        "id": "menetapkan; menentukan; memperbaiki (harga); menetapkan (kuota)"
+      },
+      {
+        "cn": "区域",
+        "py": "qū yù",
+        "id": "area"
+      },
+      {
+        "cn": "内",
+        "py": "nèi",
+        "id": "dalam"
+      },
+      {
+        "cn": "直接",
+        "py": "zhí jiē",
+        "id": "langsung (lawan kata: tidak langsung 間接|间接[jian4 jie1])"
+      },
+      {
+        "cn": "停放",
+        "py": "tíng fàng",
+        "id": "memarkir (mobil, dll)"
+      },
+      {
+        "cn": "不必",
+        "py": "bù bì",
+        "id": "tidak perlu"
+      },
+      {
+        "cn": "找",
+        "py": "zhǎo",
+        "id": "mencari"
+      },
+      {
+        "cn": "固定",
+        "py": "gù dìng",
+        "id": "memperbaiki"
+      },
+      {
+        "cn": "停车",
+        "py": "tíng chē",
+        "id": "menepi (menghentikan kendaraan)"
+      },
+      {
+        "cn": "桩",
+        "py": "zhuāng",
+        "id": "tunggul; pancang; tumpukan"
+      },
+      {
+        "cn": "这",
+        "py": "zhè",
+        "id": "(kata ganti) ini; ini"
+      },
+      {
+        "cn": "便利",
+        "py": "biàn lì",
+        "id": "nyaman"
+      },
+      {
+        "cn": "性",
+        "py": "xìng",
+        "id": "sifat"
+      },
+      {
+        "cn": "大大",
+        "py": "dà dà",
+        "id": "sangat"
+      },
+      {
+        "cn": "降低",
+        "py": "jiàng dī",
+        "id": "mengurangi; menurunkan"
+      },
+      {
+        "cn": "了",
+        "py": "le",
+        "id": "(penanda tindakan selesai)"
+      },
+      {
+        "cn": "骑车",
+        "py": "qí chē",
+        "id": "mengendarai sepeda (sepeda motor atau sepeda)"
+      },
+      {
+        "cn": "门槛",
+        "py": "mén kǎn",
+        "id": "ambang pintu"
+      },
+      {
+        "cn": "出现",
+        "py": "chū xiàn",
+        "id": "muncul"
+      },
+      {
+        "cn": "尤其",
+        "py": "yóu qí",
+        "id": "terutama; sangat"
+      },
+      {
+        "cn": "解决",
+        "py": "jiě jué",
+        "id": "memecahkan; menyelesaikan; menyelesaikan (masalah)"
+      },
+      {
+        "cn": "交通",
+        "py": "jiāo tōng",
+        "id": "terhubung"
+      },
+      {
+        "cn": "所谓",
+        "py": "suǒ wèi",
+        "id": "apa yang dimaksud dengan ungkapan ...; apa yang disebut sebagai ..."
+      },
+      {
+        "cn": "最后",
+        "py": "zuì hòu",
+        "id": "terakhir; penghabisan; pamungkas"
+      },
+      {
+        "cn": "公里",
+        "py": "gōng lǐ",
+        "id": "kilometer"
+      },
+      {
+        "cn": "问题",
+        "py": "wèn tí",
+        "id": "pertanyaan"
+      },
+      {
+        "cn": "很",
+        "py": "hěn",
+        "id": "sangat; cukup"
+      },
+      {
+        "cn": "多",
+        "py": "duō",
+        "id": "banyak; banyak sekali; lebih"
+      },
+      {
+        "cn": "人",
+        "py": "rén",
+        "id": "orang; orang-orang"
+      },
+      {
+        "cn": "从",
+        "py": "cóng",
+        "id": "dari; melalui; lewat"
+      },
+      {
+        "cn": "家",
+        "py": "jiā",
+        "id": "digunakan dalam 傢伙|家伙[jia1 huo5] dan 傢俱|家俱[jia1 ju4]"
+      },
+      {
+        "cn": "到",
+        "py": "dào",
+        "id": "mencapai; tiba"
+      },
+      {
+        "cn": "地铁站",
+        "py": "dì tiě zhàn",
+        "id": "stasiun kereta bawah tanah"
+      },
+      {
+        "cn": "或者",
+        "py": "huò zhě",
+        "id": "atau"
+      },
+      {
+        "cn": "公司",
+        "py": "gōng sī",
+        "id": "perusahaan; firma; korporasi"
+      },
+      {
+        "cn": "公交车",
+        "py": "gōng jiāo chē",
+        "id": "kendaraan transportasi publik"
+      },
+      {
+        "cn": "站",
+        "py": "zhàn",
+        "id": "stasiun"
+      },
+      {
+        "cn": "段",
+        "py": "Duàn",
+        "id": "paragraf"
+      },
+      {
+        "cn": "距离",
+        "py": "jù lí",
+        "id": "jarak"
+      },
+      {
+        "cn": "步行",
+        "py": "bù xíng",
+        "id": "berjalan kaki"
+      },
+      {
+        "cn": "稍",
+        "py": "shāo",
+        "id": "agak"
+      },
+      {
+        "cn": "显",
+        "py": "xiǎn",
+        "id": "membuat terlihat"
+      },
+      {
+        "cn": "遥远",
+        "py": "yáo yuǎn",
+        "id": "jauh; terpencil"
+      },
+      {
+        "cn": "开车",
+        "py": "kāi chē",
+        "id": "mengendarai mobil (atau kereta api, dll)"
+      },
+      {
+        "cn": "又",
+        "py": "yòu",
+        "id": "(sekali) lagi"
+      },
+      {
+        "cn": "显得",
+        "py": "xiǎn de",
+        "id": "tampak"
+      },
+      {
+        "cn": "没有",
+        "py": "méi yǒu",
+        "id": "belum punya; belum ada; tidak ada; tidak memiliki; bukan"
+      },
+      {
+        "cn": "必要",
+        "py": "bì yào",
+        "id": "perlu"
+      },
+      {
+        "cn": "正好",
+        "py": "zhèng hǎo",
+        "id": "tepat (waktu)"
+      },
+      {
+        "cn": "填补",
+        "py": "tián bǔ",
+        "id": "mengisi kekosongan"
+      },
+      {
+        "cn": "空白",
+        "py": "kòng bái",
+        "id": "ruang kosong"
+      },
+      {
+        "cn": "让",
+        "py": "ràng",
+        "id": "mengalah"
+      },
+      {
+        "cn": "比较",
+        "py": "bǐ jiào",
+        "id": "membandingkan"
+      },
+      {
+        "cn": "短",
+        "py": "duǎn",
+        "id": "pendek"
+      },
+      {
+        "cn": "变",
+        "py": "biàn",
+        "id": "berubah"
+      },
+      {
+        "cn": "得",
+        "py": "dé",
+        "id": "memperoleh"
+      },
+      {
+        "cn": "更加",
+        "py": "gèng jiā",
+        "id": "lebih (daripada yang lain); bahkan lebih"
+      },
+      {
+        "cn": "高效",
+        "py": "gāo xiào",
+        "id": "efisien"
+      },
+      {
+        "cn": "此外",
+        "py": "cǐ wài",
+        "id": "selain itu; sebagai tambahan; apalagi; lebih jauh lagi"
+      },
+      {
+        "cn": "相比",
+        "py": "xiāng bǐ",
+        "id": "membandingkan"
+      },
+      {
+        "cn": "骑",
+        "py": "jì",
+        "id": "(Tw) kuda pelana"
+      },
+      {
+        "cn": "会",
+        "py": "huì",
+        "id": "bisa; memiliki keahlian; tahu cara"
+      },
+      {
+        "cn": "产生",
+        "py": "chǎn shēng",
+        "id": "muncul; lahir; terjadi"
+      },
+      {
+        "cn": "尾气",
+        "py": "wěi qì",
+        "id": "gas buang; emisi"
+      },
+      {
+        "cn": "排放",
+        "py": "pái fàng",
+        "id": "mengatur dalam urutan"
+      },
+      {
+        "cn": "对",
+        "py": "duì",
+        "id": "benar; tepat"
+      },
+      {
+        "cn": "缓解",
+        "py": "huǎn jiě",
+        "id": "membawa kelegaan"
+      },
+      {
+        "cn": "堵车",
+        "py": "dǔ chē",
+        "id": "kemacetan lalu lintas; (lalu lintas) macet"
+      },
+      {
+        "cn": "空气",
+        "py": "kōng qì",
+        "id": "udara"
+      },
+      {
+        "cn": "污染",
+        "py": "wū rǎn",
+        "id": "mencemari; mengotori (baik harfiah maupun kiasan)"
+      },
+      {
+        "cn": "有",
+        "py": "yǒu",
+        "id": "memiliki; ada"
+      },
+      {
+        "cn": "一定",
+        "py": "yī dìng",
+        "id": "pasti"
+      },
+      {
+        "cn": "积极",
+        "py": "jī jí",
+        "id": "aktif"
+      },
+      {
+        "cn": "作用",
+        "py": "zuò yòng",
+        "id": "memengaruhi"
+      },
+      {
+        "cn": "然而",
+        "py": "rán ér",
+        "id": "namun; tetapi; masih"
+      },
+      {
+        "cn": "快速",
+        "py": "kuài sù",
+        "id": "cepat; berkecepatan tinggi; pesat"
+      },
+      {
+        "cn": "发展",
+        "py": "fā zhǎn",
+        "id": "pembangunan"
+      },
+      {
+        "cn": "带来",
+        "py": "dài lái",
+        "id": "membawa"
+      },
+      {
+        "cn": "一些",
+        "py": "yī xiē",
+        "id": "beberapa; sedikit; (mengikuti kata sifat) sedikit lebih ..."
+      },
+      {
+        "cn": "新",
+        "py": "Xīn",
+        "id": "singkatan dari Xinjiang 新疆[Xin1 jiang1]"
+      },
+      {
+        "cn": "管理",
+        "py": "guǎn lǐ",
+        "id": "mengawasi"
+      },
+      {
+        "cn": "难题",
+        "py": "nán tí",
+        "id": "masalah sulit"
+      },
+      {
+        "cn": "由于",
+        "py": "yóu yú",
+        "id": "karena"
+      },
+      {
+        "cn": "投",
+        "py": "tóu",
+        "id": "untuk melempar (sesuatu ke arah tertentu: bola, lembing, granat dll)"
+      },
+      {
+        "cn": "放",
+        "py": "fàng",
+        "id": "meletakkan"
+      },
+      {
+        "cn": "数量",
+        "py": "shù liàng",
+        "id": "kuantitatif"
+      },
+      {
+        "cn": "庞大",
+        "py": "páng dà",
+        "id": "besar; sangat besar; luar biasa"
+      },
+      {
+        "cn": "不少",
+        "py": "bù shǎo",
+        "id": "banyak"
+      },
+      {
+        "cn": "乱",
+        "py": "luàn",
+        "id": "dalam kebingungan atau kekacauan"
+      },
+      {
+        "cn": "停",
+        "py": "tíng",
+        "id": "berhenti"
+      },
+      {
+        "cn": "占用",
+        "py": "zhàn yòng",
+        "id": "menduduki"
+      },
+      {
+        "cn": "人行道",
+        "py": "rén xíng dào",
+        "id": "trotoar"
+      },
+      {
+        "cn": "现象",
+        "py": "xiàn xiàng",
+        "id": "fenomena"
+      },
+      {
+        "cn": "影响",
+        "py": "yǐng xiǎng",
+        "id": "pengaruh"
+      },
+      {
+        "cn": "样子",
+        "py": "yàng zi",
+        "id": "penampilan"
+      },
+      {
+        "cn": "行人",
+        "py": "xíng rén",
+        "id": "pejalan kaki"
+      },
+      {
+        "cn": "通行",
+        "py": "tōng xíng",
+        "id": "melewati; melintasi"
+      },
+      {
+        "cn": "同时",
+        "py": "tóng shí",
+        "id": "pada saat yang sama; serentak"
+      },
+      {
+        "cn": "部分",
+        "py": "bù fen",
+        "id": "bagian; porsi; potongan"
+      },
+      {
+        "cn": "因为",
+        "py": "yīn wèi",
+        "id": "karena"
+      },
+      {
+        "cn": "缺乏",
+        "py": "quē fá",
+        "id": "kekurangan"
+      },
+      {
+        "cn": "及时",
+        "py": "jí shí",
+        "id": "tepat waktu; pada waktu yang tepat"
+      },
+      {
+        "cn": "维护",
+        "py": "wéi hù",
+        "id": "membela"
+      },
+      {
+        "cn": "损坏",
+        "py": "sǔn huài",
+        "id": "merusak"
+      },
+      {
+        "cn": "率",
+        "py": "lǜ",
+        "id": "(bentuk terikat) rasio; tingkat; proporsi"
+      },
+      {
+        "cn": "较",
+        "py": "jiào",
+        "id": "(bentuk terikat) membandingkan"
+      },
+      {
+        "cn": "高",
+        "py": "Gāo",
+        "id": "tinggi"
+      },
+      {
+        "cn": "给",
+        "py": "gěi",
+        "id": "kepada"
+      },
+      {
+        "cn": "运营",
+        "py": "yùn yíng",
+        "id": "beroperasi"
+      },
+      {
+        "cn": "企业",
+        "py": "qǐ yè",
+        "id": "perusahaan; firma; korporasi"
+      },
+      {
+        "cn": "小",
+        "py": "xiǎo",
+        "id": "kecil"
+      },
+      {
+        "cn": "成本",
+        "py": "chéng běn",
+        "id": "biaya (manufaktur, produksi dll)"
+      },
+      {
+        "cn": "压力",
+        "py": "yā lì",
+        "id": "tekanan"
+      },
+      {
+        "cn": "如何",
+        "py": "rú hé",
+        "id": "bagaimana"
+      },
+      {
+        "cn": "方便",
+        "py": "fāng biàn",
+        "id": "nyaman; cocok"
+      },
+      {
+        "cn": "市民",
+        "py": "shì mín",
+        "id": "penduduk kota"
+      },
+      {
+        "cn": "维持",
+        "py": "wéi chí",
+        "id": "menjaga; mempertahankan; melestarikan"
+      },
+      {
+        "cn": "秩序",
+        "py": "zhì xù",
+        "id": "ketertiban; keteraturan (dalam masyarakat, di kelas, di jalan, dll)"
+      },
+      {
+        "cn": "之间",
+        "py": "zhī jiān",
+        "id": "(setelah kata benda) antara; di antara; di tengah"
+      },
+      {
+        "cn": "找到",
+        "py": "zhǎo dào",
+        "id": "menemukan"
+      },
+      {
+        "cn": "平衡",
+        "py": "píng héng",
+        "id": "keseimbangan"
+      },
+      {
+        "cn": "行业",
+        "py": "háng yè",
+        "id": "perdagangan; profesi; industri; bisnis"
+      },
+      {
+        "cn": "持续",
+        "py": "chí xù",
+        "id": "berlanjut"
+      },
+      {
+        "cn": "面对",
+        "py": "miàn duì",
+        "id": "menghadapi; konfrontasi"
+      },
+      {
+        "cn": "重要",
+        "py": "zhòng yào",
+        "id": "penting; signifikan; utama"
+      },
+      {
+        "cn": "课题",
+        "py": "kè tí",
+        "id": "tugas"
+      }
+    ]
+  }
+]
