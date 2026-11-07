@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Peta 11 Pilar — Mandarin Interaktif</title>
+<link rel="stylesheet" href="shared/style.css" />
+<script src="shared/core.js"></script>
+<style>
+  /* ═══════════════════════════════════════════════════
+     CSS LOKAL peta-bahasa.html
+     Reuse token warna yang SUDAH ADA (--gold/--red/--hsk*-bg/--hsk*-text)
+     -- sengaja TIDAK menambah token warna baru, ikut konvensi kamus-pola.js
+     ("palet kamus.html cuma punya --gold/--red").
+     Status: kuat -> hijau (pinjam --hsk4), baru -> emas (--gold/--hsk7),
+     sebagian -> kuning (pinjam --hsk3), belum -> abu (--text-muted).
+  ═══════════════════════════════════════════════════ */
+
+  .pb-layout {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: calc(var(--nav-h) + 28px) 20px 48px;
+  }
+
+  .pb-header {
+    text-align: center;
+    margin-bottom: 6px;
+  }
+
+  .pb-header h1 {
+    font-size: 1.5rem;
+    color: var(--text-main);
+    margin-bottom: 8px;
+  }
+
+  .pb-header p {
+    font-size: 0.88rem;
+    color: var(--text-dim);
+    line-height: 1.7;
+    max-width: 620px;
+    margin: 0 auto;
+  }
+
+  /* ── LEGENDA STATUS ─────────────────────────────────── */
+  .pb-legend {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px 16px;
+    margin: 22px 0 30px;
+    font-size: 0.76rem;
+    color: var(--text-muted);
+  }
+  .pb-legend span { display: inline-flex; align-items: center; gap: 5px; }
+
+  /* ── RINGKASAN HITUNG ───────────────────────────────── */
+  .pb-summary {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 32px;
+  }
+  .pb-summary-chip {
+    padding: 6px 14px;
+    border-radius: 99px;
+    font-size: 0.78rem;
+    font-weight: 500;
+    border: 1px solid var(--border);
+  }
+
+  /* ── KARTU PILAR ────────────────────────────────────── */
+  .pillar-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .pillar-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+  }
+
+  .pillar-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px 18px;
+    cursor: pointer;
+    user-select: none;
+    transition: background var(--transition);
+  }
+  .pillar-header:hover { background: var(--bg-hover); }
+
+  .pillar-num {
+    flex-shrink: 0;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: var(--bg-card2);
+    border: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    font-weight: 600;
+  }
+
+  .pillar-title-wrap { flex: 1; min-width: 0; }
+
+  .pillar-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--text-main);
+  }
+
+  .pillar-desc {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    margin-top: 2px;
+  }
+
+  .pillar-chevron {
+    flex-shrink: 0;
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    transition: transform var(--transition);
+  }
+  .pillar-card.open .pillar-chevron { transform: rotate(90deg); }
+
+  .status-badge {
+    flex-shrink: 0;
+    font-size: 0.72rem;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 99px;
+    white-space: nowrap;
+  }
+  .status-kuat     { background: var(--hsk4-bg); color: var(--hsk4-text); }
+  .status-baru     { background: var(--gold-bg); color: var(--gold); }
+  .status-sebagian { background: var(--hsk3-bg); color: var(--hsk3-text); }
+  .status-belum    { background: var(--bg-card2); color: var(--text-muted); }
+
+  .pillar-body {
+    display: none;
+    border-top: 1px solid var(--border);
+    padding: 6px 18px 14px;
+  }
+  .pillar-card.open .pillar-body { display: block; }
+
+  /* ── PELAJARAN SINGKAT ──────────────────────────────── */
+  .pelajaran-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    margin: 10px 0 4px;
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: var(--gold-dim);
+    cursor: pointer;
+    user-select: none;
+  }
+  .pelajaran-toggle:hover { color: var(--gold); }
+  .pelajaran-toggle .pt-arrow {
+    font-size: 0.7rem;
+    transition: transform var(--transition);
+  }
+  .pelajaran-box.open .pt-arrow { transform: rotate(90deg); }
+
+  .pelajaran-content {
+    display: none;
+    font-size: 0.82rem;
+    color: var(--text-dim);
+    line-height: 1.75;
+    background: var(--bg-card2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 14px 16px;
+    margin-bottom: 10px;
+  }
+  .pelajaran-box.open .pelajaran-content { display: block; }
+
+  .pelajaran-content h4 {
+    font-size: 0.82rem;
+    color: var(--gold);
+    margin: 14px 0 6px;
+  }
+  .pelajaran-content h4:first-child { margin-top: 0; }
+
+  .pelajaran-content ul { margin: 0 0 8px 18px; padding: 0; }
+  .pelajaran-content li { margin-bottom: 5px; }
+
+  .pelajaran-content .hz { color: var(--text-main); font-weight: 500; }
+  .pelajaran-content .py { color: var(--gold-dim); font-style: italic; }
+
+  .pelajaran-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 6px 0 10px;
+    font-size: 0.78rem;
+  }
+  .pelajaran-content th, .pelajaran-content td {
+    text-align: left;
+    padding: 5px 8px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+  }
+  .pelajaran-content th {
+    color: var(--text-muted);
+    font-weight: 500;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  .pelajaran-content p { margin: 0 0 8px; }
+  .pelajaran-content p:last-child { margin-bottom: 0; }
+
+  .pelajaran-source {
+    margin-top: 10px;
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    font-style: italic;
+  }
+
+  .subtopic-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .subtopic-row:last-child { border-bottom: none; }
+
+  .subtopic-name {
+    flex: 1;
+    font-size: 0.84rem;
+    color: var(--text-dim);
+  }
+
+  .subtopic-link {
+    flex-shrink: 0;
+    font-size: 0.76rem;
+    padding: 5px 12px;
+    border-radius: var(--radius);
+    border: 1px solid var(--border-gold);
+    color: var(--gold-dim);
+    transition: all var(--transition);
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .subtopic-link:hover {
+    background: var(--gold-bg);
+    color: var(--gold);
+    text-decoration: none;
+  }
+
+  .pb-back {
+    display: block;
+    text-align: center;
+    margin-top: 36px;
+    font-size: 0.82rem;
+    color: var(--text-muted);
+  }
+
+  @media (max-width: 600px) {
+    .pillar-header { padding: 13px 14px; gap: 9px; }
+    .pillar-num { width: 26px; height: 26px; font-size: 0.72rem; }
+    .status-badge { font-size: 0.66rem; padding: 3px 8px; }
+    .subtopic-row { flex-wrap: wrap; }
+  }
+</style>
+</head>
+<body>
+
+<nav class="app-nav">
+  <a href="index.html" class="nav-brand">
+    <span class="hanzi-logo">漢</span>
+    <span>Mandarin Interaktif</span>
+  </a>
+  <div class="nav-links">
+    <a href="kamus.html"       class="nav-link">Kamus</a>
+    <a href="flashcard.html"   class="nav-link">Flashcard</a>
+    <a href="wordbuilder.html" class="nav-link">Word Builder</a>
+    <a href="tone.html"        class="nav-link">Tone</a>
+    <a href="graded-reader.html" class="nav-link">Bacaan</a>
+    <a href="hsk-exam.html" class="nav-link">Ujian HSK</a>
+    <a href="tatabahasa.html" class="nav-link">Tata Bahasa</a>
+    <a href="terjemah-bebas.html" class="nav-link">Terjemah Bebas</a>
+    <a href="peta-bahasa.html" class="nav-link active">Peta Bahasa</a>
+  </div>
+</nav>
+
+<div class="pb-layout">
+
+  <div class="pb-header">
+    <h1>🗺️ Peta 11 Pilar Bahasa Mandarin</h1>
+    <p>
+      Kerangka menyeluruh bahasa Mandarin — dari fonetik sampai variasi bahasa —
+      dan status tiap bagiannya di aplikasi ini, tersebar di 8+ halaman berbeda.
+      Klik satu pilar untuk lihat rinciannya, atau langsung lompat ke lokasinya.
+    </p>
+  </div>
+
+  <div class="pb-legend">
+    <span><span class="status-badge status-kuat">✅ Kuat</span></span>
+    <span><span class="status-badge status-baru">🟢 Baru</span></span>
+    <span><span class="status-badge status-sebagian">🟡 Sebagian</span></span>
+    <span><span class="status-badge status-belum">⚪ Belum Ada</span></span>
+  </div>
+
+  <div class="pb-summary" id="pb-summary"></div>
+
+  <div class="pillar-list" id="pillar-list"></div>
+
+  <a href="index.html" class="pb-back">← Kembali ke Beranda</a>
+
+</div>
+
+<script>
+'use strict';
+
+/* ═══════════════════════════════════════════════════════════════
+   DATA 11 PILAR — sumber: BLUEPRINT v26 Bagian A.4 (hasil pemetaan
+   diverifikasi langsung dari isi grammar_hsk1-9.json, bukan tebakan).
+   Format deep-link ke kamus.html mengikuti hash-router di kamus-init.js:
+     #group=TYPE:KEY   -> langsung tampilkan grup tsb
+     #opengroup=TYPE   -> buka panel grup, رسلان pilih sendiri
+     #search=QUERY     -> langsung cari kata
+═══════════════════════════════════════════════════════════════ */
+const STATUS_LABEL = {
+  kuat:     '✅ Kuat',
+  baru:     '🟢 Baru',
+  sebagian: '🟡 Sebagian',
+  belum:    '⚪ Belum Ada',
+};
+
+const PILLARS = [
+  {
+    title: '1. Fonetik & Pelafalan',
+    status: 'kuat',
+    desc: 'Latihan nada interaktif plus referensi fonetik lengkap (inisial, final, sandhi nada, erhua, kesalahan umum penutur Indonesia) lewat Pelajaran Lengkap.',
+    subtopics: [
+      { name: 'Latihan Nada (game "Jebakan Nada")', status: 'kuat', link: 'tone.html', label: 'Buka Tone →' },
+      { name: 'Referensi konsep (inisial, final, nada, sandhi, erhua, kesalahan umum) — kini di 📖 Pelajaran Lengkap', status: 'kuat' },
+    ],
+  },
+  {
+    title: '2. Sistem Angka',
+    status: 'kuat',
+    desc: 'Kosakata lengkap di Kamus; logika sistem baca bilangan, tanggal/waktu, uang, dan budaya angka kini tercakup lewat Pelajaran Lengkap.',
+    subtopics: [
+      { name: 'Kosakata angka & bilangan (34 kata)', status: 'kuat', link: 'kamus.html#group=theme:angka', label: 'Buka di Kamus →' },
+      { name: 'Logika sistem (cara baca ratusan/ribuan/dst.) — kini di 📖 Pelajaran Lengkap', status: 'kuat' },
+      { name: 'Tanggal/waktu, uang, pecahan, angka budaya & formal (大写) — kini di 📖 Pelajaran Lengkap', status: 'kuat' },
+    ],
+  },
+  {
+    title: '3. Kata Bantu Bilangan (量词)',
+    status: 'kuat',
+    desc: 'Muncul di semua 9 level HSK.',
+    subtopics: [
+      { name: 'Rujukan lengkap 量词 per level HSK', status: 'kuat', link: 'tatabahasa.html#search=量词', label: 'Buka Tata Bahasa →' },
+    ],
+  },
+  {
+    title: '4. Partikel & Aspek',
+    status: 'kuat',
+    desc: '了/过/着 dan partikel struktural lain — rujukan kuat.',
+    subtopics: [
+      { name: 'Rujukan lengkap partikel & aspek', status: 'kuat', link: 'tatabahasa.html#search=了,过,着', label: 'Buka Tata Bahasa →' },
+    ],
+  },
+  {
+    title: '5. Kata Kerja Modal',
+    status: 'kuat',
+    desc: '会/能/可以/应该 dst. — tercakup HSK1–5.',
+    subtopics: [
+      { name: 'Rujukan kata kerja modal (HSK1–5)', status: 'kuat', link: 'tatabahasa.html#search=会,能,可以,应该', label: 'Buka Tata Bahasa →' },
+    ],
+  },
+  {
+    title: '6. Struktur Kalimat & Perbandingan',
+    status: 'kuat',
+    desc: 'Rujukan pola + latihan interaktif menyusun kalimat.',
+    subtopics: [
+      { name: 'Rujukan pola kalimat & perbandingan', status: 'kuat', link: 'tatabahasa.html#search=比,一样', label: 'Buka Tata Bahasa →' },
+      { name: 'Latihan susun kalimat (34 pola interaktif)', status: 'kuat', link: 'wordbuilder.html', label: 'Buka Word Builder →' },
+    ],
+  },
+  {
+    title: '7. Konstruksi Lanjutan (把 / 被, dst.)',
+    status: 'kuat',
+    desc: 'Konstruksi tingkat lanjut — rujukan kuat.',
+    subtopics: [
+      { name: 'Rujukan konstruksi lanjutan', status: 'kuat', link: 'tatabahasa.html#search=把,被', label: 'Buka Tata Bahasa →' },
+    ],
+  },
+  {
+    title: '8. Kata Ganti, Penunjuk, Sapaan',
+    status: 'kuat',
+    desc: 'Mekanisme gramatikal, sistem sapaan, dan referensi mendalam (gaul internet, regional, klasik, dokumen formal) sudah lengkap lewat Pelajaran Lengkap.',
+    subtopics: [
+      { name: 'Kata ganti & kata penunjuk (mekanisme gramatikal)', status: 'kuat', link: 'tatabahasa.html#search=代词,指示', label: 'Buka Tata Bahasa →' },
+      { name: 'Sapaan Keluarga (kekerabatan) — 141 istilah', status: 'baru', link: 'kamus.html#opengroup=khusus', label: 'Buka di Kamus →' },
+      { name: 'Sapaan Sosial & Hormat — 97 istilah', status: 'baru', link: 'kamus.html#opengroup=khusus', label: 'Buka di Kamus →' },
+      { name: 'Gaul internet, variasi regional, sastra klasik, dokumen formal, panggilan sayang — kini di 📖 Pelajaran Lengkap', status: 'baru' },
+    ],
+  },
+  {
+    title: '9. Kata Sifat, Reduplikasi',
+    status: 'kuat',
+    desc: 'Termasuk pola reduplikasi AA/AABB — rujukan kuat.',
+    subtopics: [
+      { name: 'Rujukan kata sifat & reduplikasi', status: 'kuat', link: 'tatabahasa.html#search=形容词,重叠', label: 'Buka Tata Bahasa →' },
+    ],
+  },
+  {
+    title: '10. Pragmatik & Ekspresi Lisan',
+    status: 'kuat',
+    desc: 'Kata seru, onomatope, partikel modal di Kamus; budaya mianzi, gaul internet, humor/sarkasme, ekspresi maaf/setuju, dan kesalahan umum kini tercakup lewat Pelajaran Lengkap.',
+    subtopics: [
+      { name: 'Kata Seru (interjeksi) — 83 kata', status: 'baru', link: 'kamus.html#opengroup=khusus', label: 'Buka di Kamus →' },
+      { name: 'Onomatope — 61 kata', status: 'baru', link: 'kamus.html#opengroup=khusus', label: 'Buka di Kamus →' },
+      { name: 'Partikel Modal (语气词) — 88 kata', status: 'baru', link: 'kamus.html#opengroup=khusus', label: 'Buka di Kamus →' },
+      { name: 'Budaya 面子, gaul internet, humor/sarkasme, backchanneling, ekspresi maaf/setuju, kesalahan umum — kini di 📖 Pelajaran Lengkap', status: 'baru' },
+    ],
+  },
+  {
+    title: '11. Variasi Bahasa & Sejarah',
+    status: 'kuat',
+    desc: 'Radikal/komponen karakter kuat di Kamus; 成语, dialek, bahasa gaul, klasik, dan Zhuyin kini tercakup lewat Pelajaran Lengkap.',
+    subtopics: [
+      { name: 'Radikal & Komponen Karakter', status: 'kuat', link: 'kamus.html#opengroup=radical', label: 'Buka di Kamus →' },
+      { name: 'Etimologi Karakter (mnemonic "Bantu Ingat")', status: 'kuat', link: 'kamus.html', label: 'Buka Kamus →' },
+      { name: 'Akar Kosakata (karakter dasar → kata turunan)', status: 'kuat', link: 'kamus.html#opengroup=akar', label: 'Buka di Kamus →' },
+      { name: '成语 (Peribahasa) — kini di 📖 Pelajaran Lengkap §5', status: 'baru' },
+      { name: 'Dialek Besar & Bahasa Gaul Internet — kini di 📖 Pelajaran Lengkap §3–4', status: 'baru' },
+      { name: 'Bahasa Klasik (文言文) — kini di 📖 Pelajaran Lengkap §6', status: 'baru' },
+      { name: 'Zhuyin (Bopomofo) sebagai sistem referensi — kini di 📖 Pelajaran Lengkap §13', status: 'baru' },
+      { name: 'Bahasa hukum/bisnis, cinta, medsos, minoritas, evolusi modern — kini di 📖 Pelajaran Lengkap', status: 'baru' },
+    ],
+  },
+];
+
+function el(tag, cls, html) {
+  const e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (html !== undefined) e.innerHTML = html;
+  return e;
+}
+
+function renderSummary() {
+  const counts = { kuat: 0, baru: 0, sebagian: 0, belum: 0 };
+  PILLARS.forEach(p => counts[p.status]++);
+  const wrap = document.getElementById('pb-summary');
+  wrap.innerHTML = Object.entries(counts).map(([status, n]) => `
+    <span class="pb-summary-chip status-${status}" style="background:transparent">
+      ${STATUS_LABEL[status]}: ${n} pilar
+    </span>`).join('');
+}
+
+function renderPillars() {
+  const list = document.getElementById('pillar-list');
+  list.innerHTML = '';
+
+  PILLARS.forEach((pillar, idx) => {
+    const card = el('div', 'pillar-card');
+
+    const header = el('div', 'pillar-header');
+    header.appendChild(el('div', 'pillar-num', String(idx + 1)));
+
+    const titleWrap = el('div', 'pillar-title-wrap');
+    titleWrap.appendChild(el('div', 'pillar-title', escHtml(pillar.title)));
+    titleWrap.appendChild(el('div', 'pillar-desc', escHtml(pillar.desc)));
+    header.appendChild(titleWrap);
+
+    header.appendChild(el('span', `status-badge status-${pillar.status}`, STATUS_LABEL[pillar.status]));
+    header.appendChild(el('span', 'pillar-chevron', '▶'));
+
+    header.addEventListener('click', () => card.classList.toggle('open'));
+    card.appendChild(header);
+
+    const body = el('div', 'pillar-body');
+
+    // ── Pelajaran Lengkap (data eksternal, BUKAN hardcode di HTML) ──
+    // Fetch data/pelajaran/pilar_N.json baru saat pertama kali dibuka
+    // (lazy-load, sama seperti pola loadCidict() di kamus) -- kalau
+    // filenya belum ada (belum digenerate رسلان), tampilkan pesan jelas,
+    // bukan konten palsu.
+    const pelajaranBox = el('div', 'pelajaran-box');
+    const toggle = el('div', 'pelajaran-toggle', '<span class="pt-arrow">▶</span> 📖 Pelajaran Lengkap');
+    const content = el('div', 'pelajaran-content');
+    toggle.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const opening = !pelajaranBox.classList.contains('open');
+      pelajaranBox.classList.toggle('open');
+      if (opening) loadPelajaran(idx + 1, content);
+    });
+    pelajaranBox.appendChild(toggle);
+    pelajaranBox.appendChild(content);
+    body.appendChild(pelajaranBox);
+
+    pillar.subtopics.forEach(sub => {
+      const row = el('div', 'subtopic-row');
+      row.appendChild(el('span', 'subtopic-name', `${STATUS_LABEL[sub.status].split(' ')[0]} ${escHtml(sub.name)}`));
+      if (sub.link) {
+        const a = document.createElement('a');
+        a.href = sub.link;
+        a.className = 'subtopic-link';
+        a.textContent = sub.label || 'Buka →';
+        row.appendChild(a);
+      }
+      body.appendChild(row);
+    });
+    card.appendChild(body);
+
+    list.appendChild(card);
+  });
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   PELAJARAN LENGKAP — sumber data/pelajaran/pilar_N.json (dibuat
+   رسلان lewat AI, lihat prompt generator). Skema (per file):
+   {
+     "pilar": 1,
+     "judul": "...",
+     "ringkasan": "...",              // opsional, 1-2 kalimat
+     "bagian": [
+       {
+         "judul": "Nama bagian",
+         "isi": [
+           { "tipe": "paragraf",  "teks": "..." },
+           { "tipe": "poin",      "daftar": ["...", "..."] },
+           { "tipe": "tabel",     "kolom": ["...","..."], "baris": [["...","..."], ...] },
+           { "tipe": "contoh",    "daftar": [{"hanzi":"...","pinyin":"...","arti":"...","catatan":"..."}] },
+           { "tipe": "peringatan","teks": "..." }
+         ]
+       }
+     ]
+   }
+   Render generik lewat renderPelajaranJSON() -- cukup tambah tipe
+   blok baru di sana kalau skema berkembang, TIDAK perlu ubah data
+   pilar lain yang sudah ada.
+═══════════════════════════════════════════════════════════════ */
+const PELAJARAN_CACHE = {};
+
+async function loadPelajaran(pilarNum, contentEl) {
+  if (PELAJARAN_CACHE[pilarNum]) {
+    contentEl.innerHTML = PELAJARAN_CACHE[pilarNum];
+    return;
+  }
+  contentEl.innerHTML = '<p style="color:var(--text-muted)">Memuat…</p>';
+  try {
+    const res = await fetch(`data/pelajaran/pilar_${pilarNum}.json`);
+    if (!res.ok) throw new Error('not-found');
+    const data = await res.json();
+    const html = renderPelajaranJSON(data);
+    PELAJARAN_CACHE[pilarNum] = html;
+    contentEl.innerHTML = html;
+  } catch (e) {
+    contentEl.innerHTML = `
+      <p style="color:var(--text-muted)">
+        📭 Pelajaran lengkap untuk pilar ini belum dibuat.<br>
+        Buat lewat AI pakai <strong>prompt generator</strong> (lihat dokumen terpisah dari رسلان),
+        simpan hasilnya sebagai <code>data/pelajaran/pilar_${pilarNum}.json</code>, lalu buka lagi bagian ini.
+      </p>`;
+  }
+}
+
+function renderPelajaranBlock(block) {
+  switch (block.tipe) {
+    case 'paragraf':
+      return `<p>${block.teks || ''}</p>`;
+    case 'poin':
+      return `<ul>${(block.daftar || []).map(t => `<li>${t}</li>`).join('')}</ul>`;
+    case 'tabel': {
+      const head = `<tr>${(block.kolom || []).map(k => `<th>${escHtml(k)}</th>`).join('')}</tr>`;
+      const rows = (block.baris || []).map(r => `<tr>${r.map(c => `<td>${c}</td>`).join('')}</tr>`).join('');
+      return `<table>${head}${rows}</table>`;
+    }
+    case 'contoh':
+      return `<ul>${(block.daftar || []).map(c => `
+        <li><span class="hz">${escHtml(c.hanzi || '')}</span>
+        ${c.pinyin ? ` <span class="py">(${escHtml(c.pinyin)})</span>` : ''}
+        ${c.arti ? ` — ${escHtml(c.arti)}` : ''}
+        ${c.catatan ? `<br><span style="color:var(--text-muted);font-size:0.78rem">${escHtml(c.catatan)}</span>` : ''}</li>
+      `).join('')}</ul>`;
+    case 'peringatan':
+      return `<p style="border-left:2px solid var(--gold);padding-left:10px;color:var(--text-main)">⚠ ${block.teks || ''}</p>`;
+    default:
+      return '';
+  }
+}
+
+function renderPelajaranJSON(data) {
+  let html = '';
+  if (data.ringkasan) html += `<p>${data.ringkasan}</p>`;
+  (data.bagian || []).forEach(bagian => {
+    html += `<h4>${escHtml(bagian.judul || '')}</h4>`;
+    (bagian.isi || []).forEach(block => { html += renderPelajaranBlock(block); });
+  });
+  html += `<div class="pelajaran-source">Sumber: data/pelajaran/pilar_${data.pilar}.json</div>`;
+  return html;
+}
+
+renderSummary();
+renderPillars();
+
+// Buka pilar pertama yang statusnya 'baru' secara default (paling relevan
+// utk sesi ini) -- رسلان bisa tutup/buka kartu lain sesuka hati.
+const firstNew = document.querySelectorAll('.pillar-card')[9]; // Pilar 10 (index 9)
+if (firstNew) firstNew.classList.add('open');
+</script>
+
+</body>
+</html>
