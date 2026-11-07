@@ -1,0 +1,192 @@
+{
+  "total_data_files": 67,
+  "total_code_files_scanned": 41,
+  "code_files_scanned": [
+    ".\\akar_kosakata_mandiri.html",
+    ".\\flashcard.html",
+    ".\\graded-reader.html",
+    ".\\hsk-exam.html",
+    ".\\index.html",
+    ".\\kamus.html",
+    ".\\nuance_panel_prototype.html",
+    ".\\peta-bahasa.html",
+    ".\\tatabahasa.html",
+    ".\\tatabahasaaa.html",
+    ".\\terjemah-bebas.html",
+    ".\\tone.html",
+    ".\\wordbuilder.html",
+    ".\\flashcard\\flashcard-decks.js",
+    ".\\flashcard\\flashcard-games.js",
+    ".\\flashcard\\flashcard-init.js",
+    ".\\flashcard\\flashcard-session.js",
+    ".\\flashcard\\flashcard-srs.js",
+    ".\\flashcard\\flashcard-storage-layout.js",
+    ".\\kamus\\kamus-actions-filters.js",
+    ".\\kamus\\kamus-cards-ui.js",
+    ".\\kamus\\kamus-data.js",
+    ".\\kamus\\kamus-detail.js",
+    ".\\kamus\\kamus-init.js",
+    ".\\kamus\\kamus-nuance.js",
+    ".\\kamus\\kamus-pola.js",
+    ".\\kamus\\kamus-search.js",
+    ".\\kamus\\kamus-storage-layout.js",
+    ".\\kamus\\kamus-stroke-order.js",
+    ".\\shared\\audio.js",
+    ".\\shared\\core.js",
+    ".\\shared\\hanzi-writer.min.js",
+    ".\\shared\\pinyin.js",
+    ".\\shared\\srs.js",
+    ".\\wordbuilder\\wordbuilder-builder.js",
+    ".\\wordbuilder\\wordbuilder-collection.js",
+    ".\\wordbuilder\\wordbuilder-core.js",
+    ".\\wordbuilder\\wordbuilder-data.js",
+    ".\\wordbuilder\\wordbuilder-init.js",
+    ".\\wordbuilder\\wordbuilder-quiz.js",
+    ".\\wordbuilder\\wordbuilder-spot.js"
+  ],
+  "orphan_files": [
+    "# HSK 5 - DAFTAR LENGKAP TATA BAHASA (120+ Poin).txt",
+    "# HSK 6 - DAFTAR LENGKAP TATA BAHASA (100+ Poin).txt",
+    "# HSK 7 - DAFTAR LENGKAP TATA BAHASA (70+ Poin).txt",
+    "# HSK 8 - DAFTAR LENGKAP TATA BAHASA (80+ Poin).txt",
+    "# HSK 9 - DAFTAR LENGKAP TATA BAHASA (70+ Poin).txt",
+    "1 📚 HSK 1 - 48 POIN TATA BAHASA LENGKAP.txt",
+    "2 📚 HSK 2 - DAFTAR LENGKAP TATA BAHASA (60+ Poin).txt",
+    "3 📚 HSK 3 - DAFTAR LENGKAP TATA BAHASA (80+ Poin).txt",
+    "4 📚 HSK 4 - DAFTAR LENGKAP TATA BAHASA (100+ Poin).txt",
+    "app_words lama.json",
+    "app_words.bak_manual18_20260730_173849.json",
+    "app_words.bak_round2_20260730_190609.json",
+    "character_etymology_en.json",
+    "cidict_full.json",
+    "cidict_semantic_index.json",
+    "cidict_ts.u8",
+    "confusion_groups.json",
+    "dictionary.txt",
+    "graded_readers_backup_sebelum_merge.json",
+    "graded_readers_backup_sebelum_merge_hsk9.json",
+    "graded_readers_tema.json",
+    "graded_readers_tema2.json",
+    "graded_readers_tema3.json",
+    "graded_readers_tema4.json",
+    "graded_readers_tema5.json",
+    "graded_readers_tema6.json",
+    "graded_readers_tema7.json",
+    "graded_readers_tema8.json",
+    "grammar_hsk1.json",
+    "grammar_hsk2.json",
+    "grammar_hsk3.json",
+    "grammar_hsk4.json",
+    "grammar_hsk5.json",
+    "grammar_hsk6.json",
+    "grammar_hsk7.json",
+    "grammar_hsk8.json",
+    "grammar_hsk9.json",
+    "graphics.txt",
+    "hsk_7_9_grammar_reference.json",
+    "hsk_new_words.json",
+    "hsk_new_words_v2.json",
+    "index_theme_backup.json",
+    "kangxi_radical_map.json",
+    "laporan_tema_sample.json",
+    "peek_random_report.txt",
+    "peek_report.txt",
+    "synonym_antonym.json",
+    "themes_external_raw.json",
+    "themes_extracted.json",
+    "themes_extracted_v2.json",
+    "unmatched_theme_words.json"
+  ],
+  "referenced_files": {
+    "app_words.json": [
+      ".\\index.html",
+      ".\\terjemah-bebas.html",
+      ".\\tone.html",
+      ".\\flashcard\\flashcard-decks.js",
+      ".\\kamus\\kamus-actions-filters.js",
+      ".\\kamus\\kamus-data.js",
+      ".\\kamus\\kamus-detail.js",
+      ".\\kamus\\kamus-nuance.js",
+      ".\\shared\\srs.js",
+      ".\\wordbuilder\\wordbuilder-core.js",
+      ".\\wordbuilder\\wordbuilder-data.js"
+    ],
+    "char_etymology_id.json": [
+      ".\\flashcard\\flashcard-session.js",
+      ".\\kamus\\kamus-actions-filters.js",
+      ".\\kamus\\kamus-data.js"
+    ],
+    "cidict_index.json": [
+      ".\\terjemah-bebas.html",
+      ".\\kamus\\kamus-data.js"
+    ],
+    "graded_readers.json": [
+      ".\\graded-reader.html",
+      ".\\hsk-exam.html",
+      ".\\flashcard\\flashcard-session.js",
+      ".\\kamus\\kamus-detail.js"
+    ],
+    "hanzi_writer_data.json": [
+      ".\\flashcard\\flashcard-session.js",
+      ".\\kamus\\kamus-detail.js",
+      ".\\kamus\\kamus-stroke-order.js"
+    ],
+    "index_kelompok_khusus.json": [
+      ".\\kamus\\kamus-actions-filters.js",
+      ".\\kamus\\kamus-data.js"
+    ],
+    "index_phonetic.json": [
+      ".\\flashcard\\flashcard-decks.js",
+      ".\\kamus\\kamus-data.js"
+    ],
+    "index_radical.json": [
+      ".\\flashcard\\flashcard-decks.js",
+      ".\\kamus\\kamus-data.js"
+    ],
+    "index_stroke.json": [
+      ".\\flashcard\\flashcard-decks.js",
+      ".\\kamus\\kamus-data.js"
+    ],
+    "index_theme.json": [
+      ".\\flashcard\\flashcard-decks.js",
+      ".\\kamus\\kamus-data.js"
+    ],
+    "kata_majemuk_pola.json": [
+      ".\\kamus.html",
+      ".\\flashcard\\flashcard-decks.js",
+      ".\\flashcard\\flashcard-games.js",
+      ".\\flashcard\\flashcard-init.js",
+      ".\\kamus\\kamus-pola.js"
+    ],
+    "nuance_pairs.json": [
+      ".\\kamus.html",
+      ".\\flashcard\\flashcard-decks.js",
+      ".\\flashcard\\flashcard-games.js",
+      ".\\flashcard\\flashcard-init.js",
+      ".\\kamus\\kamus-nuance.js"
+    ],
+    "pattern_explanations.json": [
+      ".\\hsk-exam.html",
+      ".\\wordbuilder\\wordbuilder-builder.js",
+      ".\\wordbuilder\\wordbuilder-core.js",
+      ".\\wordbuilder\\wordbuilder-init.js",
+      ".\\wordbuilder\\wordbuilder-quiz.js",
+      ".\\wordbuilder\\wordbuilder-spot.js"
+    ],
+    "produktif_karakter.json": [
+      ".\\flashcard.html",
+      ".\\flashcard\\flashcard-decks.js",
+      ".\\kamus\\kamus-actions-filters.js",
+      ".\\kamus\\kamus-data.js"
+    ],
+    "tone_drills.json": [
+      ".\\tone.html"
+    ],
+    "wb_pools.json": [
+      ".\\shared\\srs.js",
+      ".\\wordbuilder\\wordbuilder-core.js",
+      ".\\wordbuilder\\wordbuilder-data.js",
+      ".\\wordbuilder\\wordbuilder-init.js"
+    ]
+  }
+}
