@@ -1,0 +1,32 @@
+{"character": "人", "confusable_with": ["个", "大"], "note": "Perbedaan pada satu goresan tambahan: 个 = 人 + garis tegak (丨), 大 = 人 + garis mendatar (一)."}
+{"character": "头", "confusable_with": ["买"], "note": "Perbedaan pada satu goresan tambahan: 买 = 头 + goresan siku (乛)."}
+{"character": "了", "confusable_with": ["子"], "note": "Perbedaan pada satu goresan tambahan: 子 = 了 + garis mendatar (一)."}
+{"character": "二", "confusable_with": ["三", "于"], "note": "Perbedaan pada satu goresan tambahan: 三 = 二 + garis mendatar (一), 于 = 二 + kait tegak (亅)."}
+{"character": "八", "confusable_with": ["小"], "note": "Perbedaan pada satu goresan tambahan: 小 = 八 + kait tegak (亅)."}
+{"character": "十", "confusable_with": ["干", "土"], "note": "Perbedaan pada satu goresan tambahan: 干 = 十 + garis mendatar (一), 土 = 十 + garis mendatar (一)."}
+{"character": "土", "confusable_with": ["生", "王"], "note": "Perbedaan pada satu goresan tambahan: 生 = 土 + garis mendatar (一), 王 = 土 + garis mendatar (一)."}
+{"character": "心", "confusable_with": ["必"], "note": "Perbedaan pada satu goresan tambahan: 必 = 心 + goresan miring kiri (丿)."}
+{"character": "上", "confusable_with": ["止"], "note": "Perbedaan pada satu goresan tambahan: 止 = 上 + garis tegak (丨)."}
+{"character": "月", "confusable_with": ["且", "甩"], "note": "Perbedaan pada satu goresan tambahan: 且 = 月 + garis mendatar (一), 甩 = 月 + goresan berkelok (乚)."}
+{"character": "子", "confusable_with": ["孔"], "note": "Perbedaan pada satu goresan tambahan: 孔 = 子 + goresan berkelok (乚)."}
+{"character": "弓", "confusable_with": ["引"], "note": "Perbedaan pada satu goresan tambahan: 引 = 弓 + garis tegak (丨)."}
+{"character": "内", "confusable_with": ["丙"], "note": "Perbedaan pada satu goresan tambahan: 丙 = 内 + garis mendatar (一)."}
+{"character": "从", "confusable_with": ["丛"], "note": "Perbedaan pada satu goresan tambahan: 丛 = 从 + garis mendatar (一)."}
+{"character": "口", "confusable_with": ["中", "日", "曰"], "note": "Perbedaan pada satu goresan tambahan: 中 = 口 + garis tegak (丨), 日 = 口 + garis mendatar (一), 曰 = 口 + garis mendatar (一)."}
+{"character": "曰", "confusable_with": ["电"], "note": "Perbedaan pada satu goresan tambahan: 电 = 曰 + goresan berkelok (乚)."}
+{"character": "三", "confusable_with": ["丰"], "note": "Perbedaan pada satu goresan tambahan: 丰 = 三 + garis tegak (丨)."}
+{"character": "丘", "confusable_with": ["乒", "乓"], "note": "Perbedaan pada satu goresan tambahan: 乒 = 丘 + goresan miring kiri (丿), 乓 = 丘 + titik (丶)."}
+{"character": "业", "confusable_with": ["亚"], "note": "Perbedaan pada satu goresan tambahan: 亚 = 业 + garis mendatar (一)."}
+{"character": "之", "confusable_with": ["乏"], "note": "Perbedaan pada satu goresan tambahan: 乏 = 之 + goresan miring kiri (丿)."}
+{"character": "勿", "confusable_with": ["匆"], "note": "Perbedaan pada satu goresan tambahan: 匆 = 勿 + titik (丶)."}
+{"character": "卜", "confusable_with": ["下"], "note": "Perbedaan pada satu goresan tambahan: 下 = 卜 + garis mendatar (一)."}
+{"character": "又", "confusable_with": ["丈"], "note": "Perbedaan pada satu goresan tambahan: 丈 = 又 + garis mendatar (一)."}
+{"character": "夕", "confusable_with": ["歹"], "note": "Perbedaan pada satu goresan tambahan: 歹 = 夕 + garis mendatar (一)."}
+{"character": "大", "confusable_with": ["天", "夫"], "note": "Perbedaan pada satu goresan tambahan: 天 = 大 + garis mendatar (一), 夫 = 大 + garis mendatar (一)."}
+{"character": "天", "confusable_with": ["矢"], "note": "Perbedaan pada satu goresan tambahan: 矢 = 天 + goresan miring kiri (丿)."}
+{"character": "尸", "confusable_with": ["尺"], "note": "Perbedaan pada satu goresan tambahan: 尺 = 尸 + goresan berkelok (乚)."}
+{"character": "干", "confusable_with": ["午"], "note": "Perbedaan pada satu goresan tambahan: 午 = 干 + goresan miring kiri (丿)."}
+{"character": "斤", "confusable_with": ["丘", "斥"], "note": "Perbedaan pada satu goresan tambahan: 丘 = 斤 + garis mendatar (一), 斥 = 斤 + titik (丶)."}
+{"character": "日", "confusable_with": ["旧", "旦", "申"], "note": "Perbedaan pada satu goresan tambahan: 旧 = 日 + garis tegak (丨), 旦 = 日 + garis mendatar (一), 申 = 日 + garis tegak (丨)."}
+{"character": "木", "confusable_with": ["未", "末", "朱"], "note": "Perbedaan pada satu goresan tambahan: 未 = 木 + garis mendatar (一), 末 = 木 + garis mendatar (一), 朱 = 木 + garis mendatar (一)."}
+{"character": "舌", "confusable_with": ["乱"], "note": "Perbedaan pada satu goresan tambahan: 乱 = 舌 + goresan berkelok (乚)."}
