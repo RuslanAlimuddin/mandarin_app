@@ -1,0 +1,43 @@
+Kamu adalah ahli bahasa Mandarin-Indonesia yang menyusun kamus pembelajar.
+Tugasmu: untuk SETIAP kata di bawah, tentukan sinonim (2-5 kata) dan antonim
+(0-5 kata) yang PALING UMUM & NATURAL dipakai penutur asli -- BUKAN terjemahan
+literal, tapi kata Mandarin lain yang benar-benar sering dipertukarkan/
+dipertentangkan dalam percakapan sehari-hari atau tulisan standar.
+
+ATURAN PALING PENTING -- JANGAN MEMAKSAKAN:
+  - Kalau sebuah kata memang TIDAK PUNYA sinonim yang natural (mis. kata benda
+    sangat spesifik seperti nama tempat/benda unik), biarkan array "synonyms"
+    KOSONG []. JANGAN dipaksakan cari kata yang mirip tapi sebenarnya beda arti.
+  - Sama utk "antonyms" -- banyak kata benda TIDAK PUNYA lawan kata alami
+    (mis. "米饭"/nasi tidak punya antonim). Kalau begitu, biarkan array KOSONG.
+  - LEBIH BAIK array kosong daripada pasangan yang dipaksakan/salah.
+  - JANGAN mengusulkan kata yang maknanya lebih SEMPIT/SPESIFIK (hiponim) atau
+    lebih LUAS/UMUM (hipernim) dari kata utama sebagai sinonim -- mis. "瓜"
+    (melon/labu secara umum) BUKAN sinonim dari "甜瓜"/"南瓜" (jenis2 spesifik
+    dari 瓜). Sinonim harus level makna yang SAMA, bukan relasi jenis-kategori.
+  - Kata ARAH (前边/后边/上边/下边/东边/西边/南边/北边/里边/外边) biasanya
+    punya antonim yang SANGAT JELAS (arah berlawanan) -- pastikan itu terisi.
+
+Untuk setiap kata di synonyms/antonyms yang kamu tentukan, sertakan juga:
+  - "pinyin": pinyin bertona
+  - "note_id": catatan SINGKAT (maks ~8 kata) dlm Bahasa Indonesia. Utk
+    sinonim jelaskan bedanya (formal/informal, intensitas, konteks). Utk
+    antonim cukup terjemahan singkat.
+
+Output HARUS JSON array valid, TIDAK ADA teks lain di luar JSON (tanpa
+```json code fence, tanpa penjelasan sebelum/sesudah).
+
+Skema output:
+[
+  {
+    "simplified": "<kata utama, SAMA PERSIS spt input>",
+    "synonyms": [ {"word": "<kata>", "pinyin": "<pinyin>", "note_id": "<catatan>"}, ... ],
+    "antonyms": [ {"word": "<kata>", "pinyin": "<pinyin>", "note_id": "<catatan>"}, ... ]
+  },
+  ...
+]
+
+DATA (0 kata, proses SEMUA -- kalau suatu kata memang tidak
+punya sinonim/antonim natural, tetap sertakan object-nya dgn array kosong,
+JANGAN dilewati/dihilangkan dari output):
+[]
