@@ -1,0 +1,518 @@
+{
+  "kata_seru_netral": {
+    "label_id": "Kata Seru - Netral",
+    "label_zh": "",
+    "words": [
+      "咦",
+      "呸",
+      "哟",
+      "嘶",
+      "嘘",
+      "老天爷",
+      "妈呀",
+      "阿弥陀佛",
+      "噢",
+      "哎哟喂",
+      "天啊",
+      "呵呵",
+      "嘿嘿",
+      "嚯",
+      "呸呸",
+      "哎哎",
+      "哦哦",
+      "嗯嗯",
+      "哼嗯",
+      "哦豁",
+      "噎",
+      "啊呀",
+      "呃",
+      "喔",
+      "啊哈",
+      "哇塞",
+      "诶",
+      "不会吧",
+      "真的吗",
+      "太棒了",
+      "太可惜了",
+      "气死我了",
+      "笑死我了",
+      "哇哦",
+      "好嘞",
+      "天哪",
+      "嘻嘻",
+      "啊唷",
+      "哇哇",
+      "呣",
+      "嗳"
+    ],
+    "count": 41
+  },
+  "kata_seru_kasar": {
+    "label_id": "Kata Seru - Kasar/Informal",
+    "label_zh": "",
+    "words": [
+      "我去"
+    ],
+    "count": 1
+  },
+  "onomatope_benturan_gesekan": {
+    "label_id": "Onomatope - Benturan & Gesekan",
+    "label_zh": "",
+    "words": [
+      "砰砰",
+      "咚咚",
+      "笃笃",
+      "吱呀",
+      "哐当",
+      "窸窣",
+      "嘎吱",
+      "哗啦"
+    ],
+    "count": 8
+  },
+  "onomatope_mesin_kendaraan": {
+    "label_id": "Onomatope - Mesin & Kendaraan",
+    "label_zh": "",
+    "words": [
+      "嗡嗡",
+      "叭叭",
+      "吱",
+      "突突",
+      "隆隆",
+      "哒哒哒",
+      "呜"
+    ],
+    "count": 7
+  },
+  "onomatope_air_hujan": {
+    "label_id": "Onomatope - Air & Hujan",
+    "label_zh": "",
+    "words": [
+      "淅淅沥沥",
+      "哗哗",
+      "呼呼",
+      "噼里啪啦",
+      "沙沙",
+      "潺潺",
+      "轰轰",
+      "哗",
+      "咕嘟咕嘟",
+      "咕噜"
+    ],
+    "count": 10
+  },
+  "onomatope_hewan": {
+    "label_id": "Onomatope - Hewan",
+    "label_zh": "",
+    "words": [
+      "汪汪",
+      "喵喵",
+      "喔喔喔",
+      "咯咯哒",
+      "嘎嘎",
+      "哞",
+      "咩",
+      "哼哼",
+      "呱呱",
+      "嗷"
+    ],
+    "count": 10
+  },
+  "onomatope_tubuh_manusia": {
+    "label_id": "Onomatope - Tubuh Manusia",
+    "label_zh": "",
+    "words": [
+      "阿嚏",
+      "咳咳",
+      "嗯哼",
+      "咯咯",
+      "呜呜",
+      "呼噜"
+    ],
+    "count": 6
+  },
+  "onomatope_makanan_masak": {
+    "label_id": "Onomatope - Makanan & Masak",
+    "label_zh": "",
+    "words": [
+      "滋滋",
+      "笃笃笃",
+      "咔嚓咔嚓",
+      "咯吱咯吱"
+    ],
+    "count": 4
+  },
+  "onomatope_benda_lain": {
+    "label_id": "Onomatope - Benda Lain",
+    "label_zh": "",
+    "words": [
+      "滴答",
+      "铃铃",
+      "轰隆隆",
+      "咔嚓",
+      "噼啪",
+      "叮铃铃"
+    ],
+    "count": 6
+  },
+  "partikel_modal": {
+    "label_id": "Partikel Modal",
+    "label_zh": "",
+    "words": [
+      "呗",
+      "喽",
+      "咯",
+      "喏",
+      "唄",
+      "啰",
+      "呕",
+      "咧",
+      "嘞",
+      "也行",
+      "好了",
+      "啵",
+      "耶",
+      "了了",
+      "诶呀",
+      "嗲",
+      "着了",
+      "来着",
+      "唻",
+      "噻",
+      "了啦",
+      "的呢",
+      "着呢"
+    ],
+    "count": 23
+  },
+  "sapaan_keluarga_canggah_kandung_ayah": {
+    "label_id": "Sapaan Keluarga - Canggah - Kandung - Pihak Ayah",
+    "label_zh": "",
+    "words": [
+      "高祖父",
+      "高祖母"
+    ],
+    "count": 2
+  },
+  "sapaan_keluarga_buyut_kandung_ayah": {
+    "label_id": "Sapaan Keluarga - Buyut - Kandung - Pihak Ayah",
+    "label_zh": "",
+    "words": [
+      "曾祖父",
+      "曾祖母"
+    ],
+    "count": 2
+  },
+  "sapaan_keluarga_buyut_kandung_ibu": {
+    "label_id": "Sapaan Keluarga - Buyut - Kandung - Pihak Ibu",
+    "label_zh": "",
+    "words": [
+      "外曾祖父",
+      "外曾祖母",
+      "曾外祖父",
+      "曾外祖母"
+    ],
+    "count": 4
+  },
+  "sapaan_keluarga_kakek_nenek_kandung_ibu": {
+    "label_id": "Sapaan Keluarga - Kakek/Nenek - Kandung - Pihak Ibu",
+    "label_zh": "",
+    "words": [
+      "外祖父",
+      "外祖母"
+    ],
+    "count": 2
+  },
+  "sapaan_keluarga_orangtua_angkat_netral": {
+    "label_id": "Sapaan Keluarga - Orang Tua - Angkat - Netral",
+    "label_zh": "",
+    "words": [
+      "养父",
+      "养母",
+      "干爹",
+      "干妈",
+      "义父",
+      "义母"
+    ],
+    "count": 6
+  },
+  "sapaan_keluarga_orangtua_mertua_netral": {
+    "label_id": "Sapaan Keluarga - Orang Tua - Mertua - Netral",
+    "label_zh": "",
+    "words": [
+      "公公",
+      "婆婆",
+      "亲家",
+      "亲家公",
+      "亲家母"
+    ],
+    "count": 5
+  },
+  "sapaan_keluarga_orangtua_kandung_ayah": {
+    "label_id": "Sapaan Keluarga - Orang Tua - Kandung - Pihak Ayah",
+    "label_zh": "",
+    "words": [
+      "叔父",
+      "姑妈",
+      "堂伯",
+      "堂叔",
+      "大伯",
+      "小叔",
+      "大姑",
+      "小姑"
+    ],
+    "count": 8
+  },
+  "sapaan_keluarga_orangtua_kandung_ibu": {
+    "label_id": "Sapaan Keluarga - Orang Tua - Kandung - Pihak Ibu",
+    "label_zh": "",
+    "words": [
+      "姨妈",
+      "表伯",
+      "表叔",
+      "大舅",
+      "小舅",
+      "大姨",
+      "小姨"
+    ],
+    "count": 7
+  },
+  "sapaan_keluarga_sendiri_ipar_netral": {
+    "label_id": "Sapaan Keluarga - Sendiri - Ipar - Netral",
+    "label_zh": "",
+    "words": [
+      "大伯子",
+      "小叔子",
+      "大姑子",
+      "小姑子",
+      "大舅子",
+      "小舅子",
+      "大姨子",
+      "小姨子",
+      "姐夫",
+      "妹夫",
+      "弟媳",
+      "连襟",
+      "妯娌",
+      "夫君",
+      "贤妻"
+    ],
+    "count": 15
+  },
+  "sapaan_keluarga_sendiri_kandung_ayah": {
+    "label_id": "Sapaan Keluarga - Sendiri - Kandung - Pihak Ayah",
+    "label_zh": "",
+    "words": [
+      "堂哥",
+      "堂弟",
+      "堂姐",
+      "堂妹"
+    ],
+    "count": 4
+  },
+  "sapaan_keluarga_sendiri_kandung_ibu": {
+    "label_id": "Sapaan Keluarga - Sendiri - Kandung - Pihak Ibu",
+    "label_zh": "",
+    "words": [
+      "表哥",
+      "表弟",
+      "表姐",
+      "表妹"
+    ],
+    "count": 4
+  },
+  "sapaan_keluarga_anak_tiri_netral": {
+    "label_id": "Sapaan Keluarga - Anak - Tiri - Netral",
+    "label_zh": "",
+    "words": [
+      "继子",
+      "继女",
+      "继子媳",
+      "继女婿"
+    ],
+    "count": 4
+  },
+  "sapaan_keluarga_anak_angkat_netral": {
+    "label_id": "Sapaan Keluarga - Anak - Angkat - Netral",
+    "label_zh": "",
+    "words": [
+      "养子",
+      "养女",
+      "干儿子",
+      "干女儿",
+      "养儿媳",
+      "养女婿",
+      "义子",
+      "义女"
+    ],
+    "count": 8
+  },
+  "sapaan_keluarga_anak_kandung_netral": {
+    "label_id": "Sapaan Keluarga - Anak - Kandung - Netral",
+    "label_zh": "",
+    "words": [
+      "侄子",
+      "侄女",
+      "外甥",
+      "外甥女"
+    ],
+    "count": 4
+  },
+  "sapaan_keluarga_cucu_kandung_netral": {
+    "label_id": "Sapaan Keluarga - Cucu - Kandung - Netral",
+    "label_zh": "",
+    "words": [
+      "外孙",
+      "外孙女",
+      "外甥孙",
+      "外甥孙女",
+      "侄孙",
+      "侄孙女"
+    ],
+    "count": 6
+  },
+  "sapaan_keluarga_cicit_kandung_netral": {
+    "label_id": "Sapaan Keluarga - Cicit - Kandung - Netral",
+    "label_zh": "",
+    "words": [
+      "曾孙",
+      "曾孙女",
+      "曾外孙",
+      "曾外孙女",
+      "曾侄孙",
+      "曾侄孙女"
+    ],
+    "count": 6
+  },
+  "sapaan_keluarga_sendiri_tiri_netral": {
+    "label_id": "Sapaan Keluarga - Sendiri - Tiri - Netral",
+    "label_zh": "",
+    "words": [
+      "同父异母",
+      "同母异父"
+    ],
+    "count": 2
+  },
+  "sapaan_keluarga_canggah_kandung_ibu": {
+    "label_id": "Sapaan Keluarga - Canggah - Kandung - Pihak Ibu",
+    "label_zh": "",
+    "words": [
+      "高外祖父",
+      "高外祖母"
+    ],
+    "count": 2
+  },
+  "sapaan_keluarga_orangtua_ipar_ayah": {
+    "label_id": "Sapaan Keluarga - Orang Tua - Ipar - Pihak Ayah",
+    "label_zh": "",
+    "words": [
+      "婶母",
+      "姑父"
+    ],
+    "count": 2
+  },
+  "sapaan_keluarga_orangtua_ipar_ibu": {
+    "label_id": "Sapaan Keluarga - Orang Tua - Ipar - Pihak Ibu",
+    "label_zh": "",
+    "words": [
+      "舅母",
+      "姨父"
+    ],
+    "count": 2
+  },
+  "sapaan_keluarga_anak_kandung_ayah": {
+    "label_id": "Sapaan Keluarga - Anak - Kandung - Pihak Ayah",
+    "label_zh": "",
+    "words": [
+      "堂侄",
+      "堂侄女",
+      "姑甥",
+      "姑甥女"
+    ],
+    "count": 4
+  },
+  "sapaan_keluarga_anak_kandung_ibu": {
+    "label_id": "Sapaan Keluarga - Anak - Kandung - Pihak Ibu",
+    "label_zh": "",
+    "words": [
+      "表侄",
+      "表侄女",
+      "姨甥",
+      "姨甥女"
+    ],
+    "count": 4
+  },
+  "sapaan_keluarga_orangtua_tiri_netral": {
+    "label_id": "Sapaan Keluarga - Orang Tua - Tiri - Netral",
+    "label_zh": "",
+    "words": [
+      "后妈",
+      "后爸"
+    ],
+    "count": 2
+  },
+  "sapaan_keluarga_sendiri_kandung_netral": {
+    "label_id": "Sapaan Keluarga - Sendiri - Kandung - Netral",
+    "label_zh": "",
+    "words": [
+      "同父同母"
+    ],
+    "count": 1
+  },
+  "sapaan_keluarga_kakek_nenek_kandung_ayah": {
+    "label_id": "Sapaan Keluarga - Kakek/Nenek - Kandung - Pihak Ayah",
+    "label_zh": "",
+    "words": [
+      "太公",
+      "太婆"
+    ],
+    "count": 2
+  },
+  "sapaan_sosial_formal": {
+    "label_id": "Sapaan Sosial - Formal",
+    "label_zh": "",
+    "words": [
+      "贵姓",
+      "家父",
+      "家母",
+      "令尊",
+      "令堂",
+      "鄙人",
+      "科长",
+      "贵庚",
+      "贵国",
+      "令爱",
+      "令郎",
+      "小女",
+      "犬子",
+      "拙荆",
+      "贤弟",
+      "阁下",
+      "小弟",
+      "小妹",
+      "贤侄",
+      "贤侄女",
+      "舍弟",
+      "舍妹",
+      "寒舍",
+      "贵府",
+      "令嫒",
+      "贤内助",
+      "敬语",
+      "谦语"
+    ],
+    "count": 28
+  },
+  "sapaan_sosial_akrab": {
+    "label_id": "Sapaan Sosial - Akrab",
+    "label_zh": "",
+    "words": [
+      "老弟",
+      "老妹",
+      "小哥",
+      "小姐姐",
+      "小哥哥"
+    ],
+    "count": 5
+  }
+}
