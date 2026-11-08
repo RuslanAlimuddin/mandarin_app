@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bacaan Berjenjang — Mandarin Interaktif</title>
+  <link rel="stylesheet" href="shared/style.css" />
+  <script src="shared/core.js"></script>
+  <script src="shared/pinyin.js"></script>
+  <script src="shared/audio.js"></script>
+  <style>
+    /* ═══════════════════════════════════════════════════
+       CSS LOKAL graded-reader.html
+    ═══════════════════════════════════════════════════ */
+
+    .gr-layout {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: calc(var(--nav-h) + 24px) 20px 60px;
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+    }
+
+    .gr-header {
+      text-align: center;
+    }
+
+    .gr-header h1 {
+      font-size: 1.3rem;
+      color: var(--text-main);
+      font-weight: 500;
+      margin-bottom: 4px;
+    }
+
+    .gr-header p {
+      font-size: 0.84rem;
+      color: var(--text-muted);
+    }
+
+    /* ── Toolbar atas: upload ──────────────────────────── */
+    .gr-toolbar {
+      display: flex;
+      justify-content: flex-end;
+      gap: 8px;
+    }
+
+    .gr-btn {
+      padding: 6px 14px;
+      border-radius: var(--radius);
+      border: 1px solid var(--border-gold);
+      background: var(--bg-card2);
+      color: var(--gold-dim);
+      font-size: 0.8rem;
+      cursor: pointer;
+      transition: all var(--transition);
+    }
+
+    .gr-btn:hover {
+      background: var(--gold-bg);
+      color: var(--gold);
+    }
+
+    .gr-btn.active {
+      background: var(--gold-bg);
+      color: var(--gold);
+      border-color: var(--gold);
+    }
+
+    /* ── Level selector ─────────────────────────────────── */
+    .gr-level-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
+      gap: 10px;
+    }
+
+    .gr-level-btn {
+      padding: 16px 8px;
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      background: var(--bg-card);
+      color: var(--text-main);
+      font-size: 0.95rem;
+      font-weight: 500;
+      cursor: pointer;
+      text-align: center;
+      transition: all var(--transition);
+    }
+
+    .gr-level-btn:hover {
+      border-color: var(--gold-dim);
+      background: var(--gold-bg);
+    }
+
+    .gr-level-btn .gr-level-count {
+      display: block;
+      font-size: 0.7rem;
+      color: var(--text-muted);
+      margin-top: 3px;
+      font-weight: 400;
+    }
+
+    /* ── Daftar bacaan per level ─────────────────────────── */
+    .gr-back-btn {
+      align-self: flex-start;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 0.82rem;
+      cursor: pointer;
+      padding: 4px 0;
+    }
+
+    .gr-back-btn:hover {
+      color: var(--gold);
+    }
+
+    .gr-passage-list {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .gr-passage-card {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 14px 16px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      cursor: pointer;
+      transition: all var(--transition);
+    }
+
+    .gr-passage-card:hover {
+      border-color: var(--gold-dim);
+    }
+
+    .gr-passage-title {
+      font-size: 0.95rem;
+      color: var(--text-main);
+    }
+
+    .gr-passage-badge {
+      font-size: 0.68rem;
+      padding: 2px 8px;
+      border-radius: 99px;
+      background: var(--gold-bg);
+      color: var(--gold);
+      margin-left: 8px;
+    }
+
+    .gr-tema-badge {
+      font-size: 0.68rem;
+      padding: 2px 8px;
+      border-radius: 99px;
+      background: var(--bg-card2);
+      border: 1px solid var(--border);
+      color: var(--text-dim);
+      margin-left: 8px;
+    }
+
+    .gr-tema-filter {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .gr-tema-chip {
+      padding: 5px 12px;
+      border-radius: 99px;
+      border: 1px solid var(--border);
+      background: var(--bg-card2);
+      color: var(--text-dim);
+      font-size: 0.78rem;
+      cursor: pointer;
+      transition: all var(--transition);
+    }
+
+    .gr-tema-chip:hover {
+      border-color: var(--gold-dim);
+    }
+
+    .gr-tema-chip.active {
+      background: var(--gold-bg);
+      border-color: var(--gold-dim);
+      color: var(--gold);
+    }
+
+    /* ── Layar baca ──────────────────────────────────────── */
+    .gr-reading-toolbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .gr-reading-title {
+      font-size: 1.05rem;
+      color: var(--text-main);
+      font-weight: 500;
+    }
+
+    .gr-reading-controls {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+    }
+
+    .gr-passage-text {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg, var(--radius));
+      padding: 24px;
+      font-size: 1.3rem;
+      line-height: 2.2;
+      color: var(--text-main);
+      transition: line-height var(--transition);
+    }
+
+    /* Ruang ekstra antar baris supaya pinyin di atas kata tidak
+       menabrak baris sebelumnya, saat toggle pinyin aktif */
+    .gr-passage-text.show-pinyin {
+      line-height: 2.8;
+    }
+
+    .gr-word {
+      position: relative;
+      display: inline-block;
+      cursor: pointer;
+      border-radius: 3px;
+      transition: background var(--transition);
+      padding: 1px 0;
+    }
+
+    .gr-word-py {
+      display: none;
+      position: absolute;
+      bottom: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 0.5em;
+      color: var(--gold-dim);
+      white-space: nowrap;
+      line-height: 1.3;
+      pointer-events: none;
+    }
+
+    .gr-passage-text.show-pinyin .gr-word-py {
+      display: block;
+    }
+
+    .gr-word:hover {
+      background: var(--gold-bg);
+      color: var(--gold);
+    }
+
+    .gr-word.active {
+      background: var(--gold-bg);
+      color: var(--gold);
+    }
+
+    /* ── Panel arti kata terklik ─────────────────────────── */
+    .gr-lookup-panel {
+      display: none;
+      background: var(--bg-card2);
+      border: 1px solid var(--border-gold);
+      border-radius: var(--radius);
+      padding: 12px 16px;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .gr-lookup-panel.visible {
+      display: flex;
+    }
+
+    .gr-lookup-cn {
+      font-size: 1.4rem;
+      color: var(--text-main);
+    }
+
+    .gr-lookup-py {
+      font-size: 1rem;
+      color: var(--gold);
+    }
+
+    .gr-lookup-id {
+      font-size: 0.86rem;
+      color: var(--text-dim);
+      flex: 1;
+    }
+
+    /* ── Terjemahan penuh (toggle) ───────────────────────── */
+    .gr-translation {
+      display: none;
+      background: var(--bg-card2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px;
+      font-size: 0.88rem;
+      color: var(--text-dim);
+      line-height: 1.7;
+    }
+
+    .gr-translation.visible {
+      display: block;
+    }
+
+    /* ── Upload modal ────────────────────────────────────── */
+    .gr-modal-backdrop {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.55);
+      z-index: 1000;
+      align-items: flex-start;
+      justify-content: center;
+      padding: 6vh 20px;
+      overflow-y: auto;
+    }
+
+    .gr-modal-backdrop.open {
+      display: flex;
+    }
+
+    .gr-modal {
+      background: var(--bg-card);
+      border: 1px solid var(--border-gold);
+      border-radius: var(--radius);
+      width: 100%;
+      max-width: 560px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .gr-modal-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .gr-modal-header h3 {
+      margin: 0;
+      font-size: 1rem;
+      color: var(--text);
+    }
+
+    .gr-modal-close {
+      background: none;
+      border: none;
+      color: var(--text-dim);
+      font-size: 1.3rem;
+      cursor: pointer;
+    }
+
+    .gr-modal-body {
+      padding: 18px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .gr-modal-body p {
+      font-size: 0.82rem;
+      color: var(--text-dim);
+      line-height: 1.6;
+    }
+
+    .gr-schema-example {
+      background: #111110;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 12px;
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      overflow-x: auto;
+      white-space: pre;
+      font-family: monospace;
+    }
+
+    .gr-empty {
+      text-align: center;
+      color: var(--text-muted);
+      padding: 30px 20px;
+      font-size: 0.85rem;
+      line-height: 1.7;
+    }
+
+    /* ── Bubble chat (Percakapan) ────────────────────────────
+       Dipasang di atas .gr-passage-text (2 class sekaligus) supaya
+       toggle pinyin & CSS lookup panel yang sudah ada otomatis jalan
+       tanpa perlu duplikasi logika. */
+    .gr-passage-text.gr-bubbles {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      font-size: 1.05rem;
+      line-height: 1.6;
+    }
+
+    .gr-bubble-row {
+      display: flex;
+      flex-direction: column;
+      max-width: 80%;
+    }
+
+    .gr-bubble-row.side-a { align-self: flex-start; align-items: flex-start; }
+    .gr-bubble-row.side-b { align-self: flex-end; align-items: flex-end; }
+
+    .gr-bubble-speaker {
+      font-size: 0.68rem;
+      color: var(--text-muted);
+      margin-bottom: 3px;
+      padding: 0 6px;
+    }
+
+    .gr-bubble {
+      position: relative;
+      padding: 10px 14px;
+      border-radius: 14px;
+      border: 1px solid var(--border);
+      background: var(--bg-card2);
+    }
+
+    .gr-bubble-row.side-a .gr-bubble { border-bottom-left-radius: 3px; }
+    .gr-bubble-row.side-b .gr-bubble {
+      border-bottom-right-radius: 3px;
+      background: var(--gold-bg);
+      border-color: var(--border-gold);
+    }
+
+    .gr-bubble-speak {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 0.82rem;
+      margin-left: 6px;
+      vertical-align: middle;
+    }
+
+    .gr-bubble-speak:hover { color: var(--gold); }
+
+    .gr-line-translation {
+      display: none;
+      margin-top: 6px;
+      font-size: 0.78rem;
+      color: var(--text-dim);
+      border-top: 1px dashed var(--border);
+      padding-top: 6px;
+    }
+
+    .gr-line-translation.visible { display: block; }
+  </style>
+</head>
+<body>
+
+<nav class="app-nav">
+  <a href="index.html" class="nav-brand">
+    <span class="hanzi-logo">漢</span>
+    <span>Mandarin Interaktif</span>
+  </a>
+  <div class="nav-links">
+    <a href="kamus.html"       class="nav-link">Kamus</a>
+    <a href="flashcard.html"   class="nav-link">Flashcard</a>
+    <a href="wordbuilder.html" class="nav-link">Word Builder</a>
+    <a href="tone.html"        class="nav-link">Tone</a>
+    <a href="graded-reader.html" class="nav-link active">Bacaan</a>
+    <a href="hsk-exam.html" class="nav-link">Ujian HSK</a>
+	<a href="tatabahasa.html" class="nav-link">Tata Bahasa</a>
+	<a href="terjemah-bebas.html" class="nav-link">Terjemah Bebas</a>
+	<a href="peta-bahasa.html" class="nav-link">Peta Bahasa</a>
+  </div>
+</nav>
+
+<div class="gr-layout">
+
+  <div class="gr-header">
+    <h1>📖 Bacaan & Percakapan</h1>
+    <p>Cerita pendek dan dialog sesuai level HSK — klik kata apapun untuk lihat artinya.</p>
+  </div>
+
+  <div class="gr-toolbar">
+    <button class="gr-btn" onclick="openUploadModal()">➕ Upload Bacaan</button>
+  </div>
+
+  <div id="gr-main-area">
+    <div class="gr-empty">Memuat data bacaan…</div>
+  </div>
+
+</div>
+
+<!-- ══════════════════════════════════════════════════
+     MODAL — UPLOAD BACAAN TAMBAHAN
+══════════════════════════════════════════════════ -->
+<div class="gr-modal-backdrop" id="gr-upload-modal" onclick="if(event.target===this) closeUploadModal()">
+  <div class="gr-modal">
+    <div class="gr-modal-header">
+      <h3>➕ Upload Bacaan Tambahan</h3>
+      <button class="gr-modal-close" onclick="closeUploadModal()">✕</button>
+    </div>
+    <div class="gr-modal-body">
+      <p>Upload file <code>.json</code> berisi 1 bacaan/percakapan atau array berisi beberapa sekaligus. Field <code>glossary</code> WAJIB mencakup setiap kata yang dipakai supaya fitur klik-kata berfungsi. Field <code>tema</code> opsional (mis. "Di Pasar", "Perkenalan Diri") — kalau diisi, bisa difilter per tema di daftar levelnya.</p>
+      <p style="margin-top:-4px"><strong>Bacaan</strong> (paragraf biasa, field "text"):</p>
+      <div class="gr-schema-example">{
+  "id": "custom_01",
+  "level": 2,
+  "tema": "Di Pasar",
+  "title": "Judul Bacaan",
+  "text": "你好,我是老师。",
+  "translation": "Halo, saya guru.",
+  "glossary": [
+    {"cn":"你好","py":"nǐ hǎo","id":"halo"},
+    {"cn":"，","py":"","id":""},
+    {"cn":"我","py":"wǒ","id":"saya"},
+    {"cn":"是","py":"shì","id":"adalah"},
+    {"cn":"老师","py":"lǎoshī","id":"guru"}
+  ]
+}</div>
+      <p style="margin-top:4px"><strong>Percakapan</strong> (dialog bergantian, field "turns"):</p>
+      <div class="gr-schema-example">{
+  "id": "custom_02",
+  "type": "percakapan",
+  "level": 1,
+  "tema": "Perkenalan Diri",
+  "title": "Berkenalan",
+  "turns": [
+    {"speaker":"A","cn":"你好!","translation":"Halo!"},
+    {"speaker":"B","cn":"你好,很高兴认识你。","translation":"Halo, senang berkenalan denganmu."}
+  ],
+  "glossary": [
+    {"cn":"你好","py":"nǐ hǎo","id":"halo"},
+    {"cn":"很","py":"hěn","id":"sangat"},
+    {"cn":"高兴","py":"gāo xìng","id":"senang"},
+    {"cn":"认识","py":"rèn shi","id":"kenal"},
+    {"cn":"你","py":"nǐ","id":"kamu"}
+  ]
+}</div>
+      <p style="font-size:0.72rem;color:var(--text-muted)">Tanda baca (koma, titik, dll) tidak perlu masuk glossary — otomatis ditampilkan apa adanya. Untuk impor dalam jumlah besar, gunakan <code>complete_reading_json.py</code> (offline, otomatis lengkapi glossary) — modal ini untuk tambahan cepat ad-hoc saja.</p>
+      <input type="file" id="gr-upload-input" accept="application/json,.json" onchange="handleUploadFile(this)">
+    </div>
+  </div>
+</div>
+
+<div class="toast-wrap" id="toast-wrap"></div>
+
+<script>
+/* ═══════════════════════════════════════════════════════════════
+   graded-reader.html — Modul Bacaan Berjenjang (Tier 3)
+   Sumber data bawaan: data/graded_readers.json
+   Bacaan tambahan (upload user): localStorage 'mandarin_custom_readers'
+═══════════════════════════════════════════════════════════════ */
+
+const GR = {
+  builtin:  [],   // dari data/graded_readers.json
+  custom:   [],   // dari localStorage
+  view:     'levels',  // 'levels' | 'list' | 'reading'
+  activeLevel: null,
+  activePassage: null,
+  activeTema: null,   // filter tema di layar daftar bacaan ('null' = semua tema)
+  showPinyin: false,  // toggle tampilan pinyin di atas tiap kata (furigana-style)
+};
+
+const GR_SHOW_PINYIN_KEY = 'mandarin_gr_show_pinyin_v1';
+
+function loadPinyinPref() {
+  try {
+    GR.showPinyin = localStorage.getItem(GR_SHOW_PINYIN_KEY) === '1';
+  } catch (e) { GR.showPinyin = false; }
+}
+
+const CUSTOM_READERS_KEY = 'mandarin_custom_readers';
+
+/* ── MUAT DATA ──────────────────────────────────────────────── */
+async function loadGradedReaders() {
+  try {
+    const res = await fetch('data/graded_readers.json');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    GR.builtin = data.passages || [];
+  } catch (e) {
+    console.error('Gagal memuat data/graded_readers.json:', e);
+    GR.builtin = [];
+  }
+
+  loadCustomReaders();
+  loadPinyinPref();
+  restoreGrLastState();
+}
+
+function loadCustomReaders() {
+  try {
+    GR.custom = JSON.parse(localStorage.getItem(CUSTOM_READERS_KEY) || '[]');
+  } catch (e) {
+    GR.custom = [];
+  }
+}
+
+function saveCustomReaders() {
+  localStorage.setItem(CUSTOM_READERS_KEY, JSON.stringify(GR.custom));
+}
+
+function allPassages() {
+  return [...GR.builtin, ...GR.custom];
+}
+
+/* ── INGAT STATE TERAKHIR (Tier 1 lintas-halaman) ──────────────────
+   Simpan level/bacaan yang lagi dibuka supaya kalau رسلان pindah ke
+   halaman lain lewat navbar lalu balik lagi, posisi baca terakhir
+   otomatis kebuka lagi -- bukan mulai dari layar pilih level. */
+const GR_LAST_STATE_KEY = 'mandarin_gr_last_state_v1';
+
+function saveGrLastState() {
+  try {
+    localStorage.setItem(GR_LAST_STATE_KEY, JSON.stringify({
+      view:        GR.view,
+      activeLevel: GR.activeLevel,
+      activeTema:  GR.activeTema,
+      passageId:   GR.activePassage ? GR.activePassage.id : null,
+    }));
+  } catch (e) { /* abaikan senyap -- bukan fitur kritis */ }
+}
+
+function restoreGrLastState() {
+  let saved = null;
+  try {
+    saved = JSON.parse(localStorage.getItem(GR_LAST_STATE_KEY) || 'null');
+  } catch (e) { /* abaikan, jatuh ke default di bawah */ }
+
+  if (saved && saved.view === 'reading' && saved.passageId) {
+    const passage = allPassages().find(p => p.id === saved.passageId);
+    if (passage) { openPassage(saved.passageId); return; }
+  }
+  if (saved && saved.view === 'list' && saved.activeLevel) {
+    openLevel(saved.activeLevel, saved.activeTema || null);
+    return;
+  }
+  renderLevelSelector();
+}
+
+/* ── LEVEL SELECTOR ─────────────────────────────────────────── */
+function renderLevelSelector() {
+  GR.view = 'levels';
+  const area = $('gr-main-area');
+  const passages = allPassages();
+
+  if (!passages.length) {
+    area.innerHTML = `<div class="gr-empty">
+      ⚠ Belum ada data bacaan.<br>
+      Pastikan <code>data/graded_readers.json</code> ada di folder <code>data/</code>.
+    </div>`;
+    return;
+  }
+
+  const levels = [1, 2, 3, 4, 5, 6, 7];
+  let html = '<div class="gr-level-grid">';
+  levels.forEach(lv => {
+    const count = passages.filter(p => p.level === lv).length;
+    const label = lv === 7 ? 'HSK 7-9' : `HSK ${lv}`;
+    html += `<button class="gr-level-btn" onclick="openLevel(${lv})">
+      ${label}
+      <span class="gr-level-count">${count} bacaan</span>
+    </button>`;
+  });
+  html += '</div>';
+  area.innerHTML = html;
+  saveGrLastState();
+}
+
+/* ── DAFTAR BACAAN PER LEVEL ────────────────────────────────── */
+function openLevel(level, tema) {
+  GR.view = 'list';
+  GR.activeLevel = level;
+  GR.activeTema = tema || null;
+  const area = $('gr-main-area');
+  const allInLevel = allPassages().filter(p => p.level === level);
+  const label = level === 7 ? 'HSK 7-9' : `HSK ${level}`;
+
+  // Kumpulkan daftar tema yang ada di level ini (kalau ada field 'tema')
+  const temaSet = [...new Set(allInLevel.filter(p => p.tema).map(p => p.tema))];
+
+  const passages = GR.activeTema
+    ? allInLevel.filter(p => p.tema === GR.activeTema)
+    : allInLevel;
+
+  let html = `<button class="gr-back-btn" onclick="renderLevelSelector()">◀ Kembali ke daftar level</button>`;
+  html += `<div class="gr-header" style="margin-top:4px"><h1 style="font-size:1.05rem">${label}</h1></div>`;
+
+  if (temaSet.length) {
+    html += '<div class="gr-tema-filter">';
+    html += `<span class="gr-tema-chip${!GR.activeTema ? ' active' : ''}" onclick="openLevel(${level})">Semua Tema</span>`;
+    temaSet.forEach(t => {
+      html += `<span class="gr-tema-chip${GR.activeTema === t ? ' active' : ''}" onclick="openLevel(${level}, '${escHtml(t)}')">${escHtml(t)}</span>`;
+    });
+    html += '</div>';
+  }
+
+  if (!passages.length) {
+    html += '<div class="gr-empty">Belum ada bacaan di level/tema ini.</div>';
+  } else {
+    html += '<div class="gr-passage-list">';
+    passages.forEach(p => {
+      const isCustom = GR.custom.includes(p);
+      html += `<div class="gr-passage-card" onclick="openPassage('${escHtml(p.id)}')">
+        <span class="gr-passage-title">${p.type === 'percakapan' ? '💬 ' : ''}${escHtml(p.title)}</span>
+        <span>
+          ${p.tema ? `<span class="gr-tema-badge">${escHtml(p.tema)}</span>` : ''}
+          ${isCustom ? '<span class="gr-passage-badge">Custom</span>' : ''}
+        </span>
+      </div>`;
+    });
+    html += '</div>';
+  }
+
+  area.innerHTML = html;
+  saveGrLastState();
+}
+
+/* ── TOKENIZER (greedy longest-match berbasis glossary) ──────
+   Karena bahasa Mandarin tidak pakai spasi antar-kata, tokenisasi
+   dilakukan dengan mencocokkan substring terpanjang dari glossary
+   bacaan itu sendiri di tiap posisi. Karakter yang tidak cocok
+   (biasanya tanda baca) ditampilkan apa adanya, tidak bisa diklik. */
+function tokenizePassage(text, glossary) {
+  const sorted = [...glossary].sort((a, b) => b.cn.length - a.cn.length);
+  const tokens = [];
+  let i = 0;
+  while (i < text.length) {
+    let matched = null;
+    for (const g of sorted) {
+      if (g.cn && text.startsWith(g.cn, i)) { matched = g; break; }
+    }
+    if (matched) {
+      tokens.push({ type: 'word', cn: matched.cn, py: matched.py, id: matched.id });
+      i += matched.cn.length;
+    } else {
+      tokens.push({ type: 'punct', cn: text[i] });
+      i += 1;
+    }
+  }
+  return tokens;
+}
+
+/* ── LAYAR BACA ─────────────────────────────────────────────── */
+function renderWordSpan(t, idx) {
+  if (t.type === 'word') {
+    return `<span class="gr-word" data-idx="${idx}" data-cn="${escHtml(t.cn)}" data-py="${escHtml(t.py || '')}" data-id="${escHtml(t.id || '')}">${escHtml(t.cn)}<span class="gr-word-py">${escHtml(t.py || '')}</span></span>`;
+  }
+  return escHtml(t.cn);
+}
+
+function renderBubbles(passage) {
+  const speakerSides = {};
+  function sideFor(speaker) {
+    if (!(speaker in speakerSides)) {
+      speakerSides[speaker] = Object.keys(speakerSides).length % 2 === 0 ? 'side-a' : 'side-b';
+    }
+    return speakerSides[speaker];
+  }
+
+  return passage.turns.map((turn, tIdx) => {
+    const tokens = tokenizePassage(turn.cn, passage.glossary || []);
+    const cnHtml = tokens.map((t, wIdx) => renderWordSpan(t, `${tIdx}-${wIdx}`)).join('');
+    const side = sideFor(turn.speaker);
+    return `<div class="gr-bubble-row ${side}">
+      <div class="gr-bubble-speaker">${escHtml(turn.speaker)}</div>
+      <div class="gr-bubble">
+        <span class="gr-bubble-cn">${cnHtml}</span>
+        <button class="gr-bubble-speak" onclick="speakTurn(${tIdx})" title="Dengarkan baris ini">🔊</button>
+        <div class="gr-line-translation">${escHtml(turn.translation || '')}</div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function openPassage(id) {
+  const passage = allPassages().find(p => p.id === id);
+  if (!passage) return;
+
+  GR.view = 'reading';
+  GR.activePassage = passage;
+
+  const isPercakapan = passage.type === 'percakapan';
+  const area = $('gr-main-area');
+
+  const bodyHtml = isPercakapan
+    ? renderBubbles(passage)
+    : tokenizePassage(passage.text, passage.glossary || []).map((t, idx) => renderWordSpan(t, idx)).join('');
+
+  const bodyClass = 'gr-passage-text' + (isPercakapan ? ' gr-bubbles' : '') + (GR.showPinyin ? ' show-pinyin' : '');
+
+  area.innerHTML = `
+    <button class="gr-back-btn" onclick="openLevel(${passage.level})">◀ Kembali ke daftar bacaan</button>
+    <div class="gr-reading-toolbar">
+      <div class="gr-reading-title">${isPercakapan ? '💬 ' : ''}${escHtml(passage.title)}</div>
+      <div class="gr-reading-controls">
+        <button class="gr-btn" onclick="speakPassage()">🔊 Dengarkan</button>
+        <button class="audio-speed-btn" onclick="toggleAudioRate()"
+                style="font-size:1rem;background:var(--bg-card2);border:1px solid var(--border);border-radius:var(--radius);padding:4px 10px;cursor:pointer">🐢</button>
+        <button class="gr-btn${GR.showPinyin ? ' active' : ''}" id="gr-pinyin-btn" onclick="togglePinyin()">拼 Pinyin</button>
+        <button class="gr-btn" onclick="toggleTranslation()">🇮🇩 Terjemahan</button>
+      </div>
+    </div>
+    <div class="${bodyClass}" id="gr-passage-text">${bodyHtml}</div>
+    <div class="gr-lookup-panel" id="gr-lookup-panel">
+      <span class="gr-lookup-cn" id="gr-lookup-cn"></span>
+      <span class="gr-lookup-py" id="gr-lookup-py"></span>
+      <span class="gr-lookup-id" id="gr-lookup-id"></span>
+    </div>
+    ${isPercakapan ? '' : `<div class="gr-translation" id="gr-translation">${escHtml(passage.translation || '')}</div>`}
+  `;
+
+  document.querySelectorAll('.gr-word').forEach(span => {
+    span.addEventListener('click', () => showWordLookup(span));
+  });
+  saveGrLastState();
+}
+
+function showWordLookup(span) {
+  document.querySelectorAll('.gr-word.active').forEach(el => el.classList.remove('active'));
+  span.classList.add('active');
+
+  $('gr-lookup-cn').textContent = span.dataset.cn;
+  $('gr-lookup-py').textContent = span.dataset.py;
+  $('gr-lookup-id').textContent = span.dataset.id;
+  $('gr-lookup-panel').classList.add('visible');
+}
+
+function toggleTranslation() {
+  document.querySelectorAll('.gr-translation, .gr-line-translation').forEach(el => el.classList.toggle('visible'));
+}
+
+function togglePinyin() {
+  GR.showPinyin = !GR.showPinyin;
+  try { localStorage.setItem(GR_SHOW_PINYIN_KEY, GR.showPinyin ? '1' : '0'); }
+  catch (e) { /* abaikan senyap -- bukan fitur kritis */ }
+
+  const textEl = $('gr-passage-text');
+  if (textEl) textEl.classList.toggle('show-pinyin', GR.showPinyin);
+
+  const btnEl = $('gr-pinyin-btn');
+  if (btnEl) btnEl.classList.toggle('active', GR.showPinyin);
+}
+
+function speakPassage() {
+  if (!GR.activePassage) return;
+  const p = GR.activePassage;
+  const text = p.type === 'percakapan' ? p.turns.map(t => t.cn).join('') : p.text;
+  speak(text, { rate: AudioTTS.rate });
+}
+
+function speakTurn(idx) {
+  if (!GR.activePassage || GR.activePassage.type !== 'percakapan') return;
+  const turn = GR.activePassage.turns[idx];
+  if (!turn) return;
+  speak(turn.cn, { rate: AudioTTS.rate });
+}
+
+/* ── UPLOAD BACAAN TAMBAHAN ─────────────────────────────────── */
+function openUploadModal() {
+  $('gr-upload-modal').classList.add('open');
+}
+
+function closeUploadModal() {
+  $('gr-upload-modal').classList.remove('open');
+}
+
+function handleUploadFile(inputEl) {
+  const file = inputEl.files && inputEl.files[0];
+  if (!file) return;
+
+  const reader = new FileReader();
+  reader.onload = () => {
+    let parsed;
+    try {
+      parsed = JSON.parse(reader.result);
+    } catch (e) {
+      showToast('⚠ File bukan JSON yang valid.', 'error');
+      return;
+    }
+
+    const items = Array.isArray(parsed) ? parsed : [parsed];
+    let added = 0;
+    const errors = [];
+
+    items.forEach((item, i) => {
+      const problem = validatePassageSchema(item);
+      if (problem) {
+        errors.push(`Item ${i + 1}: ${problem}`);
+        return;
+      }
+      // Cegah id bentrok dengan yang sudah ada
+      if (allPassages().some(p => p.id === item.id)) {
+        item.id = item.id + '_' + Date.now();
+      }
+      GR.custom.push(item);
+      added++;
+    });
+
+    if (added > 0) {
+      saveCustomReaders();
+      showToast(`✓ ${added} bacaan berhasil ditambahkan.`, 'success');
+    }
+    if (errors.length) {
+      console.error('Bacaan yang gagal diimpor:', errors);
+      showToast(`⚠ ${errors.length} item gagal diimpor (lihat console).`, 'error');
+    }
+
+    inputEl.value = '';
+    closeUploadModal();
+    renderLevelSelector();
+  };
+  reader.onerror = () => showToast('⚠ Gagal membaca file.', 'error');
+  reader.readAsText(file);
+}
+
+function validatePassageSchema(item) {
+  if (!item || typeof item !== 'object') return 'bukan objek';
+  if (!item.id || typeof item.id !== 'string') return 'field "id" wajib ada (string)';
+  if (!item.level || typeof item.level !== 'number') return 'field "level" wajib ada (angka 1-7)';
+  if (!item.title || typeof item.title !== 'string') return 'field "title" wajib ada (string)';
+  if (!Array.isArray(item.glossary)) return 'field "glossary" wajib ada (array)';
+  for (const g of item.glossary) {
+    if (!g.cn) return 'tiap item glossary wajib punya field "cn"';
+  }
+  if (item.type === 'percakapan') {
+    if (!Array.isArray(item.turns) || !item.turns.length) return 'type "percakapan" wajib punya field "turns" (array, tidak boleh kosong)';
+    for (const t of item.turns) {
+      if (!t.speaker || typeof t.speaker !== 'string') return 'tiap turn wajib punya field "speaker" (string)';
+      if (!t.cn || typeof t.cn !== 'string') return 'tiap turn wajib punya field "cn" (string)';
+    }
+  } else {
+    if (!item.text || typeof item.text !== 'string') return 'field "text" wajib ada (string)';
+  }
+  return null; // valid
+}
+
+/* ── INIT ───────────────────────────────────────────────────── */
+document.addEventListener('DOMContentLoaded', loadGradedReaders);
+</script>
+
+</body>
+</html>
