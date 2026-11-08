@@ -1,0 +1,1508 @@
+{
+ "level": 9,
+ "categories": [
+  {
+   "name": "准词缀 (Quasi-Affixes)",
+   "points": [
+    {
+     "id": "hsk9-1.1",
+     "number": "1.1",
+     "title": "准前缀 (Quasi-Prefixes)",
+     "fungsi": "Awalan produktif yang membentuk kata baru dalam bahasa formal dan akademis [citation:1].",
+     "table": [],
+     "reference_table": {
+      "headers": [
+       "Form",
+       "Contoh",
+       "Arti / Catatan"
+      ],
+      "rows": [
+       {
+        "Form": "后—",
+        "Contoh": "后现代、后天、后备",
+        "Arti / Catatan": "post-, later, backup [citation:1]"
+       },
+       {
+        "Form": "亲—",
+        "Contoh": "亲历、亲笔、亲手",
+        "Arti / Catatan": "personally-, one's own- [citation:1]"
+       }
+      ]
+     }
+    },
+    {
+     "id": "hsk9-1.2",
+     "number": "1.2",
+     "title": "准后缀 (Quasi-Suffixes)",
+     "fungsi": "Akhiran produktif yang membentuk kata baru dalam bahasa formal dan akademis [citation:1].",
+     "table": [],
+     "reference_table": {
+      "headers": [
+       "Form",
+       "Contoh",
+       "Arti / Catatan"
+      ],
+      "rows": [
+       {
+        "Form": "—观",
+        "Contoh": "价值观、世界观、人生观",
+        "Arti / Catatan": "worldview; philosophy; outlook [citation:1]"
+       },
+       {
+        "Form": "—鬼",
+        "Contoh": "醉鬼、抠门鬼、捣蛋鬼",
+        "Arti / Catatan": "derogatory person marker [citation:1]"
+       },
+       {
+        "Form": "—界",
+        "Contoh": "政界、学界、艺界",
+        "Arti / Catatan": "sector; field; world of... [citation:1]"
+       },
+       {
+        "Form": "—然",
+        "Contoh": "坦然、欣然、悄然",
+        "Arti / Catatan": "adverbial suffix: calmly, joyfully, quietly [citation:1]"
+       },
+       {
+        "Form": "—坛",
+        "Contoh": "政坛、文坛、体坛",
+        "Arti / Catatan": "arena; circle; world of (formal) [citation:1]"
+       },
+       {
+        "Form": "—为",
+        "Contoh": "作为、行为、无为",
+        "Arti / Catatan": "conduct; behavior; action [citation:1]"
+       },
+       {
+        "Form": "—制",
+        "Contoh": "单一制、两党制、学分制",
+        "Arti / Catatan": "system; institution; regime [citation:1]"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "name": "Kata Keterangan (Adverbs) Baru",
+   "points": [
+    {
+     "id": "hsk9-2.1",
+     "number": "2.1",
+     "title": "Degree Adverbs (程度副词)",
+     "fungsi": "Menyatakan tingkat atau derajat [citation:1].",
+     "table": [],
+     "reference_table": {
+      "headers": [
+       "Form",
+       "Contoh",
+       "Arti / Catatan"
+      ],
+      "rows": [
+       {
+        "Form": "大为",
+        "Contoh": "大为震惊",
+        "Arti / Catatan": "greatly; tremendously (positive/negative) [citation:1]"
+       },
+       {
+        "Form": "分外",
+        "Contoh": "分外激动",
+        "Arti / Catatan": "extraordinarily; exceptionally [citation:1]"
+       },
+       {
+        "Form": "何等",
+        "Contoh": "何等艰辛！",
+        "Arti / Catatan": "how; what a... (exclamatory) [citation:1]"
+       },
+       {
+        "Form": "极度",
+        "Contoh": "极度紧张",
+        "Arti / Catatan": "extremely; to an extreme degree [citation:1]"
+       },
+       {
+        "Form": "极力",
+        "Contoh": "极力反对",
+        "Arti / Catatan": "do one's utmost; strenuously [citation:1]"
+       },
+       {
+        "Form": "略 / 略微",
+        "Contoh": "略有不同 / 略微疲倦",
+        "Arti / Catatan": "slightly; a little [citation:1]"
+       },
+       {
+        "Form": "颇",
+        "Contoh": "颇有感触",
+        "Arti / Catatan": "quite; rather; considerably [citation:1]"
+       },
+       {
+        "Form": "稍稍",
+        "Contoh": "稍稍放松",
+        "Arti / Catatan": "slightly; a bit; a little more [citation:1]"
+       },
+       {
+        "Form": "万分",
+        "Contoh": "万分感谢",
+        "Arti / Catatan": "ten-thousand-fold; extremely; profoundly [citation:1]"
+       },
+       {
+        "Form": "微",
+        "Contoh": "微有不适",
+        "Arti / Catatan": "slightly; faintly; imperceptibly [citation:1]"
+       },
+       {
+        "Form": "尤为",
+        "Contoh": "尤为突出",
+        "Arti / Catatan": "especially; particularly; most notably [citation:1]"
+       },
+       {
+        "Form": "愈加 / 越发",
+        "Contoh": "愈加严重 / 越发明显",
+        "Arti / Catatan": "even more; increasingly [citation:1]"
+       }
+      ]
+     }
+    },
+    {
+     "id": "hsk9-2.2",
+     "number": "2.2",
+     "title": "Scope Adverbs (范围副词)",
+     "fungsi": "Menyatakan cakupan atau lingkup [citation:1].",
+     "table": [],
+     "reference_table": {
+      "headers": [
+       "Form",
+       "Contoh",
+       "Arti / Catatan"
+      ],
+      "rows": [
+       {
+        "Form": "大体",
+        "Contoh": "大体上同意",
+        "Arti / Catatan": "generally; roughly; in the main [citation:1]"
+       },
+       {
+        "Form": "概",
+        "Contoh": "概不退款",
+        "Arti / Catatan": "all; without exception (formal/notices) [citation:1]"
+       },
+       {
+        "Form": "皆 / 均",
+        "Contoh": "皆大欢喜 / 均已到场",
+        "Arti / Catatan": "all; every; without exception [citation:1]"
+       },
+       {
+        "Form": "尽",
+        "Contoh": "尽人皆知",
+        "Arti / Catatan": "fully; entirely; all (literary) [citation:1]"
+       },
+       {
+        "Form": "通通 / 统统",
+        "Contoh": "通通带走",
+        "Arti / Catatan": "all; the whole lot; entirely [citation:1]"
+       },
+       {
+        "Form": "唯 / 唯独 / 唯有",
+        "Contoh": "唯你为准",
+        "Arti / Catatan": "only; solely; it is only...that [citation:1]"
+       },
+       {
+        "Form": "无非",
+        "Contoh": "无非想表达意见",
+        "Arti / Catatan": "nothing but; simply; merely [citation:1]"
+       },
+       {
+        "Form": "一概",
+        "Contoh": "一概否认",
+        "Arti / Catatan": "categorically; without exception [citation:1]"
+       }
+      ]
+     }
+    },
+    {
+     "id": "hsk9-2.3",
+     "number": "2.3",
+     "title": "Time Adverbs (时间副词)",
+     "fungsi": "Menyatakan waktu [citation:1].",
+     "table": [],
+     "reference_table": {
+      "headers": [
+       "Form",
+       "Contoh",
+       "Arti / Catatan"
+      ],
+      "rows": [
+       {
+        "Form": "姑且",
+        "Contoh": "姑且一试",
+        "Arti / Catatan": "for now; tentatively; for the time being [citation:1]"
+       },
+       {
+        "Form": "即 / 即时 / 随即",
+        "Contoh": "随即离开",
+        "Arti / Catatan": "immediately; right away; at once [citation:1]"
+       },
+       {
+        "Form": "届时",
+        "Contoh": "届时请莅临指导。",
+        "Arti / Catatan": "at that time; at the appointed time [citation:1]"
+       },
+       {
+        "Form": "尽早",
+        "Contoh": "请尽早完成。",
+        "Arti / Catatan": "as early as possible; at the earliest [citation:1]"
+       },
+       {
+        "Form": "就此",
+        "Contoh": "就此别过。",
+        "Arti / Catatan": "henceforth; from now; at this point [citation:1]"
+       },
+       {
+        "Form": "历来 / 向来",
+        "Contoh": "历来如此 / 向来守规",
+        "Arti / Catatan": "always; has always been [citation:1]"
+       },
+       {
+        "Form": "尚",
+        "Contoh": "事情尚未结束。",
+        "Arti / Catatan": "still; yet; further (formal) [citation:1]"
+       },
+       {
+        "Form": "一经",
+        "Contoh": "一经发现，严肃处理。",
+        "Arti / Catatan": "once; as soon as; upon [citation:1]"
+       },
+       {
+        "Form": "暂且",
+        "Contoh": "暂且搁置",
+        "Arti / Catatan": "for the moment; temporarily [citation:1]"
+       },
+       {
+        "Form": "早日",
+        "Contoh": "祝您早日康复。",
+        "Arti / Catatan": "at an early date; soon; at the soonest [citation:1]"
+       }
+      ]
+     }
+    },
+    {
+     "id": "hsk9-2.4",
+     "number": "2.4",
+     "title": "Frequency Adverbs (频率副词)",
+     "fungsi": "Menyatakan frekuensi [citation:1].",
+     "table": [],
+     "reference_table": {
+      "headers": [
+       "Form",
+       "Contoh",
+       "Arti / Catatan"
+      ],
+      "rows": [
+       {
+        "Form": "连连",
+        "Contoh": "连连摇头",
+        "Arti / Catatan": "repeatedly; again and again; continuously [citation:1]"
+       },
+       {
+        "Form": "屡次 / 屡屡",
+        "Contoh": "屡次犯错 / 屡屡出事",
+        "Arti / Catatan": "repeatedly; time and again [citation:1]"
+       },
+       {
+        "Form": "频",
+        "Contoh": "频繁出现",
+        "Arti / Catatan": "frequently; often (formal) [citation:1]"
+       },
+       {
+        "Form": "时而",
+        "Contoh": "时而哭，时而笑",
+        "Arti / Catatan": "sometimes...sometimes; from time to time [citation:1]"
+       },
+       {
+        "Form": "时时",
+        "Contoh": "时时提醒自己",
+        "Arti / Catatan": "constantly; always; at all times [citation:1]"
+       },
+       {
+        "Form": "相继",
+        "Contoh": "相继出现问题",
+        "Arti / Catatan": "one after another; in succession [citation:1]"
+       },
+       {
+        "Form": "一个劲（儿）",
+        "Contoh": "一个劲儿往前走",
+        "Arti / Catatan": "persistently; doggedly; keep on doing [citation:1]"
+       },
+       {
+        "Form": "一连",
+        "Contoh": "一连三天下雨",
+        "Arti / Catatan": "in a row; for a stretch of; consecutively [citation:1]"
+       },
+       {
+        "Form": "再度",
+        "Contoh": "再度当选",
+        "Arti / Catatan": "once more; again; for the second time [citation:1]"
+       }
+      ]
+     }
+    },
+    {
+     "id": "hsk9-2.5",
+     "number": "2.5",
+     "title": "Manner Adverbs (方式副词)",
+     "fungsi": "Menyatakan cara atau metode [citation:1].",
+     "table": [],
+     "reference_table": {
+      "headers": [
+       "Form",
+       "Contoh",
+       "Arti / Catatan"
+      ],
+      "rows": [
+       {
+        "Form": "断然",
+        "Contoh": "断然拒绝",
+        "Arti / Catatan": "flatly; resolutely; absolutely [citation:1]"
+       },
+       {
+        "Form": "公然",
+        "Contoh": "公然违法",
+        "Arti / Catatan": "openly; brazenly; in public [citation:1]"
+       },
+       {
+        "Form": "竭力 / 极力",
+        "Contoh": "竭力推荐",
+        "Arti / Catatan": "with all one's strength; do one's utmost [citation:1]"
+       },
+       {
+        "Form": "毅然",
+        "Contoh": "毅然辞职",
+        "Arti / Catatan": "resolutely; decisively; firmly [citation:1]"
+       },
+       {
+        "Form": "私自 / 擅自",
+        "Contoh": "擅自修改文件",
+        "Arti / Catatan": "without authorization; on one's own [citation:1]"
+       },
+       {
+        "Form": "骤然",
+        "Contoh": "骤然降温",
+        "Arti / Catatan": "suddenly; abruptly; all at once [citation:1]"
+       },
+       {
+        "Form": "逐一",
+        "Contoh": "逐一检查",
+        "Arti / Catatan": "one by one; individually; in sequence [citation:1]"
+       },
+       {
+        "Form": "照常 / 照样 / 照例",
+        "Contoh": "照常营业",
+        "Arti / Catatan": "as usual; as normal; as before [citation:1]"
+       }
+      ]
+     }
+    },
+    {
+     "id": "hsk9-2.6",
+     "number": "2.6",
+     "title": "Negation & Mood Adverbs (否定/情态副词)",
+     "fungsi": "Menyatakan negasi atau suasana hati [citation:1].",
+     "table": [],
+     "reference_table": {
+      "headers": [
+       "Form",
+       "Contoh",
+       "Arti / Catatan"
+      ],
+      "rows": [
+       {
+        "Form": "不见得",
+        "Contoh": "不见得更好。",
+        "Arti / Catatan": "not necessarily; not be sure [citation:1]"
+       },
+       {
+        "Form": "绝不",
+        "Contoh": "绝不妥协",
+        "Arti / Catatan": "absolutely not; by no means [citation:1]"
+       },
+       {
+        "Form": "无从",
+        "Contoh": "无从得知",
+        "Arti / Catatan": "have no way to; cannot possibly [citation:1]"
+       },
+       {
+        "Form": "无须 / 无可",
+        "Contoh": "无须多言 / 无可辩解",
+        "Arti / Catatan": "no need to / no way to (fixed) [citation:1]"
+       },
+       {
+        "Form": "勿",
+        "Contoh": "请勿打扰。",
+        "Arti / Catatan": "do not; must not (formal/signs) [citation:1]"
+       },
+       {
+        "Form": "务必",
+        "Contoh": "务必准时到达。",
+        "Arti / Catatan": "must; be sure to; without fail [citation:1]"
+       },
+       {
+        "Form": "偏偏",
+        "Contoh": "偏偏没带钥匙",
+        "Arti / Catatan": "of all things; just happens to; stubbornly [citation:1]"
+       },
+       {
+        "Form": "索性",
+        "Contoh": "索性直接说清楚",
+        "Arti / Catatan": "simply; just go ahead; might as well [citation:1]"
+       },
+       {
+        "Form": "终究",
+        "Contoh": "终究是个问题",
+        "Arti / Catatan": "in the end; after all; ultimately [citation:1]"
+       },
+       {
+        "Form": "乃 (judgment)",
+        "Contoh": "此乃正确之道。",
+        "Arti / Catatan": "is; this is (formal/classical copula) [citation:1]"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "name": "Kata Depan (Prepositions) Baru",
+   "points": [
+    {
+     "id": "hsk9-3.0",
+     "number": "3.0",
+     "title": "Kata Depan (Prepositions) Baru",
+     "fungsi": "Kata depan formal dan klasik untuk waktu, tempat, penerima, dasar, atau cara. Umum dalam tulisan resmi dan akademis [citation:1].",
+     "table": [],
+     "reference_table": {
+      "headers": [
+       "Form",
+       "Contoh",
+       "Arti / Catatan"
+      ],
+      "rows": [
+       {
+        "Form": "打 (time/place)",
+        "Contoh": "打今天起 / 打这儿向右走",
+        "Arti / Catatan": "from; starting from (colloquial) [citation:1]"
+       },
+       {
+        "Form": "当着",
+        "Contoh": "当着大家的面道歉",
+        "Arti / Catatan": "in front of; before (someone) [citation:1]"
+       },
+       {
+        "Form": "就⑥",
+        "Contoh": "就此问题进行讨论",
+        "Arti / Catatan": "regarding; in regard to; as to (formal) [citation:1]"
+       },
+       {
+        "Form": "本着",
+        "Contoh": "本着负责的态度处理问题",
+        "Arti / Catatan": "in accordance with; guided by; based on (principles) [citation:1]"
+       },
+       {
+        "Form": "基于",
+        "Contoh": "基于以上分析，……",
+        "Arti / Catatan": "based on; in view of; given (academic) [citation:1]"
+       },
+       {
+        "Form": "鉴于①",
+        "Contoh": "鉴于情况紧急……",
+        "Arti / Catatan": "given that; in light of; considering (formal) [citation:1]"
+       },
+       {
+        "Form": "经",
+        "Contoh": "经专家鉴定",
+        "Arti / Catatan": "through; by; via; after (process) [citation:1]"
+       },
+       {
+        "Form": "依",
+        "Contoh": "依规定办事",
+        "Arti / Catatan": "according to; in accordance with (formal) [citation:1]"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "name": "Konjungsi (Conjunctions) Baru",
+   "points": [
+    {
+     "id": "hsk9-4.1",
+     "number": "4.1",
+     "title": "Clausal Conjunctions (连句连词)",
+     "fungsi": "Menghubungkan klausa dalam kalimat kompleks [citation:1].",
+     "table": [],
+     "reference_table": {
+      "headers": [
+       "Form",
+       "Contoh",
+       "Arti / Catatan"
+      ],
+      "rows": [
+       {
+        "Form": "以免",
+        "Contoh": "以防万一",
+        "Arti / Catatan": "in order to avoid; so as to prevent [citation:1]"
+       },
+       {
+        "Form": "乃至 / 以至于",
+        "Contoh": "以至于无法控制",
+        "Arti / Catatan": "to such a degree that; so...that (consequence) [citation:1]"
+       },
+       {
+        "Form": "除非",
+        "Contoh": "除非天塌下来，否则我不改变主意",
+        "Arti / Catatan": "unless; only if; except (condition) [citation:1]"
+       },
+       {
+        "Form": "不管",
+        "Contoh": "不管多难，我都要做",
+        "Arti / Catatan": "no matter; regardless of (condition) [citation:1]"
+       },
+       {
+        "Form": "一……就……",
+        "Contoh": "一见到他，她脸就红了。",
+        "Arti / Catatan": "as soon as; upon (consequence) [citation:1]"
+       }
+      ]
+     }
+    },
+    {
+     "id": "hsk9-4.2",
+     "number": "4.2",
+     "title": "Conjunctions for Connecting (连接连词)",
+     "fungsi": "Menghubungkan kata atau frasa [citation:1].",
+     "table": [],
+     "reference_table": {
+      "headers": [
+       "Form",
+       "Contoh",
+       "Arti / Catatan"
+      ],
+      "rows": [
+       {
+        "Form": "及",
+        "Contoh": "及至现在",
+        "Arti / Catatan": "and; as well as (formal connector) [citation:1]"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "name": "Partikel (Particles) Baru",
+   "points": [
+    {
+     "id": "hsk9-5.0",
+     "number": "5.0",
+     "title": "Partikel (Particles) Baru",
+     "fungsi": "Partikel formal dan klasik [citation:1].",
+     "table": [],
+     "reference_table": {
+      "headers": [
+       "Form",
+       "Contoh",
+       "Arti / Catatan"
+      ],
+      "rows": [
+       {
+        "Form": "之",
+        "Contoh": "梦之书、成功之路",
+        "Arti / Catatan": "structural particle, formal equivalent of 的 [citation:1]"
+       },
+       {
+        "Form": "而已",
+        "Contoh": "这不过是个小问题罢了。",
+        "Arti / Catatan": "just; only; that's all (formal) [citation:1]"
+       },
+       {
+        "Form": "罢了",
+        "Contoh": "我不过是开个玩笑罢了。",
+        "Arti / Catatan": "just; only; that's all (formal, dismissive) [citation:1]"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "name": "Frasa Tetap dan Ekspresi Idiomatik",
+   "points": [
+    {
+     "id": "hsk9-6.1",
+     "number": "6.1",
+     "title": "New Formal Verbs (verb-like)",
+     "fungsi": "Kata kerja formal yang sering muncul dalam tulisan resmi [citation:1].",
+     "table": [],
+     "reference_table": {
+      "headers": [
+       "Form",
+       "Contoh",
+       "Arti / Catatan"
+      ],
+      "rows": [
+       {
+        "Form": "巴不得",
+        "Contoh": "他巴不得马上离开。",
+        "Arti / Catatan": "to wish eagerly; to long for [citation:1]"
+       },
+       {
+        "Form": "并非",
+        "Contoh": "这并非易事。",
+        "Arti / Catatan": "is not; by no means (formal negation) [citation:1]"
+       },
+       {
+        "Form": "犯不着",
+        "Contoh": "为这事犯不着生气。",
+        "Arti / Catatan": "not worth it to; not necessary to [citation:1]"
+       },
+       {
+        "Form": "犯得着",
+        "Contoh": "这事犯得着大动干戈吗？",
+        "Arti / Catatan": "is it worth it? (interrogative) [citation:1]"
+       },
+       {
+        "Form": "恨不得",
+        "Contoh": "恨不得立刻飞回家。",
+        "Arti / Catatan": "to wish one could; to be dying to [citation:1]"
+       },
+       {
+        "Form": "可否",
+        "Contoh": "可否请您稍等？",
+        "Arti / Catatan": "may one...?; is it possible to...? (formal) [citation:1]"
+       },
+       {
+        "Form": "可谓",
+        "Contoh": "此举可谓一石二鸟。",
+        "Arti / Catatan": "can be said to be; it can be called [citation:1]"
+       },
+       {
+        "Form": "免不了",
+        "Contoh": "出门旅行免不了一些麻烦。",
+        "Arti / Catatan": "cannot avoid; inevitably [citation:1]"
+       },
+       {
+        "Form": "所谓",
+        "Contoh": "所谓天才，不过是勤奋加坚持。",
+        "Arti / Catatan": "so-called; what is called [citation:1]"
+       },
+       {
+        "Form": "有所",
+        "Contoh": "经过努力，成绩有所提高。",
+        "Arti / Catatan": "somewhat; to some extent (formal) [citation:1]"
+       },
+       {
+        "Form": "予以",
+        "Contoh": "对此行为予以批评。",
+        "Arti / Catatan": "to give; to grant (formal/official) [citation:1]"
+       },
+       {
+        "Form": "除外",
+        "Contoh": "特殊情况除外。",
+        "Arti / Catatan": "except; with the exception of [citation:1]"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "name": "Pola Kalimat Khusus",
+   "points": [
+    {
+     "id": "hsk9-7.1",
+     "number": "7.1",
+     "title": "Pola 非……不可 (fēi...bùkě) - Harus",
+     "fungsi": "Menyatakan keharusan yang kuat [citation:1].",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "非 + Verb + 不可",
+       "contoh": "我非学好汉语不可。",
+       "pinyin": "Wǒ fēi xué hǎo Hànyǔ bùkě.",
+       "terjemahan": "Saya harus belajar Mandarin dengan baik."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "非得 + V + 不可",
+       "contoh": "我非得把这件事做好不可。",
+       "pinyin": "Wǒ fēiděi bǎ zhè jiàn shì zuò hǎo bùkě.",
+       "terjemahan": "Saya harus menyelesaikan hal ini dengan baik."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-7.2",
+     "number": "7.2",
+     "title": "Pola 连……带…… (lián...dài...) - ...dan...",
+     "fungsi": "Menyatakan dua hal yang dilakukan bersama [citation:1].",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "连 + N1 + 带 + N2",
+       "contoh": "他连说带唱地表演了一个节目。",
+       "pinyin": "Tā lián shuō dài chàng de biǎoyǎn le yī gè jiémù.",
+       "terjemahan": "Dia tampil dengan bernyanyi dan berbicara."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kalimat Majemuk Lanjutan (Advanced Complex Sentences)",
+   "points": [
+    {
+     "id": "hsk9-8.1",
+     "number": "8.1",
+     "title": "X（倒）是X（了），…… - X Sih X, Tapi...",
+     "fungsi": "Pola pengulangan kata untuk mengakui suatu hal itu benar/terjadi, tapi diikuti keberatan/kontras. Sangat lisan/informal.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "X（倒）是X（了），就是/不过 + Klausa",
+       "contoh": "便宜倒是便宜，就是质量不太好。",
+       "pinyin": "Piányi dào shì piányi, jiùshì zhìliàng bú tài hǎo.",
+       "terjemahan": "Murah sih murah, cuma kualitasnya kurang bagus."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-8.2",
+     "number": "8.2",
+     "title": "纵然/纵使……，也…… (zòngrán/zòngshǐ...yě...) - Sekalipun..., Tetap...",
+     "fungsi": "Bentuk sangat formal/sastra dari 即使...也..., menyatakan pengandaian ekstrem yang tetap tidak mengubah hasil.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "纵然/纵使 + Klausa1，也 + Klausa2",
+       "contoh": "纵然困难重重，他也不会放弃。",
+       "pinyin": "Zòngrán kùnnan chóngchóng, tā yě búhuì fàngqì.",
+       "terjemahan": "Sekalipun kesulitan bertumpuk-tumpuk, dia tetap tidak akan menyerah."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-8.3",
+     "number": "8.3",
+     "title": "非得……才…… (fēiděi...cái...) - Harus Benar-benar..., Baru...",
+     "fungsi": "Menekankan bahwa suatu syarat mutlak harus dipenuhi lebih dulu, agak berkonotasi keras kepala/tidak ada jalan lain.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "非得 + Syarat，才 + Klausa",
+       "contoh": "他非得亲眼看到，才肯相信。",
+       "pinyin": "Tā fēiděi qīnyǎn kàndào, cái kěn xiāngxìn.",
+       "terjemahan": "Dia harus benar-benar melihat dengan mata sendiri, baru mau percaya."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-8.4",
+     "number": "8.4",
+     "title": "任……也…… (rèn...yě...) - Biarpun/Sekalipun..., Tetap...",
+     "fungsi": "Bentuk sastra, mirip 无论...都..., menyatakan bahwa apa pun kondisinya hasilnya tetap sama.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "任 + Kondisi apapun，也 + Klausa",
+       "contoh": "任你怎么解释，他也不听。",
+       "pinyin": "Rèn nǐ zěnme jiěshì, tā yě bù tīng.",
+       "terjemahan": "Biarpun kamu menjelaskan bagaimana pun, dia tetap tidak mendengarkan."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-8.5",
+     "number": "8.5",
+     "title": "……，更不用说……了 (...gèng búyòng shuō...le) - ...Apalagi... (versi ringkas)",
+     "fungsi": "Versi lebih ringkas dari 连...都...更不用说...了 (tanpa 连...都... di depan), langsung menyatakan bahwa suatu hal jelas tidak perlu dipertanyakan lagi dibanding hal yang disebut sebelumnya.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "Klausa1，更不用说 + KB/Klausa2 + 了",
+       "contoh": "我们连饭都吃不上，更不用说买车了。",
+       "pinyin": "Wǒmen lián fàn dōu chī bu shàng, gèng búyòng shuō mǎi chē le.",
+       "terjemahan": "Kami makan saja susah, apalagi beli mobil."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-8.6",
+     "number": "8.6",
+     "title": "多重并列复句 - Kalimat Majemuk Setara Berlapis",
+     "fungsi": "Kalimat majemuk setara yang di dalamnya ada lebih dari satu lapis hubungan setara, menggabungkan beberapa pola kalimat majemuk sederhana sekaligus dalam satu kalimat panjang.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "…一边…一边…，而且还…",
+       "contoh": "他一边工作，一边学习，而且还坚持锻炼身体。",
+       "pinyin": "Tā yìbiān gōngzuò, yìbiān xuéxí, érqiě hái jiānchí duànliàn shēntǐ.",
+       "terjemahan": "Dia sambil bekerja, sambil belajar, dan juga tetap rutin berolahraga."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-8.7",
+     "number": "8.7",
+     "title": "多重转折复句 - Kalimat Majemuk Pertentangan Berlapis",
+     "fungsi": "Kalimat majemuk yang menggabungkan lebih dari satu hubungan pertentangan/kontras secara berlapis dalam satu kalimat.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "虽然…，但是…，不过…",
+       "contoh": "虽然他很努力，但是成绩不理想，不过他并没有灰心。",
+       "pinyin": "Suīrán tā hěn nǔlì, dànshì chéngjì bù lǐxiǎng, búguò tā bìng méiyǒu huīxīn.",
+       "terjemahan": "Meski dia sangat rajin, tapi nilainya tidak memuaskan, namun dia sama sekali tidak putus asa."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-8.8",
+     "number": "8.8",
+     "title": "多重假设复句 - Kalimat Majemuk Pengandaian Berlapis",
+     "fungsi": "Kalimat majemuk pengandaian berlapis, menggabungkan lebih dari satu kondisi andaian dalam satu kalimat.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "如果…，而且…，…就…",
+       "contoh": "如果明天不下雨，而且大家都有空，我们就去爬山。",
+       "pinyin": "Rúguǒ míngtiān bú xiàyǔ, érqiě dàjiā dōu yǒu kòng, wǒmen jiù qù páshān.",
+       "terjemahan": "Kalau besok tidak hujan, dan semua orang senggang, kita akan pergi mendaki gunung."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-8.9",
+     "number": "8.9",
+     "title": "多重因果复句 - Kalimat Majemuk Sebab-Akibat Berlapis",
+     "fungsi": "Kalimat majemuk sebab-akibat berlapis, menggabungkan lebih dari satu hubungan sebab-akibat dalam satu kalimat.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "因为…，所以…，因此…",
+       "contoh": "因为下大雨，所以路很滑，因此很多人迟到了。",
+       "pinyin": "Yīnwèi xià dàyǔ, suǒyǐ lù hěn huá, yīncǐ hěn duō rén chídào le.",
+       "terjemahan": "Karena hujan deras, jadi jalan sangat licin, oleh karena itu banyak orang terlambat."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-8.10",
+     "number": "8.10",
+     "title": "多重递进复句 - Kalimat Majemuk Peningkatan Berlapis",
+     "fungsi": "Kalimat majemuk peningkatan/progresif berlapis, menggabungkan lebih dari satu hubungan peningkatan derajat dalam satu kalimat.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "不但…，而且…，甚至…",
+       "contoh": "这个方法不但简单，而且有效，甚至比以前的方法更省时间。",
+       "pinyin": "Zhège fāngfǎ búdàn jiǎndān, érqiě yǒuxiào, shènzhì bǐ yǐqián de fāngfǎ gèng shěng shíjiān.",
+       "terjemahan": "Cara ini bukan hanya sederhana, tapi juga efektif, bahkan lebih menghemat waktu dibanding cara sebelumnya."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Pola AB Berulang & Penanda Wacana (Fixed AB Patterns & Discourse Markers)",
+   "points": [
+    {
+     "id": "hsk9-9.1",
+     "number": "9.1",
+     "title": "时A时B - Kadang A Kadang B (bergantian)",
+     "fungsi": "Menyatakan dua keadaan yang muncul bergantian dalam suatu periode waktu.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "时 + A + 时 + B",
+       "contoh": "他的态度时高时低，让人捉摸不透。",
+       "pinyin": "Tā de tàidù shígāo-shídī, ràng rén zhuōmō bú tòu.",
+       "terjemahan": "Sikapnya kadang tinggi kadang rendah, membuat orang sulit menebak."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-9.2",
+     "number": "9.2",
+     "title": "无A不B - Tidak Ada A yang Tidak B (pasti/selalu)",
+     "fungsi": "Bentuk penegasan lewat penyangkalan ganda: menyatakan sesuatu berlaku universal/selalu terjadi.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "无 + A + 不 + B",
+       "contoh": "这个骗子真是无孔不入。",
+       "pinyin": "Zhège piànzi zhēnshi wúkǒng-búrù.",
+       "terjemahan": "Penipu ini benar-benar bisa menyusup ke mana saja (tak ada celah yang terlewat)."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-9.3",
+     "number": "9.3",
+     "title": "无A可B - Tidak Ada A yang Bisa Di-B (tak berkutik)",
+     "fungsi": "Menyatakan tidak ada pilihan/kemungkinan lain yang tersedia -- situasi buntu.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "无 + A + 可 + B",
+       "contoh": "面对证据，他无话可说。",
+       "pinyin": "Miànduì zhèngjù, tā wúhuà-kěshuō.",
+       "terjemahan": "Menghadapi bukti itu, dia tidak bisa berkata apa-apa lagi."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-9.4",
+     "number": "9.4",
+     "title": "自A自B - Sendiri A Sendiri B",
+     "fungsi": "Menyatakan tindakan dilakukan sendiri tanpa melibatkan/butuh orang lain.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "自 + A + 自 + B",
+       "contoh": "他一个人在房间里自言自语。",
+       "pinyin": "Tā yíge rén zài fángjiān lǐ zìyán-zìyǔ.",
+       "terjemahan": "Dia sendirian di kamar bicara sendiri."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-9.5",
+     "number": "9.5",
+     "title": "退一步说 - Selangkah Mundur, Andaikan...",
+     "fungsi": "Penanda wacana untuk mengajukan skenario yang lebih longgar/mengalah demi melanjutkan argumen.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "退一步说，就算/即使 + Klausa",
+       "contoh": "退一步说，就算他真的错了，我们也该原谅他。",
+       "pinyin": "Tuì yíbù shuō, jiùsuàn tā zhēnde cuò le, wǒmen yě gāi yuánliàng tā.",
+       "terjemahan": "Selangkah mundur, seandainya dia memang salah, kita tetap harus memaafkannya."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-9.6",
+     "number": "9.6",
+     "title": "无论如何 - Bagaimanapun Juga",
+     "fungsi": "Penanda wacana untuk menegaskan tekad/keputusan yang tidak berubah apa pun kondisinya.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "无论如何，+ Klausa",
+       "contoh": "无论如何，我明天都要去。",
+       "pinyin": "Wúlùn rúhé, wǒ míngtiān dōu yào qù.",
+       "terjemahan": "Bagaimanapun juga, besok saya tetap harus pergi."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-9.7",
+     "number": "9.7",
+     "title": "要（让）我说 - Kalau Menurut Saya",
+     "fungsi": "Penanda wacana untuk mengawali pendapat pribadi secara langsung dan tegas.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "要（让）我说，+ Pendapat",
+       "contoh": "要我说，这件事根本不值得担心。",
+       "pinyin": "Yào wǒ shuō, zhè jiàn shì gēnběn bù zhíde dānxīn.",
+       "terjemahan": "Kalau menurut saya, hal ini sama sekali tidak perlu dikhawatirkan."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-9.8",
+     "number": "9.8",
+     "title": "这不 - Nih Kan/Lihat Tuh (bukti baru terjadi)",
+     "fungsi": "Penanda wacana untuk menunjuk bukti nyata yang baru saja terjadi sebagai konfirmasi ucapan sebelumnya.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "这不，+ Bukti",
+       "contoh": "我说他会迟到吧，这不，又迟到了。",
+       "pinyin": "Wǒ shuō tā huì chídào ba, zhè bù, yòu chídào le.",
+       "terjemahan": "Sudah saya bilang dia akan terlambat kan, nih, terlambat lagi."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-9.9",
+     "number": "9.9",
+     "title": "这样一来 - Dengan Begini/Kalau Begitu",
+     "fungsi": "Penanda wacana untuk menyatakan konsekuensi/akibat dari suatu tindakan/kondisi yang baru disebutkan.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "这样一来，+ Akibat",
+       "contoh": "这样一来，问题就解决了。",
+       "pinyin": "Zhèyàng yìlái, wèntí jiù jiějué le.",
+       "terjemahan": "Dengan begini, masalahnya jadi terselesaikan."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-9.10",
+     "number": "9.10",
+     "title": "真是的 - Aduh/Ya Ampun",
+     "fungsi": "Penanda wacana untuk mengungkapkan kekesalan ringan, biasanya kepada orang yang cukup akrab.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "真是的！",
+       "contoh": "又忘带钥匙了，真是的！",
+       "pinyin": "Yòu wàng dài yàoshi le, zhēnshide!",
+       "terjemahan": "Lupa bawa kunci lagi, aduh!"
+      }
+     ]
+    },
+    {
+     "id": "hsk9-9.11",
+     "number": "9.11",
+     "title": "综上所述 - Berdasarkan Uraian di Atas",
+     "fungsi": "Penanda wacana formal untuk menutup esai/laporan dengan merujuk kembali ke semua poin yang sudah dibahas.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "综上所述，+ Kesimpulan",
+       "contoh": "综上所述，这个计划是可行的。",
+       "pinyin": "Zōngshàngsuǒshù, zhège jìhuà shì kěxíng de.",
+       "terjemahan": "Berdasarkan uraian di atas, rencana ini bisa dijalankan."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-9.12",
+     "number": "9.12",
+     "title": "总的来说 - Secara Keseluruhan",
+     "fungsi": "Penanda wacana untuk memberi kesimpulan umum yang merangkum keseluruhan pembahasan.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "总的来说，+ Kesimpulan umum",
+       "contoh": "总的来说，今年的收成还不错。",
+       "pinyin": "Zǒngdeláishuō, jīnnián de shōuchéng hái búcuò.",
+       "terjemahan": "Secara keseluruhan, panen tahun ini lumayan bagus."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-9.13",
+     "number": "9.13",
+     "title": "总而言之 - Pada Intinya/Singkat Kata",
+     "fungsi": "Penanda wacana untuk menyimpulkan secara ringkas, mirip 总的来说 tapi sedikit lebih formal.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "总而言之，+ Kesimpulan",
+       "contoh": "总而言之，这次旅行让我学到了很多。",
+       "pinyin": "Zǒng'éryánzhī, zhècì lǚxíng ràng wǒ xuédàole hěn duō.",
+       "terjemahan": "Pada intinya, perjalanan kali ini membuat saya belajar banyak hal."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Konstruksi Idiomatik Kompleks (Fixed Complex Constructs)",
+   "points": [
+    {
+     "id": "hsk9-10.1",
+     "number": "10.1",
+     "title": "无非/不过/只是……罢了/而已 - Tidak Lain Hanyalah...Saja",
+     "fungsi": "Menyederhanakan/meremehkan suatu hal, menyatakan itu cuma sesuatu yang sepele/wajar.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "无非/不过/只是 + Klausa + 罢了/而已",
+       "contoh": "他无非是想引起你的注意罢了。",
+       "pinyin": "Tā wúfēi shì xiǎng yǐnqǐ nǐ de zhùyì bàle.",
+       "terjemahan": "Dia tidak lain hanya ingin menarik perhatianmu saja."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-10.2",
+     "number": "10.2",
+     "title": "想X之所想，急X之所急 - Memikirkan Apa yang Dipikirkan X",
+     "fungsi": "Ungkapan formal untuk menyatakan empati/keberpihakan penuh pada kepentingan seseorang/kelompok, sering dipakai dalam konteks pelayanan publik.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "想 + X + 之所想，急 + X + 之所急",
+       "contoh": "政府应该想百姓之所想，急百姓之所急。",
+       "pinyin": "Zhèngfǔ yīnggāi xiǎng bǎixìng zhī suǒxiǎng, jí bǎixìng zhī suǒjí.",
+       "terjemahan": "Pemerintah harus memikirkan apa yang dipikirkan rakyat, mencemaskan apa yang dicemaskan rakyat."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-10.3",
+     "number": "10.3",
+     "title": "向……致以…… - Menyampaikan ... Kepada...",
+     "fungsi": "Bentuk sangat formal untuk menyampaikan ucapan selamat/hormat/terima kasih, umum di pidato/surat resmi.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "向 + Penerima + 致以 + Ucapan",
+       "contoh": "向大家致以新年的问候。",
+       "pinyin": "Xiàng dàjiā zhìyǐ xīnnián de wènhòu.",
+       "terjemahan": "Menyampaikan salam Tahun Baru kepada semua orang."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-10.4",
+     "number": "10.4",
+     "title": "要X有/没X，要Y有/没Y - Serba Lengkap / Serba Kekurangan",
+     "fungsi": "Menyatakan bahwa apa pun yang diminta/dibutuhkan tersedia (atau sebaliknya, tidak tersedia sama sekali).",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "要 + X + 有/没 + X，要 + Y + 有/没 + Y",
+       "contoh": "他要钱有钱，要地位有地位。",
+       "pinyin": "Tā yào qián yǒu qián, yào dìwèi yǒu dìwèi.",
+       "terjemahan": "Dia mau uang ada uang, mau kedudukan ada kedudukan (serba lengkap)."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-10.5",
+     "number": "10.5",
+     "title": "因……而…… - Karena... Maka/Menjadi...",
+     "fungsi": "Bentuk formal ringkas untuk menghubungkan sebab dan akibat, umum di teks tertulis.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "因 + Sebab + 而 + Akibat",
+       "contoh": "这座城市因旅游业而繁荣。",
+       "pinyin": "Zhè zuò chéngshì yīn lǚyóuyè ér fánróng.",
+       "terjemahan": "Kota ini menjadi makmur karena industri pariwisata."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-10.6",
+     "number": "10.6",
+     "title": "有何X - Ada X Apa (retoris)",
+     "fungsi": "Pertanyaan retoris formal yang sebenarnya menyangkal, menyatakan sesuatu sebenarnya tidak ada/tidak masalah.",
+     "table": [
+      {
+       "jenis": "Interogatif",
+       "pola": "Subjek + 有何 + KB",
+       "contoh": "这有何难？",
+       "pinyin": "Zhè yǒu hé nán?",
+       "terjemahan": "Ini ada sulitnya apa? (artinya: tidak sulit)"
+      }
+     ]
+    },
+    {
+     "id": "hsk9-10.7",
+     "number": "10.7",
+     "title": "有什么+动词+头儿 - Ada Gunanya Apa Untuk Di...",
+     "fungsi": "Pertanyaan retoris yang meragukan kegunaan/nilai suatu tindakan.",
+     "table": [
+      {
+       "jenis": "Interogatif",
+       "pola": "有什么 + V + 头儿",
+       "contoh": "这有什么好看头儿？",
+       "pinyin": "Zhè yǒu shénme hǎokàntóur?",
+       "terjemahan": "Ini ada bagusnya apa untuk ditonton?"
+      }
+     ]
+    },
+    {
+     "id": "hsk9-10.8",
+     "number": "10.8",
+     "title": "（在）……之余 - Di Sela-sela.../Selain...",
+     "fungsi": "Bentuk formal untuk menyatakan suatu kegiatan dilakukan di waktu luang dari kegiatan utama yang disebutkan.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "（在）+ Kegiatan utama + 之余，Klausa",
+       "contoh": "工作之余，他喜欢看书。",
+       "pinyin": "Gōngzuò zhīyú, tā xǐhuan kànshū.",
+       "terjemahan": "Di sela-sela kerja, dia suka membaca."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-10.9",
+     "number": "10.9",
+     "title": "值此……之际，…… - Pada Saat... Ini",
+     "fungsi": "Bentuk sangat formal untuk membuka pidato/surat resmi, menandai momen tertentu sebelum menyampaikan pesan utama.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "值此 + Momen + 之际，Klausa",
+       "contoh": "值此新年来临之际，祝大家身体健康。",
+       "pinyin": "Zhícǐ xīnnián láilín zhījì, zhù dàjiā shēntǐ jiànkāng.",
+       "terjemahan": "Pada saat menyambut Tahun Baru ini, semoga semua sehat selalu."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-10.10",
+     "number": "10.10",
+     "title": "X了Y，Y了X - Bolak-balik Antara X dan Y",
+     "fungsi": "Menyatakan hubungan timbal balik/situasi yang berputar bolak-balik antara dua pihak/hal tanpa kesudahan yang jelas.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "V + 了 + X，X + V + 了 + Y (pola bolak-balik)",
+       "contoh": "两个孩子抢玩具，你抢了我的，我抢了你的。",
+       "pinyin": "Liǎng ge háizi qiǎng wánjù, nǐ qiǎngle wǒ de, wǒ qiǎngle nǐ de.",
+       "terjemahan": "Dua anak berebut mainan, kamu ambil punyaku, aku ambil punyamu (bolak-balik)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Teknik Tingkat Wacana (Discourse-Level Techniques)",
+   "points": [
+    {
+     "id": "hsk9-11.1",
+     "number": "11.1",
+     "title": "时间顺序 - Urutan Waktu",
+     "fungsi": "Teknik menyusun paragraf berdasarkan urutan kejadian dari waktu ke waktu, ditandai kata seperti 首先/然后/后来/最后.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "首先……，然后……，最后……",
+       "contoh": "首先准备材料，然后开始做饭，最后摆盘上桌。",
+       "pinyin": "Shǒuxiān zhǔnbèi cáiliào, ránhòu kāishǐ zuòfàn, zuìhòu bǎipán shàngzhuō.",
+       "terjemahan": "Pertama siapkan bahan, lalu mulai memasak, terakhir tata di piring dan sajikan."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-11.2",
+     "number": "11.2",
+     "title": "空间顺序 - Urutan Ruang",
+     "fungsi": "Teknik menyusun deskripsi berdasarkan posisi/arah dalam ruang (dekat-jauh, kiri-kanan), ditandai kata seperti 前面/后面/往里/远处.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "……，往里走是……，再往里是……",
+       "contoh": "门口种着花，往里走是客厅，再往里就是卧室。",
+       "pinyin": "Ménkǒu zhòngzhe huā, wǎng lǐ zǒu shì kètīng, zài wǎng lǐ jiùshì wòshì.",
+       "terjemahan": "Di depan pintu ada bunga, masuk lagi ke dalam adalah ruang tamu, masuk lagi adalah kamar tidur."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-11.3",
+     "number": "11.3",
+     "title": "逻辑顺序 - Urutan Logika",
+     "fungsi": "Teknik menyusun argumen berdasarkan hubungan sebab-akibat atau umum-khusus, ditandai kata seperti 因为/所以/首先/其次/总之.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "因为……，所以……",
+       "contoh": "因为准备充分，所以他顺利通过了面试。",
+       "pinyin": "Yīnwèi zhǔnbèi chōngfèn, suǒyǐ tā shùnlì tōngguòle miànshì.",
+       "terjemahan": "Karena persiapannya matang, maka dia berhasil lolos wawancara."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-11.4",
+     "number": "11.4",
+     "title": "话题延伸 - Perluasan Topik",
+     "fungsi": "Teknik melanjutkan/memperdalam topik yang sedang dibahas dengan menambahkan informasi terkait, ditandai kata seperti 另外/此外/还有.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "……，此外，……",
+       "contoh": "他很喜欢运动，此外，他还擅长画画。",
+       "pinyin": "Tā hěn xǐhuan yùndòng, cǐwài, tā hái shàncháng huàhuà.",
+       "terjemahan": "Dia sangat suka olahraga, selain itu, dia juga pandai menggambar."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-11.5",
+     "number": "11.5",
+     "title": "话题转换 - Peralihan Topik",
+     "fungsi": "Teknik berpindah dari satu topik ke topik lain yang berbeda, ditandai kata seperti 说到/对了/顺便说一句.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "对了，说到……",
+       "contoh": "对了，说到旅行，你上次去哪儿了？",
+       "pinyin": "Duìle, shuōdào lǚxíng, nǐ shàngcì qù nǎr le?",
+       "terjemahan": "Oh iya, ngomong-ngomong soal jalan-jalan, kamu kemarin pergi ke mana?"
+      }
+     ]
+    },
+    {
+     "id": "hsk9-11.6",
+     "number": "11.6",
+     "title": "承前省略 - Elipsis Merujuk ke Depan",
+     "fungsi": "Teknik menghilangkan bagian kalimat (biasanya kata kerja/objek) yang sudah disebut di klausa sebelumnya, supaya kalimat tidak mengulang-ulang.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "Klausa1 (lengkap)，Klausa2 (bagian dihilangkan)",
+       "contoh": "我喜欢咖啡，他（喜欢）茶。",
+       "pinyin": "Wǒ xǐhuan kāfēi, tā chá.",
+       "terjemahan": "Saya suka kopi, dia (suka) teh -- kata 'suka' di klausa kedua dihilangkan karena sudah jelas dari konteks."
+      }
+     ]
+    },
+    {
+     "id": "hsk9-11.7",
+     "number": "11.7",
+     "title": "蒙后省略 - Elipsis Merujuk ke Belakang",
+     "fungsi": "Teknik menghilangkan subjek/bagian kalimat di awal karena akan disebutkan atau sudah jelas dari klausa yang menyusul kemudian -- kebalikan dari 承前省略, lebih jarang dipakai.",
+     "table": [
+      {
+       "jenis": "Deklaratif",
+       "pola": "(Subjek dihilangkan) + Klausa1，Subjek + Klausa2",
+       "contoh": "一进门，他就开始工作。",
+       "pinyin": "Yí jìnmén, tā jiù kāishǐ gōngzuò.",
+       "terjemahan": "Begitu masuk pintu, dia langsung mulai bekerja -- subjek pada klausa pertama tersirat dari klausa kedua."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "kesalahan_umum": [
+  {
+   "kategori": "",
+   "salah": "抢占行业至高点",
+   "benar": "抢占行业制高点",
+   "penjelasan": "\"制高点\" vs \"至高点\": 制 = control, 至 = most [citation:2]"
+  },
+  {
+   "kategori": "",
+   "salah": "电光火石",
+   "benar": "电光石火",
+   "penjelasan": "电光石火 = lightning and flint; very fast [citation:2]"
+  },
+  {
+   "kategori": "",
+   "salah": "松驰感",
+   "benar": "松弛感",
+   "penjelasan": "驰 = gallop, 弛 = relax [citation:2]"
+  },
+  {
+   "kategori": "",
+   "salah": "曈曈日",
+   "benar": "曈曈日",
+   "penjelasan": "曈 = pupil, 曈 = sun's brightness [citation:2]"
+  },
+  {
+   "kategori": "",
+   "salah": "过度政府",
+   "benar": "过渡政府",
+   "penjelasan": "过度 = excessive, 过渡 = transition [citation:2]"
+  },
+  {
+   "kategori": "",
+   "salah": "果腹 vs 裹腹",
+   "benar": "果腹",
+   "penjelasan": "果 = fruit/fill, 裹 = wrap [citation:2]"
+  },
+  {
+   "kategori": "",
+   "salah": "解决客户投诉 (ongoing)",
+   "benar": "处理客户投诉",
+   "penjelasan": "解决 = solve completely, 处理 = handle ongoing [citation:12]"
+  },
+  {
+   "kategori": "",
+   "salah": "居然骗了我 (with emotion)",
+   "benar": "竟然骗了我",
+   "penjelasan": "居然 = neutral surprise, 竟然 = disbelief [citation:12]"
+  },
+  {
+   "kategori": "",
+   "salah": "增加汉语水平",
+   "benar": "提高汉语水平",
+   "penjelasan": "增加 = quantity, 提高 = quality/level [citation:12]"
+  },
+  {
+   "kategori": "",
+   "salah": "他有丰富的工作经历",
+   "benar": "他有丰富的工作经验",
+   "penjelasan": "经历 = life events, 经验 = knowledge/skill [citation:12]"
+  },
+  {
+   "kategori": "",
+   "salah": "科学家发明了新病毒",
+   "benar": "科学家发现了新病毒",
+   "penjelasan": "发现 = discover, 发明 = invent [citation:12]"
+  },
+  {
+   "kategori": "",
+   "salah": "学校批准学生迟到",
+   "benar": "学校允许学生迟到",
+   "penjelasan": "批准 = official approval, 允许 = general permission [citation:12]"
+  },
+  {
+   "kategori": "",
+   "salah": "跻身 vs 挤身",
+   "benar": "跻身",
+   "penjelasan": "跻 = foot + rise, 挤 = hand + squeeze [citation:2]"
+  },
+  {
+   "kategori": "",
+   "salah": "花甲 vs 古稀",
+   "benar": "花甲 (for 60)",
+   "penjelasan": "花甲 = 60, 古稀 = 70 [citation:2]"
+  },
+  {
+   "kategori": "",
+   "salah": "侦查无人机",
+   "benar": "侦察无人机",
+   "penjelasan": "侦查 = legal investigation, 侦察 = military reconnaissance [citation:2]"
+  },
+  {
+   "kategori": "",
+   "salah": "对行为进行批评 (informal)",
+   "benar": "对此行为予以批评。",
+   "penjelasan": "予以 = formal/official \"to give\" [citation:1]"
+  },
+  {
+   "kategori": "",
+   "salah": "不免不了 (double negative)",
+   "benar": "免不了",
+   "penjelasan": "免不了 = cannot avoid (fixed) [citation:1]"
+  },
+  {
+   "kategori": "",
+   "salah": "卒中 zúzhōng",
+   "benar": "卒中 cùzhòng",
+   "penjelasan": "卒中 = \"to be suddenly struck\" [citation:2]"
+  },
+  {
+   "kategori": "",
+   "salah": "而且他不但不帮忙，添乱。",
+   "benar": "他不但不帮忙，反而添乱。",
+   "penjelasan": "\"反而\" for contradictory result [citation:12]"
+  },
+  {
+   "kategori": "",
+   "salah": "即使很累，我还坚持。",
+   "benar": "即使很累，我也坚持。",
+   "penjelasan": "\"即使...也...\" [citation:12]"
+  },
+  {
+   "kategori": "",
+   "salah": "我不过是开个玩笑而已罢了。",
+   "benar": "我不过是开个玩笑罢了。",
+   "penjelasan": "而已 and 罢了 are not interchangeable [citation:1]"
+  }
+ ]
+}
