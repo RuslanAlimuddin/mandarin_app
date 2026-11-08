@@ -1,0 +1,3141 @@
+{
+  "pilar": 2,
+  "judul": "SISTEM ANGKA, HITUNGAN, DAN BILANGAN (Matematika dan Kuantifikasi)",
+  "ringkasan": "Sistem angka Mandarin mengikuti logika desimal yang sangat teratur, tetapi memiliki perbedaan penting dalam pengelompokan bilangan besar berdasarkan 4 digit melalui 万 dan 亿. Pilar ini membangun kemampuan dari angka dasar, pembentukan bilangan, 零, 二 vs 两, nomor, urutan, pecahan, desimal, persentase, tanggal, waktu, harga, perkiraan, budaya angka, angka formal 大写, hingga strategi latihan dan peta integrasi.",
+  "bagian": [
+    {
+      "judul": "1. Fondasi: Angka Dasar 0–10",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Menguasai angka 0–10 adalah fondasi mutlak karena hampir semua bilangan lain dibangun dari pola yang sama. Sistemnya sangat teratur dan dapat dipahami sebagai kombinasi nilai puluhan, ratusan, ribuan, dan seterusnya."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Angka",
+            "Hanzi",
+            "Pinyin",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "0",
+              "<span class=\"hz\">零</span> / <span class=\"hz\">〇</span>",
+              "<span class=\"py\">líng</span>",
+              "<span class=\"hz\">〇</span> sering digunakan dalam penulisan angka seperti tahun atau deret angka."
+            ],
+            [
+              "1",
+              "<span class=\"hz\">一</span>",
+              "<span class=\"py\">yī</span>",
+              "Mengalami perubahan nada dalam pengucapan sesuai aturan sandhi (perubahan nada karena lingkungan bunyi)."
+            ],
+            [
+              "2",
+              "<span class=\"hz\">二</span>",
+              "<span class=\"py\">èr</span>",
+              "Umum untuk matematika, nomor urut, dan angka sebagai nilai abstrak."
+            ],
+            [
+              "3",
+              "<span class=\"hz\">三</span>",
+              "<span class=\"py\">sān</span>",
+              "Tiga."
+            ],
+            [
+              "4",
+              "<span class=\"hz\">四</span>",
+              "<span class=\"py\">sì</span>",
+              "Memiliki asosiasi tabu karena bunyinya mirip dengan <span class=\"hz\">死</span> (<span class=\"py\">sǐ</span>, mati)."
+            ],
+            [
+              "5",
+              "<span class=\"hz\">五</span>",
+              "<span class=\"py\">wǔ</span>",
+              "Lima."
+            ],
+            [
+              "6",
+              "<span class=\"hz\">六</span>",
+              "<span class=\"py\">liù</span>",
+              "Diasosiasikan dengan kelancaran atau keberuntungan dalam bisnis."
+            ],
+            [
+              "7",
+              "<span class=\"hz\">七</span>",
+              "<span class=\"py\">qī</span>",
+              "Tujuh."
+            ],
+            [
+              "8",
+              "<span class=\"hz\">八</span>",
+              "<span class=\"py\">bā</span>",
+              "Sangat populer sebagai angka keberuntungan."
+            ],
+            [
+              "9",
+              "<span class=\"hz\">九</span>",
+              "<span class=\"py\">jiǔ</span>",
+              "Diasosiasikan dengan keabadian atau sesuatu yang berlangsung lama."
+            ],
+            [
+              "10",
+              "<span class=\"hz\">十</span>",
+              "<span class=\"py\">shí</span>",
+              "Sepuluh."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "十一",
+              "pinyin": "shí yī",
+              "arti": "11",
+              "catatan": "Secara harfiah sepuluh satu."
+            },
+            {
+              "hanzi": "十二",
+              "pinyin": "shí'èr",
+              "arti": "12",
+              "catatan": "Secara harfiah sepuluh dua."
+            },
+            {
+              "hanzi": "二十一",
+              "pinyin": "èr shí yī",
+              "arti": "21",
+              "catatan": "Tidak ada kata yang setara dengan dan di antara puluhan dan satuan."
+            },
+            {
+              "hanzi": "三十三",
+              "pinyin": "sān shí sān",
+              "arti": "33",
+              "catatan": "Pola puluhan + 十 + satuan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menerapkan pola bahasa Indonesia secara harfiah. Angka 21 bukan susunan seperti dua puluh dan satu dengan kata penghubung, melainkan langsung <span class=\"hz\">二十一</span>."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Angka dasar Mandarin tidak hanya perlu dihafal sebagai pasangan Hanzi dan bunyi, tetapi perlu dipahami sebagai sistem yang segera berubah menjadi pola perkalian dan penjumlahan. <span class=\"hz\">十</span> berarti sepuluh, sehingga <span class=\"hz\">二十</span> secara transparan berarti dua kali sepuluh dan <span class=\"hz\">二十三</span> berarti dua kali sepuluh ditambah tiga. Karena tidak ada kata yang setara dengan dan di antara puluhan dan satuan, pelajar Indonesia sebaiknya membangun refleks langsung dari kiri ke kanan. Angka 0 mempunyai dua bentuk tulisan yang penting: <span class=\"hz\">零</span> adalah bentuk karakter yang dibaca líng, sedangkan <span class=\"hz\">〇</span> sering muncul dalam tahun, tanggal, atau deret angka. Dalam pembacaan angka biasa, keduanya tidak berarti dua angka yang berbeda."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Fokus",
+            "Bentuk",
+            "Cara memahami",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "Nilai angka",
+              "<span class=\"hz\">二</span>",
+              "angka abstrak dua",
+              "<span class=\"hz\">二加三</span> = 2 + 3"
+            ],
+            [
+              "Puluhan",
+              "<span class=\"hz\">二十</span>",
+              "2 × 10",
+              "20"
+            ],
+            [
+              "Bilangan 21–29",
+              "<span class=\"hz\">二十</span> + satuan",
+              "20 + satuan",
+              "<span class=\"hz\">二十一</span> = 21"
+            ],
+            [
+              "Tahun/deret",
+              "<span class=\"hz\">二〇二六</span>",
+              "digit dibaca satu per satu",
+              "2026"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "零",
+              "pinyin": "líng",
+              "arti": "0",
+              "catatan": "Bentuk utama untuk menyebut angka nol."
+            },
+            {
+              "hanzi": "〇",
+              "pinyin": "líng",
+              "arti": "0",
+              "catatan": "Sering dipakai secara grafis dalam tahun atau deret angka."
+            },
+            {
+              "hanzi": "十八",
+              "pinyin": "shí bā",
+              "arti": "18",
+              "catatan": "Sepuluh ditambah delapan."
+            },
+            {
+              "hanzi": "四十六",
+              "pinyin": "sì shí liù",
+              "arti": "46",
+              "catatan": "Empat puluh enam."
+            },
+            {
+              "hanzi": "一百二十三",
+              "pinyin": "yī bǎi èr shí sān",
+              "arti": "123",
+              "catatan": "Seratus dua puluh tiga. "
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Sandhi (perubahan nada karena lingkungan bunyi) pada <span class=\"hz\">一</span> perlu dibedakan dari bentuk Hanzi. Karakternya tetap <span class=\"hz\">一</span>, tetapi dalam ucapan nadanya dapat berubah menurut kata sesudahnya. Jangan mengubah tulisan menjadi <span class=\"hz\">二</span> hanya karena mendengar bunyi yí atau yì."
+        }
+      ]
+    },
+    {
+      "judul": "2. Pola Pembentukan Bilangan 11–9.999",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Setelah angka dasar dikuasai, pembentukan bilangan Mandarin menjadi sangat sistematis. Prinsipnya adalah menggabungkan angka pengali dengan unit seperti <span class=\"hz\">十</span> (<span class=\"py\">shí</span>, sepuluh), <span class=\"hz\">百</span> (<span class=\"py\">bǎi</span>, seratus), dan <span class=\"hz\">千</span> (<span class=\"py\">qiān</span>, seribu)."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Rentang",
+            "Pola",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "11–19",
+              "<span class=\"hz\">十</span> + satuan",
+              "<span class=\"hz\">十五</span> (<span class=\"py\">shí wǔ</span>)",
+              "15"
+            ],
+            [
+              "20–99",
+              "Puluhan + <span class=\"hz\">十</span> + satuan",
+              "<span class=\"hz\">二十五</span> (<span class=\"py\">èr shí wǔ</span>)",
+              "25"
+            ],
+            [
+              "100–999",
+              "Ratusan + <span class=\"hz\">百</span> + bagian berikutnya",
+              "<span class=\"hz\">二百三十五</span> (<span class=\"py\">èr bǎi sān shí wǔ</span>)",
+              "235"
+            ],
+            [
+              "1.000–9.999",
+              "Ribuan + <span class=\"hz\">千</span> + bagian berikutnya",
+              "<span class=\"hz\">五千五百</span> (<span class=\"py\">wǔ qiān wǔ bǎi</span>)",
+              "5.500"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "十一",
+              "pinyin": "shí yī",
+              "arti": "11",
+              "catatan": "10 + 1."
+            },
+            {
+              "hanzi": "十九",
+              "pinyin": "shí jiǔ",
+              "arti": "19",
+              "catatan": "10 + 9."
+            },
+            {
+              "hanzi": "二十",
+              "pinyin": "èr shí",
+              "arti": "20",
+              "catatan": "2 × 10."
+            },
+            {
+              "hanzi": "九十九",
+              "pinyin": "jiǔ shí jiǔ",
+              "arti": "99",
+              "catatan": "9 × 10 + 9."
+            },
+            {
+              "hanzi": "一百",
+              "pinyin": "yī bǎi",
+              "arti": "100",
+              "catatan": "Bentuk standar untuk 100."
+            },
+            {
+              "hanzi": "两百三十五",
+              "pinyin": "liǎng bǎi sān shí wǔ",
+              "arti": "235",
+              "catatan": "Bentuk dengan 两 yang sangat umum untuk jumlah."
+            },
+            {
+              "hanzi": "二百三十五",
+              "pinyin": "èr bǎi sān shí wǔ",
+              "arti": "235",
+              "catatan": "Bentuk dengan 二 juga digunakan."
+            },
+            {
+              "hanzi": "一千",
+              "pinyin": "yī qiān",
+              "arti": "1.000",
+              "catatan": "Seribu."
+            },
+            {
+              "hanzi": "五千五百",
+              "pinyin": "wǔ qiān wǔ bǎi",
+              "arti": "5.500",
+              "catatan": "5 ribu + 5 ratus."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Untuk bilangan 11–9.999, unit <span class=\"hz\">十</span>, <span class=\"hz\">百</span>, dan <span class=\"hz\">千</span> bekerja seperti penanda tempat. Angka di depan unit menyatakan berapa unit yang ada; angka setelah unit mengisi posisi yang lebih kecil. Bila sebuah posisi di tengah kosong tetapi masih ada nilai bukan nol setelahnya, <span class=\"hz\">零</span> menjadi penanda bahwa ada lompatan posisi. Pola ini berbeda dari cara orang Indonesia kadang membaca angka secara mental sebagai satu rangkaian panjang. Dalam Mandarin, lebih aman membongkar angka menjadi blok nilai: ribuan → ratusan → puluhan → satuan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bilangan",
+            "Struktur",
+            "Contoh",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "11–19",
+              "十 + satuan",
+              "<span class=\"hz\">十六</span>",
+              "Tidak perlu 一 sebelum 十."
+            ],
+            [
+              "20–99",
+              "puluhan + 十 + satuan",
+              "<span class=\"hz\">四十八</span>",
+              "Angka puluhan disebut eksplisit."
+            ],
+            [
+              "100–999",
+              "ratusan + 百 + bagian bawah",
+              "<span class=\"hz\">三百二十六</span>",
+              "<span class=\"hz\">零</span> dipakai bila ada lompatan."
+            ],
+            [
+              "1.000–9.999",
+              "ribuan + 千 + bagian bawah",
+              "<span class=\"hz\">四千零八</span>",
+              "8 berada setelah posisi kosong."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "十二",
+              "pinyin": "shí èr",
+              "arti": "12",
+              "catatan": "10 + 2."
+            },
+            {
+              "hanzi": "四十五",
+              "pinyin": "sì shí wǔ",
+              "arti": "45",
+              "catatan": "4 puluhan + 5."
+            },
+            {
+              "hanzi": "三百零八",
+              "pinyin": "sān bǎi líng bā",
+              "arti": "308",
+              "catatan": "Posisi puluhan kosong."
+            },
+            {
+              "hanzi": "六百七十",
+              "pinyin": "liù bǎi qī shí",
+              "arti": "670",
+              "catatan": "Satuan nol tidak disebut."
+            },
+            {
+              "hanzi": "四千零二十五",
+              "pinyin": "sì qiān líng èr shí wǔ",
+              "arti": "4.025",
+              "catatan": "Lompatan dari ribuan ke puluhan. "
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menambahkan <span class=\"hz\">一</span> pada semua bilangan belasan. <span class=\"hz\">十一</span> adalah 11, bukan bentuk yang harus selalu diawali <span class=\"hz\">一十一</span>. Sebaliknya, 100 standar adalah <span class=\"hz\">一百</span>, bukan hanya <span class=\"hz\">百</span> dalam pembacaan netral."
+        }
+      ]
+    },
+    {
+      "judul": "3. Aturan Nol: 零 (Líng)",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Aturan <span class=\"hz\">零</span> (<span class=\"py\">líng</span>) merupakan salah satu bagian yang paling penting. Nol di tengah struktur bilangan harus ditandai dalam pengucapan, sedangkan nol di akhir unit atau akhir keseluruhan bilangan tidak diucapkan."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Jika satu atau beberapa angka nol berada di antara angka bukan nol, ucapkan <span class=\"hz\">零</span> satu kali saja.",
+            "Jika nol hanya berada di bagian akhir bilangan, nol tersebut tidak perlu diucapkan.",
+            "Jika terdapat beberapa nol berurutan di bagian tengah, tetap cukup mengucapkan <span class=\"hz\">零</span> satu kali.",
+            "Aturan yang sama harus dipahami ketika bilangan melintasi unit besar seperti <span class=\"hz\">万</span> dan <span class=\"hz\">亿</span>."
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "一百零一",
+              "pinyin": "yī bǎi líng yī",
+              "arti": "101",
+              "catatan": "Nol berada di antara ratusan dan satuan sehingga wajib disebut."
+            },
+            {
+              "hanzi": "一百零五",
+              "pinyin": "yī bǎi líng wǔ",
+              "arti": "105",
+              "catatan": "Nol tengah dibaca sekali."
+            },
+            {
+              "hanzi": "一千零一",
+              "pinyin": "yī qiān líng yī",
+              "arti": "1.001",
+              "catatan": "Nol di antara ribuan dan satuan dibaca."
+            },
+            {
+              "hanzi": "一万零一",
+              "pinyin": "yī wàn líng yī",
+              "arti": "10.001",
+              "catatan": "Nol setelah unit 万 dan sebelum satuan dibaca."
+            },
+            {
+              "hanzi": "一百",
+              "pinyin": "yī bǎi",
+              "arti": "100",
+              "catatan": "Nol akhir tidak diucapkan."
+            },
+            {
+              "hanzi": "一百二十",
+              "pinyin": "yī bǎi èr shí",
+              "arti": "120",
+              "catatan": "Tidak ada 零 di akhir."
+            },
+            {
+              "hanzi": "七百零五",
+              "pinyin": "qī bǎi líng wǔ",
+              "arti": "705",
+              "catatan": "Bagian puluhan kosong sehingga 零 diperlukan."
+            },
+            {
+              "hanzi": "一万零五",
+              "pinyin": "yī wàn líng wǔ",
+              "arti": "10.005",
+              "catatan": "Nol menandai bagian yang kosong antara 万 dan satuan."
+            },
+            {
+              "hanzi": "一万零五十",
+              "pinyin": "yī wàn líng wǔ shí",
+              "arti": "10.050",
+              "catatan": "Nol diperlukan sebelum bagian lima puluh. "
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan umum adalah mengucapkan <span class=\"hz\">零</span> pada akhir bilangan seperti 120. Bentuk <span class=\"hz\">一百二十零</span> tidak digunakan; cukup <span class=\"hz\">一百二十</span>."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Kunci aturan <span class=\"hz\">零</span> adalah membedakan posisi kosong yang berada di antara nilai yang masih dibaca dari nol yang hanya berada di ujung. Jika sebuah bilangan memiliki beberapa nol berturut-turut di dalam satu blok atau melintasi unit besar, <span class=\"hz\">零</span> biasanya hanya diucapkan sekali. Namun tidak setiap titik kosong membutuhkan <span class=\"hz\">零</span> terpisah. Misalnya 1.005 dibaca <span class=\"hz\">一千零五</span>, bukan rangkaian yang menyebut dua atau tiga nol. Sebaliknya, 1.050 dibaca <span class=\"hz\">一千零五十</span>, karena bagian lima puluh langsung mengikuti penanda nol."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Angka",
+            "Bentuk Mandarin",
+            "Mengapa",
+            "Pola"
+          ],
+          "baris": [
+            [
+              "100",
+              "<span class=\"hz\">一百</span>",
+              "nol hanya di akhir",
+              "tanpa 零"
+            ],
+            [
+              "101",
+              "<span class=\"hz\">一百零一</span>",
+              "ratusan ke satuan melompati puluhan",
+              "1 × 零"
+            ],
+            [
+              "1.010",
+              "<span class=\"hz\">一千零一十</span>",
+              "ribuan ke puluhan",
+              "1 × 零"
+            ],
+            [
+              "1.001",
+              "<span class=\"hz\">一千零一</span>",
+              "ribuan ke satuan",
+              "1 × 零"
+            ],
+            [
+              "10.100",
+              "<span class=\"hz\">一万零一百</span>",
+              "万 ke ratusan",
+              "1 × 零"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "二百零三",
+              "pinyin": "èr bǎi líng sān",
+              "arti": "203",
+              "catatan": "Puluhan kosong."
+            },
+            {
+              "hanzi": "三千零六十",
+              "pinyin": "sān qiān líng liù shí",
+              "arti": "3.060",
+              "catatan": "Ratusan kosong."
+            },
+            {
+              "hanzi": "四千零五",
+              "pinyin": "sì qiān líng wǔ",
+              "arti": "4.005",
+              "catatan": "Ratusan dan puluhan kosong."
+            },
+            {
+              "hanzi": "一万零八百",
+              "pinyin": "yī wàn líng bā bǎi",
+              "arti": "10.800",
+              "catatan": "Setelah 万 langsung masuk ke ratusan."
+            },
+            {
+              "hanzi": "一亿零三万",
+              "pinyin": "yī yì líng sān wàn",
+              "arti": "100.030.000",
+              "catatan": "Blok 万 muncul setelah blok 亿 dengan lompatan. "
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menyamakan angka nol tertulis dengan jumlah <span class=\"hz\">零</span> yang harus diucapkan. Beberapa nol berurutan di posisi tengah tidak dibaca satu per satu. Kesalahan lain adalah menambahkan <span class=\"hz\">零</span> di akhir, misalnya <span class=\"hz\">一百二十零</span>; bentuk ini tidak dipakai."
+        }
+      ]
+    },
+    {
+      "judul": "4. Bilangan Besar dan Pengelompokan 4 Digit",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Perbedaan terbesar dengan kebiasaan Indonesia adalah cara mengelompokkan bilangan besar. Bahasa Indonesia dan banyak bahasa Barat terbiasa mengelompokkan tiga digit seperti ribuan, jutaan, dan miliaran. Mandarin menggunakan unit dasar 4 digit, terutama <span class=\"hz\">万</span> (<span class=\"py\">wàn</span>) dan <span class=\"hz\">亿</span> (<span class=\"py\">yì</span>)."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Unit",
+            "Hanzi",
+            "Pinyin",
+            "Nilai"
+          ],
+          "baris": [
+            [
+              "Puluh ribu",
+              "<span class=\"hz\">万</span>",
+              "<span class=\"py\">wàn</span>",
+              "10.000"
+            ],
+            [
+              "Seratus juta",
+              "<span class=\"hz\">亿</span>",
+              "<span class=\"py\">yì</span>",
+              "100.000.000"
+            ],
+            [
+              "Triliun",
+              "<span class=\"hz\">兆</span>",
+              "<span class=\"py\">zhào</span>",
+              "10¹² dalam sistem yang digunakan dalam materi ini"
+            ]
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Saat melihat bilangan besar, biasakan memecahnya dari kanan ke kiri dalam kelompok empat digit.",
+            "100.000 dipahami sebagai 10 × <span class=\"hz\">万</span>, sehingga menjadi <span class=\"hz\">十万</span>.",
+            "1.000.000 dipahami sebagai 100 × <span class=\"hz\">万</span>, sehingga menjadi <span class=\"hz\">一百万</span>.",
+            "100.000.000 adalah <span class=\"hz\">一亿</span>.",
+            "1.000.000.000 adalah <span class=\"hz\">十亿</span>.",
+            "2.500.000.000 dapat dipahami sebagai 25 × <span class=\"hz\">亿</span>, yaitu <span class=\"hz\">二十五亿</span>."
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "十五万",
+              "pinyin": "shíwǔ wàn",
+              "arti": "150.000",
+              "catatan": "15 × 10.000."
+            },
+            {
+              "hanzi": "五万",
+              "pinyin": "wǔ wàn",
+              "arti": "50.000",
+              "catatan": "5 × 10.000."
+            },
+            {
+              "hanzi": "一百万",
+              "pinyin": "yī bǎi wàn",
+              "arti": "1.000.000",
+              "catatan": "100 × 10.000."
+            },
+            {
+              "hanzi": "一千万",
+              "pinyin": "yī qiān wàn",
+              "arti": "10.000.000",
+              "catatan": "1.000 × 10.000."
+            },
+            {
+              "hanzi": "一亿",
+              "pinyin": "yī yì",
+              "arti": "100.000.000",
+              "catatan": "Satu unit 亿."
+            },
+            {
+              "hanzi": "十亿",
+              "pinyin": "shí yì",
+              "arti": "1.000.000.000",
+              "catatan": "10 × 亿."
+            },
+            {
+              "hanzi": "二十五亿",
+              "pinyin": "èrshíwǔ yì",
+              "arti": "2.500.000.000",
+              "catatan": "25 × 100 juta."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menerjemahkan angka besar secara digit demi digit. Ketika melihat 100.000, latih pikiran untuk langsung mengenalinya sebagai 10 × <span class=\"hz\">万</span>, bukan sebagai konsep lima digit yang harus dikonversi melalui pola bahasa Indonesia."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Unit besar Mandarin harus dipahami sebagai sistem blok empat digit. Secara praktis, ambil angka dari kanan dan beri pemisah mental setiap empat digit: XXXX | XXXX | XXXX. Blok paling kanan berada di bawah <span class=\"hz\">万</span>, blok berikutnya berkaitan dengan <span class=\"hz\">亿</span>, dan seterusnya. Inilah sebabnya 1.234.567 dibaca <span class=\"hz\">一百二十三万四千五百六十七</span>: blok pertama 123 dikalikan 万, lalu blok bawah 4.567 dibaca sebagai bilangan biasa. Untuk penutur Indonesia, latihan terbaik bukan menghafal jutaan contoh, tetapi mengubah refleks pemenggalan dari tiga digit menjadi empat digit."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Angka",
+            "Pemenggalan Mandarin",
+            "Hanzi",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "100.000",
+              "10 × 万",
+              "<span class=\"hz\">十万</span>",
+              "seratus ribu"
+            ],
+            [
+              "1.000.000",
+              "100 × 万",
+              "<span class=\"hz\">一百万</span>",
+              "satu juta"
+            ],
+            [
+              "12.345.678",
+              "1234 × 万 + 5678",
+              "<span class=\"hz\">一千二百三十四万五千六百七十八</span>",
+              "12,345,678"
+            ],
+            [
+              "100.000.000",
+              "1 × 亿",
+              "<span class=\"hz\">一亿</span>",
+              "seratus juta"
+            ],
+            [
+              "1.000.000.001",
+              "1 亿 + 1",
+              "<span class=\"hz\">十亿零一</span>",
+              "satu miliar satu"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "二十万",
+              "pinyin": "èr shí wàn",
+              "arti": "200.000",
+              "catatan": "20 × 万."
+            },
+            {
+              "hanzi": "九百九十九万",
+              "pinyin": "jiǔ bǎi jiǔ shí jiǔ wàn",
+              "arti": "9.990.000",
+              "catatan": "999 × 万."
+            },
+            {
+              "hanzi": "一千二百万",
+              "pinyin": "yī qiān èr bǎi wàn",
+              "arti": "12.000.000",
+              "catatan": "1.200 × 万."
+            },
+            {
+              "hanzi": "三亿五千万",
+              "pinyin": "sān yì wǔ qiān wàn",
+              "arti": "350.000.000",
+              "catatan": "3 亿 + 5.000 万."
+            },
+            {
+              "hanzi": "十二亿三千四百五十六万七千八百九十",
+              "pinyin": "shí èr yì sān qiān sì bǎi wǔ shí liù wàn qī qiān bā bǎi jiǔ shí",
+              "arti": "1.234.567.890",
+              "catatan": "12 亿 + 3456 万 + 7890. "
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menerjemahkan <span class=\"hz\">万</span> sebagai ribu atau <span class=\"hz\">亿</span> sebagai juta. <span class=\"hz\">万</span> = 10.000 dan <span class=\"hz\">亿</span> = 100.000.000. Untuk angka sangat besar, <span class=\"hz\">兆</span> perlu diperlakukan hati-hati karena penggunaannya dapat berbeda menurut sistem dan konteks; jangan mengandalkan satu padanan lintas bahasa tanpa melihat konteks."
+        }
+      ]
+    },
+    {
+      "judul": "5. Dua Cara Mengatakan Angka 2: 二 vs 两",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Bahasa Mandarin memiliki dua bentuk utama untuk angka dua, yaitu <span class=\"hz\">二</span> (<span class=\"py\">èr</span>) dan <span class=\"hz\">两</span> (<span class=\"py\">liǎng</span>). Perbedaannya terutama berkaitan dengan apakah angka tersebut diperlakukan sebagai nilai atau nomor, atau sebagai jumlah konkret."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk",
+            "Kecenderungan penggunaan",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">二</span>",
+              "Matematika, hitungan, nomor urut, pecahan, desimal, persentase, dan angka sebagai nilai.",
+              "<span class=\"hz\">二加二等于四</span> = 2 + 2 = 4"
+            ],
+            [
+              "<span class=\"hz\">两</span>",
+              "Jumlah konkret, terutama sebelum kata bantu bilangan dan banyak unit pengukuran.",
+              "<span class=\"hz\">两个人</span> = dua orang"
+            ],
+            [
+              "<span class=\"hz\">两</span>",
+              "Sering digunakan sebelum unit seperti <span class=\"hz\">百</span>, <span class=\"hz\">千</span>, dan <span class=\"hz\">万</span> ketika menyatakan jumlah.",
+              "<span class=\"hz\">两百</span>, <span class=\"hz\">两千</span>, <span class=\"hz\">两万</span>"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "二加二等于四",
+              "pinyin": "èr jiā èr děngyú sì",
+              "arti": "2 + 2 = 4",
+              "catatan": "Matematika menggunakan 二."
+            },
+            {
+              "hanzi": "第二",
+              "pinyin": "dì èr",
+              "arti": "kedua",
+              "catatan": "Nomor urut menggunakan 二."
+            },
+            {
+              "hanzi": "零点二",
+              "pinyin": "líng diǎn èr",
+              "arti": "0,2",
+              "catatan": "Desimal menggunakan 二."
+            },
+            {
+              "hanzi": "两个人",
+              "pinyin": "liǎng gè rén",
+              "arti": "dua orang",
+              "catatan": "Jumlah konkret menggunakan 两."
+            },
+            {
+              "hanzi": "两本书",
+              "pinyin": "liǎng běn shū",
+              "arti": "dua buku",
+              "catatan": "两 berada di depan kata bantu."
+            },
+            {
+              "hanzi": "两百",
+              "pinyin": "liǎng bǎi",
+              "arti": "200",
+              "catatan": "Bentuk jumlah yang sangat umum."
+            },
+            {
+              "hanzi": "两千",
+              "pinyin": "liǎng qiān",
+              "arti": "2.000",
+              "catatan": "Bentuk jumlah yang sangat umum."
+            },
+            {
+              "hanzi": "两万",
+              "pinyin": "liǎng wàn",
+              "arti": "20.000",
+              "catatan": "Dapat digunakan untuk menyatakan jumlah."
+            },
+            {
+              "hanzi": "两亿",
+              "pinyin": "liǎng yì",
+              "arti": "200.000.000",
+              "catatan": "Dalam materi sumber diberikan sebagai pengecualian penting pada unit besar. "
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap 二 dan 两 dapat ditukar secara bebas. Untuk matematika dan nomor urut, <span class=\"hz\">二</span> adalah pilihan utama; untuk jumlah konkret sebelum kata bantu, <span class=\"hz\">两</span> jauh lebih natural."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Perbedaan <span class=\"hz\">二</span> dan <span class=\"hz\">两</span> bukan sekadar aturan satu kata sebelum kata benda. <span class=\"hz\">二</span> cenderung menonjolkan angka sebagai nilai, urutan, label, atau bagian dari sistem matematika; <span class=\"hz\">两</span> cenderung menonjolkan dua sebagai jumlah konkret. Akan tetapi batasnya tidak absolut. <span class=\"hz\">二百</span> dan <span class=\"hz\">两百</span> sama-sama ditemukan, dengan <span class=\"hz\">两百</span> sangat lazim dalam percakapan ketika menyatakan jumlah. Dalam nomor, desimal, pecahan, dan persentase, <span class=\"hz\">二</span> tetap menjadi bentuk dasar. Karena itu pelajar sebaiknya mempelajari pasangan konteks, bukan membuat aturan palsu bahwa 两 selalu berarti dua benda dan 二 selalu berarti angka."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Konteks",
+            "Pilihan utama",
+            "Contoh",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "Matematika",
+              "<span class=\"hz\">二</span>",
+              "<span class=\"hz\">二加三</span>",
+              "nilai angka"
+            ],
+            [
+              "Urutan",
+              "<span class=\"hz\">二</span>",
+              "<span class=\"hz\">第二</span>",
+              "nomor kedua"
+            ],
+            [
+              "Jumlah benda",
+              "<span class=\"hz\">两</span>",
+              "<span class=\"hz\">两本书</span>",
+              "dua buku"
+            ],
+            [
+              "Unit besar sebagai jumlah",
+              "sering <span class=\"hz\">两</span>",
+              "<span class=\"hz\">两千</span>",
+              "2.000"
+            ],
+            [
+              "Desimal",
+              "<span class=\"hz\">二</span>",
+              "<span class=\"hz\">二点五</span>",
+              "2,5"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "二号",
+              "pinyin": "èr hào",
+              "arti": "nomor dua",
+              "catatan": "Label atau nomor menggunakan 二."
+            },
+            {
+              "hanzi": "两杯茶",
+              "pinyin": "liǎng bēi chá",
+              "arti": "dua cangkir teh",
+              "catatan": "Jumlah konkret."
+            },
+            {
+              "hanzi": "二十分钟",
+              "pinyin": "èr shí fēnzhōng",
+              "arti": "20 menit",
+              "catatan": "Angka dalam satuan waktu; 二 adalah bentuk normal."
+            },
+            {
+              "hanzi": "两个月",
+              "pinyin": "liǎng gè yuè",
+              "arti": "dua bulan",
+              "catatan": "Jumlah dua unit waktu."
+            },
+            {
+              "hanzi": "二分之一",
+              "pinyin": "èr fēn zhī yī",
+              "arti": "setengah",
+              "catatan": "Penyebut menggunakan 二."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan mengubah semua angka 2 menjadi 两. <span class=\"hz\">第二</span>, <span class=\"hz\">二月</span>, <span class=\"hz\">二点五</span>, dan <span class=\"hz\">百分之二</span> membutuhkan <span class=\"hz\">二</span>. Sebaliknya, <span class=\"hz\">两个人</span> lebih natural daripada <span class=\"hz\">二个人</span> dalam percakapan umum."
+        }
+      ]
+    },
+    {
+      "judul": "6. Nomor Telepon, Identitas, Kode, dan Deret Angka",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Nomor telepon, nomor identitas, nomor kamar, kode, dan deret angka panjang biasanya dibaca satu digit demi satu digit, bukan sebagai bilangan utuh seperti 13.811.234.567."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Angka 1 dalam deret angka sering dibaca <span class=\"hz\">幺</span> (<span class=\"py\">yāo</span>) untuk memperjelas perbedaan dengan angka 7, terutama dalam komunikasi melalui telepon atau radio.",
+            "Angka 2 dalam deret angka dapat dibaca <span class=\"hz\">两</span> (<span class=\"py\">liǎng</span>) dalam penggunaan tertentu.",
+            "Untuk tahun, angka juga dibaca digit demi digit, tetapi menggunakan pembacaan normal seperti <span class=\"hz\">一</span> (<span class=\"py\">yī</span>), bukan otomatis <span class=\"hz\">幺</span>."
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "13811234567",
+              "pinyin": "yāo sān bā yāo yāo èr sān sì wǔ liù qī",
+              "arti": "13811234567",
+              "catatan": "Contoh pembacaan digit demi digit dengan 幺 untuk angka 1."
+            },
+            {
+              "hanzi": "二零二六年",
+              "pinyin": "èr líng èr liù nián",
+              "arti": "tahun 2026",
+              "catatan": "Tahun dibaca digit demi digit dengan pembacaan angka normal."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan membaca nomor telepon panjang sebagai bilangan besar biasa. Dalam konteks nomor, tujuan utama adalah memastikan setiap digit terdengar jelas."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Deret angka adalah konteks yang berbeda dari bilangan biasa. Tujuan utama membaca nomor telepon, nomor rekening, kode verifikasi, nomor seri, atau plat kendaraan adalah memastikan setiap digit terdengar jelas, sehingga angka biasanya dibaca satu per satu. <span class=\"hz\">幺</span> (<span class=\"py\">yāo</span>) untuk digit 1 sangat umum dalam komunikasi yang membutuhkan kejelasan, terutama telepon, radio, atau lingkungan bising, tetapi tidak berarti bahwa setiap angka 1 wajib selalu dibaca yāo. Untuk nomor telepon sehari-hari, pembacaan <span class=\"hz\">一</span> juga dapat terdengar. Tahun berbeda: tahun biasanya dibaca digit demi digit dengan <span class=\"hz\">一</span> biasa, bukan otomatis <span class=\"hz\">幺</span>."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Jenis",
+            "Cara baca",
+            "Contoh",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "Bilangan",
+              "sebagai satu struktur",
+              "<span class=\"hz\">一千二百</span>",
+              "1.200"
+            ],
+            [
+              "Telepon",
+              "digit demi digit",
+              "<span class=\"hz\">一三八...</span>",
+              "tujuan utama kejelasan"
+            ],
+            [
+              "Kode verifikasi",
+              "digit demi digit",
+              "<span class=\"hz\">五八零二</span>",
+              "nol dibaca líng"
+            ],
+            [
+              "Tahun",
+              "digit demi digit + 年",
+              "<span class=\"hz\">二〇二六年</span>",
+              "bisa memakai 〇 dalam tulisan"
+            ],
+            [
+              "Radio/komunikasi kritis",
+              "digit + variasi seperti 幺",
+              "<span class=\"hz\">幺</span>",
+              "untuk mengurangi salah dengar"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "请说一下你的电话号码。",
+              "pinyin": "qǐng shuō yíxià nǐ de diànhuà hàomǎ",
+              "arti": "Tolong sebutkan nomor teleponmu.",
+              "catatan": "Nomor biasanya dibaca digit per digit."
+            },
+            {
+              "hanzi": "我的号码是一三八一一二三四五六七。",
+              "pinyin": "wǒ de hàomǎ shì yī sān bā yī yī èr sān sì wǔ liù qī",
+              "arti": "Nomor saya 13811234567.",
+              "catatan": "Contoh pembacaan biasa; dalam konteks radio angka 1 dapat menjadi 幺."
+            },
+            {
+              "hanzi": "验证码是五八零二。",
+              "pinyin": "yànzhèngmǎ shì wǔ bā líng èr",
+              "arti": "Kode verifikasinya 5802.",
+              "catatan": "Setiap digit dibaca jelas."
+            },
+            {
+              "hanzi": "邮编是一零零零八。",
+              "pinyin": "yóubiān shì yī líng líng líng bā",
+              "arti": "Kode posnya 10008.",
+              "catatan": "Deret kode tidak dibaca sebagai sepuluh ribu delapan."
+            },
+            {
+              "hanzi": "二零二六年",
+              "pinyin": "èr líng èr liù nián",
+              "arti": "tahun 2026",
+              "catatan": "Tahun dibaca digit demi digit."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Klaim bahwa <span class=\"hz\">一</span> selalu wajib dibaca <span class=\"hz\">幺</span> untuk semua nomor terlalu mutlak. <span class=\"hz\">幺</span> terutama merupakan bentuk untuk memperjelas komunikasi tertentu. Jangan menggunakannya otomatis pada tahun atau semua konteks angka."
+        }
+      ]
+    },
+    {
+      "judul": "7. Angka Urut dan Penomoran",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Angka urut (序数, <span class=\"py\">xùshù</span>) biasanya dibentuk dengan menambahkan <span class=\"hz\">第</span> (<span class=\"py\">dì</span>) sebelum angka. Namun dalam penomoran praktis seperti lantai, kelas, atau nomor kamar, <span class=\"hz\">第</span> sering tidak digunakan."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "第一",
+              "pinyin": "dì yī",
+              "arti": "pertama",
+              "catatan": "Bentuk angka urut paling umum."
+            },
+            {
+              "hanzi": "第二",
+              "pinyin": "dì èr",
+              "arti": "kedua",
+              "catatan": "Nomor urut."
+            },
+            {
+              "hanzi": "第一百",
+              "pinyin": "dì yī bǎi",
+              "arti": "keseratus",
+              "catatan": "第 ditempatkan sebelum seluruh bilangan."
+            },
+            {
+              "hanzi": "二楼",
+              "pinyin": "èr lóu",
+              "arti": "lantai dua",
+              "catatan": "Penomoran lantai tidak harus menggunakan 第."
+            },
+            {
+              "hanzi": "三班",
+              "pinyin": "sān bān",
+              "arti": "kelas tiga",
+              "catatan": "Penomoran kelas."
+            },
+            {
+              "hanzi": "五号",
+              "pinyin": "wǔ hào",
+              "arti": "nomor lima",
+              "catatan": "Penomoran dengan 号. "
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Ada juga bentuk khusus dalam kosakata tertentu. <span class=\"hz\">头</span> (<span class=\"py\">tóu</span>) dapat muncul dalam ungkapan seperti <span class=\"hz\">头一回</span> untuk pertama kalinya, <span class=\"hz\">大</span> (<span class=\"py\">dà</span>) dapat menandai anak pertama dalam urutan saudara seperti <span class=\"hz\">大儿子</span>, sedangkan <span class=\"hz\">幺</span> (<span class=\"py\">yāo</span>) dapat digunakan untuk anak bungsu."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menerapkan <span class=\"hz\">第</span> secara mekanis pada semua penomoran. Dalam banyak konteks seperti <span class=\"hz\">二楼</span>, <span class=\"hz\">三班</span>, dan <span class=\"hz\">五号</span>, bentuk tanpa <span class=\"hz\">第</span> adalah bentuk yang digunakan."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Angka urut Mandarin memiliki dua mekanisme yang perlu dipisahkan: urutan gramatikal dengan <span class=\"hz\">第</span> dan label atau penomoran praktis tanpa <span class=\"hz\">第</span>. <span class=\"hz\">第一</span> berarti pertama sebagai urutan; <span class=\"hz\">二楼</span> berarti lantai dua sebagai label lokasi. Demikian juga <span class=\"hz\">三班</span> adalah kelas tiga dan <span class=\"hz\">五号</span> dapat berarti nomor lima. Dalam nama edisi, bab, lomba, atau peringkat, <span class=\"hz\">第</span> biasanya menunjukkan urutan. Beberapa bentuk leksikal seperti <span class=\"hz\">头一回</span>, <span class=\"hz\">大儿子</span>, dan <span class=\"hz\">幺儿</span> berasal dari kebiasaan bahasa dan hubungan keluarga, bukan rumus angka urut universal."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Fungsi",
+            "Pola",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "Urutan umum",
+              "第 + angka",
+              "<span class=\"hz\">第三次</span>",
+              "ketiga kalinya"
+            ],
+            [
+              "Peringkat",
+              "第 + angka + 名/位",
+              "<span class=\"hz\">第二名</span>",
+              "peringkat kedua"
+            ],
+            [
+              "Lantai",
+              "angka + 楼",
+              "<span class=\"hz\">八楼</span>",
+              "lantai delapan"
+            ],
+            [
+              "Nomor",
+              "angka + 号",
+              "<span class=\"hz\">五号</span>",
+              "nomor lima"
+            ],
+            [
+              "Kelas",
+              "angka + 班",
+              "<span class=\"hz\">三班</span>",
+              "kelas tiga"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我是第一个到的。",
+              "pinyin": "wǒ shì dì yī gè dào de",
+              "arti": "Saya orang pertama yang datang.",
+              "catatan": "第 menandai urutan."
+            },
+            {
+              "hanzi": "这是第二次。",
+              "pinyin": "zhè shì dì èr cì",
+              "arti": "Ini kedua kalinya.",
+              "catatan": "Angka urut + kata bantu frekuensi."
+            },
+            {
+              "hanzi": "他住在六楼。",
+              "pinyin": "tā zhù zài liù lóu",
+              "arti": "Dia tinggal di lantai enam.",
+              "catatan": "Tidak memakai 第."
+            },
+            {
+              "hanzi": "我们在三号房间。",
+              "pinyin": "wǒmen zài sān hào fángjiān",
+              "arti": "Kami di kamar nomor tiga.",
+              "catatan": "号 sebagai label."
+            },
+            {
+              "hanzi": "这是全国第一。",
+              "pinyin": "zhè shì quánguó dì yī",
+              "arti": "Ini nomor satu secara nasional.",
+              "catatan": "Urutan/peringkat."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menambahkan <span class=\"hz\">第</span> secara mekanis pada semua angka yang bermakna nomor. <span class=\"hz\">第六楼</span> bukan pola netral untuk lantai enam; <span class=\"hz\">六楼</span> adalah bentuk biasa. Sebaliknya, menghilangkan <span class=\"hz\">第</span> dari <span class=\"hz\">第一次</span> dapat mengubah struktur menjadi tidak natural."
+        }
+      ]
+    },
+    {
+      "judul": "8. Pecahan, Desimal, Persentase, dan Operasi Matematika",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Bahasa Mandarin memiliki pola yang sangat konsisten untuk menyebut pecahan, desimal, persentase, dan operasi matematika. Pola ini perlu dihafalkan sebagai struktur, bukan diterjemahkan kata demi kata dari bahasa Indonesia."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Jenis",
+            "Pola",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "Pecahan",
+              "Penyebut + <span class=\"hz\">分之</span> + pembilang",
+              "<span class=\"hz\">二分之一</span>",
+              "1/2"
+            ],
+            [
+              "Desimal",
+              "Angka utuh + <span class=\"hz\">点</span> + digit desimal",
+              "<span class=\"hz\">三点一四</span>",
+              "3,14"
+            ],
+            [
+              "Persentase",
+              "<span class=\"hz\">百分之</span> + angka",
+              "<span class=\"hz\">百分之五十</span>",
+              "50%"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "二分之一",
+              "pinyin": "èr fēn zhī yī",
+              "arti": "1/2",
+              "catatan": "Penyebut dua disebut lebih dahulu, kemudian pembilang satu."
+            },
+            {
+              "hanzi": "四分之三",
+              "pinyin": "sì fēn zhī sān",
+              "arti": "3/4",
+              "catatan": "Penyebut empat berada sebelum 分之."
+            },
+            {
+              "hanzi": "八分之五",
+              "pinyin": "bā fēn zhī wǔ",
+              "arti": "5/8",
+              "catatan": "Pola tetap penyebut + 分之 + pembilang."
+            },
+            {
+              "hanzi": "零点五",
+              "pinyin": "líng diǎn wǔ",
+              "arti": "0,5",
+              "catatan": "点 digunakan untuk titik desimal."
+            },
+            {
+              "hanzi": "三点一四",
+              "pinyin": "sān diǎn yī sì",
+              "arti": "3,14",
+              "catatan": "Digit setelah 点 dibaca satu per satu."
+            },
+            {
+              "hanzi": "百分之五十",
+              "pinyin": "bǎi fēn zhī wǔ shí",
+              "arti": "50%",
+              "catatan": "Persentase dimulai dengan 百分之."
+            },
+            {
+              "hanzi": "百分之零点五",
+              "pinyin": "bǎi fēn zhī líng diǎn wǔ",
+              "arti": "0,5%",
+              "catatan": "Angka setelah 百分之 dapat berupa desimal."
+            },
+            {
+              "hanzi": "八乘以七等于五十六",
+              "pinyin": "bā chéng yǐ qī děngyú wǔshíliù",
+              "arti": "8 × 7 = 56",
+              "catatan": "Contoh operasi perkalian."
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Operasi",
+            "Hanzi",
+            "Pinyin"
+          ],
+          "baris": [
+            [
+              "Tambah",
+              "<span class=\"hz\">加</span>",
+              "<span class=\"py\">jiā</span>"
+            ],
+            [
+              "Kurang",
+              "<span class=\"hz\">减</span>",
+              "<span class=\"py\">jiǎn</span>"
+            ],
+            [
+              "Kali",
+              "<span class=\"hz\">乘</span> / <span class=\"hz\">乘以</span>",
+              "<span class=\"py\">chéng</span> / <span class=\"py\">chéng yǐ</span>"
+            ],
+            [
+              "Bagi",
+              "<span class=\"hz\">除</span> / <span class=\"hz\">除以</span>",
+              "<span class=\"py\">chú</span> / <span class=\"py\">chú yǐ</span>"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Pecahan, desimal, persentase, dan operasi matematika menunjukkan bahwa Mandarin memiliki cara pengurutan informasi yang berbeda dari bahasa Indonesia. Pecahan menaruh penyebut lebih dahulu lalu pembilang melalui <span class=\"hz\">分之</span>. Desimal menggunakan <span class=\"hz\">点</span>, dan setiap digit setelah titik dibaca satu per satu. Persentase memakai <span class=\"hz\">百分之</span> sebelum angka. Perhatikan bahwa 50% bukan struktur yang dimulai dari angka 50 lalu kata persen di belakang seperti bahasa Indonesia; Mandarin membangun bentuk <span class=\"hz\">百分之五十</span>. Dalam laporan dan berita, bentuk persen ini sangat umum."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Konsep",
+            "Rumus",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "Pecahan",
+              "penyebut + 分之 + pembilang",
+              "<span class=\"hz\">三分之二</span>",
+              "2/3"
+            ],
+            [
+              "Desimal",
+              "bilangan + 点 + digit",
+              "<span class=\"hz\">十二点零五</span>",
+              "12,05"
+            ],
+            [
+              "Persentase",
+              "百分之 + angka",
+              "<span class=\"hz\">百分之二十</span>",
+              "20%"
+            ],
+            [
+              "Tambah",
+              "A + 加 + B",
+              "<span class=\"hz\">三加二等于五</span>",
+              "3 + 2 = 5"
+            ],
+            [
+              "Kurang",
+              "A + 减 + B",
+              "<span class=\"hz\">五减二等于三</span>",
+              "5 − 2 = 3"
+            ],
+            [
+              "Kali",
+              "A + 乘/乘以 + B",
+              "<span class=\"hz\">六乘以七</span>",
+              "6 × 7"
+            ],
+            [
+              "Bagi",
+              "A + 除/除以 + B",
+              "<span class=\"hz\">八除以二</span>",
+              "8 ÷ 2"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "三分之二",
+              "pinyin": "sān fēn zhī èr",
+              "arti": "2/3",
+              "catatan": "Penyebut tiga lebih dahulu."
+            },
+            {
+              "hanzi": "百分之七十五",
+              "pinyin": "bǎi fēn zhī qī shí wǔ",
+              "arti": "75%",
+              "catatan": "Struktur persen."
+            },
+            {
+              "hanzi": "百分之零点五",
+              "pinyin": "bǎi fēn zhī líng diǎn wǔ",
+              "arti": "0,5%",
+              "catatan": "Persentase dapat mengandung desimal."
+            },
+            {
+              "hanzi": "十二点零五",
+              "pinyin": "shí èr diǎn líng wǔ",
+              "arti": "12,05",
+              "catatan": "Nol setelah titik dibaca."
+            },
+            {
+              "hanzi": "九减四等于五",
+              "pinyin": "jiǔ jiǎn sì děngyú wǔ",
+              "arti": "9 − 4 = 5",
+              "catatan": "Operasi pengurangan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan terbesar adalah menerjemahkan urutan pecahan dan persen dari bahasa Indonesia secara kata demi kata. <span class=\"hz\">四分之一</span> berarti satu per empat, bukan empat per satu. Untuk desimal, <span class=\"hz\">三点一四</span> dibaca digit demi digit setelah <span class=\"hz\">点</span>, bukan sebagai angka 14."
+        }
+      ]
+    },
+    {
+      "judul": "9. Tanggal dan Waktu",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Ini adalah aplikasi langsung dari pilar ini, bukan pilar terpisah."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "二零二六年",
+              "pinyin": "èr líng èr liù nián",
+              "arti": "tahun 2026",
+              "catatan": "Tahun dibaca digit demi digit."
+            },
+            {
+              "hanzi": "一九九八年",
+              "pinyin": "yī jiǔ jiǔ bā nián",
+              "arti": "tahun 1998",
+              "catatan": "Setiap digit tahun dibaca terpisah."
+            },
+            {
+              "hanzi": "一月",
+              "pinyin": "yī yuè",
+              "arti": "Januari",
+              "catatan": "Angka 1 + 月."
+            },
+            {
+              "hanzi": "二十九日",
+              "pinyin": "èr shí jiǔ rì",
+              "arti": "tanggal 29",
+              "catatan": "Bentuk lebih formal/tertulis."
+            },
+            {
+              "hanzi": "二十九号",
+              "pinyin": "èr shí jiǔ hào",
+              "arti": "tanggal 29",
+              "catatan": "Bentuk lisan yang sangat umum."
+            },
+            {
+              "hanzi": "八点",
+              "pinyin": "bā diǎn",
+              "arti": "08:00",
+              "catatan": "Jam tepat."
+            },
+            {
+              "hanzi": "八点零五分",
+              "pinyin": "bā diǎn líng wǔ fēn",
+              "arti": "08:05",
+              "catatan": "Nol diperlukan sebelum menit satu digit."
+            },
+            {
+              "hanzi": "八点四十五分",
+              "pinyin": "bā diǎn sìshíwǔ fēn",
+              "arti": "08:45",
+              "catatan": "Bisa juga dinyatakan sebagai 差一刻九点."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Tanggal dan waktu memperlihatkan bagaimana angka dipasangkan dengan kata satuan waktu. Tahun biasanya dibaca digit demi digit lalu diikuti <span class=\"hz\">年</span>; bulan memakai angka + <span class=\"hz\">月</span>; tanggal memakai angka + <span class=\"hz\">日</span> dalam konteks lebih formal atau tertulis dan <span class=\"hz\">号</span> sangat umum dalam percakapan. Untuk jam, <span class=\"hz\">点</span> menandai jam, <span class=\"hz\">分</span> menandai menit, dan <span class=\"hz\">半</span> berarti 30 menit. Bentuk seperti <span class=\"hz\">差一刻九点</span> memakai perspektif waktu relatif, yaitu kurang seperempat menuju pukul sembilan. Dalam jadwal resmi, pengucapan lengkap dengan <span class=\"hz\">分</span> cenderung lebih jelas, sedangkan percakapan dapat memendekkannya."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Konteks",
+            "Pola",
+            "Contoh",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "Tahun",
+              "digit + 年",
+              "<span class=\"hz\">二零二六年</span>",
+              "2026"
+            ],
+            [
+              "Bulan",
+              "angka + 月",
+              "<span class=\"hz\">八月</span>",
+              "Agustus"
+            ],
+            [
+              "Tanggal formal",
+              "angka + 日",
+              "<span class=\"hz\">八月十六日</span>",
+              "16 Agustus"
+            ],
+            [
+              "Tanggal lisan",
+              "angka + 号",
+              "<span class=\"hz\">八月十六号</span>",
+              "16 Agustus"
+            ],
+            [
+              "Jam tepat",
+              "jam + 点",
+              "<span class=\"hz\">八点</span>",
+              "08:00"
+            ],
+            [
+              "Menit",
+              "jam + 点 + menit + 分",
+              "<span class=\"hz\">八点零五分</span>",
+              "08:05"
+            ],
+            [
+              "Setengah",
+              "jam + 点半",
+              "<span class=\"hz\">八点半</span>",
+              "08:30"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "今天是八月十六号。",
+              "pinyin": "jīntiān shì bā yuè shíliù hào",
+              "arti": "Hari ini 16 Agustus.",
+              "catatan": "Bentuk lisan yang natural."
+            },
+            {
+              "hanzi": "会议在上午九点开始。",
+              "pinyin": "huìyì zài shàngwǔ jiǔ diǎn kāishǐ",
+              "arti": "Rapat mulai pukul sembilan pagi.",
+              "catatan": "上午 memberi konteks pagi."
+            },
+            {
+              "hanzi": "现在是八点零五分。",
+              "pinyin": "xiànzài shì bā diǎn líng wǔ fēn",
+              "arti": "Sekarang pukul 08:05.",
+              "catatan": "Nol pada menit satu digit dibaca."
+            },
+            {
+              "hanzi": "火车八点半出发。",
+              "pinyin": "huǒchē bā diǎn bàn chūfā",
+              "arti": "Kereta berangkat pukul 08:30.",
+              "catatan": "半 = 30 menit."
+            },
+            {
+              "hanzi": "差一刻九点。",
+              "pinyin": "chà yí kè jiǔ diǎn",
+              "arti": "Kurang seperempat menuju pukul sembilan.",
+              "catatan": "Bentuk relatif."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menyebut tahun sebagai bilangan utuh biasa. 2026 bukan <span class=\"hz\">两千零二十六年</span> dalam pembacaan standar tahun, melainkan <span class=\"hz\">二零二六年</span>. Untuk tanggal, <span class=\"hz\">日</span> lebih formal/tertulis, sedangkan <span class=\"hz\">号</span> sangat lazim dalam percakapan."
+        }
+      ]
+    },
+    {
+      "judul": "10. Angka dalam Uang dan Harga",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam harga, angka hampir selalu hadir bersama satuan uang atau konteks transaksi. Untuk renminbi (mata uang Tiongkok), satuan formalnya <span class=\"hz\">元</span>, percakapan umum sering memakai <span class=\"hz\">块</span>, dan pecahan uang dapat menggunakan <span class=\"hz\">角</span> atau <span class=\"hz\">毛</span> untuk sepersepuluh yuan serta <span class=\"hz\">分</span> untuk seperseratus yuan. Ketika konteks sudah jelas, penutur sering menghilangkan satuan uang. Karena itu jawaban seperti <span class=\"hz\">一百五</span> dapat dipahami sebagai 150 yuan dalam konteks harga, tetapi jangan menganggap pola ini universal untuk semua angka tanpa konteks. Untuk harga yang mengandung nol, aturan bilangan biasa tetap berlaku: 10.500 adalah <span class=\"hz\">一万零五百</span>, sedangkan 10.000 adalah <span class=\"hz\">一万</span>."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk",
+            "Fungsi",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "元",
+              "satuan formal yuan",
+              "<span class=\"hz\">一百元</span>",
+              "100 yuan"
+            ],
+            [
+              "块",
+              "satuan lisan umum",
+              "<span class=\"hz\">一百块</span>",
+              "100 yuan"
+            ],
+            [
+              "角/毛",
+              "1/10 yuan",
+              "<span class=\"hz\">五角</span> / <span class=\"hz\">五毛</span>",
+              "0,5 yuan"
+            ],
+            [
+              "分",
+              "1/100 yuan",
+              "<span class=\"hz\">五分</span>",
+              "0,05 yuan"
+            ],
+            [
+              "harga ringkas",
+              "angka + konteks",
+              "<span class=\"hz\">一百五</span>",
+              "150, jika konteks harga jelas"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "这个多少钱？",
+              "pinyin": "zhège duōshao qián",
+              "arti": "Ini berapa harganya?",
+              "catatan": "多少 untuk harga yang nilainya tidak diketahui."
+            },
+            {
+              "hanzi": "这个一百块。",
+              "pinyin": "zhège yì bǎi kuài",
+              "arti": "Ini 100 yuan.",
+              "catatan": "块 bersifat lisan."
+            },
+            {
+              "hanzi": "一万零五百块。",
+              "pinyin": "yí wàn líng wǔ bǎi kuài",
+              "arti": "10.500 yuan.",
+              "catatan": "零 diperlukan di tengah."
+            },
+            {
+              "hanzi": "两百元。",
+              "pinyin": "liǎng bǎi yuán",
+              "arti": "200 yuan.",
+              "catatan": "两 sangat lazim untuk jumlah."
+            },
+            {
+              "hanzi": "一元五角。",
+              "pinyin": "yì yuán wǔ jiǎo",
+              "arti": "1,5 yuan.",
+              "catatan": "Bentuk dengan satuan pecahan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap <span class=\"hz\">块</span> adalah padanan formal untuk semua mata uang. Dalam konteks bahasa Mandarin, <span class=\"hz\">块</span> adalah satuan lisan yang lazim untuk yuan. Jika menyebut rupiah, dolar, atau mata uang lain, gunakan nama mata uang yang sesuai dan tetap terapkan pola angka Mandarin."
+        }
+      ]
+    },
+    {
+      "judul": "11. Angka Perkiraan dan Pembulatan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Angka + 来 (lái) / 多 (duō): Untuk menyatakan kira-kira."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "<span class=\"hz\">十来个</span> (<span class=\"py\">shí lái gè</span>) = sekitar 10 buah.",
+            "<span class=\"hz\">一百多人</span> (<span class=\"py\">yī bǎi duō rén</span>) = lebih dari 100 orang.",
+            "Untuk puluhan, <span class=\"hz\">三十多</span> berarti 30-an.",
+            "Untuk ratusan, <span class=\"hz\">三百多</span> berarti 300-an.",
+            "Untuk ribuan, <span class=\"hz\">三千多</span> berarti lebih dari 3.000 atau kisaran 3.000-an."
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "十来个",
+              "pinyin": "shí lái gè",
+              "arti": "sekitar 10 buah",
+              "catatan": "Menunjukkan perkiraan."
+            },
+            {
+              "hanzi": "一百多人",
+              "pinyin": "yī bǎi duō rén",
+              "arti": "lebih dari 100 orang",
+              "catatan": "Lebih dari angka dasar."
+            },
+            {
+              "hanzi": "三十多岁",
+              "pinyin": "sān shí duō suì",
+              "arti": "berusia 30-an",
+              "catatan": "Kisaran usia."
+            },
+            {
+              "hanzi": "二十左右",
+              "pinyin": "èr shí zuǒyòu",
+              "arti": "sekitar 20",
+              "catatan": "左右 memberi perkiraan."
+            },
+            {
+              "hanzi": "七八个",
+              "pinyin": "qī bā gè",
+              "arti": "sekitar tujuh atau delapan",
+              "catatan": "Pasangan angka berdekatan."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Angka perkiraan atau <span class=\"hz\">概数</span> memungkinkan penutur menyatakan kuantitas tanpa mengklaim ketepatan. Beberapa pola memiliki nuansa berbeda. <span class=\"hz\">来</span> setelah angka tertentu menunjukkan kisaran sekitar angka itu, <span class=\"hz\">多</span> setelah unit tertentu menekankan lebih dari angka dasar, sedangkan <span class=\"hz\">左右</span> dan <span class=\"hz\">上下</span> menunjukkan sekitar atau kurang lebih. Pasangan angka seperti <span class=\"hz\">七八个</span> memberikan kisaran berbasis dua angka berdekatan. Pemilihan bentuk bergantung pada apakah penutur ingin menyatakan kisaran, sedikit lebih dari angka, atau sekadar perkiraan umum."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Nuansa",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "十来个",
+              "sekitar sepuluh",
+              "<span class=\"hz\">十来个人</span>",
+              "sekitar sepuluh orang"
+            ],
+            [
+              "三十多",
+              "lebih dari 30, kisaran 30-an",
+              "<span class=\"hz\">三十多岁</span>",
+              "berusia 30-an"
+            ],
+            [
+              "一百多",
+              "lebih dari 100",
+              "<span class=\"hz\">一百多人</span>",
+              "lebih dari 100 orang"
+            ],
+            [
+              "二十左右",
+              "sekitar 20",
+              "<span class=\"hz\">二十左右</span>",
+              "sekitar 20"
+            ],
+            [
+              "七八个",
+              "sekitar tujuh atau delapan",
+              "<span class=\"hz\">七八个问题</span>",
+              "sekitar 7–8 pertanyaan"
+            ],
+            [
+              "十几",
+              "belasan",
+              "<span class=\"hz\">十几个人</span>",
+              "belasan orang"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "来了十来个人。",
+              "pinyin": "lái le shí lái gè rén",
+              "arti": "Datang sekitar sepuluh orang.",
+              "catatan": "Kisaran sekitar sepuluh."
+            },
+            {
+              "hanzi": "他三十多岁。",
+              "pinyin": "tā sān shí duō suì",
+              "arti": "Dia berusia tiga puluhan.",
+              "catatan": "Lebih dari 30."
+            },
+            {
+              "hanzi": "这里有一百多家店。",
+              "pinyin": "zhèlǐ yǒu yì bǎi duō jiā diàn",
+              "arti": "Di sini ada lebih dari seratus toko.",
+              "catatan": "多 menandai lebih dari angka dasar."
+            },
+            {
+              "hanzi": "大概二十个人左右。",
+              "pinyin": "dàgài èr shí gè rén zuǒyòu",
+              "arti": "Kira-kira sekitar dua puluh orang.",
+              "catatan": "左右 menandai perkiraan; 大概 juga mungkin dipakai."
+            },
+            {
+              "hanzi": "我等了七八分钟。",
+              "pinyin": "wǒ děng le qī bā fēnzhōng",
+              "arti": "Saya menunggu sekitar tujuh atau delapan menit.",
+              "catatan": "Pasangan angka."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menyamakan <span class=\"hz\">多</span> dengan <span class=\"hz\">左右</span>. <span class=\"hz\">三十多</span> secara dasar berarti lebih dari 30 dan berada di kisaran 30-an, sedangkan <span class=\"hz\">三十左右</span> berarti sekitar 30 dan dapat berada sedikit di bawah atau di atas. Posisi <span class=\"hz\">多</span> juga harus mengikuti pola unit yang tepat."
+        }
+      ]
+    },
+    {
+      "judul": "12. Setengah: 半 (Bàn)",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam penjelasan sebelumnya, saya hanya menyebut <span class=\"hz\">八点半</span> untuk waktu. Padahal 半 memiliki aturan posisi yang rigid untuk satuan hitung: 1,5 jam dapat dinyatakan <span class=\"hz\">一个半小时</span>, 1,5 kilogram dapat dinyatakan dengan pola seperti <span class=\"hz\">一公斤半</span>, sedangkan setengah benda dapat memakai <span class=\"hz\">半</span> sebelum kata bantu, seperti <span class=\"hz\">半杯水</span>."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "八点半",
+              "pinyin": "bā diǎn bàn",
+              "arti": "08:30",
+              "catatan": "半 berarti 30 menit dalam konteks jam."
+            },
+            {
+              "hanzi": "一个半小时",
+              "pinyin": "yí gè bàn xiǎoshí",
+              "arti": "1,5 jam",
+              "catatan": "Satu + kata bantu + 半 + jam."
+            },
+            {
+              "hanzi": "一斤半",
+              "pinyin": "yì jīn bàn",
+              "arti": "1,5 jin",
+              "catatan": "半 berada setelah satuan."
+            },
+            {
+              "hanzi": "半杯水",
+              "pinyin": "bàn bēi shuǐ",
+              "arti": "setengah gelas air",
+              "catatan": "半 + kata bantu + benda."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">半</span> berarti setengah dan mempunyai perilaku sintaksis yang khas. Dalam waktu, <span class=\"hz\">八点半</span> berarti 08:30. Dalam kuantitas, bentuk seperti <span class=\"hz\">一个半小时</span> berarti satu setengah jam; <span class=\"hz\">一斤半</span> berarti satu setengah jin. Sebelum kata bantu, <span class=\"hz\">半</span> dapat langsung mendahului kata bantu, seperti <span class=\"hz\">半杯水</span>. Perbedaan ini penting karena bahasa Indonesia terbiasa menggunakan angka desimal, sedangkan Mandarin sehari-hari sangat sering menggunakan <span class=\"hz\">半</span> ketika konsep setengah terasa alami. Namun desimal tetap sah jika konteksnya ilmiah, teknis, atau membutuhkan presisi."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Makna",
+            "Pola",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "Waktu 30 menit",
+              "jam + 点半",
+              "<span class=\"hz\">九点半</span>",
+              "09:30"
+            ],
+            [
+              "1,5 jam",
+              "一 + 个 + 半 + 小时",
+              "<span class=\"hz\">一个半小时</span>",
+              "1,5 jam"
+            ],
+            [
+              "1,5 kg",
+              "satuan + 半",
+              "<span class=\"hz\">一公斤半</span>",
+              "1,5 kg"
+            ],
+            [
+              "setengah benda",
+              "半 + kata bantu + benda",
+              "<span class=\"hz\">半杯水</span>",
+              "setengah gelas air"
+            ],
+            [
+              "setengah tahun",
+              "半 + 年",
+              "<span class=\"hz\">半年</span>",
+              "setengah tahun"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我睡了一个半小时。",
+              "pinyin": "wǒ shuì le yí gè bàn xiǎoshí",
+              "arti": "Saya tidur selama satu setengah jam.",
+              "catatan": "半 berada setelah 个 dalam pola ini."
+            },
+            {
+              "hanzi": "给我半杯水。",
+              "pinyin": "gěi wǒ bàn bēi shuǐ",
+              "arti": "Beri saya setengah gelas air.",
+              "catatan": "半 + kata bantu + benda."
+            },
+            {
+              "hanzi": "我们九点半见。",
+              "pinyin": "wǒmen jiǔ diǎn bàn jiàn",
+              "arti": "Kita bertemu pukul 09:30.",
+              "catatan": "Waktu memakai 点半."
+            },
+            {
+              "hanzi": "他吃了半个苹果。",
+              "pinyin": "tā chī le bàn gè píngguǒ",
+              "arti": "Dia makan setengah apel.",
+              "catatan": "半 + kata bantu 个."
+            },
+            {
+              "hanzi": "这项工作花了半个月。",
+              "pinyin": "zhè xiàng gōngzuò huā le bàn gè yuè",
+              "arti": "Pekerjaan ini memakan waktu setengah bulan.",
+              "catatan": "Kuantitas waktu."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan membuat aturan bahwa semua 1,5 harus selalu menggunakan <span class=\"hz\">半</span>. Dalam laporan ilmiah atau pengukuran presisi, <span class=\"hz\">一点五</span> atau <span class=\"hz\">1.5</span> dapat lebih sesuai. Sebaliknya, dalam percakapan untuk durasi umum, <span class=\"hz\">一个半小时</span> jauh lebih natural daripada bentuk desimal yang kaku."
+        }
+      ]
+    },
+    {
+      "judul": "13. Menanyakan Jumlah: 几 vs 多少",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">几</span> (Jǐ): Digunakan jika jawabannya diperkirakan DI BAWAH 10 (biasanya 1-9). <span class=\"hz\">多少</span> (Duōshao): Digunakan jika jawabannya BISA DI ATAS 10 atau tidak diketahui."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "几个人？",
+              "pinyin": "jǐ gè rén?",
+              "arti": "Berapa orang?",
+              "catatan": "Biasanya mengantisipasi jumlah kecil."
+            },
+            {
+              "hanzi": "多少钱？",
+              "pinyin": "duōshao qián?",
+              "arti": "Berapa harganya?",
+              "catatan": "Harga bisa besar."
+            },
+            {
+              "hanzi": "有多少学生？",
+              "pinyin": "yǒu duōshao xuésheng?",
+              "arti": "Ada berapa murid?",
+              "catatan": "Jumlah tidak dibatasi kecil."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">几</span> dan <span class=\"hz\">多少</span> sama-sama berarti berapa, tetapi tidak identik. <span class=\"hz\">几</span> biasanya mengarah pada jumlah kecil yang dapat dihitung dan sering berada di bawah sepuluh; <span class=\"hz\">多少</span> bersifat lebih terbuka dan dapat digunakan untuk jumlah besar, harga, umur, durasi, maupun kuantitas yang tidak dibatasi. <span class=\"hz\">几</span> biasanya muncul bersama kata bantu ketika menanyakan benda atau orang, sedangkan <span class=\"hz\">多少</span> juga dapat berdiri dalam konstruksi seperti <span class=\"hz\">多少钱</span>. Dalam penggunaan nyata, batas angka bukan hukum matematis mutlak; konteks penutur dan ekspektasi jumlah ikut menentukan pilihan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata tanya",
+            "Kecenderungan",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "几",
+              "jumlah kecil/terbatas",
+              "<span class=\"hz\">几个人</span>",
+              "berapa orang"
+            ],
+            [
+              "多少",
+              "jumlah terbuka",
+              "<span class=\"hz\">多少人</span>",
+              "berapa orang"
+            ],
+            [
+              "几 + kata bantu",
+              "struktur lazim",
+              "<span class=\"hz\">几本书</span>",
+              "berapa buku"
+            ],
+            [
+              "多少 + kata benda",
+              "dapat langsung pada beberapa kata",
+              "<span class=\"hz\">多少钱</span>",
+              "berapa harga"
+            ],
+            [
+              "多少 + kata bantu",
+              "jumlah tak diketahui",
+              "<span class=\"hz\">多少本书</span>",
+              "berapa banyak buku"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你有几个兄弟姐妹？",
+              "pinyin": "nǐ yǒu jǐ gè xiōngdì jiěmèi",
+              "arti": "Kamu punya berapa saudara kandung?",
+              "catatan": "Jumlah kecil menjadi asumsi."
+            },
+            {
+              "hanzi": "你家有几口人？",
+              "pinyin": "nǐ jiā yǒu jǐ kǒu rén",
+              "arti": "Keluargamu ada berapa orang?",
+              "catatan": "几 + kata bantu 口."
+            },
+            {
+              "hanzi": "你买了多少本书？",
+              "pinyin": "nǐ mǎi le duōshao běn shū",
+              "arti": "Kamu membeli berapa buku?",
+              "catatan": "Jumlah dapat besar."
+            },
+            {
+              "hanzi": "这个多少钱？",
+              "pinyin": "zhège duōshao qián",
+              "arti": "Ini berapa harganya?",
+              "catatan": "多少 dipakai untuk harga."
+            },
+            {
+              "hanzi": "你等了多少时间？",
+              "pinyin": "nǐ děng le duōshao shíjiān",
+              "arti": "Kamu menunggu berapa lama?",
+              "catatan": "多少 dapat menanyakan durasi/kuantitas."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menghafal aturan palsu bahwa 几 selalu berarti tepat 1–9 dan 多少 selalu berarti 10 ke atas. Batasnya berbasis ekspektasi dan konteks. Misalnya <span class=\"hz\">几百</span> berarti beberapa ratus, jadi <span class=\"hz\">几</span> dapat muncul pada bilangan yang secara numerik jauh di atas sepuluh."
+        }
+      ]
+    },
+    {
+      "judul": "14. Angka dalam Konteks Budaya dan Simbolisme",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Ini bukan sekadar takhayul, tetapi bagian dari perilaku sosial sehari-hari. Angka 4 (<span class=\"hz\">四</span>) dihindari karena bunyinya mirip <span class=\"hz\">死</span> (mati), angka 8 (<span class=\"hz\">八</span>) diasosiasikan dengan kemakmuran melalui <span class=\"hz\">发</span>, angka 6 (<span class=\"hz\">六</span>) dengan kelancaran, dan angka 9 (<span class=\"hz\">九</span>) dengan keabadian melalui <span class=\"hz\">久</span>. Namun tingkat sensitivitas berbeda menurut individu, daerah, generasi, dan konteks."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "六六大顺",
+              "pinyin": "liù liù dà shùn",
+              "arti": "semoga semuanya sangat lancar",
+              "catatan": "Idiom keberuntungan dengan 六."
+            },
+            {
+              "hanzi": "八八",
+              "pinyin": "bā bā",
+              "arti": "88",
+              "catatan": "Angka 8 sering dipilih untuk asosiasi kemakmuran."
+            },
+            {
+              "hanzi": "九九",
+              "pinyin": "jiǔ jiǔ",
+              "arti": "99",
+              "catatan": "Dapat diasosiasikan dengan kelanggengan melalui bunyi 久."
+            },
+            {
+              "hanzi": "四楼",
+              "pinyin": "sì lóu",
+              "arti": "lantai empat",
+              "catatan": "Secara bahasa biasa berarti lantai empat, tetapi sebagian tempat dapat menghindarinya."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Makna budaya angka tidak bersifat seragam untuk semua penutur, tetapi beberapa asosiasi sangat kuat dalam masyarakat berbahasa Mandarin. <span class=\"hz\">四</span> sering dihindari karena kemiripan bunyi dengan <span class=\"hz\">死</span>, sedangkan <span class=\"hz\">八</span> dianggap menguntungkan karena asosiasi bunyi dengan <span class=\"hz\">发</span>. <span class=\"hz\">六</span> dapat diasosiasikan dengan kelancaran, dan <span class=\"hz\">九</span> dengan kelanggengan melalui <span class=\"hz\">久</span>. Angka juga masuk ke idiom, ucapan selamat, nama merek, nomor telepon, harga, dan pemilihan tanggal. Namun hubungan homofon (kata berbeda dengan bunyi sama atau mirip) bukan hukum bahasa; makna aktual selalu bergantung pada situasi."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Angka",
+            "Asosiasi umum",
+            "Contoh budaya/bahasa",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "4 <span class=\"hz\">四</span>",
+              "tabu/kematian",
+              "menghindari kombinasi tertentu",
+              "Tidak semua orang atau semua konteks menghindarinya."
+            ],
+            [
+              "6 <span class=\"hz\">六</span>",
+              "lancar",
+              "<span class=\"hz\">六六大顺</span>",
+              "ungkapan keberuntungan"
+            ],
+            [
+              "8 <span class=\"hz\">八</span>",
+              "makmur",
+              "<span class=\"hz\">发财</span>",
+              "asosiasi bunyi dengan 发"
+            ],
+            [
+              "9 <span class=\"hz\">九</span>",
+              "lama/kekal",
+              "<span class=\"hz\">长长久久</span>",
+              "terutama konteks hubungan/harapan"
+            ],
+            [
+              "13",
+              "umumnya bukan tabu utama Tiongkok",
+              "berbeda dari tradisi Barat",
+              "Konteks lokal tetap penting"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "祝你六六大顺。",
+              "pinyin": "zhù nǐ liù liù dà shùn",
+              "arti": "Semoga semuanya lancar.",
+              "catatan": "六 muncul dalam ungkapan keberuntungan."
+            },
+            {
+              "hanzi": "恭喜发财。",
+              "pinyin": "gōngxǐ fācái",
+              "arti": "Semoga makmur dan kaya.",
+              "catatan": "发 terkait dengan kemakmuran; bukan berarti angka 8 secara literal."
+            },
+            {
+              "hanzi": "长长久久。",
+              "pinyin": "cháng cháng jiǔ jiǔ",
+              "arti": "Semoga langgeng untuk waktu yang panjang.",
+              "catatan": "九/久 menjadi permainan bunyi."
+            },
+            {
+              "hanzi": "四楼",
+              "pinyin": "sì lóu",
+              "arti": "lantai empat",
+              "catatan": "Secara linguistik berarti lantai empat; secara budaya sebagian tempat dapat menghindarinya."
+            },
+            {
+              "hanzi": "这个号码很吉利。",
+              "pinyin": "zhège hàomǎ hěn jílì",
+              "arti": "Nomor ini dianggap sangat membawa keberuntungan.",
+              "catatan": "吉利 = membawa keberuntungan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menggeneralisasi bahwa semua orang Tionghoa pasti percaya takhayul angka. Tingkat sensitivitas berbeda menurut keluarga, daerah, generasi, dan konteks. Jelaskan asosiasi budaya sebagai kecenderungan sosial, bukan aturan tata bahasa."
+        }
+      ]
+    },
+    {
+      "judul": "15. Angka dengan Gerakan Tangan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Di Tiongkok, orang sering menggunakan satu tangan untuk menunjukkan angka 1-10, yang sangat berguna di pasar atau saat berkomunikasi jarak jauh."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "1-5: Menunjukkan jumlah jari yang sesuai.",
+            "6: Ibu jari dan kelingking terbuka.",
+            "7 (di Utara): Ibu jari, telunjuk, dan jari tengah menempel di ujung. (di Selatan): Ibu jari dan telunjuk tegak lurus membentuk angka 7.",
+            "8: Ibu jari dan telunjuk terbuka membentuk huruf \"L\".",
+            "9: Jari telunjuk ditekuk membentuk kait, atau ibu jari dan telunjuk melengkung.",
+            "10: Kepalan tangan."
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Gerakan tangan untuk angka adalah sistem komunikasi visual yang sangat berguna karena satu tangan dapat mewakili angka 1–10. Bentuk 1–5 relatif mudah karena menggunakan jumlah jari yang intuitif. Angka 6–10 menggunakan bentuk khusus dan dapat berbeda menurut daerah. Karena itu sistem ini sebaiknya dipelajari sebagai pengetahuan budaya dan alat praktis, bukan sebagai standar universal yang harus persis sama di seluruh Tiongkok. Variasi regional paling terkenal muncul pada angka 7, sedangkan 8 biasanya menyerupai bentuk huruf L dengan ibu jari dan telunjuk. Di pasar atau tempat ramai, gerakan tangan dapat membantu ketika suara tidak terdengar jelas."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Angka",
+            "Gerakan umum",
+            "Fungsi praktis",
+            "Catatan regional"
+          ],
+          "baris": [
+            [
+              "1–5",
+              "jumlah jari",
+              "jumlah langsung",
+              "relatif mudah dikenali"
+            ],
+            [
+              "6",
+              "ibu jari + kelingking",
+              "enam",
+              "bentuk umum di banyak wilayah"
+            ],
+            [
+              "7",
+              "bentuk khusus tiga jari/varian",
+              "tujuh",
+              "dapat berbeda Utara–Selatan"
+            ],
+            [
+              "8",
+              "ibu jari + telunjuk membentuk L",
+              "delapan",
+              "sangat dikenal"
+            ],
+            [
+              "9",
+              "telunjuk ditekuk seperti kait",
+              "sembilan",
+              "ada variasi kecil"
+            ],
+            [
+              "10",
+              "kepalan tangan",
+              "sepuluh",
+              "dapat juga memakai dua tangan bila konteks perlu"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "六",
+              "pinyin": "liù",
+              "arti": "6",
+              "catatan": "Dapat ditunjukkan dengan ibu jari dan kelingking."
+            },
+            {
+              "hanzi": "七",
+              "pinyin": "qī",
+              "arti": "7",
+              "catatan": "Pelajari bentuk lokal karena variasi regional ada."
+            },
+            {
+              "hanzi": "八",
+              "pinyin": "bā",
+              "arti": "8",
+              "catatan": "Sering dibentuk seperti L."
+            },
+            {
+              "hanzi": "九",
+              "pinyin": "jiǔ",
+              "arti": "9",
+              "catatan": "Telunjuk dapat ditekuk seperti kait."
+            },
+            {
+              "hanzi": "十",
+              "pinyin": "shí",
+              "arti": "10",
+              "catatan": "Sering ditunjukkan dengan kepalan tangan."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Untuk pembelajar Indonesia, nilai praktis sistem ini sangat besar ketika berbelanja, memesan barang, atau berkomunikasi di tempat bising. Tetapi gerakan tangan tidak menggantikan pengucapan yang jelas dalam situasi resmi. Dalam komunikasi lintas budaya, bila lawan bicara tampak ragu, ulangi angka dengan kata-kata dan bila perlu tulis digitnya. Ini terutama penting untuk angka yang memiliki bentuk tangan mirip atau memiliki variasi daerah."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap satu gambar gerakan tangan sebagai standar absolut seluruh wilayah Tiongkok. Variasi lokal, generasi, dan kebiasaan pribadi dapat memengaruhi bentuk. Untuk angka 7 khususnya, pelajar sebaiknya tidak panik jika melihat bentuk yang berbeda dari yang dipelajari."
+        }
+      ]
+    },
+    {
+      "judul": "16. Angka Formal atau Kapital: 大写 (Dàxiě)",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Ini adalah sistem angka anti-pemalsuan yang digunakan dalam dokumen keuangan, kontrak, dan cek. Angka biasa seperti 一, 二, 三 terlalu mudah diubah, sehingga digunakan karakter yang lebih kompleks."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Angka",
+            "Angka Biasa",
+            "Angka Formal",
+            "Pinyin"
+          ],
+          "baris": [
+            [
+              "0",
+              "零",
+              "零",
+              "líng"
+            ],
+            [
+              "1",
+              "一",
+              "壹",
+              "yī"
+            ],
+            [
+              "2",
+              "二",
+              "贰",
+              "èr"
+            ],
+            [
+              "3",
+              "三",
+              "叁",
+              "sān"
+            ],
+            [
+              "4",
+              "四",
+              "肆",
+              "sì"
+            ],
+            [
+              "5",
+              "五",
+              "伍",
+              "wǔ"
+            ],
+            [
+              "6",
+              "六",
+              "陆",
+              "liù"
+            ],
+            [
+              "7",
+              "七",
+              "柒",
+              "qī"
+            ],
+            [
+              "8",
+              "八",
+              "捌",
+              "bā"
+            ],
+            [
+              "9",
+              "九",
+              "玖",
+              "jiǔ"
+            ],
+            [
+              "10",
+              "十",
+              "拾",
+              "shí"
+            ],
+            [
+              "100",
+              "百",
+              "佰",
+              "bǎi"
+            ],
+            [
+              "1000",
+              "千",
+              "仟",
+              "qiān"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "壹仟贰佰叁拾肆元伍角陆分",
+              "pinyin": "yī qiān èr bǎi sān shí sì yuán wǔ jiǎo liù fēn",
+              "arti": "¥1.234,56",
+              "catatan": "Contoh penulisan jumlah uang secara formal."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">大写</span> dalam konteks angka berarti bentuk angka finansial yang lebih sulit dimanipulasi. Bentuk ini digunakan terutama pada dokumen keuangan, kuitansi, cek, kontrak, atau dokumen resmi tertentu. Prinsipnya adalah mengganti karakter sederhana seperti <span class=\"hz\">一</span> dan <span class=\"hz\">十</span> dengan karakter khusus seperti <span class=\"hz\">壹</span> dan <span class=\"hz\">拾</span>. Sistem ini bukan cara membaca angka sehari-hari; ia terutama merupakan konvensi penulisan. Karena itu pelajar perlu memisahkan dua kemampuan: membaca angka biasa dan mengenali bentuk formal ketika melihat dokumen."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Nilai",
+            "Bentuk biasa",
+            "Bentuk 大写",
+            "Pinyin"
+          ],
+          "baris": [
+            [
+              "0",
+              "零",
+              "零",
+              "líng"
+            ],
+            [
+              "1",
+              "一",
+              "壹",
+              "yī"
+            ],
+            [
+              "2",
+              "二",
+              "贰",
+              "èr"
+            ],
+            [
+              "3",
+              "三",
+              "叁",
+              "sān"
+            ],
+            [
+              "4",
+              "四",
+              "肆",
+              "sì"
+            ],
+            [
+              "5",
+              "五",
+              "伍",
+              "wǔ"
+            ],
+            [
+              "6",
+              "六",
+              "陆",
+              "liù"
+            ],
+            [
+              "7",
+              "七",
+              "柒",
+              "qī"
+            ],
+            [
+              "8",
+              "八",
+              "捌",
+              "bā"
+            ],
+            [
+              "9",
+              "九",
+              "玖",
+              "jiǔ"
+            ],
+            [
+              "10",
+              "十",
+              "拾",
+              "shí"
+            ],
+            [
+              "100",
+              "百",
+              "佰",
+              "bǎi"
+            ],
+            [
+              "1.000",
+              "千",
+              "仟",
+              "qiān"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "壹仟贰佰元整",
+              "pinyin": "yī qiān èr bǎi yuán zhěng",
+              "arti": "1.200 yuan tepat",
+              "catatan": "Contoh penulisan formal jumlah uang."
+            },
+            {
+              "hanzi": "伍佰元",
+              "pinyin": "wǔ bǎi yuán",
+              "arti": "500 yuan",
+              "catatan": "伍 menggantikan 五."
+            },
+            {
+              "hanzi": "叁仟零伍元",
+              "pinyin": "sān qiān líng wǔ yuán",
+              "arti": "3.005 yuan",
+              "catatan": "Bentuk formal tetap mengikuti struktur nol."
+            },
+            {
+              "hanzi": "贰拾元",
+              "pinyin": "èr shí yuán",
+              "arti": "20 yuan",
+              "catatan": "拾 adalah bentuk formal 十."
+            },
+            {
+              "hanzi": "壹万伍仟元",
+              "pinyin": "yī wàn wǔ qiān yuán",
+              "arti": "15.000 yuan",
+              "catatan": "Unit 万 tetap digunakan; tidak semua unit memiliki pengganti khusus."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan memakai 大写 dalam percakapan sehari-hari hanya agar terdengar lebih formal. Ia adalah sistem penulisan dokumen. Selain itu, bentuk formal yang lazim dapat berbeda menurut konvensi dokumen dan wilayah; ikuti format institusi ketika mengisi dokumen resmi."
+        }
+      ]
+    },
+    {
+      "judul": "17. Kesalahan Umum dan Strategi Penguasaan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Kesalahan angka Mandarin paling sering terjadi bukan karena matematika sulit, melainkan karena pelajar membawa kebiasaan struktur bahasa Indonesia ke dalam Mandarin. Lima sumber kesalahan terbesar adalah pengelompokan empat digit, penggunaan <span class=\"hz\">零</span>, pilihan <span class=\"hz\">二</span> versus <span class=\"hz\">两</span>, pembacaan deret angka, dan kata tanya jumlah. Cara memperbaikinya adalah melatih transformasi dua arah: lihat digit lalu ucapkan Mandarin, kemudian dengar Mandarin lalu tulis angka. Latihan satu arah saja membuat pengenalan pasif terasa lancar padahal produksi aktif masih lemah."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Salah umum",
+            "Bentuk salah",
+            "Bentuk benar",
+            "Alasan"
+          ],
+          "baris": [
+            [
+              "21",
+              "二十和一",
+              "<span class=\"hz\">二十一</span>",
+              "Tidak ada kata dan."
+            ],
+            [
+              "105",
+              "一百五",
+              "<span class=\"hz\">一百零五</span>",
+              "Posisi puluhan kosong harus ditandai."
+            ],
+            [
+              "dua buku",
+              "二本书",
+              "<span class=\"hz\">两本书</span>",
+              "Jumlah konkret lebih natural dengan 两."
+            ],
+            [
+              "2026",
+              "两千零二十六年",
+              "<span class=\"hz\">二零二六年</span>",
+              "Tahun dibaca digit per digit."
+            ],
+            [
+              "100.000",
+              "一百千",
+              "<span class=\"hz\">十万</span>",
+              "Mandarin memakai 万 sebagai unit 10.000."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我有两本书。",
+              "pinyin": "wǒ yǒu liǎng běn shū",
+              "arti": "Saya punya dua buku.",
+              "catatan": "Benar untuk jumlah konkret."
+            },
+            {
+              "hanzi": "这个有一百零五块。",
+              "pinyin": "zhège yǒu yì bǎi líng wǔ kuài",
+              "arti": "Ini harganya 105 yuan.",
+              "catatan": "零 wajib di tengah."
+            },
+            {
+              "hanzi": "他在二楼。",
+              "pinyin": "tā zài èr lóu",
+              "arti": "Dia di lantai dua.",
+              "catatan": "Label lantai memakai 二 tanpa 第."
+            },
+            {
+              "hanzi": "今天是二零二六年八月十六号。",
+              "pinyin": "jīntiān shì èr líng èr liù nián bā yuè shíliù hào",
+              "arti": "Hari ini 16 Agustus 2026.",
+              "catatan": "Tahun digit demi digit."
+            },
+            {
+              "hanzi": "这家公司有三十多名员工。",
+              "pinyin": "zhè jiā gōngsī yǒu sān shí duō míng yuángōng",
+              "arti": "Perusahaan ini punya lebih dari 30 karyawan.",
+              "catatan": "概数 dengan 多."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Strategi latihan yang efektif adalah membuat angka acak setiap hari. Misalnya ambil 20 angka dari 0 sampai 999.999, baca keras-keras, kemudian cek kembali dengan penulisan Mandarin. Setelah itu ubah angka menjadi harga, tanggal, waktu, atau nomor. Latihan konteks lebih kuat daripada menghafal daftar karena satu angka dapat mempunyai cara baca berbeda menurut fungsi: 2026 sebagai tahun dibaca digit per digit, sedangkan 2.026 sebagai bilangan dibaca <span class=\"hz\">两千零二十六</span> atau <span class=\"hz\">二千零二十六</span> sesuai konteks."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan memperbaiki semua kesalahan dengan satu aturan sederhana. Misalnya aturan <span class=\"hz\">两</span> bukan berarti semua angka 2 harus diganti, dan aturan <span class=\"hz\">零</span> bukan berarti setiap digit nol harus terdengar. Selalu tanyakan: ini bilangan, nomor, tanggal, harga, jumlah benda, atau perkiraan?"
+        }
+      ]
+    },
+    {
+      "judul": "18. Sejarah Singkat Sistem Angka Mandarin",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Deret angka Mandarin yang dikenal sekarang berakar pada sejarah panjang penulisan karakter Tionghoa. Materi sumber mengaitkannya dengan simbol-simbol piktografis yang telah digunakan sejak zaman Dinasti Shang, sekitar 1600–1046 SM. Sistem modern kemudian berkembang menjadi sistem karakter yang sangat teratur untuk menyatakan nilai dan hubungan antarunit."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Pengelompokan empat digit melalui <span class=\"hz\">万</span> dan <span class=\"hz\">亿</span> menjadi salah satu ciri penting yang membedakan cara berpikir kuantitatif Mandarin dari sistem tiga digit yang umum dalam bahasa Indonesia dan banyak bahasa Barat."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Sejarah sistem angka Mandarin membantu menjelaskan mengapa struktur modern terasa sangat teratur. Karakter angka telah berkembang melalui tradisi penulisan Tionghoa yang panjang, sementara kebutuhan administratif, perdagangan, matematika, dan pencatatan mendorong penggunaan bentuk yang makin jelas. Sistem desimal dan penggunaan unit berbasis sepuluh ribu bukan kebetulan modern. Dalam tradisi Tionghoa, <span class=\"hz\">万</span> menjadi unit penting yang tetap bertahan dalam bahasa modern. Karena itu penutur sekarang tidak sedang melakukan perhitungan kuno setiap kali menyebut satu juta; mereka memakai sistem yang diwariskan dan telah menjadi bagian normal dari tata bahasa angka."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Lapisan sejarah",
+            "Bentuk/konsep",
+            "Jejak modern",
+            "Makna pedagogis"
+          ],
+          "baris": [
+            [
+              "Tradisi karakter",
+              "angka Hanzi",
+              "一二三四五...",
+              "angka dapat dibaca dan ditulis sebagai karakter"
+            ],
+            [
+              "Desimal",
+              "十、百、千",
+              "<span class=\"hz\">二十</span>, <span class=\"hz\">三百</span>",
+              "struktur perkalian + penjumlahan"
+            ],
+            [
+              "Unit 10.000",
+              "万",
+              "<span class=\"hz\">十万</span>, <span class=\"hz\">一百万</span>",
+              "kunci membaca bilangan besar"
+            ],
+            [
+              "Unit 100 juta",
+              "亿",
+              "<span class=\"hz\">一亿</span>, <span class=\"hz\">十亿</span>",
+              "membedakan sistem Mandarin dari pengelompokan Barat/Indonesia"
+            ],
+            [
+              "Penulisan finansial",
+              "大写",
+              "壹、贰、叁...",
+              "warisan kebutuhan administrasi dan anti-pemalsuan"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "一",
+              "pinyin": "yī",
+              "arti": "satu",
+              "catatan": "Karakter dasar dengan sejarah panjang."
+            },
+            {
+              "hanzi": "十",
+              "pinyin": "shí",
+              "arti": "sepuluh",
+              "catatan": "Unit dasar desimal."
+            },
+            {
+              "hanzi": "百",
+              "pinyin": "bǎi",
+              "arti": "seratus",
+              "catatan": "Unit seratus."
+            },
+            {
+              "hanzi": "万",
+              "pinyin": "wàn",
+              "arti": "sepuluh ribu",
+              "catatan": "Unit empat digit yang sangat penting."
+            },
+            {
+              "hanzi": "亿",
+              "pinyin": "yì",
+              "arti": "seratus juta",
+              "catatan": "Unit besar modern yang sangat umum."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Bentuk klasik dan sejarah juga menjelaskan mengapa beberapa ungkapan angka masih terasa tidak sama dengan logika angka modern. Idiom seperti <span class=\"hz\">一心一意</span>, <span class=\"hz\">三心二意</span>, dan <span class=\"hz\">三头六臂</span> mempertahankan pola padat yang berasal dari tradisi sastra dan idiomatik. Namun pelajar modern tidak perlu menggunakan struktur klasik tersebut untuk membuat bilangan sehari-hari. Penting untuk mengenali perbedaan antara angka sebagai nilai matematika, angka sebagai unsur idiom, dan angka sebagai simbol budaya."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menyimpulkan bahwa setiap karakter angka modern memiliki satu sejarah bentuk yang sederhana atau satu arti simbolis tunggal. Sejarah aksara Tionghoa panjang dan kompleks. Bagian sejarah dalam pilar ini berfungsi sebagai konteks untuk memahami sistem modern, bukan sebagai pengganti studi paleografi atau bahasa Tionghoa Klasik."
+        }
+      ]
+    },
+    {
+      "judul": "19. Integrasi: Dari Angka ke Cara Berpikir Mandarin",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Sistem angka Mandarin memperlihatkan hubungan erat antara matematika, tata bahasa, komunikasi praktis, dan budaya. Untuk benar-benar menguasainya, angka tidak boleh dipelajari sebagai daftar terpisah. Angka harus dilatih bersama unit besar, aturan nol, kata tanya jumlah, tanggal, waktu, harga, nomor, pecahan, dan konteks sosial."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Fondasi pertama adalah angka 0–10.",
+            "Fondasi kedua adalah pola pembentukan 11–9.999.",
+            "Fondasi ketiga adalah pengelompokan empat digit melalui <span class=\"hz\">万</span> dan <span class=\"hz\">亿</span>.",
+            "Fondasi keempat adalah aturan <span class=\"hz\">零</span>.",
+            "Fondasi kelima adalah perbedaan <span class=\"hz\">二</span> dan <span class=\"hz\">两</span>.",
+            "Fondasi keenam adalah penggunaan angka untuk nomor, tanggal, waktu, uang, pecahan, desimal, dan persentase.",
+            "Fondasi ketujuh adalah angka perkiraan seperti <span class=\"hz\">来</span>, <span class=\"hz\">多</span>, <span class=\"hz\">左右</span>, dan pasangan angka.",
+            "Fondasi kedelapan adalah pemahaman konteks budaya dan simbolisme angka.",
+            "Fondasi kesembilan adalah pengenalan sistem angka formal <span class=\"hz\">大写</span>."
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "十万",
+              "pinyin": "shí wàn",
+              "arti": "100.000",
+              "catatan": "Contoh utama perubahan cara berpikir dari pengelompokan tiga digit ke empat digit."
+            },
+            {
+              "hanzi": "二十五万",
+              "pinyin": "èr shí wǔ wàn",
+              "arti": "250.000",
+              "catatan": "25 × 10.000."
+            },
+            {
+              "hanzi": "一百万",
+              "pinyin": "yī bǎi wàn",
+              "arti": "1.000.000",
+              "catatan": "100 × 10.000."
+            },
+            {
+              "hanzi": "二十五亿",
+              "pinyin": "èr shí wǔ yì",
+              "arti": "2.500.000.000",
+              "catatan": "25 × 100 juta."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Tujuan akhirnya bukan hanya dapat menyebut angka dengan benar, tetapi membangun refleks mental. Saat Anda melihat angka 100.000, pikiran bawah sadar Anda harus langsung menerjemahkannya menjadi 10 万 (shí wàn). Saat Anda melihat harga 250.000, Anda harus berpikir 25 万. Ini adalah lompatan kognitif yang harus dilatih."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Penguasaan sistem angka tidak berarti setiap aturan memiliki satu bentuk mutlak tanpa variasi. Penggunaan bahasa nyata dapat berubah menurut konteks formal, percakapan, wilayah, bidang, dan tujuan komunikasi. Karena itu, prioritaskan pola standar terlebih dahulu, lalu pelajari variasinya setelah fondasi benar-benar kuat."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Integrasi berarti mampu memilih cara baca berdasarkan fungsi angka sebelum mulai mengucapkannya. Tanyakan empat hal: angka ini menunjukkan nilai atau nomor, jumlahnya konkret atau abstrak, apakah ada unit besar, dan apakah konteksnya formal atau lisan? Dari sana keputusan menjadi lebih mudah. <span class=\"hz\">二</span> muncul kuat pada matematika dan urutan, <span class=\"hz\">两</span> sering muncul pada jumlah konkret, <span class=\"hz\">零</span> mengisi lompatan posisi, dan <span class=\"hz\">万</span>/<span class=\"hz\">亿</span> mengubah cara memenggal bilangan besar. Pada tahap mahir, angka juga harus dapat dipakai dalam harga, tanggal, waktu, nomor, perkiraan, pecahan, dan situasi sosial."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pertanyaan mental",
+            "Jika jawabannya...",
+            "Gunakan",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "Ini bilangan atau nomor?",
+              "bilangan",
+              "baca sebagai struktur",
+              "<span class=\"hz\">一千二百</span>"
+            ],
+            [
+              "Ini nomor telepon/kode?",
+              "nomor",
+              "digit demi digit",
+              "<span class=\"hz\">一三八...</span>"
+            ],
+            [
+              "Dua ini jumlah konkret?",
+              "ya",
+              "sering 两",
+              "<span class=\"hz\">两个人</span>"
+            ],
+            [
+              "Ada lompatan posisi?",
+              "ya",
+              "零 sekali",
+              "<span class=\"hz\">一百零五</span>"
+            ],
+            [
+              "Angka ≥ 10.000?",
+              "ya",
+              "pecah per 4 digit",
+              "<span class=\"hz\">二十五万</span>"
+            ],
+            [
+              "Perkiraan?",
+              "ya",
+              "来、多、左右、上下, dll.",
+              "<span class=\"hz\">三十多</span>"
+            ],
+            [
+              "Tanggal/waktu?",
+              "ya",
+              "tambahkan unit waktu",
+              "<span class=\"hz\">八点半</span>"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我买了两本书，花了二百五十块。",
+              "pinyin": "wǒ mǎi le liǎng běn shū, huā le èr bǎi wǔ shí kuài",
+              "arti": "Saya membeli dua buku seharga 250 yuan.",
+              "catatan": "两 untuk jumlah; 二百五十 untuk bilangan harga."
+            },
+            {
+              "hanzi": "公司有二十五万名用户。",
+              "pinyin": "gōngsī yǒu èr shí wǔ wàn míng yònghù",
+              "arti": "Perusahaan memiliki 250.000 pengguna.",
+              "catatan": "25 × 万."
+            },
+            {
+              "hanzi": "会议在二零二六年八月十六日上午九点半开始。",
+              "pinyin": "huìyì zài èr líng èr liù nián bā yuè shíliù hào shàngwǔ jiǔ diǎn bàn kāishǐ",
+              "arti": "Rapat dimulai 16 Agustus 2026 pukul 09:30 pagi.",
+              "catatan": "Tahun digit demi digit, waktu dengan 半."
+            },
+            {
+              "hanzi": "验证码是幺八零二。",
+              "pinyin": "yànzhèngmǎ shì yāo bā líng èr",
+              "arti": "Kode verifikasi 1802.",
+              "catatan": "Contoh konteks yang mengutamakan kejelasan digit."
+            },
+            {
+              "hanzi": "大约有三十多个人。",
+              "pinyin": "dàyuē yǒu sān shí duō gè rén",
+              "arti": "Ada sekitar lebih dari tiga puluh orang.",
+              "catatan": "概数; 大约 dan 多 sama-sama memberi nuansa perkiraan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan mengukur kemampuan dari hafalan angka 0–10 saja. Kemahiran nyata terlihat ketika Anda dapat berpindah konteks tanpa kehilangan struktur: 2 sebagai <span class=\"hz\">二</span> dalam matematika tetapi <span class=\"hz\">两</span> dalam jumlah konkret; 2026 sebagai tahun dibaca digit demi digit; 100.000 langsung dipetakan menjadi <span class=\"hz\">十万</span>; dan 105 membutuhkan <span class=\"hz\">零</span>."
+        }
+      ]
+    },
+    {
+      "judul": "20. Latihan Terpadu: Produksi, Identifikasi, dan Koreksi",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Latihan akhir harus menguji bukan hanya hafalan, tetapi kemampuan memilih struktur yang tepat. Kerjakan tanpa melihat jawaban terlebih dahulu. Untuk setiap soal, tentukan apakah Anda sedang membaca bilangan biasa, nomor, jumlah konkret, tanggal, waktu, harga, atau angka perkiraan. Setelah itu baru pilih bentuk Hanzi. Metode ini melatih keputusan gramatikal sebelum produksi bunyi, sehingga Anda tidak bergantung pada terjemahan Indonesia kata demi kata."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Soal",
+            "Tugas",
+            "Fokus"
+          ],
+          "baris": [
+            [
+              "1",
+              "Tulis 305 dalam Hanzi dan pinyin.",
+              "零"
+            ],
+            [
+              "2",
+              "Tulis 250.000 dalam Hanzi.",
+              "万"
+            ],
+            [
+              "3",
+              "Terjemahkan dua buku ke Mandarin.",
+              "两 vs 二"
+            ],
+            [
+              "4",
+              "Baca 2026 sebagai tahun.",
+              "digit demi digit"
+            ],
+            [
+              "5",
+              "Tulis 0,75 dalam Mandarin.",
+              "desimal"
+            ],
+            [
+              "6",
+              "Nyatakan sekitar 30 orang.",
+              "概数"
+            ],
+            [
+              "7",
+              "Nyatakan 08:05.",
+              "waktu + 零"
+            ],
+            [
+              "8",
+              "Baca nomor 1802 sebagai kode.",
+              "deret angka"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "三百零五",
+              "pinyin": "sān bǎi líng wǔ",
+              "arti": "305",
+              "catatan": "Jawaban latihan 1."
+            },
+            {
+              "hanzi": "二十五万",
+              "pinyin": "èr shí wǔ wàn",
+              "arti": "250.000",
+              "catatan": "Jawaban latihan 2."
+            },
+            {
+              "hanzi": "两本书",
+              "pinyin": "liǎng běn shū",
+              "arti": "dua buku",
+              "catatan": "Jawaban latihan 3."
+            },
+            {
+              "hanzi": "二零二六年",
+              "pinyin": "èr líng èr liù nián",
+              "arti": "tahun 2026",
+              "catatan": "Jawaban latihan 4."
+            },
+            {
+              "hanzi": "零点七五",
+              "pinyin": "líng diǎn qī wǔ",
+              "arti": "0,75",
+              "catatan": "Jawaban latihan 5."
+            },
+            {
+              "hanzi": "三十多个人",
+              "pinyin": "sān shí duō gè rén",
+              "arti": "lebih dari 30 orang",
+              "catatan": "Jawaban latihan 6."
+            },
+            {
+              "hanzi": "八点零五分",
+              "pinyin": "bā diǎn líng wǔ fēn",
+              "arti": "08:05",
+              "catatan": "Jawaban latihan 7."
+            },
+            {
+              "hanzi": "一八零二",
+              "pinyin": "yī bā líng èr",
+              "arti": "kode 1802",
+              "catatan": "Jawaban latihan 8; dalam komunikasi kritis angka 1 dapat menjadi 幺."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Untuk latihan nomor, jangan memakai bentuk bilangan utuh. Kode 1802 dibaca digit demi digit, sedangkan bilangan 1.802 dibaca sebagai <span class=\"hz\">一千八百零二</span>. Perbedaan fungsi inilah inti latihan."
+        }
+      ]
+    },
+    {
+      "judul": "21. Ringkasan Besar: Peta Lengkap Sistem Angka Mandarin",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Seluruh Pilar 2 dapat dipadatkan menjadi satu peta keputusan. Angka dasar menjadi unit, unit membangun bilangan, <span class=\"hz\">零</span> menandai lompatan posisi, <span class=\"hz\">万</span> dan <span class=\"hz\">亿</span> mengatur bilangan besar, sedangkan konteks menentukan apakah angka dibaca sebagai nilai, jumlah, nomor, tanggal, waktu, harga, pecahan, persentase, atau perkiraan. Setelah struktur dasar dikuasai, variasi budaya seperti angka keberuntungan dan sistem tulisan formal dapat dipelajari tanpa mencampurkannya dengan tata bahasa inti."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Subtopik",
+            "Kunci utama",
+            "Contoh inti",
+            "Hal yang harus diingat"
+          ],
+          "baris": [
+            [
+              "0–10",
+              "hafalkan bunyi + karakter",
+              "<span class=\"hz\">零 一 二 三 四 五 六 七 八 九 十</span>",
+              "fondasi semua angka"
+            ],
+            [
+              "11–9.999",
+              "unit 十 百 千",
+              "<span class=\"hz\">三百二十一</span>",
+              "struktur transparan"
+            ],
+            [
+              "Nol",
+              "零 di tengah, bukan di ujung",
+              "<span class=\"hz\">一百零五</span>",
+              "beberapa nol tengah = satu 零"
+            ],
+            [
+              "Bilangan besar",
+              "blok 4 digit",
+              "<span class=\"hz\">二十五万</span>",
+              "万 = 10.000"
+            ],
+            [
+              "Dua",
+              "二 vs 两",
+              "<span class=\"hz\">第二</span> / <span class=\"hz\">两本书</span>",
+              "konteks menentukan"
+            ],
+            [
+              "Nomor",
+              "digit demi digit",
+              "<span class=\"hz\">一三八...</span>",
+              "kejelasan lebih penting"
+            ],
+            [
+              "Urutan",
+              "第 + angka",
+              "<span class=\"hz\">第三次</span>",
+              "label seperti lantai sering tanpa 第"
+            ],
+            [
+              "Pecahan",
+              "penyebut + 分之 + pembilang",
+              "<span class=\"hz\">四分之三</span>",
+              "urutan terbalik dari Indonesia"
+            ],
+            [
+              "Desimal",
+              "点 + digit",
+              "<span class=\"hz\">三点一四</span>",
+              "digit setelah 点"
+            ],
+            [
+              "Persentase",
+              "百分之 + angka",
+              "<span class=\"hz\">百分之五十</span>",
+              "bukan angka + persen"
+            ],
+            [
+              "Tanggal/waktu",
+              "angka + unit",
+              "<span class=\"hz\">八点半</span>",
+              "tahun digit demi digit"
+            ],
+            [
+              "Harga",
+              "angka + 元/块",
+              "<span class=\"hz\">两百块</span>",
+              "konteks dapat menghilangkan unit"
+            ],
+            [
+              "Perkiraan",
+              "来、多、左右、上下",
+              "<span class=\"hz\">三十多</span>",
+              "nuansa kisaran berbeda"
+            ],
+            [
+              "Setengah",
+              "半",
+              "<span class=\"hz\">一个半小时</span>",
+              "posisi 半 bergantung struktur"
+            ],
+            [
+              "Jumlah",
+              "几 vs 多少",
+              "<span class=\"hz\">几个人</span>",
+              "ekspektasi jumlah penting"
+            ],
+            [
+              "Budaya",
+              "asosiasi 4/6/8/9",
+              "<span class=\"hz\">八</span>",
+              "kecenderungan sosial, bukan hukum"
+            ],
+            [
+              "Formal",
+              "大写",
+              "<span class=\"hz\">壹贰叁</span>",
+              "terutama penulisan finansial"
+            ],
+            [
+              "Sejarah",
+              "万 dan tradisi karakter",
+              "<span class=\"hz\">万</span>",
+              "memahami latar sistem"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "一百零五",
+              "pinyin": "yì bǎi líng wǔ",
+              "arti": "105",
+              "catatan": "Bilangan dengan nol tengah."
+            },
+            {
+              "hanzi": "十万",
+              "pinyin": "shí wàn",
+              "arti": "100.000",
+              "catatan": "Refleks empat digit."
+            },
+            {
+              "hanzi": "两个人",
+              "pinyin": "liǎng gè rén",
+              "arti": "dua orang",
+              "catatan": "Jumlah konkret."
+            },
+            {
+              "hanzi": "第二",
+              "pinyin": "dì èr",
+              "arti": "kedua",
+              "catatan": "Urutan."
+            },
+            {
+              "hanzi": "百分之二十五",
+              "pinyin": "bǎi fēn zhī èr shí wǔ",
+              "arti": "25%",
+              "catatan": "Persentase."
+            },
+            {
+              "hanzi": "三十左右",
+              "pinyin": "sān shí zuǒyòu",
+              "arti": "sekitar 30",
+              "catatan": "Perkiraan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Ringkasan ini adalah peta belajar, bukan daftar pengecualian tanpa akhir. Jika sebuah konteks nyata tampak bertentangan dengan aturan dasar, pertama tentukan fungsi angka tersebut dan konteks regional/formalnya. Untuk dokumen resmi, ikuti konvensi lembaga; untuk percakapan, prioritaskan bentuk yang natural dan dapat dipahami."
+        }
+      ]
+    }
+  ]
+}
