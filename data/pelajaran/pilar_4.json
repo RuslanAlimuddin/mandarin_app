@@ -1,0 +1,3635 @@
+{
+  "pilar": 4,
+  "judul": "PARTIKEL STRUKTURAL DAN ASPEK",
+  "ringkasan": "Partikel struktural dan aspek merupakan perekat utama dalam kalimat Mandarin. Materi ini mempertahankan fondasi file lama tentang 的、得、地, 了、过、在、正在, 要、会, 吗、呢、吧, lalu memperdalam 着, pola durasi dengan dua 了, kombinasi aspek, 是……的, 来着、而已、罢了, perbedaan 不 dan 没, register, variasi regional, bahasa modern, serta perspektif historis. Struktur inti dan contoh dasar dipertahankan dari materi lama dan sumber asli, lalu diperluas untuk memperjelas fungsi, posisi, nuansa, dan batasan penggunaannya. ",
+  "bagian": [
+    {
+      "judul": "1. Mengapa Partikel Struktural dan Aspek Sangat Krusial?",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Partikel struktural dan aspek dalam bahasa Mandarin dapat dipahami sebagai lem yang menyatukan kalimat. Tanpa pemahaman yang benar, kalimat dapat terasa asing, ambigu, atau bahkan berubah arti."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Menentukan hubungan logis antar-elemen kalimat.",
+            "Menunjukkan waktu dan status suatu peristiwa, tetapi bukan dengan perubahan bentuk kata kerja seperti sistem tense dalam bahasa Inggris.",
+            "Mengubah kata sifat menjadi keterangan yang menerangkan cara suatu tindakan dilakukan.",
+            "Menandakan kepemilikan dan hubungan atributif.",
+            "Menunjukkan tindakan yang selesai, pengalaman, keadaan yang sedang berlangsung, atau perubahan keadaan.",
+            "Memberikan nuansa komunikasi seperti pertanyaan balik, saran, perkiraan, penekanan, dan informasi baru."
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Kesulitan utama pembelajar Indonesia bukan sekadar menghafal 的、得、地、了、过、在, tetapi memahami bahwa partikel-partikel ini bekerja berdasarkan posisi, struktur, sudut pandang pembicara, dan konteks. Bahasa Indonesia sering menyampaikan hubungan yang sama dengan kata terpisah seperti sudah, sedang, pernah, lagi, yang, dengan, milik, atau melalui urutan kata. Mandarin lebih sering mengandalkan penanda gramatikal kecil dan konteks. Karena itu, menerjemahkan satu-ke-satu dari bahasa Indonesia mudah menghasilkan kalimat yang secara makna dapat ditebak tetapi terasa tidak alami."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kelompok",
+            "Pertanyaan yang dijawab",
+            "Contoh inti",
+            "Fokus"
+          ],
+          "baris": [
+            [
+              "的、得、地",
+              "Hubungan antarunsur seperti apa?",
+              "我的书、跑得快、认真地学",
+              "Struktur"
+            ],
+            [
+              "了",
+              "Apa yang sudah selesai atau berubah?",
+              "吃了饭、下雨了",
+              "Penyelesaian/perubahan"
+            ],
+            [
+              "过",
+              "Pernah mengalami?",
+              "去过中国",
+              "Pengalaman"
+            ],
+            [
+              "在、正在",
+              "Aksi sedang berlangsung?",
+              "正在看书",
+              "Proses"
+            ],
+            [
+              "着",
+              "Keadaan bertahan atau aksi bersamaan?",
+              "门开着、笑着说",
+              "Keadaan/latar"
+            ],
+            [
+              "要、会",
+              "Masa depan berasal dari niat atau prediksi?",
+              "要走、会来",
+              "Modalitas"
+            ],
+            [
+              "吗、呢、吧",
+              "Apa tujuan interaksi?",
+              "你呢？走吧",
+              "Pragmatik"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我昨天买了那本书。",
+              "pinyin": "Wǒ zuótiān mǎi le nà běn shū.",
+              "arti": "Kemarin saya membeli buku itu.",
+              "catatan": "了 menandai tindakan sebagai peristiwa yang dipandang selesai; 昨天 sendiri yang memberi konteks waktu."
+            },
+            {
+              "hanzi": "我昨天在看那本书。",
+              "pinyin": "Wǒ zuótiān zài kàn nà běn shū.",
+              "arti": "Kemarin saya sedang membaca buku itu.",
+              "catatan": "在 menandai proses yang sedang berlangsung pada titik waktu lampau."
+            },
+            {
+              "hanzi": "我看过那本书。",
+              "pinyin": "Wǒ kàn guò nà běn shū.",
+              "arti": "Saya pernah membaca buku itu.",
+              "catatan": "过 memusatkan perhatian pada pengalaman."
+            },
+            {
+              "hanzi": "这是我昨天买的书。",
+              "pinyin": "Zhè shì wǒ zuótiān mǎi de shū.",
+              "arti": "Ini buku yang saya beli kemarin.",
+              "catatan": "的 membentuk frasa atributif dari klausa yang menerangkan 书."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap semua partikel sebagai penanda waktu. 的、得、地 terutama bersifat struktural; 了, 过, 在, 着 berhubungan dengan aspek; 要 dan 会 terutama bersifat modalitas (sikap terhadap kemungkinan atau rencana), sedangkan 吗、呢、吧 terutama memberi fungsi pragmatik (fungsi dalam interaksi)."
+        }
+      ]
+    },
+    {
+      "judul": "2. 三个“的、得、地” — Tiga De",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Tiga karakter <span class=\"hz\">的</span>, <span class=\"hz\">得</span>, dan <span class=\"hz\">地</span> sama-sama sering dibaca <span class=\"py\">de</span>, tetapi fungsi dan posisinya berbeda. Cara paling cepat membedakannya adalah melihat apa yang berada setelah partikel tersebut."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Partikel",
+            "Fungsi",
+            "Rumus",
+            "Petunjuk cepat"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">的</span>",
+              "Kepemilikan atau atributif",
+              "[Keterangan] + <span class=\"hz\">的</span> + [Kata benda]",
+              "Biasanya diikuti benda."
+            ],
+            [
+              "<span class=\"hz\">得</span>",
+              "Pelengkap cara, tingkat, kemungkinan, atau arah",
+              "[Kata kerja/kata sifat] + <span class=\"hz\">得</span> + [Pelengkap]",
+              "Biasanya menghubungkan tindakan dengan penjelasan tentang cara atau tingkatnya."
+            ],
+            [
+              "<span class=\"hz\">地</span>",
+              "Keterangan cara",
+              "[Kata sifat] + <span class=\"hz\">地</span> + [Kata kerja]",
+              "Berada sebelum kata kerja."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Kesamaan bunyi de membuat tiga karakter ini sangat mudah tertukar, terutama ketika mengetik pinyin lalu memilih karakter secara otomatis. Namun pembeda paling kuat bukan terjemahan bahasa Indonesia, melainkan posisi sintaksis. 的 biasanya menghubungkan unsur atributif dengan nomina atau menunjukkan kepemilikan; 得 muncul sesudah verba atau unsur predikatif untuk membuka pelengkap; 地 berada di depan verba sebagai penanda keterangan cara. Dalam tulisan formal, membedakan ketiganya penting karena ejaan memperlihatkan struktur kalimat."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Jika Anda melihat pola",
+            "Kemungkinan besar",
+            "Contoh",
+            "Pertanyaan diagnostik"
+          ],
+          "baris": [
+            [
+              "X 的 N",
+              "的",
+              "漂亮的花",
+              "Apa yang diterangkan oleh X?"
+            ],
+            [
+              "V 得 C",
+              "得",
+              "说得很清楚",
+              "Seberapa atau bagaimana V dilakukan?"
+            ],
+            [
+              "Adv 地 V",
+              "地",
+              "认真地学习",
+              "Bagaimana V dilakukan?"
+            ],
+            [
+              "X 的",
+              "的",
+              "红色的",
+              "Nomina yang diterangkan dihilangkan; apa benda yang dimaksud?"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我的新手机很好用。",
+              "pinyin": "Wǒ de xīn shǒujī hěn hǎoyòng.",
+              "arti": "Ponsel baru saya sangat praktis digunakan.",
+              "catatan": "的 menghubungkan pemilik dengan benda."
+            },
+            {
+              "hanzi": "他说中文说得很流利。",
+              "pinyin": "Tā shuō Zhōngwén shuō de hěn liúlì.",
+              "arti": "Dia berbicara bahasa Mandarin dengan sangat lancar.",
+              "catatan": "Pengulangan verba dapat membuat struktur 得 lebih jelas ketika objek berada di antara verba."
+            },
+            {
+              "hanzi": "她认真地回答问题。",
+              "pinyin": "Tā rènzhēn de huídá wèntí.",
+              "arti": "Dia menjawab pertanyaan dengan serius.",
+              "catatan": "地 menandai keterangan cara sebelum verba."
+            },
+            {
+              "hanzi": "我喜欢蓝色的。",
+              "pinyin": "Wǒ xǐhuān lánsè de.",
+              "arti": "Saya suka yang berwarna biru.",
+              "catatan": "的 menggantikan nomina yang sudah diketahui dari konteks."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Trik 的→nomina, 得→pelengkap sesudah predikat, 地→keterangan sebelum verba hanya alat bantu awal, bukan definisi mutlak. Struktur nyata dapat lebih kompleks, misalnya klausa panjang + 的 atau verba bersifat statif + 得. Selalu periksa fungsi sintaksis seluruh frasa."
+        }
+      ]
+    },
+    {
+      "judul": "2.1 的 — Kepemilikan dan Atributif",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">的</span> (<span class=\"py\">de</span>) terutama digunakan untuk menunjukkan kepemilikan atau menghubungkan keterangan dengan kata benda. Pola dasarnya adalah [Pemilik/Keterangan] + <span class=\"hz\">的</span> + [Kata Benda]."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我的书",
+              "pinyin": "wǒ de shū",
+              "arti": "buku saya"
+            },
+            {
+              "hanzi": "妈妈的手机",
+              "pinyin": "māma de shǒujī",
+              "arti": "ponsel ibu"
+            },
+            {
+              "hanzi": "老师的笔",
+              "pinyin": "lǎoshī de bǐ",
+              "arti": "pena guru"
+            },
+            {
+              "hanzi": "中国的文化",
+              "pinyin": "Zhōngguó de wénhuà",
+              "arti": "budaya Tiongkok"
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Untuk hubungan kepemilikan yang sangat dekat, terutama keluarga atau hubungan akrab, <span class=\"hz\">的</span> sering dihilangkan dalam percakapan santai."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我家",
+              "pinyin": "wǒ jiā",
+              "arti": "rumah saya",
+              "catatan": "Dalam percakapan santai, bentuk ini lebih alami daripada 我的家 untuk hubungan kepemilikan yang sangat dekat."
+            },
+            {
+              "hanzi": "我妈",
+              "pinyin": "wǒ mā",
+              "arti": "ibu saya",
+              "catatan": "Bentuk informal yang umum dalam percakapan."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Selain kepemilikan, <span class=\"hz\">的</span> menghubungkan kata sifat atau frasa dengan kata benda. Rumusnya adalah [Kata Sifat/Frasa] + <span class=\"hz\">的</span> + [Kata Benda]."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "漂亮的花",
+              "pinyin": "piàoliang de huā",
+              "arti": "bunga yang cantik"
+            },
+            {
+              "hanzi": "聪明的人",
+              "pinyin": "cōngming de rén",
+              "arti": "orang yang pintar"
+            },
+            {
+              "hanzi": "昨天买的书",
+              "pinyin": "zuótiān mǎi de shū",
+              "arti": "buku yang dibeli kemarin"
+            },
+            {
+              "hanzi": "红色的小汽车",
+              "pinyin": "hóngsè de xiǎo qìchē",
+              "arti": "mobil kecil berwarna merah"
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Kata sifat satu suku kata yang pendek sering tidak menggunakan 的, misalnya 红花 berarti bunga merah dan 好人 berarti orang baik.",
+            "Kata sifat dua suku kata umumnya menggunakan 的, misalnya 漂亮的花 dan 聪明的学生.",
+            "Frasa atau klausa yang menerangkan kata benda menggunakan 的, misalnya 我昨天看到的那个人 berarti orang yang saya lihat kemarin."
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">的</span> juga dapat berdiri sendiri tanpa kata benda sesudahnya. Dalam fungsi ini, <span class=\"hz\">的</span> mewakili benda yang sudah diketahui dari konteks."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "这个是你的吗？",
+              "pinyin": "Zhège shì nǐ de ma?",
+              "arti": "Ini punyamu?",
+              "catatan": "Benda yang dimaksud sudah diketahui dari konteks."
+            },
+            {
+              "hanzi": "我要红色的。",
+              "pinyin": "Wǒ yào hóngsè de.",
+              "arti": "Saya mau yang merah."
+            },
+            {
+              "hanzi": "他喜欢吃辣的。",
+              "pinyin": "Tā xǐhuān chī là de.",
+              "arti": "Dia suka makan yang pedas."
+            },
+            {
+              "hanzi": "这本书是谁的？",
+              "pinyin": "Zhè běn shū shì shuí de?",
+              "arti": "Buku ini punya siapa?"
+            },
+            {
+              "hanzi": "是我的。",
+              "pinyin": "Shì wǒ de.",
+              "arti": "Punya saya."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "的 mempunyai wilayah penggunaan yang jauh lebih luas daripada sekadar kata Indonesia milik. Ia membentuk frasa nominal atributif: unsur di sebelah kiri dapat berupa pronomina, nomina, kata sifat, frasa verba, keterangan waktu, bahkan klausa relatif. Karena Mandarin menempatkan seluruh keterangan sebelum nomina, klausa seperti 我昨天看到的那个人 secara harfiah dapat dipahami sebagai orang yang saya lihat kemarin. Hubungan dekat seperti 我妈, 我家, 他爸 sering menghilangkan 的 karena relasinya sudah sangat lekat secara leksikal dan pragmatik; tetapi penghilangan tidak berlaku bebas pada semua nomina."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Jenis X + 的 + N",
+            "Contoh",
+            "Arti",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "Kepemilikan",
+              "我的电脑",
+              "komputer saya",
+              "Hubungan pemilik-benda"
+            ],
+            [
+              "Nomina atributif",
+              "中国文化",
+              "budaya Tiongkok",
+              "的 dapat dihilangkan pada sejumlah kombinasi yang sudah mapan"
+            ],
+            [
+              "Sifat",
+              "漂亮的女孩",
+              "gadis cantik",
+              "Atribut deskriptif"
+            ],
+            [
+              "Frasa verba",
+              "昨天买的书",
+              "buku yang dibeli kemarin",
+              "Klausa relatif"
+            ],
+            [
+              "Keterangan waktu/tempat",
+              "今天的会议",
+              "rapat hari ini",
+              "Atribut berbasis konteks"
+            ],
+            [
+              "Nominalisasi",
+              "红色的",
+              "yang merah",
+              "Nomina dipahami dari konteks"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "这是我朋友的车。",
+              "pinyin": "Zhè shì wǒ péngyou de chē.",
+              "arti": "Ini mobil teman saya.",
+              "catatan": "的 menunjukkan hubungan kepemilikan."
+            },
+            {
+              "hanzi": "我喜欢昨天买的衣服。",
+              "pinyin": "Wǒ xǐhuān zuótiān mǎi de yīfu.",
+              "arti": "Saya suka pakaian yang dibeli kemarin.",
+              "catatan": "Seluruh klausa 昨天买 menerangkan 衣服."
+            },
+            {
+              "hanzi": "那个穿黑衣服的人是老师。",
+              "pinyin": "Nàge chuān hēi yīfu de rén shì lǎoshī.",
+              "arti": "Orang yang memakai baju hitam itu adalah guru.",
+              "catatan": "Klausa 穿黑衣服 + 的 menerangkan 人."
+            },
+            {
+              "hanzi": "这不是我的，是他的。",
+              "pinyin": "Zhè bú shì wǒ de, shì tā de.",
+              "arti": "Ini bukan milik saya, ini miliknya.",
+              "catatan": "的 dapat menggantikan benda yang sudah diketahui."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap semua atribut satu suku kata wajib tanpa 的 atau semua atribut dua suku kata wajib dengan 的. Itu kecenderungan, bukan aturan mekanis. Kombinasi leksikal, fokus, panjang frasa, dan kealamian menentukan pilihan."
+        }
+      ]
+    },
+    {
+      "judul": "2.2 得 — Pelengkap Cara, Tingkat, Kemungkinan, dan Arah",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">得</span> (<span class=\"py\">de</span>) menghubungkan kata kerja atau kata sifat dengan pelengkap yang menjelaskan bagaimana suatu tindakan dilakukan, sejauh mana suatu keadaan terjadi, apakah suatu tindakan mungkin dilakukan, atau apakah gerakan dapat mencapai arah tertentu."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Untuk pelengkap tingkat, rumus dasarnya adalah [Kata Kerja/Kata Sifat] + <span class=\"hz\">得</span> + [Pelengkap]."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "他跑得很快。",
+              "pinyin": "Tā pǎo de hěn kuài.",
+              "arti": "Dia lari sangat cepat."
+            },
+            {
+              "hanzi": "她说得很清楚。",
+              "pinyin": "Tā shuō de hěn qīngchu.",
+              "arti": "Dia berbicara dengan sangat jelas."
+            },
+            {
+              "hanzi": "天气热得不得了。",
+              "pinyin": "Tiānqì rè de bùdéliǎo.",
+              "arti": "Cuaca panas sekali."
+            },
+            {
+              "hanzi": "我高兴得跳起来。",
+              "pinyin": "Wǒ gāoxìng de tiào qǐlái.",
+              "arti": "Saya senang sampai melompat."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Untuk pelengkap kemungkinan, pola <span class=\"hz\">得</span> menunjukkan bahwa suatu tindakan dapat dilakukan atau mencapai hasil tertentu. Bentuk negatifnya menggunakan <span class=\"hz\">不</span>."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Positif",
+            "Negatif",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "吃得完",
+              "吃不完",
+              "bisa habis dimakan / tidak bisa habis dimakan"
+            ],
+            [
+              "看得见",
+              "看不见",
+              "terlihat / tidak terlihat"
+            ],
+            [
+              "听得懂",
+              "听不懂",
+              "bisa mengerti ketika mendengar / tidak mengerti"
+            ],
+            [
+              "拿得动",
+              "拿不动",
+              "bisa mengangkat / tidak kuat mengangkat"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "这么多菜，我吃得完吗？",
+              "pinyin": "Zhème duō cài, wǒ chī de wán ma?",
+              "arti": "Sebanyak ini makanannya, apakah saya bisa menghabiskannya?"
+            },
+            {
+              "hanzi": "他的口音太重，我听不懂。",
+              "pinyin": "Tā de kǒuyīn tài zhòng, wǒ tīng bù dǒng.",
+              "arti": "Logatnya terlalu berat, saya tidak mengerti."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">得</span> juga dapat muncul dalam pelengkap arah untuk menunjukkan apakah gerakan dapat dilakukan menuju suatu arah."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "他走得上山吗？",
+              "pinyin": "Tā zǒu de shàng shān ma?",
+              "arti": "Apakah dia bisa berjalan naik gunung?"
+            },
+            {
+              "hanzi": "我回不去。",
+              "pinyin": "Wǒ huí bù qù.",
+              "arti": "Saya tidak bisa kembali ke sana."
+            },
+            {
+              "hanzi": "这东西放得进来吗？",
+              "pinyin": "Zhè dōngxi fàng de jìn lái ma?",
+              "arti": "Benda ini bisa dimasukkan ke sini?"
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "得 harus dibedakan dari adverbial 地. Dalam 他说得很清楚, 很清楚 adalah pelengkap yang datang sesudah verba dan menilai hasil atau kualitas pelaksanaan tindakan. Jika keterangan diletakkan sebelum verba, struktur yang lazim adalah 他很清楚地说. Dua kalimat tersebut dapat sama-sama diterjemahkan dengan kata dengan jelas, tetapi sudut pandangnya berbeda: 地 memodifikasi tindakan dari depan, sedangkan 得 menilai bagaimana tindakan itu terlaksana dari belakang. 得 juga membentuk potential complement (pelengkap potensial), yaitu pola V + 得/不 + hasil atau arah untuk menyatakan mampu atau tidak mampu mencapai hasil."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Struktur",
+            "Contoh",
+            "Makna",
+            "Kontras"
+          ],
+          "baris": [
+            [
+              "V + 得 + C",
+              "说得清楚",
+              "berbicara dengan jelas",
+              "Menilai pelaksanaan setelah V"
+            ],
+            [
+              "Adv + 地 + V",
+              "清楚地说",
+              "berbicara dengan jelas",
+              "Keterangan diletakkan sebelum V"
+            ],
+            [
+              "V + 得 + hasil",
+              "吃得完",
+              "bisa menghabiskan",
+              "Kemampuan mencapai hasil"
+            ],
+            [
+              "V + 不 + hasil",
+              "吃不完",
+              "tidak bisa menghabiskan",
+              "Ketidakmampuan mencapai hasil"
+            ],
+            [
+              "V + 得 + arah",
+              "进得去",
+              "bisa masuk",
+              "Kemampuan mencapai arah"
+            ],
+            [
+              "V + 不 + arah",
+              "进不去",
+              "tidak bisa masuk",
+              "Arah tidak tercapai"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "他说中文说得很好。",
+              "pinyin": "Tā shuō Zhōngwén shuō de hěn hǎo.",
+              "arti": "Dia berbicara bahasa Mandarin dengan sangat baik.",
+              "catatan": "Objek 中文 berada di antara verba yang diulang; 得 menghubungkan verba kedua dengan pelengkap."
+            },
+            {
+              "hanzi": "你写得太慢了。",
+              "pinyin": "Nǐ xiě de tài màn le.",
+              "arti": "Kamu menulis terlalu lambat.",
+              "catatan": "得 menghubungkan 写 dengan penilaian kecepatan."
+            },
+            {
+              "hanzi": "这个箱子我一个人拿不动。",
+              "pinyin": "Zhège xiāngzi wǒ yí gè rén ná bù dòng.",
+              "arti": "Kotak ini tidak sanggup saya angkat sendirian.",
+              "catatan": "不 + 动 adalah potential complement."
+            },
+            {
+              "hanzi": "这么小的房间放得下这么多东西吗？",
+              "pinyin": "Zhème xiǎo de fángjiān fàng de xià zhème duō dōngxi ma?",
+              "arti": "Apakah kamar sekecil ini muat menampung sebanyak ini barang?",
+              "catatan": "得下 menunjukkan kemungkinan mencapai hasil muat."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menyebut semua 得 sebagai pelengkap cara. Dalam bentuk 吃得完, 听得懂, 进得去, 得 menyatakan kemungkinan mencapai hasil atau arah. Selain itu, potential complement berbeda dari modal 能: 吃得完 menilai apakah tindakan mencapai hasil, sedangkan 能吃 dapat lebih umum berarti mampu makan."
+        }
+      ]
+    },
+    {
+      "judul": "2.3 地 — Mengubah Sifat Menjadi Keterangan Cara",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">地</span> (<span class=\"py\">de</span>) digunakan untuk mengubah kata sifat atau ungkapan yang menerangkan keadaan menjadi keterangan cara yang menjelaskan bagaimana suatu tindakan dilakukan. Rumus dasarnya adalah [Kata Sifat] + <span class=\"hz\">地</span> + [Kata Kerja]."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "她慢慢地走路。",
+              "pinyin": "Tā màn màn de zǒu lù.",
+              "arti": "Dia berjalan pelan-pelan."
+            },
+            {
+              "hanzi": "他认真地学习。",
+              "pinyin": "Tā rènzhēn de xuéxí.",
+              "arti": "Dia belajar dengan serius."
+            },
+            {
+              "hanzi": "孩子们高兴地笑了。",
+              "pinyin": "Háizi men gāoxìng de xiào le.",
+              "arti": "Anak-anak tertawa dengan gembira."
+            },
+            {
+              "hanzi": "请仔细地听。",
+              "pinyin": "Qǐng zǐxì de tīng.",
+              "arti": "Tolong dengarkan dengan saksama."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Kata sifat berubah fungsi menjadi keterangan cara ketika digunakan dengan <span class=\"hz\">地</span>. Misalnya 认真 menjadi 认真地学习, yaitu belajar dengan serius, dan 高兴 menjadi 高兴地跳起来, yaitu meloncat dengan gembira."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Jika kata sifat mengalami reduplikasi (pengulangan bentuk), <span class=\"hz\">地</span> sering digunakan untuk membentuk keterangan cara."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "慢慢地走",
+              "pinyin": "màn màn de zǒu",
+              "arti": "berjalan pelan-pelan"
+            },
+            {
+              "hanzi": "好好地照顾",
+              "pinyin": "hǎo hǎo de zhàogù",
+              "arti": "merawat dengan baik"
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "地 menandai adverbial (keterangan) yang ditempatkan sebelum verba. Bentuk yang mendahului 地 tidak harus selalu satu kata sifat; dapat berupa reduplikasi, frasa sifat, kuantifikasi distributif, atau ungkapan yang berfungsi sebagai keterangan. Dalam tulisan formal, 地 membantu pembaca melihat batas struktur. Dalam percakapan atau tulisan digital, penutur sering mengandalkan konteks dan kadang tidak konsisten membedakan 的 dan 地 secara ortografis, tetapi bentuk standar tetap mempertahankan 地 ketika fungsinya adalah adverbial."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk",
+            "Fungsi",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "Sifat + 地 + V",
+              "Cara",
+              "认真地学习",
+              "belajar dengan serius"
+            ],
+            [
+              "Reduplikasi + 地 + V",
+              "Cara yang berulang/bertahap",
+              "慢慢地走",
+              "berjalan pelan-pelan"
+            ],
+            [
+              "Distributif + 地 + V",
+              "Distribusi",
+              "一个一个地检查",
+              "memeriksa satu per satu"
+            ],
+            [
+              "Frasa keterangan + 地 + V",
+              "Cara/sikap",
+              "小心地打开",
+              "membuka dengan hati-hati"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "请慢慢地说。",
+              "pinyin": "Qǐng mànmàn de shuō.",
+              "arti": "Tolong bicara pelan-pelan.",
+              "catatan": "Reduplikasi memperkuat nuansa cara."
+            },
+            {
+              "hanzi": "老师详细地解释了语法。",
+              "pinyin": "Lǎoshī xiángxì de jiěshì le yǔfǎ.",
+              "arti": "Guru menjelaskan tata bahasa secara rinci.",
+              "catatan": "详细地 menerangkan cara menjelaskan."
+            },
+            {
+              "hanzi": "我们一个一个地进去。",
+              "pinyin": "Wǒmen yí ge yí ge de jìnqù.",
+              "arti": "Kami masuk satu per satu.",
+              "catatan": "Ini bersifat distributif, bukan sekadar sifat cara."
+            },
+            {
+              "hanzi": "她高兴地跑过来。",
+              "pinyin": "Tā gāoxìng de pǎo guòlái.",
+              "arti": "Dia berlari kemari dengan gembira.",
+              "catatan": "高兴地 menerangkan cara/sikap ketika berlari."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan tertukar posisi tiga de. 的 terutama menghubungkan keterangan dengan benda, 得 menghubungkan verba atau sifat dengan pelengkap, sedangkan 地 berada sebelum kata kerja untuk menerangkan cara. Dalam tulisan modern, ketidakkonsistenan 的/地 sering terlihat di internet, tetapi itu bukan alasan untuk menghapus perbedaan dalam materi standar."
+        }
+      ]
+    },
+    {
+      "judul": "3. Aspek dalam Mandarin: Bukan Tense",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Bahasa Mandarin tidak memiliki sistem tense (bentuk waktu gramatikal) seperti bahasa Inggris. Mandarin menggunakan konteks, keterangan waktu, dan partikel aspek untuk menunjukkan status suatu tindakan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Tense dalam bahasa Inggris",
+            "Aspek dalam bahasa Mandarin"
+          ],
+          "baris": [
+            [
+              "Berfokus pada waktu: masa lalu, sekarang, atau masa depan.",
+              "Berfokus pada status tindakan: selesai, belum, pernah, sedang, atau keadaan yang berlangsung."
+            ],
+            [
+              "Perubahan waktu dapat menyebabkan perubahan bentuk kata kerja.",
+              "Kata kerja Mandarin tetap pada bentuk dasarnya; waktu banyak ditentukan oleh konteks dan kata keterangan waktu."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "昨天我去商店。",
+              "pinyin": "Zuótiān wǒ qù shāngdiàn.",
+              "arti": "Kemarin saya pergi ke toko.",
+              "catatan": "Kata kerja 去 tetap sama meskipun peristiwanya terjadi kemarin."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Pernyataan bahwa Mandarin tidak mempunyai tense harus dipahami dengan hati-hati: kata kerja Mandarin tidak berubah bentuk secara wajib untuk menandai past, present, atau future. Namun Mandarin tetap mempunyai banyak cara gramatikal dan leksikal untuk mengatur waktu dan sudut pandang, termasuk 了, 过, 着, 在, keterangan waktu, modal 要 dan 会, serta pola temporal seperti 以后、以前、已经、马上. Karena itu, kalimat seperti 昨天我去商店 dapat dipahami sebagai peristiwa lampau hanya karena 昨天 memberi kerangka waktu; menambahkan 了 akan mengubah cara pembicara mengemas peristiwa, bukan sekadar mengubahnya dari present menjadi past."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Sudut pandang",
+            "Penanda umum",
+            "Contoh",
+            "Fokus"
+          ],
+          "baris": [
+            [
+              "Waktu kalender",
+              "昨天、明天、刚才",
+              "昨天我去商店",
+              "Kapan peristiwa terjadi"
+            ],
+            [
+              "Penyelesaian",
+              "了",
+              "我买了书",
+              "Peristiwa dipandang selesai"
+            ],
+            [
+              "Pengalaman",
+              "过",
+              "我去过北京",
+              "Pernah mengalami"
+            ],
+            [
+              "Proses",
+              "在、正在",
+              "我正在吃饭",
+              "Sedang berlangsung"
+            ],
+            [
+              "Keadaan bertahan",
+              "着",
+              "门开着",
+              "Status yang bertahan"
+            ],
+            [
+              "Perubahan keadaan",
+              "句末 了",
+              "下雨了",
+              "Keadaan sekarang berubah"
+            ],
+            [
+              "Prediksi/niat",
+              "会、要",
+              "会下雨、要走",
+              "Sikap terhadap masa depan"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "去年我住在北京。",
+              "pinyin": "Qùnián wǒ zhù zài Běijīng.",
+              "arti": "Tahun lalu saya tinggal di Beijing.",
+              "catatan": "Waktu lampau berasal dari 去年; 住 tidak berubah bentuk."
+            },
+            {
+              "hanzi": "我已经吃饭了。",
+              "pinyin": "Wǒ yǐjīng chīfàn le.",
+              "arti": "Saya sudah makan.",
+              "catatan": "已经 dan 了 bersama-sama memperjelas bahwa makan telah selesai."
+            },
+            {
+              "hanzi": "我现在正在工作。",
+              "pinyin": "Wǒ xiànzài zhèngzài gōngzuò.",
+              "arti": "Sekarang saya sedang bekerja.",
+              "catatan": "现在 memberi waktu; 正在 memberi aspek proses."
+            },
+            {
+              "hanzi": "明年我会去中国。",
+              "pinyin": "Míngnián wǒ huì qù Zhōngguó.",
+              "arti": "Tahun depan saya mungkin/akan pergi ke Tiongkok.",
+              "catatan": "明年 memberi waktu masa depan; 会 memberi prediksi atau kemungkinan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menerjemahkan 了 secara otomatis menjadi kata sudah. 了 bukan padanan satu kata Indonesia yang selalu wajib. Sebaliknya, jangan menganggap ketiadaan 了 berarti tindakan belum selesai; konteks dapat membuat tindakan jelas selesai tanpa 了."
+        }
+      ]
+    },
+    {
+      "judul": "4. 了 — Tindakan Selesai dan Perubahan Keadaan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">了</span> (<span class=\"py\">le</span>) merupakan salah satu partikel paling kompleks dalam Mandarin. Dalam materi ini, dua fungsi utamanya adalah menunjukkan tindakan yang telah selesai dan menunjukkan perubahan keadaan."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Sebagai penanda aspek penyelesaian, <span class=\"hz\">了</span> menunjukkan bahwa tindakan telah selesai. Pola dasarnya adalah [Subjek] + [Verba] + <span class=\"hz\">了</span> + [Objek]."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我吃了饭。",
+              "pinyin": "Wǒ chī le fàn.",
+              "arti": "Saya sudah makan."
+            },
+            {
+              "hanzi": "她买了书。",
+              "pinyin": "Tā mǎi le shū.",
+              "arti": "Dia sudah membeli buku."
+            },
+            {
+              "hanzi": "我们看了电影。",
+              "pinyin": "Wǒmen kàn le diànyǐng.",
+              "arti": "Kami sudah menonton film."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "<span class=\"hz\">了</span> sebagai aspek penyelesaian tidak otomatis berarti masa lalu. Dalam konteks tertentu, tindakan yang akan terjadi di masa depan juga dapat menggunakan <span class=\"hz\">了</span> untuk menunjukkan bahwa suatu tindakan akan sudah selesai sebelum tindakan berikutnya terjadi."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "明天我吃了饭就去找你。",
+              "pinyin": "Míngtiān wǒ chī le fàn jiù qù zhǎo nǐ.",
+              "arti": "Besok setelah saya selesai makan, saya akan mencari kamu."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Sebagai partikel akhir kalimat, <span class=\"hz\">了</span> menunjukkan perubahan keadaan atau munculnya informasi baru. Fokusnya bukan sekadar tindakan selesai, tetapi keadaan sekarang berbeda dari sebelumnya."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "下雨了！",
+              "pinyin": "Xiàyǔ le!",
+              "arti": "Hujan!",
+              "catatan": "Sebelumnya tidak hujan; sekarang keadaan berubah menjadi hujan."
+            },
+            {
+              "hanzi": "我不饿了。",
+              "pinyin": "Wǒ bù è le.",
+              "arti": "Saya tidak lapar lagi.",
+              "catatan": "Sebelumnya lapar, sekarang tidak lapar."
+            },
+            {
+              "hanzi": "他来了。",
+              "pinyin": "Tā lái le.",
+              "arti": "Dia datang.",
+              "catatan": "Keadaan berubah; sekarang dia sudah datang atau berada di tempat."
+            },
+            {
+              "hanzi": "太晚了！",
+              "pinyin": "Tài wǎn le!",
+              "arti": "Sudah terlalu malam!"
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dua kemunculan <span class=\"hz\">了</span> dalam satu kalimat dapat membawa fungsi yang berbeda: yang pertama dapat menandai penyelesaian tindakan, sedangkan yang kedua dapat menandai perubahan keadaan atau kepastian keadaan baru."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我吃了饭了。",
+              "pinyin": "Wǒ chī le fàn le.",
+              "arti": "Saya sudah makan.",
+              "catatan": "Menekankan tindakan selesai sekaligus keadaan baru atau kepastian bahwa sudah makan."
+            },
+            {
+              "hanzi": "他走了。",
+              "pinyin": "Tā zǒu le.",
+              "arti": "Dia sudah pergi.",
+              "catatan": "Dapat dipahami sebagai perubahan keadaan karena dia telah meninggalkan tempat."
+            },
+            {
+              "hanzi": "他走了一个小时了。",
+              "pinyin": "Tā zǒu le yī gè xiǎoshí le.",
+              "arti": "Dia sudah pergi selama satu jam.",
+              "catatan": "Menunjukkan durasi sekaligus perubahan keadaan."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "了 memiliki dua posisi besar yang harus dipisahkan secara konseptual. 了 setelah verba atau di dalam frasa verbal sering dipahami sebagai perfective marker (penanda aspek perfektif), yaitu pembicara melihat peristiwa sebagai satu keseluruhan yang sudah mencapai batas yang relevan. 了 di akhir klausa lebih dekat dengan sentence-final change-of-state particle (partikel perubahan keadaan), yaitu pembicara memberi tahu bahwa keadaan sekarang berbeda atau informasi baru relevan. Kedua fungsi dapat muncul sekaligus. Karena itu, 我吃了饭 dan 我吃饭了 bukan sekadar dua cara acak mengatakan sudah makan: fokus struktur dan konteksnya berbeda."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk",
+            "Fokus",
+            "Contoh",
+            "Makna alami"
+          ],
+          "baris": [
+            [
+              "V + 了 + O",
+              "Peristiwa dipandang selesai",
+              "我买了书",
+              "Saya sudah membeli buku."
+            ],
+            [
+              "Kalimat + 了",
+              "Keadaan baru/informasi baru",
+              "我不饿了",
+              "Sekarang saya tidak lapar lagi."
+            ],
+            [
+              "V + 了 + O + 了",
+              "Penyelesaian + keadaan baru",
+              "我吃了饭了",
+              "Saya sudah makan, jadi keadaan sekarang berbeda/relevan."
+            ],
+            [
+              "V + 了 + durasi + 了",
+              "Mulai dulu dan masih berlangsung",
+              "我等了你一小时了",
+              "Saya sudah menunggu satu jam dan masih menunggu."
+            ],
+            [
+              "V + 了 dalam klausa temporal",
+              "Selesai sebelum kejadian berikutnya",
+              "吃了饭就走",
+              "Setelah selesai makan, langsung pergi."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我昨天买了电脑。",
+              "pinyin": "Wǒ zuótiān mǎi le diànnǎo.",
+              "arti": "Kemarin saya membeli komputer.",
+              "catatan": "了 menandai peristiwa sebagai keseluruhan yang selesai."
+            },
+            {
+              "hanzi": "你吃饭了吗？",
+              "pinyin": "Nǐ chīfàn le ma?",
+              "arti": "Apakah kamu sudah makan?",
+              "catatan": "了 dalam pertanyaan dapat menanyakan apakah keadaan atau peristiwa yang relevan sudah tercapai."
+            },
+            {
+              "hanzi": "天黑了。",
+              "pinyin": "Tiān hēi le.",
+              "arti": "Hari sudah gelap.",
+              "catatan": "Perubahan keadaan; sebelumnya belum gelap."
+            },
+            {
+              "hanzi": "孩子长大了。",
+              "pinyin": "Háizi zhǎng dà le.",
+              "arti": "Anak itu sudah besar.",
+              "catatan": "Perubahan keadaan, bukan sekadar tindakan selesai."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Sumber awal menyederhanakan 了 sebagai selesai dan perubahan keadaan; untuk pembelajaran lanjutan, jangan menyamakan perfective dengan masa lalu. 了 dapat muncul dalam kondisi masa depan seperti 明天吃了饭就走. Selain itu, satu kalimat tidak selalu membutuhkan 了 pada setiap verba; pemilihan bergantung pada batas peristiwa dan fokus."
+        }
+      ]
+    },
+    {
+      "judul": "5. 过 — Pernah Mengalami",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">过</span> (<span class=\"py\">guò</span>) menunjukkan bahwa seseorang pernah mengalami atau melakukan suatu tindakan di masa lalu. Fokusnya adalah pengalaman, bukan sekadar penyelesaian satu tindakan tertentu."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Pola dasarnya adalah [Subjek] + [Verba] + <span class=\"hz\">过</span> + [Objek]."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我去过中国。",
+              "pinyin": "Wǒ qù guò Zhōngguó.",
+              "arti": "Saya pernah ke Tiongkok."
+            },
+            {
+              "hanzi": "她吃过这个菜。",
+              "pinyin": "Tā chī guò zhège cài.",
+              "arti": "Dia pernah makan masakan ini."
+            },
+            {
+              "hanzi": "你看过这部电影吗？",
+              "pinyin": "Nǐ kàn guò zhè bù diànyǐng ma?",
+              "arti": "Apakah kamu pernah menonton film ini?"
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "了",
+            "过"
+          ],
+          "baris": [
+            [
+              "Menekankan tindakan yang telah selesai.",
+              "Menekankan pengalaman pernah melakukan atau mengalami."
+            ],
+            [
+              "我吃了饭 — saya sudah makan.",
+              "我吃过饭 — saya pernah makan."
+            ],
+            [
+              "她去了北京 — dia pergi ke Beijing, fokus pada keberangkatan.",
+              "她去过北京 — dia pernah ke Beijing, fokus pada pengalaman."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Negasi <span class=\"hz\">过</span> menggunakan <span class=\"hz\">没</span> atau <span class=\"hz\">没有</span> + verba + <span class=\"hz\">过</span>."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我没去过中国。",
+              "pinyin": "Wǒ méi qù guò Zhōngguó.",
+              "arti": "Saya belum pernah ke Tiongkok."
+            },
+            {
+              "hanzi": "他没吃过羊肉。",
+              "pinyin": "Tā méi chī guò yángròu.",
+              "arti": "Dia belum pernah makan daging kambing."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "过 sebagai aspek pengalaman menyatakan bahwa pembicara menempatkan suatu kejadian sebagai bagian dari riwayat pengalaman seseorang. Fokusnya adalah apakah pengalaman itu pernah terjadi, bukan kapan tepatnya dan bukan apakah hasilnya sedang berlaku sekarang. Karena itu, 我去过北京 menjawab pertanyaan pengalaman, sedangkan 我去了北京 lebih mudah dibaca sebagai laporan peristiwa tertentu. 过 juga dapat muncul dengan objek yang spesifik. Dalam pertanyaan, 过 sering berhubungan dengan pengalaman hidup sampai titik waktu yang sedang dibicarakan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kalimat",
+            "Fokus",
+            "Pertanyaan yang cocok"
+          ],
+          "baris": [
+            [
+              "我去了北京。",
+              "Perjalanan/peristiwa tertentu",
+              "Kamu pergi ke Beijing? Apa yang terjadi?"
+            ],
+            [
+              "我去过北京。",
+              "Pengalaman pernah ke Beijing",
+              "Kamu pernah ke Beijing?"
+            ],
+            [
+              "我还没去过北京。",
+              "Belum punya pengalaman itu",
+              "Sampai sekarang pernah atau belum?"
+            ],
+            [
+              "我去过北京了。",
+              "Pengalaman yang ditegaskan sudah tercapai dalam konteks",
+              "Sekarang statusnya sudah dilakukan?"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你吃过北京烤鸭吗？",
+              "pinyin": "Nǐ chī guò Běijīng kǎoyā ma?",
+              "arti": "Apakah kamu pernah makan bebek panggang Beijing?",
+              "catatan": "Pertanyaan pengalaman."
+            },
+            {
+              "hanzi": "我以前看过这部电影。",
+              "pinyin": "Wǒ yǐqián kàn guò zhè bù diànyǐng.",
+              "arti": "Saya pernah menonton film ini sebelumnya.",
+              "catatan": "以前 memperjelas pengalaman terdahulu."
+            },
+            {
+              "hanzi": "我从来没坐过飞机。",
+              "pinyin": "Wǒ cónglái méi zuò guò fēijī.",
+              "arti": "Saya belum pernah naik pesawat sama sekali.",
+              "catatan": "从来没 memperkuat tidak adanya pengalaman."
+            },
+            {
+              "hanzi": "他小时候去过上海。",
+              "pinyin": "Tā xiǎoshíhou qù guò Shànghǎi.",
+              "arti": "Waktu kecil dia pernah ke Shanghai.",
+              "catatan": "过 tidak mengharuskan pengalaman terjadi baru-baru ini."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan gunakan 过 hanya karena kalimat bahasa Indonesia mengandung kata pernah secara mekanis. Yang penting adalah apakah pembicara sedang menilai pengalaman sebagai bagian dari riwayat. Sebaliknya, 了 dapat tetap benar jika fokusnya adalah satu peristiwa selesai, meskipun dalam terjemahan Indonesia kadang muncul kata pernah."
+        }
+      ]
+    },
+    {
+      "judul": "6. 在 dan 正在 — Sedang Berlangsung",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">在</span> (<span class=\"py\">zài</span>) dan <span class=\"hz\">正在</span> (<span class=\"py\">zhèngzài</span>) menunjukkan bahwa suatu tindakan sedang berlangsung pada saat tertentu. Pola dasarnya adalah [Subjek] + <span class=\"hz\">在</span>/<span class=\"hz\">正在</span> + [Verba] + [Objek]."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我在吃饭。",
+              "pinyin": "Wǒ zài chī fàn.",
+              "arti": "Saya sedang makan."
+            },
+            {
+              "hanzi": "她正在写作业。",
+              "pinyin": "Tā zhèngzài xiě zuòyè.",
+              "arti": "Dia sedang mengerjakan PR."
+            },
+            {
+              "hanzi": "他们看电视呢。",
+              "pinyin": "Tāmen kàn diànshì ne.",
+              "arti": "Mereka sedang menonton TV.",
+              "catatan": "<span class=\"hz\">呢</span> memberikan penekanan pada keadaan yang sedang berlangsung."
+            },
+            {
+              "hanzi": "昨天下午三点，我正睡觉呢。",
+              "pinyin": "Zuótiān xiàwǔ sān diǎn, wǒ zhèng shuìjiào ne.",
+              "arti": "Kemarin jam tiga sore, saya sedang tidur."
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "在",
+              "Sedang, penggunaan umum."
+            ],
+            [
+              "正在",
+              "Sedang, dengan penekanan lebih kuat pada tindakan yang tepat sedang berlangsung."
+            ],
+            [
+              "呢",
+              "Dapat ditempatkan di akhir kalimat untuk menekankan keadaan yang sedang berlangsung."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "在 dan 正在 merupakan penanda progresif yang menempatkan perhatian pada proses yang sedang berlangsung. 在 lebih umum dan sangat produktif dalam percakapan; 正在 memberi penekanan lebih eksplisit pada momen tepat ketika tindakan berlangsung. Bentuk 正 dapat pula muncul sendiri dalam konteks tertentu, sedangkan 呢 di akhir kalimat bukan penanda progresif wajib, melainkan memberi nuansa bahwa keadaan tersebut sedang menjadi topik atau sedang berlangsung. Penanda ini juga dapat digunakan untuk titik waktu lampau: 昨天下午三点我正在睡觉 berarti pada titik lampau itu proses tidur sedang berlangsung."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk",
+            "Nuansa",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "在 + V",
+              "Progresif umum",
+              "我在吃饭",
+              "Saya sedang makan."
+            ],
+            [
+              "正在 + V",
+              "Progresif lebih ditonjolkan",
+              "我正在吃饭",
+              "Saya sedang benar-benar dalam proses makan."
+            ],
+            [
+              "正 + V",
+              "Tepat sedang pada titik waktu",
+              "我正吃饭呢",
+              "Saya sedang makan sekarang."
+            ],
+            [
+              "V + 呢",
+              "Keadaan sedang sebagai informasi/topik",
+              "我吃饭呢",
+              "Saya lagi makan."
+            ],
+            [
+              "正在 + V + 呢",
+              "Penekanan kuat dan percakapan",
+              "我正在等你呢",
+              "Saya sedang menunggumu."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我在学习中文。",
+              "pinyin": "Wǒ zài xuéxí Zhōngwén.",
+              "arti": "Saya sedang belajar Mandarin.",
+              "catatan": "Proses belajar sedang berlangsung."
+            },
+            {
+              "hanzi": "她正在给客户打电话。",
+              "pinyin": "Tā zhèngzài gěi kèhù dǎ diànhuà.",
+              "arti": "Dia sedang menelepon klien.",
+              "catatan": "正在 menekankan proses yang sedang terjadi."
+            },
+            {
+              "hanzi": "昨晚十点，我正在睡觉。",
+              "pinyin": "Zuówǎn shí diǎn, wǒ zhèngzài shuìjiào.",
+              "arti": "Tadi malam jam sepuluh saya sedang tidur.",
+              "catatan": "Progresif dapat berlaku pada waktu lampau."
+            },
+            {
+              "hanzi": "你找我？我洗澡呢。",
+              "pinyin": "Nǐ zhǎo wǒ? Wǒ xǐzǎo ne.",
+              "arti": "Kamu mencari saya? Saya sedang mandi.",
+              "catatan": "呢 memberi nuansa percakapan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "在 juga merupakan verba/preposisi lokasi dalam bahasa Mandarin, sehingga jangan menganggap setiap 在 adalah aspek. Bandingkan 我在北京 dengan 我在看书: yang pertama menyatakan lokasi, yang kedua menandai proses."
+        }
+      ]
+    },
+    {
+      "judul": "7. 要 dan 会 — Akan Terjadi",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">要</span> dan <span class=\"hz\">会</span> dapat digunakan untuk membicarakan sesuatu yang akan terjadi, tetapi sumber maknanya berbeda."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">要</span> (<span class=\"py\">yào</span>) menunjukkan niat, rencana, atau sesuatu yang diperkirakan segera terjadi. Nuansanya sering lebih dekat dengan kemauan atau rencana dekat."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我要去学校。",
+              "pinyin": "Wǒ yào qù xuéxiào.",
+              "arti": "Saya mau pergi ke sekolah."
+            },
+            {
+              "hanzi": "明天要下雨了。",
+              "pinyin": "Míngtiān yào xiàyǔ le.",
+              "arti": "Besok akan hujan.",
+              "catatan": "Menunjukkan perkiraan dekat."
+            },
+            {
+              "hanzi": "他要结婚了。",
+              "pinyin": "Tā yào jiéhūn le.",
+              "arti": "Dia akan menikah.",
+              "catatan": "Menunjukkan rencana dekat."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">会</span> (<span class=\"py\">huì</span>) menunjukkan prediksi, kemungkinan, atau sesuatu yang diperkirakan akan terjadi berdasarkan pengetahuan atau penilaian pembicara."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "明天会下雨吗？",
+              "pinyin": "Míngtiān huì xiàyǔ ma?",
+              "arti": "Apakah besok akan hujan?",
+              "catatan": "Prediksi cuaca."
+            },
+            {
+              "hanzi": "他会来的。",
+              "pinyin": "Tā huì lái de.",
+              "arti": "Dia akan datang.",
+              "catatan": "Pembicara menyatakan prediksi."
+            },
+            {
+              "hanzi": "这个计划会成功。",
+              "pinyin": "Zhège jìhuà huì chénggōng.",
+              "arti": "Rencana ini akan berhasil."
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "要",
+            "会"
+          ],
+          "baris": [
+            [
+              "Niat atau rencana dekat.",
+              "Prediksi atau kemungkinan."
+            ],
+            [
+              "我要去北京 — saya mau pergi ke Beijing.",
+              "我会去北京 — saya akan pergi ke Beijing, dalam arti prediksi atau kemungkinan."
+            ],
+            [
+              "要下雨了 — hujan akan segera turun.",
+              "明天会下雨 — besok akan hujan sebagai prediksi."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "要 dan 会 sama-sama dapat diterjemahkan akan, tetapi bukan dua tense masa depan. 要 memiliki beberapa fungsi lain seperti ingin, harus, membutuhkan, dan hampir terjadi, sehingga konteks sangat penting. Dalam makna masa depan, 要 sering mengarah pada niat, rencana, atau kejadian yang terasa dekat/akan segera berlangsung. 会 dapat berarti kemampuan learned skill (keterampilan yang dipelajari), misalnya 我会游泳, tetapi dalam konteks masa depan juga menandai prediksi atau kemungkinan. Karena itu, pembelajar harus memisahkan fungsi modalitasnya, bukan menghafal satu terjemahan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk",
+            "Sumber makna",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "要 + V",
+              "Niat/rencana",
+              "我要去北京",
+              "Saya mau/berencana pergi ke Beijing."
+            ],
+            [
+              "要 + V + 了",
+              "Peristiwa segera",
+              "火车要开了",
+              "Kereta sebentar lagi berangkat."
+            ],
+            [
+              "会 + V",
+              "Prediksi/kemungkinan",
+              "明天会下雨",
+              "Besok diperkirakan hujan."
+            ],
+            [
+              "会 + kemampuan",
+              "Keterampilan yang dipelajari",
+              "我会游泳",
+              "Saya bisa berenang."
+            ],
+            [
+              "不 + 要 + V",
+              "Larangan/permintaan agar tidak",
+              "不要说话",
+              "Jangan bicara."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我明天要去银行。",
+              "pinyin": "Wǒ míngtiān yào qù yínháng.",
+              "arti": "Besok saya akan pergi ke bank.",
+              "catatan": "Rencana pembicara."
+            },
+            {
+              "hanzi": "快九点了，电影要开始了。",
+              "pinyin": "Kuài jiǔ diǎn le, diànyǐng yào kāishǐ le.",
+              "arti": "Sudah hampir jam sembilan, film akan segera mulai.",
+              "catatan": "要...了 menunjukkan kejadian yang segera terjadi."
+            },
+            {
+              "hanzi": "明天会很冷。",
+              "pinyin": "Míngtiān huì hěn lěng.",
+              "arti": "Besok akan dingin.",
+              "catatan": "Prediksi."
+            },
+            {
+              "hanzi": "他会解决这个问题。",
+              "pinyin": "Tā huì jiějué zhège wèntí.",
+              "arti": "Dia akan mampu/kemungkinan besar menyelesaikan masalah ini.",
+              "catatan": "Makna ditentukan konteks; 会 tidak selalu sekadar masa depan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan membuat aturan absolut bahwa 要 selalu masa depan dekat dan 会 selalu masa depan. 要 dan 会 adalah modal; keduanya punya fungsi lain. Contoh 我要咖啡 bukan berarti saya akan kopi, tetapi saya ingin/minta kopi; 我会说中文 berarti saya bisa berbicara Mandarin."
+        }
+      ]
+    },
+    {
+      "judul": "8. Partikel Akhir Kalimat: 吗、呢、吧",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Partikel akhir kalimat memberikan nuansa interaksi sosial yang penting. Tiga partikel utama dalam materi ini adalah <span class=\"hz\">吗</span>, <span class=\"hz\">呢</span>, dan <span class=\"hz\">吧</span>."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">吗</span> (<span class=\"py\">ma</span>) digunakan untuk membentuk pertanyaan yang mengharapkan jawaban ya atau tidak."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你好吗？",
+              "pinyin": "Nǐ hǎo ma?",
+              "arti": "Apa kabar?"
+            },
+            {
+              "hanzi": "他是老师吗？",
+              "pinyin": "Tā shì lǎoshī ma?",
+              "arti": "Apakah dia guru?"
+            },
+            {
+              "hanzi": "你吃饭了吗？",
+              "pinyin": "Nǐ chī fàn le ma?",
+              "arti": "Apakah kamu sudah makan?"
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">呢</span> (<span class=\"py\">ne</span>) dapat digunakan untuk pertanyaan balik, menekankan keadaan sedang berlangsung, atau menanyakan keberadaan maupun keadaan sesuatu."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我很好，你呢？",
+              "pinyin": "Wǒ hěn hǎo, nǐ ne?",
+              "arti": "Saya baik, bagaimana denganmu?"
+            },
+            {
+              "hanzi": "我在看书呢。",
+              "pinyin": "Wǒ zài kàn shū ne.",
+              "arti": "Saya sedang membaca buku."
+            },
+            {
+              "hanzi": "我的书呢？",
+              "pinyin": "Wǒ de shū ne?",
+              "arti": "Di mana buku saya?"
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">吧</span> (<span class=\"py\">ba</span>) dapat menunjukkan saran atau ajakan, perkiraan, serta persetujuan yang bersifat lunak."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我们走吧！",
+              "pinyin": "Wǒmen zǒu ba!",
+              "arti": "Ayo kita pergi!"
+            },
+            {
+              "hanzi": "他大概走了吧。",
+              "pinyin": "Tā dàgài zǒu le ba.",
+              "arti": "Mungkin dia sudah pergi."
+            },
+            {
+              "hanzi": "好吧。",
+              "pinyin": "Hǎo ba.",
+              "arti": "Baiklah."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Partikel akhir kalimat adalah bagian penting dari pragmatik (bagaimana bahasa digunakan dalam interaksi). 吗 biasanya membentuk pertanyaan polar (ya/tidak), tetapi pertanyaan Mandarin juga dapat dibuat tanpa 吗 melalui kata tanya seperti 谁、什么、哪里、为什么. 呢 bukan sekadar kata sedang; ia dapat mengembalikan pertanyaan, menanyakan lokasi/status, atau memberi nuansa bahwa suatu keadaan sedang menjadi topik. 吧 melunakkan saran, dugaan, atau ajakan; dalam konteks tertentu ia membuat pernyataan terdengar kurang mutlak."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Partikel",
+            "Fungsi utama",
+            "Nuansa",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "吗",
+              "Pertanyaan ya/tidak",
+              "Meminta konfirmasi",
+              "你忙吗？"
+            ],
+            [
+              "呢",
+              "Pertanyaan balik",
+              "Mengembalikan topik",
+              "你呢？"
+            ],
+            [
+              "呢",
+              "Keadaan/topik berlangsung",
+              "Menonjolkan situasi",
+              "我吃饭呢。"
+            ],
+            [
+              "呢",
+              "Menanyakan lokasi/status",
+              "Apa dengan X?",
+              "我的手机呢？"
+            ],
+            [
+              "吧",
+              "Ajakan/saran",
+              "Lebih lunak",
+              "走吧。"
+            ],
+            [
+              "吧",
+              "Dugaan",
+              "Tidak sepenuhnya pasti",
+              "他在家吧。"
+            ],
+            [
+              "吧",
+              "Penerimaan",
+              "Menerima dengan nuansa pasrah/lunak",
+              "好吧。"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你明天有空吗？",
+              "pinyin": "Nǐ míngtiān yǒu kòng ma?",
+              "arti": "Apakah besok kamu ada waktu?",
+              "catatan": "Pertanyaan ya/tidak."
+            },
+            {
+              "hanzi": "我很好，你呢？",
+              "pinyin": "Wǒ hěn hǎo, nǐ ne?",
+              "arti": "Saya baik, kamu bagaimana?",
+              "catatan": "呢 mengembalikan pertanyaan."
+            },
+            {
+              "hanzi": "你在做什么呢？",
+              "pinyin": "Nǐ zài zuò shénme ne?",
+              "arti": "Kamu sedang melakukan apa?",
+              "catatan": "呢 memberi nuansa percakapan dan topik sedang berlangsung."
+            },
+            {
+              "hanzi": "我们先吃饭吧。",
+              "pinyin": "Wǒmen xiān chīfàn ba.",
+              "arti": "Mari kita makan dulu.",
+              "catatan": "吧 melunakkan ajakan."
+            },
+            {
+              "hanzi": "他应该到了吧。",
+              "pinyin": "Tā yīnggāi dào le ba.",
+              "arti": "Seharusnya dia sudah sampai, ya.",
+              "catatan": "吧 meminta konfirmasi lunak atau menandai dugaan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Terjemahan Indonesia seperti ya, dong, lah, bagaimana denganmu tidak selalu memiliki padanan satu-ke-satu. Fungsi 吗、呢、吧 sangat bergantung pada intonasi dan konteks. Jangan menghafalkan satu partikel = satu kata Indonesia."
+        }
+      ]
+    },
+    {
+      "judul": "9. 着 — Keadaan yang Bertahan dan Tindakan Bersamaan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">着</span> (<span class=\"py\">zhe</span>) merupakan partikel aspek penting yang melengkapi pemahaman tentang keberlangsungan. Berbeda dari <span class=\"hz\">在</span> dan <span class=\"hz\">正在</span> yang menekankan aksi dinamis yang sedang berlangsung, <span class=\"hz\">着</span> dalam materi ini berfokus pada keadaan atau posisi yang bertahan dan dapat digunakan untuk menunjukkan suatu tindakan yang berlangsung bersamaan sebagai latar atau cara."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Untuk keadaan yang bertahan, <span class=\"hz\">着</span> menunjukkan bahwa setelah suatu tindakan dilakukan, keadaan hasilnya masih berlangsung. Rumusnya adalah [Verba] + <span class=\"hz\">着</span> + [Objek/Keterangan]."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "门开着。",
+              "pinyin": "Mén kāi zhe.",
+              "arti": "Pintu terbuka.",
+              "catatan": "Menunjukkan pintu berada dalam keadaan terbuka."
+            },
+            {
+              "hanzi": "灯亮着。",
+              "pinyin": "Dēng liàng zhe.",
+              "arti": "Lampu menyala.",
+              "catatan": "Menunjukkan keadaan lampu yang tetap menyala."
+            },
+            {
+              "hanzi": "她坐着。",
+              "pinyin": "Tā zuò zhe.",
+              "arti": "Dia duduk.",
+              "catatan": "Menunjukkan posisi duduk, bukan proses mengambil posisi duduk."
+            },
+            {
+              "hanzi": "墙上挂着一幅画。",
+              "pinyin": "Qiáng shàng guà zhe yī fú huà.",
+              "arti": "Di dinding tergantung sebuah lukisan.",
+              "catatan": "Lukisan berada dalam keadaan tergantung."
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "在",
+            "着",
+            "Perbedaan"
+          ],
+          "baris": [
+            [
+              "他在开门。 — Dia sedang membuka pintu.",
+              "门开着。 — Pintu terbuka.",
+              "在 menekankan proses atau aksi dinamis, sedangkan 着 menekankan keadaan yang bertahan."
+            ],
+            [
+              "她在穿衣服。 — Dia sedang memakai baju.",
+              "她穿着红衣服。 — Dia memakai baju merah.",
+              "在 menekankan tindakan memakai, sedangkan 着 menekankan keadaan sudah mengenakan."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">着</span> juga dapat menunjukkan dua tindakan yang terjadi bersamaan. Tindakan pertama yang menggunakan <span class=\"hz\">着</span> biasanya berfungsi sebagai cara atau latar, sedangkan tindakan kedua merupakan aksi utama. Polanya adalah [Verba A + 着] + [Verba B]."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "他站着说话。",
+              "pinyin": "Tā zhàn zhe shuōhuà.",
+              "arti": "Dia berbicara sambil berdiri.",
+              "catatan": "Berdiri menjadi cara atau keadaan ketika berbicara."
+            },
+            {
+              "hanzi": "我听着音乐做饭。",
+              "pinyin": "Wǒ tīng zhe yīnyuè zuò fàn.",
+              "arti": "Saya memasak sambil mendengarkan musik.",
+              "catatan": "Memasak adalah aksi utama; mendengarkan musik menjadi tindakan yang menyertai."
+            },
+            {
+              "hanzi": "她笑着回答。",
+              "pinyin": "Tā xiào zhe huídá.",
+              "arti": "Dia menjawab sambil tersenyum."
+            },
+            {
+              "hanzi": "孩子们跑着去学校。",
+              "pinyin": "Háizi men pǎo zhe qù xuéxiào.",
+              "arti": "Anak-anak pergi ke sekolah sambil berlari."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Tindakan yang menggunakan 着 biasanya menjadi tindakan yang lebih panjang atau berkelanjutan.",
+            "Tindakan utama tanpa 着 dapat berupa tindakan yang lebih pendek atau sesaat.",
+            "着 dapat dipadukan dengan 呢 untuk menekankan keadaan yang sedang berlangsung."
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "他看着书呢。",
+              "pinyin": "Tā kàn zhe shū ne.",
+              "arti": "Dia sedang dalam keadaan membaca buku."
+            },
+            {
+              "hanzi": "外面下着雨呢。",
+              "pinyin": "Wàimiàn xià zhe yǔ ne.",
+              "arti": "Di luar sedang hujan."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam materi ini, negasi keadaan dengan <span class=\"hz\">着</span> menggunakan <span class=\"hz\">没</span> atau <span class=\"hz\">没有</span>."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "开着",
+              "pinyin": "kāi zhe",
+              "arti": "terbuka atau dalam keadaan terbuka"
+            },
+            {
+              "hanzi": "没开着",
+              "pinyin": "méi kāi zhe",
+              "arti": "tidak dalam keadaan terbuka"
+            },
+            {
+              "hanzi": "穿着",
+              "pinyin": "chuān zhe",
+              "arti": "memakai"
+            },
+            {
+              "hanzi": "没穿着",
+              "pinyin": "méi chuān zhe",
+              "arti": "tidak dalam keadaan memakai"
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "着 adalah salah satu aspek yang paling penting untuk membedakan proses dari keadaan. Pada 门开着, pembicara tidak menyoroti proses membuka pintu, melainkan keadaan pintu yang terbuka dan bertahan. Pada 他站着说话, 站着 menjadi latar atau cara saat tindakan utama 说话 berlangsung. Karena itu, 着 sering diterjemahkan dengan sedang, dalam keadaan, sambil, atau tanpa terjemahan eksplisit. Ia juga dapat muncul dalam deskripsi keberadaan, misalnya 桌子上放着一本书, yang menyoroti adanya sebuah buku dalam posisi terletak di meja."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Struktur",
+            "Fokus",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "V + 着",
+              "Keadaan bertahan",
+              "门开着",
+              "Pintu dalam keadaan terbuka."
+            ],
+            [
+              "V + 着 + O",
+              "Keadaan mengenakan/memegang",
+              "她穿着红衣服",
+              "Dia mengenakan baju merah."
+            ],
+            [
+              "V1 + 着 + V2",
+              "Aksi/latar bersamaan",
+              "笑着说",
+              "berkata sambil tersenyum"
+            ],
+            [
+              "Tempat + V着 + N",
+              "Keadaan/eksistensi",
+              "桌上放着一本书",
+              "Di meja ada sebuah buku."
+            ],
+            [
+              "V着 + 呢",
+              "Penekanan keadaan",
+              "门开着呢",
+              "Pintunya memang sedang terbuka."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "窗户开着。",
+              "pinyin": "Chuānghu kāi zhe.",
+              "arti": "Jendela dalam keadaan terbuka.",
+              "catatan": "着 mempertahankan keadaan."
+            },
+            {
+              "hanzi": "她穿着一件白衬衫。",
+              "pinyin": "Tā chuān zhe yí jiàn bái chènshān.",
+              "arti": "Dia mengenakan kemeja putih.",
+              "catatan": "Fokus pada keadaan sudah mengenakan."
+            },
+            {
+              "hanzi": "他笑着跟我说话。",
+              "pinyin": "Tā xiào zhe gēn wǒ shuōhuà.",
+              "arti": "Dia berbicara kepada saya sambil tersenyum.",
+              "catatan": "笑着 menjadi latar/cara."
+            },
+            {
+              "hanzi": "桌子上放着三本书。",
+              "pinyin": "Zhuōzi shàng fàng zhe sān běn shū.",
+              "arti": "Di atas meja ada tiga buku.",
+              "catatan": "着 menggambarkan keadaan buku yang terletak di meja."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Materi sumber menggunakan aturan pedagogis bahwa 在 dan 着 tidak dipakai bersamaan dalam pola dasar yang sama. Itu berguna untuk pemula, tetapi jangan dipahami sebagai larangan absolut untuk seluruh bahasa Mandarin: terdapat konstruksi yang lebih kompleks dengan 在 dan 着 dalam klausa berbeda atau fungsi berbeda. Untuk tahap dasar, cukup bedakan 在 untuk proses dan 着 untuk keadaan/latar."
+        }
+      ]
+    },
+    {
+      "judul": "10. Pola Durasi dengan Dua 了",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Pola [Verba] + <span class=\"hz\">了</span> + [Durasi] + <span class=\"hz\">了</span> digunakan untuk menunjukkan bahwa suatu tindakan dimulai di masa lalu, telah berlangsung selama durasi tertentu, dan masih berlanjut sampai sekarang."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我学中文学了三年了。",
+              "pinyin": "Wǒ xué Zhōngwén xué le sān nián le.",
+              "arti": "Saya sudah belajar Mandarin selama tiga tahun dan masih belajar."
+            },
+            {
+              "hanzi": "他在这儿住了十年了。",
+              "pinyin": "Tā zài zhèr zhù le shí nián le.",
+              "arti": "Dia sudah tinggal di sini selama sepuluh tahun dan masih tinggal di sini."
+            },
+            {
+              "hanzi": "我等了你一个小时了！",
+              "pinyin": "Wǒ děng le nǐ yī gè xiǎoshí le!",
+              "arti": "Saya sudah menunggumu selama satu jam dan masih menunggu."
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Contoh",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "V + 了 + Durasi",
+              "我学了三年中文。",
+              "Saya belajar Mandarin selama tiga tahun; dalam materi ini dipahami sebagai tindakan yang sudah selesai."
+            ],
+            [
+              "V + 了 + Durasi + 了",
+              "我学了三年中文了。",
+              "Saya sudah belajar Mandarin selama tiga tahun dan masih belajar."
+            ],
+            [
+              "V + O + V + 了 + Durasi + 了",
+              "我学中文学了三年了。",
+              "Saya sudah belajar Mandarin selama tiga tahun dan masih belajar."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Jika terdapat objek, terdapat dua pola yang diberikan dalam materi. Pertama, objek dapat ditempatkan setelah durasi. Kedua, verba dan objek dapat diulang sehingga durasi ditempatkan setelah pengulangan verba."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我学了三年中文了。",
+              "pinyin": "Wǒ xué le sān nián Zhōngwén le.",
+              "arti": "Saya sudah belajar Mandarin selama tiga tahun."
+            },
+            {
+              "hanzi": "我学中文学了三年了。",
+              "pinyin": "Wǒ xué Zhōngwén xué le sān nián le.",
+              "arti": "Saya sudah belajar Mandarin selama tiga tahun.",
+              "catatan": "Bentuk pengulangan verba lebih umum dalam percakapan lisan menurut materi."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Pola negatif dengan <span class=\"hz\">没</span> + verba + durasi + <span class=\"hz\">了</span> menunjukkan bahwa sejak suatu waktu sampai sekarang tindakan tersebut belum dilakukan atau sudah tidak dilakukan selama durasi tertentu."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我没去北京三年了。",
+              "pinyin": "Wǒ méi qù Běijīng sān nián le.",
+              "arti": "Saya sudah tiga tahun tidak pergi ke Beijing."
+            },
+            {
+              "hanzi": "他没打电话给我两个月了。",
+              "pinyin": "Tā méi dǎ diànhuà gěi wǒ liǎng gè yuè le.",
+              "arti": "Dia sudah dua bulan tidak menelepon saya."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Pola durasi dengan 了 sangat penting karena memperlihatkan bahwa dua 了 tidak berarti pengulangan kata sudah. Pada 我学中文学了三年了, 了 pertama menandai batas awal/akumulasi durasi dari kegiatan, sedangkan 了 kedua di akhir menghubungkan durasi tersebut dengan keadaan sekarang. Hasil pragmatisnya adalah kegiatan dimulai sebelumnya dan masih relevan atau berlanjut sekarang. Pola ini dapat dipakai untuk tindakan yang berlangsung, keadaan yang berlangsung, dan juga keadaan negatif seperti 没去北京三年了 yang berarti sudah tiga tahun tidak pergi ke Beijing."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Contoh",
+            "Interpretasi utama",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "V + 了 + durasi",
+              "我等了三小时",
+              "Menunggu selama tiga jam; status selesai/tergantung konteks",
+              "Tidak otomatis berarti masih menunggu."
+            ],
+            [
+              "V + 了 + durasi + 了",
+              "我等了三小时了",
+              "Sudah menunggu tiga jam dan masih relevan/berlangsung",
+              "了 akhir mengaitkan dengan keadaan sekarang."
+            ],
+            [
+              "V + O + V + 了 + durasi + 了",
+              "我学中文学了三年了",
+              "Sudah belajar tiga tahun dan masih belajar",
+              "Pengulangan verba membantu menempatkan objek."
+            ],
+            [
+              "没 + V + durasi + 了",
+              "我没见他三个月了",
+              "Sudah tiga bulan tidak bertemu dia",
+              "Durasi sejak kejadian terakhir."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我在这里住了五年了。",
+              "pinyin": "Wǒ zài zhèlǐ zhù le wǔ nián le.",
+              "arti": "Saya sudah tinggal di sini lima tahun dan masih tinggal.",
+              "catatan": "Dua 了 menonjolkan durasi yang masih relevan."
+            },
+            {
+              "hanzi": "她等了两个小时了。",
+              "pinyin": "Tā děng le liǎng gè xiǎoshí le.",
+              "arti": "Dia sudah menunggu dua jam dan masih menunggu.",
+              "catatan": "Konteks percakapan membuat kelanjutan sangat kuat."
+            },
+            {
+              "hanzi": "我学中文学了三年了。",
+              "pinyin": "Wǒ xué Zhōngwén xué le sān nián le.",
+              "arti": "Saya sudah belajar Mandarin tiga tahun dan masih belajar.",
+              "catatan": "Pola V-O-V jelas untuk objek."
+            },
+            {
+              "hanzi": "他没给我打电话一个星期了。",
+              "pinyin": "Tā méi gěi wǒ dǎ diànhuà yí ge xīngqī le.",
+              "arti": "Dia sudah seminggu tidak menelepon saya.",
+              "catatan": "Pola negatif menunjukkan jarak waktu sejak tindakan terakhir."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan mengajarkan satu 了 + durasi sebagai selalu selesai dan dua 了 sebagai selalu masih berlangsung tanpa konteks. Ini adalah heuristik yang sangat berguna, tetapi aspek Mandarin sensitif terhadap jenis verba, konteks, dan konstruksi keseluruhan."
+        }
+      ]
+    },
+    {
+      "judul": "11. Kombinasi Partikel Aspek",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam kalimat kompleks, beberapa partikel dapat muncul bersama dan menghasilkan nuansa yang lebih spesifik. Bagian ini merupakan materi lanjutan untuk memahami interaksi antara <span class=\"hz\">了</span>, <span class=\"hz\">过</span>, dan <span class=\"hz\">着</span>."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Kombinasi <span class=\"hz\">过</span> dan <span class=\"hz\">了</span> dapat digunakan untuk menekankan bahwa suatu pengalaman sudah terjadi atau sudah menjadi fakta yang selesai dalam konteks tertentu."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我去过了。",
+              "pinyin": "Wǒ qù guò le.",
+              "arti": "Saya sudah pernah pergi."
+            },
+            {
+              "hanzi": "她看过了这部电影。",
+              "pinyin": "Tā kàn guò le zhè bù diànyǐng.",
+              "arti": "Dia sudah pernah menonton film ini."
+            },
+            {
+              "hanzi": "我吃过饭了。",
+              "pinyin": "Wǒ chī guò fàn le.",
+              "arti": "Saya sudah makan.",
+              "catatan": "Dalam konteks percakapan, bentuk ini dapat digunakan untuk menegaskan bahwa pembicara sudah makan dan tidak perlu ditawari makan lagi."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Perbedaan nuansanya dapat diringkas sebagai berikut: <span class=\"hz\">我吃了饭</span> berfokus pada penyelesaian tindakan makan, sedangkan <span class=\"hz\">我吃过饭了</span> menonjolkan pengalaman sekaligus penegasan bahwa tindakan tersebut sudah dilakukan."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Kombinasi <span class=\"hz\">着</span> dengan <span class=\"hz\">了</span> dapat menunjukkan tindakan yang menjadi cara atau latar berlangsung bersamaan dengan tindakan utama yang selesai."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "她哭着说了一句话。",
+              "pinyin": "Tā kū zhe shuō le yī jù huà.",
+              "arti": "Sambil menangis, dia mengucapkan satu kalimat.",
+              "catatan": "着 menunjukkan cara atau tindakan yang menyertai; 了 menunjukkan penyelesaian tindakan mengucapkan."
+            },
+            {
+              "hanzi": "他笑着回答了我的问题。",
+              "pinyin": "Tā xiào zhe huídá le wǒ de wèntí.",
+              "arti": "Sambil tersenyum, dia menjawab pertanyaanku."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Materi sumber menekankan bahwa <span class=\"hz\">在</span> dan <span class=\"hz\">着</span> tidak dipakai bersamaan dalam pola dasar yang sama. Untuk pemula, gunakan <span class=\"hz\">在</span> ketika menekankan aksi dinamis dan <span class=\"hz\">着</span> ketika menekankan keadaan atau posisi yang bertahan."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我在看书。",
+              "pinyin": "Wǒ zài kàn shū.",
+              "arti": "Saya sedang membaca buku.",
+              "catatan": "Menekankan aksi dinamis."
+            },
+            {
+              "hanzi": "我看着书呢。",
+              "pinyin": "Wǒ kàn zhe shū ne.",
+              "arti": "Saya dalam keadaan membaca buku.",
+              "catatan": "Menekankan keadaan yang berlangsung."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Dalam kerangka dasar materi ini, 了 yang menandai penyelesaian dan 在 yang menandai keberlangsungan diperlakukan sebagai penanda dengan fungsi yang berlawanan sehingga tidak digabungkan dalam pola dasar yang sama. Untuk tingkat lanjut, jangan menggeneralisasikan ini menjadi larangan mutlak terhadap semua kemunculan 了 dan 在 dalam satu kalimat, karena keduanya dapat muncul dalam klausa atau fungsi yang berbeda."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Partikel aspek dapat muncul bersama partikel lain, tetapi tidak semua kombinasi mempunyai fungsi yang sama atau bebas dipertukarkan. Yang paling aman adalah membaca setiap unsur secara terpisah lalu melihat hubungan akhirnya. Dalam 我吃过饭了, 过 membawa perspektif pengalaman, sedangkan 了 akhir menandai keadaan pembicara sekarang bahwa makan sudah terjadi dan relevan. Dalam 她哭着说了一句话, 着 membentuk latar/cara, sedangkan 了 pada verba utama menandai tindakan mengucapkan sebagai peristiwa yang selesai."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kombinasi",
+            "Contoh",
+            "Analisis"
+          ],
+          "baris": [
+            [
+              "过 + 了",
+              "我吃过饭了",
+              "Pengalaman + keadaan sekarang sudah terpenuhi."
+            ],
+            [
+              "着 + 了",
+              "她笑着回答了",
+              "Cara/latar + aksi utama selesai."
+            ],
+            [
+              "V + 了 + durasi + 了",
+              "我等了一个小时了",
+              "Durasi dimulai dulu dan masih relevan."
+            ],
+            [
+              "着 + 呢",
+              "门开着呢",
+              "Keadaan bertahan dengan penekanan percakapan."
+            ],
+            [
+              "了 dalam klausa + 了 akhir",
+              "吃了饭就走了",
+              "Penyelesaian tahap pertama + hasil/peristiwa berikutnya."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我看过这部电影了。",
+              "pinyin": "Wǒ kàn guò zhè bù diànyǐng le.",
+              "arti": "Saya sudah pernah menonton film ini.",
+              "catatan": "Dalam konteks percakapan, 了 akhir menegaskan status sekarang."
+            },
+            {
+              "hanzi": "她哭着离开了。",
+              "pinyin": "Tā kū zhe líkāi le.",
+              "arti": "Dia pergi sambil menangis.",
+              "catatan": "着 menjadi keadaan/cara yang menyertai; 了 menandai keberangkatan sebagai peristiwa."
+            },
+            {
+              "hanzi": "门开着呢。",
+              "pinyin": "Mén kāi zhe ne.",
+              "arti": "Pintunya memang sedang terbuka.",
+              "catatan": "着 mempertahankan keadaan; 呢 menekankan keadaan."
+            },
+            {
+              "hanzi": "吃了饭以后，我就回家了。",
+              "pinyin": "Chī le fàn yǐhòu, wǒ jiù huí jiā le.",
+              "arti": "Setelah makan, saya langsung pulang.",
+              "catatan": "了 pertama berada dalam klausa temporal; 了 kedua menandai peristiwa pulang."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Sumber awal menyebut kombinasi 了 + 过 sebagai tumpukan sederhana. Secara linguistik, kombinasi aspek harus dibaca berdasarkan posisi masing-masing 了 dan konteks; jangan menganggap setiap V + 过 + 了 selalu berarti penekanan ganda yang identik. Demikian juga, 在 dan 着 tidak perlu diperlakukan sebagai pasangan yang mutlak mustahil dalam seluruh konstruksi bahasa."
+        }
+      ]
+    },
+    {
+      "judul": "12. 的 sebagai Penanda Fokus pada Peristiwa Masa Lalu",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Selain kepemilikan dan atributif, <span class=\"hz\">的</span> dapat muncul dalam pola <span class=\"hz\">是……的</span> untuk menekankan detail tertentu dari suatu peristiwa yang sudah terjadi, misalnya waktu, tempat, cara, atau pelaku."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你是什么时候来的？",
+              "pinyin": "Nǐ shì shénme shíhòu lái de?",
+              "arti": "Kamu datang kapan?",
+              "catatan": "的 digunakan dalam pola 是……的 untuk menekankan detail waktu dari peristiwa masa lalu."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Fungsi 的 dalam 是……的 berbeda dari 的 kepemilikan seperti 我的书. Di sini 的 bukan penanda milik, melainkan bagian dari konstruksi yang menyoroti detail tertentu dari peristiwa."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Pola 是……的 adalah fungsi 的 yang berbeda dari kepemilikan. Konstruksi ini digunakan untuk menyoroti detail dari peristiwa yang dipahami sudah terjadi atau sudah ditetapkan dalam konteks, misalnya kapan, di mana, bagaimana, atau siapa yang melakukan. Fokusnya adalah identifikasi informasi tertentu, bukan sekadar memberi tanda masa lalu. Jika pertanyaan sudah jelas membahas peristiwa tertentu, pembicara dapat memakai 是……的 untuk meminta atau menegaskan satu detail."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Fokus",
+            "Pola",
+            "Contoh",
+            "Pertanyaan"
+          ],
+          "baris": [
+            [
+              "Waktu",
+              "是 + waktu + V + 的",
+              "你是什么时候来的？",
+              "Kapan kamu datang?"
+            ],
+            [
+              "Tempat",
+              "是 + tempat + V + 的",
+              "你是在哪儿买的？",
+              "Kamu membelinya di mana?"
+            ],
+            [
+              "Cara",
+              "是 + cara + V + 的",
+              "他是坐飞机来的。",
+              "Dia datang naik pesawat."
+            ],
+            [
+              "Pelaku",
+              "是 + pelaku + V + 的",
+              "这件事是谁做的？",
+              "Siapa yang melakukan ini?"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你是什么时候来的？",
+              "pinyin": "Nǐ shì shénme shíhou lái de?",
+              "arti": "Kamu datang kapan?",
+              "catatan": "Fokus pada waktu."
+            },
+            {
+              "hanzi": "你是在哪儿买的？",
+              "pinyin": "Nǐ shì zài nǎr mǎi de?",
+              "arti": "Kamu membelinya di mana?",
+              "catatan": "Fokus pada tempat."
+            },
+            {
+              "hanzi": "他是坐飞机来的。",
+              "pinyin": "Tā shì zuò fēijī lái de.",
+              "arti": "Dia datang dengan naik pesawat.",
+              "catatan": "Fokus pada cara."
+            },
+            {
+              "hanzi": "这本书是谁写的？",
+              "pinyin": "Zhè běn shū shì shuí xiě de?",
+              "arti": "Buku ini ditulis oleh siapa?",
+              "catatan": "Fokus pada pelaku."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menyamakan 是……的 dengan penanda past tense. Ia merupakan konstruksi fokus. Dalam konteks yang tidak cocok atau ketika peristiwa belum terjadi, penggunaannya dapat terasa janggal. 的 pada 我的书 sama sekali berbeda fungsi."
+        }
+      ]
+    },
+    {
+      "judul": "13. Partikel Akhir Informal: 来着、而已、罢了",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam percakapan sehari-hari terdapat beberapa bentuk informal yang memperkaya nuansa kalimat. Materi ini memperkenalkan <span class=\"hz\">来着</span>, <span class=\"hz\">而已</span>, dan <span class=\"hz\">罢了</span>."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">来着</span> (<span class=\"py\">láizhe</span>) digunakan ketika pembicara mengingat sesuatu yang terjadi di masa lalu, terutama ketika sedang mencoba mengingat atau meminta lawan bicara mengingatkan."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "他刚才说什么来着？",
+              "pinyin": "Tā gāngcái shuō shénme láizhe?",
+              "arti": "Dia tadi bilang apa ya?",
+              "catatan": "Pembicara lupa dan meminta pengingat."
+            },
+            {
+              "hanzi": "你叫什么名字来着？",
+              "pinyin": "Nǐ jiào shénme míngzi láizhe?",
+              "arti": "Namamu siapa ya?",
+              "catatan": "Pembicara mencoba mengingat sesuatu yang pernah diketahui."
+            },
+            {
+              "hanzi": "我昨天买了很多东西来着。",
+              "pinyin": "Wǒ zuótiān mǎi le hěn duō dōngxi láizhe.",
+              "arti": "Saya kemarin membeli banyak barang, lho.",
+              "catatan": "Digunakan untuk mengingatkan atau menegaskan kembali informasi masa lalu."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">而已</span> (<span class=\"py\">éryǐ</span>) berarti saja atau hanya itu. Dalam materi ini, bentuk tersebut dipandang lebih formal daripada <span class=\"hz\">罢了</span>."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我只是开玩笑而已。",
+              "pinyin": "Wǒ zhǐshì kāiwánxiào éryǐ.",
+              "arti": "Saya hanya bercanda saja."
+            },
+            {
+              "hanzi": "这只是一点小事而已。",
+              "pinyin": "Zhè zhǐshì yī diǎn xiǎo shì éryǐ.",
+              "arti": "Ini hanya masalah kecil saja."
+            },
+            {
+              "hanzi": "他不过是个学生而已。",
+              "pinyin": "Tā bùguò shì gè xuéshēng éryǐ.",
+              "arti": "Dia hanya seorang siswa saja."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">罢了</span> (<span class=\"py\">bàle</span>) juga dapat berarti saja atau hanya itu. Materi menekankan bahwa bentuk ini mirip dengan 而已 dan sering muncul dalam fiksi atau drama serta dapat memberi nuansa kasual atau sastra."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我只是说说罢了。",
+              "pinyin": "Wǒ zhǐshì shuō shuō bàle.",
+              "arti": "Saya hanya bicara saja, tidak serius."
+            },
+            {
+              "hanzi": "他不来就算了罢！",
+              "pinyin": "Tā bù lái jiù suàn le ba!",
+              "arti": "Kalau dia tidak datang, ya sudah!"
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Partikel",
+            "Fungsi",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "哦",
+              "Mengingatkan atau menyadari sesuatu",
+              "对了哦！",
+              "Oh iya!"
+            ],
+            [
+              "啊",
+              "Emosi atau penekanan",
+              "好啊！",
+              "Baiklah!"
+            ],
+            [
+              "啦",
+              "Gabungan nuansa 了 + 啊",
+              "好啦！",
+              "Sudahlah!"
+            ],
+            [
+              "嘛",
+              "Menunjukkan sesuatu yang sudah jelas atau wajar",
+              "本来就是这样的嘛！",
+              "Memang sudah begini!"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Bentuk-bentuk ini berada lebih dekat ke pragmatik dan register (tingkat keformalan). 来着 sangat berguna dalam percakapan ketika pembicara sedang mengingat informasi masa lalu atau mengembalikan sesuatu yang sebelumnya sudah diketahui. 而已 berarti hanya itu/saja dan dapat digunakan dalam tulisan maupun lisan. 罢了 juga berarti saja/hanya itu, tetapi dalam Mandarin modern sering terasa lebih bernuansa tertulis, retoris, atau bergantung pada gaya pembicara; jadi klaim bahwa 罢了 selalu lebih kasual daripada 而已 terlalu sederhana. Di internet, bentuk seperti 啦、哦、啊、嘛 juga sering muncul untuk menyampaikan sikap, tetapi ejaan dan nuansanya sangat bergantung konteks."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk",
+            "Fungsi",
+            "Register umum",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "来着",
+              "Mengingat kembali peristiwa/informasi",
+              "Lisan, percakapan",
+              "刚才说什么来着？"
+            ],
+            [
+              "而已",
+              "Hanya itu/saja",
+              "Netral, lisan dan tulisan",
+              "只是开玩笑而已"
+            ],
+            [
+              "罢了",
+              "Saja/hanya itu",
+              "Retoris, tertulis, dialog/gaya tertentu",
+              "说说罢了"
+            ],
+            [
+              "哦",
+              "Menyadari/mengingatkan",
+              "Percakapan",
+              "对了哦！"
+            ],
+            [
+              "啊",
+              "Emosi/penekanan",
+              "Percakapan",
+              "好啊！"
+            ],
+            [
+              "啦",
+              "Nuansa santai, sering terkait 了/啊",
+              "Percakapan/internet",
+              "好啦！"
+            ],
+            [
+              "嘛",
+              "Menganggap sesuatu jelas/wajar",
+              "Percakapan",
+              "就是这样嘛！"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你叫什么名字来着？",
+              "pinyin": "Nǐ jiào shénme míngzi láizhe?",
+              "arti": "Namamu siapa ya?",
+              "catatan": "Pembicara mencoba mengingat."
+            },
+            {
+              "hanzi": "我只是问问而已。",
+              "pinyin": "Wǒ zhǐshì wènwen éryǐ.",
+              "arti": "Saya cuma bertanya saja.",
+              "catatan": "而已 membatasi makna."
+            },
+            {
+              "hanzi": "我只是说说罢了。",
+              "pinyin": "Wǒ zhǐshì shuōshuo bàle.",
+              "arti": "Saya cuma bilang saja, tidak serius.",
+              "catatan": "罢了 memberi nuansa membatasi atau meremehkan sesuai konteks."
+            },
+            {
+              "hanzi": "好啦，别生气了。",
+              "pinyin": "Hǎo la, bié shēngqì le.",
+              "arti": "Sudahlah, jangan marah lagi.",
+              "catatan": "啦 sangat percakapan dan memberi nuansa pelunakan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menyebut semua bentuk ini sebagai partikel aspek. 来着 dan 而已/罢了 terutama berfungsi pragmatis, bukan penanda aspek seperti 了、过、着. Selain itu, variasi regional dan gaya pribadi sangat memengaruhi partikel akhir; bentuk lisan Taiwan, Tiongkok Daratan, Singapura-Malaysia, dan Cantonese Hong Kong tidak dapat dipertukarkan begitu saja."
+        }
+      ]
+    },
+    {
+      "judul": "14. Perbedaan 不 dan 没 dalam Kaitannya dengan Aspek",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Perbedaan antara <span class=\"hz\">不</span> (<span class=\"py\">bù</span>) dan <span class=\"hz\">没</span> (<span class=\"py\">méi</span>) merupakan salah satu sumber kesalahan penting bagi pembelajar. Secara sederhana, <span class=\"hz\">不</span> sering berkaitan dengan kemauan, penolakan, kebiasaan, atau masa depan, sedangkan <span class=\"hz\">没</span> digunakan untuk menyangkal fakta atau sesuatu yang belum terjadi."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Aspek atau situasi",
+            "Bentuk positif",
+            "Dengan 不",
+            "Dengan 没"
+          ],
+          "baris": [
+            [
+              "Tindakan selesai",
+              "吃了 — sudah makan",
+              "Tidak digunakan untuk fungsi ini dalam pola dasar",
+              "没吃 — belum/tidak makan"
+            ],
+            [
+              "Pengalaman",
+              "去过 — pernah pergi",
+              "Tidak digunakan untuk fungsi pengalaman ini",
+              "没去过 — belum pernah pergi"
+            ],
+            [
+              "Keadaan",
+              "开着 — terbuka",
+              "Tidak digunakan untuk menyangkal keadaan ini dalam pola dasar",
+              "没开着 — tidak dalam keadaan terbuka"
+            ],
+            [
+              "Kebiasaan atau kemauan",
+              "吃饭 — makan",
+              "不吃饭 — tidak mau atau tidak biasa makan",
+              "Tidak digunakan dalam fungsi kebiasaan ini"
+            ],
+            [
+              "Masa depan atau keputusan",
+              "去 — pergi",
+              "不去 — tidak mau pergi",
+              "Tidak digunakan dalam fungsi kemauan ini"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我不去。",
+              "pinyin": "Wǒ bù qù.",
+              "arti": "Saya tidak mau pergi.",
+              "catatan": "Menunjukkan kemauan atau penolakan."
+            },
+            {
+              "hanzi": "他不吃辣。",
+              "pinyin": "Tā bù chī là.",
+              "arti": "Dia tidak biasa makan pedas."
+            },
+            {
+              "hanzi": "我没去。",
+              "pinyin": "Wǒ méi qù.",
+              "arti": "Saya tidak pergi.",
+              "catatan": "Menyatakan fakta bahwa tindakan tersebut tidak terjadi."
+            },
+            {
+              "hanzi": "门没开。",
+              "pinyin": "Mén méi kāi.",
+              "arti": "Pintu tidak terbuka.",
+              "catatan": "Menyatakan keadaan atau fakta."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Jika yang ditekankan adalah kemauan, kebiasaan, atau keputusan untuk masa depan, gunakan 不.",
+            "Jika yang ditekankan adalah fakta bahwa sesuatu tidak terjadi atau belum terjadi, gunakan 没.",
+            "Untuk pengalaman yang belum pernah terjadi, gunakan 没 + Verba + 过.",
+            "Untuk keadaan yang tidak sedang atau belum berada dalam kondisi tertentu, gunakan 没 dalam pola yang sesuai."
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我没吃饭。",
+              "pinyin": "Wǒ méi chī fàn.",
+              "arti": "Saya belum atau tidak makan.",
+              "catatan": "Fokus pada fakta."
+            },
+            {
+              "hanzi": "我不吃饭。",
+              "pinyin": "Wǒ bù chī fàn.",
+              "arti": "Saya tidak mau makan atau saya tidak makan.",
+              "catatan": "Dapat menunjukkan penolakan, kemauan, atau kebiasaan sesuai konteks."
+            },
+            {
+              "hanzi": "我没去过中国。",
+              "pinyin": "Wǒ méi qù guò Zhōngguó.",
+              "arti": "Saya belum pernah ke Tiongkok."
+            },
+            {
+              "hanzi": "我不去中国。",
+              "pinyin": "Wǒ bù qù Zhōngguó.",
+              "arti": "Saya tidak mau pergi ke Tiongkok.",
+              "catatan": "Menunjukkan keputusan atau kemauan, bukan pengalaman masa lalu."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Perbedaan 不 dan 没 sangat penting karena bahasa Indonesia menggunakan satu kata tidak untuk banyak fungsi. 不 biasanya menyangkal kemauan, kebiasaan, karakteristik, atau keputusan yang tidak dilakukan; 没 biasanya menyangkal kejadian yang belum terjadi atau fakta bahwa sesuatu tidak terjadi. Untuk pengalaman, pola yang sangat produktif adalah 没有 + V + 过. Namun konteks tetap menentukan: 没去 dapat berarti tidak pergi atau belum pergi, sedangkan 不去 cenderung menyatakan keputusan atau keengganan untuk pergi."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Situasi",
+            "Contoh 不",
+            "Contoh 没",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "Keputusan",
+              "我不去。",
+              "我没去。",
+              "Saya tidak mau pergi / saya tidak pergi."
+            ],
+            [
+              "Pengalaman",
+              "Tidak lazim untuk fungsi ini",
+              "我没去过。",
+              "Saya belum pernah pergi."
+            ],
+            [
+              "Kebiasaan",
+              "我不喝咖啡。",
+              "—",
+              "Saya tidak minum kopi/bukan kebiasaan saya."
+            ],
+            [
+              "Fakta masa lalu",
+              "—",
+              "我没喝咖啡。",
+              "Saya tidak minum kopi pada kesempatan itu."
+            ],
+            [
+              "Keadaan",
+              "—",
+              "门没开。",
+              "Pintu tidak terbuka."
+            ],
+            [
+              "Masa depan/penolakan",
+              "我不去。",
+              "—",
+              "Saya tidak akan/mau pergi."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我不吃辣。",
+              "pinyin": "Wǒ bù chī là.",
+              "arti": "Saya tidak makan pedas.",
+              "catatan": "Kebiasaan/preferensi."
+            },
+            {
+              "hanzi": "我没吃辣。",
+              "pinyin": "Wǒ méi chī là.",
+              "arti": "Saya tidak makan pedas pada kesempatan itu.",
+              "catatan": "Fakta kejadian tertentu."
+            },
+            {
+              "hanzi": "我没看过这部电影。",
+              "pinyin": "Wǒ méi kàn guò zhè bù diànyǐng.",
+              "arti": "Saya belum pernah menonton film ini.",
+              "catatan": "Negasi pengalaman."
+            },
+            {
+              "hanzi": "他不来了。",
+              "pinyin": "Tā bù lái le.",
+              "arti": "Dia tidak jadi datang.",
+              "catatan": "Keputusan/perubahan rencana; ini berbeda dari 他没来, yang hanya menyatakan fakta bahwa dia tidak datang."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan otomatis menerjemahkan 不 dan 没 sebagai satu kata Indonesia yang sama, yaitu tidak. Perhatikan apakah kalimat menyangkal kemauan atau kebiasaan, atau justru menyangkal fakta bahwa suatu tindakan telah terjadi. Perhatikan pula bahwa 不 + 了 dapat menyatakan perubahan keputusan, seperti 不来了, sehingga 了 tidak hanya terkait selesai."
+        }
+      ]
+    },
+    {
+      "judul": "15. Contoh Konteks Lengkap: Pengalaman Bepergian",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Contoh berikut menggabungkan beberapa partikel dalam satu konteks agar fungsi masing-masing dapat dilihat secara bersamaan."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "昨天我去了北京。",
+              "pinyin": "Zuótiān wǒ qù le Běijīng.",
+              "arti": "Kemarin saya pergi ke Beijing.",
+              "catatan": "了 setelah 去 menunjukkan tindakan selesai dalam konteks perjalanan."
+            },
+            {
+              "hanzi": "我以前去过上海，但没去过北京。",
+              "pinyin": "Wǒ yǐqián qù guò Shànghǎi, dàn méi qù guò Běijīng.",
+              "arti": "Saya dulu pernah ke Shanghai, tetapi belum pernah ke Beijing.",
+              "catatan": "过 menunjukkan pengalaman; 没 + 过 menunjukkan belum pernah."
+            },
+            {
+              "hanzi": "我正在火车上看风景呢。",
+              "pinyin": "Wǒ zhèngzài huǒchē shàng kàn fēngjǐng ne.",
+              "arti": "Saya sedang menikmati pemandangan di kereta.",
+              "catatan": "正在 menunjukkan tindakan yang sedang berlangsung dan 呢 menekankannya."
+            },
+            {
+              "hanzi": "突然发现我的钱包不见了。",
+              "pinyin": "Tūrán fāxiàn wǒ de qiánbāo bú jiàn le.",
+              "arti": "Tiba-tiba saya menyadari dompet saya hilang.",
+              "catatan": "了 di akhir menunjukkan perubahan keadaan: dompet yang sebelumnya ada kini tidak terlihat."
+            },
+            {
+              "hanzi": "我着急得不得了。",
+              "pinyin": "Wǒ zháojí de bùdéliǎo.",
+              "arti": "Saya sangat panik.",
+              "catatan": "得 menunjukkan pelengkap tingkat."
+            },
+            {
+              "hanzi": "后来发现原来在包里。",
+              "pinyin": "Hòulái fāxiàn yuánlái zài bāo lǐ.",
+              "arti": "Akhirnya saya sadar ternyata ada di dalam tas."
+            },
+            {
+              "hanzi": "我高兴地笑了。",
+              "pinyin": "Wǒ gāoxìng de xiào le.",
+              "arti": "Saya tertawa dengan gembira.",
+              "catatan": "地 menerangkan cara tertawa; 了 menunjukkan perubahan atau terjadinya tindakan."
+            },
+            {
+              "hanzi": "这次旅行会很愉快吧？",
+              "pinyin": "Zhè cì lǚxíng huì hěn yúkuài ba?",
+              "arti": "Perjalanan kali ini akan menyenangkan, ya?",
+              "catatan": "会 menunjukkan prediksi dan 吧 memberikan nuansa perkiraan atau meminta persetujuan."
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Partikel",
+            "Fungsi dalam konteks"
+          ],
+          "baris": [
+            [
+              "了 setelah 去",
+              "Menunjukkan tindakan pergi yang selesai."
+            ],
+            [
+              "过",
+              "Menunjukkan pengalaman pernah pergi."
+            ],
+            [
+              "没 + 过",
+              "Menunjukkan belum pernah."
+            ],
+            [
+              "正在",
+              "Menunjukkan tindakan sedang berlangsung."
+            ],
+            [
+              "呢",
+              "Menekankan keadaan sedang berlangsung."
+            ],
+            [
+              "了 di 不见了",
+              "Menunjukkan perubahan keadaan."
+            ],
+            [
+              "得",
+              "Menunjukkan tingkat pada 着急得不得了."
+            ],
+            [
+              "地",
+              "Menunjukkan cara pada 高兴地笑."
+            ],
+            [
+              "会",
+              "Menunjukkan prediksi masa depan."
+            ],
+            [
+              "吧",
+              "Menunjukkan perkiraan atau permintaan persetujuan."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Paragraf perjalanan adalah latihan penting karena satu konteks alami dapat memuat beberapa sudut pandang sekaligus. 了 dapat menandai peristiwa pergi yang selesai, 过 menandai pengalaman, 正在 menunjukkan proses, 呢 memperkuat keadaan, 不见了 menunjukkan perubahan keadaan, 得 memberi pelengkap tingkat, 地 memberi keterangan cara, dan 会 serta 吧 membangun prediksi. Saat membaca teks seperti ini, jangan mencari terjemahan satu-per-satu; cari fungsi setiap partikel terhadap struktur yang ditempelinya."
+        }
+      ]
+    },
+    {
+      "judul": "16. Kesalahan Umum Pembelajar Indonesia",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kesalahan",
+            "Bentuk salah",
+            "Bentuk benar",
+            "Penjelasan"
+          ],
+          "baris": [
+            [
+              "Terlalu banyak 了",
+              "我昨天去了商店了买了水果了。",
+              "我昨天去了商店，买了水果。",
+              "Dalam rangkaian tindakan, penggunaan 了 perlu mengikuti fungsi yang benar; materi mencontohkan bahwa tidak perlu menambahkan 了 secara berlebihan pada setiap bagian."
+            ],
+            [
+              "Menganggap kata sifat + 了 berarti sangat",
+              "我很高兴了。",
+              "我很高兴。",
+              "Kata sifat + 了 dapat menunjukkan perubahan keadaan, bukan sekadar tingkat sangat."
+            ],
+            [
+              "Tertukar 得 dan 的",
+              "他跑的快。",
+              "他跑得快。",
+              "Setelah kata kerja untuk pelengkap cara atau tingkat digunakan 得."
+            ],
+            [
+              "Tertukar 的 dan 得",
+              "这是我得书。",
+              "这是我的书。",
+              "Kepemilikan menggunakan 的."
+            ],
+            [
+              "Tertukar 地 dan 得",
+              "她认真得学习。",
+              "她认真地学习。",
+              "Sebelum kata kerja untuk menerangkan cara digunakan 地."
+            ],
+            [
+              "Menggunakan 了 untuk pengalaman",
+              "我去了中国。",
+              "我去过中国。",
+              "Untuk menyatakan pernah mengalami, gunakan 过."
+            ],
+            [
+              "Menggunakan 了 ketika bertanya tentang pengalaman",
+              "你吃了这个菜吗？",
+              "你吃过这个菜吗？",
+              "Pertanyaan tentang pengalaman menggunakan 过."
+            ],
+            [
+              "Lupa 了 untuk perubahan keadaan",
+              "我不饿。",
+              "我不饿了。",
+              "Jika sebelumnya lapar dan sekarang tidak lapar lagi, 了 menunjukkan perubahan keadaan."
+            ],
+            [
+              "Salah memilih 要 dan 会",
+              "明天要下雨吗？",
+              "明天会下雨吗？",
+              "Prediksi cuaca menggunakan 会 dalam pola yang diberikan."
+            ],
+            [
+              "Salah memilih 要 dan 会",
+              "他会去商店。",
+              "他要去商店。",
+              "Jika yang dimaksud adalah niat atau rencana, gunakan 要 dalam pola yang diberikan."
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Trik cepat untuk tiga de: 的 → pikirkan benda yang diterangkan atau kepemilikan; 得 → pikirkan pelengkap setelah verba; 地 → pikirkan keterangan cara sebelum verba."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Pembelajar Indonesia sering memindahkan pola bahasa Indonesia ke Mandarin: sudah = 了, sedang = 在, pernah = 过, tidak = 不, dan dengan = 地. Padahal pemetaan itu hanya pendekatan awal. Kesalahan terbesar muncul ketika pelajar memilih partikel berdasarkan kata terjemahan tanpa melihat struktur. Kesalahan kedua adalah menganggap semua 了 adalah masa lalu. Kesalahan ketiga adalah menganggap 不 dan 没 identik. Kesalahan keempat adalah mencampurkan 地 dan 得 karena keduanya dapat diterjemahkan dengan keterangan cara."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Salah",
+            "Benar",
+            "Mengapa"
+          ],
+          "baris": [
+            [
+              "他跑的快。",
+              "他跑得快。",
+              "Pelengkap setelah verba memakai 得."
+            ],
+            [
+              "这是我得书。",
+              "这是我的书。",
+              "Kepemilikan memakai 的."
+            ],
+            [
+              "她认真得学习。",
+              "她认真地学习。",
+              "Keterangan cara sebelum verba memakai 地."
+            ],
+            [
+              "我去了中国。",
+              "我去过中国。",
+              "Jika fokusnya pengalaman, gunakan 过."
+            ],
+            [
+              "我很高兴了。",
+              "我很高兴。",
+              "Tanpa konteks perubahan, 了 tidak berarti sangat."
+            ],
+            [
+              "我没吃饭。",
+              "我不吃饭。",
+              "Keduanya dapat benar tetapi menyatakan fakta vs kemauan/kebiasaan yang berbeda."
+            ],
+            [
+              "他在北京。",
+              "他在看书。",
+              "在 pertama adalah lokasi; 在 kedua adalah progresif."
+            ],
+            [
+              "我正在门开着。",
+              "门开着。",
+              "Jangan memaksa 在 dan 着 menjadi satu pola progresif dasar."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我不去。",
+              "pinyin": "Wǒ bù qù.",
+              "arti": "Saya tidak mau/tidak akan pergi.",
+              "catatan": "Penolakan atau keputusan."
+            },
+            {
+              "hanzi": "我没去。",
+              "pinyin": "Wǒ méi qù.",
+              "arti": "Saya tidak pergi.",
+              "catatan": "Fakta kejadian."
+            },
+            {
+              "hanzi": "我正在吃饭。",
+              "pinyin": "Wǒ zhèngzài chīfàn.",
+              "arti": "Saya sedang makan.",
+              "catatan": "Proses sedang berlangsung."
+            },
+            {
+              "hanzi": "我吃过饭了。",
+              "pinyin": "Wǒ chī guò fàn le.",
+              "arti": "Saya sudah makan.",
+              "catatan": "Pengalaman + keadaan sekarang sudah terpenuhi dalam konteks."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan membetulkan kalimat hanya berdasarkan satu aturan posisi. Mandarin mempunyai struktur bertingkat, penghilangan unsur, dan variasi register. Jika sebuah bentuk terasa aneh, analisis seluruh klausa terlebih dahulu: subjek, verba, objek, pelengkap, waktu, aspek, dan partikel akhir."
+        }
+      ]
+    },
+    {
+      "judul": "17. Latihan: Tiga De",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Latihan ini dirancang untuk memaksa pembelajar memilih berdasarkan fungsi dan konteks, bukan berdasarkan terjemahan kata per kata. Kerjakan tanpa melihat jawaban terlebih dahulu, lalu jelaskan alasan pilihan partikel dengan menyebut posisi dan fungsi gramatikalnya."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Pilih partikel yang tepat antara <span class=\"hz\">的</span>, <span class=\"hz\">得</span>, dan <span class=\"hz\">地</span>."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "她唱 ___ 很好。",
+              "pinyin": "Tā chàng ___ hěn hǎo.",
+              "arti": "Dia bernyanyi sangat baik.",
+              "catatan": "Jawaban: 得."
+            },
+            {
+              "hanzi": "这是我 ___ 书。",
+              "pinyin": "Zhè shì wǒ ___ shū.",
+              "arti": "Ini buku saya.",
+              "catatan": "Jawaban: 的."
+            },
+            {
+              "hanzi": "请认真 ___ 写。",
+              "pinyin": "Qǐng rènzhēn ___ xiě.",
+              "arti": "Tolong tulis dengan serius.",
+              "catatan": "Jawaban: 地."
+            },
+            {
+              "hanzi": "他高兴 ___ 跳起来。",
+              "pinyin": "Tā gāoxìng ___ tiào qǐlái.",
+              "arti": "Dia senang sampai melompat.",
+              "catatan": "Jawaban: 得."
+            },
+            {
+              "hanzi": "漂亮 ___ 花儿。",
+              "pinyin": "Piàoliang ___ huā'er.",
+              "arti": "Bunga yang cantik.",
+              "catatan": "Jawaban: 的."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jika jawaban terasa memiliki lebih dari satu kemungkinan, periksa konteks yang diberikan. Dalam Mandarin nyata, beberapa bentuk dapat sama-sama gramatikal tetapi berbeda nuansa; tujuan latihan adalah memilih bentuk yang paling sesuai dengan konteks yang tersedia."
+        }
+      ]
+    },
+    {
+      "judul": "18. Latihan: Partikel Aspek",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Latihan ini melatih perbedaan antara penyelesaian, pengalaman, proses, rencana, dan prediksi. Jangan memilih berdasarkan kata Indonesia saja; tentukan terlebih dahulu status peristiwa yang dimaksud."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我 ___ 去北京。",
+              "pinyin": "Wǒ ___ qù Běijīng.",
+              "arti": "Saya mau pergi ke Beijing.",
+              "catatan": "Jawaban: 要."
+            },
+            {
+              "hanzi": "你 ___ 吃这个吗？",
+              "pinyin": "Nǐ ___ chī zhège ma?",
+              "arti": "Apakah kamu pernah makan ini?",
+              "catatan": "Jawaban: 过."
+            },
+            {
+              "hanzi": "他 ___ 看书呢。",
+              "pinyin": "Tā ___ kàn shū ne.",
+              "arti": "Dia sedang membaca buku.",
+              "catatan": "Jawaban: 在."
+            },
+            {
+              "hanzi": "明天 ___ 下雨吗？",
+              "pinyin": "Míngtiān ___ xiàyǔ ma?",
+              "arti": "Apakah besok akan hujan?",
+              "catatan": "Jawaban: 会."
+            },
+            {
+              "hanzi": "我吃 ___ 饭了。",
+              "pinyin": "Wǒ chī ___ fàn le.",
+              "arti": "Saya sudah makan.",
+              "catatan": "Jawaban: 了."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menyamakan 了 dengan masa lalu atau 会 dengan satu-satunya bentuk masa depan. Tujuan latihan adalah mengenali perspektif aspek dan modalitas."
+        }
+      ]
+    },
+    {
+      "judul": "19. Latihan: Terjemahkan ke Bahasa Mandarin",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Terjemahkan berdasarkan fungsi partikel, lalu bandingkan jawaban. Fokuskan perhatian pada pengalaman, proses, kepemilikan, keterangan cara, dan prediksi."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我去过印度尼西亚。",
+              "pinyin": "Wǒ qù guò Yìndùníxīyà.",
+              "arti": "Saya sudah pernah ke Indonesia."
+            },
+            {
+              "hanzi": "他正在厨房做饭。",
+              "pinyin": "Tā zhèngzài chúfáng zuò fàn.",
+              "arti": "Dia sedang memasak di dapur."
+            },
+            {
+              "hanzi": "这本书是谁的？",
+              "pinyin": "Zhè běn shū shì shuí de?",
+              "arti": "Buku ini punya siapa?"
+            },
+            {
+              "hanzi": "请慢慢地说。",
+              "pinyin": "Qǐng màn man de shuō.",
+              "arti": "Tolong bicara dengan pelan-pelan."
+            },
+            {
+              "hanzi": "他明天会来吗？",
+              "pinyin": "Tā míngtiān huì lái ma?",
+              "arti": "Dia akan datang besok?",
+              "catatan": "Pertanyaan menggunakan prediksi, sehingga menggunakan 会."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jika jawaban terasa memiliki lebih dari satu kemungkinan, periksa konteks yang diberikan. Dalam Mandarin nyata, beberapa bentuk dapat sama-sama gramatikal tetapi berbeda nuansa; tujuan latihan adalah memilih bentuk yang paling sesuai dengan konteks yang tersedia."
+        }
+      ]
+    },
+    {
+      "judul": "20. Latihan Lanjutan: 着, Durasi 了, 来着, dan 而已",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Latihan ini menguji empat wilayah yang sering terlewat dalam materi dasar: keadaan dengan 着, durasi yang masih berlangsung dengan dua 了, fungsi mengingat kembali dengan 来着, dan pembatasan makna dengan 而已."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "他在看书。",
+              "pinyin": "Tā zài kàn shū.",
+              "arti": "Dia sedang membaca buku.",
+              "catatan": "Jawaban latihan untuk keadaan atau aksi sedang berlangsung dengan 在."
+            },
+            {
+              "hanzi": "他看着书呢。",
+              "pinyin": "Tā kàn zhe shū ne.",
+              "arti": "Dia dalam keadaan membaca buku.",
+              "catatan": "着 menekankan keadaan."
+            },
+            {
+              "hanzi": "门开着。",
+              "pinyin": "Mén kāi zhe.",
+              "arti": "Pintu terbuka.",
+              "catatan": "着 menunjukkan keadaan yang bertahan."
+            },
+            {
+              "hanzi": "我学中文学了三年了。",
+              "pinyin": "Wǒ xué Zhōngwén xué le sān nián le.",
+              "arti": "Saya sudah belajar Mandarin selama tiga tahun dan masih belajar."
+            },
+            {
+              "hanzi": "他刚才说什么来着？",
+              "pinyin": "Tā gāngcái shuō shénme láizhe?",
+              "arti": "Dia tadi bilang apa ya?",
+              "catatan": "来着 digunakan ketika mencoba mengingat sesuatu."
+            },
+            {
+              "hanzi": "我只是开玩笑而已。",
+              "pinyin": "Wǒ zhǐshì kāiwánxiào éryǐ.",
+              "arti": "Saya hanya bercanda saja."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jika jawaban terasa memiliki lebih dari satu kemungkinan, periksa konteks yang diberikan. Dalam Mandarin nyata, beberapa bentuk dapat sama-sama gramatikal tetapi berbeda nuansa; tujuan latihan adalah memilih bentuk yang paling sesuai dengan konteks yang tersedia."
+        }
+      ]
+    },
+    {
+      "judul": "21. Ringkasan Sistem Pilar 4",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kelompok",
+            "Partikel",
+            "Fungsi utama",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "Tiga de",
+              "的",
+              "Kepemilikan dan atributif",
+              "我的书、漂亮的花"
+            ],
+            [
+              "Tiga de",
+              "得",
+              "Pelengkap cara, tingkat, kemungkinan, dan arah",
+              "跑得快、听得懂"
+            ],
+            [
+              "Tiga de",
+              "地",
+              "Keterangan cara sebelum verba",
+              "慢慢地走、认真地学习"
+            ],
+            [
+              "Aspek",
+              "了",
+              "Tindakan selesai atau perubahan keadaan",
+              "吃了饭、下雨了"
+            ],
+            [
+              "Aspek",
+              "过",
+              "Pernah mengalami",
+              "去过中国"
+            ],
+            [
+              "Aspek",
+              "在/正在",
+              "Sedang berlangsung",
+              "在吃饭、正在写作业"
+            ],
+            [
+              "Aspek",
+              "着",
+              "Keadaan yang bertahan atau tindakan bersamaan",
+              "门开着、站着说话"
+            ],
+            [
+              "Akan terjadi",
+              "要",
+              "Niat atau rencana dekat",
+              "要去学校"
+            ],
+            [
+              "Akan terjadi",
+              "会",
+              "Prediksi atau kemungkinan",
+              "会下雨、会成功"
+            ],
+            [
+              "Akhir kalimat",
+              "吗",
+              "Pertanyaan ya/tidak",
+              "你好吗？"
+            ],
+            [
+              "Akhir kalimat",
+              "呢",
+              "Pertanyaan balik atau penekanan keadaan",
+              "你呢？、看书呢"
+            ],
+            [
+              "Akhir kalimat",
+              "吧",
+              "Saran, perkiraan, atau persetujuan",
+              "走吧、好吧"
+            ],
+            [
+              "Informal",
+              "来着",
+              "Mengingat atau menanyakan kembali peristiwa masa lalu",
+              "说什么来着？"
+            ],
+            [
+              "Informal",
+              "而已",
+              "Saja atau hanya itu",
+              "只是开玩笑而已"
+            ],
+            [
+              "Informal",
+              "罢了",
+              "Saja atau hanya itu",
+              "只是说说罢了"
+            ],
+            [
+              "Negasi",
+              "不",
+              "Kemauan, kebiasaan, penolakan, atau masa depan",
+              "不去、不吃"
+            ],
+            [
+              "Negasi",
+              "没",
+              "Penyangkalan fakta atau sesuatu yang belum terjadi",
+              "没去、没去过"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Kunci penguasaan Pilar 4 adalah menghafalkan fungsi sekaligus posisi partikel. Jangan hanya menghafalkan terjemahan Indonesianya; perhatikan hubungan partikel dengan kata sebelum dan sesudahnya serta konteks komunikasi."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Untuk 的、得、地, selalu periksa posisi dan fungsi gramatikalnya.",
+            "Untuk 了 dan 过, bedakan penyelesaian tindakan dari pengalaman.",
+            "Untuk 在、正在 dan 着, bedakan aksi dinamis dari keadaan yang bertahan.",
+            "Untuk 要 dan 会, bedakan niat atau rencana dari prediksi atau kemungkinan.",
+            "Untuk 吗、呢、吧, perhatikan tujuan interaksi dalam percakapan.",
+            "Untuk 不 dan 没, tentukan apakah yang disangkal adalah kemauan atau kebiasaan, atau fakta bahwa sesuatu terjadi.",
+            "Untuk pola durasi, perhatikan apakah terdapat satu atau dua 了 dan apa makna keberlangsungan yang dihasilkan."
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Ringkasan ini sebaiknya digunakan sebagai peta keputusan, bukan sekadar daftar hafalan. Mulailah dari struktur: apakah saya sedang menghubungkan keterangan dengan benda, memberi pelengkap setelah verba, atau memberi keterangan sebelum verba? Setelah itu tentukan status peristiwa: selesai, pernah, sedang, atau keadaan bertahan. Terakhir tentukan sikap pembicara terhadap masa depan dan tujuan interaksi. Dengan urutan berpikir tersebut, pilihan partikel menjadi jauh lebih stabil."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kelompok",
+            "Partikel/pola",
+            "Pertanyaan inti",
+            "Contoh",
+            "Catatan lanjutan"
+          ],
+          "baris": [
+            [
+              "Struktural",
+              "的",
+              "Apa yang dimiliki/diterangkan?",
+              "我的书",
+              "Juga 是……的 dan nominalisasi."
+            ],
+            [
+              "Struktural",
+              "得",
+              "Bagaimana/seberapa/tercapai?",
+              "跑得快",
+              "Juga potential complement."
+            ],
+            [
+              "Struktural",
+              "地",
+              "Bagaimana tindakan dilakukan?",
+              "认真地学",
+              "Adverbial sebelum verba."
+            ],
+            [
+              "Aspek",
+              "了",
+              "Selesai atau berubah?",
+              "吃了饭、下雨了",
+              "Bukan tense past."
+            ],
+            [
+              "Aspek",
+              "过",
+              "Pernah mengalami?",
+              "去过北京",
+              "Fokus pengalaman."
+            ],
+            [
+              "Aspek",
+              "在/正在",
+              "Sedang berproses?",
+              "正在看书",
+              "在 juga bisa berarti lokasi."
+            ],
+            [
+              "Aspek",
+              "着",
+              "Keadaan bertahan/latar?",
+              "门开着、笑着说",
+              "Bukan sekadar padanan sedang."
+            ],
+            [
+              "Modalitas",
+              "要",
+              "Niat/rencana/dekat?",
+              "我要走",
+              "Juga ingin/harus/akan segera."
+            ],
+            [
+              "Modalitas",
+              "会",
+              "Prediksi/kemungkinan/kemampuan?",
+              "会下雨、会游泳",
+              "Makna ditentukan konteks."
+            ],
+            [
+              "Akhir kalimat",
+              "吗",
+              "Konfirmasi ya/tidak?",
+              "你忙吗？",
+              "Pertanyaan polar."
+            ],
+            [
+              "Akhir kalimat",
+              "呢",
+              "Bagaimana dengan X/keadaan?",
+              "你呢？",
+              "Sangat pragmatis."
+            ],
+            [
+              "Akhir kalimat",
+              "吧",
+              "Saran/dugaan/lunak?",
+              "走吧",
+              "Tidak selalu berarti mungkin."
+            ],
+            [
+              "Informal",
+              "来着",
+              "Sedang mengingat kembali?",
+              "说什么来着？",
+              "Kuat dalam percakapan."
+            ],
+            [
+              "Pembatas",
+              "而已/罢了",
+              "Hanya itu?",
+              "只是开玩笑而已",
+              "Register berbeda."
+            ],
+            [
+              "Negasi",
+              "不/没",
+              "Kemauan atau fakta?",
+              "不去、没去",
+              "Konteks menentukan."
+            ],
+            [
+              "Durasi",
+              "V + 了 + durasi + 了",
+              "Masih berlangsung/relevan?",
+              "学了三年了",
+              "Pola durasi penting."
+            ],
+            [
+              "Fokus",
+              "是……的",
+              "Detail peristiwa mana yang disorot?",
+              "什么时候来的？",
+              "Bukan penanda past tense."
+            ]
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Pertama identifikasi posisi: sebelum nomina, sesudah verba, atau sebelum verba.",
+            "Kedua tentukan perspektif aspek: selesai, pengalaman, proses, atau keadaan.",
+            "Ketiga tentukan modalitas: niat/rencana atau prediksi/kemungkinan.",
+            "Keempat periksa negasi: 不 biasanya berhubungan dengan kemauan/kebiasaan/keputusan; 没 dengan fakta atau pengalaman yang belum terjadi.",
+            "Kelima baca partikel akhir sebagai sinyal hubungan sosial dan sikap, bukan sebagai kosakata lepas."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "22. Register, Variasi Regional, dan Bahasa Modern",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Untuk partikel struktural dan aspek, perbedaan regional tidak berarti bahwa Taiwan, Tiongkok Daratan, Singapura, dan Malaysia mempunyai sistem 的、得、地、了、过、着 yang sepenuhnya berbeda. Struktur intinya sangat saling dipahami. Perbedaan yang lebih terasa biasanya muncul pada partikel akhir, pilihan kosakata, gaya percakapan, intonasi, dan sistem tulisan. Hong Kong perlu diperlakukan khusus: bahasa sehari-hari utamanya adalah Cantonese, sehingga pola partikel akhir Cantonese tidak boleh langsung dipindahkan ke Mandarin. Dalam Mandarin Taiwan, penggunaan dan nuansa partikel percakapan tertentu dapat berbeda dari Mandarin Daratan; di Singapura-Malaysia juga terdapat gaya Mandarin lokal yang dipengaruhi lingkungan multibahasa."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Lingkungan",
+            "Hal yang relatif stabil",
+            "Hal yang perlu diwaspadai"
+          ],
+          "baris": [
+            [
+              "Tiongkok Daratan",
+              "的、得、地, 了、过、着 tetap inti",
+              "Partikel lisan sangat bergantung wilayah dan generasi."
+            ],
+            [
+              "Taiwan",
+              "Sistem aspek inti sama",
+              "Partikel akhir dan kosakata percakapan dapat terasa berbeda."
+            ],
+            [
+              "Singapura/Malaysia",
+              "Struktur dasar sama",
+              "Lingkungan multibahasa dapat memengaruhi gaya lisan dan pilihan kata."
+            ],
+            [
+              "Hong Kong",
+              "Mandarin formal tetap dapat menggunakan sistem standar",
+              "Bahasa lisan utama Cantonese; jangan menyamakan partikel akhir Cantonese dengan Mandarin."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你吃饭了吗？",
+              "pinyin": "Nǐ chīfàn le ma?",
+              "arti": "Kamu sudah makan?",
+              "catatan": "Contoh standar yang luas dipahami."
+            },
+            {
+              "hanzi": "你呢？",
+              "pinyin": "Nǐ ne?",
+              "arti": "Kamu bagaimana?",
+              "catatan": "Partikel akhir ini sangat produktif lintas varietas Mandarin."
+            },
+            {
+              "hanzi": "好啦。",
+              "pinyin": "Hǎo la.",
+              "arti": "Baiklah/sudahlah.",
+              "catatan": "Bentuk percakapan modern; nuansanya dapat berbeda menurut penutur dan wilayah."
+            },
+            {
+              "hanzi": "他刚才说什么来着？",
+              "pinyin": "Tā gāngcái shuō shénme láizhe?",
+              "arti": "Dia tadi bilang apa ya?",
+              "catatan": "Contoh lisan informal yang tidak terbatas pada satu wilayah Mandarin."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan membuat klaim bahwa satu partikel akhir adalah milik satu wilayah secara eksklusif tanpa bukti. Untuk aplikasi pembelajaran, lebih aman menandai register sebagai standar, lisan, informal, atau varietas tertentu hanya jika perbedaannya jelas."
+        }
+      ]
+    },
+    {
+      "judul": "23. Formal, Lisan, Internet, dan Perkembangan Historis",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Bentuk yang sama dapat terdengar berbeda tergantung medium. Dalam tulisan akademik, 的、得、地 biasanya dibedakan secara ortografis karena membantu pembaca memproses struktur. Dalam percakapan, pengucapan ketiganya sama-sama de sehingga perbedaan terlihat terutama dari struktur, bukan bunyi. Di internet, penutur kadang mengabaikan perbedaan ejaan 的 dan 地 karena keduanya homofon; ini merupakan variasi pengetikan, bukan bukti bahwa fungsi gramatikalnya sama. Partikel akhir seperti 啊、哦、啦、嘛、呢 sangat produktif dalam percakapan dan chat karena membantu menggantikan sebagian informasi yang dalam tulisan formal dapat disampaikan lewat tanda baca atau kalimat lebih eksplisit."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Register",
+            "Ciri",
+            "Contoh",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "Formal tertulis",
+              "Struktur dan ejaan lebih terjaga",
+              "认真地分析问题",
+              "地 jelas sebagai adverbial."
+            ],
+            [
+              "Lisan sehari-hari",
+              "Elipsis dan partikel akhir lebih banyak",
+              "我吃饭呢",
+              "Konteks dan intonasi sangat penting."
+            ],
+            [
+              "Chat/internet",
+              "Ejaan tidak selalu konsisten; partikel akhir ekspresif",
+              "好啦、对啊",
+              "Tidak semua bentuk cocok untuk tulisan formal."
+            ],
+            [
+              "Gaya sastra",
+              "Dapat memakai bentuk seperti 罢了",
+              "不过如此罢了",
+              "Nuansa retoris lebih kuat."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Secara historis, fungsi partikel modern terbentuk melalui proses gramatikalisasi (perubahan unsur leksikal menjadi unsur tata bahasa). 的, 得, dan 地 tidak selalu mempunyai pembagian modern yang setajam sekarang pada semua tahap sejarah bahasa. 了 berkaitan secara historis dengan unsur yang berhubungan dengan makna selesai, lalu berkembang menjadi penanda aspek dan partikel akhir. 着 juga memiliki sejarah perkembangan dari bentuk leksikal menuju penanda keadaan/aspek. Karena itu, pembelajar modern sebaiknya tidak mencari arti etimologis setiap karakter sebagai aturan penggunaan masa kini; sejarah membantu memahami mengapa bentuknya bisa tampak tumpang tindih, tetapi tata bahasa modern harus dipelajari dari fungsi sinkronis (fungsi pada bahasa masa kini)."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "认真地写。",
+              "pinyin": "Rènzhēn de xiě.",
+              "arti": "Menulis dengan serius.",
+              "catatan": "Bentuk standar tertulis."
+            },
+            {
+              "hanzi": "好啦，走吧。",
+              "pinyin": "Hǎo la, zǒu ba.",
+              "arti": "Baiklah, ayo pergi.",
+              "catatan": "Gaya percakapan."
+            },
+            {
+              "hanzi": "我只是开玩笑而已。",
+              "pinyin": "Wǒ zhǐshì kāiwánxiào éryǐ.",
+              "arti": "Saya hanya bercanda saja.",
+              "catatan": "Netral dan dapat dipakai dalam tulisan/lisan."
+            },
+            {
+              "hanzi": "他不过如此罢了。",
+              "pinyin": "Tā búguò rúcǐ bàle.",
+              "arti": "Dia tidak lebih dari itu.",
+              "catatan": "Lebih retoris/tertulis daripada percakapan dasar."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menggunakan sejarah bahasa untuk membenarkan bentuk modern yang tidak lazim. Sebaliknya, jangan menganggap bentuk internet sebagai standar tulisan formal. Pisahkan tiga lapisan: tata bahasa modern, register penggunaan, dan sejarah perkembangan."
+        }
+      ]
+    }
+  ]
+}
