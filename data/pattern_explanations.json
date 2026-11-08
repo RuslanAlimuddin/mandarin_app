@@ -1,0 +1,2332 @@
+{
+ "S-V": {
+  "penjelasan_dasar": "Ini pola kalimat Mandarin yang paling sederhana: cukup Subjek (pelaku) diikuti Kata Kerja (aksi), titik. Tidak ada embel-embel apa pun. Bandingkan dengan bahasa Indonesia yang sudah familiar buat Anda: 'Saya makan' — di Mandarin polanya identik, 我吃 (Wǒ chī). Yang perlu diingat: pola ini HANYA cukup kalau kata kerjanya bisa berdiri sendiri tanpa objek (disebut kata kerja intransitif) — seperti 'datang', 'pulang', 'tidur', 'menangis'. Kalau kata kerjanya butuh objek (seperti 'makan APA', 'melihat APA'), pola ini akan terasa janggal berdiri sendiri dan biasanya dilanjutkan ke pola S-V-O.",
+  "perbandingan_indonesia": "Kabar baik: pola ini hampir 100% sama dengan bahasa Indonesia dari segi urutan kata (Subjek dulu, baru Kata Kerja). Tidak ada perubahan bentuk kata kerja sama sekali — di Mandarin, kata kerja TIDAK BERUBAH berdasarkan siapa pelakunya atau kapan aksinya terjadi. 我来 (saya datang), 你来 (kamu datang), 他来 (dia datang) — kata kerja 来 selalu sama persis. Ini beda jauh dengan bahasa Inggris yang punya 'come/comes/came'. Jadi justru pola ini salah satu yang paling gampang buat orang Indonesia karena logikanya sudah sangat familiar.",
+  "kapan_tidak_boleh": "Jangan pakai pola ini kalau kata kerjanya butuh objek supaya maknanya jelas (misal 'makan', 'melihat', 'membeli') — kalimat akan terasa menggantung tanpa konteks. Lebih aman pakai S-V-O supaya kalimatnya jelas dengan sendirinya, terutama saat masih belajar.",
+  "kesalahan_umum": [
+   {
+    "salah": "我是来。",
+    "benar": "我来。",
+    "penjelasan": "Jangan taruh 是 (shì = 'adalah') sebelum kata kerja biasa. 是 cuma dipakai kalau predikatnya kata benda (pola S+是+O), bukan kata kerja aksi.",
+    "salah_py": "Wǒ shì lái.",
+    "benar_py": "Wǒlái."
+   },
+   {
+    "salah": "来我。",
+    "benar": "我来。",
+    "penjelasan": "Urutannya harus Subjek DULU baru Kata Kerja, tidak boleh dibalik. Mandarin cukup ketat soal urutan kata karena tidak punya akhiran/awalan penanda fungsi kata.",
+    "salah_py": "Lái wǒ.",
+    "benar_py": "Wǒlái."
+   },
+   {
+    "salah": "他很走。",
+    "benar": "他走。",
+    "penjelasan": "很 dipakai untuk kata sifat, bukan kata kerja aksi seperti 走 (pergi/berjalan). Jangan taruh 很 di depan kata kerja aksi biasa.",
+    "salah_py": "Tā hěn zǒu.",
+    "benar_py": "Tā zǒu."
+   },
+   {
+    "salah": "我我来。",
+    "benar": "我来。",
+    "penjelasan": "Jangan mengulang subjek dua kali berturut-turut; cukup sebut sekali di depan kalimat.",
+    "salah_py": "Wǒ wǒ lái.",
+    "benar_py": "Wǒlái."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "我 哭 了。",
+    "py": "Wǒ kū le.",
+    "id": "Saya menangis."
+   },
+   {
+    "cn": "他 走 了。",
+    "py": "Tā zǒu le.",
+    "id": "Dia pergi/berjalan."
+   },
+   {
+    "cn": "孩子 笑 了。",
+    "py": "Háizi xiào le.",
+    "id": "Anak itu tertawa."
+   },
+   {
+    "cn": "你们 坐。",
+    "py": "Nǐmen zuò.",
+    "id": "Silakan duduk. (kalian duduk)"
+   },
+   {
+    "cn": "客人来了。",
+    "py": "Kèrén lái le.",
+    "id": "Tamu sudah datang."
+   },
+   {
+    "cn": "大家坐吧。",
+    "py": "Dàjiā zuò ba.",
+    "id": "Mari kita semua duduk."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "S-V-O",
+    "alasan": "Kalau kata kerjanya butuh objek (makan APA, lihat APA), lanjut ke pola ini."
+   },
+   {
+    "key": "S-V-le",
+    "alasan": "Untuk menegaskan aksinya SUDAH selesai, tambahkan partikel 了 setelah kata kerja."
+   },
+   {
+    "key": "Q-ma",
+    "alasan": "Untuk mengubah pola S-V ini jadi pertanyaan ya/tidak, tinggal tempel 吗 di akhir."
+   }
+  ]
+ },
+ "S-V-O": {
+  "penjelasan_dasar": "Ini pola paling penting dan paling sering dipakai di seluruh bahasa Mandarin — nyaris semua kalimat aktif mengikuti kerangka ini: siapa (S) melakukan apa (V) terhadap apa (O). Bedanya dengan pola S-V sebelumnya: di sini kata kerjanya BUTUH objek supaya maknanya utuh, seperti 'makan nasi', bukan sekadar 'makan'.",
+  "perbandingan_indonesia": "Persis sama urutannya dengan bahasa Indonesia: Saya(S) makan(V) nasi(O) = 我(S) 吃(V) 饭(O). Tidak ada perubahan bentuk kata kerja berdasarkan objeknya (beda dengan bahasa yang punya konjugasi seperti Inggris/Spanyol). Yang perlu dibiasakan: di Mandarin, objek SELALU nempel tepat setelah kata kerja, tidak boleh disisipi kata keterangan lain di tengah-tengah.",
+  "kapan_tidak_boleh": "Jangan pakai pola ini untuk kalimat identitas ('saya ADALAH murid') — itu pakai pola S-是-O, bukan S-V-O, karena 是 bukan kata kerja aksi biasa. Juga jangan dipakai kalau predikatnya kata sifat ('saya senang') — itu pola S-很-Adj.",
+  "kesalahan_umum": [
+   {
+    "salah": "我很吃饭。",
+    "benar": "我吃饭。",
+    "penjelasan": "很 (sangat) cuma dipakai sebelum KATA SIFAT, bukan kata kerja aksi biasa. Kalau kata kerjanya sudah jelas aksinya (makan, minum, belajar), tidak perlu ditambah 很 di depannya.",
+    "salah_py": "Wǒ hěn chīfàn.",
+    "benar_py": "Wǒ chīfàn."
+   },
+   {
+    "salah": "我吃了饭很多。",
+    "benar": "我吃了很多饭。",
+    "penjelasan": "Kata keterangan jumlah (很多 = banyak) harus di depan objek (饭), bukan di belakangnya. Di Mandarin, keterangan biasanya mendahului yang diterangkan.",
+    "salah_py": "Wǒ chīlefàn hěnduō.",
+    "benar_py": "Wǒ chī le hěnduō fàn."
+   },
+   {
+    "salah": "他电影看。",
+    "benar": "他看电影。",
+    "penjelasan": "Urutan wajib S+V+O, objek tidak boleh dipindah ke depan kata kerja seperti kebiasaan sebagian bahasa lain.",
+    "salah_py": "Tā diànyǐng kàn.",
+    "benar_py": "Tā kàn diànyǐng."
+   },
+   {
+    "salah": "我要不喝茶。",
+    "benar": "我不要喝茶。",
+    "penjelasan": "Kalau mau menegasikan keinginan (要), 不 diletakkan SEBELUM 要, bukan disisipkan di antara 要 dan kata kerja.",
+    "salah_py": "Wǒyào bù hēchá.",
+    "benar_py": "Wǒ búyào hēchá."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "我看电视。",
+    "py": "Wǒ kàn diànshì.",
+    "id": "Saya menonton TV."
+   },
+   {
+    "cn": "他喝咖啡。",
+    "py": "Tā hē kāfēi.",
+    "id": "Dia minum kopi."
+   },
+   {
+    "cn": "我们做作业。",
+    "py": "Wǒmen zuò zuòyè.",
+    "id": "Kami mengerjakan PR."
+   },
+   {
+    "cn": "她买水果。",
+    "py": "Tā mǎi shuǐguǒ.",
+    "id": "Dia membeli buah."
+   },
+   {
+    "cn": "妈妈做饭。",
+    "py": "Māmā zuòfàn.",
+    "id": "Ibu memasak nasi/makanan."
+   },
+   {
+    "cn": "弟弟踢足球。",
+    "py": "Dìdi tīzúqiú.",
+    "id": "Adik laki-laki bermain sepak bola."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "S-V",
+    "alasan": "Kalau kata kerjanya sudah cukup jelas tanpa objek (intransitif), cukup pakai pola dasar ini."
+   },
+   {
+    "key": "S-T-V-O",
+    "alasan": "Untuk menambahkan keterangan waktu, sisipkan sebelum kata kerja."
+   },
+   {
+    "key": "Q-shenme",
+    "alasan": "Untuk menanyakan objeknya apa, ganti posisi objek dengan 什么 (apa)."
+   }
+  ]
+ },
+ "S-shi-O": {
+  "penjelasan_dasar": "是 (shì) artinya 'adalah' — dipakai KHUSUS untuk menyatakan identitas, jenis, atau kategori sesuatu, bukan untuk deskripsi sifat. Contoh: 'Saya ADALAH murid' (identitas) pakai 是, tapi 'Saya BAIK' (sifat) TIDAK pakai 是, melainkan pola S-很-Adj. Ini titik kebingungan paling umum bagi pelajar pemula.",
+  "perbandingan_indonesia": "Di bahasa Indonesia, kata 'adalah' sering dipakai lebih longgar dan kadang malah dihilangkan ('Saya guru' tanpa kata 'adalah' pun sudah benar). Di Mandarin, 是 WAJIB ada kalau menyatakan identitas — tidak boleh dihilangkan seperti di bahasa Indonesia informal. Sebaliknya, untuk kalimat sifat, orang Indonesia sering refleks menambahkan 'adalah' (Dia ADALAH baik) — ini justru salah di Mandarin, karena kalimat sifat sama sekali tidak pakai 是.",
+  "kapan_tidak_boleh": "JANGAN pakai 是 sebelum kata sifat. 'Dia adalah tinggi' bukan 他是高，melainkan 他很高 (tanpa 是, pakai 很). Ini aturan yang sering dilanggar pemula karena logika bahasa Indonesia/Inggris membiasakan kata 'adalah/is' sebelum sifat juga.",
+  "kesalahan_umum": [
+   {
+    "salah": "他是高。",
+    "benar": "他很高。",
+    "penjelasan": "是 tidak dipakai untuk kata sifat. Kata sifat di Mandarin langsung berfungsi sebagai predikat, biasanya didahului 很.",
+    "salah_py": "Tā shì gāo.",
+    "benar_py": "Tā hěn gāo."
+   },
+   {
+    "salah": "我是不忙。",
+    "benar": "我不忙。",
+    "penjelasan": "Kalau predikatnya kata sifat (忙=sibuk), negasinya cukup 不+sifat, tidak perlu 是 sama sekali.",
+    "salah_py": "Wǒ shì bùmáng.",
+    "benar_py": "Wǒ bùmáng."
+   },
+   {
+    "salah": "我是喜欢音乐。",
+    "benar": "我喜欢音乐。",
+    "penjelasan": "是 hanya untuk predikat kata benda (identitas), bukan untuk kata kerja seperti 喜欢 (menyukai). Kalau predikatnya kata kerja, tidak perlu 是 sama sekali.",
+    "salah_py": "Wǒ shì xǐhuān yīnyuè.",
+    "benar_py": "Wǒ xǐhuān yīnyuè."
+   },
+   {
+    "salah": "这是书我的。",
+    "benar": "这是我的书。",
+    "penjelasan": "的 (penanda kepemilikan) harus jadi satu kesatuan utuh dengan kata benda yang diterangkannya; jangan dipisah.",
+    "salah_py": "Zhè shì shū wǒ de.",
+    "benar_py": "Zhè shì wǒ de shū."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "这是我的猫。",
+    "py": "Zhè shì wǒ de māo.",
+    "id": "Ini adalah kucing saya."
+   },
+   {
+    "cn": "他是医生。",
+    "py": "Tā shì yīshēng.",
+    "id": "Dia adalah dokter."
+   },
+   {
+    "cn": "我们是朋友。",
+    "py": "Wǒmen shì péngyou.",
+    "id": "Kami adalah teman."
+   },
+   {
+    "cn": "她是我姐姐。",
+    "py": "Tā shì wǒ jiějiě.",
+    "id": "Dia adalah kakak perempuan saya."
+   },
+   {
+    "cn": "这是他的手机。",
+    "py": "Zhè shì tā de shǒujī.",
+    "id": "Ini adalah HP miliknya."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "S-hen-Adj",
+    "alasan": "Untuk kalimat sifat (bukan identitas), jangan pakai 是 — pakai pola ini."
+   },
+   {
+    "key": "Q-ma",
+    "alasan": "Untuk bertanya 'apakah dia guru?', tinggal tambah 吗 di akhir kalimat 是."
+   }
+  ]
+ },
+ "S-you-O": {
+  "penjelasan_dasar": "有 (yǒu) artinya 'memiliki/mempunyai/ada'. Salah satu kata kerja paling unik di Mandarin karena punya bentuk negasi khusus: 没有 (méiyǒu), BUKAN 不有. Ini beda dari kebanyakan kata kerja lain yang negasinya pakai 不.",
+  "perbandingan_indonesia": "Konsepnya sama persis dengan bahasa Indonesia 'punya/mempunyai' — urutannya identik: Saya(S) punya(有) buku(O). Yang perlu diingat khusus: kalau di Indonesia kita bilang 'saya TIDAK punya', logikanya sama tapi kata negasinya BEDA di Mandarin — bukan 不 seperti negasi kata kerja umumnya, melainkan 没 (jadi 没有, bukan 不有).",
+  "kapan_tidak_boleh": "Jangan pakai 不有 untuk menegasikan — ini kesalahan gramatikal yang cukup mencolok di telinga penutur asli. Selalu 没有. Juga jangan campur dengan 有 dalam konteks pengalaman (有没有 + V + 过) — itu struktur berbeda meski pakai kata yang sama.",
+  "kesalahan_umum": [
+   {
+    "salah": "我不有钱。",
+    "benar": "我没有钱。",
+    "penjelasan": "有 SATU-SATUNYA kata kerja umum yang negasinya pakai 没, bukan 不. Ini pengecualian penting yang wajib dihafal di luar kepala.",
+    "salah_py": "Wǒ bù yǒuqián.",
+    "benar_py": "Wǒ méiyǒu qián."
+   },
+   {
+    "salah": "我有不书。",
+    "benar": "我没有书。",
+    "penjelasan": "没 harus ditaruh SEBELUM 有, bukan disisipkan di tengah antara 有 dan objek.",
+    "salah_py": "Wǒ yǒu bùshū.",
+    "benar_py": "Wǒ méiyǒu shū."
+   },
+   {
+    "salah": "我是书。",
+    "benar": "我有书。",
+    "penjelasan": "有 dipakai untuk ‘memiliki/ada’, 是 dipakai untuk ‘adalah’ (identitas) — dua kata kerja ini tidak bisa saling gantikan.",
+    "salah_py": "Wǒ shì shū.",
+    "benar_py": "Wǒ yǒu shū."
+   },
+   {
+    "salah": "有我书。",
+    "benar": "我有书。",
+    "penjelasan": "Subjek harus di depan 有, tidak boleh dibalik jadi 有+Subjek+Objek.",
+    "salah_py": "Yǒu wǒ shū.",
+    "benar_py": "Wǒ yǒu shū."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "她有姐姐。",
+    "py": "Tā yǒu jiějie.",
+    "id": "Dia punya kakak perempuan."
+   },
+   {
+    "cn": "我们有时间。",
+    "py": "Wǒmen yǒu shíjiān.",
+    "id": "Kami punya waktu."
+   },
+   {
+    "cn": "你有手机吗？",
+    "py": "Nǐ yǒu shǒujī ma?",
+    "id": "Kamu punya HP?"
+   },
+   {
+    "cn": "我有一个弟弟。",
+    "py": "Wǒ yǒu yígè dìdi.",
+    "id": "Saya punya satu adik laki-laki."
+   },
+   {
+    "cn": "他没有工作。",
+    "py": "Tā méiyǒu gōngzuò.",
+    "id": "Dia tidak punya pekerjaan."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "Q-ma",
+    "alasan": "Tambah 吗 di akhir untuk bertanya 'apakah punya...?'"
+   },
+   {
+    "key": "S-V-guo",
+    "alasan": "有 juga muncul dalam struktur pengalaman 有没有 + V + 过, konsep terkait tapi beda pola."
+   }
+  ]
+ },
+ "S-zai-L": {
+  "penjelasan_dasar": "在 (zài) artinya 'berada di'. Pola ini dipakai untuk menyatakan lokasi keberadaan seseorang atau sesuatu. Objek setelah 在 harus kata tempat, bukan sembarang kata benda — 'saya berada di BUKU' tidak masuk akal, jadi hanya kata seperti rumah/sekolah/kantor/di sini/di sana yang cocok di slot ini.",
+  "perbandingan_indonesia": "Sama persis dengan bahasa Indonesia 'berada di' — S 在 Tempat = S berada di Tempat. Urutannya identik, tidak ada yang perlu 'dibalik' logikanya. Yang beda: 在 di Mandarin punya fungsi ganda — selain berarti 'berada di' (seperti di sini), 在 juga bisa dipakai SEBELUM kata kerja untuk menandai aksi 'sedang berlangsung' (pola S-zai-V, beda pola dari yang ini).",
+  "kapan_tidak_boleh": "Jangan campur adukkan 在 di sini (在 + Tempat = lokasi) dengan 在 di pola S-zai-V (在 + Kata Kerja = sedang melakukan). Keduanya pakai kata yang sama tapi fungsi gramatikalnya beda total tergantung apa yang mengikutinya.",
+  "kesalahan_umum": [
+   {
+    "salah": "学校我在。",
+    "benar": "我在学校。",
+    "penjelasan": "Urutan harus Subjek + 在 + Tempat, tidak boleh dibalik meskipun di bahasa Indonesia kadang urutan bisa lebih fleksibel.",
+    "salah_py": "Xuéxiào wǒ zài.",
+    "benar_py": "Wǒ zài xuéxiào."
+   },
+   {
+    "salah": "我在很学校。",
+    "benar": "我在学校。",
+    "penjelasan": "在 langsung diikuti kata tempat, tidak perlu (dan tidak boleh) disisipi 很 atau kata keterangan derajat lain — itu aturan untuk kata sifat, bukan untuk 在 + tempat.",
+    "salah_py": "Wǒ zài hěn xuéxiào.",
+    "benar_py": "Wǒ zài xuéxiào."
+   },
+   {
+    "salah": "我是在家。",
+    "benar": "我在家。",
+    "penjelasan": "在 sendiri sudah cukup sebagai kata kerja ‘berada di’, tidak perlu tambahan 是 di depannya.",
+    "salah_py": "Wǒ shì zàijiā.",
+    "benar_py": "Wǒ zàijiā."
+   },
+   {
+    "salah": "我家在。",
+    "benar": "我在家。",
+    "penjelasan": "在 harus tetap ada dan diletakkan setelah subjek, sebelum kata tempat — jangan dihilangkan atau dipindah ke belakang.",
+    "salah_py": "Wǒjiā zài.",
+    "benar_py": "Wǒ zàijiā."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "书在桌子上。",
+    "py": "Shū zài zhuōzi shàng.",
+    "id": "Buku ada di atas meja."
+   },
+   {
+    "cn": "他在公司。",
+    "py": "Tā zài gōngsī.",
+    "id": "Dia berada di kantor/perusahaan."
+   },
+   {
+    "cn": "我们在公园。",
+    "py": "Wǒmen zài gōngyuán.",
+    "id": "Kami berada di taman."
+   },
+   {
+    "cn": "猫在沙发上。",
+    "py": "Māo zài shāfā shàng.",
+    "id": "Kucing itu ada di atas sofa."
+   },
+   {
+    "cn": "爸爸在办公室。",
+    "py": "Bàbà zài bàngōngshì.",
+    "id": "Ayah berada di kantor."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "S-zai-V",
+    "alasan": "在 yang sama, tapi kalau diikuti KATA KERJA (bukan tempat), artinya berubah jadi 'sedang melakukan'."
+   },
+   {
+    "key": "Q-ne",
+    "alasan": "Untuk bertanya balik 'kalau dia bagaimana/di mana?', pakai partikel 呢 setelah subjek/topik."
+   }
+  ]
+ },
+ "S-hen-Adj": {
+  "penjelasan_dasar": "很 (hěn) secara harafiah berarti 'sangat', tapi dalam praktiknya sering dipakai hanya sebagai 'perekat' netral antara subjek dan kata sifat — TANPA benar-benar menekankan makna 'sangat'. Ini konsep yang agak asing buat pemula: di Mandarin, kata sifat TIDAK BISA langsung menempel ke subjek tanpa kata penghubung seperti 很. Kalau langsung 我好 (tanpa 很), telinga penutur asli akan menangkapnya sebagai perbandingan implisit ('saya [lebih] baik [dibanding yang lain]'), bukan pernyataan netral.",
+  "perbandingan_indonesia": "Di bahasa Indonesia, kata sifat bisa langsung menempel ke subjek tanpa kata penghubung sama sekali: 'Saya baik' sudah lengkap. Di Mandarin, kalimat sifat yang natural HAMPIR SELALU butuh 很 (atau kata keterangan derajat lain) di depannya meskipun maknanya tidak benar-benar 'sangat' — ini salah satu penyesuaian mental terbesar buat pelajar Indonesia.",
+  "kapan_tidak_boleh": "Jangan pakai 很 kalau memang berniat MEMBANDINGKAN dua hal secara eksplisit (untuk itu ada pola khusus A+比+B+Adj). Juga, kalau ingin benar-benar menekankan 'SANGAT' (bukan sekadar netral), biasanya perlu penekanan intonasi ekstra atau kata lain seperti 非常 (fēicháng = benar-benar sangat).",
+  "kesalahan_umum": [
+   {
+    "salah": "我好。",
+    "benar": "我很好。",
+    "penjelasan": "Tanpa 很, kalimat sifat terdengar seperti perbandingan tersirat atau kurang lengkap secara gramatikal bagi penutur asli. 很 di sini berfungsi sebagai penghubung wajib, bukan penekanan makna.",
+    "salah_py": "Wǒ hǎo.",
+    "benar_py": "Wǒ hěn hǎo."
+   },
+   {
+    "salah": "我很是好。",
+    "benar": "我很好。",
+    "penjelasan": "Jangan tambahkan 是 di antara subjek dan 很+sifat — kata sifat di Mandarin tidak butuh 'kata kerja penghubung' seperti 是, beda dengan pola bahasa Inggris 'I am good'.",
+    "salah_py": "Wǒ hěn shì hǎo.",
+    "benar_py": "Wǒ hěn hǎo."
+   },
+   {
+    "salah": "这个很非常好。",
+    "benar": "这个非常好。",
+    "penjelasan": "Jangan gabungkan dua kata keterangan derajat sekaligus (很 dan 非常) di depan satu kata sifat yang sama — pilih salah satu saja.",
+    "salah_py": "Zhège hěn fēicháng hǎo.",
+    "benar_py": "Zhège fēicháng hǎo."
+   },
+   {
+    "salah": "他很高不高？",
+    "benar": "他高不高？",
+    "penjelasan": "Untuk pertanyaan bentuk A-tidak-A (高不高), 很 tidak dipakai sama sekali — 很 hanya untuk kalimat pernyataan positif biasa.",
+    "salah_py": "Tā hěn gāobùgāo?",
+    "benar_py": "Tā gāobùgāo?"
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "她很漂亮。",
+    "py": "Tā hěn piàoliang.",
+    "id": "Dia sangat cantik."
+   },
+   {
+    "cn": "这个很有趣。",
+    "py": "Zhège hěn yǒuqù.",
+    "id": "Ini sangat menarik."
+   },
+   {
+    "cn": "天气很热。",
+    "py": "Tiānqì hěn rè.",
+    "id": "Cuacanya sangat panas."
+   },
+   {
+    "cn": "这个房间很干净。",
+    "py": "Zhège fángjiān hěn gānjìng.",
+    "id": "Kamar ini sangat bersih."
+   },
+   {
+    "cn": "我弟弟很矮。",
+    "py": "Wǒ dìdi hěnǎi.",
+    "id": "Adik laki-laki saya sangat pendek."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "S-bu-Adj",
+    "alasan": "Untuk negasi kata sifat, ganti 很 dengan 不 di posisi yang sama."
+   },
+   {
+    "key": "S-tai-Adj-le",
+    "alasan": "Kalau ingin menekankan 'terlalu', pakai pola 太…了 sebagai ganti 很."
+   }
+  ]
+ },
+ "S-bu-Adj": {
+  "penjelasan_dasar": "不 (bù) adalah kata negasi paling umum di Mandarin, dipakai untuk menegasikan kata sifat maupun kata kerja pada umumnya (kecuali 有, yang negasinya wajib 没有). Strukturnya sangat sederhana: cukup sisipkan 不 tepat sebelum kata sifat/kata kerja yang ingin dinegasikan.",
+  "perbandingan_indonesia": "Persis seperti bahasa Indonesia menambahkan kata 'tidak' sebelum kata sifat/kerja: 'saya TIDAK sibuk' = 我不忙. Urutan dan logikanya identik, tidak ada yang perlu disesuaikan cara berpikirnya — ini salah satu pola paling intuitif untuk pelajar Indonesia.",
+  "kapan_tidak_boleh": "Jangan pakai 不 untuk menegasikan 有 (punya) — itu SATU-SATUNYA pengecualian, wajib pakai 没有. Juga, untuk kejadian di MASA LALU yang tidak terjadi (bukan sifat/kebiasaan permanen), biasanya dipakai 没 bukan 不 — misalnya 'saya tidak pergi (kemarin)' = 我没去, bukan 我不去 (yang lebih ke arah 'saya tidak [biasa/akan] pergi').",
+  "kesalahan_umum": [
+   {
+    "salah": "我不有钱。",
+    "benar": "我没有钱。",
+    "penjelasan": "有 tidak dinegasikan dengan 不 — ini pengecualian penting, wajib pakai 没有.",
+    "salah_py": "Wǒ bù yǒuqián.",
+    "benar_py": "Wǒ méiyǒu qián."
+   },
+   {
+    "salah": "我不去昨天。",
+    "benar": "我昨天没去。",
+    "penjelasan": "Untuk aksi masa lalu yang tidak terjadi, pakai 没 (bukan 不), dan keterangan waktu (昨天=kemarin) diletakkan sebelum kata kerja, bukan di akhir kalimat.",
+    "salah_py": "Wǒ bù qù zuótiān.",
+    "benar_py": "Wǒ zuótiān méi qù."
+   },
+   {
+    "salah": "他不喜欢不。",
+    "benar": "他不喜欢。",
+    "penjelasan": "不 cukup sekali di depan kata kerja/sifat, jangan diulang lagi di akhir kalimat.",
+    "salah_py": "Tā bù xǐhuān bù.",
+    "benar_py": "Tā bù xǐhuān."
+   },
+   {
+    "salah": "不他去。",
+    "benar": "他不去。",
+    "penjelasan": "不 harus diletakkan SETELAH subjek, SEBELUM kata kerja/sifat — bukan di paling depan kalimat sebelum subjek.",
+    "salah_py": "Bù tā qù.",
+    "benar_py": "Tā bù qù."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "他不高。",
+    "py": "Tā bù gāo.",
+    "id": "Dia tidak tinggi."
+   },
+   {
+    "cn": "我不喜欢。",
+    "py": "Wǒ bù xǐhuan.",
+    "id": "Saya tidak suka."
+   },
+   {
+    "cn": "这不难。",
+    "py": "Zhè bù nán.",
+    "id": "Ini tidak sulit."
+   },
+   {
+    "cn": "这个菜不辣。",
+    "py": "Zhège càibùlà.",
+    "id": "Masakan ini tidak pedas."
+   },
+   {
+    "cn": "我今天不上班。",
+    "py": "Wǒ jīntiān bù shàngbān.",
+    "id": "Saya hari ini tidak kerja/masuk kantor."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "S-hen-Adj",
+    "alasan": "Bentuk positif/netral dari pola ini — ganti 不 dengan 很."
+   },
+   {
+    "key": "S-you-O",
+    "alasan": "Kalau yang dinegasikan adalah 有 (punya), lihat pola ini untuk aturan khusus 没有."
+   }
+  ]
+ },
+ "S-tai-Adj-le": {
+  "penjelasan_dasar": "太…了 (tài…le) artinya 'terlalu…'. Pola ini unik karena kata sifatnya 'diapit' oleh dua elemen: 太 di depan (artinya 'terlalu') dan 了 di belakang (di sini berfungsi sebagai penegas emosi/nada, bukan penanda aksi selesai seperti di pola lain). Sering dipakai untuk mengungkapkan reaksi spontan — kekaguman, keluhan, atau kejutan.",
+  "perbandingan_indonesia": "Konsepnya mirip 'terlalu…' atau '…banget/sekali' dalam bahasa Indonesia sehari-hari — 太贵了 = 'terlalu mahal' ATAU 'mahal banget', tergantung nada bicara. Yang perlu dibiasakan: 了 di akhir itu WAJIB ada untuk pola ini supaya terdengar natural sebagai ekspresi, bukan cuma pernyataan datar.",
+  "kapan_tidak_boleh": "Jangan hilangkan 了 di akhir kalau tujuannya adalah ekspresi emosional/reaksi spontan (太贵了 vs 太贵 tanpa 了 terasa seperti kalimat terpotong). Jangan pula pakai pola ini untuk pernyataan objektif netral tanpa nuansa 'berlebihan' — untuk itu cukup pakai 很 (S-hen-Adj).",
+  "kesalahan_umum": [
+   {
+    "salah": "太贵。",
+    "benar": "太贵了！",
+    "penjelasan": "了 di akhir pola ini penting untuk kesan natural sebagai ungkapan reaksi. Tanpa itu, kalimatnya terasa seperti terpotong di tengah.",
+    "salah_py": "Tàiguì.",
+    "benar_py": "Tàiguì le!"
+   },
+   {
+    "salah": "我很太忙了。",
+    "benar": "我太忙了。",
+    "penjelasan": "Jangan gabungkan 很 dan 太 sekaligus — keduanya sama-sama kata keterangan derajat, dipakai salah satu saja sesuai maksud (很=sangat netral, 太=terlalu/berlebihan).",
+    "salah_py": "Wǒ hěn tàimáng le.",
+    "benar_py": "Wǒtàimáng le."
+   },
+   {
+    "salah": "太贵了太。",
+    "benar": "太贵了。",
+    "penjelasan": "太 cukup sekali di depan kata sifat; jangan diulang lagi di akhir kalimat.",
+    "salah_py": "Tàiguì le tài.",
+    "benar_py": "Tàiguì le."
+   },
+   {
+    "salah": "这个了太贵。",
+    "benar": "这个太贵了。",
+    "penjelasan": "了 pada pola ini WAJIB di paling akhir kalimat, bukan disisipkan di tengah antara subjek dan 太.",
+    "salah_py": "Zhège le tàiguì.",
+    "benar_py": "Zhège tàiguì le."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "这个太难了！",
+    "py": "Zhège tài nán le!",
+    "id": "Ini terlalu sulit!"
+   },
+   {
+    "cn": "你太好了！",
+    "py": "Nǐ tài hǎo le!",
+    "id": "Kamu baik banget!"
+   },
+   {
+    "cn": "太可惜了。",
+    "py": "Tài kěxī le.",
+    "id": "Sayang sekali."
+   },
+   {
+    "cn": "这个包太重了！",
+    "py": "Zhège bāo tàizhòng le!",
+    "id": "Tas ini terlalu berat!"
+   },
+   {
+    "cn": "今天太热了。",
+    "py": "Jīntiān tàirè le.",
+    "id": "Hari ini terlalu panas."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "S-hen-Adj",
+    "alasan": "Untuk pernyataan sifat netral tanpa nuansa 'berlebihan', pakai 很 sebagai gantinya."
+   }
+  ]
+ },
+ "S-Num-M-N": {
+  "penjelasan_dasar": "量词 (liàngcí, kata pengukur/penjodoh bilangan) adalah salah satu konsep gramatika Mandarin yang paling asing buat pemula — hampir SEMUA kata benda WAJIB pakai kata pengukur khusus saat disertai angka, tidak bisa langsung 'angka + benda'. Setiap jenis benda punya kata pengukurnya sendiri: 本 untuk buku, 张 untuk benda pipih (kertas/meja), 个 untuk hampir semua benda umum (kata pengukur paling serbaguna kalau ragu), dan seterusnya.",
+  "perbandingan_indonesia": "Bahasa Indonesia sebenarnya juga punya konsep serupa meski tidak seketat Mandarin: 'sehelai kertas', 'seekor kucing', 'sebuah meja' — kata 'helai/ekor/buah' itu sama fungsinya dengan 量词. Bedanya, di Indonesia penjodoh bilangan ini SERING dihilangkan dalam percakapan santai ('satu kertas' juga dipahami), sedangkan di Mandarin, 量词 HAMPIR SELALU wajib, jarang bisa dihilangkan begitu saja.",
+  "kapan_tidak_boleh": "Jangan pernah langsung menempelkan angka ke kata benda tanpa 量词 (misal 三书 SALAH, harus 三本书) — ini kesalahan gramatikal yang langsung kentara sebagai ciri khas penutur asing pemula. Kalau ragu kata pengukur yang tepat untuk suatu benda, 个 adalah pilihan paling aman sebagai 'default' meski tidak selalu 100% tepat secara formal.",
+  "kesalahan_umum": [
+   {
+    "salah": "三书",
+    "benar": "三本书",
+    "penjelasan": "Angka tidak boleh langsung menempel ke kata benda — HARUS ada 量词 di antaranya. Ini aturan paling dasar tapi paling sering dilupakan pemula.",
+    "salah_py": "Sānshū",
+    "benar_py": "Sān běnshū"
+   },
+   {
+    "salah": "一个茶",
+    "benar": "一杯茶",
+    "penjelasan": "Meski 个 itu serbaguna, sebisa mungkin pakai kata pengukur yang sesuai jenis bendanya (杯=cangkir/gelas untuk minuman) supaya terdengar lebih natural.",
+    "salah_py": "Yígè chá",
+    "benar_py": "Yībēi chá"
+   },
+   {
+    "salah": "四本个书",
+    "benar": "四本书",
+    "penjelasan": "Cukup satu kata pengukur (量词) per frasa; jangan menumpuk dua 量词 sekaligus untuk benda yang sama.",
+    "salah_py": "Sìběn gèshū",
+    "benar_py": "Sì běnshū"
+   },
+   {
+    "salah": "五个鱼",
+    "benar": "五条鱼",
+    "penjelasan": "Ikan pakai kata pengukur 条 (untuk benda panjang/ramping), bukan 个 yang terlalu umum — semakin spesifik kata pengukurnya, semakin natural terdengarnya.",
+    "salah_py": "Wǔgè yú",
+    "benar_py": "Wǔtiáo yú"
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "两个人",
+    "py": "liǎng gè rén",
+    "id": "dua orang"
+   },
+   {
+    "cn": "一条鱼",
+    "py": "yī tiáo yú",
+    "id": "seekor ikan"
+   },
+   {
+    "cn": "五张纸",
+    "py": "wǔ zhāng zhǐ",
+    "id": "lima lembar kertas"
+   },
+   {
+    "cn": "三张桌子",
+    "py": "Sānzhāng zhuōzi",
+    "id": "tiga buah meja"
+   },
+   {
+    "cn": "六个苹果",
+    "py": "Liùgè píngguǒ",
+    "id": "enam buah apel"
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "Q-duoshao",
+    "alasan": "Untuk menanyakan jumlah/berapa banyak, jawabannya biasanya juga memakai pola Angka+量词+Benda ini."
+   }
+  ]
+ },
+ "S-T-V-O": {
+  "penjelasan_dasar": "Pola ini menambahkan keterangan WAKTU (kapan aksi terjadi: hari ini, besok, setiap hari, dll.) ke kalimat S-V-O dasar. Posisi keterangan waktu di Mandarin punya aturan tetap: SELALU sebelum kata kerja, tepatnya setelah subjek (atau bahkan di awal kalimat sebelum subjek, keduanya sama-sama benar).",
+  "perbandingan_indonesia": "Ini salah satu perbedaan struktural paling mencolok dengan bahasa Indonesia! Di Indonesia, keterangan waktu biasanya diletakkan di AKHIR kalimat: 'Saya belajar Mandarin HARI INI'. Di Mandarin, itu terbalik — keterangan waktu WAJIB pindah ke depan, sebelum kata kerja: 我今天学中文 (secara harafiah: 'Saya hari-ini belajar Mandarin'). Kalau Anda taruh keterangan waktu di akhir kalimat seperti kebiasaan bahasa Indonesia, itu terdengar janggal/salah secara gramatikal di Mandarin.",
+  "kapan_tidak_boleh": "Jangan pernah menaruh keterangan waktu di akhir kalimat (setelah objek) — ini kesalahan struktural yang paling sering dilakukan pelajar Indonesia karena mengikuti pola bahasa ibu. Keterangan waktu harus di depan kata kerja, tidak ada pengecualian untuk aturan ini.",
+  "kesalahan_umum": [
+   {
+    "salah": "我学中文今天。",
+    "benar": "我今天学中文。",
+    "penjelasan": "Keterangan waktu tidak boleh di akhir kalimat di Mandarin — ini beda total dengan kebiasaan bahasa Indonesia. Selalu taruh sebelum kata kerja.",
+    "salah_py": "Wǒxué zhōngwén jīntiān.",
+    "benar_py": "Wǒ jīntiān xué zhōngwén."
+   },
+   {
+    "salah": "今天我明天去。",
+    "benar": "我明天去。",
+    "penjelasan": "Cukup satu keterangan waktu yang jelas per kalimat sederhana, taruh di posisi tetap (setelah subjek, sebelum kata kerja).",
+    "salah_py": "Jīntiān wǒ míngtiān qù.",
+    "benar_py": "Wǒ míngtiān qù."
+   },
+   {
+    "salah": "我去学校每天。",
+    "benar": "我每天去学校。",
+    "penjelasan": "Sama seperti aturan umum di pola ini, keterangan waktu (每天=setiap hari) wajib sebelum kata kerja, tidak boleh di akhir kalimat.",
+    "salah_py": "Wǒ qù xuéxiào měitiān.",
+    "benar_py": "Wǒ měitiān qù xuéxiào."
+   },
+   {
+    "salah": "昨天我我去了。",
+    "benar": "我昨天去了。",
+    "penjelasan": "Cukup sebutkan subjek sekali; posisi keterangan waktu (昨天) tetap setelah subjek dan sebelum kata kerja.",
+    "salah_py": "Zuótiān wǒ wǒ qù le.",
+    "benar_py": "Wǒ zuótiān qù le."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "她昨天买书。",
+    "py": "Tā zuótiān mǎi shū.",
+    "id": "Dia kemarin membeli buku."
+   },
+   {
+    "cn": "我下午去公园。",
+    "py": "Wǒ xiàwǔ qù gōngyuán.",
+    "id": "Saya sore ini pergi ke taman."
+   },
+   {
+    "cn": "他们晚上看电视。",
+    "py": "Tāmen wǎnshang kàn diànshì.",
+    "id": "Mereka malam hari menonton TV."
+   },
+   {
+    "cn": "我们晚上八点吃饭。",
+    "py": "Wǒmen wǎnshàng bādiǎn chīfàn.",
+    "id": "Kami makan malam jam delapan."
+   },
+   {
+    "cn": "他星期天不上班。",
+    "py": "Tā xīngqītiān bù shàngbān.",
+    "id": "Dia hari Minggu tidak kerja."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "S-V-O",
+    "alasan": "Pola dasar tanpa keterangan waktu — tambahkan waktu di depan kata kerja untuk jadi pola ini."
+   },
+   {
+    "key": "S-V-le",
+    "alasan": "Untuk menegaskan aksi SUDAH selesai (bukan sekadar kapan terjadinya), tambahkan 了 setelah kata kerja."
+   }
+  ]
+ },
+ "S-V-guo": {
+  "penjelasan_dasar": "过 (guò) setelah kata kerja menandai PENGALAMAN — bahwa sesuatu PERNAH terjadi di masa lalu, tanpa peduli kapan persisnya, dan menekankan itu adalah 'pengalaman' yang pernah dijalani, bukan sekadar aksi yang sudah selesai (beda dengan 了). Contoh: 'saya PERNAH pergi ke Tiongkok' — mungkin sekali, mungkin sudah lama, tapi itu adalah pengalaman yang pernah dijalani.",
+  "perbandingan_indonesia": "Konsepnya mirip kata 'pernah' dalam bahasa Indonesia — 'saya PERNAH ke sana' = 我去过那里. Penempatannya beda: kalau di Indonesia 'pernah' ditaruh SEBELUM kata kerja, di Mandarin 过 ditaruh SETELAH/menempel di kata kerja. Ini titik yang sering salah taruh posisinya bagi pemula.",
+  "kapan_tidak_boleh": "Jangan pakai 过 kalau maksudnya adalah aksi yang baru saja SELESAI (bukan pengalaman masa lalu yang jauh) — untuk itu pakai 了, bukan 过. Misalnya 'saya sudah makan (barusan)' pakai 了 (我吃了), BUKAN 过 (我吃过 lebih ke arah 'saya PERNAH makan [makanan itu sebelumnya, entah kapan]'). Jangan pula pakai 过 untuk aksi yang sedang berlangsung — itu ranahnya 在 (S-zai-V).",
+  "kesalahan_umum": [
+   {
+    "salah": "我过去中国。",
+    "benar": "我去过中国。",
+    "penjelasan": "过 menempel SETELAH kata kerja, bukan sebelumnya. Ini beda posisi dengan kata 'pernah' di bahasa Indonesia yang ditaruh di depan kata kerja.",
+    "salah_py": "Wǒ guòqù zhōngguó.",
+    "benar_py": "Wǒ qùguò zhōngguó."
+   },
+   {
+    "salah": "我吃过饭刚才。",
+    "benar": "我刚吃了饭。",
+    "penjelasan": "过 dipakai untuk pengalaman umum di masa lalu, bukan untuk aksi yang baru saja terjadi. Untuk 'baru saja', pakai 刚 + V + 了.",
+    "salah_py": "Wǒ chīguòfàn gāngcái.",
+    "benar_py": "Wǒgāng chīlefàn."
+   },
+   {
+    "salah": "我去过了中国。",
+    "benar": "我去过中国。",
+    "penjelasan": "过 (pernah) dan 了 (sudah selesai) menandai dua aspek berbeda; untuk pengalaman umum di masa lalu cukup 过 saja, tidak perlu tambahan 了.",
+    "salah_py": "Wǒ qùguò le zhōngguó.",
+    "benar_py": "Wǒ qùguò zhōngguó."
+   },
+   {
+    "salah": "你吃这个菜过吗？",
+    "benar": "你吃过这个菜吗？",
+    "penjelasan": "过 harus langsung menempel setelah kata kerja, tidak boleh dipisah oleh objek di antaranya.",
+    "salah_py": "Nǐ chī zhège càiguò ma?",
+    "benar_py": "Nǐ chī guò zhège cài ma?"
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "我吃过北京烤鸭。",
+    "py": "Wǒ chī guò Běijīng kǎoyā.",
+    "id": "Saya pernah makan bebek panggang Beijing."
+   },
+   {
+    "cn": "她学过法语。",
+    "py": "Tā xué guò Fǎyǔ.",
+    "id": "Dia pernah belajar bahasa Prancis."
+   },
+   {
+    "cn": "我没去过日本。",
+    "py": "Wǒ méi qù guò Rìběn.",
+    "id": "Saya belum pernah pergi ke Jepang."
+   },
+   {
+    "cn": "我看过那部电影。",
+    "py": "Wǒ kànguò nà bù diànyǐng.",
+    "id": "Saya pernah menonton film itu."
+   },
+   {
+    "cn": "他没吃过榴莲。",
+    "py": "Tā méichīguò liúlián.",
+    "id": "Dia belum pernah makan durian."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "S-V-le",
+    "alasan": "Untuk aksi yang sudah SELESAI (bukan sekadar pengalaman umum), pakai 了 sebagai gantinya."
+   },
+   {
+    "key": "S-zai-V",
+    "alasan": "Untuk aksi yang SEDANG berlangsung (bukan sudah lewat), pakai 在 sebagai gantinya."
+   }
+  ]
+ },
+ "S-V-le": {
+  "penjelasan_dasar": "了 (le) setelah kata kerja adalah penanda ASPEK PERFEKTIF — menandakan aksi tersebut sudah SELESAI/terjadi (bukan penanda waktu lampau seperti tense di bahasa Inggris!). Ini perbedaan konsep penting: Mandarin tidak punya 'tense' (perubahan bentuk kata kerja berdasarkan waktu), yang ada adalah 'aspek' (menandai apakah suatu aksi sudah selesai, sedang berlangsung, atau pernah terjadi).",
+  "perbandingan_indonesia": "Bahasa Indonesia juga tidak punya perubahan bentuk kata kerja berdasarkan waktu (mirip Mandarin dalam hal ini!) — kita pakai kata bantu seperti 'sudah': 'saya SUDAH makan'. 了 kurang lebih setara dengan 'sudah' ini, tapi penempatannya beda: di Indonesia 'sudah' di depan kata kerja, di Mandarin 了 menempel SETELAH kata kerja (dan sebelum objek kalau ada objek pendek).",
+  "kapan_tidak_boleh": "Jangan pakai 了 untuk kebiasaan rutin atau fakta umum yang tidak terikat waktu tertentu (misal 'saya makan nasi [setiap hari]' — kalau itu pernyataan kebiasaan, bukan aksi selesai spesifik, 了 tidak diperlukan, cukup S-V-O biasa). Jangan pula gabungkan 了 dengan negasi 不 secara sembarangan — untuk menegasikan aksi yang tidak/belum terjadi, 了 biasanya dihilangkan dan diganti struktur 没 + V.",
+  "kesalahan_umum": [
+   {
+    "salah": "我不吃了饭。",
+    "benar": "我没吃饭。",
+    "penjelasan": "Untuk menegasikan aksi yang tidak/belum terjadi, pakai 没 + V TANPA 了 sekaligus — bukan 不 + V + 了. 了 dan negasi 没 pada dasarnya saling meniadakan dalam kalimat sederhana.",
+    "salah_py": "Wǒ bù chīlefàn.",
+    "benar_py": "Wǒ méi chīfàn."
+   },
+   {
+    "salah": "我每天吃了饭。",
+    "benar": "我每天吃饭。",
+    "penjelasan": "了 menandai SATU aksi spesifik yang selesai, bukan kebiasaan berulang. Jangan campur dengan kata seperti 每天 (setiap hari) dalam kalimat yang sama.",
+    "salah_py": "Wǒ měitiān chīlefàn.",
+    "benar_py": "Wǒ měitiān chīfàn."
+   },
+   {
+    "salah": "他昨天买书。",
+    "benar": "他昨天买了书。",
+    "penjelasan": "Untuk aksi spesifik yang sudah selesai di masa lalu (ditandai kata waktu seperti 昨天), 了 wajib ditambahkan setelah kata kerja.",
+    "salah_py": "Tā zuótiān mǎi shū.",
+    "benar_py": "Tā zuótiān mǎi le shū."
+   },
+   {
+    "salah": "我了吃饭。",
+    "benar": "我吃了饭。",
+    "penjelasan": "了 harus menempel LANGSUNG setelah kata kerja, bukan di antara subjek dan kata kerja.",
+    "salah_py": "Wǒ le chīfàn.",
+    "benar_py": "Wǒ chīlefàn."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "她写了信。",
+    "py": "Tā xiě le xìn.",
+    "id": "Dia sudah menulis surat."
+   },
+   {
+    "cn": "我看了那部电影。",
+    "py": "Wǒ kàn le nà bù diànyǐng.",
+    "id": "Saya sudah menonton film itu."
+   },
+   {
+    "cn": "他们到了。",
+    "py": "Tāmen dào le.",
+    "id": "Mereka sudah tiba."
+   },
+   {
+    "cn": "妈妈做了晚饭。",
+    "py": "Māmā zuò le wǎnfàn.",
+    "id": "Ibu sudah memasak makan malam."
+   },
+   {
+    "cn": "我们看了那本书。",
+    "py": "Wǒmen kàn le nàběnshū.",
+    "id": "Kami sudah membaca buku itu."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "S-V-guo",
+    "alasan": "Kalau maksudnya 'pernah' (pengalaman umum, bukan aksi spesifik yang baru selesai), pakai 过 sebagai gantinya."
+   },
+   {
+    "key": "S-T-V-O",
+    "alasan": "Bisa digabung dengan keterangan waktu spesifik untuk memperjelas KAPAN aksi itu selesai."
+   }
+  ]
+ },
+ "S-zai-V": {
+  "penjelasan_dasar": "在 (zài) sebelum kata kerja menandai ASPEK PROGRESIF — aksi yang SEDANG berlangsung persis saat ini (atau saat yang sedang dibicarakan), setara dengan bentuk '-ing' dalam bahasa Inggris. Ini beda dari 在 di pola S-zai-L (berada di tempat) — kata yang sama, tapi fungsi gramatikalnya berbeda tergantung apa yang mengikutinya (tempat vs kata kerja).",
+  "perbandingan_indonesia": "Setara dengan 'sedang' dalam bahasa Indonesia: 'saya SEDANG makan' = 我在吃饭. Posisi dan logikanya sama persis — 在/sedang, sama-sama diletakkan SEBELUM kata kerja. Ini pola yang cukup intuitif buat pelajar Indonesia karena strukturnya paralel dengan bahasa ibu.",
+  "kapan_tidak_boleh": "Jangan pakai 在 + V untuk aksi yang sudah SELESAI (itu ranahnya 了) atau aksi yang PERNAH terjadi di masa lalu (itu ranahnya 过). 在 + V khusus untuk aksi yang benar-benar sedang berlangsung saat ini/saat itu. Jangan pula bingungkan dengan 在 + Tempat (S-zai-L) — kalau setelah 在 ada kata tempat, artinya 'berada di', bukan 'sedang'.",
+  "kesalahan_umum": [
+   {
+    "salah": "我在吃了饭。",
+    "benar": "我在吃饭。",
+    "penjelasan": "在 (sedang) dan 了 (sudah selesai) menandai dua aspek yang berlawanan — tidak boleh digabung dalam kalimat sederhana yang sama karena maknanya kontradiktif.",
+    "salah_py": "Wǒ zài chīlefàn.",
+    "benar_py": "Wǒ zài chīfàn."
+   },
+   {
+    "salah": "我在学校在学习。",
+    "benar": "我在学校学习。",
+    "penjelasan": "Kalau ingin gabungkan lokasi DAN aspek sedang berlangsung dalam satu kalimat, cukup satu 在 untuk tempat, kata kerja langsung menyusul tanpa 在 kedua.",
+    "salah_py": "Wǒ zài xuéxiào zài xuéxí.",
+    "benar_py": "Wǒ zài xuéxiào xuéxí."
+   },
+   {
+    "salah": "我正在很忙。",
+    "benar": "我很忙。",
+    "penjelasan": "在 (sedang) dipakai sebelum KATA KERJA aksi, bukan sebelum kata sifat seperti 忙 — untuk kata sifat, cukup pakai 很, bukan 在.",
+    "salah_py": "Wǒ zhèngzài hěn máng.",
+    "benar_py": "Wǒ hěn máng."
+   },
+   {
+    "salah": "他看在电视。",
+    "benar": "他在看电视。",
+    "penjelasan": "在 harus di depan kata kerja, bukan disisipkan di antara kata kerja dan objeknya.",
+    "salah_py": "Tā kàn zài diànshì.",
+    "benar_py": "Tā zài kàndiànshì."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "她在打电话。",
+    "py": "Tā zài dǎ diànhuà.",
+    "id": "Dia sedang menelepon."
+   },
+   {
+    "cn": "我们在开会。",
+    "py": "Wǒmen zài kāihuì.",
+    "id": "Kami sedang rapat."
+   },
+   {
+    "cn": "他在写作业。",
+    "py": "Tā zài xiě zuòyè.",
+    "id": "Dia sedang mengerjakan PR."
+   },
+   {
+    "cn": "我在洗澡。",
+    "py": "Wǒ zài xǐzǎo.",
+    "id": "Saya sedang mandi."
+   },
+   {
+    "cn": "她在做饭。",
+    "py": "Tā zài zuòfàn.",
+    "id": "Dia sedang memasak."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "S-zai-L",
+    "alasan": "在 yang sama, tapi kalau diikuti kata TEMPAT (bukan kata kerja), artinya berubah jadi 'berada di'."
+   },
+   {
+    "key": "S-V-le",
+    "alasan": "Untuk aksi yang sudah SELESAI (bukan sedang berlangsung), pakai 了 sebagai gantinya."
+   }
+  ]
+ },
+ "Q-ma": {
+  "penjelasan_dasar": "吗 (ma) adalah cara paling sederhana membuat pertanyaan ya/tidak di Mandarin — cukup ambil kalimat pernyataan biasa, tempelkan 吗 di paling akhir, selesai. Tidak ada perubahan struktur kalimat sama sekali, tidak ada pembalikan urutan kata seperti di bahasa Inggris (Are you...? vs You are...).",
+  "perbandingan_indonesia": "Ini justru SANGAT mirip cara orang Indonesia bertanya secara informal dengan mengubah intonasi di akhir kalimat: 'Kamu makan?' bisa jadi pertanyaan hanya dengan nada bicara naik di akhir, tanpa mengubah struktur kalimat. 吗 kurang lebih fungsinya seperti itu, tapi WAJIB ditulis/diucapkan (bukan cuma intonasi) supaya jelas maksudnya pertanyaan.",
+  "kapan_tidak_boleh": "Jangan pakai 吗 kalau kalimatnya sudah mengandung kata tanya lain seperti 什么 (apa), 怎么 (bagaimana), 谁 (siapa) — kalimat dengan kata tanya semacam itu sudah otomatis jadi pertanyaan, tidak boleh ditambah 吗 lagi di akhir karena akan jadi ganjil/redundan.",
+  "kesalahan_umum": [
+   {
+    "salah": "你吃什么吗？",
+    "benar": "你吃什么？",
+    "penjelasan": "吗 dan kata tanya seperti 什么 tidak boleh dipakai bersamaan dalam satu kalimat — pilih salah satu saja tergantung jenis pertanyaannya.",
+    "salah_py": "Nǐ chī shénme ma?",
+    "benar_py": "Nǐ chī shénme?"
+   },
+   {
+    "salah": "吗你吃饭？",
+    "benar": "你吃饭吗？",
+    "penjelasan": "吗 selalu di akhir kalimat, tidak pernah di awal atau di tengah.",
+    "salah_py": "Ma nǐ chīfàn?",
+    "benar_py": "Nǐ chīfàn ma?"
+   },
+   {
+    "salah": "你是不是学生吗？",
+    "benar": "你是不是学生？",
+    "penjelasan": "Bentuk pertanyaan A-tidak-A (是不是) dan 吗 sama-sama berfungsi membuat kalimat tanya — jangan dipakai bersamaan, pilih salah satu.",
+    "salah_py": "Nǐ shìbúshì xuéshēng ma?",
+    "benar_py": "Nǐ shìbúshì xuéshēng?"
+   },
+   {
+    "salah": "你忙不忙吗？",
+    "benar": "你忙不忙？",
+    "penjelasan": "Sama seperti di atas, pola A-tidak-A (忙不忙) sudah cukup jadi pertanyaan, tidak perlu tambahan 吗.",
+    "salah_py": "Nǐ máng bù máng ma?",
+    "benar_py": "Nǐ máng bùmáng?"
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "你忙吗？",
+    "py": "Nǐ máng ma?",
+    "id": "Kamu sibuk?"
+   },
+   {
+    "cn": "他去学校吗？",
+    "py": "Tā qù xuéxiào ma?",
+    "id": "Dia pergi ke sekolah?"
+   },
+   {
+    "cn": "你们有时间吗？",
+    "py": "Nǐmen yǒu shíjiān ma?",
+    "id": "Kalian punya waktu?"
+   },
+   {
+    "cn": "你累吗？",
+    "py": "Nǐ lèi ma?",
+    "id": "Kamu capek?"
+   },
+   {
+    "cn": "这个好吃吗？",
+    "py": "Zhège hǎochī ma?",
+    "id": "Ini enak?"
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "Q-shenme",
+    "alasan": "Kalau ingin bertanya APA (bukan sekadar ya/tidak), pakai 什么 sebagai gantinya, tanpa 吗."
+   },
+   {
+    "key": "Q-ne",
+    "alasan": "Untuk pertanyaan balik singkat ('bagaimana denganmu?'), pakai 呢, lebih ringkas dari mengulang seluruh kalimat + 吗."
+   }
+  ]
+ },
+ "Q-ne": {
+  "penjelasan_dasar": "呢 (ne) dipakai untuk 'melempar balik' topik yang sudah dibicarakan, tanpa perlu mengulang seluruh kalimat/kata kerja. Sangat umum dipakai setelah menjawab sesuatu tentang diri sendiri, lalu bertanya balik hal yang sama ke lawan bicara — 'Saya baik-baik, kamu呢?' (bukannya mengulang seluruh kalimat 'kamu bagaimana kabarnya').",
+  "perbandingan_indonesia": "Fungsinya mirip pertanyaan balik singkat dalam bahasa Indonesia: 'Saya baik, kamu?' — kita juga cenderung tidak mengulang seluruh kalimat, cukup sebut topiknya lalu nada tanya. 呢 persis melakukan itu, hanya saja jadi partikel yang WAJIB ditulis (bukan cuma intonasi) di Mandarin.",
+  "kapan_tidak_boleh": "Jangan pakai 呢 kalau belum ada topik/konteks yang jelas sebelumnya — 呢 mengandalkan konteks percakapan sebelumnya supaya lawan bicara tahu apa yang sebenarnya ditanyakan. Kalimat 你呢？ yang berdiri sendiri tanpa konteks apa pun akan terdengar membingungkan (bagaimana apanya?).",
+  "kesalahan_umum": [
+   {
+    "salah": "你呢？",
+    "benar": "我很好，你呢？",
+    "penjelasan": "呢 butuh konteks/topik yang sudah disebut sebelumnya supaya jelas apa yang ditanyakan balik. Jangan dipakai sebagai kalimat pembuka berdiri sendiri.",
+    "salah_py": "Nǐ ne?",
+    "benar_py": "Wǒ hěn hǎo, nǐ ne?"
+   },
+   {
+    "salah": "你呢吗？",
+    "benar": "你呢？",
+    "penjelasan": "呢 sudah berfungsi sebagai penanda tanya sendiri, tidak perlu ditambah 吗 lagi.",
+    "salah_py": "Nǐ ne ma?",
+    "benar_py": "Nǐ ne?"
+   },
+   {
+    "salah": "你好吗呢？",
+    "benar": "你好吗？",
+    "penjelasan": "呢 dan 吗 punya fungsi berbeda dan tidak dipakai bersamaan dalam satu kalimat tanya yang sama.",
+    "salah_py": "Nǐhǎo ma ne?",
+    "benar_py": "Nǐhǎo ma?"
+   },
+   {
+    "salah": "呢你？",
+    "benar": "你呢？",
+    "penjelasan": "呢 selalu di akhir kalimat/topik, tidak pernah di depan.",
+    "salah_py": "Ne nǐ?",
+    "benar_py": "Nǐ ne?"
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "我喜欢咖啡，你呢？",
+    "py": "Wǒ xǐhuan kāfēi, nǐ ne?",
+    "id": "Saya suka kopi, kamu?"
+   },
+   {
+    "cn": "我在家，他呢？",
+    "py": "Wǒ zài jiā, tā ne?",
+    "id": "Saya di rumah, dia bagaimana?"
+   },
+   {
+    "cn": "这个不错，那个呢？",
+    "py": "Zhège bùcuò, nàge ne?",
+    "id": "Yang ini bagus, yang itu bagaimana?"
+   },
+   {
+    "cn": "我要喝茶，你呢？",
+    "py": "Wǒyào hēchá, nǐ ne?",
+    "id": "Saya mau minum teh, kamu?"
+   },
+   {
+    "cn": "他是老师，你呢？",
+    "py": "Tā shì lǎoshī, nǐ ne?",
+    "id": "Dia guru, kalau kamu?"
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "Q-ma",
+    "alasan": "Kalau ingin bertanya secara lengkap dan berdiri sendiri (bukan pertanyaan balik singkat), pakai 吗."
+   }
+  ]
+ },
+ "Q-shenme": {
+  "penjelasan_dasar": "什么 (shénme) artinya 'apa', dipakai untuk menanyakan OBJEK dari suatu aksi. Posisinya di kalimat SAMA PERSIS dengan posisi objek biasa (setelah kata kerja) — jadi cara termudah membentuk pertanyaan ini: ambil kalimat S-V-O, ganti objeknya dengan 什么, ganti tanda titik jadi tanda tanya.",
+  "perbandingan_indonesia": "Berbeda dengan bahasa Inggris yang memindahkan kata tanya 'what' ke DEPAN kalimat ('What do you eat?'), Mandarin justru TIDAK memindahkan 什么 ke depan — posisinya tetap di tempat objek seharusnya berada, sama seperti pola bahasa Indonesia informal 'Kamu makan APA?' (bukan 'Apa kamu makan?'). Ini salah satu pola yang justru lebih mirip bahasa Indonesia daripada bahasa Inggris.",
+  "kapan_tidak_boleh": "Jangan pindahkan 什么 ke awal kalimat seperti kebiasaan bahasa Inggris — itu akan terdengar sangat tidak natural di Mandarin. Jangan pula tambahkan 吗 di akhir kalimat yang sudah memakai 什么, karena 什么 sendiri sudah menjadikannya kalimat tanya.",
+  "kesalahan_umum": [
+   {
+    "salah": "什么你吃？",
+    "benar": "你吃什么？",
+    "penjelasan": "什么 tetap di posisi objek (setelah kata kerja), tidak dipindah ke depan kalimat seperti 'what' di bahasa Inggris.",
+    "salah_py": "Shénme nǐ chī?",
+    "benar_py": "Nǐ chī shénme?"
+   },
+   {
+    "salah": "你吃什么吗？",
+    "benar": "你吃什么？",
+    "penjelasan": "什么 sudah cukup menjadikan kalimat sebagai pertanyaan, tidak perlu tambahan 吗 di akhir.",
+    "salah_py": "Nǐ chī shénme ma?",
+    "benar_py": "Nǐ chī shénme?"
+   },
+   {
+    "salah": "你在做什么吗？",
+    "benar": "你在做什么？",
+    "penjelasan": "什么 sudah menjadikan kalimat pertanyaan, 吗 tidak boleh ditambahkan lagi.",
+    "salah_py": "Nǐ zài zuò shénme ma?",
+    "benar_py": "Nǐ zài zuò shénme?"
+   },
+   {
+    "salah": "什么是这个？",
+    "benar": "这是什么？",
+    "penjelasan": "Meski artinya ‘apa ini’, urutan Mandarin tetap S+是+什么 (kata tanya tetap di posisi objek/predikat, bukan dipindah ke depan seperti bahasa Inggris).",
+    "salah_py": "Shénme shì zhège?",
+    "benar_py": "Zhèshì shénme?"
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "你叫什么？",
+    "py": "Nǐ jiào shénme?",
+    "id": "Namamu apa? (secara harfiah: kamu dipanggil apa?)"
+   },
+   {
+    "cn": "他买什么？",
+    "py": "Tā mǎi shénme?",
+    "id": "Dia membeli apa?"
+   },
+   {
+    "cn": "你想吃什么？",
+    "py": "Nǐ xiǎng chī shénme?",
+    "id": "Kamu ingin makan apa?"
+   },
+   {
+    "cn": "你在找什么？",
+    "py": "Nǐ zài zhǎo shénme?",
+    "id": "Kamu sedang mencari apa?"
+   },
+   {
+    "cn": "她说什么？",
+    "py": "Tā shuō shénme?",
+    "id": "Dia bilang apa?"
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "S-V-O",
+    "alasan": "什么 menggantikan posisi objek di pola dasar ini — struktur dasarnya sama persis."
+   },
+   {
+    "key": "Q-zenme",
+    "alasan": "Kalau ingin menanyakan CARA (bukan objek), pakai 怎么 sebagai gantinya."
+   }
+  ]
+ },
+ "Q-zenme": {
+  "penjelasan_dasar": "怎么 (zěnme) artinya 'bagaimana (caranya)', dipakai untuk menanyakan CARA suatu aksi dilakukan. Posisinya SEBELUM kata kerja (beda dengan 什么 yang di posisi objek/belakang kata kerja) — karena 怎么 secara gramatikal berfungsi sebagai kata keterangan cara, bukan objek.",
+  "perbandingan_indonesia": "Setara dengan 'bagaimana caranya…' atau sekadar 'gimana…' dalam bahasa Indonesia — posisinya juga sama-sama SEBELUM kata kerja: 'Kamu BAGAIMANA pergi (ke sana)?'. Yang perlu diingat: 怎么 juga sering dipakai untuk menanyakan ALASAN dengan nada agak heran/kaget ('kok bisa…?'), bukan cuma cara teknis melakukan sesuatu.",
+  "kapan_tidak_boleh": "Jangan pakai 怎么 kalau yang ditanyakan adalah OBJEK (pakai 什么) atau JUMLAH (pakai 多少/几) — 怎么 spesifik untuk cara/metode atau nada heran, bukan pengganti kata tanya lain secara serampangan.",
+  "kesalahan_umum": [
+   {
+    "salah": "你怎么吃什么？",
+    "benar": "你怎么吃？",
+    "penjelasan": "怎么 (cara) dan 什么 (objek) menanyakan hal yang berbeda — jangan digabung kecuali memang bertujuan sangat spesifik dan strukturnya jelas.",
+    "salah_py": "Nǐ zěnme chī shénme?",
+    "benar_py": "Nǐ zěnme chī?"
+   },
+   {
+    "salah": "怎么你去？",
+    "benar": "你怎么去？",
+    "penjelasan": "怎么 diletakkan SETELAH subjek, SEBELUM kata kerja — bukan di paling depan kalimat sebelum subjek.",
+    "salah_py": "Zěnme nǐ qù?",
+    "benar_py": "Nǐ zěnme qù?"
+   },
+   {
+    "salah": "怎么你不来？",
+    "benar": "你怎么不来？",
+    "penjelasan": "Untuk bertanya “kenapa/bagaimana bisa”, 怎么 tetap diletakkan SETELAH subjek, bukan di paling depan kalimat.",
+    "salah_py": "Zěnme nǐ bùlái?",
+    "benar_py": "Nǐ zěnme bù lái?"
+   },
+   {
+    "salah": "你怎么去吗？",
+    "benar": "你怎么去？",
+    "penjelasan": "怎么 sudah membuat kalimat jadi pertanyaan, tidak perlu tambahan 吗 di akhir.",
+    "salah_py": "Nǐ zěnme qù ma?",
+    "benar_py": "Nǐ zěnme qù?"
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "这个字怎么写？",
+    "py": "Zhège zì zěnme xiě?",
+    "id": "Karakter ini bagaimana cara menulisnya?"
+   },
+   {
+    "cn": "你怎么知道？",
+    "py": "Nǐ zěnme zhīdào?",
+    "id": "Kok kamu bisa tahu? (nada heran)"
+   },
+   {
+    "cn": "我们怎么回家？",
+    "py": "Wǒmen zěnme huí jiā?",
+    "id": "Kita pulang dengan cara apa?"
+   },
+   {
+    "cn": "这个词怎么念？",
+    "py": "Zhège cí zěnme niàn?",
+    "id": "Kata ini bagaimana cara membacanya?"
+   },
+   {
+    "cn": "你怎么不说话？",
+    "py": "Nǐ zěnme bù shuōhuà?",
+    "id": "Kenapa kamu tidak bicara?"
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "Q-shenme",
+    "alasan": "Kalau yang ditanyakan objeknya (bukan caranya), pakai 什么 di posisi objek sebagai gantinya."
+   }
+  ]
+ },
+ "Q-duoshao": {
+  "penjelasan_dasar": "多少 (duōshao) dan 几 (jǐ) sama-sama berarti 'berapa', tapi punya aturan pakai berbeda: 多少 dipakai untuk angka yang berpotensi BESAR atau tidak diperkirakan (harga, jumlah orang banyak, dll.) dan TIDAK butuh 量词 setelahnya. 几 dipakai untuk angka yang diperkirakan KECIL (biasanya di bawah 10) dan WAJIB diikuti 量词 (kata pengukur) sebelum kata bendanya.",
+  "perbandingan_indonesia": "Bahasa Indonesia cuma punya satu kata 'berapa' untuk semua situasi, jadi konsep pembedaan 多少 vs 几 ini murni konsep baru yang perlu dipelajari dari nol. Cara termudah mengingatnya: kalau perkiraan jawabannya kemungkinan besar di atas 10 atau tidak jelas jumlahnya (harga barang, populasi), pakai 多少; kalau perkiraan jawabannya kecil dan pasti butuh kata pengukur (berapa buku, berapa orang di ruangan ini), pakai 几 + 量词.",
+  "kapan_tidak_boleh": "Jangan pakai 几 tanpa kata pengukur (量词) mengikutinya — 几本书 (berapa buku) benar, tapi 几书 (tanpa 本) salah. Sebaliknya, 多少 boleh langsung diikuti kata benda tanpa kata pengukur wajib (多少钱 = berapa uang/harga, tanpa 量词, sudah benar).",
+  "kesalahan_umum": [
+   {
+    "salah": "你有几书？",
+    "benar": "你有几本书？",
+    "penjelasan": "几 WAJIB diikuti kata pengukur (量词) sebelum kata bendanya — beda dengan 多少 yang lebih fleksibel.",
+    "salah_py": "Nǐ yǒu jǐshū?",
+    "benar_py": "Nǐ yǒu jǐběnshū?"
+   },
+   {
+    "salah": "这个几钱？",
+    "benar": "这个多少钱？",
+    "penjelasan": "Untuk harga, biasanya pakai 多少 karena nilainya bisa berapa saja (kecil sampai besar), bukan 几 yang menyiratkan perkiraan angka kecil.",
+    "salah_py": "Zhège jǐqián?",
+    "benar_py": "Zhège duōshǎo qián?"
+   },
+   {
+    "salah": "这个多少个钱？",
+    "benar": "这个多少钱？",
+    "penjelasan": "多少 biasanya TIDAK perlu kata pengukur di antara dia dan kata bendanya (beda dengan 几 yang wajib pakai kata pengukur) — terutama untuk hal yang tidak dihitung satuan jelas seperti uang.",
+    "salah_py": "Zhège duōshǎo gè qián?",
+    "benar_py": "Zhège duōshǎo qián?"
+   },
+   {
+    "salah": "几个你有书？",
+    "benar": "你有几本书？",
+    "penjelasan": "Kata tanya jumlah (几/多少) beserta objeknya tetap mengikuti posisi objek normal (setelah kata kerja), bukan dipindah ke depan kalimat.",
+    "salah_py": "Jǐgè nǐ yǒu shū?",
+    "benar_py": "Nǐ yǒu jǐběnshū?"
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "你家有几口人？",
+    "py": "Nǐ jiā yǒu jǐ kǒu rén?",
+    "id": "Keluargamu ada berapa orang?"
+   },
+   {
+    "cn": "现在几点？",
+    "py": "Xiànzài jǐ diǎn?",
+    "id": "Sekarang jam berapa?"
+   },
+   {
+    "cn": "这里有多少学生？",
+    "py": "Zhèlǐ yǒu duōshao xuésheng?",
+    "id": "Di sini ada berapa murid?"
+   },
+   {
+    "cn": "你要几个？",
+    "py": "Nǐ yào jǐgè?",
+    "id": "Kamu mau berapa buah/butir?"
+   },
+   {
+    "cn": "这个班有多少人？",
+    "py": "Zhège bānyǒu duōshǎo rén?",
+    "id": "Kelas ini ada berapa orang?"
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "S-Num-M-N",
+    "alasan": "Jawaban dari pertanyaan 几/多少 biasanya berupa Angka+量词+Benda, mengikuti pola ini."
+   }
+  ]
+ },
+ "C-yinwei-suoyi": {
+  "penjelasan_dasar": "因为…所以 adalah pasangan konjungsi sebab-akibat yang membentuk kalimat majemuk dua klausa: klausa pertama (因为 + sebab) menjelaskan ALASAN, klausa kedua (所以 + akibat) menjelaskan HASIL/akibatnya. Yang unik di Mandarin: kedua kata ini SERING dipakai BERSAMAAN dalam satu kalimat, tidak seperti bahasa Indonesia yang biasanya cukup pakai salah satu ('karena' ATAU 'maka', jarang keduanya sekaligus).",
+  "perbandingan_indonesia": "Di Indonesia, kita biasa bilang 'KARENA hujan, saya tidak jadi pergi' (tanpa 'maka') atau 'Hujan, MAKA saya tidak jadi pergi' (tanpa 'karena') — pakai salah satu saja sudah cukup dan terdengar natural. Di Mandarin, memakai KEDUANYA sekaligus (因为…所以…) justru yang paling natural dan baku, meski secara teknis salah satu boleh dihilangkan dalam percakapan santai.",
+  "kapan_tidak_boleh": "Jangan hilangkan 所以 di klausa kedua kalau sedang menulis secara formal/baku — dalam konteks formal, pasangan ini idealnya lengkap keduanya. Dalam percakapan sangat santai, kadang orang cuma bilang 因为… tanpa 所以 dan tetap dipahami dari konteks, tapi untuk pelajar, lebih aman selalu pakai keduanya sampai terbiasa.",
+  "kesalahan_umum": [
+   {
+    "salah": "因为下雨，我不去了所以。",
+    "benar": "因为下雨，所以我不去了。",
+    "penjelasan": "所以 harus di AWAL klausa kedua (sebelum subjek klausa itu), bukan di akhir kalimat.",
+    "salah_py": "Yīnwèi xiàyǔ, wǒ bù qù le suǒyǐ.",
+    "benar_py": "Yīnwèi xiàyǔ, suǒyǐ wǒ bù qù le."
+   },
+   {
+    "salah": "所以下雨，因为我不去了。",
+    "benar": "因为下雨，所以我不去了。",
+    "penjelasan": "因为 (sebab) SELALU di klausa pertama, 所以 (akibat) SELALU di klausa kedua — urutannya tidak bisa dibalik karena mengikuti logika sebab dulu baru akibat.",
+    "salah_py": "Suǒyǐ xiàyǔ, yīnwèi wǒ bù qù le.",
+    "benar_py": "Yīnwèi xiàyǔ, suǒyǐ wǒ bù qù le."
+   },
+   {
+    "salah": "我不去因为下雨所以。",
+    "benar": "因为下雨，所以我不去。",
+    "penjelasan": "因为 harus mengawali klausa sebab di awal kalimat, 所以 mengawali klausa akibat setelahnya — jangan menumpuk keduanya di akhir kalimat sederhana.",
+    "salah_py": "Wǒ bù qù yīnwèi xiàyǔ suǒyǐ.",
+    "benar_py": "Yīnwèi xiàyǔ, suǒyǐ wǒ bù qù."
+   },
+   {
+    "salah": "因为所以我忙，我没去。",
+    "benar": "因为我忙，所以我没去。",
+    "penjelasan": "因为 dan 所以 masing-masing mengawali klausanya sendiri secara terpisah, tidak boleh ditumpuk berdempetan di satu tempat.",
+    "salah_py": "Yīnwèi suǒyǐ wǒmáng, wǒ méi qù.",
+    "benar_py": "Yīnwèi wǒmáng, suǒyǐ wǒ méi qù."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "因为我忙，所以没去。",
+    "py": "Yīnwèi wǒ máng, suǒyǐ méi qù.",
+    "id": "Karena saya sibuk, maka tidak pergi."
+   },
+   {
+    "cn": "因为他生病了，所以在家休息。",
+    "py": "Yīnwèi tā shēngbìng le, suǒyǐ zài jiā xiūxi.",
+    "id": "Karena dia sakit, maka istirahat di rumah."
+   },
+   {
+    "cn": "因为我没有钱，所以不能买。",
+    "py": "Yīnwèi wǒ méiyǒu qián, suǒyǐ bùnéng mǎi.",
+    "id": "Karena saya tidak punya uang, maka tidak bisa membeli."
+   },
+   {
+    "cn": "因为老师病了，所以今天没有课。",
+    "py": "Yīnwèi lǎoshī bìng le, suǒyǐ jīntiān méiyǒu kè.",
+    "id": "Karena gurunya sakit, maka hari ini tidak ada pelajaran."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "C-suiran-danshi",
+    "alasan": "Pola dua klausa lain dengan struktur mirip, tapi untuk hubungan 'meski-tapi' (kontras), bukan sebab-akibat."
+   },
+   {
+    "key": "C-ruguo-jiu",
+    "alasan": "Kalau hubungannya bersyarat/pengandaian (bukan sebab yang sudah pasti terjadi), pakai pola 如果…就 ini."
+   }
+  ]
+ },
+ "C-suiran-danshi": {
+  "penjelasan_dasar": "虽然…但是 membentuk kalimat KONTRAS — klausa pertama (虽然 + kondisi) menyatakan suatu fakta, klausa kedua (但是 + kontras) menyatakan hal yang berlawanan/tidak terduga dari fakta pertama. Sama seperti pasangan 因为…所以, kedua kata ini juga umum dipakai bersamaan dalam satu kalimat di Mandarin.",
+  "perbandingan_indonesia": "Mirip 'meskipun…tetapi…' dalam bahasa Indonesia, yang juga kadang dipakai berpasangan lengkap ('Meskipun sibuk, tapi dia tetap datang'). Jadi pola ini termasuk salah satu yang paling intuitif buat pelajar Indonesia karena kebiasaan berbahasanya mirip.",
+  "kapan_tidak_boleh": "Jangan pakai 但是 sendirian tanpa 虽然 kalau memang berniat membuat kontras formal dua klausa terhubung — 但是 sendirian lebih cocok untuk kontras antar-kalimat terpisah (bukan satu kalimat majemuk). Untuk kalimat majemuk yang benar, pakai keduanya.",
+  "kesalahan_umum": [
+   {
+    "salah": "虽然他很忙，他很高兴。",
+    "benar": "虽然他很忙，但是他很高兴。",
+    "penjelasan": "但是 di klausa kedua penting untuk menandai kontras secara eksplisit — tanpa itu, hubungan antar klausa jadi kurang jelas.",
+    "salah_py": "Suīrán tā hěn máng, tā hěn gāoxìng.",
+    "benar_py": "Suīrán tā hěn máng, dànshì tā hěn gāoxìng."
+   },
+   {
+    "salah": "他但是很忙，虽然很高兴。",
+    "benar": "虽然他很忙，但是很高兴。",
+    "penjelasan": "虽然 (meski) selalu di klausa pertama (fakta), 但是 (tapi) selalu di klausa kedua (kontrasnya) — urutan logisnya tetap.",
+    "salah_py": "Tā dànshì hěn máng, suīrán hěn gāoxìng.",
+    "benar_py": "Suīrán tā hěn máng, dànshì hěn gāoxìng."
+   },
+   {
+    "salah": "虽然但是他很忙，他很高兴。",
+    "benar": "虽然他很忙，但是他很高兴。",
+    "penjelasan": "虽然 mengawali klausa pertama, 但是 mengawali klausa KEDUA — keduanya tidak ditumpuk bersamaan di satu tempat yang sama.",
+    "salah_py": "Suīrán dànshì tā hěn máng, tā hěn gāoxìng.",
+    "benar_py": "Suīrán tā hěn máng, dànshì tā hěn gāoxìng."
+   },
+   {
+    "salah": "他虽然很忙。但是很高兴他。",
+    "benar": "虽然他很忙，但是他很高兴。",
+    "penjelasan": "Struktur klausa kedua tetap normal (Subjek dulu, baru predikat) setelah 但是 — jangan memindah subjek ke akhir kalimat.",
+    "salah_py": "Tā suīrán hěn máng. dànshì hěn gāoxìng tā.",
+    "benar_py": "Suīrán tā hěn máng, dànshì tā hěn gāoxìng."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "虽然很贵，但是我喜欢。",
+    "py": "Suīrán hěn guì, dànshì wǒ xǐhuan.",
+    "id": "Meskipun mahal, tapi saya suka."
+   },
+   {
+    "cn": "虽然下雨，但是他还是来了。",
+    "py": "Suīrán xià yǔ, dànshì tā háishi lái le.",
+    "id": "Meskipun hujan, tapi dia tetap datang."
+   },
+   {
+    "cn": "虽然这个很难，但是我想学。",
+    "py": "Suīrán zhège hěnnán, dànshì wǒxiǎngxué.",
+    "id": "Meskipun ini sulit, tapi saya ingin belajar."
+   },
+   {
+    "cn": "虽然他没钱，但是很快乐。",
+    "py": "Suīrán tā méi qián, dànshì hěn kuàilè.",
+    "id": "Meskipun dia tidak punya uang, tapi sangat bahagia."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "C-yinwei-suoyi",
+    "alasan": "Struktur dua klausa yang mirip secara gramatikal, tapi untuk hubungan sebab-akibat, bukan kontras."
+   }
+  ]
+ },
+ "C-ruguo-jiu": {
+  "penjelasan_dasar": "如果…就 membentuk kalimat BERSYARAT/pengandaian — klausa pertama (如果 + syarat) menyatakan kondisi yang MUNGKIN terjadi, klausa kedua (就 + hasil) menyatakan apa yang akan terjadi KALAU syarat itu terpenuhi. Beda dengan 因为…所以 (yang menyatakan sebab yang SUDAH terjadi), 如果…就 selalu tentang kemungkinan/andaian, belum tentu benar-benar terjadi.",
+  "perbandingan_indonesia": "Persis sama dengan 'jika…maka…' dalam bahasa Indonesia — logika dan urutannya identik. Yang perlu diperhatikan: 就 di Mandarin posisinya SEBELUM kata kerja di klausa hasil (bukan di awal klausa seperti 所以), ini beda kecil dari pola sebab-akibat sebelumnya.",
+  "kapan_tidak_boleh": "Jangan pakai pola ini untuk fakta yang SUDAH PASTI terjadi (gunakan 因为…所以 untuk itu) — 如果…就 khusus untuk kondisi hipotesis/andaian yang belum tentu terjadi. Jangan pula taruh 就 di awal klausa (sebelum subjek) — 就 harus setelah subjek, sebelum kata kerja.",
+  "kesalahan_umum": [
+   {
+    "salah": "如果你来，就我高兴。",
+    "benar": "如果你来，我就高兴。",
+    "penjelasan": "就 diletakkan SETELAH subjek klausa kedua, SEBELUM kata kerja/sifatnya — bukan di paling depan klausa.",
+    "salah_py": "Rúguǒ nǐ lái, jiù wǒ gāoxìng.",
+    "benar_py": "Rúguǒ nǐ lái, wǒ jiù gāoxìng."
+   },
+   {
+    "salah": "因为你来，就我高兴。",
+    "benar": "如果你来，我就高兴。",
+    "penjelasan": "就 adalah pasangan tetap dari 如果 (jika), bukan dari 因为 (karena) — jangan dicampur dengan konjungsi dari pola lain.",
+    "salah_py": "Yīnwèi nǐ lái, jiù wǒ gāoxìng.",
+    "benar_py": "Rúguǒ nǐ lái, wǒ jiù gāoxìng."
+   },
+   {
+    "salah": "如果你来我，就高兴。",
+    "benar": "如果你来，我就高兴。",
+    "penjelasan": "Subjek klausa kedua (我) harus tetap di klausa kedua bersama 就, bukan disisipkan ke klausa pertama.",
+    "salah_py": "Rúguǒ nǐ lái wǒ, jiù gāoxìng.",
+    "benar_py": "Rúguǒ nǐ lái, wǒ jiù gāoxìng."
+   },
+   {
+    "salah": "你来如果，我就高兴。",
+    "benar": "如果你来，我就高兴。",
+    "penjelasan": "如果 harus di paling depan klausa syarat (klausa pertama), tidak boleh dipindah ke tengah atau belakang.",
+    "salah_py": "Nǐ lái rúguǒ, wǒ jiù gāoxìng.",
+    "benar_py": "Rúguǒ nǐ lái, wǒ jiù gāoxìng."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "如果明天不下雨，我们就去公园。",
+    "py": "Rúguǒ míngtiān bù xià yǔ, wǒmen jiù qù gōngyuán.",
+    "id": "Jika besok tidak hujan, kita akan pergi ke taman."
+   },
+   {
+    "cn": "如果你忙，我就自己去。",
+    "py": "Rúguǒ nǐ máng, wǒ jiù zìjǐ qù.",
+    "id": "Jika kamu sibuk, saya akan pergi sendiri."
+   },
+   {
+    "cn": "如果你有时间，就来我家。",
+    "py": "Rúguǒ nǐ yǒu shíjiān, jiù lái wǒjiā.",
+    "id": "Jika kamu punya waktu, datanglah ke rumah saya."
+   },
+   {
+    "cn": "如果天气好，我们就去爬山。",
+    "py": "Rúguǒ tiānqì hǎo, wǒmen jiù qù páshān.",
+    "id": "Jika cuacanya bagus, kita akan pergi mendaki gunung."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "C-yinwei-suoyi",
+    "alasan": "Untuk sebab yang SUDAH terjadi (bukan andaian), pakai pola 因为…所以 sebagai gantinya."
+   }
+  ]
+ },
+ "C-bujin-erqie": {
+  "penjelasan_dasar": "不仅…而且 dipakai untuk menyatakan bahwa suatu hal punya DUA sifat/kualitas sekaligus, di mana yang kedua menambah/memperkuat yang pertama secara positif ('tidak hanya A, bahkan juga B'). Berbeda dengan pola dua-klausa sebelumnya (yang punya dua SUBJEK berbeda), pola ini biasanya punya SATU subjek dengan dua kata sifat.",
+  "perbandingan_indonesia": "Setara dengan 'tidak hanya…bahkan/tapi juga…' dalam bahasa Indonesia — 'Dia tidak hanya pintar, bahkan juga rajin'. Logika penekanannya sama: unsur kedua (而且) biasanya dianggap sebagai nilai tambah/kejutan positif dari unsur pertama (不仅).",
+  "kapan_tidak_boleh": "Jangan pakai pola ini kalau dua sifatnya justru BERTENTANGAN/kontras (untuk itu pakai 虽然…但是) — 不仅…而且 khusus untuk dua sifat yang SEARAH/saling memperkuat, bukan berlawanan.",
+  "kesalahan_umum": [
+   {
+    "salah": "他不仅聪明，而且笨。",
+    "benar": "他不仅聪明，而且努力。",
+    "penjelasan": "不仅…而且 dipakai untuk dua sifat yang SEARAH/saling mendukung, bukan sifat yang berlawanan. Untuk kontras, pakai 虽然…但是.",
+    "salah_py": "Tā bùjǐn cōngmíng, érqiě bèn.",
+    "benar_py": "Tā bùjǐn cōngmíng, érqiě nǔlì."
+   },
+   {
+    "salah": "不仅他聪明，而且他努力。",
+    "benar": "他不仅聪明，而且努力。",
+    "penjelasan": "Pola ini biasanya memakai SATU subjek yang disebut sekali di awal, lalu langsung diikuti dua sifat berturutan — tidak perlu mengulang subjeknya.",
+    "salah_py": "Bùjǐn tā cōngmíng, érqiě tā nǔlì.",
+    "benar_py": "Tā bùjǐn cōngmíng, érqiě nǔlì."
+   },
+   {
+    "salah": "不仅而且他聪明努力。",
+    "benar": "他不仅聪明，而且努力。",
+    "penjelasan": "不仅 mengawali sifat pertama (setelah subjek), 而且 mengawali sifat KEDUA — keduanya harus terpisah, tidak ditumpuk di satu tempat.",
+    "salah_py": "Bùjǐn érqiě tā cōngmíng nǔlì.",
+    "benar_py": "Tā bùjǐn cōngmíng, érqiě nǔlì."
+   },
+   {
+    "salah": "他不仅聪明而且。努力他。",
+    "benar": "他不仅聪明，而且努力。",
+    "penjelasan": "Setelah 而且, langsung sebutkan sifat kedua tanpa mengulang subjek atau memindahnya ke akhir kalimat.",
+    "salah_py": "Tā bùjǐn cōngmíng érqiě. nǔlì tā.",
+    "benar_py": "Tā bùjǐn cōngmíng, érqiě nǔlì."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "这个地方不仅美，而且安静。",
+    "py": "Zhège dìfang bùjǐn měi, érqiě ānjìng.",
+    "id": "Tempat ini tidak hanya indah, bahkan juga tenang."
+   },
+   {
+    "cn": "她不仅漂亮，而且善良。",
+    "py": "Tā bùjǐn piàoliang, érqiě shànliáng.",
+    "id": "Dia tidak hanya cantik, bahkan juga baik hati."
+   },
+   {
+    "cn": "这道题不仅难，而且长。",
+    "py": "Zhèdàotí bùjǐn nán, érqiě zhǎng.",
+    "id": "Soal ini tidak hanya sulit, bahkan juga panjang."
+   },
+   {
+    "cn": "他不仅会说英语，而且会说法语。",
+    "py": "Tā bùjǐn huì shuō yīngyǔ, érqiě huì shuō fǎyǔ.",
+    "id": "Dia tidak hanya bisa bahasa Inggris, bahkan juga bisa bahasa Prancis."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "C-suiran-danshi",
+    "alasan": "Kalau dua sifatnya justru bertentangan/kontras (bukan saling memperkuat), pakai pola 虽然…但是 sebagai gantinya."
+   }
+  ]
+ },
+ "C-yibian-yibian": {
+  "penjelasan_dasar": "一边…一边 dipakai untuk menyatakan DUA aksi yang berlangsung BERSAMAAN pada waktu yang sama, dilakukan oleh subjek yang sama pula ('sambil melakukan A, juga melakukan B'). Kedua kata kerja di sini harus aksi yang secara fisik MUNGKIN dilakukan bersamaan — misalnya makan sambil menonton TV, jalan sambil bicara.",
+  "perbandingan_indonesia": "Persis sama dengan 'sambil' dalam bahasa Indonesia — 'Dia sambil makan, sambil menonton TV'. Logikanya identik, hanya saja di Mandarin kata 一边 diulang DUA kali (sekali di depan tiap kata kerja), sedangkan di Indonesia biasanya cukup satu kata 'sambil' saja untuk aksi pertama.",
+  "kapan_tidak_boleh": "Jangan pakai pola ini untuk dua aksi yang TIDAK MUNGKIN dilakukan bersamaan secara fisik (misal 'sambil tidur, sambil berlari' tidak masuk akal). Jangan pula lupakan pengulangan 一边 di depan kata kerja KEDUA — banyak pemula cuma menaruh 一边 sekali di depan kata kerja pertama saja.",
+  "kesalahan_umum": [
+   {
+    "salah": "他一边吃饭，看电视。",
+    "benar": "他一边吃饭，一边看电视。",
+    "penjelasan": "一边 harus diulang di depan KEDUA kata kerja, bukan cuma sekali di depan yang pertama. Ini pasangan wajib, bukan konjungsi yang boleh dihilangkan sebagian.",
+    "salah_py": "Tā yībiān chīfàn, kàndiànshì.",
+    "benar_py": "Tā yībiān chīfàn, yībiān kàndiànshì."
+   },
+   {
+    "salah": "他一边吃饭，一边跑步。",
+    "benar": "他一边喝水，一边跑步。",
+    "penjelasan": "Pastikan kedua aksi memang realistis dilakukan bersamaan secara fisik — makan besar sambil lari kencang kurang masuk akal, beda dengan minum sambil lari santai.",
+    "salah_py": "Tā yībiān chīfàn, yībiān pǎobù.",
+    "benar_py": "Tā yībiān hēshuǐ, yībiān pǎobù."
+   },
+   {
+    "salah": "一边他吃饭，一边他看电视。",
+    "benar": "他一边吃饭，一边看电视。",
+    "penjelasan": "Subjek cukup disebut SEKALI di paling depan, sebelum 一边 pertama — jangan diulang lagi di klausa kedua.",
+    "salah_py": "Yībiān tā chīfàn, yībiān tā kàndiànshì.",
+    "benar_py": "Tā yībiān chīfàn, yībiān kàndiànshì."
+   },
+   {
+    "salah": "他一边一边吃饭看电视。",
+    "benar": "他一边吃饭，一边看电视。",
+    "penjelasan": "Setiap 一边 harus langsung menempel di depan kata kerjanya masing-masing, tidak ditumpuk berdempetan di satu tempat.",
+    "salah_py": "Tā yībiān yībiān chīfàn kàndiànshì.",
+    "benar_py": "Tā yībiān chīfàn, yībiān kàndiànshì."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "我一边听音乐，一边写作业。",
+    "py": "Wǒ yībiān tīng yīnyuè, yībiān xiě zuòyè.",
+    "id": "Saya sambil mendengarkan musik, sambil mengerjakan PR."
+   },
+   {
+    "cn": "他们一边走，一边聊天。",
+    "py": "Tāmen yībiān zǒu, yībiān liáotiān.",
+    "id": "Mereka sambil berjalan, sambil mengobrol."
+   },
+   {
+    "cn": "她一边唱歌，一边跳舞。",
+    "py": "Tā yībiān chànggē, yībiān tiàowǔ.",
+    "id": "Dia sambil bernyanyi, sambil menari."
+   },
+   {
+    "cn": "我不能一边开车，一边打电话。",
+    "py": "Wǒ bùnéng yībiān kāichē, yībiān dǎdiànhuà.",
+    "id": "Saya tidak boleh sambil menyetir, sambil menelepon."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "S-zai-V",
+    "alasan": "Kalau cuma satu aksi yang sedang berlangsung (bukan dua bersamaan), cukup pakai 在 + V, tanpa perlu pola 一边…一边."
+   }
+  ]
+ },
+ "C-bi": {
+  "penjelasan_dasar": "比 (bǐ) dipakai untuk PERBANDINGAN LANGSUNG antara dua hal, dengan struktur tetap: A + 比 + B + (更) + Kata Sifat. Artinya 'A lebih [sifat] dibanding B'. Ini struktur perbandingan paling umum dan paling sering dipakai di Mandarin sehari-hari.",
+  "perbandingan_indonesia": "Konsepnya mirip 'lebih…dari' dalam bahasa Indonesia — 'Saya LEBIH sibuk DARI dia' = 我比他忙. Tapi urutan katanya beda: di Indonesia, kata sifat ('lebih sibuk') muncul SEBELUM objek pembanding ('dari dia'). Di Mandarin, urutannya kebalik: objek pembanding (B) muncul DULU, baru kata sifatnya menyusul di akhir — A+比+B+Sifat, bukan A+Sifat+比+B.",
+  "kapan_tidak_boleh": "Jangan taruh 更 (gèng = 'lebih lagi', penekanan ekstra) LANGSUNG setelah 比 — urutan yang benar adalah 比+B dulu, baru 更+Sifat setelahnya (kalau memang ingin menambah penekanan). Jangan pula pakai 很 bersamaan dengan 比 dalam struktur ini — 很 dan 比 sama-sama berfungsi sebagai penanda derajat kata sifat, jadi kalau sudah pakai 比 untuk perbandingan, tidak perlu tambah 很 lagi sebelum kata sifatnya.",
+  "kesalahan_umum": [
+   {
+    "salah": "我比更他忙。",
+    "benar": "我比他更忙。",
+    "penjelasan": "更 (kalau dipakai) letaknya SETELAH objek pembanding (B), tepat sebelum kata sifat — bukan langsung menempel setelah 比.",
+    "salah_py": "Wǒ bǐ gèng tā máng.",
+    "benar_py": "Wǒ bǐ tā gèng máng."
+   },
+   {
+    "salah": "我很比他忙。",
+    "benar": "我比他忙。",
+    "penjelasan": "很 tidak perlu (dan tidak boleh) dipakai bersamaan dengan struktur 比 — 比 sendiri sudah cukup menandai perbandingan derajat.",
+    "salah_py": "Wǒ hěn bǐ tā máng.",
+    "benar_py": "Wǒ bǐ tā máng."
+   },
+   {
+    "salah": "他忙比我。",
+    "benar": "他比我忙。",
+    "penjelasan": "Urutan wajib A+比+B+Sifat; kata sifat harus di paling akhir, setelah B, bukan sebelum 比.",
+    "salah_py": "Tā máng bǐ wǒ.",
+    "benar_py": "Tā bǐ wǒ máng."
+   },
+   {
+    "salah": "我比他不忙。",
+    "benar": "我没有他忙。",
+    "penjelasan": "Untuk menyatakan ‘kurang dari’ dalam perbandingan, jangan pakai 比…不…, strukturnya harus diganti jadi 没有 (lihat pola A+没有+B+Sifat).",
+    "salah_py": "Wǒ bǐ tā bùmáng.",
+    "benar_py": "Wǒ méiyǒu tā máng."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "这个比那个便宜。",
+    "py": "Zhège bǐ nàge piányi.",
+    "id": "Ini lebih murah dari itu."
+   },
+   {
+    "cn": "哥哥比我高。",
+    "py": "Gēge bǐ wǒ gāo.",
+    "id": "Kakak laki-laki lebih tinggi dari saya."
+   },
+   {
+    "cn": "这个房子比那个大。",
+    "py": "Zhège fángzi bǐ nàge dà.",
+    "id": "Rumah ini lebih besar dari itu."
+   },
+   {
+    "cn": "妹妹比我小两岁。",
+    "py": "Mèimèi bǐ wǒ xiǎo liǎngsuì.",
+    "id": "Adik perempuan lebih muda dua tahun dari saya."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "C-meiyou",
+    "alasan": "Kebalikan dari 比 — kalau A justru KURANG dari B (bukan lebih), pakai pola 没有 ini."
+   },
+   {
+    "key": "C-yiyang",
+    "alasan": "Kalau A dan B SAMA (bukan lebih/kurang), pakai pola 一样 ini."
+   }
+  ]
+ },
+ "C-meiyou": {
+  "penjelasan_dasar": "没有 dalam konteks perbandingan (beda dari 没有 yang berarti 'tidak punya') artinya 'tidak se-…seperti', menyatakan bahwa A KURANG dari B dalam suatu hal. Ini kebalikan logis dari pola 比 sebelumnya — kalau 比 bilang 'A LEBIH dari B', 没有 bilang 'A TIDAK SESAMPAI B'.",
+  "perbandingan_indonesia": "Setara dengan 'tidak se-…seperti' dalam bahasa Indonesia — 'Saya TIDAK SESIBUK dia' = 我没有他忙. Struktur logikanya paralel, hanya perlu diingat bahwa kata 没有 di sini artinya beda total dari 没有 yang biasa dipakai untuk 'tidak punya' (meski tulisannya sama persis) — konteks kalimat yang menentukan mana yang dimaksud.",
+  "kapan_tidak_boleh": "Jangan bingungkan 没有 di sini dengan 没有 dalam pola S-you-O (tidak punya) — meski tulisannya identik, di sini fungsinya murni untuk perbandingan derajat, bukan kepemilikan. Jangan pula pakai 不比 sebagai pengganti 没有 dalam percakapan santai — 不比 punya nuansa makna yang sedikit berbeda (lebih ke arah 'belum tentu lebih', bukan murni 'kurang dari').",
+  "kesalahan_umum": [
+   {
+    "salah": "我没有他忙很多。",
+    "benar": "我没有他忙。",
+    "penjelasan": "Untuk struktur dasar, cukup A+没有+B+Sifat. Kalau ingin menambah penekanan derajat, pakai 那么 sebelum kata sifat, bukan sembarang kata keterangan jumlah.",
+    "salah_py": "Wǒ méiyǒu tā máng hěnduō.",
+    "benar_py": "Wǒ méiyǒu tā máng."
+   },
+   {
+    "salah": "我没有他很忙。",
+    "benar": "我没有他忙。",
+    "penjelasan": "很 tidak perlu ditambahkan di dalam struktur perbandingan 没有 — sama seperti pola 比, kata sifat langsung menyusul tanpa 很 di depannya.",
+    "salah_py": "Wǒ méiyǒu tā hěn máng.",
+    "benar_py": "Wǒ méiyǒu tā máng."
+   },
+   {
+    "salah": "我没有比他忙。",
+    "benar": "我没有他忙。",
+    "penjelasan": "没有 dan 比 adalah dua struktur perbandingan yang berbeda cara pakainya — 没有 TIDAK butuh 比 sama sekali, langsung diikuti B.",
+    "salah_py": "Wǒ méiyǒu bǐ tā máng.",
+    "benar_py": "Wǒ méiyǒu tā máng."
+   },
+   {
+    "salah": "我没有他忙比。",
+    "benar": "我没有他忙。",
+    "penjelasan": "Sama seperti di atas, 比 tidak diperlukan dan tidak boleh ditambahkan di mana pun dalam struktur 没有 ini.",
+    "salah_py": "Wǒ méiyǒu tā máng bǐ.",
+    "benar_py": "Wǒ méiyǒu tā máng."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "我没有你聪明。",
+    "py": "Wǒ méiyǒu nǐ cōngming.",
+    "id": "Saya tidak secerdas kamu."
+   },
+   {
+    "cn": "这里没有那里安静。",
+    "py": "Zhèlǐ méiyǒu nàlǐ ānjìng.",
+    "id": "Di sini tidak setenang di sana."
+   },
+   {
+    "cn": "今天没有昨天热。",
+    "py": "Jīntiān méiyǒu zuótiān rè.",
+    "id": "Hari ini tidak sepanas kemarin."
+   },
+   {
+    "cn": "我没有姐姐高。",
+    "py": "Wǒ méiyǒu jiějiě gāo.",
+    "id": "Saya tidak setinggi kakak perempuan."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "C-bi",
+    "alasan": "Kebalikan dari pola ini — kalau A justru LEBIH dari B (bukan kurang), pakai pola 比."
+   },
+   {
+    "key": "C-yiyang",
+    "alasan": "Kalau A dan B SAMA (bukan lebih/kurang), pakai pola 一样 ini."
+   }
+  ]
+ },
+ "C-yiyang": {
+  "penjelasan_dasar": "跟…一样 dipakai untuk menyatakan bahwa dua hal itu SAMA/setara dalam suatu hal — struktur: A + 跟 + B + 一样 + (Kata Sifat, opsional). Kalau kata sifatnya dihilangkan, artinya jadi 'A sama dengan B' secara umum; kalau ditambahkan kata sifat, artinya jadi lebih spesifik 'A sama [sifat]-nya dengan B'.",
+  "perbandingan_indonesia": "Mirip 'sama…dengan' dalam bahasa Indonesia — 'Saya sama sibuknya DENGAN dia' = 我跟他一样忙. Urutan katanya cukup paralel: 跟 (dengan) menghubungkan A dan B, lalu 一样 (sama) menyusul, baru kata sifatnya kalau ada.",
+  "kapan_tidak_boleh": "Jangan taruh kata sifat SEBELUM 一样 — urutannya harus 一样 dulu, baru kata sifat setelahnya (跟+B+一样+Sifat), bukan 跟+B+Sifat+一样. Jangan pula gunakan 比 dan 一样 bersamaan — keduanya struktur perbandingan yang berbeda konsep (lebih-dari vs sama-dengan), tidak bisa digabung dalam satu klausa.",
+  "kesalahan_umum": [
+   {
+    "salah": "我跟他忙一样。",
+    "benar": "我跟他一样忙。",
+    "penjelasan": "Urutan yang benar: 跟+B+一样+Sifat. 一样 harus muncul SEBELUM kata sifat, bukan sesudahnya.",
+    "salah_py": "Wǒ gēn tā máng yīyàng.",
+    "benar_py": "Wǒ gēn tā yīyàng máng."
+   },
+   {
+    "salah": "我比他一样忙。",
+    "benar": "我跟他一样忙。",
+    "penjelasan": "比 (lebih dari) dan 一样 (sama dengan) adalah dua struktur perbandingan berbeda dengan makna berlawanan — tidak bisa digabung dalam satu kalimat.",
+    "salah_py": "Wǒ bǐ tā yīyàng máng.",
+    "benar_py": "Wǒ gēn tā yīyàng máng."
+   },
+   {
+    "salah": "我和他一样是忙。",
+    "benar": "我跟他一样忙。",
+    "penjelasan": "Setelah 一样, kata sifat langsung menyusul tanpa 是 di depannya — sama seperti pola 很+Sifat biasa, tidak butuh ‘kata kerja penghubung’.",
+    "salah_py": "Wǒ hé tā yīyàng shì máng.",
+    "benar_py": "Wǒ gēn tā yīyàng máng."
+   },
+   {
+    "salah": "我一样跟他忙。",
+    "benar": "我跟他一样忙。",
+    "penjelasan": "Urutan tetap 跟+B+一样+Sifat; 一样 tidak boleh dipindah ke depan frasa 跟+B.",
+    "salah_py": "Wǒ yīyàng gēn tā máng.",
+    "benar_py": "Wǒ gēn tā yīyàng máng."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "这个跟那个一样好。",
+    "py": "Zhège gēn nàge yīyàng hǎo.",
+    "id": "Ini sama bagusnya dengan itu."
+   },
+   {
+    "cn": "我的想法跟你一样。",
+    "py": "Wǒ de xiǎngfǎ gēn nǐ yīyàng.",
+    "id": "Pemikiran saya sama dengan kamu."
+   },
+   {
+    "cn": "我的书跟你的一样多。",
+    "py": "Wǒ de shū gēn nǐ de yīyàng duō.",
+    "id": "Buku saya sama banyaknya dengan bukumu."
+   },
+   {
+    "cn": "他的年纪跟我一样大。",
+    "py": "Tā de niánjì gēn wǒ yīyàng dà.",
+    "id": "Usianya sama dengan saya."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "C-bi",
+    "alasan": "Kalau A dan B TIDAK sama (A lebih dari B), pakai pola 比 sebagai gantinya."
+   },
+   {
+    "key": "C-meiyou",
+    "alasan": "Kalau A KURANG dari B (bukan sama), pakai pola 没有 sebagai gantinya."
+   }
+  ]
+ },
+ "F-keyi": {
+  "penjelasan_dasar": "可以 (kěyǐ) menyatakan IZIN ('boleh') atau KEMAMPUAN ('bisa') — dua makna berbeda tergantung konteks, tapi keduanya dipakai dengan kata yang sama. Struktur: S + 可以 + Kata Kerja (+ Objek). Kalimat pertanyaan yang memakai 可以 sangat umum dipakai untuk meminta izin secara sopan.",
+  "perbandingan_indonesia": "Setara persis dengan 'boleh/bisa' dalam bahasa Indonesia yang juga punya dua makna serupa (izin vs kemampuan) tergantung konteks — 'Saya BISA berenang' (kemampuan) vs 'Boleh saya masuk?' (izin). Logika ganda ini sudah familiar buat orang Indonesia, jadi pola ini relatif mudah dipahami.",
+  "kapan_tidak_boleh": "Untuk menegasikan, ada dua pilihan tergantung makna: 不可以 (tidak boleh/dilarang, untuk izin) atau 不能 (tidak bisa, untuk kemampuan/ketidakmungkinan) — jangan asal pakai satu untuk semua konteks, karena nuansa maknanya beda: 不可以 lebih ke arah larangan tegas, 不能 lebih ke arah ketidakmampuan atau halangan.",
+  "kesalahan_umum": [
+   {
+    "salah": "你不可以游泳吗？",
+    "benar": "你不能游泳吗？",
+    "penjelasan": "不可以 dipakai untuk larangan/izin ditolak, bukan ketidakmampuan. Untuk bertanya soal kemampuan, lebih tepat pakai 能 atau 会.",
+    "salah_py": "Nǐ bù kěyǐ yóuyǒng ma?",
+    "benar_py": "Nǐ bùnéng yóuyǒng ma?"
+   },
+   {
+    "salah": "我可以要喝水。",
+    "benar": "我可以喝水吗？",
+    "penjelasan": "可以 (boleh) dan 要 (ingin/akan) adalah dua kata bantu berbeda dengan fungsi berbeda — jangan digabung dalam satu frasa kata kerja yang sama.",
+    "salah_py": "Wǒ kěyǐ yào hēshuǐ.",
+    "benar_py": "Wǒ kěyǐ hēshuǐ ma?"
+   },
+   {
+    "salah": "这里可以吗抽烟？",
+    "benar": "这里可以抽烟吗？",
+    "penjelasan": "吗 selalu di paling akhir kalimat, tidak boleh disisipkan di tengah meskipun terasa lebih dekat dengan kata yang ditanyakan.",
+    "salah_py": "Zhèlǐ kěyǐ ma chōuyān?",
+    "benar_py": "Zhèlǐ kěyǐ chōuyān ma?"
+   },
+   {
+    "salah": "可以我用一下吗？",
+    "benar": "我可以用一下吗？",
+    "penjelasan": "可以 diletakkan SETELAH subjek, SEBELUM kata kerja — bukan di paling depan kalimat sebelum subjek.",
+    "salah_py": "Kěyǐ wǒyòng yīxià ma?",
+    "benar_py": "Wǒ kěyǐ yòng yīxià ma?"
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "这里可以抽烟吗？",
+    "py": "Zhèlǐ kěyǐ chōuyān ma?",
+    "id": "Di sini boleh merokok?"
+   },
+   {
+    "cn": "你可以帮我吗？",
+    "py": "Nǐ kěyǐ bāng wǒ ma?",
+    "id": "Kamu bisa membantu saya?"
+   },
+   {
+    "cn": "你可以再说一次吗？",
+    "py": "Nǐ kěyǐ zàishuō yīcì ma?",
+    "id": "Bisa kamu ulangi sekali lagi?"
+   },
+   {
+    "cn": "这里不可以停车。",
+    "py": "Zhèlǐ bù kěyǐ tíngchē.",
+    "id": "Di sini tidak boleh parkir."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "F-yao",
+    "alasan": "Kalau maksudnya keinginan/keharusan (bukan izin/kemampuan), pakai 要 sebagai gantinya."
+   },
+   {
+    "key": "Q-ma",
+    "alasan": "可以 sering dipasangkan dengan 吗 untuk membentuk pertanyaan izin yang sopan."
+   }
+  ]
+ },
+ "F-yao": {
+  "penjelasan_dasar": "要 (yào) adalah kata bantu serbaguna yang bisa berarti 'ingin', 'akan (di masa depan)', atau 'harus' — maknanya cukup fleksibel tergantung konteks kalimat. Ini beda dengan 想 (juga berarti 'ingin' tapi nuansanya lebih ringan/personal) — 要 punya nuansa lebih tegas/pasti.",
+  "perbandingan_indonesia": "Karena 要 punya banyak makna sekaligus, pelajar Indonesia perlu membiasakan diri menebak makna dari konteks — mirip kata 'mau' dalam bahasa Indonesia yang juga fleksibel maknanya ('saya MAU makan' = ingin, 'saya MAU berangkat besok' = akan). Ini salah satu kata paling sering dipakai dalam percakapan sehari-hari.",
+  "kapan_tidak_boleh": "Untuk menegasikan 要, pilihan katanya tergantung makna yang dimaksud: 不想 (tidak ingin, kalau 要 berarti keinginan) atau 不用 (tidak perlu/tidak harus, kalau 要 berarti keharusan) — jangan pakai 不要 secara sembarangan, karena 不要 sebenarnya punya makna tegas 'JANGAN' (larangan/perintah), bukan sekadar negasi biasa dari 要.",
+  "kesalahan_umum": [
+   {
+    "salah": "我不要去昨天。",
+    "benar": "我昨天不想去。",
+    "penjelasan": "不要 artinya 'JANGAN' (larangan tegas), bukan sekadar 'tidak ingin'. Untuk menegasikan keinginan, pakai 不想, bukan 不要.",
+    "salah_py": "Wǒ búyào qù zuótiān.",
+    "benar_py": "Wǒ zuótiān bùxiǎng qù."
+   },
+   {
+    "salah": "你要不去吗？",
+    "benar": "你要不要去？",
+    "penjelasan": "Untuk pertanyaan pilihan ya/tidak yang natural, biasanya pakai pola 要不要 (bentuk afirmatif-negatif berturutan), bukan menyisipkan 不 di tengah secara sembarangan.",
+    "salah_py": "Nǐ yào bù qù ma?",
+    "benar_py": "Nǐ yào búyào qù?"
+   },
+   {
+    "salah": "我要不喝咖啡。",
+    "benar": "我不想喝咖啡。",
+    "penjelasan": "要+不 di tengah bukan cara menegasikan keinginan biasa; untuk ‘tidak ingin’, pakai 不想, bukan menyisipkan 不 ke dalam 要.",
+    "salah_py": "Wǒyào bù hēkāfēi.",
+    "benar_py": "Wǒ bùxiǎng hēkāfēi."
+   },
+   {
+    "salah": "要我去吗？",
+    "benar": "我要去吗？",
+    "penjelasan": "要 tetap di posisi normal setelah subjek, tidak dipindah ke depan meskipun kalimatnya jadi pertanyaan.",
+    "salah_py": "Yào wǒ qù ma?",
+    "benar_py": "Wǒyào qù ma?"
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "我要学开车。",
+    "py": "Wǒ yào xué kāichē.",
+    "id": "Saya ingin belajar menyetir."
+   },
+   {
+    "cn": "明天要下雨。",
+    "py": "Míngtiān yào xià yǔ.",
+    "id": "Besok akan hujan."
+   },
+   {
+    "cn": "你要不要一起去？",
+    "py": "Nǐ yào búyào yìqǐ qù?",
+    "id": "Kamu mau ikut pergi bersama tidak?"
+   },
+   {
+    "cn": "我要买新手机。",
+    "py": "Wǒyào mǎi xīnshǒujī.",
+    "id": "Saya ingin membeli HP baru."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "F-xiang",
+    "alasan": "Untuk keinginan yang lebih ringan/personal (bukan tegas/pasti), pakai 想 sebagai gantinya."
+   },
+   {
+    "key": "F-keyi",
+    "alasan": "Kalau maksudnya izin/kemampuan (bukan keinginan/keharusan), pakai 可以 sebagai gantinya."
+   }
+  ]
+ },
+ "F-xiang": {
+  "penjelasan_dasar": "想 (xiǎng) berarti 'ingin/hendak', dengan nuansa lebih RINGAN dan lebih personal dibanding 要 — semacam 'kepingin' yang tidak terlalu mendesak, dibanding 要 yang terasa lebih pasti/tegas. Kata ini juga punya makna lain: 'memikirkan' atau 'merindukan' kalau langsung diikuti kata benda tanpa kata kerja lain (misal 我想你 = 'saya kangen kamu', bukan 'saya ingin kamu').",
+  "perbandingan_indonesia": "Setara dengan 'kepingin/ingin' yang lebih santai dalam bahasa Indonesia, dibanding 要 yang lebih ke arah 'mau/akan' yang lebih tegas. Perbedaan nuansa keduanya (要 vs 想) memang perlu dibiasakan lewat banyak paparan konteks kalimat, karena bahasa Indonesia tidak selalu membedakan setegas ini.",
+  "kapan_tidak_boleh": "Hati-hati dengan makna ganda 想 + kata benda LANGSUNG (tanpa kata kerja) — itu artinya 'merindukan/memikirkan', BUKAN 'ingin memiliki'. Kalau maksudnya 'ingin [melakukan sesuatu terhadap] benda X', harus tetap sertakan kata kerjanya secara eksplisit (想 + V + O), jangan cuma 想 + O saja kalau maksudnya bukan rindu.",
+  "kesalahan_umum": [
+   {
+    "salah": "我想那本书。",
+    "benar": "我想买那本书。",
+    "penjelasan": "想 + kata benda langsung (tanpa kata kerja) berarti 'merindukan/memikirkan', bukan 'ingin memiliki'. Untuk 'ingin melakukan sesuatu', sertakan kata kerjanya (misal 买=membeli).",
+    "salah_py": "Wǒ xiǎng nàběnshū.",
+    "benar_py": "Wǒ xiǎng mǎi nàběnshū."
+   },
+   {
+    "salah": "我想要吃饭。",
+    "benar": "我想吃饭。",
+    "penjelasan": "想 dan 要 sebenarnya kadang bisa digabung (想要) dalam bahasa natural, tapi untuk pemula lebih aman pakai salah satu dulu supaya jelas nuansa maknanya.",
+    "salah_py": "Wǒ xiǎngyào chīfàn.",
+    "benar_py": "Wǒ xiǎng chīfàn."
+   },
+   {
+    "salah": "我想去不去。",
+    "benar": "你想不想去？",
+    "penjelasan": "Untuk bentuk tanya A-tidak-A dengan kata bantu 想, ulangi 想-nya (想不想), bukan kata kerja utamanya yang diulang setelah 想.",
+    "salah_py": "Wǒ xiǎng qùbùqù.",
+    "benar_py": "Nǐ xiǎng bùxiǎng qù?"
+   },
+   {
+    "salah": "我想要要吃饭。",
+    "benar": "我想吃饭。",
+    "penjelasan": "Jangan mengulang kata bantu yang sama dua kali berturutan; cukup satu 要 saja kalau memang ingin dipakai bersama 想.",
+    "salah_py": "Wǒ xiǎngyào yào chīfàn.",
+    "benar_py": "Wǒ xiǎng chīfàn."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "我想休息一下。",
+    "py": "Wǒ xiǎng xiūxi yīxià.",
+    "id": "Saya ingin istirahat sebentar."
+   },
+   {
+    "cn": "他想家。",
+    "py": "Tā xiǎng jiā.",
+    "id": "Dia merindukan rumah."
+   },
+   {
+    "cn": "我想去旅行。",
+    "py": "Wǒ xiǎng qù lǚxíng.",
+    "id": "Saya ingin pergi berlibur/traveling."
+   },
+   {
+    "cn": "你想不想喝咖啡？",
+    "py": "Nǐ xiǎng bùxiǎng hēkāfēi?",
+    "id": "Kamu ingin minum kopi tidak?"
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "F-yao",
+    "alasan": "Untuk keinginan yang lebih tegas/pasti (bukan sekadar 'kepingin' santai), pakai 要 sebagai gantinya."
+   }
+  ]
+ },
+ "F-qing": {
+  "penjelasan_dasar": "请 (qǐng) artinya 'tolong/mohon/silakan', dipakai untuk membuat permintaan atau ajakan secara SOPAN. Uniknya, pola ini biasanya TIDAK memakai subjek eksplisit — 请 langsung diikuti kata kerja, karena secara implisit yang diajak bicara (lawan bicara) sudah jelas dari konteks percakapan langsung.",
+  "perbandingan_indonesia": "Setara dengan 'silakan/tolong/mohon' di awal kalimat dalam bahasa Indonesia — 'Silakan duduk', 'Tolong beritahu saya'. Kebiasaan tidak memakai subjek eksplisit juga sama dengan bahasa Indonesia (kita jarang bilang 'Kamu silakan duduk', cukup 'Silakan duduk').",
+  "kapan_tidak_boleh": "Jangan tambahkan subjek 你 (kamu) secara eksplisit setelah 请 kalau tidak benar-benar diperlukan — itu justru terdengar kaku/tidak natural dalam kebanyakan konteks. Jangan pula pakai 请 untuk permintaan pada diri sendiri atau orang ketiga yang tidak hadir dalam percakapan — 请 khusus untuk permintaan langsung pada lawan bicara.",
+  "kesalahan_umum": [
+   {
+    "salah": "请你你坐。",
+    "benar": "请坐。",
+    "penjelasan": "请 biasanya langsung diikuti kata kerja tanpa perlu menyebut subjek 你 secara eksplisit — konteksnya sudah jelas ditujukan ke lawan bicara.",
+    "salah_py": "Qǐng nǐ nǐ zuò.",
+    "benar_py": "Qǐng zuò."
+   },
+   {
+    "salah": "我请你坐下。",
+    "benar": "请坐下。",
+    "penjelasan": "Untuk permintaan sopan yang spontan dan langsung, cukup 请 + kata kerja tanpa subjek — menambahkan 我 (saya) di depan justru mengubah nuansa jadi lebih formal/berjarak.",
+    "salah_py": "Wǒ qǐng nǐ zuòxià.",
+    "benar_py": "Qǐngzuòxià."
+   },
+   {
+    "salah": "请你们你坐。",
+    "benar": "请坐。",
+    "penjelasan": "Cukup 请 + kata kerja tanpa perlu menyebut subjek berulang atau ganda.",
+    "salah_py": "Qǐng nǐmen nǐ zuò.",
+    "benar_py": "Qǐng zuò."
+   },
+   {
+    "salah": "坐请。",
+    "benar": "请坐。",
+    "penjelasan": "请 harus di paling depan, sebelum kata kerja — tidak boleh dibalik.",
+    "salah_py": "Zuòqǐng.",
+    "benar_py": "Qǐng zuò."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "请进。",
+    "py": "Qǐng jìn.",
+    "id": "Silakan masuk."
+   },
+   {
+    "cn": "请等一下。",
+    "py": "Qǐng děng yīxià.",
+    "id": "Tolong tunggu sebentar."
+   },
+   {
+    "cn": "请喝茶。",
+    "py": "Qǐng hēchá.",
+    "id": "Silakan minum teh."
+   },
+   {
+    "cn": "请再说一次。",
+    "py": "Qǐng zàishuō yīcì.",
+    "id": "Tolong ulangi sekali lagi."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "F-keyi",
+    "alasan": "Kalau ingin MEMINTA izin (bukan meminta orang lain melakukan sesuatu), pakai 可以 + 吗 sebagai gantinya."
+   }
+  ]
+ },
+ "F-ba": {
+  "penjelasan_dasar": "把 (bǎ) memindahkan OBJEK ke posisi SEBELUM kata kerja (bukan setelahnya seperti pola S-V-O biasa), untuk menekankan APA yang 'diperlakukan/dikerjakan' terhadap objek tersebut, biasanya dengan hasil/perubahan yang jelas pada objek itu. Ini salah satu struktur paling unik dan cukup rumit di Mandarin — kata kerjanya HARUS punya komplemen hasil (seperti 完=selesai, 走=pergi) supaya kalimat terasa lengkap.",
+  "perbandingan_indonesia": "Konsep ini TIDAK ADA padanan langsung di bahasa Indonesia — kita cuma bilang 'Saya SUDAH SELESAI membaca buku itu' tanpa perlu memindahkan posisi objeknya. Di Mandarin, struktur 把 justru memindahkan objek (buku) ke DEPAN kata kerja (membaca+selesai) untuk penekanan khusus: 我把书看完了 (secara harfiah: 'saya BA buku baca-selesai-le'). Ini pola yang perlu dilatih ekstra karena benar-benar konsep baru bagi pelajar Indonesia.",
+  "kapan_tidak_boleh": "Jangan pakai 把 kalau kata kerjanya TIDAK punya komplemen hasil/arah yang jelas (kata kerja polos tanpa embel-embel tidak cocok dengan struktur 把) — misalnya 我把书看 (tanpa 完 di akhir) terasa janggal/tidak lengkap. Jangan pula pakai 把 untuk objek yang TIDAK SPESIFIK/tidak tertentu — 把 biasanya untuk objek yang sudah jelas/spesifik, bukan objek umum sembarang.",
+  "kesalahan_umum": [
+   {
+    "salah": "我把书看。",
+    "benar": "我把书看完了。",
+    "penjelasan": "Kata kerja setelah 把 hampir selalu butuh komplemen hasil (完=selesai, 好=baik/selesai, dll.) — tanpa itu, kalimat terasa menggantung/tidak lengkap secara gramatikal.",
+    "salah_py": "Wǒ bǎ shū kàn.",
+    "benar_py": "Wǒ bǎ shū kàn wán le."
+   },
+   {
+    "salah": "我看把书完了。",
+    "benar": "我把书看完了。",
+    "penjelasan": "把+Objek harus diletakkan SEBELUM kata kerja, itu justru inti dari struktur ini — memindahkan objek ke depan, bukan membiarkannya di posisi biasa setelah kata kerja.",
+    "salah_py": "Wǒ kàn bǎ shū wán le.",
+    "benar_py": "Wǒ bǎ shū kàn wán le."
+   },
+   {
+    "salah": "我把书。",
+    "benar": "我把书看完了。",
+    "penjelasan": "把 selalu butuh kata kerja + komplemen setelah objeknya; tidak boleh berhenti hanya di objek saja.",
+    "salah_py": "Wǒ bǎ shū.",
+    "benar_py": "Wǒ bǎ shū kàn wán le."
+   },
+   {
+    "salah": "把我书看完了。",
+    "benar": "我把书看完了。",
+    "penjelasan": "Subjek harus tetap di paling depan kalimat, SEBELUM 把 — bukan dibalik jadi 把+Subjek+Objek.",
+    "salah_py": "Bǎ wǒ shū kàn wán le.",
+    "benar_py": "Wǒ bǎ shū kàn wán le."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "她把门关上了。",
+    "py": "Tā bǎ mén guān shàng le.",
+    "id": "Dia sudah menutup pintu itu."
+   },
+   {
+    "cn": "请把这个给他。",
+    "py": "Qǐng bǎ zhège gěi tā.",
+    "id": "Tolong berikan ini kepadanya."
+   },
+   {
+    "cn": "你把作业写完了吗？",
+    "py": "Nǐ bǎ zuòyè xiě wán le ma?",
+    "id": "Sudahkah kamu menyelesaikan menulis PR?"
+   },
+   {
+    "cn": "我把手机忘在家里了。",
+    "py": "Wǒ bǎ shǒujī wàng zài jiālǐ le.",
+    "id": "Saya lupa membawa HP, tertinggal di rumah."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "S-V-O",
+    "alasan": "Pola dasar tanpa penekanan khusus pada objek — 把 dipakai kalau ingin menekankan hasil perlakuan terhadap objek secara spesifik."
+   },
+   {
+    "key": "F-bei",
+    "alasan": "Kebalikan sudut pandang dari 把 — kalau ingin menekankan sudut pandang objek yang DIKENAI aksi (pasif), pakai 被 sebagai gantinya."
+   }
+  ]
+ },
+ "F-bei": {
+  "penjelasan_dasar": "被 (bèi) membentuk kalimat PASIF — subjek kalimat menjadi PENERIMA/PENDERITA aksi, bukan pelaku aksinya. Struktur: Penderita + 被 + Pelaku + Kata Kerja. Di Mandarin, kalimat pasif dengan 被 sering (meski tidak selalu) dipakai untuk situasi NEGATIF atau tidak menyenangkan — misalnya kehilangan sesuatu, kena masalah, dll.",
+  "perbandingan_indonesia": "Mirip imbuhan 'di-' dalam bahasa Indonesia — 'Buku itu DIBAWA olehnya' = 书被他拿走了. Strukturnya cukup paralel: Objek/penderita di depan, lalu penanda pasif (被/di-), lalu pelaku, lalu kata kerja. Yang perlu diingat: di Mandarin, nuansa 被 lebih condong ke hal negatif dibanding 'di-' dalam bahasa Indonesia yang jauh lebih netral dan bisa dipakai untuk situasi apa saja.",
+  "kapan_tidak_boleh": "Jangan pakai 被 untuk situasi POSITIF/netral secara sembarangan (misal 'saya DIBERI hadiah' lebih natural dengan kata lain, bukan 被, karena 被 punya konotasi 'menderita/dikenai sesuatu yang tidak diinginkan'). Untuk situasi netral/positif, orang Mandarin biasanya lebih memilih struktur aktif atau kata kerja lain yang lebih sesuai.",
+  "kesalahan_umum": [
+   {
+    "salah": "我被给了礼物。",
+    "benar": "我收到了礼物。",
+    "penjelasan": "被 secara nuansa condong ke situasi negatif/tidak diinginkan. Untuk situasi positif seperti menerima hadiah, lebih natural pakai kata kerja aktif seperti 收到 (menerima).",
+    "salah_py": "Wǒ bèi gěi le lǐwù.",
+    "benar_py": "Wǒ shōudào le lǐwù."
+   },
+   {
+    "salah": "他被我看见了书。",
+    "benar": "书被他看见了。",
+    "penjelasan": "Dalam struktur 被, penderita/objek yang jadi fokus utama harus di posisi PALING DEPAN kalimat, bukan disisipkan di tengah setelah pelaku dan kata kerja.",
+    "salah_py": "Tā bèi wǒ kànjiàn le shū.",
+    "benar_py": "Shū bèi tā kànjiàn le."
+   },
+   {
+    "salah": "书他被拿走了。",
+    "benar": "书被他拿走了。",
+    "penjelasan": "Urutan wajib Objek(penderita)+被+Agen+Kata Kerja; agen (他) harus SETELAH 被, tidak boleh sebelum.",
+    "salah_py": "Shū tā bèi názǒu le.",
+    "benar_py": "Shū bèi tā názǒu le."
+   },
+   {
+    "salah": "我的钱包被偷了他。",
+    "benar": "我的钱包被他偷了。",
+    "penjelasan": "Kalau agen memang disebut, letaknya di antara 被 dan kata kerja, bukan diletakkan lagi di akhir kalimat setelah kata kerja.",
+    "salah_py": "Wǒ de qiánbāo bèi tōu le tā.",
+    "benar_py": "Wǒ de qiánbāo bèi tā tōu le."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "我的手机被偷了。",
+    "py": "Wǒ de shǒujī bèi tōu le.",
+    "id": "HP saya dicuri."
+   },
+   {
+    "cn": "这本书被很多人看过。",
+    "py": "Zhè běn shū bèi hěn duō rén kàn guò.",
+    "id": "Buku ini pernah dibaca oleh banyak orang."
+   },
+   {
+    "cn": "窗户被风吹开了。",
+    "py": "Chuānghù bèi fēngchuī kāi le.",
+    "id": "Jendela itu terbuka ditiup angin."
+   },
+   {
+    "cn": "蛋糕被弟弟吃光了。",
+    "py": "Dàngāo bèi dìdi chīguāng le.",
+    "id": "Kuenya dihabiskan oleh adik laki-laki."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "F-ba",
+    "alasan": "Kebalikan sudut pandang dari 被 — kalau ingin menekankan sudut pandang pelaku yang memperlakukan objek (aktif), pakai 把 sebagai gantinya."
+   }
+  ]
+ },
+ "F-gei": {
+  "penjelasan_dasar": "给 (gěi) berarti 'memberi' — bisa berfungsi sebagai kata kerja utama (memberi sesuatu ke seseorang) ATAU sebagai penanda 'kepada/untuk' (preposisi) tergantung posisi dalam kalimat. Struktur dasar: Subjek + 给 + Penerima + (Objek). Kata kerja ini unik karena langsung diikuti DUA hal sekaligus: siapa yang menerima, dan apa yang diberikan.",
+  "perbandingan_indonesia": "Setara dengan 'memberi…kepada…' dalam bahasa Indonesia, tapi urutannya lebih ringkas — kalau di Indonesia sering bilang 'Saya memberi BUKU kepada KAMU' (objek dulu, baru penerima), di Mandarin urutannya kebalik: penerima dulu, baru objek — 我给你书 (secara harfiah: 'saya memberi KAMU buku').",
+  "kapan_tidak_boleh": "Jangan balik urutan penerima dan objek — di Mandarin, PENERIMA selalu langsung setelah 给, baru objeknya menyusul, tidak seperti bahasa Indonesia yang lebih fleksibel urutannya. Jangan pula lupakan bahwa 给 bisa berdiri sendiri tanpa objek eksplisit kalau konteksnya sudah jelas (misal 我给你 = 'saya kasih ke kamu', objeknya dipahami dari konteks).",
+  "kesalahan_umum": [
+   {
+    "salah": "我给书你。",
+    "benar": "我给你书。",
+    "penjelasan": "给 diikuti PENERIMA dulu, baru objek — urutan ini tetap, tidak bisa dibalik seperti kebiasaan bahasa Indonesia.",
+    "salah_py": "Wǒ gěi shū nǐ.",
+    "benar_py": "Wǒ gěi nǐ shū."
+   },
+   {
+    "salah": "我给你给书。",
+    "benar": "我给你书。",
+    "penjelasan": "给 cukup disebut sekali di depan penerima — tidak perlu diulang lagi sebelum objek.",
+    "salah_py": "Wǒ gěi nǐ gěi shū.",
+    "benar_py": "Wǒ gěi nǐ shū."
+   },
+   {
+    "salah": "我给礼物你。",
+    "benar": "我给你礼物。",
+    "penjelasan": "给 harus diikuti PENERIMA dulu, baru objek — objek tidak boleh dipindah ke depan penerima.",
+    "salah_py": "Wǒ gěi lǐwù nǐ.",
+    "benar_py": "Wǒ gěi nǐ lǐwù."
+   },
+   {
+    "salah": "你给我吗书？",
+    "benar": "你给我书吗？",
+    "penjelasan": "吗 tetap harus di paling akhir kalimat, meskipun terasa ingin ditanyakan langsung setelah kata kerja 给.",
+    "salah_py": "Nǐ gěi wǒ ma shū?",
+    "benar_py": "Nǐ gěi wǒ shū ma?"
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "他给我打电话。",
+    "py": "Tā gěi wǒ dǎ diànhuà.",
+    "id": "Dia menelepon saya. (secara harfiah: memberi-saya menelepon)"
+   },
+   {
+    "cn": "老师给我们上课。",
+    "py": "Lǎoshī gěi wǒmen shàngkè.",
+    "id": "Guru mengajar kami. (secara harfiah: memberi-kami mengajar)"
+   },
+   {
+    "cn": "朋友给我买了礼物。",
+    "py": "Péngyǒu gěi wǒ mǎi le lǐwù.",
+    "id": "Teman membelikan saya hadiah."
+   },
+   {
+    "cn": "请给我一杯水。",
+    "py": "Qǐng gěi wǒ yībēi shuǐ.",
+    "id": "Tolong berikan saya segelas air."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "S-V-O",
+    "alasan": "给 bisa dianggap perluasan dari pola dasar ini, dengan tambahan slot khusus untuk penerima."
+   }
+  ]
+ },
+ "F-cong-dao": {
+  "penjelasan_dasar": "从…到 (cóng…dào) artinya 'dari…ke/sampai', dipakai untuk menyatakan RENTANG — baik rentang TEMPAT (dari kota A ke kota B) maupun rentang WAKTU (dari jam 9 sampai jam 5). Strukturnya cukup sederhana dan konsisten: 从 + titik awal + 到 + titik akhir, bisa ditambah kata kerja di akhir untuk menjelaskan aksi apa yang dilakukan dalam rentang itu.",
+  "perbandingan_indonesia": "Sama persis dengan 'dari…ke/sampai…' dalam bahasa Indonesia — 'Saya DARI rumah KE sekolah' = 我从家到学校. Urutan dan logikanya identik, tidak ada penyesuaian struktural yang perlu dilakukan. Salah satu pola paling mudah diingat karena strukturnya paralel sempurna dengan bahasa Indonesia.",
+  "kapan_tidak_boleh": "Jangan tukar posisi 从 dan 到 — 从 selalu menandai TITIK AWAL, 到 selalu menandai TITIK AKHIR, urutannya tidak bisa dibalik meski secara logika kalimat masih 'masuk akal' dibaca terbalik. Jangan pula campur rentang tempat dan waktu dalam satu frasa 从…到… yang sama tanpa kejelasan — pastikan kedua sisi konsisten: sama-sama tempat, atau sama-sama waktu.",
+  "kesalahan_umum": [
+   {
+    "salah": "我到家从学校。",
+    "benar": "我从学校到家。",
+    "penjelasan": "从 (dari) harus di depan sebagai titik awal, 到 (ke) harus di belakang sebagai titik akhir — urutan ini tetap, tidak bisa dibalik.",
+    "salah_py": "Wǒ dào jiā cóng xuéxiào.",
+    "benar_py": "Wǒ cóng xuéxiào dàojiā."
+   },
+   {
+    "salah": "我从学校到明天。",
+    "benar": "我从早上到晚上工作。",
+    "penjelasan": "Kedua sisi 从…到… harus konsisten jenisnya — sama-sama tempat, atau sama-sama waktu, tidak boleh dicampur dalam satu frasa yang sama.",
+    "salah_py": "Wǒ cóng xuéxiào dào míngtiān.",
+    "benar_py": "Wǒ cóng zǎoshàng dào wǎnshàng gōngzuò."
+   },
+   {
+    "salah": "从我家到很远学校。",
+    "benar": "我家到学校很远。",
+    "penjelasan": "很 (kata keterangan derajat untuk sifat 远) diletakkan di predikat kalimat, bukan disisipkan di antara 到 dan kata tempat tujuan.",
+    "salah_py": "Cóng wǒjiā dào hěn yuǎn xuéxiào.",
+    "benar_py": "Wǒjiā dào xuéxiào hěn yuǎn."
+   },
+   {
+    "salah": "到学校从我家。",
+    "benar": "从我家到学校。",
+    "penjelasan": "从 (titik awal) harus tetap di depan, 到 (titik akhir) tetap di belakang — seluruh frasa tidak boleh dibalik urutannya.",
+    "salah_py": "Dào xuéxiào cóng wǒjiā.",
+    "benar_py": "Cóng wǒjiā dào xuéxiào."
+   }
+  ],
+  "contoh_tambahan": [
+   {
+    "cn": "银行从九点到五点开门。",
+    "py": "Yínháng cóng jiǔ diǎn dào wǔ diǎn kāimén.",
+    "id": "Bank buka dari jam 9 sampai jam 5."
+   },
+   {
+    "cn": "从这里到那里很远。",
+    "py": "Cóng zhèlǐ dào nàlǐ hěn yuǎn.",
+    "id": "Dari sini ke sana sangat jauh."
+   },
+   {
+    "cn": "电影从七点演到九点。",
+    "py": "Diànyǐng cóng qīdiǎn yǎn dào jiǔdiǎn.",
+    "id": "Film itu diputar dari jam 7 sampai jam 9."
+   },
+   {
+    "cn": "我们从星期一忙到星期五。",
+    "py": "Wǒmen cóng xīngqīyī máng dào xīngqīwǔ.",
+    "id": "Kami sibuk dari hari Senin sampai Jumat."
+   }
+  ],
+  "pola_terkait": [
+   {
+    "key": "S-zai-L",
+    "alasan": "Kalau cuma perlu menyatakan SATU lokasi (bukan rentang dari-ke), cukup pakai 在 + Tempat."
+   }
+  ]
+ }
+}
