@@ -1,0 +1,1132 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mandarin Interaktif</title>
+  <link rel="stylesheet" href="shared/style.css" />
+  <script src="shared/core.js"></script>
+  <style>
+    /* ═══════════════════════════════════════════════════
+       CSS LOKAL index.html — Halaman landing
+    ═══════════════════════════════════════════════════ */
+
+    /* ── LAYOUT ────────────────────────────────────────── */
+    .landing-layout {
+      min-height: 100vh;
+      padding-top: var(--nav-h);
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ── HERO ──────────────────────────────────────────── */
+    .hero {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 64px 24px 48px;
+      gap: 18px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    /* Karakter latar belakang dekoratif */
+    .hero-bg-char {
+      position: absolute;
+      font-size: 28rem;
+      color: var(--gold);
+      opacity: 0.025;
+      line-height: 1;
+      pointer-events: none;
+      user-select: none;
+      letter-spacing: -8px;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-weight: 300;
+    }
+
+    .hero-label {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      color: var(--gold-dim);
+      position: relative;
+    }
+
+    .hero-title {
+      font-size: clamp(1.8rem, 4vw, 2.8rem);
+      font-weight: 600;
+      color: var(--text-main);
+      line-height: 1.2;
+      position: relative;
+      max-width: 600px;
+    }
+
+    .hero-title .accent {
+      color: var(--gold);
+    }
+
+    .hero-sub {
+      font-size: 0.95rem;
+      color: var(--text-dim);
+      line-height: 1.75;
+      max-width: 480px;
+      position: relative;
+    }
+
+    .hero-cta {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      justify-content: center;
+      position: relative;
+      margin-top: 6px;
+    }
+
+    .btn-hero {
+      padding: 11px 28px;
+      border-radius: var(--radius);
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all var(--transition);
+      border: 1px solid transparent;
+      text-decoration: none;
+    }
+
+    .btn-hero:hover {
+      text-decoration: none;
+    }
+
+    .btn-hero-primary {
+      background: var(--gold-bg);
+      border-color: var(--gold-dim);
+      color: var(--gold);
+    }
+
+    .btn-hero-primary:hover {
+      background: var(--gold-bg-hover);
+    }
+
+    .btn-hero-secondary {
+      background: var(--bg-card);
+      border-color: var(--border);
+      color: var(--text-dim);
+    }
+
+    .btn-hero-secondary:hover {
+      color: var(--text-main);
+      border-color: var(--text-muted);
+    }
+
+    /* Statistik data kecil */
+    .hero-stats {
+      display: flex;
+      gap: 24px;
+      flex-wrap: wrap;
+      justify-content: center;
+      position: relative;
+      margin-top: 4px;
+    }
+
+    .hero-stat {
+      text-align: center;
+    }
+
+    .hero-stat-val {
+      font-size: 1.3rem;
+      font-weight: 600;
+      color: var(--gold);
+      line-height: 1;
+    }
+
+    .hero-stat-label {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      margin-top: 4px;
+    }
+
+    .hero-stat-sep {
+      width: 1px;
+      height: 32px;
+      background: var(--border);
+      align-self: center;
+    }
+
+    /* ── DIVIDER ───────────────────────────────────────── */
+    .section-divider {
+      height: 1px;
+      background: var(--border);
+      margin: 0 24px;
+    }
+
+    /* ── GRID FITUR ────────────────────────────────────── */
+    .features-section {
+      padding: 48px 24px;
+      max-width: 960px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .section-title {
+      text-align: center;
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--text-muted);
+      margin-bottom: 28px;
+    }
+
+    .features-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+    }
+
+    .feature-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 24px;
+      transition: border-color var(--transition), background var(--transition);
+      text-decoration: none;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .feature-card:hover {
+      border-color: var(--border-gold);
+      background: var(--bg-hover);
+      text-decoration: none;
+    }
+
+    .feature-icon {
+      font-size: 1.8rem;
+      line-height: 1;
+    }
+
+    .feature-name {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--text-main);
+    }
+
+    .feature-desc {
+      font-size: 0.84rem;
+      color: var(--text-dim);
+      line-height: 1.65;
+    }
+
+    .feature-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      margin-top: 4px;
+    }
+
+    .feature-tag {
+      font-size: 0.68rem;
+      padding: 2px 8px;
+      border-radius: 99px;
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+    }
+
+    .feature-link {
+      margin-top: auto;
+      font-size: 0.8rem;
+      color: var(--gold-dim);
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .feature-card:hover .feature-link {
+      color: var(--gold);
+    }
+
+    /* ── RINGKASAN PROGRES ─────────────────────────────── */
+    .progress-section {
+      padding: 0 24px 48px;
+      max-width: 960px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .progress-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+    }
+
+    .progress-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 18px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .progress-card-label {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+    }
+
+    .progress-card-val {
+      font-size: 1.6rem;
+      font-weight: 600;
+      color: var(--gold);
+      line-height: 1;
+    }
+
+    .progress-card-sub {
+      font-size: 0.75rem;
+      color: var(--text-dim);
+    }
+
+    /* ── PROGRES PER LEVEL HSK ─────────────────────────── */
+    .level-progress-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .level-progress-row {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .level-progress-label {
+      width: 76px;
+      flex-shrink: 0;
+      font-size: 0.8rem;
+      color: var(--text-dim);
+      font-weight: 500;
+    }
+
+    .level-progress-track {
+      flex: 1;
+      height: 8px;
+      background: var(--bg-card2);
+      border: 1px solid var(--border);
+      border-radius: 99px;
+      overflow: hidden;
+    }
+
+    .level-progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--gold-dim), var(--gold));
+      border-radius: 99px;
+      transition: width 0.4s ease;
+    }
+
+    .level-progress-count {
+      width: 90px;
+      flex-shrink: 0;
+      text-align: right;
+      font-size: 0.76rem;
+      color: var(--text-muted);
+    }
+
+    /* ── STATISTIK LATIHAN NADA ────────────────────────── */
+    .tone-stats-note {
+      font-size: 0.82rem;
+      color: var(--text-dim);
+      margin-bottom: 14px;
+      padding: 10px 14px;
+      background: var(--bg-card2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+    }
+
+    .tone-stats-note strong {
+      color: var(--gold);
+    }
+
+    /* ── PETA 11 PILAR (A.4) ────────────────────────────── */
+    .pilar-cta-section {
+      padding: 0 24px;
+      max-width: 960px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .pilar-cta-card {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      background: var(--bg-card);
+      border: 1px solid var(--border-gold);
+      border-radius: var(--radius-lg);
+      padding: 22px 26px;
+      text-decoration: none;
+      transition: background var(--transition), border-color var(--transition);
+    }
+    .pilar-cta-card:hover {
+      background: var(--gold-bg);
+      text-decoration: none;
+    }
+
+    .pilar-cta-icon {
+      font-size: 2.2rem;
+      flex-shrink: 0;
+      line-height: 1;
+    }
+
+    .pilar-cta-text { flex: 1; min-width: 0; }
+
+    .pilar-cta-title {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--text-main);
+      margin-bottom: 4px;
+    }
+
+    .pilar-cta-desc {
+      font-size: 0.82rem;
+      color: var(--text-dim);
+      line-height: 1.6;
+    }
+
+    .pilar-cta-arrow {
+      font-size: 1.3rem;
+      color: var(--gold-dim);
+      flex-shrink: 0;
+      transition: color var(--transition), transform var(--transition);
+    }
+    .pilar-cta-card:hover .pilar-cta-arrow {
+      color: var(--gold);
+      transform: translateX(3px);
+    }
+
+    @media (max-width: 600px) {
+      .pilar-cta-card { flex-direction: column; text-align: center; padding: 20px; }
+    }
+
+    /* ── KATA HARI INI ─────────────────────────────────── */
+    .wotd-section {
+      padding: 0 24px 48px;
+      max-width: 960px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .wotd-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-gold);
+      border-radius: var(--radius-lg);
+      padding: 28px 32px;
+      display: flex;
+      align-items: center;
+      gap: 28px;
+      flex-wrap: wrap;
+    }
+
+    .wotd-hanzi {
+      font-size: 72px;
+      color: var(--text-main);
+      font-weight: 300;
+      line-height: 1;
+      flex-shrink: 0;
+    }
+
+    .wotd-info {
+      flex: 1;
+      min-width: 160px;
+    }
+
+    .wotd-pinyin {
+      font-size: 1.2rem;
+      color: var(--gold);
+      margin-bottom: 4px;
+    }
+
+    .wotd-meaning {
+      font-size: 0.9rem;
+      color: var(--text-dim);
+      line-height: 1.6;
+      margin-bottom: 10px;
+    }
+
+    .wotd-actions {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .wotd-date {
+      font-size: 0.7rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 10px;
+    }
+
+    /* ── FOOTER ────────────────────────────────────────── */
+    .app-footer {
+      margin-top: auto;
+      border-top: 1px solid var(--border);
+      padding: 18px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .footer-brand {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .footer-brand .hanzi-logo {
+      color: var(--gold);
+      font-size: 1rem;
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 14px;
+    }
+
+    .footer-link {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      transition: color var(--transition);
+    }
+
+    .footer-link:hover {
+      color: var(--text-dim);
+      text-decoration: none;
+    }
+
+    /* ── RESPONSIVE ────────────────────────────────────── */
+    @media (max-width: 600px) {
+      .hero { padding: 40px 16px 32px; }
+      .wotd-card { flex-direction: column; align-items: flex-start; gap: 16px; }
+      .wotd-hanzi { font-size: 52px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ══════════════════════════════════════════════════
+     NAVBAR
+══════════════════════════════════════════════════ -->
+<nav class="app-nav">
+  <a href="index.html" class="nav-brand">
+    <span class="hanzi-logo">漢</span>
+    <span>Mandarin Interaktif</span>
+  </a>
+  <div class="nav-links">
+    <a href="kamus.html"       class="nav-link">Kamus</a>
+    <a href="flashcard.html"   class="nav-link">Flashcard</a>
+    <a href="wordbuilder.html" class="nav-link">Word Builder</a>
+    <a href="tone.html"        class="nav-link">Tone</a>
+    <a href="graded-reader.html" class="nav-link">Bacaan</a>
+    <a href="hsk-exam.html"    class="nav-link">Ujian HSK</a>
+    <a href="tatabahasa.html"    class="nav-link">Tata Bahasa</a>
+    <a href="terjemah-bebas.html" class="nav-link">Terjemah Bebas</a>
+    <a href="peta-bahasa.html"   class="nav-link">Peta Bahasa</a>
+  </div>
+</nav>
+
+<!-- ══════════════════════════════════════════════════
+     LAYOUT
+══════════════════════════════════════════════════ -->
+<div class="landing-layout">
+
+  <!-- ── HERO ── -->
+  <section class="hero">
+    <div class="hero-bg-char">漢字</div>
+    <div class="hero-label">Aplikasi Belajar Mandarin</div>
+    <h1 class="hero-title">
+      Kuasai <span class="accent">汉字</span><br>satu kata setiap hari
+    </h1>
+    <p class="hero-sub">
+      Kamus 11.725 kata HSK + 125.000 kata Cidict, flashcard SRS cerdas,
+      dan pembangun kalimat interaktif — semua dalam satu aplikasi offline.
+    </p>
+    <div class="hero-cta">
+      <a href="kamus.html"     class="btn-hero btn-hero-primary">Buka Kamus →</a>
+      <a href="flashcard.html" class="btn-hero btn-hero-secondary">Mulai Flashcard</a>
+    </div>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <div class="hero-stat-val">11.470</div>
+        <div class="hero-stat-label">Kata HSK</div>
+      </div>
+      <div class="hero-stat-sep"></div>
+      <div class="hero-stat">
+        <div class="hero-stat-val">121 K</div>
+        <div class="hero-stat-label">Kata Cidict</div>
+      </div>
+      <div class="hero-stat-sep"></div>
+      <div class="hero-stat">
+        <div class="hero-stat-val">34</div>
+        <div class="hero-stat-label">Pola Kalimat</div>
+      </div>
+      <div class="hero-stat-sep"></div>
+      <div class="hero-stat">
+        <div class="hero-stat-val">SM-2</div>
+        <div class="hero-stat-label">Algoritma SRS</div>
+      </div>
+    </div>
+  </section>
+
+  <div class="section-divider"></div>
+
+  <!-- ── PETA 11 PILAR (A.4) ── -->
+  <section class="pilar-cta-section">
+    <a href="peta-bahasa.html" class="pilar-cta-card">
+      <div class="pilar-cta-icon">🗺️</div>
+      <div class="pilar-cta-text">
+        <div class="pilar-cta-title">Peta 11 Pilar Bahasa Mandarin</div>
+        <div class="pilar-cta-desc">
+          Lihat kerangka menyeluruh bahasa Mandarin — dari fonetik sampai variasi bahasa —
+          dan status tiap bagiannya di aplikasi ini, lengkap tombol lompat langsung.
+        </div>
+      </div>
+      <div class="pilar-cta-arrow">→</div>
+    </a>
+  </section>
+
+  <div class="section-divider"></div>
+
+  <!-- ── KATA HARI INI ── -->
+  <section class="wotd-section">
+    <div class="section-title">Kata Hari Ini</div>
+    <div class="wotd-card" id="wotd-card">
+      <div class="wotd-hanzi" id="wotd-hanzi">…</div>
+      <div class="wotd-info">
+        <div class="wotd-date" id="wotd-date"></div>
+        <div class="wotd-pinyin"   id="wotd-pinyin"></div>
+        <div class="wotd-meaning"  id="wotd-meaning"></div>
+        <div class="wotd-actions">
+          <button class="btn-action btn-primary"   onclick="wotdToFlashcard()">+ Flashcard</button>
+          <a      class="btn-action btn-secondary" id="wotd-kamus-link" href="kamus.html">Lihat di Kamus →</a>
+        </div>
+      </div>
+      <div>
+        <span class="badge-hsk" id="wotd-hsk-badge"></span>
+      </div>
+    </div>
+  </section>
+
+  <div class="section-divider"></div>
+
+  <!-- ── RINGKASAN PROGRES ── -->
+  <section class="progress-section">
+    <div class="section-title">Progres Belajar</div>
+    <div class="progress-grid">
+      <div class="progress-card">
+        <div class="progress-card-label">Total Dipelajari</div>
+        <div class="progress-card-val" id="stat-total-learned">0</div>
+        <div class="progress-card-sub">kata dalam SRS</div>
+      </div>
+      <div class="progress-card">
+        <div class="progress-card-label">Jatuh Tempo Hari Ini</div>
+        <div class="progress-card-val" id="stat-due-today">0</div>
+        <div class="progress-card-sub">kartu perlu diulang</div>
+      </div>
+      <div class="progress-card">
+        <div class="progress-card-label">Kartu Matang</div>
+        <div class="progress-card-val" id="stat-mature">0</div>
+        <div class="progress-card-sub">interval ≥ 21 hari</div>
+      </div>
+      <div class="progress-card">
+        <div class="progress-card-label">Kata Tersimpan</div>
+        <div class="progress-card-val" id="stat-bookmarks">0</div>
+        <div class="progress-card-sub">di koleksi kamu</div>
+      </div>
+      <div class="progress-card">
+        <div class="progress-card-label">Streak Harian</div>
+        <div class="progress-card-val" id="stat-streak">0</div>
+        <div class="progress-card-sub" id="stat-streak-sub">hari berturut-turut</div>
+      </div>
+      <div class="progress-card">
+        <div class="progress-card-label">Rata-rata Ujian HSK</div>
+        <div class="progress-card-val" id="stat-exam-avg">—</div>
+        <div class="progress-card-sub" id="stat-exam-sub">belum ada ujian</div>
+      </div>
+      <div class="progress-card">
+        <div class="progress-card-label">Akurasi Latihan Nada</div>
+        <div class="progress-card-val" id="stat-tone-avg">—</div>
+        <div class="progress-card-sub" id="stat-tone-sub">belum ada latihan</div>
+      </div>
+    </div>
+  </section>
+
+  <div class="section-divider"></div>
+
+  <!-- ── PROGRES PER LEVEL HSK ── -->
+  <section class="progress-section">
+    <div class="section-title">Progres per Level HSK</div>
+    <div class="level-progress-list" id="level-progress-list">
+      <!-- diisi oleh renderLevelBreakdown() -->
+    </div>
+  </section>
+
+  <div class="section-divider"></div>
+
+  <!-- ── STATISTIK LATIHAN NADA PER NADA ── -->
+  <section class="progress-section" id="tone-stats-section" style="display:none">
+    <div class="section-title">Statistik Latihan Nada</div>
+    <div class="tone-stats-note" id="tone-stats-note"></div>
+    <div class="level-progress-list" id="tone-progress-list">
+      <!-- diisi oleh renderToneBreakdown() -->
+    </div>
+  </section>
+
+  <div class="section-divider"></div>
+
+  <!-- ── GRID FITUR ── -->
+  <section class="features-section">
+    <div class="section-title">Fitur Aplikasi</div>
+    <div class="features-grid">
+
+      <a href="kamus.html" class="feature-card">
+        <div class="feature-icon">📖</div>
+        <div class="feature-name">Kamus Mandarin</div>
+        <div class="feature-desc">
+          Cari kata berdasarkan hanzi, pinyin, atau arti Indonesia.
+          Lengkap dengan komponen karakter, radikal, goresan, tema, dan sinonim.
+        </div>
+        <div class="feature-tags">
+          <span class="feature-tag">11.725 kata HSK</span>
+          <span class="feature-tag">125K Cidict</span>
+          <span class="feature-tag">Cari otomatis</span>
+        </div>
+        <div class="feature-link">Buka Kamus →</div>
+      </a>
+
+      <a href="flashcard.html" class="feature-card">
+        <div class="feature-icon">🃏</div>
+        <div class="feature-name">Flashcard SRS</div>
+        <div class="feature-desc">
+          Sistem pengulangan terjadwal berbasis algoritma SM-2.
+          Kartu muncul tepat saat kamu hampir lupa — belajar efisien, bukan keras.
+        </div>
+        <div class="feature-tags">
+          <span class="feature-tag">Algoritma SM-2</span>
+          <span class="feature-tag">Per Level HSK</span>
+          <span class="feature-tag">Per Tema</span>
+        </div>
+        <div class="feature-link">Mulai Flashcard →</div>
+      </a>
+
+      <a href="wordbuilder.html" class="feature-card">
+        <div class="feature-icon">🔨</div>
+        <div class="feature-name">Word Builder</div>
+        <div class="feature-desc">
+          Susun kalimat Mandarin dengan memilih kata dari dropdown.
+          34 pola kalimat dari dasar hingga mahir, lengkap tip sintaksis dan contoh.
+        </div>
+        <div class="feature-tags">
+          <span class="feature-tag">34 Pola</span>
+          <span class="feature-tag">S+V+O, 把, 被</span>
+          <span class="feature-tag">Kalimat Majemuk</span>
+        </div>
+        <div class="feature-link">Coba Word Builder →</div>
+      </a>
+
+      <a href="tone.html" class="feature-card">
+        <div class="feature-icon">🎵</div>
+        <div class="feature-name">Latihan Nada</div>
+        <div class="feature-desc">
+          Latih telinga membedakan 4 nada Mandarin lewat mode Pilih Nada
+          dan Pilih Hanzi, lengkap pasangan minimal yang mirip bunyinya.
+        </div>
+        <div class="feature-tags">
+          <span class="feature-tag">4 Nada</span>
+          <span class="feature-tag">Minimal Pair</span>
+        </div>
+        <div class="feature-link">Latih Nada →</div>
+      </a>
+
+      <a href="graded-reader.html" class="feature-card">
+        <div class="feature-icon">📗</div>
+        <div class="feature-name">Bacaan Berjenjang</div>
+        <div class="feature-desc">
+          123 bacaan &amp; percakapan berjenjang HSK, klik kata untuk lihat
+          arti langsung, plus terjemahan dan audio per paragraf. Bisa
+          upload bacaan sendiri.
+        </div>
+        <div class="feature-tags">
+          <span class="feature-tag">Semua Level HSK</span>
+          <span class="feature-tag">Bacaan &amp; Percakapan</span>
+          <span class="feature-tag">Klik Kata</span>
+        </div>
+        <div class="feature-link">Mulai Membaca →</div>
+      </a>
+
+      <a href="hsk-exam.html" class="feature-card">
+        <div class="feature-icon">📝</div>
+        <div class="feature-name">Simulasi Ujian HSK</div>
+        <div class="feature-desc">
+          Ujian bertimer dengan 4 jenis soal: Kosakata, Mendengar, Bacaan,
+          dan Tata Bahasa. Hasil lengkap dengan breakdown per jenis soal.
+        </div>
+        <div class="feature-tags">
+          <span class="feature-tag">7 Level</span>
+          <span class="feature-tag">Bertimer</span>
+        </div>
+        <div class="feature-link">Mulai Ujian →</div>
+      </a>
+
+      <a href="tatabahasa.html" class="feature-card">
+        <div class="feature-icon">📘</div>
+        <div class="feature-name">Dunia Tata Bahasa</div>
+        <div class="feature-desc">
+          Rujukan lengkap pola kalimat per level HSK — bukan latihan, tapi
+          bahan baca. 770+ poin tata bahasa dari HSK1 sampai HSK9.
+        </div>
+        <div class="feature-tags">
+          <span class="feature-tag">HSK1–9</span>
+          <span class="feature-tag">770+ Poin</span>
+        </div>
+        <div class="feature-link">Buka Tata Bahasa →</div>
+      </a>
+
+      <a href="terjemah-bebas.html" class="feature-card">
+        <div class="feature-icon">🔍</div>
+        <div class="feature-name">Terjemah Bebas</div>
+        <div class="feature-desc">
+          Tempel teks Mandarin dari mana saja — tekan Terjemahkan untuk lihat
+          daftar arti tiap kata sekaligus.
+        </div>
+        <div class="feature-tags">
+          <span class="feature-tag">Tempel Teks</span>
+          <span class="feature-tag">Per Kata</span>
+        </div>
+        <div class="feature-link">Coba Terjemah Bebas →</div>
+      </a>
+
+    </div>
+  </section>
+
+  <!-- ── FOOTER ── -->
+  <footer class="app-footer">
+    <div class="footer-brand">
+      <span class="hanzi-logo">漢</span>
+      <span>Mandarin Interaktif — Berjalan offline, data tersimpan lokal</span>
+    </div>
+    <div class="footer-links">
+      <a href="kamus.html"       class="footer-link">Kamus</a>
+      <a href="flashcard.html"   class="footer-link">Flashcard</a>
+      <a href="wordbuilder.html" class="footer-link">Word Builder</a>
+      <a href="tone.html"        class="footer-link">Tone</a>
+      <a href="graded-reader.html" class="footer-link">Bacaan</a>
+      <a href="hsk-exam.html"    class="footer-link">Ujian HSK</a>
+      <a href="tatabahasa.html"    class="footer-link">Tata Bahasa</a>
+      <a href="terjemah-bebas.html" class="footer-link">Terjemah Bebas</a>
+      <a href="peta-bahasa.html"   class="footer-link">Peta Bahasa</a>
+    </div>
+  </footer>
+
+</div><!-- /landing-layout -->
+
+<script>
+/* ═══════════════════════════════════════════════════════════════
+   index.html — JS: Kata Hari Ini + Progres dari localStorage
+═══════════════════════════════════════════════════════════════ */
+'use strict';
+
+/* ── UTILS ─────────────────────────────────────────────────── */
+function today() {
+  return new Date().toISOString().slice(0, 10);
+}
+
+function formatDate(dateStr) {
+  const d = new Date(dateStr + 'T00:00:00');
+  return d.toLocaleDateString('id-ID', { weekday:'long', day:'numeric', month:'long', year:'numeric' });
+}
+
+/* ── DATA KAMUS (dipakai bareng Kata Hari Ini + Breakdown Level) ──
+   Fetch sekali, di-cache, supaya tidak dobel-fetch app_words.json. */
+let appWordsPromise = null;
+function loadAppWords() {
+  if (appWordsPromise) return appWordsPromise;
+  appWordsPromise = fetch('data/app_words.json').then(res => {
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    return res.json();
+  });
+  return appWordsPromise;
+}
+
+/* ── KATA HARI INI ─────────────────────────────────────────── */
+async function loadWotd() {
+  try {
+    const words = await loadAppWords();
+    // Pilih kata berdasarkan tanggal (konsisten per hari)
+    const todayStr = today();
+    const seed = todayStr.replace(/-/g, '');
+    const idx  = parseInt(seed) % words.length;
+    const word = words[idx];
+
+    const simplified = word.simplified || word.id || '';
+    const pinyin     = word.pinyin || '';
+    const hskLv      = word.hsk;
+
+    // Arti Indonesia
+    let meaning = '';
+    if (Array.isArray(word.meanings_id) && word.meanings_id.length) {
+      meaning = word.meanings_id.slice(0, 3).join('; ');
+    } else if (word.meanings_id) {
+      meaning = String(word.meanings_id);
+    }
+
+    // Update DOM
+    document.getElementById('wotd-hanzi').textContent   = simplified;
+    document.getElementById('wotd-pinyin').textContent  = pinyin;
+    document.getElementById('wotd-meaning').textContent = meaning;
+    document.getElementById('wotd-date').textContent    = formatDate(todayStr);
+
+    // Badge HSK
+    const badge = document.getElementById('wotd-hsk-badge');
+    if (hskLv) {
+      const l = parseInt(hskLv);
+      const cls = l >= 7 ? 'hsk-7' : `hsk-${l}`;
+      const lbl = l >= 7 ? 'HSK 7-9' : `HSK ${l}`;
+      badge.className   = `badge-hsk ${cls}`;
+      badge.textContent = lbl;
+    }
+
+    // Link ke kamus
+    document.getElementById('wotd-kamus-link').href =
+      `kamus.html#search=${encodeURIComponent(simplified)}`;
+
+    // Simpan di sessionStorage untuk tombol flashcard
+    sessionStorage.setItem('wotd_id', simplified);
+    sessionStorage.setItem('wotd_data', JSON.stringify(word));
+
+  } catch (e) {
+    document.getElementById('wotd-hanzi').textContent  = '⚠';
+    document.getElementById('wotd-pinyin').textContent = '';
+    document.getElementById('wotd-meaning').textContent = '';
+    const card = document.getElementById('wotd-card');
+    if (card) card.innerHTML = `
+      <div style="color:var(--red);padding:8px;max-width:500px">
+        <div style="font-weight:600;margin-bottom:8px;color:var(--text-main)">⚠ Gagal Memuat Data</div>
+        <div style="font-size:0.83rem;line-height:1.8;color:var(--text-dim)">
+          Browser memblokir akses file lokal (CORS). Buka terminal di folder
+          <strong>mandarin_app/</strong> lalu jalankan:<br>
+          <code style="background:var(--bg-card2);padding:4px 12px;border-radius:4px;display:inline-block;margin:6px 0;color:var(--gold)">python -m http.server 8000</code><br>
+          Kemudian buka: <strong>http://localhost:8000</strong>
+        </div>
+      </div>`;
+  }
+}
+
+/* ── WOTD → FLASHCARD ──────────────────────────────────────── */
+function wotdToFlashcard() {
+  const id = sessionStorage.getItem('wotd_id');
+  if (!id) return;
+  try {
+    const srs  = JSON.parse(localStorage.getItem('mandarin_srs_v1') || '{}');
+    if (srs[id]) {
+      alert('Kata "' + id + '" sudah ada di flashcard kamu.');
+      return;
+    }
+    srs[id] = { interval:1, ease:2.5, due:today(), reps:0, lapses:0 };
+    localStorage.setItem('mandarin_srs_v1', JSON.stringify(srs));
+    alert('✓ Kata "' + id + '" ditambahkan ke flashcard!');
+    loadProgress(); // refresh stat
+  } catch (e) {
+    alert('Gagal menyimpan.');
+  }
+}
+
+/* ── PROGRES ───────────────────────────────────────────────── */
+function loadProgress() {
+  try {
+    const srs     = JSON.parse(localStorage.getItem('mandarin_srs_v1') || '{}');
+    const entries = Object.values(srs);
+    const todayStr = today();
+
+    const total    = entries.length;
+    const dueToday = entries.filter(c => c.due <= todayStr).length;
+    const mature   = entries.filter(c => (c.interval || 0) >= 21).length;
+    const bookmarks = JSON.parse(localStorage.getItem('mandarin_bookmarks') || '[]').length;
+
+    document.getElementById('stat-total-learned').textContent = total;
+    document.getElementById('stat-due-today').textContent     = dueToday;
+    document.getElementById('stat-mature').textContent        = mature;
+    document.getElementById('stat-bookmarks').textContent     = bookmarks;
+  } catch (e) { /* abaikan */ }
+}
+
+/* ── STREAK HARIAN ─────────────────────────────────────────── */
+// Nilainya sendiri sudah di-update oleh touchStreak() di shared/core.js
+// (jalan otomatis begitu core.js dimuat) -- di sini cuma menampilkan.
+function loadStreak() {
+  try {
+    const s = JSON.parse(localStorage.getItem('mandarin_streak_v1') || 'null');
+    const val = s ? (s.current || 0) : 0;
+    document.getElementById('stat-streak').textContent = val;
+    const sub = document.getElementById('stat-streak-sub');
+    if (s && s.longest > val) {
+      sub.textContent = `hari · terpanjang ${s.longest} hari`;
+    } else {
+      sub.textContent = 'hari berturut-turut';
+    }
+  } catch (e) { /* abaikan */ }
+}
+
+/* ── STATISTIK UJIAN HSK ──────────────────────────────────────
+   Baca riwayat dari hsk-exam.html (mandarin_hsk_history_v1), format
+   entri: { ts, level, percent, correct, total, byType }. */
+function loadExamStats() {
+  try {
+    const history = JSON.parse(localStorage.getItem('mandarin_hsk_history_v1') || '[]');
+    const valEl = document.getElementById('stat-exam-avg');
+    const subEl = document.getElementById('stat-exam-sub');
+    if (!history.length) {
+      valEl.textContent = '—';
+      subEl.textContent = 'belum ada ujian';
+      return;
+    }
+    const avg = Math.round(history.reduce((sum, h) => sum + (h.percent || 0), 0) / history.length);
+    valEl.textContent = avg + '%';
+    subEl.textContent = `dari ${history.length} ujian`;
+  } catch (e) { /* abaikan */ }
+}
+
+/* ── STATISTIK LATIHAN NADA ────────────────────────────────────
+   Baca riwayat dari tone.html (mandarin_tone_stats_v1), format:
+   { total:{ok,bad}, byTone:{1:{ok,bad},2,3,4},
+     byMode:{nada:{ok,bad},hanzi:{ok,bad}}, lastPracticed }. */
+const TONE_LABELS = { 1: 'Nada 1 (ˉ)', 2: 'Nada 2 (ˊ)', 3: 'Nada 3 (ˇ)', 4: 'Nada 4 (ˋ)' };
+
+function loadToneStats() {
+  const valEl  = document.getElementById('stat-tone-avg');
+  const subEl  = document.getElementById('stat-tone-sub');
+  const section = document.getElementById('tone-stats-section');
+
+  try {
+    const stats = JSON.parse(localStorage.getItem('mandarin_tone_stats_v1') || 'null');
+    const totalAttempted = stats ? (stats.total.ok + stats.total.bad) : 0;
+
+    if (!stats || totalAttempted === 0) {
+      valEl.textContent = '—';
+      subEl.textContent = 'belum ada latihan';
+      section.style.display = 'none';
+      return;
+    }
+
+    const pct = Math.round((stats.total.ok / totalAttempted) * 100);
+    valEl.textContent = pct + '%';
+    subEl.textContent = `dari ${totalAttempted.toLocaleString('id')} soal`;
+
+    renderToneBreakdown(stats);
+    section.style.display = '';
+  } catch (e) {
+    valEl.textContent = '—';
+    subEl.textContent = 'belum ada latihan';
+    section.style.display = 'none';
+  }
+}
+
+function renderToneBreakdown(stats) {
+  const listEl = document.getElementById('tone-progress-list');
+  const noteEl = document.getElementById('tone-stats-note');
+
+  // Cari nada dengan akurasi TERENDAH (min. 3 percobaan supaya cukup
+  // representatif, bukan cuma kebetulan 1x salah) -- insight paling
+  // berguna buat رسلان: tahu nada mana yang perlu difokuskan.
+  let weakest = null;
+  [1, 2, 3, 4].forEach(t => {
+    const s = stats.byTone[t] || { ok: 0, bad: 0 };
+    const attempted = s.ok + s.bad;
+    if (attempted < 3) return;
+    const acc = s.ok / attempted;
+    if (!weakest || acc < weakest.acc) weakest = { tone: t, acc, attempted };
+  });
+
+  if (weakest) {
+    noteEl.innerHTML = `🎯 Nada yang paling perlu dilatih: <strong>${TONE_LABELS[weakest.tone]}</strong> — akurasi ${Math.round(weakest.acc * 100)}%
+      <a href="tone.html?focus=${weakest.tone}" style="margin-left:10px;color:var(--gold);text-decoration:underline;font-size:0.8rem">Latih sekarang →</a>`;
+    noteEl.style.display = '';
+  } else {
+    noteEl.style.display = 'none';
+  }
+
+  listEl.innerHTML = [1, 2, 3, 4].map(t => {
+    const s = stats.byTone[t] || { ok: 0, bad: 0 };
+    const attempted = s.ok + s.bad;
+    const pct = attempted ? Math.round((s.ok / attempted) * 100) : 0;
+    return `
+      <div class="level-progress-row">
+        <div class="level-progress-label">${TONE_LABELS[t]}</div>
+        <div class="level-progress-track">
+          <div class="level-progress-fill" style="width:${pct}%"></div>
+        </div>
+        <div class="level-progress-count">${s.ok} / ${attempted} (${pct}%)</div>
+      </div>`;
+  }).join('');
+}
+
+/* ── BREAKDOWN PROGRES PER LEVEL HSK ──────────────────────────
+   Pakai data app_words.json (di-cache bareng loadWotd) + srs data --
+   kata dianggap "dipelajari" kalau sudah punya entri SRS (mulai
+   ditambahkan ke Flashcard), terlepas dari sudah matang atau belum. */
+async function renderLevelBreakdown() {
+  const listEl = document.getElementById('level-progress-list');
+  try {
+    const words = await loadAppWords();
+    const srs   = JSON.parse(localStorage.getItem('mandarin_srs_v1') || '{}');
+
+    const totals  = {};
+    const learned = {};
+    for (let lv = 1; lv <= 7; lv++) { totals[lv] = 0; learned[lv] = 0; }
+
+    words.forEach(w => {
+      const lv = parseInt(w.hsk);
+      if (!lv || lv < 1 || lv > 7) return;
+      totals[lv]++;
+      const id = w.simplified || w.id;
+      if (srs[id]) learned[lv]++;
+    });
+
+    listEl.innerHTML = [1, 2, 3, 4, 5, 6, 7].map(lv => {
+      const total = totals[lv] || 0;
+      const learn = learned[lv] || 0;
+      const pct   = total ? Math.round((learn / total) * 100) : 0;
+      const label = lv === 7 ? 'HSK 7-9' : `HSK ${lv}`;
+      return `
+        <div class="level-progress-row">
+          <div class="level-progress-label">${label}</div>
+          <div class="level-progress-track">
+            <div class="level-progress-fill" style="width:${pct}%"></div>
+          </div>
+          <div class="level-progress-count">${learn} / ${total} (${pct}%)</div>
+        </div>`;
+    }).join('');
+  } catch (e) {
+    listEl.innerHTML = '<div style="color:var(--text-muted);font-size:0.85rem">Gagal memuat data breakdown.</div>';
+  }
+}
+
+/* ── INIT ───────────────────────────────────────────────────── */
+document.addEventListener('DOMContentLoaded', () => {
+  loadWotd();
+  loadProgress();
+  loadStreak();
+  loadExamStats();
+  loadToneStats();
+  renderLevelBreakdown();
+});
+</script>
+</body>
+</html>
