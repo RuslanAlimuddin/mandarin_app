@@ -1,0 +1,3929 @@
+{
+  "pilar": 11,
+  "judul": "VARIASI BAHASA, SEJARAH, DAN PERKEMBANGAN MODERN (语言变体、历史与现代发展 - Yǔyán Biàntǐ, Lìshǐ, Hé Xiàndài Fāzhǎn)",
+  "ringkasan": "Pilar ini membahas Mandarin sebagai bahasa yang hidup dan terus berubah, mulai dari aksara tradisional dan sederhana, radikal serta goresan, dialek dan variasi regional, bahasa klasik, sejarah perkembangan, serapan bahasa asing, hingga bahasa gaul internet, game, bisnis, cinta, dan media sosial. Pemahaman variasi historis, geografis, sosial, dan digital membantu pembelajar memahami bukan hanya cara berbahasa Mandarin, tetapi juga konteks budaya di balik penggunaannya.",
+  "bagian": [
+    {
+      "judul": "1. Aksara Sederhana vs Tradisional (简体字 vs 繁体字 - Jiǎntǐzì vs Fántǐzì)",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Aksara tradisional <span class=\"hz\">繁体字</span> (<span class=\"py\">fántǐzì</span>) mempertahankan bentuk historis yang kompleks dan telah digunakan selama ribuan tahun. Aksara sederhana <span class=\"hz\">简体字</span> (<span class=\"py\">jiǎntǐzì</span>) disederhanakan secara resmi oleh Republik Rakyat Tiongkok pada 1956 terutama untuk meningkatkan literasi. Penyederhanaan mengurangi jumlah goresan rata-rata sekitar 40–50 persen dan sebagian bentuknya didasarkan pada bentuk kursif yang sebelumnya telah digunakan secara informal."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Aspek",
+            "Aksara Tradisional",
+            "Aksara Sederhana"
+          ],
+          "baris": [
+            [
+              "Nama",
+              "<span class=\"hz\">繁体字</span> (<span class=\"py\">fántǐzì</span>)",
+              "<span class=\"hz\">简体字</span> (<span class=\"py\">jiǎntǐzì</span>)"
+            ],
+            [
+              "Penggunaan utama",
+              "Taiwan, Hong Kong, Makau, dan komunitas Tionghoa perantauan",
+              "Tiongkok Daratan, Singapura, dan Malaysia"
+            ],
+            [
+              "Bentuk",
+              "Lebih kompleks dan mempertahankan banyak komponen historis",
+              "Lebih sederhana dan umumnya memiliki lebih sedikit goresan"
+            ],
+            [
+              "Sejarah modern",
+              "Mempertahankan sistem tradisional",
+              "Diresmikan secara luas oleh RRT pada 1956"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "愛",
+              "pinyin": "ài",
+              "arti": "cinta",
+              "catatan": "Bentuk sederhana: 爱; bagian 心 dihilangkan dari bentuk tradisional."
+            },
+            {
+              "hanzi": "國",
+              "pinyin": "guó",
+              "arti": "negara",
+              "catatan": "Bentuk sederhana: 国."
+            },
+            {
+              "hanzi": "學",
+              "pinyin": "xué",
+              "arti": "belajar",
+              "catatan": "Bentuk sederhana: 学."
+            },
+            {
+              "hanzi": "體",
+              "pinyin": "tǐ",
+              "arti": "badan",
+              "catatan": "Bentuk sederhana: 体."
+            },
+            {
+              "hanzi": "龍",
+              "pinyin": "lóng",
+              "arti": "naga",
+              "catatan": "Bentuk sederhana: 龙."
+            },
+            {
+              "hanzi": "開",
+              "pinyin": "kāi",
+              "arti": "buka",
+              "catatan": "Bentuk sederhana: 开."
+            },
+            {
+              "hanzi": "關",
+              "pinyin": "guān",
+              "arti": "tutup",
+              "catatan": "Bentuk sederhana: 关."
+            },
+            {
+              "hanzi": "飛機",
+              "pinyin": "fēijī",
+              "arti": "pesawat",
+              "catatan": "Bentuk sederhana: 飞机; kedua karakter disederhanakan."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Banyak orang Tiongkok Daratan dapat membaca aksara tradisional walaupun tidak selalu dapat menulisnya.",
+            "Konversi otomatis antara aksara sederhana dan tradisional sangat mudah dilakukan pada era digital.",
+            "Aksara tradisional tetap penting untuk membaca materi dari Taiwan, Hong Kong, Makau, dan sebagian komunitas Tionghoa perantauan."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap aksara sederhana sebagai bahasa yang berbeda. Sederhana dan tradisional adalah dua sistem penulisan karakter yang terutama berbeda dalam bentuk grafis."
+        }
+      ]
+    },
+    {
+      "judul": "2. Radikal (部首 - Bùshǒu) dan Goresan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Radikal <span class=\"hz\">部首</span> (<span class=\"py\">bùshǒu</span>) merupakan komponen dasar yang dapat memberikan petunjuk mengenai makna atau kelompok semantis suatu karakter. Sistem Kangxi secara tradisional mengenal 214 radikal."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Radikal",
+            "Pinyin",
+            "Goresan",
+            "Petunjuk makna",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">亻</span>",
+              "<span class=\"py\">rén</span>",
+              "2",
+              "Orang",
+              "<span class=\"hz\">你</span>, <span class=\"hz\">他</span>, <span class=\"hz\">们</span>"
+            ],
+            [
+              "<span class=\"hz\">氵</span>",
+              "<span class=\"py\">shuǐ</span>",
+              "3",
+              "Air",
+              "<span class=\"hz\">河</span>, <span class=\"hz\">海</span>, <span class=\"hz\">流</span>"
+            ],
+            [
+              "<span class=\"hz\">火</span>",
+              "<span class=\"py\">huǒ</span>",
+              "4",
+              "Api",
+              "<span class=\"hz\">烧</span>, <span class=\"hz\">灯</span>, <span class=\"hz\">热</span>"
+            ],
+            [
+              "<span class=\"hz\">木</span>",
+              "<span class=\"py\">mù</span>",
+              "4",
+              "Kayu",
+              "<span class=\"hz\">树</span>, <span class=\"hz\">林</span>, <span class=\"hz\">桌</span>"
+            ],
+            [
+              "<span class=\"hz\">金</span>",
+              "<span class=\"py\">jīn</span>",
+              "8",
+              "Logam",
+              "<span class=\"hz\">银</span>, <span class=\"hz\">钱</span>, <span class=\"hz\">钟</span>"
+            ],
+            [
+              "<span class=\"hz\">土</span>",
+              "<span class=\"py\">tǔ</span>",
+              "3",
+              "Tanah",
+              "<span class=\"hz\">地</span>, <span class=\"hz\">场</span>, <span class=\"hz\">城</span>"
+            ],
+            [
+              "<span class=\"hz\">心</span>",
+              "<span class=\"py\">xīn</span>",
+              "4",
+              "Hati atau emosi",
+              "<span class=\"hz\">想</span>, <span class=\"hz\">爱</span>, <span class=\"hz\">怕</span>"
+            ],
+            [
+              "<span class=\"hz\">口</span>",
+              "<span class=\"py\">kǒu</span>",
+              "3",
+              "Mulut",
+              "<span class=\"hz\">吃</span>, <span class=\"hz\">叫</span>, <span class=\"hz\">唱</span>"
+            ],
+            [
+              "<span class=\"hz\">讠</span>",
+              "<span class=\"py\">yán</span>",
+              "2",
+              "Bicara",
+              "<span class=\"hz\">说</span>, <span class=\"hz\">话</span>, <span class=\"hz\">请</span>"
+            ],
+            [
+              "<span class=\"hz\">纟</span>",
+              "<span class=\"py\">sī</span>",
+              "3",
+              "Sutra atau tali",
+              "<span class=\"hz\">给</span>, <span class=\"hz\">经</span>, <span class=\"hz\">织</span>"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Aturan urutan goresan",
+            "Prinsip",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "先横后竖",
+              "Horizontal lebih dahulu, kemudian vertikal",
+              "<span class=\"hz\">十</span>: 一 lalu 丨"
+            ],
+            [
+              "先撇后捺",
+              "Goresan kiri lebih dahulu, kemudian kanan",
+              "<span class=\"hz\">八</span>: 丿 lalu ㇏"
+            ],
+            [
+              "先上后下",
+              "Atas lebih dahulu, kemudian bawah",
+              "<span class=\"hz\">三</span>"
+            ],
+            [
+              "先外后内",
+              "Bagian luar lebih dahulu, kemudian bagian dalam",
+              "<span class=\"hz\">问</span>"
+            ],
+            [
+              "先中间后两边",
+              "Bagian tengah lebih dahulu, kemudian kedua sisi",
+              "<span class=\"hz\">小</span>"
+            ],
+            [
+              "先外后内再封口",
+              "Luar, kemudian dalam, lalu ditutup",
+              "<span class=\"hz\">国</span>"
+            ],
+            [
+              "先左上后右下",
+              "Bagian kiri-atas lebih dahulu, kemudian kanan-bawah",
+              "<span class=\"hz\">这</span>"
+            ],
+            [
+              "最后一笔封口",
+              "Goresan penutup dilakukan terakhir",
+              "<span class=\"hz\">四</span>"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Jumlah goresan",
+            "Contoh",
+            "Tingkat"
+          ],
+          "baris": [
+            [
+              "1–3",
+              "<span class=\"hz\">一</span>, <span class=\"hz\">二</span>, <span class=\"hz\">三</span>, <span class=\"hz\">人</span>, <span class=\"hz\">大</span>",
+              "Sangat sederhana"
+            ],
+            [
+              "4–6",
+              "<span class=\"hz\">中</span>, <span class=\"hz\">国</span>, <span class=\"hz\">我</span>, <span class=\"hz\">你</span>, <span class=\"hz\">好</span>",
+              "Dasar"
+            ],
+            [
+              "7–9",
+              "<span class=\"hz\">很</span>, <span class=\"hz\">爱</span>, <span class=\"hz\">家</span>, <span class=\"hz\">学</span>, <span class=\"hz\">习</span>",
+              "Menengah"
+            ],
+            [
+              "10–12",
+              "<span class=\"hz\">教</span>, <span class=\"hz\">育</span>, <span class=\"hz\">健</span>, <span class=\"hz\">康</span>, <span class=\"hz\">强</span>",
+              "Kompleks"
+            ],
+            [
+              "13+",
+              "<span class=\"hz\">懂</span>, <span class=\"hz\">懒</span>, <span class=\"hz\">警</span>, <span class=\"hz\">攀</span>",
+              "Sangat kompleks"
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Radikal memberikan petunjuk makna, tetapi tidak selalu menentukan makna keseluruhan karakter secara tepat. Jangan menghafalkan radikal sebagai arti pasti dari setiap karakter yang mengandungnya."
+        }
+      ]
+    },
+    {
+      "judul": "3. Dialek Besar (方言 - Fāngyán) dan Statusnya",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Variasi yang sering disebut dialek dalam bahasa Tionghoa dapat memiliki perbedaan bunyi, kosakata, dan struktur yang sangat besar. Perbedaan antarkelompok tersebut dalam beberapa kasus dapat lebih besar daripada perbedaan antarbahasa Romawi seperti Spanyol, Italia, dan Prancis. <span class=\"hz\">普通话</span> (<span class=\"py\">Pǔtōnghuà</span>) berfungsi sebagai bentuk Mandarin standar."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Varietas",
+            "Nama lokal",
+            "Perkiraan penutur",
+            "Wilayah",
+            "Ciri yang dicatat sumber"
+          ],
+          "baris": [
+            [
+              "Mandarin",
+              "<span class=\"hz\">普通话</span> (<span class=\"py\">Pǔtōnghuà</span>)",
+              "~1.000+ juta",
+              "Utara dan Selatan",
+              "4 nada dan standar resmi"
+            ],
+            [
+              "Kanton",
+              "<span class=\"hz\">粤语</span> (<span class=\"py\">Yuèyǔ</span>)",
+              "~80 juta",
+              "Guangdong, Hong Kong, Makau",
+              "6–9 nada dan banyak akhir konsonan"
+            ],
+            [
+              "Hokkien",
+              "<span class=\"hz\">闽南语</span> (<span class=\"py\">Mǐnnányǔ</span>)",
+              "~50 juta",
+              "Fujian, Taiwan, Asia Tenggara",
+              "7–8 nada dan nada masuk"
+            ],
+            [
+              "Shanghai",
+              "<span class=\"hz\">吴语</span> (<span class=\"py\">Wúyǔ</span>)",
+              "~80 juta",
+              "Shanghai, Jiangsu, Zhejiang",
+              "Nada lembut dan banyak vokal"
+            ],
+            [
+              "Hakka",
+              "<span class=\"hz\">客家话</span> (<span class=\"py\">Kèjiāhuà</span>)",
+              "~30 juta",
+              "Tiongkok Selatan",
+              "6 nada dan struktur kuno"
+            ],
+            [
+              "Gan",
+              "<span class=\"hz\">赣语</span> (<span class=\"py\">Gànyǔ</span>)",
+              "~20 juta",
+              "Jiangxi",
+              "Akhiran glotal"
+            ],
+            [
+              "Xiang",
+              "<span class=\"hz\">湘语</span> (<span class=\"py\">Xiāngyǔ</span>)",
+              "~30 juta",
+              "Hunan",
+              "5 nada dan pengaruh Mandarin"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Varietas",
+            "Apa kabar?",
+            "Terima kasih"
+          ],
+          "baris": [
+            [
+              "Mandarin baku",
+              "<span class=\"hz\">你好吗？</span> (<span class=\"py\">Nǐ hǎo ma?</span>)",
+              "<span class=\"hz\">谢谢</span> (<span class=\"py\">Xièxiè</span>)"
+            ],
+            [
+              "Kanton",
+              "<span class=\"hz\">你好嗎？</span> (<span class=\"py\">Nei5 hou2 maa3?</span>)",
+              "<span class=\"hz\">唔該</span> (<span class=\"py\">M4 goi1</span>)"
+            ],
+            [
+              "Hokkien",
+              "<span class=\"hz\">你好無？</span> (<span class=\"py\">Lí hó bô?</span>)",
+              "<span class=\"hz\">多謝</span> (<span class=\"py\">To-siā</span>)"
+            ],
+            [
+              "Shanghai",
+              "<span class=\"hz\">侬好伐？</span> (<span class=\"py\">Nong hao va?</span>)",
+              "<span class=\"hz\">谢谢</span> (<span class=\"py\">Ya-ya</span>)"
+            ],
+            [
+              "Hakka",
+              "<span class=\"hz\">你好冇？</span> (<span class=\"py\">Ngi2 ho3 mo2?</span>)",
+              "<span class=\"hz\">多谢</span> (<span class=\"py\">To-chhia</span>)"
+            ]
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Pemerintah Tiongkok mempromosikan Mandarin standar sebagai bahasa persatuan.",
+            "Sekolah di seluruh Tiongkok mengajarkan Mandarin standar.",
+            "Dialek lokal tetap digunakan di rumah, pasar, dan komunitas.",
+            "Generasi muda di kota besar cenderung lebih fasih Mandarin standar daripada dialek lokal.",
+            "Di Hong Kong, Kanton tetap dominan walaupun Mandarin diajarkan di sekolah.",
+            "Televisi, film, dan musik berbahasa Mandarin membantu proses standardisasi.",
+            "Sumber menyatakan bahwa sekitar 100 tahun lalu sekitar 70 persen penutur Tiongkok tidak dapat berkomunikasi satu sama lain, sedangkan sekarang sekitar 80 persen dapat berbicara Mandarin standar.",
+            "Sebagian dialek terancam akibat migrasi internal dan perubahan generasi."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menyamakan Mandarin standar dengan semua varietas bahasa Tionghoa. Penutur Mandarin standar belum tentu dapat memahami Kanton, Hokkien, Hakka, atau varietas Wu tanpa pembelajaran khusus."
+        }
+      ]
+    },
+    {
+      "judul": "4. Bahasa Gaul Internet (网络用语 - Wǎngluò Yòngyǔ)",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Bahasa internet Mandarin berkembang sangat cepat dan memanfaatkan homofon angka, singkatan huruf, permainan bunyi, istilah budaya pop, serta simbol visual. Banyak istilah bersifat kontekstual dan dapat berubah popularitasnya dalam waktu singkat."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kode",
+            "Pinyin",
+            "Makna gaul",
+            "Asal atau penjelasan"
+          ],
+          "baris": [
+            [
+              "520",
+              "wǔ èr líng",
+              "Aku cinta kamu",
+              "Dikaitkan dengan <span class=\"hz\">我爱你</span> (<span class=\"py\">wǒ ài nǐ</span>)"
+            ],
+            [
+              "1314",
+              "yī sān yī sì",
+              "Selamanya",
+              "Dikaitkan dengan <span class=\"hz\">一生一世</span> (<span class=\"py\">yīshēng yīshì</span>)"
+            ],
+            [
+              "666",
+              "liù liù liù",
+              "Keren atau luar biasa",
+              "Dipopulerkan terutama melalui budaya game"
+            ],
+            [
+              "88",
+              "bā bā",
+              "Bye-bye",
+              "Berasosiasi dengan bunyi bahasa Inggris"
+            ],
+            [
+              "555",
+              "wǔ wǔ wǔ",
+              "Menangis",
+              "Menirukan suara tangisan"
+            ],
+            [
+              "233",
+              "èr sān sān",
+              "Tertawa terbahak-bahak",
+              "Berasal dari penggunaan forum"
+            ],
+            [
+              "9494",
+              "jiǔ sì jiǔ sì",
+              "Setuju",
+              "Dikaitkan dengan <span class=\"hz\">就是就是</span> (<span class=\"py\">jiùshì jiùshì</span>)"
+            ],
+            [
+              "886",
+              "bā bā liù",
+              "Bye-bye",
+              "Varian lebih panjang dari 88"
+            ],
+            [
+              "521",
+              "wǔ èr yī",
+              "Aku cinta kamu",
+              "Alternatif untuk 520"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Singkatan",
+            "Bentuk Mandarin",
+            "Pinyin",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "GG",
+              "<span class=\"hz\">哥哥</span>",
+              "gēge",
+              "Kakak laki-laki dalam konteks gamer"
+            ],
+            [
+              "MM",
+              "<span class=\"hz\">妹妹</span>",
+              "mèimei",
+              "Adik perempuan"
+            ],
+            [
+              "PLMM",
+              "<span class=\"hz\">漂亮妹妹</span>",
+              "piàoliang mèimei",
+              "Gadis cantik"
+            ],
+            [
+              "BT",
+              "<span class=\"hz\">变态</span>",
+              "biàntài",
+              "Aneh atau kelainan"
+            ],
+            [
+              "TMD",
+              "<span class=\"hz\">他妈的</span>",
+              "tā mā de",
+              "Sumpah serapah"
+            ],
+            [
+              "PK",
+              "<span class=\"hz\">对决</span>",
+              "duìjué",
+              "Adu atau pertandingan"
+            ],
+            [
+              "DIY",
+              "<span class=\"hz\">自己动手</span>",
+              "zìjǐ dòngshǒu",
+              "Lakukan sendiri"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "闺蜜",
+              "pinyin": "guīmì",
+              "arti": "sahabat perempuan",
+              "catatan": "Istilah populer untuk sahabat perempuan yang sangat dekat."
+            },
+            {
+              "hanzi": "基友",
+              "pinyin": "jīyǒu",
+              "arti": "sahabat laki-laki",
+              "catatan": "Dalam sumber dikaitkan dengan istilah gay friend."
+            },
+            {
+              "hanzi": "无语",
+              "pinyin": "wúyǔ",
+              "arti": "speechless atau bingung",
+              "catatan": "Digunakan ketika seseorang kehabisan kata-kata karena situasi tertentu."
+            },
+            {
+              "hanzi": "给力",
+              "pinyin": "gěilì",
+              "arti": "keren, bagus, atau menggugah semangat",
+              "catatan": "Bahasa gaul yang menyatakan sesuatu sangat membantu atau mengesankan."
+            },
+            {
+              "hanzi": "吐槽",
+              "pinyin": "tǔcáo",
+              "arti": "mengkritik atau menyoroti kelemahan",
+              "catatan": "Sering digunakan untuk komentar kritis bernada santai."
+            },
+            {
+              "hanzi": "佛系",
+              "pinyin": "fóxì",
+              "arti": "santai atau tidak terlalu mengejar",
+              "catatan": "Dalam sumber dikaitkan dengan gaya Buddha."
+            },
+            {
+              "hanzi": "内卷",
+              "pinyin": "nèijuǎn",
+              "arti": "kompetisi berlebihan",
+              "catatan": "Sering digunakan untuk menggambarkan tekanan kompetitif di sekolah atau dunia kerja."
+            },
+            {
+              "hanzi": "躺平",
+              "pinyin": "tǎngpíng",
+              "arti": "enggan berkompetisi atau menyerah terhadap tekanan kompetisi",
+              "catatan": "Dalam sumber diposisikan sebagai respons terhadap 内卷."
+            },
+            {
+              "hanzi": "上头",
+              "pinyin": "shàngtóu",
+              "arti": "kecanduan atau terlalu terbawa",
+              "catatan": "Asalnya dikaitkan dengan kondisi mabuk atau efek minuman."
+            },
+            {
+              "hanzi": "破防",
+              "pinyin": "pòfáng",
+              "arti": "tersentuh secara emosional atau terpukul",
+              "catatan": "Sering dipakai ketika pertahanan emosional seseorang seolah runtuh."
+            },
+            {
+              "hanzi": "针不戳",
+              "pinyin": "zhēn bùcuò",
+              "arti": "sungguh bagus",
+              "catatan": "Permainan bunyi dari 真不错."
+            },
+            {
+              "hanzi": "芜湖",
+              "pinyin": "wūhū",
+              "arti": "wow atau seru",
+              "catatan": "Permainan bunyi dari 呜呼."
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Simbol",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "(｡♥‿♥｡)",
+              "Cinta atau manis"
+            ],
+            [
+              "(╯°□°)╯︵ ┻━┻",
+              "Marah atau membalik meja"
+            ],
+            [
+              "┬─┬ ノ( ゜-゜ノ)",
+              "Tenang atau mengembalikan meja"
+            ],
+            [
+              "( ͡° ͜ʖ ͡°)",
+              "Nakal atau senyum jenaka"
+            ],
+            [
+              "ಠ_ಠ",
+              "Tatapan curiga"
+            ],
+            [
+              "(>‿◠)✌",
+              "Damai atau kemenangan"
+            ],
+            [
+              "✌(◕‿-)✌",
+              "Santai"
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Bahasa gaul internet tidak selalu cocok untuk situasi formal. Sebuah istilah dapat berubah arti atau kehilangan popularitas, sehingga konteks, generasi, platform, dan komunitas perlu diperhatikan."
+        }
+      ]
+    },
+    {
+      "judul": "5. 成语 (Chéngyǔ): Idiom Empat Karakter",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">成语</span> (<span class=\"py\">chéngyǔ</span>) adalah idiom tetap yang umumnya terdiri dari empat karakter. Banyak di antaranya berasal dari sejarah kuno, filsafat Konfusianisme dan Taoisme, mitologi, legenda, serta sastra klasik. Maknanya sering metaforis dan tidak dapat dipahami hanya dengan menerjemahkan setiap karakter secara harfiah."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Komposisinya relatif tetap dan tidak bebas diubah seperti kalimat biasa.",
+            "Maknanya sering metaforis, bukan makna literal.",
+            "Banyak 成语 mengandung cerita sejarah dan nilai budaya.",
+            "Penggunaan 成语 dapat memberi kesan pendidikan, retorika, dan kecanggihan bahasa."
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "成语",
+            "Pinyin",
+            "Makna harfiah",
+            "Makna sebenarnya",
+            "Asal atau cerita"
+          ],
+          "baris": [
+            [
+              "画蛇添足",
+              "huà shé tiān zú",
+              "Menggambar ular lalu menambah kaki",
+              "Membuat sesuatu berlebihan sehingga merusaknya",
+              "Cerita kompetisi melukis"
+            ],
+            [
+              "守株待兔",
+              "shǒu zhū dài tù",
+              "Menjaga tunggul sambil menunggu kelinci",
+              "Mengharapkan keberuntungan tanpa usaha",
+              "Cerita petani malas"
+            ],
+            [
+              "掩耳盗铃",
+              "yǎn ěr dào líng",
+              "Menutup telinga sambil mencuri lonceng",
+              "Membodohi diri sendiri",
+              "Cerita pencuri bodoh"
+            ],
+            [
+              "对牛弹琴",
+              "duì niú tán qín",
+              "Memainkan kecapi untuk sapi",
+              "Berbicara kepada orang yang tidak dapat memahami",
+              "Cerita klasik"
+            ],
+            [
+              "亡羊补牢",
+              "wáng yáng bǔ láo",
+              "Kehilangan domba lalu memperbaiki kandang",
+              "Belajar dari kesalahan dan memperbaiki keadaan",
+              "Cerita gembala"
+            ],
+            [
+              "井底之蛙",
+              "jǐng dǐ zhī wā",
+              "Katak di dasar sumur",
+              "Pandangan yang sempit",
+              "Dikaitkan dengan Zhuangzi"
+            ],
+            [
+              "百发百中",
+              "bǎi fā bǎi zhòng",
+              "Seratus tembakan, seratus kena",
+              "Sangat akurat atau ahli",
+              "Legenda pemanah Yang Youji"
+            ],
+            [
+              "一石二鸟",
+              "yī shí èr niǎo",
+              "Satu batu, dua burung",
+              "Mendapat dua keuntungan sekaligus",
+              "Peribahasa modern"
+            ],
+            [
+              "三心二意",
+              "sān xīn èr yì",
+              "Tiga hati, dua pikiran",
+              "Tidak fokus atau plin-plan",
+              "Sastra klasik"
+            ],
+            [
+              "一心一意",
+              "yī xīn yī yì",
+              "Satu hati, satu pikiran",
+              "Fokus dan sepenuh hati",
+              "Sastra klasik"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "成语",
+            "Pinyin",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "一马当先",
+              "yī mǎ dāng xiān",
+              "Memimpin atau menjadi yang pertama"
+            ],
+            [
+              "二话不说",
+              "èr huà bù shuō",
+              "Tanpa ragu atau tanpa banyak bicara"
+            ],
+            [
+              "三顾茅庐",
+              "sān gù máo lú",
+              "Mengunjungi berkali-kali demi membujuk seseorang"
+            ],
+            [
+              "四面楚歌",
+              "sì miàn chǔ gē",
+              "Terjebak atau menghadapi musuh dari segala sisi"
+            ],
+            [
+              "五花八门",
+              "wǔ huā bā mén",
+              "Beragam atau bermacam-macam"
+            ],
+            [
+              "六神无主",
+              "liù shén wú zhǔ",
+              "Panik dan tidak tenang"
+            ],
+            [
+              "七上八下",
+              "qī shàng bā xià",
+              "Gelisah atau cemas"
+            ],
+            [
+              "八仙过海",
+              "bā xiān guò hǎi",
+              "Masing-masing menunjukkan keahliannya"
+            ],
+            [
+              "九牛一毛",
+              "jiǔ niú yī máo",
+              "Sangat kecil atau tidak berarti dibanding keseluruhan"
+            ],
+            [
+              "十全十美",
+              "shí quán shí měi",
+              "Sempurna"
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menerjemahkan 成语 secara harfiah lalu menggunakannya tanpa memahami konteks. Banyak idiom memiliki sejarah, nuansa, dan batas penggunaan yang tidak terlihat dari arti setiap karakter."
+        }
+      ]
+    },
+    {
+      "judul": "6. Bahasa Klasik (文言文 - Wényánwén)",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">文言文</span> (<span class=\"py\">wényánwén</span>) adalah bentuk bahasa klasik yang sangat penting dalam sejarah sastra dan budaya Tionghoa. Struktur dan kosakatanya berbeda dari bahasa modern sehingga pembelajar perlu mengenali bentuk-bentuk arkais ketika membaca teks sejarah, sastra, prasasti, atau kutipan klasik."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Aspek",
+            "Mandarin modern",
+            "Bahasa klasik"
+          ],
+          "baris": [
+            [
+              "Panjang kata",
+              "Banyak kata majemuk dua karakter",
+              "Sering satu karakter berfungsi sebagai satu kata"
+            ],
+            [
+              "Kata tugas",
+              "Lebih banyak partikel seperti 的, 了, 过",
+              "Penggunaan kata tugas lebih minimal"
+            ],
+            [
+              "Tata bahasa",
+              "Relatif lebih teratur",
+              "Lebih kompleks dan dapat menggunakan inversi"
+            ],
+            [
+              "Penandaan waktu",
+              "Banyak dibantu partikel dan konteks",
+              "Sangat bergantung pada konteks"
+            ],
+            [
+              "Kosakata",
+              "Banyak kosakata modern",
+              "Banyak kosakata arkais"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Fungsi",
+            "Modern",
+            "Klasik"
+          ],
+          "baris": [
+            [
+              "Saya membaca buku di perpustakaan",
+              "<span class=\"hz\">我在图书馆看书。</span>",
+              "<span class=\"hz\">吾于图书馆读书。</span>"
+            ],
+            [
+              "Kata modal",
+              "<span class=\"hz\">能不能</span>, <span class=\"hz\">可以不可以</span>",
+              "<span class=\"hz\">可</span>, <span class=\"hz\">可否</span>, <span class=\"hz\">能</span>, <span class=\"hz\">能否</span>"
+            ],
+            [
+              "Kata ganti",
+              "<span class=\"hz\">我</span>, <span class=\"hz\">你</span>, <span class=\"hz\">他</span>",
+              "<span class=\"hz\">吾</span>/<span class=\"hz\">余</span>, <span class=\"hz\">汝</span>/<span class=\"hz\">尔</span>, <span class=\"hz\">之</span>, <span class=\"hz\">其</span>"
+            ],
+            [
+              "Kata tanya",
+              "<span class=\"hz\">什么</span>, <span class=\"hz\">为什么</span>, <span class=\"hz\">怎么</span>",
+              "<span class=\"hz\">何</span>, <span class=\"hz\">何以</span>, <span class=\"hz\">如何</span>"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "学而时习之，不亦说乎？",
+              "pinyin": "Xué ér shí xí zhī, bù yì yuè hū?",
+              "arti": "Belajar dan sering mengulangi, bukankah itu menyenangkan?",
+              "catatan": "Dikaitkan dengan Konfusius."
+            },
+            {
+              "hanzi": "己所不欲，勿施于人",
+              "pinyin": "Jǐ suǒ bù yù, wù shī yú rén",
+              "arti": "Jangan lakukan pada orang lain apa yang tidak kau inginkan untuk dirimu sendiri.",
+              "catatan": "Dikaitkan dengan Konfusius."
+            },
+            {
+              "hanzi": "三人行，必有我师焉",
+              "pinyin": "Sān rén xíng, bì yǒu wǒ shī yān",
+              "arti": "Di antara tiga orang yang berjalan, pasti ada guruku.",
+              "catatan": "Dikaitkan dengan Konfusius."
+            },
+            {
+              "hanzi": "道可道，非常道",
+              "pinyin": "Dào kě dào, fēi cháng dào",
+              "arti": "Jalan yang bisa dijabarkan bukanlah jalan abadi.",
+              "catatan": "Dikaitkan dengan Laozi."
+            },
+            {
+              "hanzi": "天下兴亡，匹夫有责",
+              "pinyin": "Tiānxià xīngwáng, pǐfū yǒu zé",
+              "arti": "Kejayaan dan kejatuhan negara adalah tanggung jawab setiap warga.",
+              "catatan": "Kutipan yang sering digunakan dalam pembahasan tanggung jawab sosial."
+            },
+            {
+              "hanzi": "千里之行，始于足下",
+              "pinyin": "Qiān lǐ zhī xíng, shǐ yú zú xià",
+              "arti": "Perjalanan seribu mil dimulai dari langkah pertama.",
+              "catatan": "Dikaitkan dengan Laozi."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "<span class=\"hz\">文言文</span> masih dapat ditemukan secara terbatas dalam dokumen resmi, prasasti, bangunan bersejarah, kaligrafi, karya seni, ujian sastra, acara formal, dan upacara.",
+            "Dalam bahasa hukum atau formal tertentu, gaya klasik dapat memengaruhi formulasi yang lebih ringkas.",
+            "Contoh dokumen: bentuk modern <span class=\"hz\">本合同一式两份，甲乙双方各执一份。</span> dibanding bentuk klasik <span class=\"hz\">本契书一式二纸，甲乙各执其一。</span>."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "7. Evolusi Bahasa Mandarin Modern dan Pengaruh Bahasa Asing",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Periode",
+            "Tahun",
+            "Peristiwa utama"
+          ],
+          "baris": [
+            [
+              "Tiongkok Kuno",
+              "1250 SM–200 M",
+              "Aksara tulang ramalan dan bahasa periode Dinasti Zhou"
+            ],
+            [
+              "Tiongkok Tengah",
+              "200–1200 M",
+              "Bahasa periode Tang dan Song serta berkembangnya puisi klasik"
+            ],
+            [
+              "Mandarin Awal",
+              "1200–1900",
+              "Periode Yuan, Ming, dan Qing serta berkembangnya karya sastra populer"
+            ],
+            [
+              "Bahasa Vernakular",
+              "1919–1949",
+              "Gerakan 4 Mei dan standardisasi bahasa lisan"
+            ],
+            [
+              "Mandarin Modern",
+              "1949–sekarang",
+              "Penyederhanaan aksara dan promosi Mandarin sebagai bahasa nasional"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Perkembangan Mandarin tidak hanya terjadi melalui perubahan internal. Kontak dengan bahasa lain juga memperkaya kosakata, terutama melalui agama, perdagangan, pendidikan, ilmu pengetahuan, dan globalisasi."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Pinyin",
+            "Arti",
+            "Sumber atau cara masuk"
+          ],
+          "baris": [
+            [
+              "菩萨",
+              "púsà",
+              "Bodhisattva",
+              "Serapan terkait Buddhisme dan Sanskerta"
+            ],
+            [
+              "刹那",
+              "chànà",
+              "Kṣaṇa atau sekejap",
+              "Serapan terkait Buddhisme"
+            ],
+            [
+              "涅槃",
+              "nièpán",
+              "Nirvana",
+              "Serapan terkait Buddhisme"
+            ],
+            [
+              "禅",
+              "chán",
+              "Meditasi",
+              "Dari istilah Buddhisme"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Pinyin",
+            "Arti",
+            "Cara serapan yang dicatat sumber"
+          ],
+          "baris": [
+            [
+              "咖啡",
+              "kāfēi",
+              "Kopi",
+              "Fonetik"
+            ],
+            [
+              "沙发",
+              "shāfā",
+              "Sofa",
+              "Fonetik"
+            ],
+            [
+              "幽默",
+              "yōumò",
+              "Humor",
+              "Fonetik dan makna"
+            ],
+            [
+              "巧克力",
+              "qiǎokèlì",
+              "Cokelat",
+              "Fonetik"
+            ],
+            [
+              "巴士",
+              "bāshì",
+              "Bus",
+              "Fonetik"
+            ],
+            [
+              "基因",
+              "jīyīn",
+              "Gen",
+              "Fonetik"
+            ],
+            [
+              "逻辑",
+              "luóji",
+              "Logika",
+              "Fonetik dan makna"
+            ],
+            [
+              "俱乐部",
+              "jùlèbù",
+              "Klub",
+              "Fonetik dan makna harfiah"
+            ],
+            [
+              "可口可乐",
+              "Kěkǒu Kělè",
+              "Coca-Cola",
+              "Fonetik dan permainan makna positif"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Istilah Mandarin",
+            "Pinyin",
+            "Bentuk Jepang",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "经济",
+              "jīngjì",
+              "経済 (keizai)",
+              "Ekonomi"
+            ],
+            [
+              "科学",
+              "kēxué",
+              "科学 (kagaku)",
+              "Sains"
+            ],
+            [
+              "哲学",
+              "zhéxué",
+              "哲学 (tetsugaku)",
+              "Filsafat"
+            ],
+            [
+              "社会",
+              "shèhuì",
+              "社会 (shakai)",
+              "Masyarakat"
+            ],
+            [
+              "革命",
+              "gémìng",
+              "革命 (kakumei)",
+              "Revolusi"
+            ],
+            [
+              "电话",
+              "diànhuà",
+              "電話 (denwa)",
+              "Telepon"
+            ],
+            [
+              "干部",
+              "gànbù",
+              "幹部 (kanbu)",
+              "Kader atau pimpinan"
+            ],
+            [
+              "美术",
+              "měishù",
+              "美術 (bijutsu)",
+              "Seni rupa"
+            ],
+            [
+              "自由",
+              "zìyóu",
+              "自由 (jiyū)",
+              "Kebebasan"
+            ],
+            [
+              "文化",
+              "wénhuà",
+              "文化 (bunka)",
+              "Budaya"
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Sumber menyatakan sekitar 30 persen kosakata modern Mandarin merupakan serapan atau pinjaman dari Jepang pada awal abad ke-20. Angka ini sebaiknya dipahami sebagai klaim yang terdapat dalam dokumen sumber, bukan sebagai ukuran pasti untuk seluruh kosakata Mandarin modern."
+        }
+      ]
+    },
+    {
+      "judul": "8. Variasi Regional dalam Mandarin",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Aspek",
+            "Mandarin Utara",
+            "Mandarin Selatan"
+          ],
+          "baris": [
+            [
+              "Nada",
+              "Cenderung lebih tegas dan jelas",
+              "Cenderung lebih lembut dan rata"
+            ],
+            [
+              "Erhua",
+              "Sangat umum",
+              "Hampir tidak ada"
+            ],
+            [
+              "Akhiran",
+              "Ng dan n lebih jelas",
+              "Sering lebih kabur"
+            ],
+            [
+              "Kosakata",
+              "Lebih sering menggunakan 儿化 dan 俺",
+              "Sumber menyoroti penggunaan 得"
+            ],
+            [
+              "Kecepatan",
+              "Cenderung lebih cepat",
+              "Cenderung lebih lambat dengan jeda"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Indonesia",
+            "Beijing/Daratan",
+            "Taiwan",
+            "Singapura/Malaysia"
+          ],
+          "baris": [
+            [
+              "Terima kasih",
+              "<span class=\"hz\">谢谢</span>",
+              "<span class=\"hz\">謝謝</span>",
+              "<span class=\"hz\">谢谢</span>"
+            ],
+            [
+              "Apa kabar?",
+              "<span class=\"hz\">你好吗？</span>",
+              "<span class=\"hz\">你好嗎？</span> / <span class=\"hz\">吃飽了沒？</span>",
+              "<span class=\"hz\">你好吗？</span>"
+            ],
+            [
+              "Bus",
+              "<span class=\"hz\">公交车</span>",
+              "<span class=\"hz\">公車</span>",
+              "<span class=\"hz\">巴士</span>"
+            ],
+            [
+              "Sepeda motor",
+              "<span class=\"hz\">摩托车</span>",
+              "<span class=\"hz\">機車</span>",
+              "<span class=\"hz\">电单车</span>"
+            ],
+            [
+              "Polisi",
+              "<span class=\"hz\">警察</span>",
+              "<span class=\"hz\">警察</span>",
+              "<span class=\"hz\">警察</span> / <span class=\"hz\">馬打</span>"
+            ],
+            [
+              "Bayi",
+              "<span class=\"hz\">婴儿</span>",
+              "<span class=\"hz\">嬰兒</span> / <span class=\"hz\">寶寶</span>",
+              "<span class=\"hz\">宝宝</span>"
+            ],
+            [
+              "Kulkas",
+              "<span class=\"hz\">冰箱</span>",
+              "<span class=\"hz\">冰箱</span>",
+              "<span class=\"hz\">冰橱</span>"
+            ],
+            [
+              "Kantin",
+              "<span class=\"hz\">食堂</span>",
+              "<span class=\"hz\">餐廳</span>",
+              "<span class=\"hz\">食堂</span> / 小贩中心"
+            ],
+            [
+              "Lift",
+              "<span class=\"hz\">电梯</span>",
+              "<span class=\"hz\">電梯</span>",
+              "<span class=\"hz\">电梯</span> / <span class=\"hz\">升降机</span>"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Istilah",
+            "Daratan",
+            "Taiwan",
+            "Hong Kong"
+          ],
+          "baris": [
+            [
+              "Anda",
+              "<span class=\"hz\">你</span>",
+              "<span class=\"hz\">你</span> / <span class=\"hz\">您</span>",
+              "<span class=\"hz\">你</span>"
+            ],
+            [
+              "Saya",
+              "<span class=\"hz\">我</span>",
+              "<span class=\"hz\">我</span>",
+              "<span class=\"hz\">我</span>"
+            ],
+            [
+              "Kami atau kita",
+              "<span class=\"hz\">我们</span>",
+              "<span class=\"hz\">我們</span>",
+              "<span class=\"hz\">我們</span>"
+            ],
+            [
+              "Mereka",
+              "<span class=\"hz\">他们</span>",
+              "<span class=\"hz\">他們</span>",
+              "<span class=\"hz\">他們</span>"
+            ],
+            [
+              "Ini",
+              "<span class=\"hz\">这</span>",
+              "<span class=\"hz\">這</span>",
+              "<span class=\"hz\">這</span>"
+            ],
+            [
+              "Itu",
+              "<span class=\"hz\">那</span>",
+              "<span class=\"hz\">那</span>",
+              "<span class=\"hz\">那</span>"
+            ],
+            [
+              "Perhatikan",
+              "<span class=\"hz\">注意</span>",
+              "<span class=\"hz\">注意</span>",
+              "<span class=\"hz\">注意</span>"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "9. Teknologi dan Bahasa Mandarin",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Metode input",
+            "Cara kerja",
+            "Kelebihan",
+            "Kelemahan"
+          ],
+          "baris": [
+            [
+              "Pinyin",
+              "Ketik pinyin lalu memilih karakter",
+              "Mudah dipelajari",
+              "Banyak homofon"
+            ],
+            [
+              "Zhuyin",
+              "Menggunakan sistem fonetik Taiwan",
+              "Akurat untuk sistem Taiwan",
+              "Penggunaan terutama terkait Taiwan"
+            ],
+            [
+              "Stroke",
+              "Memasukkan berdasarkan bentuk goresan",
+              "Tidak perlu mengetahui pinyin",
+              "Lebih lambat"
+            ],
+            [
+              "Handwriting",
+              "Menulis karakter di layar",
+              "Natural",
+              "Memerlukan layar atau perangkat yang mendukung"
+            ],
+            [
+              "Voice Input",
+              "Berbicara ke mikrofon",
+              "Cepat",
+              "Kurang akurat di tempat bising"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Input",
+            "Arti",
+            "Karakter"
+          ],
+          "baris": [
+            [
+              "ni",
+              "Kamu",
+              "<span class=\"hz\">你</span>"
+            ],
+            [
+              "hao",
+              "Baik",
+              "<span class=\"hz\">好</span>"
+            ],
+            [
+              "ni hao",
+              "Halo",
+              "<span class=\"hz\">你好</span>"
+            ],
+            [
+              "wo",
+              "Saya",
+              "<span class=\"hz\">我</span>"
+            ],
+            [
+              "ai",
+              "Cinta",
+              "<span class=\"hz\">爱</span>"
+            ],
+            [
+              "wo ai ni",
+              "Aku cinta kamu",
+              "<span class=\"hz\">我爱你</span>"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Teknologi digital membuat hubungan antara suara, romanisasi, dan karakter semakin mudah. Sistem prediksi keyboard dapat menggunakan rangkaian pinyin untuk menawarkan karakter yang paling mungkin berdasarkan konteks."
+        }
+      ]
+    },
+    {
+      "judul": "10. Masa Depan Bahasa Mandarin",
+      "isi": [
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Standarisasi: Mandarin terus berkembang sebagai lingua franca, yaitu bahasa penghubung antara penutur dengan bahasa ibu berbeda.",
+            "Digitalisasi: teknologi AI dan terjemahan otomatis semakin memengaruhi cara Mandarin digunakan dan dipelajari.",
+            "Globalisasi: jumlah penutur asing dan pembelajar Mandarin terus memperluas penggunaan internasional.",
+            "Hibridisasi: generasi muda semakin sering bersentuhan dengan kosakata dan budaya berbahasa Inggris."
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kategori penutur",
+            "Perkiraan dalam sumber"
+          ],
+          "baris": [
+            [
+              "Penutur asli",
+              "~950 juta"
+            ],
+            [
+              "Penutur kedua",
+              "~200 juta"
+            ],
+            [
+              "Pembelajar sebagai bahasa asing",
+              "~30 juta"
+            ]
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Sumber memprediksi bahwa pada 2050 Mandarin akan tetap menjadi salah satu bahasa global yang paling penting.",
+            "Konten internet berbahasa Mandarin diperkirakan semakin banyak.",
+            "Lebih banyak institusi asing diperkirakan mengajarkan Mandarin."
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Pinyin",
+            "Arti",
+            "Konteks"
+          ],
+          "baris": [
+            [
+              "内卷",
+              "nèijuǎn",
+              "Kompetisi ketat",
+              "Dunia kerja atau sekolah"
+            ],
+            [
+              "躺平",
+              "tǎngpíng",
+              "Tidak berkompetisi",
+              "Respons terhadap 内卷"
+            ],
+            [
+              "元宇宙",
+              "yuányǔzhòu",
+              "Metaverse",
+              "Teknologi"
+            ],
+            [
+              "人工智能",
+              "réngōng zhìnéng",
+              "Kecerdasan buatan atau AI",
+              "Teknologi"
+            ],
+            [
+              "短视频",
+              "duǎn shìpín",
+              "Video pendek",
+              "Media sosial"
+            ],
+            [
+              "直播",
+              "zhíbō",
+              "Live streaming",
+              "Media"
+            ],
+            [
+              "网红",
+              "wǎnghóng",
+              "Selebriti internet atau influencer",
+              "Media sosial"
+            ],
+            [
+              "粉丝",
+              "fěnsī",
+              "Fans",
+              "Budaya pop"
+            ],
+            [
+              "种草",
+              "zhòngcǎo",
+              "Merekomendasikan produk sehingga orang tertarik",
+              "E-commerce"
+            ],
+            [
+              "剁手",
+              "duòshǒu",
+              "Boros berbelanja",
+              "Belanja online"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "11. Bahasa Game dan Esports (游戏 & 电竞用语 - Yóuxì & Diànjìng Yòngyǔ)",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Bahasa game Mandarin membentuk subkultur tersendiri dengan istilah teknis, singkatan, slang, humor, hierarki rank, dan trash talk (sindiran atau ejekan dalam permainan). Dalam konteks game, makna sebuah kata sering berbeda dari penggunaan sehari-hari."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Indonesia",
+            "Mandarin",
+            "Pinyin",
+            "Keterangan"
+          ],
+          "baris": [
+            [
+              "Game",
+              "<span class=\"hz\">游戏</span>",
+              "yóuxì",
+              "Istilah umum untuk gim"
+            ],
+            [
+              "Esports",
+              "<span class=\"hz\">电竞</span> / <span class=\"hz\">电子竞技</span>",
+              "diànjìng / diànzǐ jìngjì",
+              "Olahraga elektronik"
+            ],
+            [
+              "Pemain",
+              "<span class=\"hz\">玩家</span>",
+              "wánjiā",
+              "Gamer atau pemain"
+            ],
+            [
+              "Karakter atau hero",
+              "<span class=\"hz\">角色</span> / <span class=\"hz\">英雄</span>",
+              "juésè / yīngxióng",
+              "Hero terutama dalam MOBA"
+            ],
+            [
+              "Level",
+              "<span class=\"hz\">级别</span> / <span class=\"hz\">等级</span>",
+              "jíbié / děngjí",
+              "Tingkat karakter"
+            ],
+            [
+              "Server",
+              "<span class=\"hz\">服务器</span>",
+              "fúwùqì",
+              "Server game"
+            ],
+            [
+              "Lag atau latensi",
+              "<span class=\"hz\">延迟</span> / <span class=\"hz\">卡顿</span>",
+              "yánchí / kǎdùn",
+              "Keterlambatan atau tersendat"
+            ],
+            [
+              "Update atau patch",
+              "<span class=\"hz\">更新</span> / <span class=\"hz\">补丁</span>",
+              "gēngxīn / bǔdīng",
+              "Pembaruan game"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Istilah",
+            "Pinyin",
+            "Makna dalam game",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "打",
+              "dǎ",
+              "Main game",
+              "<span class=\"hz\">打游戏</span>"
+            ],
+            [
+              "刷",
+              "shuā",
+              "Grinding atau farming berulang",
+              "<span class=\"hz\">刷副本</span>"
+            ],
+            [
+              "肝",
+              "gān",
+              "Grinding sangat keras sampai mengorbankan waktu atau tidur",
+              "<span class=\"hz\">这个游戏太肝了</span>"
+            ],
+            [
+              "练",
+              "liàn",
+              "Berlatih",
+              "<span class=\"hz\">练英雄</span>"
+            ],
+            [
+              "排位 / 排",
+              "páiwèi / pái",
+              "Ranked atau matchmaking",
+              "<span class=\"hz\">打排位</span>"
+            ],
+            [
+              "上分",
+              "shàng fēn",
+              "Menaikkan rank atau MMR",
+              "<span class=\"hz\">今天上分了吗？</span>"
+            ],
+            [
+              "送人头",
+              "sòng réntóu",
+              "Feeding atau sering memberikan kill kepada lawan",
+              "<span class=\"hz\">别送了！</span>"
+            ],
+            [
+              "坑",
+              "kēng",
+              "Payah atau menjadi beban tim",
+              "<span class=\"hz\">队友太坑了</span>"
+            ],
+            [
+              "带",
+              "dài",
+              "Membawa atau carry pemain lain",
+              "<span class=\"hz\">大神带带我！</span>"
+            ],
+            [
+              "躺赢",
+              "tǎng yíng",
+              "Menang tanpa banyak usaha karena di-carry",
+              "<span class=\"hz\">这把躺赢了</span>"
+            ],
+            [
+              "翻盘",
+              "fānpán",
+              "Comeback atau membalik keadaan",
+              "<span class=\"hz\">我们翻盘了！</span>"
+            ],
+            [
+              "灭队",
+              "miè duì",
+              "Menghabisi seluruh tim lawan",
+              "<span class=\"hz\">一波灭队</span>"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Peran",
+            "Mandarin",
+            "Pinyin",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "Tank",
+              "<span class=\"hz\">坦克</span> / <span class=\"hz\">肉</span>",
+              "tǎnkè / ròu",
+              "Karakter dengan daya tahan tinggi"
+            ],
+            [
+              "Damage dealer atau carry",
+              "<span class=\"hz\">输出</span> / <span class=\"hz\">C位</span>",
+              "shūchū / C wèi",
+              "Penyumbang damage utama"
+            ],
+            [
+              "Support",
+              "<span class=\"hz\">辅助</span>",
+              "fǔzhù",
+              "Pendukung tim"
+            ],
+            [
+              "Assassin",
+              "<span class=\"hz\">刺客</span>",
+              "cìkè",
+              "Karakter pembunuh cepat"
+            ],
+            [
+              "Marksman",
+              "<span class=\"hz\">射手</span>",
+              "shèshǒu",
+              "Penyerang jarak jauh"
+            ],
+            [
+              "Mage",
+              "<span class=\"hz\">法师</span>",
+              "fǎshī",
+              "Pengguna damage sihir"
+            ],
+            [
+              "Jungler",
+              "<span class=\"hz\">打野</span>",
+              "dǎyě",
+              "Pemain yang mengelola area jungle"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Slang",
+            "Asal atau bentuk",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "GG",
+              "Good Game",
+              "Ucapan setelah atau selama permainan"
+            ],
+            [
+              "GL",
+              "Good Luck",
+              "Semoga beruntung"
+            ],
+            [
+              "AFK",
+              "Away From Keyboard",
+              "<span class=\"hz\">挂机</span> (<span class=\"py\">guàjī</span>), tidak aktif"
+            ],
+            [
+              "POG",
+              "Play of the Game",
+              "Momen permainan terbaik"
+            ],
+            [
+              "666",
+              "Kode angka",
+              "Luar biasa atau keren"
+            ],
+            [
+              "菜",
+              "Makna literal: sayuran",
+              "Payah atau kurang mahir"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Rank",
+            "Pinyin",
+            "Setara"
+          ],
+          "baris": [
+            [
+              "青铜",
+              "qīngtóng",
+              "Bronze"
+            ],
+            [
+              "白银",
+              "báiyín",
+              "Silver"
+            ],
+            [
+              "黄金",
+              "huángjīn",
+              "Gold"
+            ],
+            [
+              "铂金",
+              "bójīn",
+              "Platinum"
+            ],
+            [
+              "钻石",
+              "zuànshí",
+              "Diamond"
+            ],
+            [
+              "大师",
+              "dàshī",
+              "Master"
+            ],
+            [
+              "王者",
+              "wángzhě",
+              "Rank sangat tinggi atau 王者"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Genre",
+            "Istilah",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "MOBA",
+              "<span class=\"hz\">中路</span>",
+              "Mid lane"
+            ],
+            [
+              "MOBA",
+              "<span class=\"hz\">上路</span>",
+              "Top lane"
+            ],
+            [
+              "MOBA",
+              "<span class=\"hz\">下路</span>",
+              "Bot lane"
+            ],
+            [
+              "MOBA",
+              "<span class=\"hz\">野区</span>",
+              "Area jungle"
+            ],
+            [
+              "MOBA",
+              "<span class=\"hz\">团战</span>",
+              "Team fight"
+            ],
+            [
+              "MOBA",
+              "<span class=\"hz\">一波</span>",
+              "Satu push atau serangan penentu"
+            ],
+            [
+              "MOBA",
+              "<span class=\"hz\">守家</span>",
+              "Bertahan di base"
+            ],
+            [
+              "MOBA",
+              "<span class=\"hz\">偷塔</span>",
+              "Menyerang turret secara diam-diam atau split push"
+            ],
+            [
+              "Battle royale",
+              "<span class=\"hz\">吃鸡</span>",
+              "Menang dalam konteks PUBG atau battle royale"
+            ],
+            [
+              "Battle royale",
+              "<span class=\"hz\">苟住</span>",
+              "Bermain aman dan bertahan"
+            ],
+            [
+              "Battle royale",
+              "<span class=\"hz\">毒圈</span>",
+              "Zona berbahaya"
+            ],
+            [
+              "Battle royale",
+              "<span class=\"hz\">空投</span>",
+              "Air drop"
+            ],
+            [
+              "Battle royale",
+              "<span class=\"hz\">伏地魔</span>",
+              "Pemain yang bersembunyi atau berbaring di rumput"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "丢人",
+              "pinyin": "diūrén",
+              "arti": "memalukan",
+              "catatan": "Dalam konteks game digunakan ketika kesalahan seseorang membuat tim malu."
+            },
+            {
+              "hanzi": "别坑我",
+              "pinyin": "Bié kēng wǒ",
+              "arti": "Jangan bikin aku kalah atau menjebakku",
+              "catatan": "Ditujukan kepada rekan satu tim yang bermain buruk."
+            },
+            {
+              "hanzi": "你这操作太下饭了",
+              "pinyin": "Nǐ zhè cāozuò tài xiàfàn le",
+              "arti": "Gerakanmu sangat buruk sampai bikin orang ingin makan sambil menonton",
+              "catatan": "Sindiran terhadap permainan yang buruk."
+            },
+            {
+              "hanzi": "这把稳了",
+              "pinyin": "Zhè bǎ wěn le",
+              "arti": "Game ini sudah aman",
+              "catatan": "Digunakan ketika tim merasa sangat unggul."
+            },
+            {
+              "hanzi": "翻车了",
+              "pinyin": "fānchē le",
+              "arti": "Gagal total atau keadaan berbalik",
+              "catatan": "Metafora kendaraan terguling."
+            },
+            {
+              "hanzi": "你是不是脚本？",
+              "pinyin": "Nǐ shì bùshì jiǎoběn?",
+              "arti": "Apa kamu memakai script?",
+              "catatan": "Dapat menjadi tuduhan atau sindiran karena seseorang bermain terlalu bagus."
+            },
+            {
+              "hanzi": "你厉害，行了吧？",
+              "pinyin": "Nǐ lìhài, xíng le ba?",
+              "arti": "Kamu hebat, oke?",
+              "catatan": "Dapat digunakan secara sarkastis."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Trash talk dan istilah yang bernada menghina dapat merusak hubungan antarpemain. Banyak ungkapan game bersifat sarkastis sehingga arti literalnya tidak sama dengan maksud sebenarnya."
+        }
+      ]
+    },
+    {
+      "judul": "12. Perbedaan Hanyu Pinyin dan Tongyong Pinyin",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Hanyu Pinyin dan Tongyong Pinyin sama-sama merupakan sistem romanisasi, yaitu penulisan bunyi Mandarin dengan huruf Latin. Hanyu Pinyin menjadi sistem standar internasional yang paling luas digunakan, sedangkan Tongyong Pinyin pernah digunakan secara resmi di Taiwan dan masih dapat ditemukan dalam sejumlah nama lama, peta, dan dokumen."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Sistem",
+            "Diperkenalkan",
+            "Penggunaan yang dicatat sumber",
+            "Pembuat"
+          ],
+          "baris": [
+            [
+              "Hanyu Pinyin",
+              "1958",
+              "Tiongkok Daratan, Singapura, dan PBB",
+              "Pemerintah RRT"
+            ],
+            [
+              "Tongyong Pinyin",
+              "2000 resmi; dihentikan sebagai sistem resmi pada 2008",
+              "Taiwan; masih terlihat pada sejumlah materi lama",
+              "Kementerian Pendidikan Taiwan"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bunyi",
+            "Hanyu Pinyin",
+            "Tongyong Pinyin",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "/ɕ/",
+              "x",
+              "s",
+              "Perbedaan utama dalam representasi bunyi seperti pada xia"
+            ],
+            [
+              "/tɕʰ/",
+              "q",
+              "c",
+              "Bunyi aspiratif seperti pada qi"
+            ],
+            [
+              "/tɕ/",
+              "j",
+              "j",
+              "Tidak berbeda dalam contoh sumber"
+            ],
+            [
+              "/ʐ/",
+              "r",
+              "r",
+              "Tidak berbeda dalam contoh sumber"
+            ],
+            [
+              "/ɨ/",
+              "i",
+              "ih",
+              "Perbedaan penulisan setelah z, c, s"
+            ],
+            [
+              "/u/",
+              "u",
+              "u",
+              "Perbedaan muncul pada representasi konsonan tertentu"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Nama tempat",
+            "Hanyu Pinyin",
+            "Tongyong Pinyin"
+          ],
+          "baris": [
+            [
+              "Beijing",
+              "Běijīng",
+              "Bei-jing"
+            ],
+            [
+              "Xi'an",
+              "Xī'ān",
+              "Si-an"
+            ],
+            [
+              "Qingdao",
+              "Qīngdǎo",
+              "Cing-dao"
+            ],
+            [
+              "Taipei",
+              "Táiběi",
+              "Tai-pei"
+            ],
+            [
+              "Kaohsiung",
+              "Gāoxióng",
+              "Gao-syong"
+            ],
+            [
+              "Zhang",
+              "Zhāng",
+              "Jhang"
+            ]
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Hanyu Pinyin menggunakan apostrof untuk membantu mencegah ambiguitas dalam pemisahan suku kata, misalnya Xi'an.",
+            "Tongyong lebih sering menggunakan tanda hubung dalam contoh yang diberikan, misalnya Si-an.",
+            "Penulisan nama pada Hanyu Pinyin dapat memisahkan nama depan dan belakang, misalnya Wang Xiaoming.",
+            "Sumber menyarankan pembelajar di luar Taiwan memprioritaskan Hanyu Pinyin."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "13. Sistem Zhuyin (注音) Lengkap",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Zhuyin atau Bopomofo adalah sistem fonetik yang menggunakan simbol khusus, bukan huruf Latin. Sistem ini menjadi standar utama di Taiwan untuk membantu anak-anak mempelajari pelafalan sebelum menguasai karakter. Nama Bopomofo berasal dari empat simbol pertama: <span class=\"hz\">ㄅㄆㄇㄈ</span>."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Zhuyin",
+            "Hanyu Pinyin",
+            "Petunjuk bunyi"
+          ],
+          "baris": [
+            [
+              "ㄅ",
+              "b",
+              "ba"
+            ],
+            [
+              "ㄆ",
+              "p",
+              "pa, aspiratif"
+            ],
+            [
+              "ㄇ",
+              "m",
+              "ma"
+            ],
+            [
+              "ㄈ",
+              "f",
+              "fa"
+            ],
+            [
+              "ㄉ",
+              "d",
+              "da"
+            ],
+            [
+              "ㄊ",
+              "t",
+              "ta, aspiratif"
+            ],
+            [
+              "ㄋ",
+              "n",
+              "na"
+            ],
+            [
+              "ㄌ",
+              "l",
+              "la"
+            ],
+            [
+              "ㄍ",
+              "g",
+              "ga"
+            ],
+            [
+              "ㄎ",
+              "k",
+              "ka, aspiratif"
+            ],
+            [
+              "ㄏ",
+              "h",
+              "ha"
+            ],
+            [
+              "ㄐ",
+              "j",
+              "ji"
+            ],
+            [
+              "ㄑ",
+              "q",
+              "chi aspiratif"
+            ],
+            [
+              "ㄒ",
+              "x",
+              "si lembut"
+            ],
+            [
+              "ㄓ",
+              "zh",
+              "zhi"
+            ],
+            [
+              "ㄔ",
+              "ch",
+              "chi aspiratif"
+            ],
+            [
+              "ㄕ",
+              "sh",
+              "shi"
+            ],
+            [
+              "ㄖ",
+              "r",
+              "ri"
+            ],
+            [
+              "ㄗ",
+              "z",
+              "zi"
+            ],
+            [
+              "ㄘ",
+              "c",
+              "ci aspiratif"
+            ],
+            [
+              "ㄙ",
+              "s",
+              "si"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Zhuyin",
+            "Hanyu Pinyin",
+            "Bunyi"
+          ],
+          "baris": [
+            [
+              "ㄚ",
+              "a",
+              "a"
+            ],
+            [
+              "ㄛ",
+              "o",
+              "o"
+            ],
+            [
+              "ㄜ",
+              "e",
+              "e"
+            ],
+            [
+              "ㄝ",
+              "ê",
+              "e terbuka"
+            ],
+            [
+              "ㄞ",
+              "ai",
+              "ai"
+            ],
+            [
+              "ㄟ",
+              "ei",
+              "ei"
+            ],
+            [
+              "ㄠ",
+              "ao",
+              "ao"
+            ],
+            [
+              "ㄡ",
+              "ou",
+              "ou"
+            ],
+            [
+              "ㄢ",
+              "an",
+              "an"
+            ],
+            [
+              "ㄣ",
+              "en",
+              "en"
+            ],
+            [
+              "ㄤ",
+              "ang",
+              "ang"
+            ],
+            [
+              "ㄥ",
+              "eng",
+              "eng"
+            ],
+            [
+              "ㄦ",
+              "er",
+              "er"
+            ],
+            [
+              "ㄧ",
+              "i / y",
+              "yi"
+            ],
+            [
+              "ㄨ",
+              "u / w",
+              "wu"
+            ],
+            [
+              "ㄩ",
+              "ü",
+              "yu dengan bibir membulat"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Nada",
+            "Simbol",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "Nada 1",
+              "tanpa simbol",
+              "<span class=\"hz\">ㄇㄚ</span> (<span class=\"py\">mā</span>)"
+            ],
+            [
+              "Nada 2",
+              "ˊ",
+              "<span class=\"hz\">ㄇㄚˊ</span> (<span class=\"py\">má</span>)"
+            ],
+            [
+              "Nada 3",
+              "ˇ",
+              "<span class=\"hz\">ㄇㄚˇ</span> (<span class=\"py\">mǎ</span>)"
+            ],
+            [
+              "Nada 4",
+              "ˋ",
+              "<span class=\"hz\">ㄇㄚˋ</span> (<span class=\"py\">mà</span>)"
+            ],
+            [
+              "Nada netral",
+              "˙",
+              "<span class=\"hz\">ㄇㄚ˙</span> (<span class=\"py\">ma</span>)"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Indonesia",
+            "Hanyu Pinyin",
+            "Zhuyin"
+          ],
+          "baris": [
+            [
+              "Saya",
+              "Wǒ",
+              "ㄨㄛˇ"
+            ],
+            [
+              "Kamu",
+              "Nǐ",
+              "ㄋㄧˇ"
+            ],
+            [
+              "Halo",
+              "Nǐ hǎo",
+              "ㄋㄧˇ ㄏㄠˇ"
+            ],
+            [
+              "Taiwan",
+              "Táiwān",
+              "ㄊㄞˊ ㄨㄢ"
+            ],
+            [
+              "Apel",
+              "Píngguǒ",
+              "ㄆㄧㄥˊ ㄍㄨㄛˇ"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Aspek",
+            "Zhuyin",
+            "Pinyin"
+          ],
+          "baris": [
+            [
+              "Kebingungan",
+              "Simbol unik sehingga tidak mudah tertukar dengan huruf Inggris",
+              "Huruf tertentu dapat salah dibaca oleh pemula"
+            ],
+            [
+              "Akurasi",
+              "Dibuat khusus untuk sistem bunyi Mandarin",
+              "Akurat tetapi memerlukan pemahaman aturan baca"
+            ],
+            [
+              "Penggunaan",
+              "Taiwan, keyboard, dan buku anak-anak",
+              "Global, internet, dan pembelajaran internasional"
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Zhuyin bukan sistem karakter Mandarin dan bukan sekadar variasi bentuk Pinyin. Ia merupakan sistem simbol fonetik yang memiliki cara penulisan dan aturan tersendiri."
+        }
+      ]
+    },
+    {
+      "judul": "14. Bahasa Hukum dan Bisnis (法律 & 商务用语 - Fǎlǜ & Shāngwù Yòngyǔ)",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Bahasa hukum dan bisnis Mandarin cenderung formal, kaku, dan sangat bergantung pada istilah khusus. Dalam dokumen kontrak, pemilihan kata harus presisi karena perbedaan istilah dapat memengaruhi interpretasi kewajiban dan hak."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Indonesia",
+            "Mandarin",
+            "Pinyin",
+            "Keterangan"
+          ],
+          "baris": [
+            [
+              "Hukum",
+              "<span class=\"hz\">法律</span>",
+              "fǎlǜ",
+              "Ilmu hukum atau hukum"
+            ],
+            [
+              "Undang-undang",
+              "<span class=\"hz\">法令</span> / <span class=\"hz\">法规</span>",
+              "fǎlìng / fǎguī",
+              "Peraturan"
+            ],
+            [
+              "Konstitusi",
+              "<span class=\"hz\">宪法</span>",
+              "xiànfǎ",
+              "Undang-undang dasar"
+            ],
+            [
+              "Kontrak",
+              "<span class=\"hz\">合同</span> / <span class=\"hz\">合约</span>",
+              "hétong / héyuē",
+              "Perjanjian tertulis"
+            ],
+            [
+              "Pasal atau klausul",
+              "<span class=\"hz\">条款</span>",
+              "tiáokuǎn",
+              "Klausul kontrak"
+            ],
+            [
+              "Hak",
+              "<span class=\"hz\">权利</span>",
+              "quánlì",
+              "Hak hukum"
+            ],
+            [
+              "Kewajiban",
+              "<span class=\"hz\">义务</span>",
+              "yìwù",
+              "Kewajiban"
+            ],
+            [
+              "Pengadilan",
+              "<span class=\"hz\">法院</span>",
+              "fǎyuàn",
+              "Pengadilan"
+            ],
+            [
+              "Hakim",
+              "<span class=\"hz\">法官</span>",
+              "fǎguān",
+              "Hakim"
+            ],
+            [
+              "Pengacara",
+              "<span class=\"hz\">律师</span>",
+              "lǜshī",
+              "Advokat"
+            ],
+            [
+              "Bukti",
+              "<span class=\"hz\">证据</span>",
+              "zhèngjù",
+              "Bukti"
+            ],
+            [
+              "Saksi",
+              "<span class=\"hz\">证人</span>",
+              "zhèngrén",
+              "Saksi"
+            ],
+            [
+              "Terdakwa atau tergugat",
+              "<span class=\"hz\">被告</span>",
+              "bèigào",
+              "Pihak yang digugat atau terdakwa"
+            ],
+            [
+              "Penggugat",
+              "<span class=\"hz\">原告</span>",
+              "yuángào",
+              "Pihak yang menggugat"
+            ],
+            [
+              "Putusan",
+              "<span class=\"hz\">判决</span>",
+              "pànjué",
+              "Putusan hakim"
+            ],
+            [
+              "Banding",
+              "<span class=\"hz\">上诉</span>",
+              "shàngsù",
+              "Banding"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Istilah hukum",
+            "Pinyin",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "宪法",
+              "xiànfǎ",
+              "Konstitusi"
+            ],
+            [
+              "刑法",
+              "xíngfǎ",
+              "Hukum pidana"
+            ],
+            [
+              "民法",
+              "mínfǎ",
+              "Hukum perdata"
+            ],
+            [
+              "行政法",
+              "xíngzhèngfǎ",
+              "Hukum administrasi"
+            ],
+            [
+              "诉讼法",
+              "sùsòngfǎ",
+              "Hukum acara atau prosedural"
+            ],
+            [
+              "仲裁",
+              "zhòngcái",
+              "Arbitrase"
+            ],
+            [
+              "和解",
+              "héjiě",
+              "Penyelesaian damai atau mediasi"
+            ],
+            [
+              "强制执行",
+              "qiángzhì zhíxíng",
+              "Eksekusi paksa"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Frasa",
+            "Pinyin",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "根据法律",
+              "gēnjù fǎlǜ",
+              "Berdasarkan hukum"
+            ],
+            [
+              "依法行事",
+              "yīfǎ xíngshì",
+              "Bertindak sesuai hukum"
+            ],
+            [
+              "双方同意",
+              "shuāngfāng tóngyì",
+              "Kedua belah pihak setuju"
+            ],
+            [
+              "本合同一式两份",
+              "běn hétong yīshì liǎng fèn",
+              "Kontrak ini dibuat rangkap dua"
+            ],
+            [
+              "具有法律效力",
+              "jùyǒu fǎlǜ xiàolì",
+              "Memiliki kekuatan hukum"
+            ],
+            [
+              "保留追究权利",
+              "bǎoliú zhuījiū quánlì",
+              "Mempertahankan hak untuk menuntut"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Jabatan atau bidang",
+            "Mandarin",
+            "Pinyin",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "Komisaris",
+              "<span class=\"hz\">监事</span>",
+              "jiānshì",
+              "Pengawas perusahaan"
+            ],
+            [
+              "Direktur utama atau chairman",
+              "<span class=\"hz\">董事长</span>",
+              "dǒngshìzhǎng",
+              "Kepala dewan"
+            ],
+            [
+              "CEO",
+              "<span class=\"hz\">首席执行官</span>",
+              "shǒuxí zhíxíngguān",
+              "Eksekutif tertinggi"
+            ],
+            [
+              "CFO",
+              "<span class=\"hz\">首席财务官</span>",
+              "shǒuxí cáiwù guān",
+              "Kepala keuangan"
+            ],
+            [
+              "Manajer umum",
+              "<span class=\"hz\">总经理</span>",
+              "zǒngjīnglǐ",
+              "General manager"
+            ],
+            [
+              "Kepala departemen",
+              "<span class=\"hz\">部门经理</span>",
+              "bùmén jīnglǐ",
+              "Department head"
+            ],
+            [
+              "Staf",
+              "<span class=\"hz\">职员</span>",
+              "zhíyuán",
+              "Karyawan"
+            ],
+            [
+              "Magang",
+              "<span class=\"hz\">实习生</span>",
+              "shíxíshēng",
+              "Intern atau trainee"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Istilah keuangan",
+            "Pinyin",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "资产",
+              "zīchǎn",
+              "Aset"
+            ],
+            [
+              "负债",
+              "fùzhài",
+              "Kewajiban atau utang"
+            ],
+            [
+              "股东",
+              "gǔdōng",
+              "Pemegang saham"
+            ],
+            [
+              "分红",
+              "fēnhóng",
+              "Dividen"
+            ],
+            [
+              "上市",
+              "shàngshì",
+              "Go public atau IPO"
+            ],
+            [
+              "并购",
+              "bìnggòu",
+              "Merger dan akuisisi"
+            ],
+            [
+              "审计",
+              "shěnjì",
+              "Audit"
+            ],
+            [
+              "税务",
+              "shuìwù",
+              "Pajak"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "本合同自签署之日起生效。",
+              "pinyin": "Běn hétong zì qiānshǔ zhī rì qǐ shēngxiào.",
+              "arti": "Kontrak ini berlaku sejak tanggal penandatanganan.",
+              "catatan": "Formulasi kontraktual formal."
+            },
+            {
+              "hanzi": "有效期为一年。",
+              "pinyin": "Yǒuxiào qī wèi yī nián.",
+              "arti": "Masa berlaku adalah satu tahun.",
+              "catatan": "Frasa formal mengenai masa berlaku."
+            },
+            {
+              "hanzi": "任何一方不得单方面终止合同。",
+              "pinyin": "Rènhé yīfāng bùdé dān fāngmiàn zhōngzhǐ hétong.",
+              "arti": "Tidak ada pihak yang boleh mengakhiri kontrak secara sepihak.",
+              "catatan": "Contoh larangan kontraktual."
+            },
+            {
+              "hanzi": "如有争议，双方应友好协商解决。",
+              "pinyin": "Rú yǒu zhēngyì, shuāngfāng yīng yǒuhǎo xiéshāng jiějué.",
+              "arti": "Jika terjadi sengketa, kedua pihak harus menyelesaikannya melalui musyawarah.",
+              "catatan": "Contoh klausul penyelesaian sengketa."
+            },
+            {
+              "hanzi": "违约方应承担全部责任。",
+              "pinyin": "Wéiyuē fāng yīng chéngdān quánbù zérèn.",
+              "arti": "Pihak yang melanggar harus menanggung seluruh tanggung jawab.",
+              "catatan": "Contoh tanggung jawab akibat pelanggaran kontrak."
+            },
+            {
+              "hanzi": "我们希望能与贵公司合作。",
+              "pinyin": "Wǒmen xīwàng néng yǔ guì gōngsī hézuò.",
+              "arti": "Kami berharap dapat bekerja sama dengan perusahaan Anda.",
+              "catatan": "Ungkapan bisnis formal."
+            },
+            {
+              "hanzi": "请尽快回复我们。",
+              "pinyin": "Qǐng jǐnkuài huífù wǒmen.",
+              "arti": "Mohon balas kami sesegera mungkin.",
+              "catatan": "Ungkapan permintaan formal."
+            },
+            {
+              "hanzi": "关于合同的条款，我们需要再讨论。",
+              "pinyin": "Guānyú hétong de tiáokuǎn, wǒmen xūyào zài tǎolùn.",
+              "arti": "Mengenai klausul kontrak, kami perlu mendiskusikannya lagi.",
+              "catatan": "Digunakan untuk pembahasan kontrak."
+            },
+            {
+              "hanzi": "这个项目的时间表是怎样的？",
+              "pinyin": "Zhège xiàngmù de shíjiānbiǎo shì zěnyàng de?",
+              "arti": "Bagaimana jadwal proyek ini?",
+              "catatan": "Pertanyaan bisnis formal."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Bahasa hukum menggunakan struktur yang sangat presisi untuk mengurangi ambiguitas.",
+            "Sumber menyoroti penggunaan 的 untuk mempersempit makna.",
+            "Dalam formulasi hukum yang dibahas sumber, struktur 由 dapat digunakan untuk menyatakan pihak yang melakukan tindakan.",
+            "Pengulangan istilah yang berdekatan dapat digunakan untuk mempertegas kewajiban, misalnya 依法合规.",
+            "Dalam negosiasi bisnis, sumber menyarankan agar tidak langsung mengatakan 不行 ketika penolakan dapat disampaikan lebih halus melalui 我们考虑一下.",
+            "Konsep 面子, yaitu menjaga harga diri atau muka pihak lain, dianggap penting dalam interaksi bisnis.",
+            "Kartu nama 名片 dapat diberikan dan diterima dengan kedua tangan lalu dibaca sejenak.",
+            "Dalam negosiasi, kata seperti 大概 dan 可能 dapat digunakan ketika ingin menghindari pernyataan yang terlalu absolut."
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "尊敬的张经理：您好！感谢贵公司对我方的信任。",
+              "pinyin": "Zūnjìng de Zhāng jīnglǐ: Nín hǎo! Gǎnxiè guì gōngsī duì wǒfāng de xìnrèn.",
+              "arti": "Manajer Zhang yang terhormat. Salam! Terima kasih atas kepercayaan perusahaan Anda kepada kami.",
+              "catatan": "Contoh pembukaan email bisnis formal."
+            },
+            {
+              "hanzi": "根据我们上次会议的讨论，现附上合作项目的初步方案，请查阅。",
+              "pinyin": "Gēnjù wǒmen shàng cì huìyì de tǎolùn, xiàn fùshàng hézuò xiàngmù de chūbù fāng'àn, qǐng cháyuè.",
+              "arti": "Berdasarkan pembahasan dalam rapat terakhir, kami lampirkan rencana awal proyek kerja sama untuk ditinjau.",
+              "catatan": "Formulasi email bisnis formal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "15. Kata Tabu dan Sumpah Serapah (禁忌语 & 骂人话 - Jìnjìyǔ & Màrénhuà)",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Kata tabu dan sumpah serapah perlu dipelajari terutama agar pembelajar dapat memahami film, drama, percakapan, dan budaya populer. Penggunaan aktualnya sangat bergantung pada hubungan sosial, situasi, tingkat kemarahan, dan konteks."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Tabu",
+            "Homofon atau asosiasi",
+            "Alasan dihindari"
+          ],
+          "baris": [
+            [
+              "四 (<span class=\"py\">sì</span>)",
+              "死 (<span class=\"py\">sǐ</span>)",
+              "Bunyi mirip sehingga angka 4 diasosiasikan dengan kematian"
+            ],
+            [
+              "送钟 (<span class=\"py\">sòng zhōng</span>)",
+              "送终 (<span class=\"py\">sòngzhōng</span>)",
+              "Memberi jam terdengar seperti mengantar kematian"
+            ],
+            [
+              "伞 (<span class=\"py\">sǎn</span>)",
+              "散 (<span class=\"py\">sàn</span>)",
+              "Diasosiasikan dengan berpisah atau bubar"
+            ],
+            [
+              "梨 (<span class=\"py\">lí</span>)",
+              "离 (<span class=\"py\">lí</span>)",
+              "Diasosiasikan dengan berpisah"
+            ],
+            [
+              "送鞋 (<span class=\"py\">sòng xié</span>)",
+              "送邪 atau asosiasi dengan 送走",
+              "Dalam sumber dikaitkan dengan pengiriman kejahatan atau mengusir seseorang"
+            ],
+            [
+              "手帕 (<span class=\"py\">shǒupà</span>)",
+              "Asosiasi dengan 分手",
+              "Dihindari sebagai hadiah kepada pasangan"
+            ],
+            [
+              "绿色帽子 (<span class=\"py\">lǜsè màozi</span>)",
+              "Asosiasi budaya tertentu",
+              "Melambangkan pasangan yang berselingkuh dan dapat menjadi penghinaan berat"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Ekspresi",
+            "Pinyin",
+            "Tingkat",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "讨厌！",
+              "tǎoyàn!",
+              "Sangat ringan",
+              "Menyebalkan atau kesal"
+            ],
+            [
+              "烦死了！",
+              "fán sǐ le!",
+              "Ringan",
+              "Menyebalkan banget"
+            ],
+            [
+              "别瞎说！",
+              "Bié xiā shuō!",
+              "Ringan",
+              "Jangan ngawur"
+            ],
+            [
+              "神经病！",
+              "shénjīngbìng!",
+              "Sedang hingga kasar",
+              "Gila atau sakit jiwa"
+            ],
+            [
+              "你有病啊？",
+              "Nǐ yǒu bìng a?",
+              "Sedang hingga kasar",
+              "Kamu sakit? sebagai sindiran"
+            ],
+            [
+              "滚！",
+              "gǔn!",
+              "Kasar",
+              "Pergi atau minggir"
+            ],
+            [
+              "放屁",
+              "fàng pì",
+              "Kasar",
+              "Omong kosong"
+            ],
+            [
+              "扯淡",
+              "chědàn",
+              "Kasar",
+              "Omong kosong"
+            ],
+            [
+              "傻逼",
+              "shǎ bī",
+              "Sangat kasar",
+              "Penghinaan berat"
+            ],
+            [
+              "你妈逼",
+              "nǐ mā bī",
+              "Sangat kasar",
+              "Penghinaan seksual terhadap ibu"
+            ],
+            [
+              "他妈的",
+              "tā mā de",
+              "Sangat kasar",
+              "Sumpah serapah"
+            ],
+            [
+              "操",
+              "cào",
+              "Sangat kasar",
+              "Sumpah serapah seksual"
+            ],
+            [
+              "操你妈",
+              "cào nǐ mā",
+              "Sangat kasar",
+              "Penghinaan seksual terhadap ibu"
+            ],
+            [
+              "我日你妈",
+              "wǒ rì nǐ mā",
+              "Sangat kasar",
+              "Variasi penghinaan terhadap ibu"
+            ],
+            [
+              "去死吧",
+              "qù sǐ ba",
+              "Sangat ofensif",
+              "Menyuruh seseorang mati"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk kasar",
+            "Eufemisme",
+            "Pinyin",
+            "Makna eufemisme"
+          ],
+          "baris": [
+            [
+              "他妈的",
+              "他喵的",
+              "tā miāo de",
+              "Meongnya dia"
+            ],
+            [
+              "我靠",
+              "我晕",
+              "wǒ yūn",
+              "Aku pusing"
+            ],
+            [
+              "我靠",
+              "我去",
+              "wǒ qù",
+              "Aku pergi"
+            ],
+            [
+              "我操",
+              "我擦",
+              "wǒ cā",
+              "Aku menghapus"
+            ],
+            [
+              "傻逼",
+              "傻瓜 / 呆瓜",
+              "shǎguā / dāiguā",
+              "Labu bodoh atau bebal"
+            ],
+            [
+              "滚",
+              "走开",
+              "zǒukāi",
+              "Pergi, tetapi lebih halus"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Level",
+            "Contoh",
+            "Fungsi"
+          ],
+          "baris": [
+            [
+              "0–15 persen kekasaran",
+              "<span class=\"hz\">哎呀</span>, <span class=\"hz\">糟糕</span>, <span class=\"hz\">完了</span>, <span class=\"hz\">我晕</span>",
+              "Ekspresi kaget, kesal, atau kecewa yang relatif aman"
+            ],
+            [
+              "Pasif-agresif",
+              "<span class=\"hz\">你真是天才！</span>, <span class=\"hz\">你赢了</span>, <span class=\"hz\">随便你</span>, <span class=\"hz\">你好厉害哦</span>",
+              "Sindiran atau ketidaksetujuan tidak langsung"
+            ],
+            [
+              "Kasar",
+              "<span class=\"hz\">神经病</span>, <span class=\"hz\">有病啊？</span>, <span class=\"hz\">滚</span>, <span class=\"hz\">放屁</span>",
+              "Penghinaan langsung"
+            ],
+            [
+              "Sangat kasar",
+              "<span class=\"hz\">傻逼</span>, <span class=\"hz\">你妈逼</span>, <span class=\"hz\">操你妈</span>, <span class=\"hz\">我日你妈</span>",
+              "Penghinaan berat, terutama terhadap keluarga"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Sumber menjelaskan bahwa penghinaan terhadap ibu memiliki bobot budaya yang kuat dan mengaitkannya dengan pentingnya penghormatan keluarga serta konsep <span class=\"hz\">孝</span> (<span class=\"py\">xiào</span>), yaitu berbakti kepada orang tua. Namun, alasan penggunaan sumpah serapah sangat kompleks dan tidak boleh direduksi menjadi satu penyebab budaya saja."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Pelajari kata-kata kasar untuk memahami makna ketika mendengar atau membacanya, bukan untuk menggunakannya sembarangan. Ungkapan yang sangat kasar dapat menghina keluarga, merusak hubungan, dan memicu konflik serius. Untuk menyatakan kekesalan, bentuk netral atau eufemisme jauh lebih aman."
+        }
+      ]
+    },
+    {
+      "judul": "16. Bahasa Cinta dan Romantis (恋爱用语 - Liàn'ài Yòngyǔ)",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Bahasa romantis Mandarin memiliki beberapa lapisan: ungkapan sehari-hari, panggilan sayang, bahasa gaul anak muda, pernyataan komitmen, serta ungkapan puitis dari sastra klasik. Tingkat keintiman dan keseriusan sangat menentukan pilihan kata."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Panggilan",
+            "Pinyin",
+            "Arti literal",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "宝贝",
+              "bǎobèi",
+              "Bayi atau permata",
+              "Panggilan sayang umum"
+            ],
+            [
+              "亲爱的",
+              "qīn'ài de",
+              "Yang tercinta",
+              "Lebih serius atau dewasa"
+            ],
+            [
+              "老公",
+              "lǎogōng",
+              "Suami",
+              "Untuk suami atau pacar laki-laki dalam hubungan serius"
+            ],
+            [
+              "老婆",
+              "lǎopó",
+              "Istri",
+              "Untuk istri atau pacar perempuan dalam hubungan serius"
+            ],
+            [
+              "宝宝",
+              "bǎobǎo",
+              "Bayi",
+              "Lebih manis dan genit"
+            ],
+            [
+              "小猪猪",
+              "xiǎo zhū zhū",
+              "Babi kecil",
+              "Panggilan bercanda dan cute"
+            ],
+            [
+              "傻瓜",
+              "shǎguā",
+              "Bodoh",
+              "Dapat menjadi panggilan mesra atau genit"
+            ],
+            [
+              "笨蛋",
+              "bèndàn",
+              "Telur bodoh",
+              "Dapat digunakan secara genit, bukan selalu penghinaan"
+            ],
+            [
+              "男朋友 / 女朋友",
+              "nán péngyou / nǚ péngyou",
+              "Pacar laki-laki atau perempuan",
+              "Istilah hubungan yang lebih langsung"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Tahap atau situasi",
+            "Frasa",
+            "Pinyin",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "Awal PDKT",
+              "<span class=\"hz\">我对你有好感。</span>",
+              "Wǒ duì nǐ yǒu hǎogǎn.",
+              "Aku punya ketertarikan padamu."
+            ],
+            [
+              "Lebih langsung",
+              "<span class=\"hz\">我喜欢你。</span>",
+              "Wǒ xǐhuān nǐ.",
+              "Aku suka kamu."
+            ],
+            [
+              "Pernyataan cinta serius",
+              "<span class=\"hz\">我爱你。</span>",
+              "Wǒ ài nǐ.",
+              "Aku cinta kamu."
+            ],
+            [
+              "Rindu",
+              "<span class=\"hz\">我想你。</span>",
+              "Wǒ xiǎng nǐ.",
+              "Aku kangen kamu."
+            ],
+            [
+              "Pujian",
+              "<span class=\"hz\">你真好看。</span>",
+              "Nǐ zhēn hǎokàn.",
+              "Kamu cantik atau ganteng."
+            ],
+            [
+              "Kedekatan",
+              "<span class=\"hz\">有你在真好。</span>",
+              "Yǒu nǐ zài zhēn hǎo.",
+              "Senang ada kamu."
+            ],
+            [
+              "Komitmen",
+              "<span class=\"hz\">我想和你共度余生。</span>",
+              "Wǒ xiǎng hé nǐ gòngdù yúshēng.",
+              "Aku ingin menghabiskan sisa hidupku denganmu."
+            ],
+            [
+              "Lamaran",
+              "<span class=\"hz\">你愿意嫁给我吗？</span>",
+              "Nǐ yuànyì jià gěi wǒ ma?",
+              "Maukah kau menikah denganku?"
+            ],
+            [
+              "Persetujuan",
+              "<span class=\"hz\">我愿意。</span>",
+              "Wǒ yuànyì.",
+              "Aku mau atau aku bersedia."
+            ],
+            [
+              "Pernikahan",
+              "<span class=\"hz\">我们结婚吧。</span>",
+              "Wǒmen jiéhūn ba.",
+              "Mari kita menikah."
+            ],
+            [
+              "Komitmen",
+              "<span class=\"hz\">我会照顾你一辈子。</span>",
+              "Wǒ huì zhàogù nǐ yībèizi.",
+              "Aku akan menjagamu seumur hidup."
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Slang",
+            "Pinyin",
+            "Arti atau nuansa"
+          ],
+          "baris": [
+            [
+              "秀恩爱",
+              "xiù ēn'ài",
+              "Pamer kasih sayang atau hubungan"
+            ],
+            [
+              "撒狗粮",
+              "sǎ gǒuliáng",
+              "Pamer kemesraan di depan orang yang jomblo"
+            ],
+            [
+              "吃狗粮",
+              "chī gǒuliáng",
+              "Menjadi saksi kemesraan pasangan lain"
+            ],
+            [
+              "单身狗",
+              "dānshēngǒu",
+              "Orang yang tidak memiliki pasangan"
+            ],
+            [
+              "脱单",
+              "tuō dān",
+              "Akhirnya memiliki pasangan"
+            ],
+            [
+              "分手",
+              "fēnshǒu",
+              "Putus"
+            ],
+            [
+              "复合",
+              "fùhé",
+              "Balikan atau kembali bersama"
+            ],
+            [
+              "舔狗",
+              "tiǎngǒu",
+              "Orang yang terlalu berkorban demi seseorang yang tidak membalas"
+            ],
+            [
+              "备胎",
+              "bèitāi",
+              "Orang yang dijadikan cadangan"
+            ],
+            [
+              "绿茶",
+              "lǜchá",
+              "Label slang untuk perempuan yang terlihat polos tetapi dianggap manipulatif"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你在干嘛？",
+              "pinyin": "Nǐ zài gàn má?",
+              "arti": "Kamu sedang apa?",
+              "catatan": "Dapat menjadi pembuka chat yang akrab."
+            },
+            {
+              "hanzi": "今天特别想你。",
+              "pinyin": "Jīntiān tèbié xiǎng nǐ.",
+              "arti": "Hari ini aku sangat merindukanmu.",
+              "catatan": "Ungkapan rindu yang lebih emosional."
+            },
+            {
+              "hanzi": "我喜欢你笑的样子。",
+              "pinyin": "Wǒ xǐhuān nǐ xiào de yàngzi.",
+              "arti": "Aku suka caramu tersenyum.",
+              "catatan": "Pujian romantis."
+            },
+            {
+              "hanzi": "辛苦啦！晚上想吃什么？我请你。",
+              "pinyin": "Xīnkǔ la! Wǎnshang xiǎng chī shénme? Wǒ qǐng nǐ.",
+              "arti": "Capek ya! Mau makan malam apa? Aku traktir.",
+              "catatan": "Contoh percakapan pasangan dalam chat."
+            },
+            {
+              "hanzi": "好，接你。爱你！",
+              "pinyin": "Hǎo, jiē nǐ. Ài nǐ!",
+              "arti": "Oke, aku jemput kamu. Cinta kamu!",
+              "catatan": "Ungkapan romantis kasual."
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kutipan",
+            "Pinyin",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "两情若是久长时，又岂在朝朝暮暮。",
+              "Liǎng qíng ruòshì jiǔcháng shí, yòu qǐ zài zhāozhāo mùmù.",
+              "Jika cinta abadi, tak perlu setiap hari bertemu."
+            ],
+            [
+              "愿我如星君如月，夜夜流光相皎洁。",
+              "Yuàn wǒ rú xīng jūn rú yuè, yè yè liúguāng xiāng jiǎojié.",
+              "Semoga aku seperti bintang dan kau seperti bulan, bercahaya bersama setiap malam."
+            ],
+            [
+              "山无棱，天地合，乃敢与君绝。",
+              "Shān wú léng, tiāndì hé, nǎi gǎn yǔ jūn jué.",
+              "Jika gunung tak memiliki puncak dan langit serta bumi menyatu, barulah aku berani berpisah denganmu."
+            ],
+            [
+              "一日不见，如隔三秋。",
+              "Yī rì bù jiàn, rú gé sān qiū.",
+              "Sehari tidak bertemu terasa seperti tiga tahun."
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap semua panggilan romantis memiliki tingkat keintiman yang sama. 老公 dan 老婆 dapat menyiratkan hubungan yang lebih serius, sedangkan 宝贝, 宝宝, 傻瓜, atau 笨蛋 dapat bersifat lebih manja dan bergantung pada hubungan."
+        }
+      ]
+    },
+    {
+      "judul": "17. Bahasa Media Sosial: WeChat, Weibo, dan Douyin",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Bahasa media sosial Mandarin berkembang sangat cepat dan membentuk ekosistem tersendiri. WeChat terutama digunakan untuk komunikasi dan Moments, Weibo untuk percakapan publik dan topik viral, sedangkan Douyin menjadi ruang penting bagi video pendek, live streaming, dan perdagangan berbasis konten."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Indonesia",
+            "Mandarin",
+            "Pinyin",
+            "Keterangan"
+          ],
+          "baris": [
+            [
+              "Media sosial",
+              "<span class=\"hz\">社交媒体</span>",
+              "shèjiāo méitǐ",
+              "Media sosial"
+            ],
+            [
+              "WeChat",
+              "<span class=\"hz\">微信</span>",
+              "Wēixìn",
+              "Platform komunikasi"
+            ],
+            [
+              "Weibo",
+              "<span class=\"hz\">微博</span>",
+              "Wēibó",
+              "Platform publik dan trending topic"
+            ],
+            [
+              "Douyin",
+              "<span class=\"hz\">抖音</span>",
+              "Dǒuyīn",
+              "Platform video pendek"
+            ],
+            [
+              "Postingan",
+              "<span class=\"hz\">帖子</span> / <span class=\"hz\">动态</span>",
+              "tiězi / dòngtài",
+              "Post atau status"
+            ],
+            [
+              "DM",
+              "<span class=\"hz\">私信</span>",
+              "sīxìn",
+              "Pesan pribadi"
+            ],
+            [
+              "Follow",
+              "<span class=\"hz\">关注</span>",
+              "guānzhù",
+              "Mengikuti akun"
+            ],
+            [
+              "Unfollow",
+              "<span class=\"hz\">取关</span>",
+              "qǔguān",
+              "Berhenti mengikuti"
+            ],
+            [
+              "Like",
+              "<span class=\"hz\">点赞</span>",
+              "diǎnzàn",
+              "Memberi like"
+            ],
+            [
+              "Share",
+              "<span class=\"hz\">转发</span>",
+              "zhuǎnfā",
+              "Membagikan atau meneruskan"
+            ],
+            [
+              "Komentar",
+              "<span class=\"hz\">评论</span>",
+              "pínglùn",
+              "Komentar"
+            ],
+            [
+              "Follower",
+              "<span class=\"hz\">粉丝</span>",
+              "fěnsī",
+              "Pengikut"
+            ],
+            [
+              "Viral",
+              "<span class=\"hz\">爆红</span> / <span class=\"hz\">火了</span>",
+              "bàohóng / huǒ le",
+              "Menjadi viral atau populer"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Ungkapan",
+            "Pinyin",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "求关注！",
+              "Qiú guānzhù!",
+              "Tolong follow!"
+            ],
+            [
+              "互粉一下！",
+              "Hù fěn yīxià!",
+              "Follow balik ya!"
+            ],
+            [
+              "赞一个！",
+              "Zàn yī gè!",
+              "Like satu ya!"
+            ],
+            [
+              "已转发！",
+              "Yǐ zhuǎnfā!",
+              "Sudah share!"
+            ],
+            [
+              "打卡",
+              "dǎkǎ",
+              "Check-in atau menandai kunjungan"
+            ],
+            [
+              "刷屏",
+              "shuāpíng",
+              "Membanjiri feed atau spam"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Slang",
+            "Pinyin",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "网红",
+              "wǎnghóng",
+              "Selebriti internet atau influencer"
+            ],
+            [
+              "主播",
+              "zhǔbō",
+              "Host atau live streamer"
+            ],
+            [
+              "直播带货",
+              "zhíbò dàihuò",
+              "Live streaming sambil menjual produk"
+            ],
+            [
+              "老铁",
+              "lǎotiě",
+              "Bro atau sahabat karib"
+            ],
+            [
+              "兄弟萌",
+              "xiōngdì men",
+              "Bro-bro dalam gaya gaul"
+            ],
+            [
+              "集美们",
+              "jíměi men",
+              "Panggilan gaul untuk kelompok perempuan"
+            ],
+            [
+              "冲鸭！",
+              "chōng yā!",
+              "Semangat atau ayo"
+            ],
+            [
+              "啊啊啊",
+              "āāā",
+              "Ekspresi heboh, kaget, atau girang"
+            ],
+            [
+              "破防了",
+              "pòfáng le",
+              "Tersentuh atau terbawa emosi"
+            ],
+            [
+              "绝绝子",
+              "juéjuézi",
+              "Keren abis atau sempurna"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Singkatan",
+            "Bentuk Mandarin",
+            "Pinyin",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "yyds",
+              "永远滴神",
+              "yǒngyuǎn de shén",
+              "GOAT atau yang dianggap terbaik"
+            ],
+            [
+              "xswl",
+              "笑死我了",
+              "xiào sǐ wǒ le",
+              "Ngakak banget"
+            ],
+            [
+              "nsdd",
+              "你说得对",
+              "nǐ shuō de duì",
+              "Kamu benar; dapat juga bersifat sarkastis"
+            ],
+            [
+              "u1s1",
+              "有一说一",
+              "yǒu yī shuō yī",
+              "Sejujurnya atau to be fair"
+            ],
+            [
+              "awsl",
+              "啊我死了",
+              "a wǒ sǐ le",
+              "Aku mati karena terlalu gemas atau terharu"
+            ],
+            [
+              "bhys",
+              "不好意思",
+              "bù hǎoyìsi",
+              "Maaf atau permisi"
+            ],
+            [
+              "zqsg",
+              "真情实感",
+              "zhēnqíng shígǎn",
+              "Perasaan sungguhan atau emosional"
+            ],
+            [
+              "pyq",
+              "朋友圈",
+              "péngyou quān",
+              "Momen atau timeline WeChat"
+            ],
+            [
+              "dbq",
+              "对不起",
+              "duìbuqǐ",
+              "Maaf"
+            ],
+            [
+              "rj",
+              "人间",
+              "rénjiān",
+              "Dunia; sering muncul dalam gaya tulisan pendek"
+            ],
+            [
+              "plz",
+              "-",
+              "-",
+              "Please dari bahasa Inggris"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Platform",
+            "Istilah",
+            "Pinyin",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "WeChat",
+              "朋友圈",
+              "péngyou quān",
+              "Moments atau feed foto dan status"
+            ],
+            [
+              "WeChat",
+              "状态",
+              "zhuàngtài",
+              "Status"
+            ],
+            [
+              "WeChat",
+              "发红包",
+              "fā hóngbāo",
+              "Mengirim angpao digital"
+            ],
+            [
+              "WeChat",
+              "抢红包",
+              "qiǎng hóngbāo",
+              "Berebut angpao digital"
+            ],
+            [
+              "WeChat",
+              "撤回",
+              "chèhuí",
+              "Menarik atau menghapus pesan yang telah dikirim"
+            ],
+            [
+              "WeChat",
+              "拉黑",
+              "lāhēi",
+              "Memblokir seseorang"
+            ],
+            [
+              "Weibo",
+              "热搜",
+              "rèsōu",
+              "Daftar topik pencarian atau tren populer"
+            ],
+            [
+              "Weibo",
+              "超话",
+              "chāohuà",
+              "Komunitas atau super topic"
+            ],
+            [
+              "Weibo",
+              "广场",
+              "guǎngchǎng",
+              "Ruang feed publik terkait topik"
+            ],
+            [
+              "Weibo",
+              "大V",
+              "dà V",
+              "Akun besar atau terverifikasi"
+            ],
+            [
+              "Douyin",
+              "直播",
+              "zhíbō",
+              "Live streaming"
+            ],
+            [
+              "Douyin",
+              "主播",
+              "zhǔbō",
+              "Host live"
+            ],
+            [
+              "Douyin",
+              "打赏",
+              "dǎshǎng",
+              "Memberi donasi atau gift"
+            ],
+            [
+              "Douyin",
+              "刷礼物",
+              "shuā lǐwù",
+              "Mengirim hadiah virtual"
+            ],
+            [
+              "Douyin",
+              "热门",
+              "rèmén",
+              "Konten yang sedang populer"
+            ],
+            [
+              "Douyin",
+              "合拍",
+              "hépāi",
+              "Duet atau stitch video"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">表情包</span> (<span class=\"py\">biǎoqíngbāo</span>) atau stiker dan GIF berfungsi sebagai bentuk komunikasi visual. Dalam budaya chat, satu gambar dapat menggantikan kalimat panjang dan menyampaikan emosi, persetujuan, ejekan, humor, atau simpati."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "今天有人吃鸡吗？",
+              "pinyin": "Jīntiān yǒu rén chī jī ma?",
+              "arti": "Ada yang main PUBG hari ini?",
+              "catatan": "吃鸡 adalah slang game untuk menang atau bermain battle royale dalam konteks yang diberikan sumber."
+            },
+            {
+              "hanzi": "我我我！带我飞！",
+              "pinyin": "Wǒ wǒ wǒ! Dài wǒ fēi!",
+              "arti": "Aku! Aku! Bawa aku!",
+              "catatan": "带我飞 berarti meminta pemain yang lebih kuat untuk membawa atau membantu."
+            },
+            {
+              "hanzi": "你们真闲，我还在加班。",
+              "pinyin": "Nǐmen zhēn xián, wǒ hái zài jiābān.",
+              "arti": "Kalian santai sekali, aku masih lembur.",
+              "catatan": "Contoh percakapan grup."
+            },
+            {
+              "hanzi": "心疼你。xswl。",
+              "pinyin": "Xīnténg nǐ. xswl.",
+              "arti": "Kasihan kamu. Ngakak.",
+              "catatan": "Menggabungkan ungkapan biasa dengan singkatan internet."
+            },
+            {
+              "hanzi": "拉黑了！",
+              "pinyin": "Lāhēi le!",
+              "arti": "Aku block kalian!",
+              "catatan": "拉黑 berarti memblokir seseorang."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Bahasa media sosial sangat cepat berubah; istilah dapat menjadi populer lalu hilang dalam waktu relatif singkat.",
+            "Singkatan pinyin digunakan untuk mempercepat pengetikan.",
+            "Kode angka menggunakan asosiasi bunyi.",
+            "Bahasa media sosial juga menyerap unsur Jepang, Inggris, K-pop, dan budaya global.",
+            "Stiker dan GIF berfungsi sebagai respons emosional dan sosial.",
+            "Dalam sumber, pengguna disarankan berhati-hati terhadap unggahan yang terlalu pribadi.",
+            "Like melalui <span class=\"hz\">点赞</span> dapat berfungsi sebagai bentuk dukungan sosial.",
+            "Konteks politik dan sosial perlu diperhatikan ketika menggunakan platform publik."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Istilah media sosial sangat bergantung pada generasi dan platform. Jangan menganggap slang yang populer di satu komunitas otomatis dipahami atau dianggap alami di semua wilayah penutur Mandarin."
+        }
+      ]
+    },
+    {
+      "judul": "18. Bahasa Internet Historis dan Varian yang Kurang Dibahas",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Dokumen sumber juga mengidentifikasi beberapa area yang pada pembahasan awal belum mendalam, termasuk <span class=\"hz\">火星文</span> (<span class=\"py\">Huǒxīngwén</span>) dan <span class=\"hz\">歇后语</span> (<span class=\"py\">xiēhòuyǔ</span>). Keduanya memperlihatkan bahwa variasi bahasa Mandarin tidak hanya terjadi melalui dialek geografis, tetapi juga melalui kreativitas tulisan dan ungkapan budaya."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk normal",
+            "火星文",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "我爱你",
+              "莪叆沵",
+              "Aku cinta kamu"
+            ],
+            [
+              "你好",
+              "沵恏",
+              "Halo"
+            ],
+            [
+              "我们",
+              "莪們",
+              "Kami atau kita"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">歇后语</span> biasanya terdiri dari dua bagian. Bagian pertama berupa gambaran atau analogi, sedangkan bagian kedua menyampaikan makna tersembunyi atau kesimpulan yang dipahami pendengar."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bagian pertama",
+            "Bagian kedua",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "哑巴吃黄连",
+              "有苦说不出",
+              "Orang bisu makan herbal pahit: memiliki penderitaan tetapi tidak dapat mengungkapkannya"
+            ],
+            [
+              "狗拿耗子",
+              "多管闲事",
+              "Anjing menangkap tikus: mencampuri urusan orang lain"
+            ],
+            [
+              "竹篮打水",
+              "一场空",
+              "Mengambil air dengan keranjang bambu: berakhir sia-sia"
+            ],
+            [
+              "肉包子打狗",
+              "有去无回",
+              "Bakpao dilempar ke anjing: pergi dan tidak kembali"
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Varian seperti 火星文 dan 歇后语 sangat bergantung pada konteks budaya. Memahami struktur dan maknanya lebih penting daripada mencoba menggunakannya secara paksa dalam percakapan modern."
+        }
+      ]
+    },
+    {
+      "judul": "19. Bahasa Minoritas dan Ruang Linguistik Tiongkok",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Dokumen sumber menekankan bahwa Tiongkok bukan hanya memiliki Mandarin. Sumber menyebut 56 kelompok etnis dengan bahasa masing-masing dan memberikan beberapa contoh komunitas bahasa minoritas. Bagian ini memperluas pemahaman bahwa lanskap bahasa Tiongkok jauh lebih beragam daripada satu bahasa standar."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Etnis",
+            "Bahasa",
+            "Perkiraan penutur dalam sumber",
+            "Wilayah"
+          ],
+          "baris": [
+            [
+              "Uighur",
+              "Uighur",
+              "~10 juta",
+              "Xinjiang"
+            ],
+            [
+              "Tibet",
+              "Tibet",
+              "~6 juta",
+              "Tibet"
+            ],
+            [
+              "Mongol",
+              "Mongol",
+              "~5 juta",
+              "Mongolia Dalam"
+            ],
+            [
+              "Zhuang",
+              "Zhuang",
+              "~18 juta",
+              "Guangxi"
+            ],
+            [
+              "Miao",
+              "Hmong",
+              "~9 juta",
+              "Guizhou dan Yunnan"
+            ],
+            [
+              "Yi",
+              "Yi",
+              "~8 juta",
+              "Sichuan dan Yunnan"
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Mandarin standar tidak boleh dianggap sebagai satu-satunya bahasa yang digunakan oleh seluruh penduduk Tiongkok. Bahasa minoritas, varietas regional, dan dialek lokal membentuk ekosistem linguistik yang jauh lebih luas."
+        }
+      ]
+    },
+    {
+      "judul": "20. Sintesis Perjalanan Bahasa Mandarin",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Tahap",
+            "Perkembangan"
+          ],
+          "baris": [
+            [
+              "Aksara kuno",
+              "<span class=\"hz\">甲骨文</span> (<span class=\"py\">Jiǎgǔwén</span>) dan bentuk tulisan awal"
+            ],
+            [
+              "Tradisional",
+              "<span class=\"hz\">繁体字</span> mempertahankan banyak bentuk historis"
+            ],
+            [
+              "Penyederhanaan",
+              "Penyederhanaan aksara secara resmi pada 1956 menghasilkan penggunaan luas <span class=\"hz\">简体字</span>"
+            ],
+            [
+              "Standardisasi",
+              "Mandarin standar berkembang sebagai alat komunikasi nasional"
+            ],
+            [
+              "Digitalisasi",
+              "Pinyin, Zhuyin, input suara, prediksi keyboard, slang angka, singkatan, dan media sosial mempercepat perubahan bahasa"
+            ]
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Bahasa Mandarin memiliki lapisan historis: aksara kuno, bahasa klasik, Mandarin awal, bahasa vernakular, dan Mandarin modern.",
+            "Variasi geografis menciptakan dialek atau varietas dengan perbedaan bunyi dan kosakata yang besar.",
+            "Variasi sosial mencakup bahasa formal, bisnis, hukum, percakapan, game, slang, dan bahasa romantis.",
+            "Kontak dengan Buddhisme, Jepang, Inggris, dan budaya global memperkaya kosakata.",
+            "Teknologi membuat penulisan, konversi aksara, komunikasi digital, dan penciptaan slang berlangsung lebih cepat.",
+            "Penguasaan Mandarin tingkat tinggi membutuhkan kemampuan membaca karakter, memahami kosakata, mengenali register, serta mengetahui konteks regional dan budaya."
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Pemahaman tentang variasi bahasa membuat pembelajar mampu berpindah antara teks klasik dan modern, mengenali perbedaan aksara sederhana dan tradisional, memahami slang dan idiom, menyesuaikan bahasa untuk situasi bisnis atau personal, serta membaca komunikasi digital dengan lebih akurat."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Bahasa Mandarin adalah sistem yang hidup dan terus berubah. Tidak ada satu daftar yang dapat mencakup seluruh variasi, seluruh dialek, seluruh idiom, atau seluruh slang untuk selamanya. Materi ini merupakan struktur komprehensif berdasarkan dokumen sumber, bukan klaim bahwa seluruh bahasa Mandarin telah tercakup secara mutlak."
+        }
+      ]
+    }
+  ]
+}
