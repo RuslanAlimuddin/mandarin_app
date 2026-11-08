@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Latihan Tone — Mandarin Interaktif</title>
+  <link rel="stylesheet" href="shared/style.css" />
+  <script src="shared/core.js"></script>
+  <script src="shared/pinyin.js"></script>
+  <script src="shared/audio.js"></script>
+  <style>
+    /* ═══════════════════════════════════════════════════
+       CSS LOKAL tone.html
+    ═══════════════════════════════════════════════════ */
+
+    .tone-layout {
+      max-width: 640px;
+      margin: 0 auto;
+      padding: calc(var(--nav-h) + 24px) 20px 40px;
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+    }
+
+    .tone-header {
+      text-align: center;
+    }
+
+    .tone-header h1 {
+      font-size: 1.3rem;
+      color: var(--text-main);
+      font-weight: 500;
+      margin-bottom: 4px;
+    }
+
+    .tone-header p {
+      font-size: 0.84rem;
+      color: var(--text-muted);
+    }
+
+    /* ── Mode toggle ────────────────────────────────────── */
+    .tone-mode-toggle {
+      display: flex;
+      gap: 8px;
+    }
+
+    .tone-mode-btn {
+      flex: 1;
+      padding: 10px;
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      background: var(--bg-card2);
+      color: var(--text-dim);
+      font-size: 0.86rem;
+      cursor: pointer;
+      transition: all var(--transition);
+    }
+
+    .tone-mode-btn.active {
+      background: var(--gold-bg);
+      border-color: var(--gold-dim);
+      color: var(--gold);
+    }
+
+    /* ── Score ──────────────────────────────────────────── */
+    .tone-score {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      font-size: 0.82rem;
+      color: var(--text-muted);
+    }
+
+    .tone-score strong {
+      color: var(--text-main);
+    }
+
+    .tone-score .ok  { color: #7ac47a; }
+    .tone-score .bad { color: #d97070; }
+
+    /* ── Kartu soal ─────────────────────────────────────── */
+    .tone-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg, var(--radius));
+      padding: 32px 24px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+      text-align: center;
+    }
+
+    .tone-play-btn {
+      width: 84px;
+      height: 84px;
+      border-radius: 50%;
+      background: var(--gold-bg);
+      border: 1px solid var(--gold-dim);
+      color: var(--gold);
+      font-size: 2.2rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all var(--transition);
+    }
+
+    .tone-play-btn:hover {
+      background: var(--gold-bg-hover);
+      transform: scale(1.05);
+    }
+
+    .tone-play-hint {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+    }
+
+    .tone-speed-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    /* ── Pilihan nada ───────────────────────────────────── */
+    .tone-options-nada {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 10px;
+      width: 100%;
+    }
+
+    .tone-nada-btn {
+      padding: 16px 8px;
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      background: var(--bg-card2);
+      color: var(--text-main);
+      font-size: 1rem;
+      cursor: pointer;
+      transition: all var(--transition);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .tone-nada-btn .tone-mark {
+      font-size: 1.4rem;
+      color: var(--gold);
+    }
+
+    .tone-nada-btn:hover:not(:disabled) {
+      border-color: var(--gold-dim);
+      background: var(--gold-bg);
+    }
+
+    .tone-nada-btn:disabled {
+      cursor: default;
+    }
+
+    /* ── Pilihan hanzi ──────────────────────────────────── */
+    .tone-options-hanzi {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
+      width: 100%;
+    }
+
+    .tone-hanzi-btn {
+      padding: 16px 8px;
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      background: var(--bg-card2);
+      color: var(--text-main);
+      font-size: 1.8rem;
+      font-weight: 300;
+      cursor: pointer;
+      transition: all var(--transition);
+    }
+
+    .tone-hanzi-btn:hover:not(:disabled) {
+      border-color: var(--gold-dim);
+      background: var(--gold-bg);
+    }
+
+    .tone-hanzi-btn:disabled {
+      cursor: default;
+    }
+
+    /* ── Status jawaban (setelah klik) ──────────────────── */
+    .tone-option-btn.mark-correct {
+      background: rgba(88, 166, 88, 0.18) !important;
+      border-color: rgba(88, 166, 88, 0.5) !important;
+      color: #7ac47a !important;
+    }
+
+    .tone-option-btn.mark-wrong {
+      background: rgba(217, 112, 112, 0.14) !important;
+      border-color: rgba(217, 112, 112, 0.4) !important;
+      color: #d97070 !important;
+    }
+
+    /* ── Feedback ───────────────────────────────────────── */
+    .tone-feedback {
+      width: 100%;
+      display: none;
+      flex-direction: column;
+      gap: 8px;
+      padding-top: 16px;
+      border-top: 1px solid var(--border);
+    }
+
+    .tone-feedback.visible {
+      display: flex;
+    }
+
+    .tone-feedback-status {
+      font-size: 0.95rem;
+      font-weight: 600;
+    }
+
+    .tone-feedback-status.ok  { color: #7ac47a; }
+    .tone-feedback-status.bad { color: #d97070; }
+
+    .tone-feedback-word {
+      font-size: 2rem;
+      color: var(--text-main);
+      font-weight: 300;
+    }
+
+    .tone-feedback-pinyin {
+      font-size: 1.1rem;
+      color: var(--gold);
+    }
+
+    .tone-feedback-meaning {
+      font-size: 0.86rem;
+      color: var(--text-dim);
+    }
+
+    .tone-next-btn {
+      margin-top: 6px;
+      padding: 10px 24px;
+      background: var(--gold-bg);
+      border: 1px solid var(--gold-dim);
+      color: var(--gold);
+      border-radius: var(--radius);
+      font-size: 0.88rem;
+      font-weight: 500;
+      cursor: pointer;
+      align-self: center;
+    }
+
+    .tone-next-btn:hover {
+      background: var(--gold-bg-hover);
+    }
+
+    /* ── Empty / loading state ──────────────────────────── */
+    .tone-empty {
+      text-align: center;
+      color: var(--text-muted);
+      padding: 40px 20px;
+      font-size: 0.86rem;
+      line-height: 1.7;
+    }
+  </style>
+</head>
+<body>
+
+<nav class="app-nav">
+  <a href="index.html" class="nav-brand">
+    <span class="hanzi-logo">漢</span>
+    <span>Mandarin Interaktif</span>
+  </a>
+  <div class="nav-links">
+    <a href="kamus.html"       class="nav-link">Kamus</a>
+    <a href="flashcard.html"   class="nav-link">Flashcard</a>
+    <a href="wordbuilder.html" class="nav-link">Word Builder</a>
+    <a href="tone.html"        class="nav-link active">Tone</a>
+    <a href="graded-reader.html" class="nav-link">Bacaan</a>
+    <a href="hsk-exam.html" class="nav-link">Ujian HSK</a>
+	<a href="tatabahasa.html" class="nav-link">Tata Bahasa</a>
+	<a href="terjemah-bebas.html" class="nav-link">Terjemah Bebas</a>
+	<a href="peta-bahasa.html" class="nav-link">Peta Bahasa</a>
+  </div>
+</nav>
+
+<div class="tone-layout">
+
+  <div class="tone-header">
+    <h1>🎵 Latihan Tone</h1>
+    <p>Dengarkan lalu tebak — melatih telinga membedakan nada Mandarin.</p>
+  </div>
+
+  <div class="tone-mode-toggle">
+    <button class="tone-mode-btn active" data-mode="nada"  onclick="setToneMode('nada')">Pilih Nada</button>
+    <button class="tone-mode-btn"        data-mode="hanzi" onclick="setToneMode('hanzi')">Pilih Hanzi</button>
+  </div>
+
+  <div class="hidden" id="tone-focus-banner" style="display:flex;align-items:center;justify-content:space-between;gap:10px;padding:8px 14px;background:var(--gold-bg);border:1px solid var(--gold-dim);border-radius:var(--radius);font-size:0.82rem;color:var(--gold)">
+    <span id="tone-focus-banner-text"></span>
+    <button onclick="clearFocusTone()" style="background:none;border:none;color:var(--gold-dim);cursor:pointer;font-size:0.78rem;text-decoration:underline">batalkan fokus</button>
+  </div>
+
+  <div class="tone-score">
+    <span>Benar: <strong class="ok" id="tone-score-ok">0</strong></span>
+    <span>Salah: <strong class="bad" id="tone-score-bad">0</strong></span>
+  </div>
+
+  <div id="tone-main-area">
+    <div class="tone-empty" id="tone-loading-state">Memuat data latihan…</div>
+  </div>
+
+</div>
+
+<div class="toast-wrap" id="toast-wrap"></div>
+
+<script>
+/* ═══════════════════════════════════════════════════════════════
+   tone.html — Modul Latihan Tone (Tier 3)
+   Sumber data: data/tone_drills.json (dihasilkan oleh
+   generate_tone_drills.py dari data/app_words.json)
+═══════════════════════════════════════════════════════════════ */
+
+const TONE_DISPLAY_MARKS = { 1: 'ˉ', 2: 'ˊ', 3: 'ˇ', 4: 'ˋ' };
+
+const TONE_STATE = {
+  mode:    'nada',   // 'nada' | 'hanzi'
+  data:    null,     // { singles: [...], groups: {...} }
+  current: null,     // soal aktif saat ini
+  answered: false,
+  score:   { ok: 0, bad: 0 },
+  focusTone: null,   // 1-4 atau null -- diisi dari ?focus=N (link dari Dashboard)
+};
+
+/* ── STATISTIK PERSISTEN (dipakai Dashboard index.html) ────────────
+   Sebelumnya skor cuma hidup di memori (TONE_STATE.score), hilang
+   begitu pindah halaman atau ganti mode. Sekarang tiap jawaban juga
+   dicatat ke localStorage supaya Dashboard bisa menampilkan progres
+   latihan nada رسلان dari waktu ke waktu.
+   Struktur: { total:{ok,bad}, byTone:{1:{ok,bad},2,3,4},
+               byMode:{nada:{ok,bad},hanzi:{ok,bad}}, lastPracticed } */
+const TONE_STATS_KEY = 'mandarin_tone_stats_v1';
+
+function todayStr() {
+  return new Date().toISOString().slice(0, 10);
+}
+
+function loadToneStatsRaw() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(TONE_STATS_KEY) || 'null');
+    if (saved && saved.total) return saved;
+  } catch (e) { /* abaikan, pakai default di bawah */ }
+  return {
+    total:   { ok: 0, bad: 0 },
+    byTone:  { 1: { ok: 0, bad: 0 }, 2: { ok: 0, bad: 0 }, 3: { ok: 0, bad: 0 }, 4: { ok: 0, bad: 0 } },
+    byMode:  { nada: { ok: 0, bad: 0 }, hanzi: { ok: 0, bad: 0 } },
+    lastPracticed: null,
+  };
+}
+
+function recordToneAnswer(isCorrect, tone) {
+  try {
+    const stats = loadToneStatsRaw();
+    const key = isCorrect ? 'ok' : 'bad';
+
+    stats.total[key]++;
+
+    const mode = TONE_STATE.mode;
+    if (!stats.byMode[mode]) stats.byMode[mode] = { ok: 0, bad: 0 };
+    stats.byMode[mode][key]++;
+
+    if (tone) {
+      if (!stats.byTone[tone]) stats.byTone[tone] = { ok: 0, bad: 0 };
+      stats.byTone[tone][key]++;
+    }
+
+    stats.lastPracticed = todayStr();
+    localStorage.setItem(TONE_STATS_KEY, JSON.stringify(stats));
+  } catch (e) { /* abaikan senyap -- bukan fitur kritis */ }
+}
+
+/* ── LATIHAN FOKUS NADA (dari tombol Dashboard) ─────────────────
+   Dashboard (index.html) menyarankan nada terlemah رسلان dan bisa
+   ditautkan ke sini lewat ?focus=N. Bukan filter mutlak (supaya jawaban
+   tidak jadi trivial/ketebak) -- cuma bobot probabilitas kemunculan
+   lebih tinggi untuk nada target, sambil soal tetap acak dari semua
+   nada seperti biasa. */
+const TONE_FOCUS_WEIGHT = 0.6; // peluang soal dipilih dari pool nada fokus
+
+function initFocusTone() {
+  const params = new URLSearchParams(window.location.search);
+  const focus  = parseInt(params.get('focus'), 10);
+  if (focus >= 1 && focus <= 4) {
+    TONE_STATE.focusTone = focus;
+    renderFocusBanner();
+  }
+}
+
+function renderFocusBanner() {
+  const banner = $('tone-focus-banner');
+  const text   = $('tone-focus-banner-text');
+  if (TONE_STATE.focusTone) {
+    text.textContent = `🎯 Latihan fokus: Nada ${TONE_STATE.focusTone} (${TONE_DISPLAY_MARKS[TONE_STATE.focusTone]}) — soal nada ini akan lebih sering muncul`;
+    banner.classList.remove('hidden');
+  } else {
+    banner.classList.add('hidden');
+  }
+}
+
+function clearFocusTone() {
+  TONE_STATE.focusTone = null;
+  renderFocusBanner();
+  // Bersihkan juga dari URL supaya reload/refresh tidak balik ke mode fokus
+  const url = new URL(window.location.href);
+  url.searchParams.delete('focus');
+  window.history.replaceState({}, '', url);
+}
+
+/* ── MUAT DATA ──────────────────────────────────────────────── */
+async function loadToneDrills() {
+  try {
+    const res = await fetch('data/tone_drills.json');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    TONE_STATE.data = await res.json();
+    restoreToneLastState();
+    startNewQuestion();
+  } catch (e) {
+    console.error('Gagal memuat data/tone_drills.json:', e);
+    $('tone-main-area').innerHTML = `<div class="tone-empty">
+      ⚠ Gagal memuat data latihan.<br>
+      Pastikan <code>data/tone_drills.json</code> sudah dibuat
+      (jalankan <code>python generate_tone_drills.py</code> lalu taruh
+      hasilnya di folder <code>data/</code>).
+    </div>`;
+  }
+}
+
+/* ── INGAT MODE TERAKHIR (Tier 1 lintas-halaman) ───────────────────
+   Cuma mode (Pilih Nada/Pilih Hanzi) yang direstorasi -- soalnya sendiri
+   memang acak tiap sesi, jadi tidak ada gunanya menyimpan soal spesifik. */
+const TONE_LAST_STATE_KEY = 'mandarin_tone_last_state_v1';
+
+function saveToneLastState() {
+  try {
+    localStorage.setItem(TONE_LAST_STATE_KEY, JSON.stringify({ mode: TONE_STATE.mode }));
+  } catch (e) { /* abaikan senyap -- bukan fitur kritis */ }
+}
+
+function restoreToneLastState() {
+  let saved;
+  try {
+    saved = JSON.parse(localStorage.getItem(TONE_LAST_STATE_KEY) || 'null');
+  } catch (e) { return; }
+  if (!saved || !saved.mode) return;
+
+  // Set mode + tombol aktif secara langsung (BUKAN lewat setToneMode(),
+  // supaya tidak memicu reset skor + startNewQuestion ganda di sini --
+  // startNewQuestion() sudah dipanggil sekali oleh loadToneDrills()
+  // tepat setelah fungsi ini selesai).
+  TONE_STATE.mode = saved.mode;
+  document.querySelectorAll('.tone-mode-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.mode === saved.mode);
+  });
+}
+
+/* ── GANTI MODE ─────────────────────────────────────────────── */
+function setToneMode(mode) {
+  TONE_STATE.mode = mode;
+  document.querySelectorAll('.tone-mode-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.mode === mode);
+  });
+  TONE_STATE.score = { ok: 0, bad: 0 };
+  updateScoreDisplay();
+  startNewQuestion();
+  saveToneLastState();
+}
+
+function updateScoreDisplay() {
+  $('tone-score-ok').textContent  = TONE_STATE.score.ok;
+  $('tone-score-bad').textContent = TONE_STATE.score.bad;
+}
+
+/* ── BUAT SOAL BARU ─────────────────────────────────────────── */
+function startNewQuestion() {
+  TONE_STATE.answered = false;
+
+  if (TONE_STATE.mode === 'nada') {
+    const pool = (TONE_STATE.data && TONE_STATE.data.singles) || [];
+    if (!pool.length) {
+      $('tone-main-area').innerHTML = '<div class="tone-empty">Belum ada data suku kata tunggal untuk mode ini.</div>';
+      return;
+    }
+    const correct = pickWeightedByTone(pool, item => item.tone);
+    TONE_STATE.current = { correct, options: null };
+    renderNadaQuestion();
+
+  } else {
+    const groupKeys = TONE_STATE.data ? Object.keys(TONE_STATE.data.groups) : [];
+    if (!groupKeys.length) {
+      $('tone-main-area').innerHTML = '<div class="tone-empty">Belum ada data kelompok minimal-pair untuk mode ini.</div>';
+      return;
+    }
+    // Bobot fokus nada juga berlaku di sini: prioritaskan grup yang
+    // salah satu anggotanya bernada target, supaya رسلان lebih sering
+    // ketemu soal yang melatih nada itu -- tapi jawaban tetap acak di
+    // antara anggota grup (tidak trivial/ketebak).
+    const key = pickWeightedByTone(
+      groupKeys,
+      k => TONE_STATE.data.groups[k].some(m => m.tone === TONE_STATE.focusTone) ? TONE_STATE.focusTone : null
+    );
+    const members  = TONE_STATE.data.groups[key];
+    const shuffled = [...members].sort(() => Math.random() - 0.5);
+    const options  = shuffled.slice(0, Math.min(4, shuffled.length));
+    const correct  = options[Math.floor(Math.random() * options.length)];
+    TONE_STATE.current = { correct, options };
+    renderHanziQuestion();
+  }
+}
+
+// Pilih 1 item dari `pool` secara acak, tapi kalau TONE_STATE.focusTone aktif
+// dan ada item yang tone-nya cocok (dicek lewat toneGetter), condongkan
+// peluang TONE_FOCUS_WEIGHT ke subset itu. Kalau tidak ada fokus aktif atau
+// subsetnya kosong, jatuh balik ke pool penuh seperti biasa.
+function pickWeightedByTone(pool, toneGetter) {
+  if (TONE_STATE.focusTone) {
+    const matching = pool.filter(item => toneGetter(item) === TONE_STATE.focusTone);
+    if (matching.length && Math.random() < TONE_FOCUS_WEIGHT) {
+      return matching[Math.floor(Math.random() * matching.length)];
+    }
+  }
+  return pool[Math.floor(Math.random() * pool.length)];
+}
+
+/* ── RENDER: mode "Pilih Nada" ──────────────────────────────── */
+function renderNadaQuestion() {
+  const area = $('tone-main-area');
+  area.innerHTML = `
+    <div class="tone-card">
+      <button class="tone-play-btn" onclick="playCurrentAudio()" title="Dengarkan">🔊</button>
+      <div class="tone-play-hint">Klik untuk dengarkan, lalu pilih nadanya</div>
+      <div class="tone-speed-row">
+        <button class="audio-speed-btn" onclick="toggleAudioRate()"
+                style="font-size:1rem;background:var(--bg-card2);border:1px solid var(--border);border-radius:var(--radius);padding:4px 10px;cursor:pointer">🐢</button>
+      </div>
+      <div class="tone-options-nada" id="tone-options">
+        ${[1, 2, 3, 4].map(t => `
+          <button class="tone-nada-btn tone-option-btn" data-tone="${t}" onclick="selectToneAnswer(${t})">
+            <span class="tone-mark">${TONE_DISPLAY_MARKS[t]}</span>
+            <span>Nada ${t}</span>
+          </button>
+        `).join('')}
+      </div>
+      <div class="tone-feedback" id="tone-feedback"></div>
+    </div>
+  `;
+  playCurrentAudio();
+}
+
+/* ── RENDER: mode "Pilih Hanzi" ─────────────────────────────── */
+function renderHanziQuestion() {
+  const area = $('tone-main-area');
+  const opts = TONE_STATE.current.options;
+  area.innerHTML = `
+    <div class="tone-card">
+      <button class="tone-play-btn" onclick="playCurrentAudio()" title="Dengarkan">🔊</button>
+      <div class="tone-play-hint">Klik untuk dengarkan, lalu pilih hanzi yang benar</div>
+      <div class="tone-speed-row">
+        <button class="audio-speed-btn" onclick="toggleAudioRate()"
+                style="font-size:1rem;background:var(--bg-card2);border:1px solid var(--border);border-radius:var(--radius);padding:4px 10px;cursor:pointer">🐢</button>
+      </div>
+      <div class="tone-options-hanzi" id="tone-options">
+        ${opts.map(o => `
+          <button class="tone-hanzi-btn tone-option-btn" data-cn="${escHtml(o.cn)}" onclick="selectHanziAnswer('${escHtml(o.cn)}')">
+            ${escHtml(o.cn)}
+          </button>
+        `).join('')}
+      </div>
+      <div class="tone-feedback" id="tone-feedback"></div>
+    </div>
+  `;
+  playCurrentAudio();
+}
+
+/* ── AUDIO ──────────────────────────────────────────────────── */
+function playCurrentAudio() {
+  if (!TONE_STATE.current) return;
+  speak(TONE_STATE.current.correct.cn, { rate: AudioTTS.rate });
+}
+
+/* ── JAWAB: mode Nada ───────────────────────────────────────── */
+function selectToneAnswer(tone) {
+  if (TONE_STATE.answered) return;
+  TONE_STATE.answered = true;
+  const isCorrect = tone === TONE_STATE.current.correct.tone;
+  markOptionButtons('tone', TONE_STATE.current.correct.tone, tone);
+  recordToneAnswer(isCorrect, TONE_STATE.current.correct.tone);
+  showFeedback(isCorrect);
+}
+
+/* ── JAWAB: mode Hanzi ──────────────────────────────────────── */
+function selectHanziAnswer(cn) {
+  if (TONE_STATE.answered) return;
+  TONE_STATE.answered = true;
+  const isCorrect = cn === TONE_STATE.current.correct.cn;
+  markOptionButtons('cn', TONE_STATE.current.correct.cn, cn);
+  recordToneAnswer(isCorrect, TONE_STATE.current.correct.tone);
+  showFeedback(isCorrect);
+}
+
+function markOptionButtons(attr, correctVal, pickedVal) {
+  document.querySelectorAll('.tone-option-btn').forEach(btn => {
+    btn.disabled = true;
+    const val = attr === 'tone' ? parseInt(btn.dataset.tone, 10) : btn.dataset.cn;
+    if (val === correctVal)      btn.classList.add('mark-correct');
+    else if (val === pickedVal)  btn.classList.add('mark-wrong');
+  });
+}
+
+function showFeedback(isCorrect) {
+  if (isCorrect) TONE_STATE.score.ok++;
+  else           TONE_STATE.score.bad++;
+  updateScoreDisplay();
+
+  const c = TONE_STATE.current.correct;
+  const feedback = $('tone-feedback');
+  feedback.classList.add('visible');
+  feedback.innerHTML = `
+    <div class="tone-feedback-status ${isCorrect ? 'ok' : 'bad'}">
+      ${isCorrect ? '✓ Tepat!' : '✗ Kurang tepat'}
+    </div>
+    <div class="tone-feedback-word">${escHtml(c.cn)}</div>
+    <div class="tone-feedback-pinyin">${escHtml(c.py)}${c.tone ? ' (Nada ' + c.tone + ')' : ''}</div>
+    <div class="tone-feedback-meaning">${escHtml(c.id)}</div>
+    <button class="tone-next-btn" onclick="startNewQuestion()">Soal Berikutnya ▶</button>
+  `;
+}
+
+/* ── INIT ───────────────────────────────────────────────────── */
+document.addEventListener('DOMContentLoaded', () => {
+  initFocusTone();
+  loadToneDrills();
+});
+</script>
+
+</body>
+</html>
