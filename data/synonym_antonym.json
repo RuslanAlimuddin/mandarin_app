@@ -1,0 +1,4707 @@
+{
+  "synonyms": {
+    "看": {
+      "word": "看",
+      "pinyin": "kàn",
+      "meaning_id": "melihat, menonton",
+      "hsk": "1",
+      "synonyms": [
+        {
+          "word": "望",
+          "pinyin": "wàng",
+          "note_id": "menatap jauh ke depan"
+        },
+        {
+          "word": "瞧",
+          "pinyin": "qiáo",
+          "note_id": "melihat (informal/percakapan)"
+        },
+        {
+          "word": "瞄",
+          "pinyin": "miáo",
+          "note_id": "mengintip, membidik"
+        },
+        {
+          "word": "观察",
+          "pinyin": "guānchá",
+          "note_id": "mengamati dengan teliti"
+        },
+        {
+          "word": "注视",
+          "pinyin": "zhùshì",
+          "note_id": "menatap dengan seksama"
+        }
+      ]
+    },
+    "说": {
+      "word": "说",
+      "pinyin": "shuō",
+      "meaning_id": "berbicara, berkata",
+      "hsk": "1",
+      "synonyms": [
+        {
+          "word": "讲",
+          "pinyin": "jiǎng",
+          "note_id": "menjelaskan, bercerita (lebih formal)"
+        },
+        {
+          "word": "谈",
+          "pinyin": "tán",
+          "note_id": "berdiskusi, mengobrol"
+        },
+        {
+          "word": "聊",
+          "pinyin": "liáo",
+          "note_id": "mengobrol santai"
+        },
+        {
+          "word": "告诉",
+          "pinyin": "gàosu",
+          "note_id": "memberitahu"
+        },
+        {
+          "word": "表达",
+          "pinyin": "biǎodá",
+          "note_id": "mengungkapkan, mengekspresikan"
+        }
+      ]
+    },
+    "走": {
+      "word": "走",
+      "pinyin": "zǒu",
+      "meaning_id": "berjalan, pergi",
+      "hsk": "1",
+      "synonyms": [
+        {
+          "word": "行",
+          "pinyin": "xíng",
+          "note_id": "berjalan (lebih formal/sastra)"
+        },
+        {
+          "word": "步行",
+          "pinyin": "bùxíng",
+          "note_id": "berjalan kaki"
+        },
+        {
+          "word": "散步",
+          "pinyin": "sànbù",
+          "note_id": "berjalan santai/jalan-jalan"
+        },
+        {
+          "word": "前进",
+          "pinyin": "qiánjìn",
+          "note_id": "melangkah maju"
+        }
+      ]
+    },
+    "跑": {
+      "word": "跑",
+      "pinyin": "pǎo",
+      "meaning_id": "berlari",
+      "hsk": "2",
+      "synonyms": [
+        {
+          "word": "奔",
+          "pinyin": "bēn",
+          "note_id": "berlari kencang, bergegas"
+        },
+        {
+          "word": "冲",
+          "pinyin": "chōng",
+          "note_id": "berlari menerjang"
+        },
+        {
+          "word": "奔跑",
+          "pinyin": "bēnpǎo",
+          "note_id": "berlari (penekanan pada gerakan)"
+        }
+      ]
+    },
+    "吃": {
+      "word": "吃",
+      "pinyin": "chī",
+      "meaning_id": "makan",
+      "hsk": "1",
+      "synonyms": [
+        {
+          "word": "用餐",
+          "pinyin": "yòngcān",
+          "note_id": "makan (formal)"
+        },
+        {
+          "word": "进食",
+          "pinyin": "jìnshí",
+          "note_id": "mengonsumsi makanan (medis/formal)"
+        },
+        {
+          "word": "享用",
+          "pinyin": "xiǎngyòng",
+          "note_id": "menikmati makanan"
+        }
+      ]
+    },
+    "喝": {
+      "word": "喝",
+      "pinyin": "hē",
+      "meaning_id": "minum",
+      "hsk": "1",
+      "synonyms": [
+        {
+          "word": "饮",
+          "pinyin": "yǐn",
+          "note_id": "minum (formal/sastra)"
+        },
+        {
+          "word": "品",
+          "pinyin": "pǐn",
+          "note_id": "menyesap, menikmati minuman"
+        }
+      ]
+    },
+    "买": {
+      "word": "买",
+      "pinyin": "mǎi",
+      "meaning_id": "membeli",
+      "hsk": "1",
+      "synonyms": [
+        {
+          "word": "购",
+          "pinyin": "gòu",
+          "note_id": "membeli (formal)"
+        },
+        {
+          "word": "购买",
+          "pinyin": "gòumǎi",
+          "note_id": "membeli (umum)"
+        },
+        {
+          "word": "采购",
+          "pinyin": "cǎigòu",
+          "note_id": "membeli dalam jumlah besar"
+        },
+        {
+          "word": "选购",
+          "pinyin": "xuǎngòu",
+          "note_id": "memilih dan membeli"
+        }
+      ]
+    },
+    "给": {
+      "word": "给",
+      "pinyin": "gěi",
+      "meaning_id": "memberi",
+      "hsk": "1",
+      "synonyms": [
+        {
+          "word": "送",
+          "pinyin": "sòng",
+          "note_id": "memberi hadiah, mengantarkan"
+        },
+        {
+          "word": "赠",
+          "pinyin": "zèng",
+          "note_id": "menghadiahkan (formal)"
+        },
+        {
+          "word": "交",
+          "pinyin": "jiāo",
+          "note_id": "menyerahkan, mengumpulkan"
+        },
+        {
+          "word": "递",
+          "pinyin": "dì",
+          "note_id": "menyodorkan, mengoper"
+        }
+      ]
+    },
+    "要": {
+      "word": "要",
+      "pinyin": "yào",
+      "meaning_id": "ingin, perlu, akan",
+      "hsk": "1",
+      "synonyms": [
+        {
+          "word": "想",
+          "pinyin": "xiǎng",
+          "note_id": "ingin, memikirkan (keinginan)"
+        },
+        {
+          "word": "需要",
+          "pinyin": "xūyào",
+          "note_id": "membutuhkan (kebutuhan)"
+        },
+        {
+          "word": "希望",
+          "pinyin": "xīwàng",
+          "note_id": "berharap, menginginkan"
+        },
+        {
+          "word": "打算",
+          "pinyin": "dǎsuàn",
+          "note_id": "berencana, berniat"
+        }
+      ]
+    },
+    "知道": {
+      "word": "知道",
+      "pinyin": "zhīdào",
+      "meaning_id": "mengetahui, tahu",
+      "hsk": "1",
+      "synonyms": [
+        {
+          "word": "了解",
+          "pinyin": "liǎojiě",
+          "note_id": "memahami dengan mendalam"
+        },
+        {
+          "word": "明白",
+          "pinyin": "míngbai",
+          "note_id": "mengerti, paham"
+        },
+        {
+          "word": "懂",
+          "pinyin": "dǒng",
+          "note_id": "mengerti (informal)"
+        },
+        {
+          "word": "清楚",
+          "pinyin": "qīngchǔ",
+          "note_id": "jelas, memahami dengan jelas"
+        },
+        {
+          "word": "认识",
+          "pinyin": "rènshi",
+          "note_id": "mengenal, mengetahui (orang/tempat)"
+        }
+      ]
+    },
+    "喜欢": {
+      "word": "喜欢",
+      "pinyin": "xǐhuān",
+      "meaning_id": "menyukai, suka",
+      "hsk": "1",
+      "synonyms": [
+        {
+          "word": "爱",
+          "pinyin": "ài",
+          "note_id": "mencintai (lebih dalam dari suka)"
+        },
+        {
+          "word": "热爱",
+          "pinyin": "rè'ài",
+          "note_id": "sangat mencintai, bersemangat"
+        },
+        {
+          "word": "钟爱",
+          "pinyin": "zhōng'ài",
+          "note_id": "sangat menyayangi"
+        },
+        {
+          "word": "偏爱",
+          "pinyin": "piān'ài",
+          "note_id": "lebih menyukai, pilih kasih"
+        }
+      ]
+    },
+    "认为": {
+      "word": "认为",
+      "pinyin": "rènwéi",
+      "meaning_id": "menganggap, berpendapat",
+      "hsk": "3",
+      "synonyms": [
+        {
+          "word": "觉得",
+          "pinyin": "juéde",
+          "note_id": "merasa, berpendapat (subjektif)"
+        },
+        {
+          "word": "以为",
+          "pinyin": "yǐwéi",
+          "note_id": "mengira (sering salah dugaan)"
+        },
+        {
+          "word": "认识",
+          "pinyin": "rènshi",
+          "note_id": "memandang, memahami"
+        },
+        {
+          "word": "感到",
+          "pinyin": "gǎndào",
+          "note_id": "merasakan"
+        }
+      ]
+    },
+    "开始": {
+      "word": "开始",
+      "pinyin": "kāishǐ",
+      "meaning_id": "mulai, memulai",
+      "hsk": "2",
+      "synonyms": [
+        {
+          "word": "开展",
+          "pinyin": "kāizhǎn",
+          "note_id": "memulai (kegiatan/program)"
+        },
+        {
+          "word": "着手",
+          "pinyin": "zhuóshǒu",
+          "note_id": "mulai mengerjakan"
+        },
+        {
+          "word": "启动",
+          "pinyin": "qǐdòng",
+          "note_id": "mengaktifkan, meluncurkan"
+        },
+        {
+          "word": "动手",
+          "pinyin": "dòngshǒu",
+          "note_id": "mulai bekerja"
+        }
+      ]
+    },
+    "结束": {
+      "word": "结束",
+      "pinyin": "jiéshù",
+      "meaning_id": "selesai, berakhir",
+      "hsk": "3",
+      "synonyms": [
+        {
+          "word": "完成",
+          "pinyin": "wánchéng",
+          "note_id": "menyelesaikan (tugas/pekerjaan)"
+        },
+        {
+          "word": "完毕",
+          "pinyin": "wánbì",
+          "note_id": "selesai seluruhnya (formal)"
+        },
+        {
+          "word": "终止",
+          "pinyin": "zhōngzhǐ",
+          "note_id": "menghentikan, mengakhiri"
+        },
+        {
+          "word": "结局",
+          "pinyin": "jiéjú",
+          "note_id": "akhir, kesimpulan"
+        }
+      ]
+    },
+    "帮助": {
+      "word": "帮助",
+      "pinyin": "bāngzhù",
+      "meaning_id": "membantu",
+      "hsk": "2",
+      "synonyms": [
+        {
+          "word": "协助",
+          "pinyin": "xiézhù",
+          "note_id": "membantu (lebih formal)"
+        },
+        {
+          "word": "支持",
+          "pinyin": "zhīchí",
+          "note_id": "mendukung, menopang"
+        },
+        {
+          "word": "援助",
+          "pinyin": "yuánzhù",
+          "note_id": "memberikan bantuan/pertolongan"
+        },
+        {
+          "word": "扶持",
+          "pinyin": "fúchí",
+          "note_id": "mendukung, membimbing"
+        }
+      ]
+    },
+    "工作": {
+      "word": "工作",
+      "pinyin": "gōngzuò",
+      "meaning_id": "bekerja, pekerjaan",
+      "hsk": "1",
+      "synonyms": [
+        {
+          "word": "劳动",
+          "pinyin": "láodòng",
+          "note_id": "bekerja keras, kerja fisik"
+        },
+        {
+          "word": "做事",
+          "pinyin": "zuòshì",
+          "note_id": "melakukan sesuatu, bekerja"
+        },
+        {
+          "word": "职业",
+          "pinyin": "zhíyè",
+          "note_id": "profesi, karier"
+        },
+        {
+          "word": "干活",
+          "pinyin": "gànhuó",
+          "note_id": "bekerja (informal)"
+        }
+      ]
+    },
+    "学习": {
+      "word": "学习",
+      "pinyin": "xuéxí",
+      "meaning_id": "belajar",
+      "hsk": "1",
+      "synonyms": [
+        {
+          "word": "学",
+          "pinyin": "xué",
+          "note_id": "belajar, mempelajari"
+        },
+        {
+          "word": "研究",
+          "pinyin": "yánjiū",
+          "note_id": "meneliti, mengkaji"
+        },
+        {
+          "word": "钻研",
+          "pinyin": "zuānyán",
+          "note_id": "mendalami dengan tekun"
+        },
+        {
+          "word": "进修",
+          "pinyin": "jìnxiū",
+          "note_id": "belajar lanjut/peningkatan"
+        }
+      ]
+    },
+    "思考": {
+      "word": "思考",
+      "pinyin": "sīkǎo",
+      "meaning_id": "berpikir, merenungkan",
+      "hsk": "4",
+      "synonyms": [
+        {
+          "word": "想",
+          "pinyin": "xiǎng",
+          "note_id": "berpikir, memikirkan"
+        },
+        {
+          "word": "考虑",
+          "pinyin": "kǎolǜ",
+          "note_id": "mempertimbangkan"
+        },
+        {
+          "word": "琢磨",
+          "pinyin": "zuómo",
+          "note_id": "merenung, memikirkan dalam-dalam"
+        },
+        {
+          "word": "分析",
+          "pinyin": "fēnxī",
+          "note_id": "menganalisis"
+        }
+      ]
+    },
+    "发现": {
+      "word": "发现",
+      "pinyin": "fāxiàn",
+      "meaning_id": "menemukan, menyadari",
+      "hsk": "3",
+      "synonyms": [
+        {
+          "word": "发觉",
+          "pinyin": "fājué",
+          "note_id": "menyadari, mengetahui tiba-tiba"
+        },
+        {
+          "word": "察觉",
+          "pinyin": "chájué",
+          "note_id": "mendeteksi, menyadari"
+        },
+        {
+          "word": "找到",
+          "pinyin": "zhǎodào",
+          "note_id": "menemukan (hasil pencarian)"
+        },
+        {
+          "word": "探索",
+          "pinyin": "tànsuǒ",
+          "note_id": "menjelajahi, mengeksplorasi"
+        }
+      ]
+    },
+    "变化": {
+      "word": "变化",
+      "pinyin": "biànhuà",
+      "meaning_id": "perubahan, berubah",
+      "hsk": "3",
+      "synonyms": [
+        {
+          "word": "改变",
+          "pinyin": "gǎibiàn",
+          "note_id": "mengubah (aktif/sengaja)"
+        },
+        {
+          "word": "转变",
+          "pinyin": "zhuǎnbiàn",
+          "note_id": "bertransformasi"
+        },
+        {
+          "word": "演变",
+          "pinyin": "yǎnbiàn",
+          "note_id": "berevolusi secara bertahap"
+        },
+        {
+          "word": "变动",
+          "pinyin": "biàndòng",
+          "note_id": "perubahan (posisi/jabatan)"
+        }
+      ]
+    },
+    "保护": {
+      "word": "保护",
+      "pinyin": "bǎohù",
+      "meaning_id": "melindungi",
+      "hsk": "4",
+      "synonyms": [
+        {
+          "word": "保卫",
+          "pinyin": "bǎowèi",
+          "note_id": "mempertahankan, membela"
+        },
+        {
+          "word": "防护",
+          "pinyin": "fánghù",
+          "note_id": "melindungi dari bahaya"
+        },
+        {
+          "word": "守护",
+          "pinyin": "shǒuhù",
+          "note_id": "menjaga, melindungi"
+        },
+        {
+          "word": "维护",
+          "pinyin": "wéihù",
+          "note_id": "memelihara, menjaga"
+        }
+      ]
+    },
+    "高兴": {
+      "word": "高兴",
+      "pinyin": "gāoxìng",
+      "meaning_id": "gembira, senang",
+      "hsk": "1",
+      "synonyms": [
+        {
+          "word": "快乐",
+          "pinyin": "kuàilè",
+          "note_id": "bahagia (lebih mendalam/umum)"
+        },
+        {
+          "word": "开心",
+          "pinyin": "kāixīn",
+          "note_id": "senang hati (informal)"
+        },
+        {
+          "word": "愉快",
+          "pinyin": "yúkuài",
+          "note_id": "menyenangkan, riang"
+        },
+        {
+          "word": "欢乐",
+          "pinyin": "huānlè",
+          "note_id": "penuh kesenangan, riang gembira"
+        },
+        {
+          "word": "兴奋",
+          "pinyin": "xīngfèn",
+          "note_id": "bersemangat, antusias"
+        }
+      ]
+    },
+    "漂亮": {
+      "word": "漂亮",
+      "pinyin": "piàoliang",
+      "meaning_id": "cantik, indah",
+      "hsk": "1",
+      "synonyms": [
+        {
+          "word": "美丽",
+          "pinyin": "měilì",
+          "note_id": "indah (bisa untuk alam/orang)"
+        },
+        {
+          "word": "好看",
+          "pinyin": "hǎokàn",
+          "note_id": "enak dipandang (informal)"
+        },
+        {
+          "word": "美观",
+          "pinyin": "měiguān",
+          "note_id": "indah, estetis (benda/desain)"
+        },
+        {
+          "word": "俊",
+          "pinyin": "jùn",
+          "note_id": "tampan, gagah (untuk pria)"
+        },
+        {
+          "word": "秀丽",
+          "pinyin": "xiùlì",
+          "note_id": "anggun dan indah (alam/wanita)"
+        }
+      ]
+    },
+    "聪明": {
+      "word": "聪明",
+      "pinyin": "cōngmíng",
+      "meaning_id": "cerdas, pintar",
+      "hsk": "3",
+      "synonyms": [
+        {
+          "word": "智慧",
+          "pinyin": "zhìhuì",
+          "note_id": "bijaksana, penuh kebijakan"
+        },
+        {
+          "word": "聪慧",
+          "pinyin": "cōnghuì",
+          "note_id": "cerdas dan bijak"
+        },
+        {
+          "word": "机智",
+          "pinyin": "jīzhì",
+          "note_id": "cerdik, cekatan berpikir"
+        },
+        {
+          "word": "睿智",
+          "pinyin": "ruìzhì",
+          "note_id": "sangat bijaksana (formal)"
+        },
+        {
+          "word": "有才华",
+          "pinyin": "yǒu cáihuá",
+          "note_id": "berbakat, bertalenta"
+        }
+      ]
+    },
+    "重要": {
+      "word": "重要",
+      "pinyin": "zhòngyào",
+      "meaning_id": "penting",
+      "hsk": "3",
+      "synonyms": [
+        {
+          "word": "关键",
+          "pinyin": "guānjiàn",
+          "note_id": "kunci, sangat krusial"
+        },
+        {
+          "word": "主要",
+          "pinyin": "zhǔyào",
+          "note_id": "utama, pokok"
+        },
+        {
+          "word": "必要",
+          "pinyin": "bìyào",
+          "note_id": "perlu, diperlukan"
+        },
+        {
+          "word": "关重",
+          "pinyin": "guānzhòng",
+          "note_id": "sangat penting (formal)"
+        }
+      ]
+    },
+    "困难": {
+      "word": "困难",
+      "pinyin": "kùnnán",
+      "meaning_id": "sulit, kesulitan",
+      "hsk": "3",
+      "synonyms": [
+        {
+          "word": "难",
+          "pinyin": "nán",
+          "note_id": "sulit (umum)"
+        },
+        {
+          "word": "艰难",
+          "pinyin": "jiānnán",
+          "note_id": "sangat sulit, berat"
+        },
+        {
+          "word": "棘手",
+          "pinyin": "jíshǒu",
+          "note_id": "rumit, susah ditangani"
+        },
+        {
+          "word": "复杂",
+          "pinyin": "fùzá",
+          "note_id": "rumit, kompleks"
+        }
+      ]
+    },
+    "简单": {
+      "word": "简单",
+      "pinyin": "jiǎndān",
+      "meaning_id": "mudah, sederhana",
+      "hsk": "3",
+      "synonyms": [
+        {
+          "word": "容易",
+          "pinyin": "róngyì",
+          "note_id": "mudah (dilakukan)"
+        },
+        {
+          "word": "轻松",
+          "pinyin": "qīngsōng",
+          "note_id": "santai, tidak berat"
+        },
+        {
+          "word": "朴素",
+          "pinyin": "pǔsù",
+          "note_id": "sederhana, bersahaja"
+        },
+        {
+          "word": "平易",
+          "pinyin": "píngyì",
+          "note_id": "ramah dan sederhana"
+        }
+      ]
+    },
+    "快": {
+      "word": "快",
+      "pinyin": "kuài",
+      "meaning_id": "cepat",
+      "hsk": "1",
+      "synonyms": [
+        {
+          "word": "迅速",
+          "pinyin": "xùnsù",
+          "note_id": "cepat dan segera (formal)"
+        },
+        {
+          "word": "飞快",
+          "pinyin": "fēikuài",
+          "note_id": "sangat cepat, kilat"
+        },
+        {
+          "word": "敏捷",
+          "pinyin": "mǐnjié",
+          "note_id": "lincah, gesit"
+        },
+        {
+          "word": "急速",
+          "pinyin": "jísù",
+          "note_id": "sangat cepat, mendadak"
+        }
+      ]
+    },
+    "慢": {
+      "word": "慢",
+      "pinyin": "màn",
+      "meaning_id": "lambat, pelan",
+      "hsk": "1",
+      "synonyms": [
+        {
+          "word": "缓慢",
+          "pinyin": "huǎnmàn",
+          "note_id": "lambat (formal)"
+        },
+        {
+          "word": "迟缓",
+          "pinyin": "chíhuǎn",
+          "note_id": "lamban, terlambat"
+        },
+        {
+          "word": "缓",
+          "pinyin": "huǎn",
+          "note_id": "perlahan, santai"
+        }
+      ]
+    },
+    "干净": {
+      "word": "干净",
+      "pinyin": "gānjìng",
+      "meaning_id": "bersih",
+      "hsk": "3",
+      "synonyms": [
+        {
+          "word": "整洁",
+          "pinyin": "zhěngjié",
+          "note_id": "bersih dan rapi"
+        },
+        {
+          "word": "洁净",
+          "pinyin": "jiéjìng",
+          "note_id": "bersih (formal)"
+        },
+        {
+          "word": "卫生",
+          "pinyin": "wèishēng",
+          "note_id": "higienis, sanitasi"
+        },
+        {
+          "word": "清洁",
+          "pinyin": "qīngjié",
+          "note_id": "bersih, membersihkan"
+        }
+      ]
+    },
+    "正确": {
+      "word": "正确",
+      "pinyin": "zhèngquè",
+      "meaning_id": "benar, tepat",
+      "hsk": "3",
+      "synonyms": [
+        {
+          "word": "对",
+          "pinyin": "duì",
+          "note_id": "benar (umum/informal)"
+        },
+        {
+          "word": "准确",
+          "pinyin": "zhǔnquè",
+          "note_id": "akurat, tepat sasaran"
+        },
+        {
+          "word": "精确",
+          "pinyin": "jīngquè",
+          "note_id": "presisi, tepat sekali"
+        },
+        {
+          "word": "无误",
+          "pinyin": "wúwù",
+          "note_id": "tanpa kesalahan"
+        }
+      ]
+    },
+    "著名": {
+      "word": "著名",
+      "pinyin": "zhùmíng",
+      "meaning_id": "terkenal, masyhur",
+      "hsk": "4",
+      "synonyms": [
+        {
+          "word": "有名",
+          "pinyin": "yǒumíng",
+          "note_id": "terkenal (umum)"
+        },
+        {
+          "word": "知名",
+          "pinyin": "zhīmíng",
+          "note_id": "dikenal luas"
+        },
+        {
+          "word": "出名",
+          "pinyin": "chūmíng",
+          "note_id": "menjadi terkenal"
+        },
+        {
+          "word": "名声大",
+          "pinyin": "míngshēng dà",
+          "note_id": "reputasi besar"
+        }
+      ]
+    },
+    "特别": {
+      "word": "特别",
+      "pinyin": "tèbié",
+      "meaning_id": "spesial, khusus, sangat",
+      "hsk": "3",
+      "synonyms": [
+        {
+          "word": "特殊",
+          "pinyin": "tèshū",
+          "note_id": "istimewa, luar biasa"
+        },
+        {
+          "word": "尤其",
+          "pinyin": "yóuqí",
+          "note_id": "terutama, khususnya"
+        },
+        {
+          "word": "格外",
+          "pinyin": "géwài",
+          "note_id": "sangat, luar biasa"
+        },
+        {
+          "word": "非常",
+          "pinyin": "fēicháng",
+          "note_id": "sangat, amat"
+        }
+      ]
+    },
+    "问题": {
+      "word": "问题",
+      "pinyin": "wèntí",
+      "meaning_id": "masalah, pertanyaan",
+      "hsk": "2",
+      "synonyms": [
+        {
+          "word": "难题",
+          "pinyin": "nántí",
+          "note_id": "masalah sulit, tantangan"
+        },
+        {
+          "word": "疑问",
+          "pinyin": "yíwèn",
+          "note_id": "keraguan, pertanyaan"
+        },
+        {
+          "word": "麻烦",
+          "pinyin": "máfan",
+          "note_id": "kesulitan, merepotkan"
+        },
+        {
+          "word": "困境",
+          "pinyin": "kùnjìng",
+          "note_id": "situasi sulit, dilema"
+        }
+      ]
+    },
+    "方法": {
+      "word": "方法",
+      "pinyin": "fāngfǎ",
+      "meaning_id": "cara, metode",
+      "hsk": "3",
+      "synonyms": [
+        {
+          "word": "办法",
+          "pinyin": "bànfǎ",
+          "note_id": "cara, solusi (praktis)"
+        },
+        {
+          "word": "手段",
+          "pinyin": "shǒuduàn",
+          "note_id": "cara, taktik"
+        },
+        {
+          "word": "途径",
+          "pinyin": "tújìng",
+          "note_id": "jalur, cara mencapai tujuan"
+        },
+        {
+          "word": "措施",
+          "pinyin": "cuòshī",
+          "note_id": "langkah/tindakan (formal)"
+        }
+      ]
+    },
+    "原因": {
+      "word": "原因",
+      "pinyin": "yuányīn",
+      "meaning_id": "alasan, sebab",
+      "hsk": "3",
+      "synonyms": [
+        {
+          "word": "理由",
+          "pinyin": "lǐyóu",
+          "note_id": "alasan, justifikasi"
+        },
+        {
+          "word": "缘故",
+          "pinyin": "yuángù",
+          "note_id": "sebab, alasan (sastra)"
+        },
+        {
+          "word": "缘由",
+          "pinyin": "yuányóu",
+          "note_id": "sebab dan alasan"
+        },
+        {
+          "word": "起因",
+          "pinyin": "qǐyīn",
+          "note_id": "penyebab awal"
+        }
+      ]
+    },
+    "结果": {
+      "word": "结果",
+      "pinyin": "jiéguǒ",
+      "meaning_id": "hasil, akibat",
+      "hsk": "3",
+      "synonyms": [
+        {
+          "word": "成果",
+          "pinyin": "chéngguǒ",
+          "note_id": "hasil positif, pencapaian"
+        },
+        {
+          "word": "后果",
+          "pinyin": "hòuguǒ",
+          "note_id": "akibat (biasanya negatif)"
+        },
+        {
+          "word": "效果",
+          "pinyin": "xiàoguǒ",
+          "note_id": "efek, dampak"
+        },
+        {
+          "word": "成效",
+          "pinyin": "chéngxiào",
+          "note_id": "hasil nyata, efektivitas"
+        }
+      ]
+    },
+    "机会": {
+      "word": "机会",
+      "pinyin": "jīhuì",
+      "meaning_id": "kesempatan, peluang",
+      "hsk": "3",
+      "synonyms": [
+        {
+          "word": "机遇",
+          "pinyin": "jīyù",
+          "note_id": "kesempatan emas (formal)"
+        },
+        {
+          "word": "时机",
+          "pinyin": "shíjī",
+          "note_id": "momen yang tepat"
+        },
+        {
+          "word": "良机",
+          "pinyin": "liángjī",
+          "note_id": "kesempatan baik"
+        },
+        {
+          "word": "契机",
+          "pinyin": "qìjī",
+          "note_id": "peluang yang muncul"
+        }
+      ]
+    },
+    "意见": {
+      "word": "意见",
+      "pinyin": "yìjiàn",
+      "meaning_id": "pendapat, saran",
+      "hsk": "4",
+      "synonyms": [
+        {
+          "word": "看法",
+          "pinyin": "kànfǎ",
+          "note_id": "pandangan, cara memandang"
+        },
+        {
+          "word": "观点",
+          "pinyin": "guāndiǎn",
+          "note_id": "sudut pandang, perspektif"
+        },
+        {
+          "word": "建议",
+          "pinyin": "jiànyì",
+          "note_id": "saran, rekomendasi"
+        },
+        {
+          "word": "主张",
+          "pinyin": "zhǔzhāng",
+          "note_id": "pendirian, usul"
+        }
+      ]
+    },
+    "关系": {
+      "word": "关系",
+      "pinyin": "guānxi",
+      "meaning_id": "hubungan, relasi",
+      "hsk": "3",
+      "synonyms": [
+        {
+          "word": "联系",
+          "pinyin": "liánxì",
+          "note_id": "kontak, kaitan"
+        },
+        {
+          "word": "关联",
+          "pinyin": "guānlián",
+          "note_id": "terkait, berhubungan"
+        },
+        {
+          "word": "纽带",
+          "pinyin": "niǔdài",
+          "note_id": "ikatan, penghubung"
+        }
+      ]
+    },
+    "影响": {
+      "word": "影响",
+      "pinyin": "yǐngxiǎng",
+      "meaning_id": "pengaruh, dampak",
+      "hsk": "3",
+      "synonyms": [
+        {
+          "word": "作用",
+          "pinyin": "zuòyòng",
+          "note_id": "fungsi, efek, peran"
+        },
+        {
+          "word": "效应",
+          "pinyin": "xiàoyìng",
+          "note_id": "efek, respons"
+        },
+        {
+          "word": "冲击",
+          "pinyin": "chōngjī",
+          "note_id": "dampak kuat, guncangan"
+        }
+      ]
+    },
+    "非常": {
+      "word": "非常",
+      "pinyin": "fēicháng",
+      "meaning_id": "sangat, amat",
+      "hsk": "1",
+      "synonyms": [
+        {
+          "word": "很",
+          "pinyin": "hěn",
+          "note_id": "sangat (umum/informal)"
+        },
+        {
+          "word": "十分",
+          "pinyin": "shífēn",
+          "note_id": "sangat, sepenuhnya"
+        },
+        {
+          "word": "极其",
+          "pinyin": "jíqí",
+          "note_id": "amat sangat (formal)"
+        },
+        {
+          "word": "特别",
+          "pinyin": "tèbié",
+          "note_id": "terutama, sangat"
+        },
+        {
+          "word": "相当",
+          "pinyin": "xiāngdāng",
+          "note_id": "cukup, lumayan"
+        },
+        {
+          "word": "格外",
+          "pinyin": "géwài",
+          "note_id": "luar biasa, sangat"
+        }
+      ]
+    },
+    "已经": {
+      "word": "已经",
+      "pinyin": "yǐjīng",
+      "meaning_id": "sudah, telah",
+      "hsk": "2",
+      "synonyms": [
+        {
+          "word": "曾经",
+          "pinyin": "céngjīng",
+          "note_id": "pernah (masa lalu)"
+        },
+        {
+          "word": "早已",
+          "pinyin": "zǎoyǐ",
+          "note_id": "sudah sejak lama"
+        }
+      ]
+    },
+    "立刻": {
+      "word": "立刻",
+      "pinyin": "lìkè",
+      "meaning_id": "segera, langsung",
+      "hsk": "4",
+      "synonyms": [
+        {
+          "word": "马上",
+          "pinyin": "mǎshàng",
+          "note_id": "segera (informal/umum)"
+        },
+        {
+          "word": "立即",
+          "pinyin": "lìjí",
+          "note_id": "segera (formal)"
+        },
+        {
+          "word": "赶快",
+          "pinyin": "gǎnkuài",
+          "note_id": "cepat-cepat"
+        },
+        {
+          "word": "迅速",
+          "pinyin": "xùnsù",
+          "note_id": "dengan cepat"
+        }
+      ]
+    }
+  },
+  "antonyms": {
+    "大": {
+      "word": "大",
+      "pinyin": "dà",
+      "meaning_id": "besar",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "小",
+          "pinyin": "xiǎo",
+          "note_id": "kecil"
+        }
+      ]
+    },
+    "小": {
+      "word": "小",
+      "pinyin": "xiǎo",
+      "meaning_id": "kecil",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "大",
+          "pinyin": "dà",
+          "note_id": "besar"
+        }
+      ]
+    },
+    "多": {
+      "word": "多",
+      "pinyin": "duō",
+      "meaning_id": "banyak",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "少",
+          "pinyin": "shǎo",
+          "note_id": "sedikit"
+        }
+      ]
+    },
+    "少": {
+      "word": "少",
+      "pinyin": "shǎo",
+      "meaning_id": "sedikit",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "多",
+          "pinyin": "duō",
+          "note_id": "banyak"
+        }
+      ]
+    },
+    "高": {
+      "word": "高",
+      "pinyin": "gāo",
+      "meaning_id": "tinggi",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "低",
+          "pinyin": "dī",
+          "note_id": "rendah"
+        },
+        {
+          "word": "矮",
+          "pinyin": "ǎi",
+          "note_id": "pendek (orang/benda)"
+        }
+      ]
+    },
+    "低": {
+      "word": "低",
+      "pinyin": "dī",
+      "meaning_id": "rendah",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "高",
+          "pinyin": "gāo",
+          "note_id": "tinggi"
+        }
+      ]
+    },
+    "长": {
+      "word": "长",
+      "pinyin": "cháng",
+      "meaning_id": "panjang",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "短",
+          "pinyin": "duǎn",
+          "note_id": "pendek"
+        }
+      ]
+    },
+    "短": {
+      "word": "短",
+      "pinyin": "duǎn",
+      "meaning_id": "pendek",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "长",
+          "pinyin": "cháng",
+          "note_id": "panjang"
+        }
+      ]
+    },
+    "快": {
+      "word": "快",
+      "pinyin": "kuài",
+      "meaning_id": "cepat",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "慢",
+          "pinyin": "màn",
+          "note_id": "lambat"
+        }
+      ]
+    },
+    "慢": {
+      "word": "慢",
+      "pinyin": "màn",
+      "meaning_id": "lambat",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "快",
+          "pinyin": "kuài",
+          "note_id": "cepat"
+        }
+      ]
+    },
+    "好": {
+      "word": "好",
+      "pinyin": "hǎo",
+      "meaning_id": "baik",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "坏",
+          "pinyin": "huài",
+          "note_id": "buruk, jahat"
+        },
+        {
+          "word": "差",
+          "pinyin": "chà",
+          "note_id": "buruk, kurang baik"
+        }
+      ]
+    },
+    "坏": {
+      "word": "坏",
+      "pinyin": "huài",
+      "meaning_id": "buruk, rusak",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "好",
+          "pinyin": "hǎo",
+          "note_id": "baik"
+        }
+      ]
+    },
+    "新": {
+      "word": "新",
+      "pinyin": "xīn",
+      "meaning_id": "baru",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "旧",
+          "pinyin": "jiù",
+          "note_id": "lama, usang"
+        }
+      ]
+    },
+    "旧": {
+      "word": "旧",
+      "pinyin": "jiù",
+      "meaning_id": "lama, usang",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "新",
+          "pinyin": "xīn",
+          "note_id": "baru"
+        }
+      ]
+    },
+    "热": {
+      "word": "热",
+      "pinyin": "rè",
+      "meaning_id": "panas",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "冷",
+          "pinyin": "lěng",
+          "note_id": "dingin"
+        }
+      ]
+    },
+    "冷": {
+      "word": "冷",
+      "pinyin": "lěng",
+      "meaning_id": "dingin",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "热",
+          "pinyin": "rè",
+          "note_id": "panas"
+        },
+        {
+          "word": "暖",
+          "pinyin": "nuǎn",
+          "note_id": "hangat"
+        }
+      ]
+    },
+    "胖": {
+      "word": "胖",
+      "pinyin": "pàng",
+      "meaning_id": "gemuk",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "瘦",
+          "pinyin": "shòu",
+          "note_id": "kurus, langsing"
+        }
+      ]
+    },
+    "瘦": {
+      "word": "瘦",
+      "pinyin": "shòu",
+      "meaning_id": "kurus",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "胖",
+          "pinyin": "pàng",
+          "note_id": "gemuk"
+        }
+      ]
+    },
+    "重": {
+      "word": "重",
+      "pinyin": "zhòng",
+      "meaning_id": "berat",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "轻",
+          "pinyin": "qīng",
+          "note_id": "ringan"
+        }
+      ]
+    },
+    "轻": {
+      "word": "轻",
+      "pinyin": "qīng",
+      "meaning_id": "ringan",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "重",
+          "pinyin": "zhòng",
+          "note_id": "berat"
+        }
+      ]
+    },
+    "硬": {
+      "word": "硬",
+      "pinyin": "yìng",
+      "meaning_id": "keras",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "软",
+          "pinyin": "ruǎn",
+          "note_id": "lembut, lunak"
+        }
+      ]
+    },
+    "软": {
+      "word": "软",
+      "pinyin": "ruǎn",
+      "meaning_id": "lembut, lunak",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "硬",
+          "pinyin": "yìng",
+          "note_id": "keras"
+        }
+      ]
+    },
+    "干净": {
+      "word": "干净",
+      "pinyin": "gānjìng",
+      "meaning_id": "bersih",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "脏",
+          "pinyin": "zāng",
+          "note_id": "kotor"
+        }
+      ]
+    },
+    "脏": {
+      "word": "脏",
+      "pinyin": "zāng",
+      "meaning_id": "kotor",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "干净",
+          "pinyin": "gānjìng",
+          "note_id": "bersih"
+        }
+      ]
+    },
+    "早": {
+      "word": "早",
+      "pinyin": "zǎo",
+      "meaning_id": "pagi, awal",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "晚",
+          "pinyin": "wǎn",
+          "note_id": "malam, terlambat"
+        }
+      ]
+    },
+    "晚": {
+      "word": "晚",
+      "pinyin": "wǎn",
+      "meaning_id": "malam, terlambat",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "早",
+          "pinyin": "zǎo",
+          "note_id": "pagi, awal"
+        }
+      ]
+    },
+    "远": {
+      "word": "远",
+      "pinyin": "yuǎn",
+      "meaning_id": "jauh",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "近",
+          "pinyin": "jìn",
+          "note_id": "dekat"
+        }
+      ]
+    },
+    "近": {
+      "word": "近",
+      "pinyin": "jìn",
+      "meaning_id": "dekat",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "远",
+          "pinyin": "yuǎn",
+          "note_id": "jauh"
+        }
+      ]
+    },
+    "贵": {
+      "word": "贵",
+      "pinyin": "guì",
+      "meaning_id": "mahal",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "便宜",
+          "pinyin": "piányí",
+          "note_id": "murah"
+        }
+      ]
+    },
+    "便宜": {
+      "word": "便宜",
+      "pinyin": "piányí",
+      "meaning_id": "murah",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "贵",
+          "pinyin": "guì",
+          "note_id": "mahal"
+        }
+      ]
+    },
+    "难": {
+      "word": "难",
+      "pinyin": "nán",
+      "meaning_id": "sulit",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "容易",
+          "pinyin": "róngyì",
+          "note_id": "mudah"
+        }
+      ]
+    },
+    "容易": {
+      "word": "容易",
+      "pinyin": "róngyì",
+      "meaning_id": "mudah",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "难",
+          "pinyin": "nán",
+          "note_id": "sulit"
+        }
+      ]
+    },
+    "聪明": {
+      "word": "聪明",
+      "pinyin": "cōngmíng",
+      "meaning_id": "cerdas",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "笨",
+          "pinyin": "bèn",
+          "note_id": "bodoh, tolol"
+        }
+      ]
+    },
+    "勇敢": {
+      "word": "勇敢",
+      "pinyin": "yǒnggǎn",
+      "meaning_id": "berani",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "胆小",
+          "pinyin": "dǎnxiǎo",
+          "note_id": "penakut, pengecut"
+        }
+      ]
+    },
+    "安全": {
+      "word": "安全",
+      "pinyin": "ānquán",
+      "meaning_id": "aman",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "危险",
+          "pinyin": "wēixiǎn",
+          "note_id": "berbahaya"
+        }
+      ]
+    },
+    "危险": {
+      "word": "危险",
+      "pinyin": "wēixiǎn",
+      "meaning_id": "berbahaya",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "安全",
+          "pinyin": "ānquán",
+          "note_id": "aman"
+        }
+      ]
+    },
+    "成功": {
+      "word": "成功",
+      "pinyin": "chénggōng",
+      "meaning_id": "sukses, berhasil",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "失败",
+          "pinyin": "shībài",
+          "note_id": "gagal"
+        }
+      ]
+    },
+    "失败": {
+      "word": "失败",
+      "pinyin": "shībài",
+      "meaning_id": "gagal",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "成功",
+          "pinyin": "chénggōng",
+          "note_id": "sukses, berhasil"
+        }
+      ]
+    },
+    "开始": {
+      "word": "开始",
+      "pinyin": "kāishǐ",
+      "meaning_id": "awal, mulai",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "结束",
+          "pinyin": "jiéshù",
+          "note_id": "akhir, selesai"
+        }
+      ]
+    },
+    "结束": {
+      "word": "结束",
+      "pinyin": "jiéshù",
+      "meaning_id": "selesai, berakhir",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "开始",
+          "pinyin": "kāishǐ",
+          "note_id": "mulai"
+        }
+      ]
+    },
+    "上": {
+      "word": "上",
+      "pinyin": "shàng",
+      "meaning_id": "atas",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "下",
+          "pinyin": "xià",
+          "note_id": "bawah"
+        }
+      ]
+    },
+    "下": {
+      "word": "下",
+      "pinyin": "xià",
+      "meaning_id": "bawah",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "上",
+          "pinyin": "shàng",
+          "note_id": "atas"
+        }
+      ]
+    },
+    "左": {
+      "word": "左",
+      "pinyin": "zuǒ",
+      "meaning_id": "kiri",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "右",
+          "pinyin": "yòu",
+          "note_id": "kanan"
+        }
+      ]
+    },
+    "右": {
+      "word": "右",
+      "pinyin": "yòu",
+      "meaning_id": "kanan",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "左",
+          "pinyin": "zuǒ",
+          "note_id": "kiri"
+        }
+      ]
+    },
+    "前": {
+      "word": "前",
+      "pinyin": "qián",
+      "meaning_id": "depan, sebelumnya",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "后",
+          "pinyin": "hòu",
+          "note_id": "belakang, kemudian"
+        }
+      ]
+    },
+    "后": {
+      "word": "后",
+      "pinyin": "hòu",
+      "meaning_id": "belakang, kemudian",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "前",
+          "pinyin": "qián",
+          "note_id": "depan, sebelumnya"
+        }
+      ]
+    },
+    "里": {
+      "word": "里",
+      "pinyin": "lǐ",
+      "meaning_id": "dalam, di dalam",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "外",
+          "pinyin": "wài",
+          "note_id": "luar, di luar"
+        }
+      ]
+    },
+    "外": {
+      "word": "外",
+      "pinyin": "wài",
+      "meaning_id": "luar, di luar",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "里",
+          "pinyin": "lǐ",
+          "note_id": "dalam, di dalam"
+        }
+      ]
+    },
+    "东": {
+      "word": "东",
+      "pinyin": "dōng",
+      "meaning_id": "timur",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "西",
+          "pinyin": "xī",
+          "note_id": "barat"
+        }
+      ]
+    },
+    "西": {
+      "word": "西",
+      "pinyin": "xī",
+      "meaning_id": "barat",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "东",
+          "pinyin": "dōng",
+          "note_id": "timur"
+        }
+      ]
+    },
+    "南": {
+      "word": "南",
+      "pinyin": "nán",
+      "meaning_id": "selatan",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "北",
+          "pinyin": "běi",
+          "note_id": "utara"
+        }
+      ]
+    },
+    "北": {
+      "word": "北",
+      "pinyin": "běi",
+      "meaning_id": "utara",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "南",
+          "pinyin": "nán",
+          "note_id": "selatan"
+        }
+      ]
+    },
+    "买": {
+      "word": "买",
+      "pinyin": "mǎi",
+      "meaning_id": "membeli",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "卖",
+          "pinyin": "mài",
+          "note_id": "menjual"
+        }
+      ]
+    },
+    "卖": {
+      "word": "卖",
+      "pinyin": "mài",
+      "meaning_id": "menjual",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "买",
+          "pinyin": "mǎi",
+          "note_id": "membeli"
+        }
+      ]
+    },
+    "来": {
+      "word": "来",
+      "pinyin": "lái",
+      "meaning_id": "datang",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "去",
+          "pinyin": "qù",
+          "note_id": "pergi"
+        }
+      ]
+    },
+    "去": {
+      "word": "去",
+      "pinyin": "qù",
+      "meaning_id": "pergi",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "来",
+          "pinyin": "lái",
+          "note_id": "datang"
+        }
+      ]
+    },
+    "进": {
+      "word": "进",
+      "pinyin": "jìn",
+      "meaning_id": "masuk",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "出",
+          "pinyin": "chū",
+          "note_id": "keluar"
+        }
+      ]
+    },
+    "出": {
+      "word": "出",
+      "pinyin": "chū",
+      "meaning_id": "keluar",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "进",
+          "pinyin": "jìn",
+          "note_id": "masuk"
+        }
+      ]
+    },
+    "开": {
+      "word": "开",
+      "pinyin": "kāi",
+      "meaning_id": "membuka, menyalakan",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "关",
+          "pinyin": "guān",
+          "note_id": "menutup, mematikan"
+        }
+      ]
+    },
+    "关": {
+      "word": "关",
+      "pinyin": "guān",
+      "meaning_id": "menutup, mematikan",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "开",
+          "pinyin": "kāi",
+          "note_id": "membuka, menyalakan"
+        }
+      ]
+    },
+    "喜欢": {
+      "word": "喜欢",
+      "pinyin": "xǐhuān",
+      "meaning_id": "suka, menyukai",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "讨厌",
+          "pinyin": "tǎoyàn",
+          "note_id": "tidak suka, membenci"
+        },
+        {
+          "word": "厌恶",
+          "pinyin": "yànwù",
+          "note_id": "jijik, muak"
+        }
+      ]
+    },
+    "爱": {
+      "word": "爱",
+      "pinyin": "ài",
+      "meaning_id": "mencintai",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "恨",
+          "pinyin": "hèn",
+          "note_id": "membenci"
+        }
+      ]
+    },
+    "恨": {
+      "word": "恨",
+      "pinyin": "hèn",
+      "meaning_id": "membenci",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "爱",
+          "pinyin": "ài",
+          "note_id": "mencintai"
+        }
+      ]
+    },
+    "哭": {
+      "word": "哭",
+      "pinyin": "kū",
+      "meaning_id": "menangis",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "笑",
+          "pinyin": "xiào",
+          "note_id": "tertawa, tersenyum"
+        }
+      ]
+    },
+    "笑": {
+      "word": "笑",
+      "pinyin": "xiào",
+      "meaning_id": "tertawa, tersenyum",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "哭",
+          "pinyin": "kū",
+          "note_id": "menangis"
+        }
+      ]
+    },
+    "赢": {
+      "word": "赢",
+      "pinyin": "yíng",
+      "meaning_id": "menang",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "输",
+          "pinyin": "shū",
+          "note_id": "kalah"
+        }
+      ]
+    },
+    "输": {
+      "word": "输",
+      "pinyin": "shū",
+      "meaning_id": "kalah",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "赢",
+          "pinyin": "yíng",
+          "note_id": "menang"
+        }
+      ]
+    },
+    "记住": {
+      "word": "记住",
+      "pinyin": "jìzhù",
+      "meaning_id": "mengingat",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "忘记",
+          "pinyin": "wàngjì",
+          "note_id": "melupakan"
+        }
+      ]
+    },
+    "忘记": {
+      "word": "忘记",
+      "pinyin": "wàngjì",
+      "meaning_id": "melupakan",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "记住",
+          "pinyin": "jìzhù",
+          "note_id": "mengingat"
+        }
+      ]
+    },
+    "问": {
+      "word": "问",
+      "pinyin": "wèn",
+      "meaning_id": "bertanya",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "答",
+          "pinyin": "dá",
+          "note_id": "menjawab"
+        }
+      ]
+    },
+    "答": {
+      "word": "答",
+      "pinyin": "dá",
+      "meaning_id": "menjawab",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "问",
+          "pinyin": "wèn",
+          "note_id": "bertanya"
+        }
+      ]
+    },
+    "给": {
+      "word": "给",
+      "pinyin": "gěi",
+      "meaning_id": "memberi",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "收",
+          "pinyin": "shōu",
+          "note_id": "menerima, mengambil"
+        }
+      ]
+    },
+    "借": {
+      "word": "借",
+      "pinyin": "jiè",
+      "meaning_id": "meminjam/meminjamkan",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "还",
+          "pinyin": "huán",
+          "note_id": "mengembalikan"
+        }
+      ]
+    },
+    "加": {
+      "word": "加",
+      "pinyin": "jiā",
+      "meaning_id": "menambah",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "减",
+          "pinyin": "jiǎn",
+          "note_id": "mengurangi"
+        }
+      ]
+    },
+    "增加": {
+      "word": "增加",
+      "pinyin": "zēngjiā",
+      "meaning_id": "meningkatkan",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "减少",
+          "pinyin": "jiǎnshǎo",
+          "note_id": "mengurangi"
+        }
+      ]
+    },
+    "提高": {
+      "word": "提高",
+      "pinyin": "tígāo",
+      "meaning_id": "meningkatkan",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "降低",
+          "pinyin": "jiàngdī",
+          "note_id": "menurunkan"
+        }
+      ]
+    },
+    "高兴": {
+      "word": "高兴",
+      "pinyin": "gāoxìng",
+      "meaning_id": "gembira",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "难过",
+          "pinyin": "nánguò",
+          "note_id": "sedih, susah"
+        },
+        {
+          "word": "伤心",
+          "pinyin": "shāngxīn",
+          "note_id": "bersedih, terluka hati"
+        }
+      ]
+    },
+    "快乐": {
+      "word": "快乐",
+      "pinyin": "kuàilè",
+      "meaning_id": "bahagia",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "悲伤",
+          "pinyin": "bēishāng",
+          "note_id": "bersedih"
+        },
+        {
+          "word": "痛苦",
+          "pinyin": "tòngkǔ",
+          "note_id": "menderita, kesakitan"
+        }
+      ]
+    },
+    "希望": {
+      "word": "希望",
+      "pinyin": "xīwàng",
+      "meaning_id": "harapan",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "绝望",
+          "pinyin": "juéwàng",
+          "note_id": "putus asa"
+        }
+      ]
+    },
+    "紧张": {
+      "word": "紧张",
+      "pinyin": "jǐnzhāng",
+      "meaning_id": "tegang, gugup",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "轻松",
+          "pinyin": "qīngsōng",
+          "note_id": "santai, rileks"
+        }
+      ]
+    },
+    "原因": {
+      "word": "原因",
+      "pinyin": "yuányīn",
+      "meaning_id": "sebab",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "结果",
+          "pinyin": "jiéguǒ",
+          "note_id": "akibat, hasil"
+        }
+      ]
+    },
+    "问题": {
+      "word": "问题",
+      "pinyin": "wèntí",
+      "meaning_id": "masalah",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "答案",
+          "pinyin": "dá'àn",
+          "note_id": "jawaban, solusi"
+        }
+      ]
+    },
+    "优点": {
+      "word": "优点",
+      "pinyin": "yōudiǎn",
+      "meaning_id": "kelebihan, keunggulan",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "缺点",
+          "pinyin": "quēdiǎn",
+          "note_id": "kekurangan, kelemahan"
+        }
+      ]
+    },
+    "缺点": {
+      "word": "缺点",
+      "pinyin": "quēdiǎn",
+      "meaning_id": "kekurangan",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "优点",
+          "pinyin": "yōudiǎn",
+          "note_id": "kelebihan, keunggulan"
+        }
+      ]
+    },
+    "真实": {
+      "word": "真实",
+      "pinyin": "zhēnshí",
+      "meaning_id": "nyata, asli",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "虚假",
+          "pinyin": "xūjiǎ",
+          "note_id": "palsu, tidak nyata"
+        }
+      ]
+    },
+    "公平": {
+      "word": "公平",
+      "pinyin": "gōngpíng",
+      "meaning_id": "adil",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "不公平",
+          "pinyin": "bù gōngpíng",
+          "note_id": "tidak adil"
+        }
+      ]
+    },
+    "积极": {
+      "word": "积极",
+      "pinyin": "jījí",
+      "meaning_id": "positif, aktif, semangat",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "消极",
+          "pinyin": "xiāojí",
+          "note_id": "negatif, pasif"
+        }
+      ]
+    },
+    "主动": {
+      "word": "主动",
+      "pinyin": "zhǔdòng",
+      "meaning_id": "proaktif, inisiatif",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "被动",
+          "pinyin": "bèidòng",
+          "note_id": "pasif, reaktif"
+        }
+      ]
+    },
+    "统一": {
+      "word": "统一",
+      "pinyin": "tǒngyī",
+      "meaning_id": "bersatu, menyatukan",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "分裂",
+          "pinyin": "fēnliè",
+          "note_id": "terpecah, memisahkan"
+        }
+      ]
+    },
+    "简单": {
+      "word": "简单",
+      "pinyin": "jiǎndān",
+      "meaning_id": "sederhana",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "复杂",
+          "pinyin": "fùzá",
+          "note_id": "rumit, kompleks"
+        }
+      ]
+    },
+    "复杂": {
+      "word": "复杂",
+      "pinyin": "fùzá",
+      "meaning_id": "rumit",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "简单",
+          "pinyin": "jiǎndān",
+          "note_id": "sederhana, mudah"
+        }
+      ]
+    },
+    "富": {
+      "word": "富",
+      "pinyin": "fù",
+      "meaning_id": "kaya",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "穷",
+          "pinyin": "qióng",
+          "note_id": "miskin"
+        }
+      ]
+    },
+    "穷": {
+      "word": "穷",
+      "pinyin": "qióng",
+      "meaning_id": "miskin",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "富",
+          "pinyin": "fù",
+          "note_id": "kaya"
+        }
+      ]
+    },
+    "生": {
+      "word": "生",
+      "pinyin": "shēng",
+      "meaning_id": "lahir, hidup",
+      "hsk": "2",
+      "antonyms": [
+        {
+          "word": "死",
+          "pinyin": "sǐ",
+          "note_id": "mati, meninggal"
+        }
+      ]
+    },
+    "死": {
+      "word": "死",
+      "pinyin": "sǐ",
+      "meaning_id": "mati",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "生",
+          "pinyin": "shēng",
+          "note_id": "hidup, lahir"
+        }
+      ]
+    },
+    "白天": {
+      "word": "白天",
+      "pinyin": "báitiān",
+      "meaning_id": "siang hari",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "夜晚",
+          "pinyin": "yèwǎn",
+          "note_id": "malam hari"
+        }
+      ]
+    },
+    "男": {
+      "word": "男",
+      "pinyin": "nán",
+      "meaning_id": "laki-laki",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "女",
+          "pinyin": "nǚ",
+          "note_id": "perempuan"
+        }
+      ]
+    },
+    "女": {
+      "word": "女",
+      "pinyin": "nǚ",
+      "meaning_id": "perempuan",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "男",
+          "pinyin": "nán",
+          "note_id": "laki-laki"
+        }
+      ]
+    },
+    "老": {
+      "word": "老",
+      "pinyin": "lǎo",
+      "meaning_id": "tua",
+      "hsk": "1",
+      "antonyms": [
+        {
+          "word": "年轻",
+          "pinyin": "niánqīng",
+          "note_id": "muda"
+        }
+      ]
+    },
+    "年轻": {
+      "word": "年轻",
+      "pinyin": "niánqīng",
+      "meaning_id": "muda",
+      "hsk": "3",
+      "antonyms": [
+        {
+          "word": "老",
+          "pinyin": "lǎo",
+          "note_id": "tua"
+        }
+      ]
+    },
+    "胜利": {
+      "word": "胜利",
+      "pinyin": "shènglì",
+      "meaning_id": "kemenangan",
+      "hsk": "4",
+      "antonyms": [
+        {
+          "word": "失败",
+          "pinyin": "shībài",
+          "note_id": "kekalahan, gagal"
+        }
+      ]
+    },
+    "战争": {
+      "word": "战争",
+      "pinyin": "zhànzhēng",
+      "meaning_id": "perang",
+      "hsk": "5",
+      "antonyms": [
+        {
+          "word": "和平",
+          "pinyin": "hépíng",
+          "note_id": "perdamaian"
+        }
+      ]
+    },
+    "和平": {
+      "word": "和平",
+      "pinyin": "hépíng",
+      "meaning_id": "perdamaian",
+      "hsk": "5",
+      "antonyms": [
+        {
+          "word": "战争",
+          "pinyin": "zhànzhēng",
+          "note_id": "perang"
+        }
+      ]
+    }
+  },
+  "combined": {
+    "哭": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "笑",
+          "pinyin": "xiào",
+          "note_id": "tertawa, tersenyum"
+        }
+      ]
+    },
+    "早": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "晚",
+          "pinyin": "wǎn",
+          "note_id": "malam, terlambat"
+        }
+      ]
+    },
+    "笑": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "哭",
+          "pinyin": "kū",
+          "note_id": "menangis"
+        }
+      ]
+    },
+    "统一": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "分裂",
+          "pinyin": "fēnliè",
+          "note_id": "terpecah, memisahkan"
+        }
+      ]
+    },
+    "瘦": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "胖",
+          "pinyin": "pàng",
+          "note_id": "gemuk"
+        }
+      ]
+    },
+    "前": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "后",
+          "pinyin": "hòu",
+          "note_id": "belakang, kemudian"
+        }
+      ]
+    },
+    "喜欢": {
+      "synonyms": [
+        {
+          "word": "爱",
+          "pinyin": "ài",
+          "note_id": "mencintai (lebih dalam dari suka)"
+        },
+        {
+          "word": "热爱",
+          "pinyin": "rè'ài",
+          "note_id": "sangat mencintai, bersemangat"
+        },
+        {
+          "word": "钟爱",
+          "pinyin": "zhōng'ài",
+          "note_id": "sangat menyayangi"
+        },
+        {
+          "word": "偏爱",
+          "pinyin": "piān'ài",
+          "note_id": "lebih menyukai, pilih kasih"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "讨厌",
+          "pinyin": "tǎoyàn",
+          "note_id": "tidak suka, membenci"
+        },
+        {
+          "word": "厌恶",
+          "pinyin": "yànwù",
+          "note_id": "jijik, muak"
+        }
+      ]
+    },
+    "看": {
+      "synonyms": [
+        {
+          "word": "望",
+          "pinyin": "wàng",
+          "note_id": "menatap jauh ke depan"
+        },
+        {
+          "word": "瞧",
+          "pinyin": "qiáo",
+          "note_id": "melihat (informal/percakapan)"
+        },
+        {
+          "word": "瞄",
+          "pinyin": "miáo",
+          "note_id": "mengintip, membidik"
+        },
+        {
+          "word": "观察",
+          "pinyin": "guānchá",
+          "note_id": "mengamati dengan teliti"
+        },
+        {
+          "word": "注视",
+          "pinyin": "zhùshì",
+          "note_id": "menatap dengan seksama"
+        }
+      ],
+      "antonyms": []
+    },
+    "死": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "生",
+          "pinyin": "shēng",
+          "note_id": "hidup, lahir"
+        }
+      ]
+    },
+    "简单": {
+      "synonyms": [
+        {
+          "word": "容易",
+          "pinyin": "róngyì",
+          "note_id": "mudah (dilakukan)"
+        },
+        {
+          "word": "轻松",
+          "pinyin": "qīngsōng",
+          "note_id": "santai, tidak berat"
+        },
+        {
+          "word": "朴素",
+          "pinyin": "pǔsù",
+          "note_id": "sederhana, bersahaja"
+        },
+        {
+          "word": "平易",
+          "pinyin": "píngyì",
+          "note_id": "ramah dan sederhana"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "复杂",
+          "pinyin": "fùzá",
+          "note_id": "rumit, kompleks"
+        }
+      ]
+    },
+    "缺点": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "优点",
+          "pinyin": "yōudiǎn",
+          "note_id": "kelebihan, keunggulan"
+        }
+      ]
+    },
+    "问题": {
+      "synonyms": [
+        {
+          "word": "难题",
+          "pinyin": "nántí",
+          "note_id": "masalah sulit, tantangan"
+        },
+        {
+          "word": "疑问",
+          "pinyin": "yíwèn",
+          "note_id": "keraguan, pertanyaan"
+        },
+        {
+          "word": "麻烦",
+          "pinyin": "máfan",
+          "note_id": "kesulitan, merepotkan"
+        },
+        {
+          "word": "困境",
+          "pinyin": "kùnjìng",
+          "note_id": "situasi sulit, dilema"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "答案",
+          "pinyin": "dá'àn",
+          "note_id": "jawaban, solusi"
+        }
+      ]
+    },
+    "下": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "上",
+          "pinyin": "shàng",
+          "note_id": "atas"
+        }
+      ]
+    },
+    "脏": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "干净",
+          "pinyin": "gānjìng",
+          "note_id": "bersih"
+        }
+      ]
+    },
+    "里": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "外",
+          "pinyin": "wài",
+          "note_id": "luar, di luar"
+        }
+      ]
+    },
+    "软": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "硬",
+          "pinyin": "yìng",
+          "note_id": "keras"
+        }
+      ]
+    },
+    "喝": {
+      "synonyms": [
+        {
+          "word": "饮",
+          "pinyin": "yǐn",
+          "note_id": "minum (formal/sastra)"
+        },
+        {
+          "word": "品",
+          "pinyin": "pǐn",
+          "note_id": "menyesap, menikmati minuman"
+        }
+      ],
+      "antonyms": []
+    },
+    "好": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "坏",
+          "pinyin": "huài",
+          "note_id": "buruk, jahat"
+        },
+        {
+          "word": "差",
+          "pinyin": "chà",
+          "note_id": "buruk, kurang baik"
+        }
+      ]
+    },
+    "开始": {
+      "synonyms": [
+        {
+          "word": "开展",
+          "pinyin": "kāizhǎn",
+          "note_id": "memulai (kegiatan/program)"
+        },
+        {
+          "word": "着手",
+          "pinyin": "zhuóshǒu",
+          "note_id": "mulai mengerjakan"
+        },
+        {
+          "word": "启动",
+          "pinyin": "qǐdòng",
+          "note_id": "mengaktifkan, meluncurkan"
+        },
+        {
+          "word": "动手",
+          "pinyin": "dòngshǒu",
+          "note_id": "mulai bekerja"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "结束",
+          "pinyin": "jiéshù",
+          "note_id": "akhir, selesai"
+        }
+      ]
+    },
+    "工作": {
+      "synonyms": [
+        {
+          "word": "劳动",
+          "pinyin": "láodòng",
+          "note_id": "bekerja keras, kerja fisik"
+        },
+        {
+          "word": "做事",
+          "pinyin": "zuòshì",
+          "note_id": "melakukan sesuatu, bekerja"
+        },
+        {
+          "word": "职业",
+          "pinyin": "zhíyè",
+          "note_id": "profesi, karier"
+        },
+        {
+          "word": "干活",
+          "pinyin": "gànhuó",
+          "note_id": "bekerja (informal)"
+        }
+      ],
+      "antonyms": []
+    },
+    "吃": {
+      "synonyms": [
+        {
+          "word": "用餐",
+          "pinyin": "yòngcān",
+          "note_id": "makan (formal)"
+        },
+        {
+          "word": "进食",
+          "pinyin": "jìnshí",
+          "note_id": "mengonsumsi makanan (medis/formal)"
+        },
+        {
+          "word": "享用",
+          "pinyin": "xiǎngyòng",
+          "note_id": "menikmati makanan"
+        }
+      ],
+      "antonyms": []
+    },
+    "记住": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "忘记",
+          "pinyin": "wàngjì",
+          "note_id": "melupakan"
+        }
+      ]
+    },
+    "输": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "赢",
+          "pinyin": "yíng",
+          "note_id": "menang"
+        }
+      ]
+    },
+    "慢": {
+      "synonyms": [
+        {
+          "word": "缓慢",
+          "pinyin": "huǎnmàn",
+          "note_id": "lambat (formal)"
+        },
+        {
+          "word": "迟缓",
+          "pinyin": "chíhuǎn",
+          "note_id": "lamban, terlambat"
+        },
+        {
+          "word": "缓",
+          "pinyin": "huǎn",
+          "note_id": "perlahan, santai"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "快",
+          "pinyin": "kuài",
+          "note_id": "cepat"
+        }
+      ]
+    },
+    "外": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "里",
+          "pinyin": "lǐ",
+          "note_id": "dalam, di dalam"
+        }
+      ]
+    },
+    "爱": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "恨",
+          "pinyin": "hèn",
+          "note_id": "membenci"
+        }
+      ]
+    },
+    "重": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "轻",
+          "pinyin": "qīng",
+          "note_id": "ringan"
+        }
+      ]
+    },
+    "短": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "长",
+          "pinyin": "cháng",
+          "note_id": "panjang"
+        }
+      ]
+    },
+    "发现": {
+      "synonyms": [
+        {
+          "word": "发觉",
+          "pinyin": "fājué",
+          "note_id": "menyadari, mengetahui tiba-tiba"
+        },
+        {
+          "word": "察觉",
+          "pinyin": "chájué",
+          "note_id": "mendeteksi, menyadari"
+        },
+        {
+          "word": "找到",
+          "pinyin": "zhǎodào",
+          "note_id": "menemukan (hasil pencarian)"
+        },
+        {
+          "word": "探索",
+          "pinyin": "tànsuǒ",
+          "note_id": "menjelajahi, mengeksplorasi"
+        }
+      ],
+      "antonyms": []
+    },
+    "快": {
+      "synonyms": [
+        {
+          "word": "迅速",
+          "pinyin": "xùnsù",
+          "note_id": "cepat dan segera (formal)"
+        },
+        {
+          "word": "飞快",
+          "pinyin": "fēikuài",
+          "note_id": "sangat cepat, kilat"
+        },
+        {
+          "word": "敏捷",
+          "pinyin": "mǐnjié",
+          "note_id": "lincah, gesit"
+        },
+        {
+          "word": "急速",
+          "pinyin": "jísù",
+          "note_id": "sangat cepat, mendadak"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "慢",
+          "pinyin": "màn",
+          "note_id": "lambat"
+        }
+      ]
+    },
+    "开": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "关",
+          "pinyin": "guān",
+          "note_id": "menutup, mematikan"
+        }
+      ]
+    },
+    "机会": {
+      "synonyms": [
+        {
+          "word": "机遇",
+          "pinyin": "jīyù",
+          "note_id": "kesempatan emas (formal)"
+        },
+        {
+          "word": "时机",
+          "pinyin": "shíjī",
+          "note_id": "momen yang tepat"
+        },
+        {
+          "word": "良机",
+          "pinyin": "liángjī",
+          "note_id": "kesempatan baik"
+        },
+        {
+          "word": "契机",
+          "pinyin": "qìjī",
+          "note_id": "peluang yang muncul"
+        }
+      ],
+      "antonyms": []
+    },
+    "说": {
+      "synonyms": [
+        {
+          "word": "讲",
+          "pinyin": "jiǎng",
+          "note_id": "menjelaskan, bercerita (lebih formal)"
+        },
+        {
+          "word": "谈",
+          "pinyin": "tán",
+          "note_id": "berdiskusi, mengobrol"
+        },
+        {
+          "word": "聊",
+          "pinyin": "liáo",
+          "note_id": "mengobrol santai"
+        },
+        {
+          "word": "告诉",
+          "pinyin": "gàosu",
+          "note_id": "memberitahu"
+        },
+        {
+          "word": "表达",
+          "pinyin": "biǎodá",
+          "note_id": "mengungkapkan, mengekspresikan"
+        }
+      ],
+      "antonyms": []
+    },
+    "结束": {
+      "synonyms": [
+        {
+          "word": "完成",
+          "pinyin": "wánchéng",
+          "note_id": "menyelesaikan (tugas/pekerjaan)"
+        },
+        {
+          "word": "完毕",
+          "pinyin": "wánbì",
+          "note_id": "selesai seluruhnya (formal)"
+        },
+        {
+          "word": "终止",
+          "pinyin": "zhōngzhǐ",
+          "note_id": "menghentikan, mengakhiri"
+        },
+        {
+          "word": "结局",
+          "pinyin": "jiéjú",
+          "note_id": "akhir, kesimpulan"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "开始",
+          "pinyin": "kāishǐ",
+          "note_id": "mulai"
+        }
+      ]
+    },
+    "硬": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "软",
+          "pinyin": "ruǎn",
+          "note_id": "lembut, lunak"
+        }
+      ]
+    },
+    "容易": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "难",
+          "pinyin": "nán",
+          "note_id": "sulit"
+        }
+      ]
+    },
+    "加": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "减",
+          "pinyin": "jiǎn",
+          "note_id": "mengurangi"
+        }
+      ]
+    },
+    "多": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "少",
+          "pinyin": "shǎo",
+          "note_id": "sedikit"
+        }
+      ]
+    },
+    "卖": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "买",
+          "pinyin": "mǎi",
+          "note_id": "membeli"
+        }
+      ]
+    },
+    "真实": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "虚假",
+          "pinyin": "xūjiǎ",
+          "note_id": "palsu, tidak nyata"
+        }
+      ]
+    },
+    "紧张": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "轻松",
+          "pinyin": "qīngsōng",
+          "note_id": "santai, rileks"
+        }
+      ]
+    },
+    "帮助": {
+      "synonyms": [
+        {
+          "word": "协助",
+          "pinyin": "xiézhù",
+          "note_id": "membantu (lebih formal)"
+        },
+        {
+          "word": "支持",
+          "pinyin": "zhīchí",
+          "note_id": "mendukung, menopang"
+        },
+        {
+          "word": "援助",
+          "pinyin": "yuánzhù",
+          "note_id": "memberikan bantuan/pertolongan"
+        },
+        {
+          "word": "扶持",
+          "pinyin": "fúchí",
+          "note_id": "mendukung, membimbing"
+        }
+      ],
+      "antonyms": []
+    },
+    "非常": {
+      "synonyms": [
+        {
+          "word": "很",
+          "pinyin": "hěn",
+          "note_id": "sangat (umum/informal)"
+        },
+        {
+          "word": "十分",
+          "pinyin": "shífēn",
+          "note_id": "sangat, sepenuhnya"
+        },
+        {
+          "word": "极其",
+          "pinyin": "jíqí",
+          "note_id": "amat sangat (formal)"
+        },
+        {
+          "word": "特别",
+          "pinyin": "tèbié",
+          "note_id": "terutama, sangat"
+        },
+        {
+          "word": "相当",
+          "pinyin": "xiāngdāng",
+          "note_id": "cukup, lumayan"
+        },
+        {
+          "word": "格外",
+          "pinyin": "géwài",
+          "note_id": "luar biasa, sangat"
+        }
+      ],
+      "antonyms": []
+    },
+    "赢": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "输",
+          "pinyin": "shū",
+          "note_id": "kalah"
+        }
+      ]
+    },
+    "勇敢": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "胆小",
+          "pinyin": "dǎnxiǎo",
+          "note_id": "penakut, pengecut"
+        }
+      ]
+    },
+    "走": {
+      "synonyms": [
+        {
+          "word": "行",
+          "pinyin": "xíng",
+          "note_id": "berjalan (lebih formal/sastra)"
+        },
+        {
+          "word": "步行",
+          "pinyin": "bùxíng",
+          "note_id": "berjalan kaki"
+        },
+        {
+          "word": "散步",
+          "pinyin": "sànbù",
+          "note_id": "berjalan santai/jalan-jalan"
+        },
+        {
+          "word": "前进",
+          "pinyin": "qiánjìn",
+          "note_id": "melangkah maju"
+        }
+      ],
+      "antonyms": []
+    },
+    "生": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "死",
+          "pinyin": "sǐ",
+          "note_id": "mati, meninggal"
+        }
+      ]
+    },
+    "问": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "答",
+          "pinyin": "dá",
+          "note_id": "menjawab"
+        }
+      ]
+    },
+    "贵": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "便宜",
+          "pinyin": "piányí",
+          "note_id": "murah"
+        }
+      ]
+    },
+    "学习": {
+      "synonyms": [
+        {
+          "word": "学",
+          "pinyin": "xué",
+          "note_id": "belajar, mempelajari"
+        },
+        {
+          "word": "研究",
+          "pinyin": "yánjiū",
+          "note_id": "meneliti, mengkaji"
+        },
+        {
+          "word": "钻研",
+          "pinyin": "zuānyán",
+          "note_id": "mendalami dengan tekun"
+        },
+        {
+          "word": "进修",
+          "pinyin": "jìnxiū",
+          "note_id": "belajar lanjut/peningkatan"
+        }
+      ],
+      "antonyms": []
+    },
+    "原因": {
+      "synonyms": [
+        {
+          "word": "理由",
+          "pinyin": "lǐyóu",
+          "note_id": "alasan, justifikasi"
+        },
+        {
+          "word": "缘故",
+          "pinyin": "yuángù",
+          "note_id": "sebab, alasan (sastra)"
+        },
+        {
+          "word": "缘由",
+          "pinyin": "yuányóu",
+          "note_id": "sebab dan alasan"
+        },
+        {
+          "word": "起因",
+          "pinyin": "qǐyīn",
+          "note_id": "penyebab awal"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "结果",
+          "pinyin": "jiéguǒ",
+          "note_id": "akibat, hasil"
+        }
+      ]
+    },
+    "西": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "东",
+          "pinyin": "dōng",
+          "note_id": "timur"
+        }
+      ]
+    },
+    "聪明": {
+      "synonyms": [
+        {
+          "word": "智慧",
+          "pinyin": "zhìhuì",
+          "note_id": "bijaksana, penuh kebijakan"
+        },
+        {
+          "word": "聪慧",
+          "pinyin": "cōnghuì",
+          "note_id": "cerdas dan bijak"
+        },
+        {
+          "word": "机智",
+          "pinyin": "jīzhì",
+          "note_id": "cerdik, cekatan berpikir"
+        },
+        {
+          "word": "睿智",
+          "pinyin": "ruìzhì",
+          "note_id": "sangat bijaksana (formal)"
+        },
+        {
+          "word": "有才华",
+          "pinyin": "yǒu cáihuá",
+          "note_id": "berbakat, bertalenta"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "笨",
+          "pinyin": "bèn",
+          "note_id": "bodoh, tolol"
+        }
+      ]
+    },
+    "增加": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "减少",
+          "pinyin": "jiǎnshǎo",
+          "note_id": "mengurangi"
+        }
+      ]
+    },
+    "男": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "女",
+          "pinyin": "nǚ",
+          "note_id": "perempuan"
+        }
+      ]
+    },
+    "要": {
+      "synonyms": [
+        {
+          "word": "想",
+          "pinyin": "xiǎng",
+          "note_id": "ingin, memikirkan (keinginan)"
+        },
+        {
+          "word": "需要",
+          "pinyin": "xūyào",
+          "note_id": "membutuhkan (kebutuhan)"
+        },
+        {
+          "word": "希望",
+          "pinyin": "xīwàng",
+          "note_id": "berharap, menginginkan"
+        },
+        {
+          "word": "打算",
+          "pinyin": "dǎsuàn",
+          "note_id": "berencana, berniat"
+        }
+      ],
+      "antonyms": []
+    },
+    "少": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "多",
+          "pinyin": "duō",
+          "note_id": "banyak"
+        }
+      ]
+    },
+    "快乐": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "悲伤",
+          "pinyin": "bēishāng",
+          "note_id": "bersedih"
+        },
+        {
+          "word": "痛苦",
+          "pinyin": "tòngkǔ",
+          "note_id": "menderita, kesakitan"
+        }
+      ]
+    },
+    "关系": {
+      "synonyms": [
+        {
+          "word": "联系",
+          "pinyin": "liánxì",
+          "note_id": "kontak, kaitan"
+        },
+        {
+          "word": "关联",
+          "pinyin": "guānlián",
+          "note_id": "terkait, berhubungan"
+        },
+        {
+          "word": "纽带",
+          "pinyin": "niǔdài",
+          "note_id": "ikatan, penghubung"
+        }
+      ],
+      "antonyms": []
+    },
+    "安全": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "危险",
+          "pinyin": "wēixiǎn",
+          "note_id": "berbahaya"
+        }
+      ]
+    },
+    "保护": {
+      "synonyms": [
+        {
+          "word": "保卫",
+          "pinyin": "bǎowèi",
+          "note_id": "mempertahankan, membela"
+        },
+        {
+          "word": "防护",
+          "pinyin": "fánghù",
+          "note_id": "melindungi dari bahaya"
+        },
+        {
+          "word": "守护",
+          "pinyin": "shǒuhù",
+          "note_id": "menjaga, melindungi"
+        },
+        {
+          "word": "维护",
+          "pinyin": "wéihù",
+          "note_id": "memelihara, menjaga"
+        }
+      ],
+      "antonyms": []
+    },
+    "新": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "旧",
+          "pinyin": "jiù",
+          "note_id": "lama, usang"
+        }
+      ]
+    },
+    "难": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "容易",
+          "pinyin": "róngyì",
+          "note_id": "mudah"
+        }
+      ]
+    },
+    "影响": {
+      "synonyms": [
+        {
+          "word": "作用",
+          "pinyin": "zuòyòng",
+          "note_id": "fungsi, efek, peran"
+        },
+        {
+          "word": "效应",
+          "pinyin": "xiàoyìng",
+          "note_id": "efek, respons"
+        },
+        {
+          "word": "冲击",
+          "pinyin": "chōngjī",
+          "note_id": "dampak kuat, guncangan"
+        }
+      ],
+      "antonyms": []
+    },
+    "困难": {
+      "synonyms": [
+        {
+          "word": "难",
+          "pinyin": "nán",
+          "note_id": "sulit (umum)"
+        },
+        {
+          "word": "艰难",
+          "pinyin": "jiānnán",
+          "note_id": "sangat sulit, berat"
+        },
+        {
+          "word": "棘手",
+          "pinyin": "jíshǒu",
+          "note_id": "rumit, susah ditangani"
+        },
+        {
+          "word": "复杂",
+          "pinyin": "fùzá",
+          "note_id": "rumit, kompleks"
+        }
+      ],
+      "antonyms": []
+    },
+    "主动": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "被动",
+          "pinyin": "bèidòng",
+          "note_id": "pasif, reaktif"
+        }
+      ]
+    },
+    "意见": {
+      "synonyms": [
+        {
+          "word": "看法",
+          "pinyin": "kànfǎ",
+          "note_id": "pandangan, cara memandang"
+        },
+        {
+          "word": "观点",
+          "pinyin": "guāndiǎn",
+          "note_id": "sudut pandang, perspektif"
+        },
+        {
+          "word": "建议",
+          "pinyin": "jiànyì",
+          "note_id": "saran, rekomendasi"
+        },
+        {
+          "word": "主张",
+          "pinyin": "zhǔzhāng",
+          "note_id": "pendirian, usul"
+        }
+      ],
+      "antonyms": []
+    },
+    "优点": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "缺点",
+          "pinyin": "quēdiǎn",
+          "note_id": "kekurangan, kelemahan"
+        }
+      ]
+    },
+    "富": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "穷",
+          "pinyin": "qióng",
+          "note_id": "miskin"
+        }
+      ]
+    },
+    "后": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "前",
+          "pinyin": "qián",
+          "note_id": "depan, sebelumnya"
+        }
+      ]
+    },
+    "变化": {
+      "synonyms": [
+        {
+          "word": "改变",
+          "pinyin": "gǎibiàn",
+          "note_id": "mengubah (aktif/sengaja)"
+        },
+        {
+          "word": "转变",
+          "pinyin": "zhuǎnbiàn",
+          "note_id": "bertransformasi"
+        },
+        {
+          "word": "演变",
+          "pinyin": "yǎnbiàn",
+          "note_id": "berevolusi secara bertahap"
+        },
+        {
+          "word": "变动",
+          "pinyin": "biàndòng",
+          "note_id": "perubahan (posisi/jabatan)"
+        }
+      ],
+      "antonyms": []
+    },
+    "左": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "右",
+          "pinyin": "yòu",
+          "note_id": "kanan"
+        }
+      ]
+    },
+    "右": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "左",
+          "pinyin": "zuǒ",
+          "note_id": "kiri"
+        }
+      ]
+    },
+    "轻": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "重",
+          "pinyin": "zhòng",
+          "note_id": "berat"
+        }
+      ]
+    },
+    "长": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "短",
+          "pinyin": "duǎn",
+          "note_id": "pendek"
+        }
+      ]
+    },
+    "认为": {
+      "synonyms": [
+        {
+          "word": "觉得",
+          "pinyin": "juéde",
+          "note_id": "merasa, berpendapat (subjektif)"
+        },
+        {
+          "word": "以为",
+          "pinyin": "yǐwéi",
+          "note_id": "mengira (sering salah dugaan)"
+        },
+        {
+          "word": "认识",
+          "pinyin": "rènshi",
+          "note_id": "memandang, memahami"
+        },
+        {
+          "word": "感到",
+          "pinyin": "gǎndào",
+          "note_id": "merasakan"
+        }
+      ],
+      "antonyms": []
+    },
+    "大": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "小",
+          "pinyin": "xiǎo",
+          "note_id": "kecil"
+        }
+      ]
+    },
+    "冷": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "热",
+          "pinyin": "rè",
+          "note_id": "panas"
+        },
+        {
+          "word": "暖",
+          "pinyin": "nuǎn",
+          "note_id": "hangat"
+        }
+      ]
+    },
+    "和平": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "战争",
+          "pinyin": "zhànzhēng",
+          "note_id": "perang"
+        }
+      ]
+    },
+    "跑": {
+      "synonyms": [
+        {
+          "word": "奔",
+          "pinyin": "bēn",
+          "note_id": "berlari kencang, bergegas"
+        },
+        {
+          "word": "冲",
+          "pinyin": "chōng",
+          "note_id": "berlari menerjang"
+        },
+        {
+          "word": "奔跑",
+          "pinyin": "bēnpǎo",
+          "note_id": "berlari (penekanan pada gerakan)"
+        }
+      ],
+      "antonyms": []
+    },
+    "忘记": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "记住",
+          "pinyin": "jìzhù",
+          "note_id": "mengingat"
+        }
+      ]
+    },
+    "远": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "近",
+          "pinyin": "jìn",
+          "note_id": "dekat"
+        }
+      ]
+    },
+    "坏": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "好",
+          "pinyin": "hǎo",
+          "note_id": "baik"
+        }
+      ]
+    },
+    "关": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "开",
+          "pinyin": "kāi",
+          "note_id": "membuka, menyalakan"
+        }
+      ]
+    },
+    "女": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "男",
+          "pinyin": "nán",
+          "note_id": "laki-laki"
+        }
+      ]
+    },
+    "失败": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "成功",
+          "pinyin": "chénggōng",
+          "note_id": "sukses, berhasil"
+        }
+      ]
+    },
+    "热": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "冷",
+          "pinyin": "lěng",
+          "note_id": "dingin"
+        }
+      ]
+    },
+    "高兴": {
+      "synonyms": [
+        {
+          "word": "快乐",
+          "pinyin": "kuàilè",
+          "note_id": "bahagia (lebih mendalam/umum)"
+        },
+        {
+          "word": "开心",
+          "pinyin": "kāixīn",
+          "note_id": "senang hati (informal)"
+        },
+        {
+          "word": "愉快",
+          "pinyin": "yúkuài",
+          "note_id": "menyenangkan, riang"
+        },
+        {
+          "word": "欢乐",
+          "pinyin": "huānlè",
+          "note_id": "penuh kesenangan, riang gembira"
+        },
+        {
+          "word": "兴奋",
+          "pinyin": "xīngfèn",
+          "note_id": "bersemangat, antusias"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "难过",
+          "pinyin": "nánguò",
+          "note_id": "sedih, susah"
+        },
+        {
+          "word": "伤心",
+          "pinyin": "shāngxīn",
+          "note_id": "bersedih, terluka hati"
+        }
+      ]
+    },
+    "恨": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "爱",
+          "pinyin": "ài",
+          "note_id": "mencintai"
+        }
+      ]
+    },
+    "已经": {
+      "synonyms": [
+        {
+          "word": "曾经",
+          "pinyin": "céngjīng",
+          "note_id": "pernah (masa lalu)"
+        },
+        {
+          "word": "早已",
+          "pinyin": "zǎoyǐ",
+          "note_id": "sudah sejak lama"
+        }
+      ],
+      "antonyms": []
+    },
+    "漂亮": {
+      "synonyms": [
+        {
+          "word": "美丽",
+          "pinyin": "měilì",
+          "note_id": "indah (bisa untuk alam/orang)"
+        },
+        {
+          "word": "好看",
+          "pinyin": "hǎokàn",
+          "note_id": "enak dipandang (informal)"
+        },
+        {
+          "word": "美观",
+          "pinyin": "měiguān",
+          "note_id": "indah, estetis (benda/desain)"
+        },
+        {
+          "word": "俊",
+          "pinyin": "jùn",
+          "note_id": "tampan, gagah (untuk pria)"
+        },
+        {
+          "word": "秀丽",
+          "pinyin": "xiùlì",
+          "note_id": "anggun dan indah (alam/wanita)"
+        }
+      ],
+      "antonyms": []
+    },
+    "出": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "进",
+          "pinyin": "jìn",
+          "note_id": "masuk"
+        }
+      ]
+    },
+    "复杂": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "简单",
+          "pinyin": "jiǎndān",
+          "note_id": "sederhana, mudah"
+        }
+      ]
+    },
+    "知道": {
+      "synonyms": [
+        {
+          "word": "了解",
+          "pinyin": "liǎojiě",
+          "note_id": "memahami dengan mendalam"
+        },
+        {
+          "word": "明白",
+          "pinyin": "míngbai",
+          "note_id": "mengerti, paham"
+        },
+        {
+          "word": "懂",
+          "pinyin": "dǒng",
+          "note_id": "mengerti (informal)"
+        },
+        {
+          "word": "清楚",
+          "pinyin": "qīngchǔ",
+          "note_id": "jelas, memahami dengan jelas"
+        },
+        {
+          "word": "认识",
+          "pinyin": "rènshi",
+          "note_id": "mengenal, mengetahui (orang/tempat)"
+        }
+      ],
+      "antonyms": []
+    },
+    "公平": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "不公平",
+          "pinyin": "bù gōngpíng",
+          "note_id": "tidak adil"
+        }
+      ]
+    },
+    "北": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "南",
+          "pinyin": "nán",
+          "note_id": "selatan"
+        }
+      ]
+    },
+    "立刻": {
+      "synonyms": [
+        {
+          "word": "马上",
+          "pinyin": "mǎshàng",
+          "note_id": "segera (informal/umum)"
+        },
+        {
+          "word": "立即",
+          "pinyin": "lìjí",
+          "note_id": "segera (formal)"
+        },
+        {
+          "word": "赶快",
+          "pinyin": "gǎnkuài",
+          "note_id": "cepat-cepat"
+        },
+        {
+          "word": "迅速",
+          "pinyin": "xùnsù",
+          "note_id": "dengan cepat"
+        }
+      ],
+      "antonyms": []
+    },
+    "旧": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "新",
+          "pinyin": "xīn",
+          "note_id": "baru"
+        }
+      ]
+    },
+    "危险": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "安全",
+          "pinyin": "ānquán",
+          "note_id": "aman"
+        }
+      ]
+    },
+    "来": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "去",
+          "pinyin": "qù",
+          "note_id": "pergi"
+        }
+      ]
+    },
+    "近": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "远",
+          "pinyin": "yuǎn",
+          "note_id": "jauh"
+        }
+      ]
+    },
+    "答": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "问",
+          "pinyin": "wèn",
+          "note_id": "bertanya"
+        }
+      ]
+    },
+    "买": {
+      "synonyms": [
+        {
+          "word": "购",
+          "pinyin": "gòu",
+          "note_id": "membeli (formal)"
+        },
+        {
+          "word": "购买",
+          "pinyin": "gòumǎi",
+          "note_id": "membeli (umum)"
+        },
+        {
+          "word": "采购",
+          "pinyin": "cǎigòu",
+          "note_id": "membeli dalam jumlah besar"
+        },
+        {
+          "word": "选购",
+          "pinyin": "xuǎngòu",
+          "note_id": "memilih dan membeli"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "卖",
+          "pinyin": "mài",
+          "note_id": "menjual"
+        }
+      ]
+    },
+    "重要": {
+      "synonyms": [
+        {
+          "word": "关键",
+          "pinyin": "guānjiàn",
+          "note_id": "kunci, sangat krusial"
+        },
+        {
+          "word": "主要",
+          "pinyin": "zhǔyào",
+          "note_id": "utama, pokok"
+        },
+        {
+          "word": "必要",
+          "pinyin": "bìyào",
+          "note_id": "perlu, diperlukan"
+        },
+        {
+          "word": "关重",
+          "pinyin": "guānzhòng",
+          "note_id": "sangat penting (formal)"
+        }
+      ],
+      "antonyms": []
+    },
+    "方法": {
+      "synonyms": [
+        {
+          "word": "办法",
+          "pinyin": "bànfǎ",
+          "note_id": "cara, solusi (praktis)"
+        },
+        {
+          "word": "手段",
+          "pinyin": "shǒuduàn",
+          "note_id": "cara, taktik"
+        },
+        {
+          "word": "途径",
+          "pinyin": "tújìng",
+          "note_id": "jalur, cara mencapai tujuan"
+        },
+        {
+          "word": "措施",
+          "pinyin": "cuòshī",
+          "note_id": "langkah/tindakan (formal)"
+        }
+      ],
+      "antonyms": []
+    },
+    "进": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "出",
+          "pinyin": "chū",
+          "note_id": "keluar"
+        }
+      ]
+    },
+    "晚": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "早",
+          "pinyin": "zǎo",
+          "note_id": "pagi, awal"
+        }
+      ]
+    },
+    "希望": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "绝望",
+          "pinyin": "juéwàng",
+          "note_id": "putus asa"
+        }
+      ]
+    },
+    "给": {
+      "synonyms": [
+        {
+          "word": "送",
+          "pinyin": "sòng",
+          "note_id": "memberi hadiah, mengantarkan"
+        },
+        {
+          "word": "赠",
+          "pinyin": "zèng",
+          "note_id": "menghadiahkan (formal)"
+        },
+        {
+          "word": "交",
+          "pinyin": "jiāo",
+          "note_id": "menyerahkan, mengumpulkan"
+        },
+        {
+          "word": "递",
+          "pinyin": "dì",
+          "note_id": "menyodorkan, mengoper"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "收",
+          "pinyin": "shōu",
+          "note_id": "menerima, mengambil"
+        }
+      ]
+    },
+    "正确": {
+      "synonyms": [
+        {
+          "word": "对",
+          "pinyin": "duì",
+          "note_id": "benar (umum/informal)"
+        },
+        {
+          "word": "准确",
+          "pinyin": "zhǔnquè",
+          "note_id": "akurat, tepat sasaran"
+        },
+        {
+          "word": "精确",
+          "pinyin": "jīngquè",
+          "note_id": "presisi, tepat sekali"
+        },
+        {
+          "word": "无误",
+          "pinyin": "wúwù",
+          "note_id": "tanpa kesalahan"
+        }
+      ],
+      "antonyms": []
+    },
+    "高": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "低",
+          "pinyin": "dī",
+          "note_id": "rendah"
+        },
+        {
+          "word": "矮",
+          "pinyin": "ǎi",
+          "note_id": "pendek (orang/benda)"
+        }
+      ]
+    },
+    "老": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "年轻",
+          "pinyin": "niánqīng",
+          "note_id": "muda"
+        }
+      ]
+    },
+    "借": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "还",
+          "pinyin": "huán",
+          "note_id": "mengembalikan"
+        }
+      ]
+    },
+    "结果": {
+      "synonyms": [
+        {
+          "word": "成果",
+          "pinyin": "chéngguǒ",
+          "note_id": "hasil positif, pencapaian"
+        },
+        {
+          "word": "后果",
+          "pinyin": "hòuguǒ",
+          "note_id": "akibat (biasanya negatif)"
+        },
+        {
+          "word": "效果",
+          "pinyin": "xiàoguǒ",
+          "note_id": "efek, dampak"
+        },
+        {
+          "word": "成效",
+          "pinyin": "chéngxiào",
+          "note_id": "hasil nyata, efektivitas"
+        }
+      ],
+      "antonyms": []
+    },
+    "干净": {
+      "synonyms": [
+        {
+          "word": "整洁",
+          "pinyin": "zhěngjié",
+          "note_id": "bersih dan rapi"
+        },
+        {
+          "word": "洁净",
+          "pinyin": "jiéjìng",
+          "note_id": "bersih (formal)"
+        },
+        {
+          "word": "卫生",
+          "pinyin": "wèishēng",
+          "note_id": "higienis, sanitasi"
+        },
+        {
+          "word": "清洁",
+          "pinyin": "qīngjié",
+          "note_id": "bersih, membersihkan"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "脏",
+          "pinyin": "zāng",
+          "note_id": "kotor"
+        }
+      ]
+    },
+    "成功": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "失败",
+          "pinyin": "shībài",
+          "note_id": "gagal"
+        }
+      ]
+    },
+    "胜利": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "失败",
+          "pinyin": "shībài",
+          "note_id": "kekalahan, gagal"
+        }
+      ]
+    },
+    "小": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "大",
+          "pinyin": "dà",
+          "note_id": "besar"
+        }
+      ]
+    },
+    "东": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "西",
+          "pinyin": "xī",
+          "note_id": "barat"
+        }
+      ]
+    },
+    "上": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "下",
+          "pinyin": "xià",
+          "note_id": "bawah"
+        }
+      ]
+    },
+    "提高": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "降低",
+          "pinyin": "jiàngdī",
+          "note_id": "menurunkan"
+        }
+      ]
+    },
+    "白天": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "夜晚",
+          "pinyin": "yèwǎn",
+          "note_id": "malam hari"
+        }
+      ]
+    },
+    "低": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "高",
+          "pinyin": "gāo",
+          "note_id": "tinggi"
+        }
+      ]
+    },
+    "积极": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "消极",
+          "pinyin": "xiāojí",
+          "note_id": "negatif, pasif"
+        }
+      ]
+    },
+    "去": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "来",
+          "pinyin": "lái",
+          "note_id": "datang"
+        }
+      ]
+    },
+    "特别": {
+      "synonyms": [
+        {
+          "word": "特殊",
+          "pinyin": "tèshū",
+          "note_id": "istimewa, luar biasa"
+        },
+        {
+          "word": "尤其",
+          "pinyin": "yóuqí",
+          "note_id": "terutama, khususnya"
+        },
+        {
+          "word": "格外",
+          "pinyin": "géwài",
+          "note_id": "sangat, luar biasa"
+        },
+        {
+          "word": "非常",
+          "pinyin": "fēicháng",
+          "note_id": "sangat, amat"
+        }
+      ],
+      "antonyms": []
+    },
+    "便宜": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "贵",
+          "pinyin": "guì",
+          "note_id": "mahal"
+        }
+      ]
+    },
+    "胖": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "瘦",
+          "pinyin": "shòu",
+          "note_id": "kurus, langsing"
+        }
+      ]
+    },
+    "南": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "北",
+          "pinyin": "běi",
+          "note_id": "utara"
+        }
+      ]
+    },
+    "年轻": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "老",
+          "pinyin": "lǎo",
+          "note_id": "tua"
+        }
+      ]
+    },
+    "穷": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "富",
+          "pinyin": "fù",
+          "note_id": "kaya"
+        }
+      ]
+    },
+    "战争": {
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "和平",
+          "pinyin": "hépíng",
+          "note_id": "perdamaian"
+        }
+      ]
+    },
+    "著名": {
+      "synonyms": [
+        {
+          "word": "有名",
+          "pinyin": "yǒumíng",
+          "note_id": "terkenal (umum)"
+        },
+        {
+          "word": "知名",
+          "pinyin": "zhīmíng",
+          "note_id": "dikenal luas"
+        },
+        {
+          "word": "出名",
+          "pinyin": "chūmíng",
+          "note_id": "menjadi terkenal"
+        },
+        {
+          "word": "名声大",
+          "pinyin": "míngshēng dà",
+          "note_id": "reputasi besar"
+        }
+      ],
+      "antonyms": []
+    },
+    "思考": {
+      "synonyms": [
+        {
+          "word": "想",
+          "pinyin": "xiǎng",
+          "note_id": "berpikir, memikirkan"
+        },
+        {
+          "word": "考虑",
+          "pinyin": "kǎolǜ",
+          "note_id": "mempertimbangkan"
+        },
+        {
+          "word": "琢磨",
+          "pinyin": "zuómo",
+          "note_id": "merenung, memikirkan dalam-dalam"
+        },
+        {
+          "word": "分析",
+          "pinyin": "fēnxī",
+          "note_id": "menganalisis"
+        }
+      ],
+      "antonyms": []
+    }
+  }
+}
