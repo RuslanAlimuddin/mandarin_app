@@ -1,0 +1,4518 @@
+{
+  "pilar": 6,
+  "judul": "STRUKTUR KALIMAT DASAR DAN PERBANDINGAN",
+  "ringkasan": "Pilar ini membangun fondasi penyusunan kalimat Mandarin dari SVO dan Topic-Comment, lalu memperluasnya ke negasi, pertanyaan, perintah, perbandingan, konjungsi, kondisi, tujuan, sebab-akibat, konsesi, urutan waktu, seruan, perkiraan, pasif dasar, variasi ragam, dialog, latihan, kesalahan pembelajar, dan peta rekap. Fokus utamanya adalah memahami logika fungsi dan posisi unsur, bukan sekadar menghafal terjemahan.",
+  "bagian": [
+    {
+      "judul": "A. Filosofi Dasar Kalimat Mandarin",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Struktur kalimat Mandarin memiliki filosofi yang berbeda dari bahasa Indonesia. Bahasa Indonesia sangat bergantung pada urutan kata yang relatif kaku, sedangkan Mandarin lebih fleksibel dan sangat sering menggunakan konsep Topic-Comment (Topik-Komentar): topik dikemukakan terlebih dahulu, kemudian diberikan komentar mengenai topik tersebut."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Prinsip pentingnya adalah informasi yang menjadi fokus pembicaraan dapat ditempatkan di awal kalimat sebagai topik. Bagian setelahnya memberikan informasi atau komentar mengenai topik tersebut."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "这本书，我很喜欢。",
+              "pinyin": "Zhè běn shū, wǒ hěn xǐhuān.",
+              "arti": "Buku ini, saya sangat suka.",
+              "catatan": "Topik adalah buku ini, sedangkan komentar adalah saya sangat suka."
+            },
+            {
+              "hanzi": "那个餐厅，菜很好吃。",
+              "pinyin": "Nàge cāntīng, cài hěn hǎochī.",
+              "arti": "Restoran itu, makanannya enak.",
+              "catatan": "Topiknya adalah restoran itu; komentar menjelaskan makanannya."
+            },
+            {
+              "hanzi": "今天天气很好。",
+              "pinyin": "Jīntiān tiānqì hěn hǎo.",
+              "arti": "Hari ini cuacanya bagus.",
+              "catatan": "Keterangan waktu hari ini berfungsi sebagai topik pembicaraan."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Topic-Comment menekankan informasi penting di awal.",
+            "Struktur ini sangat umum dalam percakapan sehari-hari.",
+            "Topik tidak selalu identik dengan subjek gramatikal di bagian komentar.",
+            "Memahami Topic-Comment membantu pembelajar Indonesia memahami mengapa urutan kata Mandarin kadang berbeda dari pola Indonesia."
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Topic-Comment perlu dibedakan dari Subjek-Predikat. Topik adalah hal yang sedang dibicarakan, sedangkan subjek adalah unsur yang menjalankan atau mengalami predikasi di dalam klausa. Karena itu topik dapat berupa objek, waktu, tempat, atau seluruh frasa nominal yang kemudian dikomentari. Bentuk ini sangat berguna ketika pembicara sudah tahu apa yang sedang menjadi pokok pembicaraan. Dalam percakapan, jeda setelah topik juga sering membantu pendengar memproses struktur. Namun fleksibel bukan berarti bebas; di dalam komentar tetap ada aturan posisi verba, objek, keterangan, dan komplemen. Pembelajar Indonesia sebaiknya tidak menganggap semua kalimat yang dimulai dengan objek sebagai pembalikan SVO. Sering kali itu adalah topikalisasi, yaitu objek dipindahkan ke depan untuk dijadikan fokus pembicaraan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Struktur",
+            "Fokus",
+            "Contoh",
+            "Cara memahami"
+          ],
+          "baris": [
+            [
+              "S + V + O",
+              "tindakan biasa",
+              "我喜欢这本书。",
+              "Saya suka buku ini."
+            ],
+            [
+              "Topic + Comment",
+              "hal yang sedang dibahas",
+              "这本书，我很喜欢。",
+              "Kalau soal buku ini, saya sangat suka."
+            ],
+            [
+              "Waktu + S + V",
+              "kerangka waktu",
+              "昨天我去了北京。",
+              "Kemarin saya pergi ke Beijing."
+            ],
+            [
+              "Tempat + Comment",
+              "kerangka/topik tempat",
+              "在北京，我有很多朋友。",
+              "Di Beijing, saya punya banyak teman."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "这件衣服，我不喜欢。",
+              "pinyin": "Zhè jiàn yīfu, wǒ bù xǐhuān.",
+              "arti": "Baju ini, saya tidak suka.",
+              "catatan": "Topik diletakkan di depan; komentar tetap berupa 我不喜欢."
+            },
+            {
+              "hanzi": "钱的话，我现在没有。",
+              "pinyin": "Qián de huà, wǒ xiànzài méiyǒu.",
+              "arti": "Kalau soal uang, sekarang saya tidak punya.",
+              "catatan": "Topik 钱 dipersempit dengan 的话 untuk menandai ranah pembicaraan."
+            },
+            {
+              "hanzi": "中国菜，我很喜欢。",
+              "pinyin": "Zhōngguó cài, wǒ hěn xǐhuān.",
+              "arti": "Masakan China, saya sangat suka.",
+              "catatan": "Objek dapat menjadi topik jika sudah menjadi pusat pembicaraan."
+            },
+            {
+              "hanzi": "这个问题，我们以后再讨论。",
+              "pinyin": "Zhège wèntí, wǒmen yǐhòu zài tǎolùn.",
+              "arti": "Masalah ini, nanti kita bahas lagi.",
+              "catatan": "Topik tidak harus menjadi subjek komentar."
+            },
+            {
+              "hanzi": "至于价格，我觉得太贵了。",
+              "pinyin": "Zhìyú jiàgé, wǒ juéde tài guì le.",
+              "arti": "Kalau soal harga, menurut saya terlalu mahal.",
+              "catatan": "至于 memperkenalkan ranah/topik yang lebih formal."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: jangan menghafal Topic-Comment sebagai aturan bahwa semua informasi penting wajib berada di awal. Topic-Comment adalah pola wacana, bukan pengganti semua aturan sintaksis. Kalimat 这本书，我很喜欢 dan 我很喜欢这本书 sama-sama dapat benar, tetapi fokus dan alur informasinya berbeda."
+        }
+      ]
+    },
+    {
+      "judul": "B. Struktur Kalimat Deklaratif Dasar",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Pola dasar kalimat deklaratif (kalimat pernyataan) Mandarin adalah Subjek + Verba + Objek. Mandarin tidak mengubah bentuk kata kerja berdasarkan orang atau waktu seperti konjugasi dalam beberapa bahasa lain. Waktu biasanya dipahami dari konteks atau ditandai dengan unsur tertentu dalam kalimat."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "S + V",
+              "他来了。",
+              "Dia datang."
+            ],
+            [
+              "S + V + O",
+              "我喜欢中文。",
+              "Saya suka bahasa Mandarin."
+            ],
+            [
+              "S + V + Komplemen",
+              "他说得很快。",
+              "Dia berbicara sangat cepat."
+            ],
+            [
+              "S + Adjektiva sebagai predikat",
+              "她很漂亮。",
+              "Dia cantik."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我吃苹果。",
+              "pinyin": "Wǒ chī píngguǒ.",
+              "arti": "Saya makan apel."
+            },
+            {
+              "hanzi": "他来了。",
+              "pinyin": "Tā lái le.",
+              "arti": "Dia datang."
+            },
+            {
+              "hanzi": "我喜欢中文。",
+              "pinyin": "Wǒ xǐhuān Zhōngwén.",
+              "arti": "Saya suka bahasa Mandarin."
+            },
+            {
+              "hanzi": "他说得很快。",
+              "pinyin": "Tā shuō de hěn kuài.",
+              "arti": "Dia berbicara sangat cepat."
+            },
+            {
+              "hanzi": "她很漂亮。",
+              "pinyin": "Tā hěn piàoliang.",
+              "arti": "Dia cantik."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam kalimat dengan kata sifat sebagai predikat, 很 sering berfungsi sebagai penghubung netral agar kalimat terdengar alami, sehingga tidak selalu berarti sangat. Jika ingin menegaskan makna sangat, sumber menggunakan 非常 atau pola 太...了."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan selalu menerjemahkan 很 sebagai sangat. Pada 她很漂亮, makna dasarnya dapat diterjemahkan Dia cantik, bukan harus Dia sangat cantik."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Selain pola umum S + V + O, terdapat dua konstruksi dasar penting: 是 untuk menyatakan identitas atau klasifikasi, dan 有 untuk menyatakan kepemilikan atau keberadaan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Konstruksi",
+            "Pola",
+            "Fungsi"
+          ],
+          "baris": [
+            [
+              "是",
+              "S + 是 + O",
+              "adalah, identitas atau klasifikasi"
+            ],
+            [
+              "有",
+              "S + 有 + O",
+              "punya atau ada"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我是学生。",
+              "pinyin": "Wǒ shì xuésheng.",
+              "arti": "Saya adalah siswa."
+            },
+            {
+              "hanzi": "他是老师。",
+              "pinyin": "Tā shì lǎoshī.",
+              "arti": "Dia adalah guru."
+            },
+            {
+              "hanzi": "这不是我的书。",
+              "pinyin": "Zhè bùshì wǒ de shū.",
+              "arti": "Ini bukan buku saya."
+            },
+            {
+              "hanzi": "我有一本书。",
+              "pinyin": "Wǒ yǒu yī běn shū.",
+              "arti": "Saya punya sebuah buku."
+            },
+            {
+              "hanzi": "教室里有人。",
+              "pinyin": "Jiàoshì lǐ yǒu rén.",
+              "arti": "Di dalam kelas ada orang."
+            },
+            {
+              "hanzi": "这里没有水。",
+              "pinyin": "Zhèlǐ méiyǒu shuǐ.",
+              "arti": "Di sini tidak ada air."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Untuk 有, bentuk negatifnya adalah 没有, bukan 不有. Untuk 是, bentuk negatifnya adalah 不是, bukan 没是."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "SVO adalah kerangka dasar, bukan satu-satunya bentuk kalimat Mandarin. Predikat dapat berupa verba, frasa verba, adjektiva, atau konstruksi nominal dengan 是. Keterangan waktu biasanya muncul sebelum verba, sedangkan lokasi kegiatan sering muncul sebelum verba setelah subjek atau di posisi awal sebagai kerangka tempat. Mandarin tidak membutuhkan konjugasi verba untuk menyatakan orang atau waktu, tetapi informasi waktu dan keadaan dapat ditandai oleh kata waktu, aspek seperti 了 atau 过, atau konteks. Karena itu pembelajar sebaiknya membangun kalimat dari fungsi: siapa atau apa yang dibicarakan, tindakan/keadaan apa, lalu unsur yang melengkapinya. Pola SVO juga perlu dibedakan dari pola predikat-adjektiva, karena bahasa Indonesia sering memakai kata adalah secara eksplisit sedangkan Mandarin tidak."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Jenis predikat",
+            "Pola",
+            "Contoh",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "Verba transitif",
+              "S + V + O",
+              "我学习中文。",
+              "Verba memiliki objek."
+            ],
+            [
+              "Verba intransitif",
+              "S + V",
+              "他来了。",
+              "Tidak perlu objek."
+            ],
+            [
+              "Adjektiva",
+              "S + 很 + Adj",
+              "她很漂亮。",
+              "很 sering netral."
+            ],
+            [
+              "Identitas",
+              "S + 是 + N",
+              "我是老师。",
+              "是 untuk identitas/klasifikasi."
+            ],
+            [
+              "Eksistensi",
+              "Tempat + 有 + N",
+              "桌子上有一本书。",
+              "Ada sesuatu di suatu tempat."
+            ],
+            [
+              "Kepemilikan",
+              "S + 有 + N",
+              "我有一本书。",
+              "Subjek memiliki sesuatu."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我每天学习中文。",
+              "pinyin": "Wǒ měitiān xuéxí Zhōngwén.",
+              "arti": "Saya belajar Mandarin setiap hari.",
+              "catatan": "每天 adalah keterangan waktu yang lazim sebelum verba."
+            },
+            {
+              "hanzi": "明天他要去上海。",
+              "pinyin": "Míngtiān tā yào qù Shànghǎi.",
+              "arti": "Besok dia akan pergi ke Shanghai.",
+              "catatan": "Waktu dapat diletakkan di depan subjek."
+            },
+            {
+              "hanzi": "桌子上有三本书。",
+              "pinyin": "Zhuōzi shàng yǒu sān běn shū.",
+              "arti": "Di atas meja ada tiga buku.",
+              "catatan": "Pola eksistensi berbeda dari kepemilikan 我有三本书."
+            },
+            {
+              "hanzi": "她是医生。",
+              "pinyin": "Tā shì yīshēng.",
+              "arti": "Dia seorang dokter.",
+              "catatan": "是 menghubungkan subjek dengan identitas/kelas."
+            },
+            {
+              "hanzi": "今天很冷。",
+              "pinyin": "Jīntiān hěn lěng.",
+              "arti": "Hari ini dingin.",
+              "catatan": "Predikat adjektiva tidak membutuhkan 是."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: jangan menerjemahkan pola Indonesia Dia adalah cantik menjadi 她是漂亮. Untuk sifat gunakan 她很漂亮 atau 她非常漂亮. Sebaliknya, 是 diperlukan ketika predikatnya berupa identitas/klasifikasi seperti 她是医生."
+        }
+      ]
+    },
+    {
+      "judul": "C. Kalimat Negatif: 不, 没, dan 别",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Mandarin memiliki tiga bentuk negatif utama yang dibahas dalam materi ini. 不 digunakan terutama untuk kehendak, kebiasaan, keadaan umum, atau penolakan; 没 digunakan untuk ketidakadaan, pengalaman, atau peristiwa yang belum atau tidak terjadi; sedangkan 别 digunakan untuk larangan atau perintah jangan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Fungsi utama",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "不",
+              "tidak mau, tidak akan, kebiasaan, keadaan umum, bukan",
+              "我不去。",
+              "Saya tidak pergi."
+            ],
+            [
+              "没",
+              "belum, tidak pernah, tidak ada, peristiwa tidak terjadi",
+              "我没去。",
+              "Saya tidak pergi atau belum pergi."
+            ],
+            [
+              "别",
+              "larangan",
+              "别去！",
+              "Jangan pergi!"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我不去。",
+              "pinyin": "Wǒ bù qù.",
+              "arti": "Saya tidak pergi.",
+              "catatan": "Menunjukkan keputusan atau kehendak untuk tidak pergi."
+            },
+            {
+              "hanzi": "他不喜欢咖啡。",
+              "pinyin": "Tā bù xǐhuān kāfēi.",
+              "arti": "Dia tidak suka kopi."
+            },
+            {
+              "hanzi": "我不是老师。",
+              "pinyin": "Wǒ bùshì lǎoshī.",
+              "arti": "Saya bukan guru."
+            },
+            {
+              "hanzi": "我不会开车。",
+              "pinyin": "Wǒ bùhuì kāichē.",
+              "arti": "Saya tidak bisa mengemudi.",
+              "catatan": "Dalam materi, konteksnya adalah belum belajar atau belum memiliki kemampuan."
+            },
+            {
+              "hanzi": "她不吃肉。",
+              "pinyin": "Tā bù chī ròu.",
+              "arti": "Dia tidak makan daging.",
+              "catatan": "Dapat menunjukkan kebiasaan atau keadaan umum."
+            },
+            {
+              "hanzi": "我不知道。",
+              "pinyin": "Wǒ bù zhīdào.",
+              "arti": "Saya tidak tahu."
+            },
+            {
+              "hanzi": "我没钱。",
+              "pinyin": "Wǒ méi qián.",
+              "arti": "Saya tidak punya uang."
+            },
+            {
+              "hanzi": "我没去过中国。",
+              "pinyin": "Wǒ méi qùguo Zhōngguó.",
+              "arti": "Saya belum pernah pergi ke China."
+            },
+            {
+              "hanzi": "我没做完作业。",
+              "pinyin": "Wǒ méi zuò wán zuòyè.",
+              "arti": "Saya belum selesai mengerjakan PR."
+            },
+            {
+              "hanzi": "昨天我没去学校。",
+              "pinyin": "Zuótiān wǒ méi qù xuéxiào.",
+              "arti": "Kemarin saya tidak pergi ke sekolah."
+            },
+            {
+              "hanzi": "别去！",
+              "pinyin": "Bié qù!",
+              "arti": "Jangan pergi!"
+            },
+            {
+              "hanzi": "别担心。",
+              "pinyin": "Bié dānxīn.",
+              "arti": "Jangan khawatir."
+            },
+            {
+              "hanzi": "别忘了！",
+              "pinyin": "Bié wàng le!",
+              "arti": "Jangan lupa!"
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Situasi",
+            "不",
+            "没"
+          ],
+          "baris": [
+            [
+              "Masa depan atau keputusan",
+              "明天我不去。",
+              "✗"
+            ],
+            [
+              "Masa lalu atau peristiwa spesifik",
+              "✗",
+              "昨天我没去。"
+            ],
+            [
+              "Kebiasaan",
+              "我不抽烟。",
+              "✗"
+            ],
+            [
+              "Keberadaan",
+              "✗",
+              "这里没有人。"
+            ],
+            [
+              "Keinginan",
+              "我不想吃。",
+              "✗"
+            ],
+            [
+              "Pengalaman",
+              "✗",
+              "我没吃过。"
+            ],
+            [
+              "Kata kerja keadaan seperti tahu",
+              "不知道",
+              "✗"
+            ],
+            [
+              "有",
+              "✗",
+              "没有"
+            ],
+            [
+              "Fakta umum",
+              "地球不是平的。",
+              "✗"
+            ],
+            [
+              "Peristiwa spesifik",
+              "✗",
+              "他没来开会。"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "不 mengalami perubahan nada ketika berada sebelum suku kata bernada 4. Dalam 不是, pengucapan bù berubah menjadi bú. Sebelum nada 1, 2, atau 3, 不 tetap dibaca bù, seperti pada 不高."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan umum pembelajar Indonesia adalah menggunakan 没 untuk semua bentuk lampau. 没 memang sering berkaitan dengan peristiwa yang tidak terjadi atau belum terjadi, tetapi 不 tetap diperlukan untuk penolakan, kebiasaan, kehendak, dan keadaan tertentu."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan mengatakan 我没是学生 atau 我没知道. Bentuk yang digunakan adalah 我不是学生 dan 我不知道."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Perbedaan 不 dan 没 lebih tepat dipahami sebagai perbedaan jenis negasi, bukan sekadar perbedaan waktu lampau dan sekarang. 不 lazim menegasikan keadaan, kebiasaan, sikap, kehendak, atau keputusan, sedangkan 没 atau 没有 menegasikan terjadinya suatu peristiwa, pengalaman, keberadaan, atau penyelesaian sampai titik acuan. Dalam bentuk 没有 + verba, fokusnya adalah fakta bahwa tindakan belum/tidak terjadi; dalam 没有 + nomina, maknanya dapat menjadi tidak mempunyai atau tidak ada. 别 berbeda karena bersifat direktif: penutur meminta lawan bicara tidak melakukan sesuatu. Ada juga pola 不要 yang sering dipakai untuk larangan atau nasihat, sehingga jangan menyamakan 别 dengan satu-satunya bentuk larangan. Untuk pemula, pertanyaan terbaik adalah: apakah saya sedang menolak kebiasaan/niat, menyangkal kejadian/keberadaan, atau memerintah orang lain agar tidak melakukan sesuatu?"
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Makna",
+            "Bentuk utama",
+            "Contoh",
+            "Fokus"
+          ],
+          "baris": [
+            [
+              "Kebiasaan",
+              "不 + V",
+              "我不喝酒。",
+              "Kebiasaan/sikap."
+            ],
+            [
+              "Keputusan",
+              "不 + V",
+              "我不去了。",
+              "Tidak jadi/tidak akan pergi."
+            ],
+            [
+              "Peristiwa belum terjadi",
+              "没 + V",
+              "我还没吃饭。",
+              "Sampai sekarang belum."
+            ],
+            [
+              "Pengalaman",
+              "没 + V + 过",
+              "我没去过台湾。",
+              "Tidak pernah mengalami."
+            ],
+            [
+              "Keberadaan/kepemilikan",
+              "没有",
+              "这里没有人。",
+              "Tidak ada/tidak punya."
+            ],
+            [
+              "Larangan",
+              "别/不要 + V",
+              "别说话。",
+              "Jangan lakukan."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我不吃辣。",
+              "pinyin": "Wǒ bù chī là.",
+              "arti": "Saya tidak makan pedas.",
+              "catatan": "Bisa menyatakan kebiasaan atau pilihan umum."
+            },
+            {
+              "hanzi": "我还没吃饭。",
+              "pinyin": "Wǒ hái méi chīfàn.",
+              "arti": "Saya belum makan.",
+              "catatan": "Tindakan belum selesai/terjadi sampai sekarang."
+            },
+            {
+              "hanzi": "我没去过北京。",
+              "pinyin": "Wǒ méi qùguo Běijīng.",
+              "arti": "Saya belum pernah ke Beijing.",
+              "catatan": "没 + 过 menegasikan pengalaman."
+            },
+            {
+              "hanzi": "这里没有停车位。",
+              "pinyin": "Zhèlǐ méiyǒu tíngchēwèi.",
+              "arti": "Di sini tidak ada tempat parkir.",
+              "catatan": "没有 menegasikan keberadaan."
+            },
+            {
+              "hanzi": "别告诉他。",
+              "pinyin": "Bié gàosu tā.",
+              "arti": "Jangan beri tahu dia.",
+              "catatan": "Larangan langsung kepada lawan bicara."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: 不 bukan penanda semua masa depan dan 没 bukan penanda semua masa lalu. Bandingkan 昨天我不去 dengan 昨天我没去: yang pertama biasanya hanya mungkin dalam konteks keputusan/penolakan yang sudah ditetapkan, sedangkan yang kedua menyatakan fakta bahwa kemarin saya tidak pergi."
+        }
+      ]
+    },
+    {
+      "judul": "D. Kalimat Tanya",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Pertanyaan Mandarin dapat dibentuk dengan partikel 吗, pola A-not-A, kata tanya, pilihan dengan 还是, serta pola konfirmasi seperti 吧 dan 对不对."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Jenis",
+            "Pola",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "Partikel 吗",
+              "S + V + O + 吗",
+              "你好吗？",
+              "Apa kabar?"
+            ],
+            [
+              "A-not-A verba",
+              "S + V + 不 + V + O",
+              "你去不去？",
+              "Kamu pergi tidak?"
+            ],
+            [
+              "A-not-A adjektiva",
+              "S + Adj + 不 + Adj",
+              "好不好？",
+              "Baik tidak?"
+            ],
+            [
+              "A-not-A lampau",
+              "S + V + 没 + V + O",
+              "你去没去？",
+              "Kamu pergi belum?"
+            ],
+            [
+              "Pilihan",
+              "A + 还是 + B",
+              "咖啡还是茶？",
+              "Kopi atau teh?"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你吃饭了吗？",
+              "pinyin": "Nǐ chīfàn le ma?",
+              "arti": "Kamu sudah makan?"
+            },
+            {
+              "hanzi": "他是不是老师？",
+              "pinyin": "Tā shì bùshì lǎoshī?",
+              "arti": "Apakah dia guru?"
+            },
+            {
+              "hanzi": "你喜不喜欢中国菜？",
+              "pinyin": "Nǐ xǐ bù xǐhuān Zhōngguó cài?",
+              "arti": "Kamu suka makanan China atau tidak?"
+            },
+            {
+              "hanzi": "她漂亮不漂亮？",
+              "pinyin": "Tā piàoliang bù piàoliang?",
+              "arti": "Dia cantik atau tidak?"
+            },
+            {
+              "hanzi": "你想喝茶还是咖啡？",
+              "pinyin": "Nǐ xiǎng hē chá háishì kāfēi?",
+              "arti": "Kamu mau minum teh atau kopi?"
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata tanya",
+            "Pinyin",
+            "Fungsi",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "什么",
+              "shénme",
+              "apa",
+              "你叫什么名字？",
+              "Namamu siapa?"
+            ],
+            [
+              "谁",
+              "shéi",
+              "siapa",
+              "他是谁？",
+              "Dia siapa?"
+            ],
+            [
+              "哪里",
+              "nǎlǐ",
+              "di mana",
+              "你在哪里？",
+              "Kamu di mana?"
+            ],
+            [
+              "什么时候",
+              "shénme shíhou",
+              "kapan",
+              "你什么时候来？",
+              "Kamu datang kapan?"
+            ],
+            [
+              "为什么",
+              "wèishénme",
+              "mengapa",
+              "为什么学习中文？",
+              "Mengapa belajar Mandarin?"
+            ],
+            [
+              "怎么",
+              "zěnme",
+              "bagaimana atau dengan cara apa",
+              "怎么去车站？",
+              "Bagaimana pergi ke stasiun?"
+            ],
+            [
+              "怎样/怎么样",
+              "zěnyàng / zěnmeyàng",
+              "bagaimana keadaan",
+              "你最近怎么样？",
+              "Bagaimana keadaanmu akhir-akhir ini?"
+            ],
+            [
+              "多少",
+              "duōshao",
+              "berapa",
+              "多少钱？",
+              "Berapa harganya?"
+            ],
+            [
+              "几",
+              "jǐ",
+              "berapa untuk jumlah kecil",
+              "几个人？",
+              "Berapa orang?"
+            ],
+            [
+              "哪",
+              "nǎ",
+              "yang mana",
+              "你喜欢哪个？",
+              "Kamu suka yang mana?"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "几 digunakan untuk menanyakan jumlah kecil, dalam materi terutama jumlah di bawah 10, dan biasanya diikuti kata bantu bilangan seperti 几个人. 多少 digunakan untuk jumlah yang lebih besar atau tidak pasti dan dapat muncul dalam pola seperti 多少钱."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你什么时候去？",
+              "pinyin": "Nǐ shénme shíhou qù?",
+              "arti": "Kamu kapan pergi?"
+            },
+            {
+              "hanzi": "你怎么去学校？",
+              "pinyin": "Nǐ zěnme qù xuéxiào?",
+              "arti": "Kamu bagaimana pergi ke sekolah?"
+            },
+            {
+              "hanzi": "他为什么不来？",
+              "pinyin": "Tā wèishénme bù lái?",
+              "arti": "Mengapa dia tidak datang?"
+            },
+            {
+              "hanzi": "你最喜欢什么颜色？",
+              "pinyin": "Nǐ zuì xǐhuān shénme yánsè?",
+              "arti": "Kamu paling suka warna apa?"
+            },
+            {
+              "hanzi": "你不是学生吗？",
+              "pinyin": "Nǐ bùshì xuésheng ma?",
+              "arti": "Bukankah kamu siswa?"
+            },
+            {
+              "hanzi": "你是老师吧？",
+              "pinyin": "Nǐ shì lǎoshī ba?",
+              "arti": "Kamu guru, kan?"
+            },
+            {
+              "hanzi": "对不对？",
+              "pinyin": "Duì bù duì?",
+              "arti": "Benar tidak?"
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kata tanya Mandarin biasanya ditempatkan pada posisi unsur yang ditanyakan, bukan dipindahkan ke awal kalimat seperti pola pertanyaan dalam beberapa bahasa lain. Karena itu 你什么时候去 dan 你怎么去学校 mempertahankan posisi keterangan waktu atau cara."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Sistem pertanyaan Mandarin relatif transparan karena kata tanya biasanya tetap berada pada posisi sintaksis unsur yang dicari. Jika yang dicari adalah objek, 什么 dapat menempati posisi objek; jika yang dicari waktu, 什么时候 berada di posisi keterangan waktu; jika yang dicari cara, 怎么 berada di posisi cara. Ini berbeda dari kebiasaan beberapa bahasa yang memindahkan kata tanya ke awal. Pertanyaan ya/tidak dengan 吗 biasanya mengubah pernyataan menjadi pertanyaan, sedangkan A-not-A meminta pilihan biner terhadap predikat. 还是 digunakan ketika penutur menawarkan alternatif yang memang harus dipilih. 吧 dan 对不对 dapat membawa nuansa konfirmasi atau mencari persetujuan. Dalam percakapan, intonasi juga berperan sehingga tanda tanya tertulis tidak selalu menjelaskan seluruh nuansa."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Jenis",
+            "Pola",
+            "Fungsi",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "吗",
+              "Pernyataan + 吗",
+              "ya/tidak netral",
+              "你累吗？"
+            ],
+            [
+              "A-not-A",
+              "V 不 V",
+              "konfirmasi biner",
+              "你去不去？"
+            ],
+            [
+              "Kata tanya",
+              "unsur tanya di posisinya",
+              "informasi spesifik",
+              "你去哪儿？"
+            ],
+            [
+              "还是",
+              "A 还是 B",
+              "memilih alternatif",
+              "喝茶还是咖啡？"
+            ],
+            [
+              "吧",
+              "Pernyataan + 吧",
+              "dugaan/saran/konfirmasi lunak",
+              "你是老师吧？"
+            ],
+            [
+              "对不对",
+              "klausa + 对不对",
+              "meminta konfirmasi",
+              "这样做对不对？"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你今天上班吗？",
+              "pinyin": "Nǐ jīntiān shàngbān ma?",
+              "arti": "Apakah kamu bekerja hari ini?",
+              "catatan": "吗 membentuk pertanyaan ya/tidak."
+            },
+            {
+              "hanzi": "你吃不吃辣？",
+              "pinyin": "Nǐ chī bù chī là?",
+              "arti": "Kamu makan pedas atau tidak?",
+              "catatan": "A-not-A menanyakan pilihan ya/tidak."
+            },
+            {
+              "hanzi": "谁给你打电话？",
+              "pinyin": "Shéi gěi nǐ dǎ diànhuà?",
+              "arti": "Siapa yang meneleponmu?",
+              "catatan": "谁 menempati posisi subjek yang ditanyakan."
+            },
+            {
+              "hanzi": "你在哪儿工作？",
+              "pinyin": "Nǐ zài nǎr gōngzuò?",
+              "arti": "Kamu bekerja di mana?",
+              "catatan": "Tempat berada pada posisi keterangan lokasi."
+            },
+            {
+              "hanzi": "你要坐车还是走路？",
+              "pinyin": "Nǐ yào zuò chē háishì zǒulù?",
+              "arti": "Kamu mau naik kendaraan atau jalan kaki?",
+              "catatan": "还是 menghubungkan dua alternatif."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: jangan membuat pola seperti *什么你喜欢？ untuk maksud Apa yang kamu suka? Bentuk alami adalah 你喜欢什么？ karena 什么 tetap berada pada posisi objek yang ditanyakan."
+        }
+      ]
+    },
+    {
+      "judul": "E. Kalimat Perbandingan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Perbandingan merupakan salah satu struktur yang sangat penting dan sering digunakan dalam percakapan. Prinsip dasarnya adalah pihak yang dibandingkan sebagai A ditempatkan lebih dahulu, kemudian unsur pembanding, lalu B dan sifat atau predikat yang dibandingkan."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Untuk perbandingan lebih, pola dasarnya adalah A + 比 + B + sifat. Struktur ini menyatakan bahwa A lebih memiliki sifat tertentu dibandingkan B."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我比他高。",
+              "pinyin": "Wǒ bǐ tā gāo.",
+              "arti": "Saya lebih tinggi daripada dia."
+            },
+            {
+              "hanzi": "我比他大三岁。",
+              "pinyin": "Wǒ bǐ tā dà sān suì.",
+              "arti": "Saya lebih tua tiga tahun daripada dia."
+            },
+            {
+              "hanzi": "这个比那个贵十块。",
+              "pinyin": "Zhège bǐ nàge guì shí kuài.",
+              "arti": "Ini lebih mahal sepuluh yuan daripada itu."
+            },
+            {
+              "hanzi": "她比我高五厘米。",
+              "pinyin": "Tā bǐ wǒ gāo wǔ límǐ.",
+              "arti": "Dia lebih tinggi lima sentimeter daripada saya."
+            },
+            {
+              "hanzi": "我比他喜欢运动。",
+              "pinyin": "Wǒ bǐ tā xǐhuān yùndòng.",
+              "arti": "Saya lebih suka olahraga daripada dia."
+            },
+            {
+              "hanzi": "她比我说得好。",
+              "pinyin": "Tā bǐ wǒ shuō de hǎo.",
+              "arti": "Dia berbicara lebih baik daripada saya."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Untuk menyatakan tidak lebih atau kurang dibandingkan B, digunakan A + 没有 + B + sifat. Maknanya secara langsung adalah A tidak setinggi, tidak seenak, atau tidak memiliki tingkat sifat tersebut sebesar B."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我没有他高。",
+              "pinyin": "Wǒ méiyǒu tā gāo.",
+              "arti": "Saya tidak setinggi dia."
+            },
+            {
+              "hanzi": "这个没有那个好吃。",
+              "pinyin": "Zhège méiyǒu nàge hǎochī.",
+              "arti": "Ini tidak seenak itu."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Perbandingan kesamaan menggunakan 跟 atau 和, diikuti B, kemudian 一样 dan sifat. Untuk menyatakan ketidaksamaan, gunakan 不一样."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我跟他一样高。",
+              "pinyin": "Wǒ gēn tā yīyàng gāo.",
+              "arti": "Saya sama tingginya dengan dia."
+            },
+            {
+              "hanzi": "这本书和那本书一样贵。",
+              "pinyin": "Zhè běn shū hé nà běn shū yīyàng guì.",
+              "arti": "Buku ini sama mahalnya dengan buku itu."
+            },
+            {
+              "hanzi": "他的中文和我一样好。",
+              "pinyin": "Tā de Zhōngwén hé wǒ yīyàng hǎo.",
+              "arti": "Bahasa Mandarinnya sama bagusnya dengan saya."
+            },
+            {
+              "hanzi": "我的看法和他不一样。",
+              "pinyin": "Wǒ de kànfǎ hé tā bù yīyàng.",
+              "arti": "Pendapat saya tidak sama dengan dia."
+            },
+            {
+              "hanzi": "这里的气候和北京不一样。",
+              "pinyin": "Zhèlǐ de qìhòu hé Běijīng bù yīyàng.",
+              "arti": "Iklim di sini tidak sama dengan Beijing."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Superlatif menggunakan 最 yang berarti paling. 最 dapat ditempatkan sebelum sifat atau verba yang hendak dijadikan tingkat tertinggi."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "她是我们班最漂亮的。",
+              "pinyin": "Tā shì wǒmen bān zuì piàoliang de.",
+              "arti": "Dia yang paling cantik di kelas kami."
+            },
+            {
+              "hanzi": "这是我最喜欢的电影。",
+              "pinyin": "Zhè shì wǒ zuì xǐhuān de diànyǐng.",
+              "arti": "Ini film yang paling saya sukai."
+            },
+            {
+              "hanzi": "中国是人口最多的国家。",
+              "pinyin": "Zhōngguó shì rénkǒu zuì duō de guójiā.",
+              "arti": "China adalah negara dengan populasi terbanyak."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "越...越... menyatakan hubungan semakin A semakin B. Struktur ini menunjukkan bahwa perubahan pada satu sisi berjalan bersama perubahan pada sisi lainnya."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "越学越好。",
+              "pinyin": "Yuè xué yuè hǎo.",
+              "arti": "Semakin belajar, semakin baik."
+            },
+            {
+              "hanzi": "他越跑越快。",
+              "pinyin": "Tā yuè pǎo yuè kuài.",
+              "arti": "Dia semakin berlari semakin cepat."
+            },
+            {
+              "hanzi": "中文越学越难。",
+              "pinyin": "Zhōngwén yuè xué yuè nán.",
+              "arti": "Semakin belajar Mandarin, semakin sulit."
+            },
+            {
+              "hanzi": "越多越好。",
+              "pinyin": "Yuè duō yuè hǎo.",
+              "arti": "Semakin banyak semakin baik."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "越来越 menyatakan perubahan yang berlangsung semakin lama semakin kuat atau semakin jelas seiring waktu. Berbeda dengan 越...越..., fokusnya adalah perkembangan suatu keadaan."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "天气越来越热。",
+              "pinyin": "Tiānqì yuèláiyuè rè.",
+              "arti": "Cuaca semakin panas."
+            },
+            {
+              "hanzi": "她越来越漂亮。",
+              "pinyin": "Tā yuèláiyuè piàoliang.",
+              "arti": "Dia semakin cantik."
+            },
+            {
+              "hanzi": "我越来越喜欢中文。",
+              "pinyin": "Wǒ yuèláiyuè xǐhuān Zhōngwén.",
+              "arti": "Saya semakin suka bahasa Mandarin."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Untuk memberikan saran atau menyatakan pilihan yang dianggap lebih baik, digunakan pola 还是 A 比较好, yang bermakna lebih baik A."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我们还是走路比较好。",
+              "pinyin": "Wǒmen háishì zǒulù bǐjiào hǎo.",
+              "arti": "Lebih baik kita jalan kaki."
+            },
+            {
+              "hanzi": "你早点睡比较好。",
+              "pinyin": "Nǐ zǎodiǎn shuì bǐjiào hǎo.",
+              "arti": "Lebih baik kamu tidur lebih awal."
+            },
+            {
+              "hanzi": "还是坐地铁比较快。",
+              "pinyin": "Háishì zuò dìtiě bǐjiào kuài.",
+              "arti": "Lebih baik naik MRT karena lebih cepat."
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Jenis",
+            "Pola",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "Lebih dari",
+              "A 比 B + sifat",
+              "我比他高。",
+              "Saya lebih tinggi."
+            ],
+            [
+              "Kurang dari",
+              "A 没有 B + sifat",
+              "我没有他高。",
+              "Saya tidak setinggi dia."
+            ],
+            [
+              "Sama",
+              "A 跟/和 B 一样 + sifat",
+              "我跟他一样高。",
+              "Saya sama tinggi."
+            ],
+            [
+              "Paling",
+              "最 + sifat",
+              "她最高。",
+              "Dia paling tinggi."
+            ],
+            [
+              "Semakin",
+              "越 A 越 B",
+              "越多越好。",
+              "Semakin banyak semakin baik."
+            ],
+            [
+              "Semakin seiring waktu",
+              "越来越 + sifat",
+              "越来越高。",
+              "Semakin tinggi."
+            ],
+            [
+              "Lebih baik",
+              "还是 A 比较好",
+              "走路比较好。",
+              "Lebih baik jalan kaki."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "他比你大几岁？",
+              "pinyin": "Tā bǐ nǐ dà jǐ suì?",
+              "arti": "Dia lebih tua berapa tahun darimu?"
+            },
+            {
+              "hanzi": "这个比那个贵多少钱？",
+              "pinyin": "Zhège bǐ nàge guì duōshao qián?",
+              "arti": "Ini lebih mahal berapa dari itu?"
+            },
+            {
+              "hanzi": "你们谁比较高？",
+              "pinyin": "Nǐmen shéi bǐjiào gāo?",
+              "arti": "Siapa di antara kalian yang lebih tinggi?"
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Dalam pola 比, jangan membalik posisi A dan B. Pihak yang dibandingkan sebagai A ditempatkan sebelum 比, sedangkan pihak pembanding B ditempatkan setelah 比."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan seperti 我高他 atau 他漂亮我 tidak mengikuti pola perbandingan yang diajarkan. Gunakan 我比他高 dan 他比我漂亮."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Logika perbandingan Mandarin sangat bergantung pada arah hubungan A terhadap B. Dalam A 比 B + predikat, A adalah pihak yang dinilai lebih tinggi pada dimensi tertentu; B adalah standar pembanding. Jika selisih disebutkan, angka biasanya muncul setelah sifat, seperti 高三厘米 atau 大三岁. Untuk membandingkan tingkat kesukaan atau tindakan, struktur verbal perlu hati-hati karena predikatnya bukan sekadar adjektiva. 没有 B + sifat menyatakan A tidak mencapai tingkat B, sehingga secara logika tidak otomatis berarti A jauh lebih rendah. 跟/和...一样 menyatakan kesetaraan; 最 menyatakan tingkat tertinggi dalam kelompok; 越...越... menghubungkan dua perubahan; 越来越 menekankan perubahan yang berkembang dari waktu ke waktu. 更 dapat menambah makna lebih pada perbandingan tertentu, sedangkan 比较 sering melembutkan penilaian menjadi relatif lebih atau cukup. Pilihan struktur harus mengikuti hubungan logis yang ingin disampaikan, bukan diterjemahkan kata demi kata dari bahasa Indonesia."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hubungan",
+            "Pola",
+            "Makna logis",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "Lebih",
+              "A 比 B + Adj",
+              "A > B",
+              "我比他高。"
+            ],
+            [
+              "Selisih",
+              "A 比 B + Adj + angka",
+              "A > B sebesar X",
+              "我比他高五厘米。"
+            ],
+            [
+              "Tidak mencapai",
+              "A 没有 B + Adj",
+              "A ≤ B",
+              "我没有他高。"
+            ],
+            [
+              "Sama",
+              "A 跟/和 B 一样 + Adj",
+              "A = B",
+              "我跟他一样高。"
+            ],
+            [
+              "Tidak sama",
+              "A 跟/和 B 不一样",
+              "A ≠ B",
+              "我的看法和他不一样。"
+            ],
+            [
+              "Superlatif",
+              "最 + predikat",
+              "tertinggi dalam kelompok",
+              "她最高。"
+            ],
+            [
+              "Perkembangan",
+              "越来越 + Adj/V",
+              "semakin seiring waktu",
+              "天气越来越热。"
+            ],
+            [
+              "Korelasi",
+              "越 A 越 B",
+              "semakin A, semakin B",
+              "越学越好。"
+            ],
+            [
+              "Preferensi/saran",
+              "比较/更/还是...比较好",
+              "relatif lebih/lebih disarankan",
+              "坐地铁比较快。"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "今天比昨天冷。",
+              "pinyin": "Jīntiān bǐ zuótiān lěng.",
+              "arti": "Hari ini lebih dingin daripada kemarin.",
+              "catatan": "A adalah hari ini, B adalah kemarin."
+            },
+            {
+              "hanzi": "这件比那件便宜二十块钱。",
+              "pinyin": "Zhè jiàn bǐ nà jiàn piányi èrshí kuài qián.",
+              "arti": "Yang ini lebih murah 20 yuan daripada yang itu.",
+              "catatan": "Selisih ditempatkan setelah sifat."
+            },
+            {
+              "hanzi": "我的车没有他的快。",
+              "pinyin": "Wǒ de chē méiyǒu tā de kuài.",
+              "arti": "Mobil saya tidak secepat mobilnya.",
+              "catatan": "Tidak mencapai tingkat kecepatan B."
+            },
+            {
+              "hanzi": "这两个方案一样好。",
+              "pinyin": "Zhè liǎng ge fāng'àn yīyàng hǎo.",
+              "arti": "Dua rencana ini sama bagusnya.",
+              "catatan": "Subjek bisa berupa dua entitas yang dibandingkan."
+            },
+            {
+              "hanzi": "她是我们组最有经验的人。",
+              "pinyin": "Tā shì wǒmen zǔ zuì yǒu jīngyàn de rén.",
+              "arti": "Dia orang paling berpengalaman di kelompok kami.",
+              "catatan": "最 dapat membentuk frasa nominal dengan 的."
+            },
+            {
+              "hanzi": "他越来越会说中文了。",
+              "pinyin": "Tā yuèláiyuè huì shuō Zhōngwén le.",
+              "arti": "Dia semakin pandai berbicara Mandarin.",
+              "catatan": "越来越 menunjukkan perkembangan kemampuan."
+            },
+            {
+              "hanzi": "越忙越容易出错。",
+              "pinyin": "Yuè máng yuè róngyì chūcuò.",
+              "arti": "Semakin sibuk, semakin mudah melakukan kesalahan.",
+              "catatan": "Kedua sisi membentuk hubungan korelatif."
+            },
+            {
+              "hanzi": "这个方法比那个更有效。",
+              "pinyin": "Zhège fāngfǎ bǐ nàge gèng yǒuxiào.",
+              "arti": "Metode ini lebih efektif daripada yang itu.",
+              "catatan": "更 dapat memperkuat tingkat perbandingan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: jangan membentuk perbandingan hanya dengan menaruh dua kata berdampingan seperti *我高他. Gunakan 我比他高. Selain itu, jangan otomatis menganggap 没有 berarti jauh lebih rendah; 我没有他高 hanya menyatakan saya tidak setinggi dia."
+        }
+      ]
+    },
+    {
+      "judul": "F. Kalimat Perintah, Permintaan, Larangan, dan Ajakan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Kalimat imperatif (perintah) dapat dibentuk dengan kata kerja secara langsung. Untuk membuat permintaan lebih sopan, gunakan 请. Larangan menggunakan 别, sedangkan ajakan dapat menggunakan 吧."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Fungsi",
+            "Pola",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "Perintah langsung",
+              "V + O",
+              "吃这个！",
+              "Makan ini!"
+            ],
+            [
+              "Permintaan sopan",
+              "请 + V + O",
+              "请坐。",
+              "Silakan duduk."
+            ],
+            [
+              "Larangan",
+              "别 + V",
+              "别去！",
+              "Jangan pergi!"
+            ],
+            [
+              "Ajakan",
+              "Kalimat + 吧",
+              "走吧。",
+              "Ayo pergi."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "来！",
+              "pinyin": "Lái!",
+              "arti": "Datang!"
+            },
+            {
+              "hanzi": "坐下！",
+              "pinyin": "Zuòxià!",
+              "arti": "Duduk!"
+            },
+            {
+              "hanzi": "吃这个！",
+              "pinyin": "Chī zhège!",
+              "arti": "Makan ini!"
+            },
+            {
+              "hanzi": "请坐。",
+              "pinyin": "Qǐng zuò.",
+              "arti": "Silakan duduk."
+            },
+            {
+              "hanzi": "请等一下。",
+              "pinyin": "Qǐng děng yīxià.",
+              "arti": "Tolong tunggu sebentar."
+            },
+            {
+              "hanzi": "请给我一杯水。",
+              "pinyin": "Qǐng gěi wǒ yī bēi shuǐ.",
+              "arti": "Tolong beri saya segelas air."
+            },
+            {
+              "hanzi": "走吧。",
+              "pinyin": "Zǒu ba.",
+              "arti": "Ayo pergi."
+            },
+            {
+              "hanzi": "我们吃饭吧。",
+              "pinyin": "Wǒmen chīfàn ba.",
+              "arti": "Ayo kita makan."
+            },
+            {
+              "hanzi": "休息一下吧。",
+              "pinyin": "Xiūxi yīxià ba.",
+              "arti": "Istirahatlah sebentar."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Imperatif Mandarin sangat bergantung pada konteks dan hubungan sosial. Verba langsung seperti 坐！ atau 看这里！ dapat terdengar tegas, akrab, atau keras tergantung intonasi dan situasi. 请 membuat permintaan lebih sopan, tetapi tidak selalu cukup untuk semua konteks formal; 可以请...吗 dapat terdengar lebih lunak ketika meminta izin atau bantuan. 别 dan 不要 sama-sama dapat melarang, sementara 别 sering terasa ringkas dan lisan. 吧 tidak hanya berarti ayo; ia juga dapat melunakkan saran, ajakan, atau dugaan. Tambahan 一下 juga sering membuat permintaan terasa lebih ringan karena tindakan dipresentasikan sebagai singkat atau sebentar."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Fungsi",
+            "Pola",
+            "Nuansa",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "Perintah langsung",
+              "V + O",
+              "tegas/langsung",
+              "请坐。"
+            ],
+            [
+              "Permintaan sopan",
+              "请 + V",
+              "sopan",
+              "请等一下。"
+            ],
+            [
+              "Larangan",
+              "别/不要 + V",
+              "jangan",
+              "别走。"
+            ],
+            [
+              "Ajakan",
+              "V + 吧",
+              "mari/ayo",
+              "我们走吧。"
+            ],
+            [
+              "Permintaan lunak",
+              "V + 一下",
+              "sebentar/tolong",
+              "看一下。"
+            ],
+            [
+              "Izin sopan",
+              "可以 + V + 吗",
+              "bolehkah",
+              "可以进来吗？"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "请坐。",
+              "pinyin": "Qǐng zuò.",
+              "arti": "Silakan duduk.",
+              "catatan": "请 menjadikan perintah lebih sopan."
+            },
+            {
+              "hanzi": "请等我一下。",
+              "pinyin": "Qǐng děng wǒ yīxià.",
+              "arti": "Tolong tunggu saya sebentar.",
+              "catatan": "一下 melunakkan permintaan."
+            },
+            {
+              "hanzi": "别着急。",
+              "pinyin": "Bié zháojí.",
+              "arti": "Jangan terburu-buru.",
+              "catatan": "Larangan dapat berfungsi sebagai nasihat."
+            },
+            {
+              "hanzi": "不要碰这个。",
+              "pinyin": "Búyào pèng zhège.",
+              "arti": "Jangan sentuh ini.",
+              "catatan": "不要 juga lazim untuk larangan."
+            },
+            {
+              "hanzi": "我们回家吧。",
+              "pinyin": "Wǒmen huí jiā ba.",
+              "arti": "Mari kita pulang.",
+              "catatan": "吧 memberi nuansa ajakan."
+            },
+            {
+              "hanzi": "你看一下这个。",
+              "pinyin": "Nǐ kàn yīxià zhège.",
+              "arti": "Coba lihat ini sebentar.",
+              "catatan": "Nada dapat terasa lebih ringan daripada perintah telanjang."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: jangan menganggap semua imperatif kasar. 请, 一下, 吧, dan pilihan kata dapat mengubah tingkat kelembutan. Sebaliknya, perintah langsung di tempat kerja atau kepada orang yang tidak dekat dapat terdengar terlalu keras."
+        }
+      ]
+    },
+    {
+      "judul": "G. Fleksibilitas Struktur dan Topic-Comment Lanjutan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Mandarin memungkinkan keterangan waktu atau tempat ditempatkan di depan subjek. Objek juga dapat dikedepankan sebagai topik ketika penutur ingin menekankan objek tersebut."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "Keterangan waktu/tempat + S + V + O",
+              "昨天我去学校。",
+              "Kemarin saya pergi ke sekolah."
+            ],
+            [
+              "Objek + S + V",
+              "苹果我喜欢吃。",
+              "Apel, saya suka makan."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "昨天我去学校。",
+              "pinyin": "Zuótiān wǒ qù xuéxiào.",
+              "arti": "Kemarin saya pergi ke sekolah."
+            },
+            {
+              "hanzi": "在北京我有很多朋友。",
+              "pinyin": "Zài Běijīng wǒ yǒu hěnduō péngyou.",
+              "arti": "Di Beijing saya punya banyak teman."
+            },
+            {
+              "hanzi": "苹果我喜欢吃。",
+              "pinyin": "Píngguǒ wǒ xǐhuān chī.",
+              "arti": "Apel, saya suka makan."
+            },
+            {
+              "hanzi": "那本书我看过。",
+              "pinyin": "Nà běn shū wǒ kànguo.",
+              "arti": "Buku itu, saya sudah baca."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Beberapa verba dapat diikuti dua objek. Dalam materi, pola V + orang + benda ditunjukkan sebagai pola yang lebih umum daripada V + benda + orang untuk konstruksi memberi."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我给他一本书。",
+              "pinyin": "Wǒ gěi tā yī běn shū.",
+              "arti": "Saya memberi dia sebuah buku.",
+              "catatan": "Ditunjukkan sebagai pola yang lebih umum."
+            },
+            {
+              "hanzi": "我问老师一个问题。",
+              "pinyin": "Wǒ wèn lǎoshī yīge wèntí.",
+              "arti": "Saya bertanya kepada guru satu pertanyaan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap semua kalimat Mandarin harus selalu mengikuti SVO secara kaku. Struktur Topic-Comment memungkinkan unsur yang ingin dijadikan topik diletakkan di depan."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Fleksibilitas Mandarin terutama terlihat pada pengaturan informasi, bukan kebebasan mengacak semua unsur. Keterangan waktu dapat berada di awal atau setelah subjek; lokasi dapat menjadi kerangka tempat; objek dapat ditopikalisasi; dan beberapa verba menerima dua objek. Perbedaan urutan sering berkaitan dengan informasi lama versus informasi baru. Unsur yang sudah diketahui dapat ditempatkan sebagai topik, lalu komentar memberi informasi baru. Topikalisasi objek juga sering membawa efek kontras atau penekanan. Dalam tulisan formal, struktur yang terlalu banyak memindahkan objek ke depan dapat terasa lebih retoris, sedangkan dalam percakapan pola tersebut sangat alami jika konteks sudah jelas."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Fungsi",
+            "Contoh",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "Waktu + S + V",
+              "kerangka waktu",
+              "昨天我没去。",
+              "Fokus pada kemarin."
+            ],
+            [
+              "S + Waktu + V",
+              "waktu di dalam klausa",
+              "我昨天没去。",
+              "Netral."
+            ],
+            [
+              "Topik + S + V",
+              "penekanan topik",
+              "这件事，我不知道。",
+              "Kalau soal ini, saya tidak tahu."
+            ],
+            [
+              "S + 给 + Orang + Benda",
+              "memberi",
+              "我给他一本书。",
+              "Pola umum."
+            ],
+            [
+              "S + V + O + tempat",
+              "objek + arah/lokasi",
+              "我把书放在桌子上。",
+              "Struktur lebih kompleks, diperkenalkan sebagai variasi lanjutan."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "昨天我在家学习。",
+              "pinyin": "Zuótiān wǒ zài jiā xuéxí.",
+              "arti": "Kemarin saya belajar di rumah.",
+              "catatan": "Waktu menjadi kerangka awal."
+            },
+            {
+              "hanzi": "这件事，我真的不知道。",
+              "pinyin": "Zhè jiàn shì, wǒ zhēn de bù zhīdào.",
+              "arti": "Soal ini, saya benar-benar tidak tahu.",
+              "catatan": "Topik dipisahkan dari komentar."
+            },
+            {
+              "hanzi": "北京，我去过两次。",
+              "pinyin": "Běijīng, wǒ qùguo liǎng cì.",
+              "arti": "Beijing, saya pernah pergi dua kali.",
+              "catatan": "Tempat dijadikan topik."
+            },
+            {
+              "hanzi": "这本书，我已经看完了。",
+              "pinyin": "Zhè běn shū, wǒ yǐjīng kàn wán le.",
+              "arti": "Buku ini, saya sudah selesai membacanya.",
+              "catatan": "Objek topik mendapat penekanan."
+            },
+            {
+              "hanzi": "我给妹妹一杯水。",
+              "pinyin": "Wǒ gěi mèimei yì bēi shuǐ.",
+              "arti": "Saya memberi adik perempuan segelas air.",
+              "catatan": "Orang penerima berada sebelum benda."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: jangan menyimpulkan bahwa urutan bebas. *我书给他 bukan sekadar variasi dari 我给他一本书. Topic-Comment tetap membutuhkan komentar yang memiliki struktur internal yang benar."
+        }
+      ]
+    },
+    {
+      "judul": "H. Kalimat Seruan atau Eksklamasi",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Kalimat seruan digunakan untuk mengekspresikan rasa kagum, keterkejutan, penilaian kuat, atau emosi. Materi membahas beberapa pola utama menggunakan 真, 太...了, 多...啊, 好...啊, serta 什么...啊."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Nuansa",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "真 + sifat",
+              "Sungguh atau sangat",
+              "真漂亮！"
+            ],
+            [
+              "太 + sifat + 了",
+              "Sangat atau terlalu, tergantung konteks",
+              "太好了！"
+            ],
+            [
+              "多 + sifat + 啊",
+              "Betapa...",
+              "多漂亮啊！"
+            ],
+            [
+              "好 + sifat + 啊",
+              "Sangat...",
+              "好冷啊！"
+            ],
+            [
+              "什么 + kata + 啊",
+              "Terkejut, heran, atau tidak setuju",
+              "什么啊！"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "真漂亮！",
+              "pinyin": "Zhēn piàoliang!",
+              "arti": "Cantik banget!"
+            },
+            {
+              "hanzi": "真好吃！",
+              "pinyin": "Zhēn hǎochī!",
+              "arti": "Enak banget!"
+            },
+            {
+              "hanzi": "太好了！",
+              "pinyin": "Tài hǎo le!",
+              "arti": "Bagus sekali!"
+            },
+            {
+              "hanzi": "太贵了！",
+              "pinyin": "Tài guì le!",
+              "arti": "Terlalu mahal!"
+            },
+            {
+              "hanzi": "太棒了！",
+              "pinyin": "Tài bàng le!",
+              "arti": "Luar biasa!"
+            },
+            {
+              "hanzi": "多漂亮啊！",
+              "pinyin": "Duō piàoliang a!",
+              "arti": "Betapa cantiknya!"
+            },
+            {
+              "hanzi": "多好的人啊！",
+              "pinyin": "Duō hǎo de rén a!",
+              "arti": "Orang yang baik sekali!"
+            },
+            {
+              "hanzi": "好冷啊！",
+              "pinyin": "Hǎo lěng a!",
+              "arti": "Dingin sekali!"
+            },
+            {
+              "hanzi": "好累啊！",
+              "pinyin": "Hǎo lèi a!",
+              "arti": "Capek sekali!"
+            },
+            {
+              "hanzi": "什么啊！",
+              "pinyin": "Shénme a!",
+              "arti": "Apa-apaan!"
+            },
+            {
+              "hanzi": "什么人啊！",
+              "pinyin": "Shénme rén a!",
+              "arti": "Orang macam apa!"
+            },
+            {
+              "hanzi": "什么事啊！",
+              "pinyin": "Shénme shì a!",
+              "arti": "Ada apa!"
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Seruan mengekspresikan sikap penutur terhadap suatu keadaan, bukan sekadar menyampaikan informasi. 真 + adj menekankan kekaguman atau penilaian kuat, 太 + adj + 了 menyatakan tingkat yang sangat tinggi, dan 多 + adj + 啊 menonjolkan betapa kuatnya suatu sifat. 好 + adj + 啊 dapat memberi kesan emosional dan lisan. 什么 + nomina + 啊 dalam pola tertentu dapat menjadi seruan bernuansa seperti benar-benar atau macam apa, tergantung konteks. Intonasi sangat penting: bentuk tertulis yang sama dapat terasa kagum, kesal, heran, atau bercanda berdasarkan situasi. 了 pada 太好了 bukan sekadar penanda masa lalu; di sini ia membantu membentuk ekspresi evaluatif dan batas keadaan yang dirasakan penutur."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Nuansa",
+            "Contoh",
+            "Arti alami"
+          ],
+          "baris": [
+            [
+              "真 + Adj",
+              "kagum/penilaian kuat",
+              "真漂亮！",
+              "Cantik sekali!"
+            ],
+            [
+              "太 + Adj + 了",
+              "tingkat sangat tinggi",
+              "太好了！",
+              "Bagus sekali!"
+            ],
+            [
+              "多 + Adj + 啊",
+              "menekankan derajat",
+              "多可爱啊！",
+              "Betapa lucunya!"
+            ],
+            [
+              "好 + Adj + 啊",
+              "seruan lisan",
+              "好漂亮啊！",
+              "Cantik banget!"
+            ],
+            [
+              "真是 + N/Adj",
+              "evaluasi kuat",
+              "真是太方便了！",
+              "Benar-benar praktis sekali!"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "真漂亮！",
+              "pinyin": "Zhēn piàoliang!",
+              "arti": "Cantik sekali!",
+              "catatan": "真 menegaskan evaluasi."
+            },
+            {
+              "hanzi": "太贵了！",
+              "pinyin": "Tài guì le!",
+              "arti": "Mahal sekali!",
+              "catatan": "太...了 menyatakan tingkat ekstrem menurut penutur."
+            },
+            {
+              "hanzi": "多可爱啊！",
+              "pinyin": "Duō kě'ài a!",
+              "arti": "Betapa lucunya!",
+              "catatan": "多...啊 menonjolkan derajat."
+            },
+            {
+              "hanzi": "好冷啊！",
+              "pinyin": "Hǎo lěng a!",
+              "arti": "Dingin banget!",
+              "catatan": "Bentuk lisan yang sangat umum."
+            },
+            {
+              "hanzi": "你看，多大的房子啊！",
+              "pinyin": "Nǐ kàn, duō dà de fángzi a!",
+              "arti": "Lihat, betapa besarnya rumah ini!",
+              "catatan": "多 + adj + 的 + nomina + 啊 membentuk seruan nominal."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: jangan menerjemahkan 了 dalam 太好了 sebagai sudah. Pada seruan seperti 太好了, fungsi utamanya bukan waktu lampau."
+        }
+      ]
+    },
+    {
+      "judul": "I. Kalimat Majemuk dan Konjungsi Dasar",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Kalimat majemuk menghubungkan dua atau lebih gagasan. Materi mencakup hubungan sebab-akibat, konsesi, penambahan, kegiatan simultan, serta hubungan kontras yang kuat."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Konstruksi",
+            "Fungsi",
+            "Pola"
+          ],
+          "baris": [
+            [
+              "因为...所以...",
+              "Sebab-akibat",
+              "Karena..., maka..."
+            ],
+            [
+              "虽然...但是...",
+              "Konsesi",
+              "Meskipun..., tetapi..."
+            ],
+            [
+              "不但...而且...",
+              "Penambahan",
+              "Bukan hanya..., tapi juga..."
+            ],
+            [
+              "一边...一边...",
+              "Dua tindakan simultan",
+              "Sambil A, B"
+            ],
+            [
+              "不但不...反而...",
+              "Kontras berlawanan",
+              "Bukan hanya tidak A, malah B"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "因为下雨，所以我不去。",
+              "pinyin": "Yīnwèi xiàyǔ, suǒyǐ wǒ bù qù.",
+              "arti": "Karena hujan, maka saya tidak pergi."
+            },
+            {
+              "hanzi": "因为他很努力，所以他成功了。",
+              "pinyin": "Yīnwèi tā hěn nǔlì, suǒyǐ tā chénggōng le.",
+              "arti": "Karena dia sangat berusaha, maka dia berhasil."
+            },
+            {
+              "hanzi": "虽然很累，但是我很快乐。",
+              "pinyin": "Suīrán hěn lèi, dànshì wǒ hěn kuàilè.",
+              "arti": "Meskipun capek, tetapi saya senang."
+            },
+            {
+              "hanzi": "虽然很贵，但是很好吃。",
+              "pinyin": "Suīrán hěn guì, dànshì hěn hǎochī.",
+              "arti": "Meskipun mahal, tetapi enak."
+            },
+            {
+              "hanzi": "她不但漂亮，而且聪明。",
+              "pinyin": "Tā bùdàn piàoliang, érqiě cōngming.",
+              "arti": "Dia bukan hanya cantik, tapi juga pintar."
+            },
+            {
+              "hanzi": "他不但会英语，而且会中文。",
+              "pinyin": "Tā bùdàn huì Yīngyǔ, érqiě huì Zhōngwén.",
+              "arti": "Dia bukan hanya bisa bahasa Inggris, tapi juga bahasa Mandarin."
+            },
+            {
+              "hanzi": "我一边吃饭，一边看电视。",
+              "pinyin": "Wǒ yībiān chīfàn, yībiān kàn diànshì.",
+              "arti": "Saya sambil makan, sambil menonton TV."
+            },
+            {
+              "hanzi": "他一边走路，一边听音乐。",
+              "pinyin": "Tā yībiān zǒulù, yībiān tīng yīnyuè.",
+              "arti": "Dia sambil berjalan, sambil mendengarkan musik."
+            },
+            {
+              "hanzi": "他不但不道歉，反而生气了。",
+              "pinyin": "Tā bùdàn bù dàoqiàn, fǎn'ér shēngqì le.",
+              "arti": "Dia bukan hanya tidak meminta maaf, malah marah."
+            },
+            {
+              "hanzi": "她不但不瘦，反而胖了。",
+              "pinyin": "Tā bùdàn bù shòu, fǎn'ér pàng le.",
+              "arti": "Dia bukan hanya tidak kurus, malah menjadi gemuk."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Konjungsi Mandarin membentuk hubungan logis antarklausa. Karena itu pasangan seperti 因为...所以..., 虽然...但是..., 不但...而且..., dan 一边...一边... sebaiknya dipelajari sebagai hubungan makna, bukan sekadar daftar hafalan. Banyak pasangan dapat kehilangan salah satu bagian dalam percakapan jika hubungan sudah jelas, terutama dalam bahasa lisan. Namun untuk pemula, mempertahankan kedua bagian membantu melihat logikanya. Selain itu, 但是 menandai kontras, 而且 menambah informasi, sedangkan 一边...一边... menyatakan dua kegiatan berlangsung bersamaan dan biasanya memiliki subjek yang sama atau dapat dipahami sama. Urutan klausa juga dapat memengaruhi fokus, walaupun hubungan logis tetap harus jelas."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hubungan",
+            "Pola",
+            "Fungsi",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "Sebab-akibat",
+              "因为...所以...",
+              "alasan → hasil",
+              "因为下雨，所以我没去。"
+            ],
+            [
+              "Konsesi",
+              "虽然...但是...",
+              "meskipun → kontras",
+              "虽然很累，但是我去了。"
+            ],
+            [
+              "Penambahan",
+              "不但...而且...",
+              "A + tambahan B",
+              "他不但聪明，而且努力。"
+            ],
+            [
+              "Simultan",
+              "一边...一边...",
+              "dua aksi bersamaan",
+              "她一边听音乐，一边做饭。"
+            ],
+            [
+              "Kontras sederhana",
+              "虽然/但是",
+              "membalik harapan",
+              "他很忙，但是来了。"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "因为今天很忙，所以我不出去。",
+              "pinyin": "Yīnwèi jīntiān hěn máng, suǒyǐ wǒ bù chūqù.",
+              "arti": "Karena hari ini sangat sibuk, saya tidak keluar.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "虽然下雨，但是他还是来了。",
+              "pinyin": "Suīrán xiàyǔ, dànshì tā háishì lái le.",
+              "arti": "Meskipun hujan, dia tetap datang.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "她不但会说中文，而且会说日文。",
+              "pinyin": "Tā bùdàn huì shuō Zhōngwén, érqiě huì shuō Rìwén.",
+              "arti": "Dia bukan hanya bisa bahasa Mandarin, tetapi juga Jepang.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "我一边吃饭，一边看电视。",
+              "pinyin": "Wǒ yìbiān chīfàn, yìbiān kàn diànshì.",
+              "arti": "Saya makan sambil menonton TV.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "虽然价格高，但是质量很好。",
+              "pinyin": "Suīrán jiàgé gāo, dànshì zhìliàng hěn hǎo.",
+              "arti": "Walaupun harganya tinggi, kualitasnya sangat baik.",
+              "catatan": ""
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: jangan menyamakan 不但...而且... dengan 虽然...但是.... Yang pertama menambah informasi, yang kedua menyatakan pertentangan atau hasil yang berlawanan dengan harapan."
+        }
+      ]
+    },
+    {
+      "judul": "J. Kalimat Kondisi dan Tujuan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Hubungan kondisi membicarakan syarat dan hasil. Materi membedakan 如果...就... sebagai kondisi umum, 只要...就... sebagai syarat yang cukup, dan 只有...才... sebagai syarat yang dianggap mutlak. Untuk menyatakan tujuan digunakan 为了."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Konstruksi",
+            "Makna",
+            "Pola"
+          ],
+          "baris": [
+            [
+              "如果...就...",
+              "Jika... maka...",
+              "如果 [kondisi]，就 [hasil]"
+            ],
+            [
+              "只要...就...",
+              "Asalkan... maka...",
+              "只要 [syarat cukup]，就 [hasil]"
+            ],
+            [
+              "只有...才...",
+              "Hanya jika... baru...",
+              "只有 [syarat mutlak]，才 [hasil]"
+            ],
+            [
+              "为了...",
+              "Untuk tujuan...",
+              "为了 [tujuan]，[tindakan]"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "如果下雨，我就不去。",
+              "pinyin": "Rúguǒ xiàyǔ, wǒ jiù bù qù.",
+              "arti": "Jika hujan, saya tidak pergi."
+            },
+            {
+              "hanzi": "如果你累了，就休息吧。",
+              "pinyin": "Rúguǒ nǐ lèi le, jiù xiūxi ba.",
+              "arti": "Jika kamu capek, istirahatlah."
+            },
+            {
+              "hanzi": "如果有问题，就问老师。",
+              "pinyin": "Rúguǒ yǒu wèntí, jiù wèn lǎoshī.",
+              "arti": "Jika ada masalah, tanyakan kepada guru."
+            },
+            {
+              "hanzi": "只要你努力，就会成功。",
+              "pinyin": "Zhǐyào nǐ nǔlì, jiù huì chénggōng.",
+              "arti": "Asalkan kamu berusaha, kamu akan berhasil."
+            },
+            {
+              "hanzi": "只要有时间，我就去。",
+              "pinyin": "Zhǐyào yǒu shíjiān, wǒ jiù qù.",
+              "arti": "Asalkan ada waktu, saya pergi."
+            },
+            {
+              "hanzi": "只有努力学习，才能成功。",
+              "pinyin": "Zhǐyǒu nǔlì xuéxí, cái néng chénggōng.",
+              "arti": "Hanya jika belajar keras, baru bisa sukses."
+            },
+            {
+              "hanzi": "只有到了北京，才知道有多大。",
+              "pinyin": "Zhǐyǒu dào le Běijīng, cái zhīdào yǒu duō dà.",
+              "arti": "Hanya jika sampai Beijing, baru tahu seberapa besar."
+            },
+            {
+              "hanzi": "为了学中文，他来中国。",
+              "pinyin": "Wèile xué Zhōngwén, tā lái Zhōngguó.",
+              "arti": "Untuk belajar Mandarin, dia datang ke China."
+            },
+            {
+              "hanzi": "为了健康，我每天运动。",
+              "pinyin": "Wèile jiànkāng, wǒ měitiān yùndòng.",
+              "arti": "Untuk kesehatan, saya berolahraga setiap hari."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "只要...就... menunjukkan syarat yang cukup untuk menghasilkan sesuatu, sedangkan 只有...才... menunjukkan syarat yang diperlukan atau dianggap mutlak. Jangan menyamakan kedua konstruksi ini."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Konstruksi kondisi terutama dibedakan berdasarkan kekuatan syarat. 如果...就... hanya menyatakan hubungan jika-maka. 只要...就... berarti satu syarat tersebut sudah cukup untuk memperoleh hasil; masih mungkin ada syarat lain. 只有...才... menyatakan bahwa kondisi yang disebut diperlakukan sebagai syarat yang diperlukan. Perbedaan ini sangat penting dalam logika. 为了 memperkenalkan tujuan, bukan kondisi: klausa setelah 为了 menjelaskan hasil yang ingin dicapai atau alasan tindakan dilakukan. Dalam percakapan, 如果 dapat dihilangkan jika konteks sudah jelas, tetapi 就 sering tetap dipakai untuk menandai hasil. 只要 dan 只有 tidak boleh dipertukarkan karena arah logikanya berbeda."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Logika",
+            "Contoh",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "如果...就...",
+              "kondisi umum",
+              "如果下雨，我就不去。",
+              "Jika hujan, saya tidak pergi."
+            ],
+            [
+              "只要...就...",
+              "syarat cukup",
+              "只要努力，就会进步。",
+              "Asalkan berusaha, akan berkembang."
+            ],
+            [
+              "只有...才...",
+              "syarat perlu",
+              "只有努力，才能进步。",
+              "Hanya dengan berusaha barulah bisa berkembang."
+            ],
+            [
+              "为了...",
+              "tujuan",
+              "为了健康，我每天运动。",
+              "Demi kesehatan, saya berolahraga tiap hari."
+            ],
+            [
+              "为了...而...",
+              "tujuan formal",
+              "为了提高效率而改变流程。",
+              "Mengubah proses untuk meningkatkan efisiensi."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "如果你有时间，就来找我。",
+              "pinyin": "Rúguǒ nǐ yǒu shíjiān, jiù lái zhǎo wǒ.",
+              "arti": "Kalau kamu punya waktu, datanglah menemuiku.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "只要你愿意，我就帮你。",
+              "pinyin": "Zhǐyào nǐ yuànyì, wǒ jiù bāng nǐ.",
+              "arti": "Asalkan kamu mau, saya akan membantumu.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "只有准备充分，才能成功。",
+              "pinyin": "Zhǐyǒu zhǔnbèi chōngfèn, cái néng chénggōng.",
+              "arti": "Hanya dengan persiapan matang barulah bisa berhasil.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "为了省钱，我们自己做饭。",
+              "pinyin": "Wèile shěng qián, wǒmen zìjǐ zuòfàn.",
+              "arti": "Untuk menghemat uang, kami memasak sendiri.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "为了学好中文，他每天练习。",
+              "pinyin": "Wèile xué hǎo Zhōngwén, tā měitiān liànxí.",
+              "arti": "Untuk menguasai Mandarin dengan baik, dia berlatih setiap hari.",
+              "catatan": ""
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: 只要 berarti syarat cukup, sedangkan 只有 berarti syarat yang diperlukan. Bandingkan 只要努力就能进步 dengan 只有努力才能进步; keduanya dekat tetapi logikanya tidak sama."
+        }
+      ]
+    },
+    {
+      "judul": "K. Sebab-Akibat dan Konsesi Lanjutan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Selain 因为...所以..., materi juga memperkenalkan 既然...就... untuk keadaan yang sudah diketahui, 于是 untuk akibat logis atau hasil yang kemudian terjadi, serta 尽管...还是... untuk menyatakan tetap melakukan sesuatu meskipun ada keadaan yang menghambat."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Konstruksi",
+            "Fungsi",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "既然...就...",
+              "Sebab yang sudah diketahui",
+              "Karena sudah demikian, maka..."
+            ],
+            [
+              "于是",
+              "Akibat logis atau hasil",
+              "Maka atau akhirnya..."
+            ],
+            [
+              "尽管...还是...",
+              "Konsesi",
+              "Meskipun..., tetap..."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "既然你来了，就一起吃饭吧。",
+              "pinyin": "Jìrán nǐ lái le, jiù yīqǐ chīfàn ba.",
+              "arti": "Karena kamu sudah datang, makan bersama saja."
+            },
+            {
+              "hanzi": "既然他不想去，就算了吧。",
+              "pinyin": "Jìrán tā bù xiǎng qù, jiù suàn le ba.",
+              "arti": "Karena dia tidak mau pergi, ya sudah."
+            },
+            {
+              "hanzi": "他迟到了，于是被老师批评了。",
+              "pinyin": "Tā chídào le, yúshì bèi lǎoshī pīpíng le.",
+              "arti": "Dia terlambat, maka akhirnya dimarahi guru."
+            },
+            {
+              "hanzi": "我很喜欢这个工作，于是就接受了。",
+              "pinyin": "Wǒ hěn xǐhuān zhège gōngzuò, yúshì jiù jiēshòu le.",
+              "arti": "Saya sangat suka pekerjaan ini, maka akhirnya menerimanya."
+            },
+            {
+              "hanzi": "尽管很累，他还是坚持工作。",
+              "pinyin": "Jǐnguǎn hěn lèi, tā háishì jiānchí gōngzuò.",
+              "arti": "Meskipun capek, dia tetap bekerja."
+            },
+            {
+              "hanzi": "尽管很难，我还是想试试。",
+              "pinyin": "Jǐnguǎn hěn nán, wǒ háishì xiǎng shìshi.",
+              "arti": "Meskipun sulit, saya tetap ingin mencoba."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Hubungan sebab-akibat dapat dibedakan menurut cara penutur memandang hubungan tersebut. 因为...所以... menyatakan alasan dan hasil secara eksplisit. 既然...就... digunakan ketika alasan atau fakta awal sudah diketahui atau sudah diterima sebagai dasar bersama, sehingga hasil terasa seperti konsekuensi yang wajar. 于是 menyoroti akibat atau tindakan lanjutan yang terjadi setelah suatu peristiwa. Konsesi dengan 虽然...但是... menyatakan pertentangan; 尽管...还是... menekankan bahwa hasil tetap berlangsung meskipun ada hambatan. 反而 digunakan ketika hasil justru berlawanan dengan ekspektasi, sedangkan 不但不...反而... menegaskan bahwa sesuatu yang seharusnya terjadi tidak terjadi dan hasil sebaliknya muncul."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Konstruksi",
+            "Fokus",
+            "Contoh",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "因为...所以...",
+              "alasan → hasil",
+              "因为下雨，所以没去。",
+              "netral dan eksplisit"
+            ],
+            [
+              "既然...就...",
+              "fakta sudah diketahui → konsekuensi",
+              "既然来了，就一起吃饭吧。",
+              "dasar bersama"
+            ],
+            [
+              "于是",
+              "hasil lanjutan",
+              "他听了以后，于是笑了。",
+              "akibat/tindakan berikutnya"
+            ],
+            [
+              "尽管...还是...",
+              "tetap meski",
+              "尽管很累，他还是工作。",
+              "keteguhan"
+            ],
+            [
+              "反而",
+              "hasil berlawanan",
+              "他没生气，反而笑了。",
+              "kontras tak terduga"
+            ],
+            [
+              "不但不...反而...",
+              "gagal melakukan X → malah Y",
+              "他不但不道歉，反而生气了。",
+              "kontras sangat kuat"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "因为堵车，所以我迟到了。",
+              "pinyin": "Yīnwèi dǔchē, suǒyǐ wǒ chídào le.",
+              "arti": "Karena macet, saya terlambat.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "既然你已经知道了，就不用再解释。",
+              "pinyin": "Jìrán nǐ yǐjīng zhīdào le, jiù búyòng zài jiěshì.",
+              "arti": "Karena kamu sudah tahu, tidak perlu menjelaskan lagi.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "他听完以后，于是决定离开。",
+              "pinyin": "Tā tīng wán yǐhòu, yúshì juédìng líkāi.",
+              "arti": "Setelah mendengarnya, dia kemudian memutuskan pergi.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "尽管很困难，我们还是继续。",
+              "pinyin": "Jǐnguǎn hěn kùnnan, wǒmen háishì jìxù.",
+              "arti": "Meskipun sulit, kami tetap melanjutkan.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "他不但没有道歉，反而责怪我。",
+              "pinyin": "Tā bùdàn méiyǒu dàoqiàn, fǎn'ér zéguài wǒ.",
+              "arti": "Dia bukan hanya tidak meminta maaf, malah menyalahkan saya.",
+              "catatan": ""
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: 既然...就... bukan sekadar versi lebih formal dari 因为...所以.... 既然 mengandaikan premis sudah diketahui/diterima, sedangkan 因为 memperkenalkan alasan sebagai informasi sebab."
+        }
+      ]
+    },
+    {
+      "judul": "L. Urutan Waktu: 才, 就, 一...就..., 先...然后..., 刚...就...",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Kata dan pola waktu dalam materi membantu menunjukkan apakah suatu tindakan terjadi lebih lambat, lebih cepat, segera setelah tindakan lain, setelah tindakan sebelumnya, atau baru saja terjadi."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk",
+            "Makna utama",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "才",
+              "baru",
+              "terjadi lebih lambat dari yang diharapkan"
+            ],
+            [
+              "就",
+              "sudah",
+              "terjadi lebih cepat dari yang diharapkan"
+            ],
+            [
+              "一...就...",
+              "begitu... langsung...",
+              "tindakan kedua segera mengikuti tindakan pertama"
+            ],
+            [
+              "先...然后...",
+              "pertama... lalu...",
+              "urutan dua tindakan"
+            ],
+            [
+              "刚...就...",
+              "baru saja... langsung...",
+              "tindakan kedua terjadi segera setelah tindakan pertama"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "他八点才来。",
+              "pinyin": "Tā bā diǎn cái lái.",
+              "arti": "Dia baru datang jam 8.",
+              "catatan": "Memberi nuansa bahwa kedatangannya dianggap lambat."
+            },
+            {
+              "hanzi": "我晚上十点才回家。",
+              "pinyin": "Wǒ wǎnshang shí diǎn cái huíjiā.",
+              "arti": "Saya baru pulang jam 10 malam."
+            },
+            {
+              "hanzi": "他昨天才告诉我。",
+              "pinyin": "Tā zuótiān cái gàosu wǒ.",
+              "arti": "Dia baru memberitahuku kemarin."
+            },
+            {
+              "hanzi": "他七点就来了。",
+              "pinyin": "Tā qī diǎn jiù lái le.",
+              "arti": "Dia sudah datang jam 7.",
+              "catatan": "Memberi nuansa bahwa kedatangannya dianggap cepat atau lebih awal."
+            },
+            {
+              "hanzi": "我早上六点就起床了。",
+              "pinyin": "Wǒ zǎoshang liù diǎn jiù qǐchuáng le.",
+              "arti": "Saya sudah bangun jam 6 pagi."
+            },
+            {
+              "hanzi": "他早就知道了。",
+              "pinyin": "Tā zǎo jiù zhīdào le.",
+              "arti": "Dia sudah tahu dari dulu."
+            },
+            {
+              "hanzi": "他一回家就睡觉。",
+              "pinyin": "Tā yī huíjiā jiù shuìjiào.",
+              "arti": "Begitu pulang, dia langsung tidur."
+            },
+            {
+              "hanzi": "我一到学校就给你打电话。",
+              "pinyin": "Wǒ yī dào xuéxiào jiù gěi nǐ dǎ diànhuà.",
+              "arti": "Begitu sampai sekolah, saya langsung meneleponmu."
+            },
+            {
+              "hanzi": "她一看书就困了。",
+              "pinyin": "Tā yī kàn shū jiù kùn le.",
+              "arti": "Begitu membaca buku, dia langsung mengantuk."
+            },
+            {
+              "hanzi": "先吃饭，然后去上课。",
+              "pinyin": "Xiān chīfàn, ránhòu qù shàngkè.",
+              "arti": "Makan dulu, lalu pergi kelas."
+            },
+            {
+              "hanzi": "先洗澡，然后睡觉。",
+              "pinyin": "Xiān xǐzǎo, ránhòu shuìjiào.",
+              "arti": "Mandi dulu, lalu tidur."
+            },
+            {
+              "hanzi": "我刚出门，就下雨了。",
+              "pinyin": "Wǒ gāng chūmén, jiù xiàyǔ le.",
+              "arti": "Baru saja keluar rumah, langsung hujan."
+            },
+            {
+              "hanzi": "他刚到，就开始开会了。",
+              "pinyin": "Tā gāng dào, jiù kāishǐ kāihuì le.",
+              "arti": "Baru saja sampai, rapat langsung dimulai."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "才 dan 就 bukan sekadar penanda waktu. Keduanya juga membawa nuansa sudut pandang penutur: 才 sering menunjukkan sesuatu terjadi lebih lambat atau lebih belakangan dari harapan, sedangkan 就 menunjukkan sesuatu terjadi lebih cepat atau lebih awal."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "才 dan 就 adalah kata yang sangat penting karena tidak hanya menunjukkan kapan sesuatu terjadi, tetapi juga bagaimana penutur menilai waktunya. 就 dapat memberi kesan lebih cepat, lebih awal, atau segera dari titik acuan; 才 sering memberi kesan baru terjadi setelah menunggu atau lebih lambat dari harapan. Keduanya bersifat relatif terhadap ekspektasi penutur, sehingga jam yang sama dapat memakai 就 atau 才 bergantung konteks. 一...就... menghubungkan dua peristiwa dengan hubungan segera setelah A maka B. 先...然后... menata prosedur secara berurutan. 刚...就... menekankan bahwa A baru saja selesai/terjadi ketika B segera menyusul."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Makna",
+            "Contoh",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "就",
+              "lebih awal/cepat",
+              "他八点就到了。",
+              "Jam 8 dianggap cepat."
+            ],
+            [
+              "才",
+              "baru/lambat",
+              "他八点才到。",
+              "Jam 8 dianggap terlambat."
+            ],
+            [
+              "一...就...",
+              "begitu A langsung B",
+              "我一到家就睡觉。",
+              "Jeda sangat singkat."
+            ],
+            [
+              "先...然后...",
+              "urutan langkah",
+              "先吃饭，然后学习。",
+              "A sebelum B."
+            ],
+            [
+              "刚...就...",
+              "baru saja A lalu B",
+              "我刚到，他就来了。",
+              "A sangat baru terjadi."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "他六点就起床了。",
+              "pinyin": "Tā liù diǎn jiù qǐchuáng le.",
+              "arti": "Dia sudah bangun jam enam.",
+              "catatan": "Enam dianggap lebih awal dari harapan."
+            },
+            {
+              "hanzi": "他九点才起床。",
+              "pinyin": "Tā jiǔ diǎn cái qǐchuáng.",
+              "arti": "Dia baru bangun jam sembilan.",
+              "catatan": "Sembilan dianggap terlambat."
+            },
+            {
+              "hanzi": "我一回家就洗澡。",
+              "pinyin": "Wǒ yì huí jiā jiù xǐzǎo.",
+              "arti": "Begitu pulang saya langsung mandi.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "先检查，再提交。",
+              "pinyin": "Xiān jiǎnchá, zài tíjiāo.",
+              "arti": "Periksa dulu, baru kirim.",
+              "catatan": "先...再... adalah variasi urutan yang sangat umum."
+            },
+            {
+              "hanzi": "我刚坐下，电话就响了。",
+              "pinyin": "Wǒ gāng zuòxià, diànhuà jiù xiǎng le.",
+              "arti": "Saya baru saja duduk, telepon langsung berbunyi.",
+              "catatan": ""
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: jangan menghafal 就 = akan dan 才 = belum. Keduanya bukan terjemahan waktu tetap. Pilihan bergantung pada titik acuan dan ekspektasi penutur."
+        }
+      ]
+    },
+    {
+      "judul": "M. Hampir dan Kira-kira",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Materi membedakan beberapa ungkapan yang dalam bahasa Indonesia dapat diterjemahkan sebagai hampir, kurang lebih, kira-kira, atau sekitar. Perbedaan utamanya terletak pada fungsi dan posisi dalam kalimat."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Ungkapan",
+            "Makna",
+            "Pola umum"
+          ],
+          "baris": [
+            [
+              "差不多",
+              "hampir atau kurang lebih",
+              "差不多 + jumlah/keterangan"
+            ],
+            [
+              "几乎",
+              "hampir",
+              "几乎 + verba/keterangan"
+            ],
+            [
+              "大概",
+              "kira-kira atau mungkin",
+              "大概 + jumlah/keterangan"
+            ],
+            [
+              "左右",
+              "sekitar",
+              "angka + 左右"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我们差不多高。",
+              "pinyin": "Wǒmen chàbuduō gāo.",
+              "arti": "Kami hampir sama tinggi."
+            },
+            {
+              "hanzi": "差不多十点了。",
+              "pinyin": "Chàbuduō shí diǎn le.",
+              "arti": "Sudah hampir jam 10."
+            },
+            {
+              "hanzi": "他差不多每天都来。",
+              "pinyin": "Tā chàbuduō měitiān dōu lái.",
+              "arti": "Dia hampir setiap hari datang."
+            },
+            {
+              "hanzi": "他几乎每天都来。",
+              "pinyin": "Tā jīhū měitiān dōu lái.",
+              "arti": "Dia hampir setiap hari datang."
+            },
+            {
+              "hanzi": "我几乎忘了。",
+              "pinyin": "Wǒ jīhū wàng le.",
+              "arti": "Saya hampir lupa."
+            },
+            {
+              "hanzi": "这里几乎没有人。",
+              "pinyin": "Zhèlǐ jīhū méiyǒu rén.",
+              "arti": "Di sini hampir tidak ada orang."
+            },
+            {
+              "hanzi": "大概有三个人。",
+              "pinyin": "Dàgài yǒu sān ge rén.",
+              "arti": "Kira-kira ada tiga orang."
+            },
+            {
+              "hanzi": "他大概不来了。",
+              "pinyin": "Tā dàgài bù lái le.",
+              "arti": "Dia kira-kira tidak jadi datang."
+            },
+            {
+              "hanzi": "大概十点左右。",
+              "pinyin": "Dàgài shí diǎn zuǒyòu.",
+              "arti": "Kira-kira sekitar jam 10."
+            },
+            {
+              "hanzi": "十点左右。",
+              "pinyin": "Shí diǎn zuǒyòu.",
+              "arti": "Sekitar jam 10."
+            },
+            {
+              "hanzi": "一百块左右。",
+              "pinyin": "Yībǎi kuài zuǒyòu.",
+              "arti": "Sekitar 100 yuan."
+            },
+            {
+              "hanzi": "三天左右。",
+              "pinyin": "Sān tiān zuǒyòu.",
+              "arti": "Sekitar tiga hari."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Ungkapan kuantitas tidak pasti memiliki fungsi berbeda. 差不多 dapat berarti kurang lebih, hampir sama, atau hampir selesai tergantung konteks. 大概 berarti kira-kira atau mungkin dan dapat memperkenalkan perkiraan. 左右 biasanya ditempatkan setelah angka atau jumlah untuk menyatakan sekitar angka tersebut. 几乎 berarti hampir dan cenderung menekankan bahwa sesuatu nyaris seluruhnya atau nyaris terjadi; dalam ragam tertulis/formal ia sangat lazim, tetapi bukan berarti hanya boleh dipakai dalam bahasa formal. Posisi kata penting karena angka + 左右 berbeda dari sekadar menggunakan 大概. Pembelajar Indonesia perlu membedakan hampir secara kuantitatif dari hampir secara kejadian."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Ungkapan",
+            "Fungsi",
+            "Contoh",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "差不多",
+              "kurang lebih/hampir sama",
+              "差不多十个人。",
+              "Sekitar sepuluh orang."
+            ],
+            [
+              "大概",
+              "perkiraan/mungkin",
+              "大概三点。",
+              "Kira-kira jam tiga."
+            ],
+            [
+              "左右",
+              "sekitar angka",
+              "三点左右。",
+              "Sekitar jam tiga."
+            ],
+            [
+              "几乎",
+              "nyaris/hampir",
+              "几乎每天。",
+              "Hampir setiap hari."
+            ],
+            [
+              "差一点",
+              "hampir tetapi belum",
+              "差一点迟到。",
+              "Hampir terlambat."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "大概有二十个人。",
+              "pinyin": "Dàgài yǒu èrshí ge rén.",
+              "arti": "Kira-kira ada 20 orang.",
+              "catatan": "大概 memperkenalkan perkiraan."
+            },
+            {
+              "hanzi": "八点左右到。",
+              "pinyin": "Bā diǎn zuǒyòu dào.",
+              "arti": "Tiba sekitar jam delapan.",
+              "catatan": "左右 mengikuti angka/waktu."
+            },
+            {
+              "hanzi": "他几乎每天都跑步。",
+              "pinyin": "Tā jīhū měitiān dōu pǎobù.",
+              "arti": "Dia hampir setiap hari berlari.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "我们差不多到了。",
+              "pinyin": "Wǒmen chàbuduō dào le.",
+              "arti": "Kami hampir sampai.",
+              "catatan": "差不多 dapat menyatakan keadaan yang nyaris tercapai."
+            },
+            {
+              "hanzi": "我差一点迟到。",
+              "pinyin": "Wǒ chà yìdiǎn chídào.",
+              "arti": "Saya hampir terlambat.",
+              "catatan": "差一点 menyoroti kejadian yang nyaris terjadi."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: jangan menganggap 几乎 dan 差不多 selalu dapat saling menggantikan. 几乎 menekankan hampir terjadi/hampir seluruhnya, sedangkan 差不多 lebih fleksibel untuk kesamaan atau perkiraan."
+        }
+      ]
+    },
+    {
+      "judul": "N. Kalimat Pasif Dasar dengan 被",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "被 diperkenalkan secara singkat sebagai pengantar karena pembahasan lebih mendalam ditempatkan pada Pilar 7. Pola dasar yang diberikan adalah subjek yang terkena tindakan + 被 + pelaku + verba + komplemen."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Struktur ini dapat dipahami secara sederhana sebagai subjek dikenai suatu tindakan oleh pelaku tertentu."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "他被老师骂了。",
+              "pinyin": "Tā bèi lǎoshī mà le.",
+              "arti": "Dia dimarahi guru."
+            },
+            {
+              "hanzi": "书被他拿走了。",
+              "pinyin": "Shū bèi tā ná zǒu le.",
+              "arti": "Buku diambil olehnya."
+            },
+            {
+              "hanzi": "我的手机被偷了。",
+              "pinyin": "Wǒ de shǒujī bèi tōu le.",
+              "arti": "HP saya dicuri."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam percakapan sehari-hari, materi menyebut bahwa 被 dapat digantikan dalam konteks tertentu oleh 让 atau 叫 untuk nuansa yang lebih santai."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Pembahasan 被 di pilar ini hanya merupakan pengantar. Struktur pasif yang lebih mendalam tidak perlu dipaksakan masuk ke materi dasar karena telah diarahkan untuk dibahas pada Pilar 7."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "被 menonjolkan pihak yang menerima atau terkena tindakan. Dalam pola 被, subjek gramatikal adalah pihak yang terkena dampak, bukan pelaku. Karena itu struktur ini berguna ketika korban, hasil, atau objek tindakan lebih relevan daripada siapa yang melakukan. Pelaku setelah 被 dapat disebutkan atau dihilangkan jika tidak diketahui atau tidak penting. Verba dalam konstruksi pasif sering diikuti unsur yang membuat peristiwa terasa lengkap, seperti 了 atau komplemen. Dalam percakapan, 让 dan 叫 juga dapat membentuk konstruksi yang secara fungsi mirip pasif/kausatif, tetapi nuansanya berbeda dan tidak selalu dapat ditukar satu per satu dengan 被. Pilar ini hanya memberi fondasi; variasi pasif yang lebih kompleks tetap dapat dipelajari pada pilar lanjutan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Fungsi",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "S + 被 + Pelaku + V",
+              "pasif dasar",
+              "他被老师批评了。",
+              "Dia dikritik guru."
+            ],
+            [
+              "S + 被 + V",
+              "pelaku tidak disebut",
+              "我的手机被偷了。",
+              "Ponsel saya dicuri."
+            ],
+            [
+              "S + 被 + Pelaku + V + O",
+              "tindakan dengan objek",
+              "他被老板叫走了。",
+              "Dia dipanggil pergi oleh bos."
+            ],
+            [
+              "S + 让/叫 + Pelaku + V",
+              "bentuk lisan tertentu",
+              "他让老板骂了。",
+              "Dia dimarahi bos."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "他被老师表扬了。",
+              "pinyin": "Tā bèi lǎoshī biǎoyáng le.",
+              "arti": "Dia dipuji guru.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "我的钱包被偷了。",
+              "pinyin": "Wǒ de qiánbāo bèi tōu le.",
+              "arti": "Dompet saya dicuri.",
+              "catatan": "Pelaku tidak disebut karena tidak diketahui/tidak penting."
+            },
+            {
+              "hanzi": "他被车撞了。",
+              "pinyin": "Tā bèi chē zhuàng le.",
+              "arti": "Dia tertabrak mobil.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "门被风吹开了。",
+              "pinyin": "Mén bèi fēng chuī kāi le.",
+              "arti": "Pintu tertiup angin hingga terbuka.",
+              "catatan": "Pasif dapat menyatakan hasil tindakan."
+            },
+            {
+              "hanzi": "他被老板叫去了。",
+              "pinyin": "Tā bèi lǎobǎn jiào qù le.",
+              "arti": "Dia dipanggil pergi oleh bos.",
+              "catatan": ""
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: jangan menganggap semua kalimat Indonesia berawalan di- harus diterjemahkan dengan 被. Mandarin sering lebih alami memakai SVO aktif jika pelaku dan fokus sudah jelas. 被 terutama dipakai ketika pihak yang terkena tindakan ingin dijadikan fokus."
+        }
+      ]
+    },
+    {
+      "judul": "O. Dialog Komprehensif",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Dialog berikut menggabungkan beberapa struktur yang telah dipelajari sehingga pembelajar dapat melihat bagaimana pola kalimat digunakan secara alami dalam konteks."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你好！最近怎么样？",
+              "pinyin": "Nǐ hǎo! Zuìjìn zěnmeyàng?",
+              "arti": "Halo! Bagaimana kabarmu akhir-akhir ini?"
+            },
+            {
+              "hanzi": "还不错！虽然很忙，但是很开心。你呢？",
+              "pinyin": "Hái bùcuò! Suīrán hěn máng, dànshì hěn kāixīn. Nǐ ne?",
+              "arti": "Lumayan! Meskipun sibuk, tetapi saya senang. Kamu?"
+            },
+            {
+              "hanzi": "我也很好！对了，你昨天为什么没来上课？",
+              "pinyin": "Wǒ yě hěn hǎo! Duìle, nǐ zuótiān wèishénme méi lái shàngkè?",
+              "arti": "Saya juga baik! Ngomong-ngomong, kenapa kemarin kamu tidak datang ke kelas?"
+            },
+            {
+              "hanzi": "因为生病了，所以没去。今天的课难不难？",
+              "pinyin": "Yīnwèi shēngbìng le, suǒyǐ méi qù. Jīntiān de kè nán bù nán?",
+              "arti": "Karena sakit, jadi tidak pergi. Pelajaran hari ini sulit tidak?"
+            },
+            {
+              "hanzi": "不太难，但是比昨天的难一点。",
+              "pinyin": "Bù tài nán, dànshì bǐ zuótiān de nán yīdiǎn.",
+              "arti": "Tidak terlalu sulit, tetapi sedikit lebih sulit daripada kemarin."
+            },
+            {
+              "hanzi": "那就好。如果我有问题，可以问你吗？",
+              "pinyin": "Nà jiù hǎo. Rúguǒ wǒ yǒu wèntí, kěyǐ wèn nǐ ma?",
+              "arti": "Baguslah. Jika saya punya masalah, boleh bertanya kepadamu?"
+            },
+            {
+              "hanzi": "当然可以！只要你问，我就帮你。",
+              "pinyin": "Dāngrán kěyǐ! Zhǐyào nǐ wèn, wǒ jiù bāng nǐ.",
+              "arti": "Tentu saja! Asalkan kamu bertanya, saya akan membantumu."
+            },
+            {
+              "hanzi": "太感谢了！你真是太好了！",
+              "pinyin": "Tài gǎnxiè le! Nǐ zhēnshi tài hǎo le!",
+              "arti": "Terima kasih banyak! Kamu baik sekali!"
+            }
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "这件衣服和那件衣服，哪件比较好看？",
+              "pinyin": "Zhè jiàn yīfu hé nà jiàn yīfu, nǎ jiàn bǐjiào hǎokàn?",
+              "arti": "Baju ini dan baju itu, yang mana lebih bagus?"
+            },
+            {
+              "hanzi": "我觉得那件更漂亮，但是这件更便宜。",
+              "pinyin": "Wǒ juéde nà jiàn gèng piàoliang, dànshì zhè jiàn gèng piányi.",
+              "arti": "Menurut saya yang itu lebih cantik, tetapi yang ini lebih murah."
+            },
+            {
+              "hanzi": "那件比这件贵多少钱？",
+              "pinyin": "Nà jiàn bǐ zhè jiàn guì duōshao qián?",
+              "arti": "Yang itu lebih mahal berapa dari yang ini?"
+            },
+            {
+              "hanzi": "大概贵一百块左右。不过，质量也更好。",
+              "pinyin": "Dàgài guì yībǎi kuài zuǒyòu. Bùguò, zhìliàng yě gèng hǎo.",
+              "arti": "Kira-kira lebih mahal 100 yuan. Namun, kualitasnya juga lebih baik."
+            },
+            {
+              "hanzi": "嗯...我还是买这件吧，因为我没有那么多钱。",
+              "pinyin": "Ēn... wǒ háishì mǎi zhè jiàn ba, yīnwèi wǒ méiyǒu nàme duō qián.",
+              "arti": "Hmm... saya beli yang ini saja, karena saya tidak punya uang sebanyak itu."
+            },
+            {
+              "hanzi": "也好。这件虽然不是最漂亮的，但是性价比最高。",
+              "pinyin": "Yě hǎo. Zhè jiàn suīrán bùshì zuì piàoliang de, dànshì xìngjiàbǐ zuì gāo.",
+              "arti": "Baik juga. Meskipun ini bukan yang paling cantik, tetapi nilai uangnya paling tinggi."
+            }
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你的中文怎么样？",
+              "pinyin": "Nǐ de Zhōngwén zěnmeyàng?",
+              "arti": "Bagaimana bahasa Mandarinmu?"
+            },
+            {
+              "hanzi": "越来越好。但是越来越难！",
+              "pinyin": "Yuèláiyuè hǎo. Dànshì yuèláiyuè nán!",
+              "arti": "Semakin baik. Tetapi semakin sulit!"
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dialog komprehensif sebaiknya dibaca bukan sebagai daftar pola terpisah, tetapi sebagai aliran informasi. Penutur dapat membuka topik, bertanya, membandingkan, menolak, memberi alasan, lalu memberi saran tanpa mengulang struktur secara mekanis. Perhatikan bagaimana kata seperti 那, 但是, 还是, 就, 才, 比, 没有, dan 吧 menghubungkan giliran bicara. Dalam percakapan nyata, sebagian unsur dapat dihilangkan jika sudah jelas dari konteks. Kemampuan penting bukan hanya menghasilkan kalimat benar secara tata bahasa, tetapi memilih bentuk yang sesuai dengan tujuan komunikatif."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Situasi dialog",
+            "Struktur utama",
+            "Tujuan"
+          ],
+          "baris": [
+            [
+              "Membuka topik",
+              "Topic + Comment",
+              "mengatur fokus"
+            ],
+            [
+              "Meminta informasi",
+              "kata tanya/A-not-A",
+              "mendapat jawaban"
+            ],
+            [
+              "Membandingkan",
+              "比/一样/最",
+              "menilai dua atau lebih hal"
+            ],
+            [
+              "Menolak/menyangkal",
+              "不/没",
+              "membantah sesuai jenis negasi"
+            ],
+            [
+              "Memberi saran",
+              "还是...比较好/吧",
+              "mengusulkan pilihan"
+            ],
+            [
+              "Menjelaskan alasan",
+              "因为...所以...",
+              "menghubungkan sebab dan hasil"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "A: 这家餐厅怎么样？ B: 菜很好吃，但是有点贵。",
+              "pinyin": "A: Zhè jiā cāntīng zěnmeyàng? B: Cài hěn hǎochī, dànshì yǒudiǎn guì.",
+              "arti": "A: Bagaimana restoran ini? B: Makanannya enak, tetapi agak mahal.",
+              "catatan": "Pertanyaan keadaan + kontras."
+            },
+            {
+              "hanzi": "A: 你为什么没来？ B: 因为我昨天很忙。",
+              "pinyin": "A: Nǐ wèishénme méi lái? B: Yīnwèi wǒ zuótiān hěn máng.",
+              "arti": "A: Kenapa kamu tidak datang? B: Karena kemarin saya sibuk.",
+              "catatan": "为什么 dipasangkan dengan 没 untuk peristiwa yang tidak terjadi."
+            },
+            {
+              "hanzi": "A: 哪个比较好？ B: 这个比那个便宜。",
+              "pinyin": "A: Nǎge bǐjiào hǎo? B: Zhège bǐ nàge piányi.",
+              "arti": "A: Mana lebih baik? B: Yang ini lebih murah.",
+              "catatan": "Perbandingan dapat menjadi jawaban langsung."
+            },
+            {
+              "hanzi": "A: 现在走吗？ B: 还是晚一点走比较好。",
+              "pinyin": "A: Xiànzài zǒu ma? B: Háishì wǎn yìdiǎn zǒu bǐjiào hǎo.",
+              "arti": "A: Berangkat sekarang? B: Lebih baik berangkat agak nanti.",
+              "catatan": "Saran memakai 还是...比较好."
+            },
+            {
+              "hanzi": "A: 你中文怎么样？ B: 越来越好，但是越来越难。",
+              "pinyin": "A: Nǐ Zhōngwén zěnmeyàng? B: Yuèláiyuè hǎo, dànshì yuèláiyuè nán.",
+              "arti": "A: Bagaimana Mandarinmu? B: Semakin baik, tetapi semakin sulit.",
+              "catatan": "Dua 越来越 dapat dikontraskan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: jangan membaca dialog sebagai terjemahan satu-ke-satu. Dalam percakapan, subjek atau objek sering dihilangkan karena sudah dipahami. Yang perlu dilatih adalah konteks yang membuat penghilangan itu aman."
+        }
+      ]
+    },
+    {
+      "judul": "P. Latihan dan Jawaban",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Latihan berikut merangkum pola perbandingan, pertanyaan, larangan, negasi, 越...越..., konsesi, urutan waktu, penambahan, dan kondisi."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "No.",
+            "Soal",
+            "Jawaban Mandarin",
+            "Pinyin"
+          ],
+          "baris": [
+            [
+              "1",
+              "Saya lebih suka kopi daripada teh.",
+              "我比茶更喜欢咖啡。",
+              "Wǒ bǐ chá gèng xǐhuān kāfēi."
+            ],
+            [
+              "2",
+              "Apakah kamu sudah makan?",
+              "你吃饭了吗？",
+              "Nǐ chīfàn le ma?"
+            ],
+            [
+              "3",
+              "Dia setinggi saya.",
+              "他跟我一样高。",
+              "Tā gēn wǒ yīyàng gāo."
+            ],
+            [
+              "4",
+              "Jangan pergi!",
+              "别去！",
+              "Bié qù!"
+            ],
+            [
+              "5",
+              "Kenapa kamu tidak datang kemarin?",
+              "你昨天为什么没来？",
+              "Nǐ zuótiān wèishénme méi lái?"
+            ],
+            [
+              "6",
+              "Semakin belajar, semakin pintar.",
+              "越学越聪明。",
+              "Yuè xué yuè cōngming."
+            ],
+            [
+              "7",
+              "Meskipun mahal, tetapi saya tetap mau membelinya.",
+              "虽然很贵，但是我还是想买。",
+              "Suīrán hěn guì, dànshì wǒ háishì xiǎng mǎi."
+            ],
+            [
+              "8",
+              "Begitu pulang, langsung mandi.",
+              "一回家就洗澡。",
+              "Yī huíjiā jiù xǐzǎo."
+            ],
+            [
+              "9",
+              "Dia bukan hanya pintar, tetapi juga rajin.",
+              "他不但聪明，而且勤奋。",
+              "Tā bùdàn cōngming, érqiě qínfèn."
+            ],
+            [
+              "10",
+              "Jika hujan, kita tidak pergi.",
+              "如果下雨，我们就不去。",
+              "Rúguǒ xiàyǔ, wǒmen jiù bù qù."
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Soal",
+            "Jawaban",
+            "Kalimat lengkap"
+          ],
+          "baris": [
+            [
+              "她 ______ 我一样高。 (sama)",
+              "跟",
+              "她跟我一样高。"
+            ],
+            [
+              "这个 ______ 那个贵。 (lebih)",
+              "比",
+              "这个比那个贵。"
+            ],
+            [
+              "他 ______ 每天来。 (hampir)",
+              "差不多",
+              "他差不多每天来。"
+            ],
+            [
+              "我 ______ 到学校 ______ 给你打电话。 (begitu... langsung)",
+              "一...就...",
+              "我一到学校就给你打电话。"
+            ],
+            [
+              "他七点 ______ 来了。 (sudah)",
+              "就",
+              "他七点就来了。"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Latihan negasi menunjukkan bahwa satu kalimat positif dapat menghasilkan bentuk negatif yang berbeda bergantung pada makna yang ingin disampaikan."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "他去学校了。",
+              "pinyin": "Tā qù xuéxiào le.",
+              "arti": "Dia pergi ke sekolah.",
+              "catatan": "Bentuk dasar sebelum dinegasikan."
+            },
+            {
+              "hanzi": "他不去学校。",
+              "pinyin": "Tā bù qù xuéxiào.",
+              "arti": "Dia tidak pergi ke sekolah.",
+              "catatan": "Menunjukkan tidak pergi sebagai pilihan atau kehendak."
+            },
+            {
+              "hanzi": "他没去学校。",
+              "pinyin": "Tā méi qù xuéxiào.",
+              "arti": "Dia tidak atau belum pergi ke sekolah.",
+              "catatan": "Menunjukkan fakta bahwa tindakan tidak terjadi atau belum terjadi."
+            },
+            {
+              "hanzi": "他是学生。",
+              "pinyin": "Tā shì xuésheng.",
+              "arti": "Dia adalah siswa."
+            },
+            {
+              "hanzi": "他不是学生。",
+              "pinyin": "Tā bùshì xuésheng.",
+              "arti": "Dia bukan siswa."
+            },
+            {
+              "hanzi": "他有车。",
+              "pinyin": "Tā yǒu chē.",
+              "arti": "Dia punya mobil."
+            },
+            {
+              "hanzi": "他没有车。",
+              "pinyin": "Tā méiyǒu chē.",
+              "arti": "Dia tidak punya mobil."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Latihan yang baik harus menguji pilihan struktur, bukan hanya hafalan kosakata. Karena beberapa pola memiliki terjemahan Indonesia yang sama, soal perlu memaksa pembelajar membedakan fungsi. Misalnya tidak pergi dapat menjadi 不去 atau 没去 tergantung apakah maksudnya keputusan/kebiasaan atau peristiwa yang tidak terjadi. Demikian pula semakin dapat diwujudkan sebagai 越来越 atau 越...越... berdasarkan apakah yang berubah adalah satu keadaan dari waktu ke waktu atau hubungan dua variabel. Saat memeriksa jawaban, jangan hanya bertanya apakah kalimat dapat dipahami; periksa posisi unsur, jenis negasi, arah perbandingan, dan nuansa."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Yang diuji",
+            "Pertanyaan diri",
+            "Contoh target"
+          ],
+          "baris": [
+            [
+              "Negasi",
+              "Keputusan atau kejadian?",
+              "我不去 / 我没去"
+            ],
+            [
+              "Pertanyaan",
+              "Ya-tidak, pilihan, atau informasi?",
+              "吗 / 还是 / 什么"
+            ],
+            [
+              "Perbandingan",
+              "A lebih dari B atau setara?",
+              "比 / 一样"
+            ],
+            [
+              "Kondisi",
+              "Syarat cukup atau perlu?",
+              "只要 / 只有"
+            ],
+            [
+              "Waktu",
+              "Cepat atau terlambat menurut penutur?",
+              "就 / 才"
+            ],
+            [
+              "Topik",
+              "Apa yang sedang dibicarakan?",
+              "这件事，我不知道。"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "Terjemahkan: Saya belum pernah ke China.",
+              "pinyin": "Wǒ méi qùguo Zhōngguó.",
+              "arti": "我没去过中国。",
+              "catatan": "Kunci: pengalaman negatif memakai 没 + V + 过."
+            },
+            {
+              "hanzi": "Terjemahkan: Besok saya tidak pergi.",
+              "pinyin": "Míngtiān wǒ bù qù.",
+              "arti": "明天我不去。",
+              "catatan": "Kunci: keputusan/rencana menggunakan 不."
+            },
+            {
+              "hanzi": "Terjemahkan: Dia lebih tinggi lima sentimeter.",
+              "pinyin": "Tā bǐ wǒ gāo wǔ límǐ.",
+              "arti": "她比我高五厘米。",
+              "catatan": "Kunci: selisih setelah sifat."
+            },
+            {
+              "hanzi": "Terjemahkan: Asalkan kamu datang, kita makan bersama.",
+              "pinyin": "Zhǐyào nǐ lái, wǒmen jiù yìqǐ chīfàn.",
+              "arti": "只要你来，我们就一起吃饭。",
+              "catatan": "Kunci: syarat cukup."
+            },
+            {
+              "hanzi": "Terjemahkan: Begitu sampai rumah, saya langsung tidur.",
+              "pinyin": "Wǒ yí dào jiā jiù shuìjiào.",
+              "arti": "我一到家就睡觉。",
+              "catatan": "Kunci: urutan segera 一...就..."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: jangan menghafalkan jawaban tanpa alasan. Setelah menjawab, jelaskan mengapa memilih 不/没, 比/一样, 如果/只要/只有, atau 才/就. Jika alasan tidak dapat dijelaskan, pola tersebut belum benar-benar dikuasai."
+        }
+      ]
+    },
+    {
+      "judul": "Q. Ringkasan Struktur Kalimat Dasar",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Fungsi",
+            "Pola",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "Pernyataan",
+              "S + V + O",
+              "我学习中文。"
+            ],
+            [
+              "Negasi dengan 不",
+              "S + 不 + V + O",
+              "我不去学校。"
+            ],
+            [
+              "Negasi dengan 没",
+              "S + 没 + V + O",
+              "我没去学校。"
+            ],
+            [
+              "Negasi perintah",
+              "别 + V + O",
+              "别去学校！"
+            ],
+            [
+              "Pertanyaan ya/tidak",
+              "S + V + 不 + V + O",
+              "你去不去学校？"
+            ],
+            [
+              "Pertanyaan kata tanya",
+              "S + kata tanya + V",
+              "你去哪里？"
+            ],
+            [
+              "Perintah",
+              "V + O",
+              "来！"
+            ],
+            [
+              "Ajakan",
+              "Kalimat + 吧",
+              "走吧。"
+            ],
+            [
+              "Eksklamasi",
+              "真/太 + Adj + 了",
+              "太好了！"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Fungsi",
+            "Pola",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "Lebih",
+              "A 比 B + sifat",
+              "我比他高。",
+              "Saya lebih tinggi."
+            ],
+            [
+              "Kurang",
+              "A 没有 B + sifat",
+              "我没有他高。",
+              "Saya tidak setinggi dia."
+            ],
+            [
+              "Sama",
+              "A 跟 B 一样 + sifat",
+              "我跟他一样高。",
+              "Saya sama tinggi."
+            ],
+            [
+              "Paling",
+              "最 + sifat",
+              "她最高。",
+              "Dia paling tinggi."
+            ],
+            [
+              "Semakin",
+              "越 A 越 B",
+              "越多越好。",
+              "Semakin banyak semakin baik."
+            ],
+            [
+              "Semakin seiring perubahan",
+              "越来越 + sifat",
+              "越来越高。",
+              "Semakin tinggi."
+            ],
+            [
+              "Lebih baik",
+              "还是 A 比较好",
+              "走路比较好。",
+              "Lebih baik jalan kaki."
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Konjungsi",
+            "Fungsi",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "因为...所以...",
+              "Sebab-akibat",
+              "因为下雨，所以我不去。"
+            ],
+            [
+              "虽然...但是...",
+              "Meskipun tetapi",
+              "虽然很累，但是很快乐。"
+            ],
+            [
+              "不但...而且...",
+              "Bukan hanya tetapi juga",
+              "不但漂亮，而且聪明。"
+            ],
+            [
+              "如果...就...",
+              "Jika maka",
+              "如果下雨，就不去。"
+            ],
+            [
+              "只要...就...",
+              "Asalkan maka",
+              "只要努力，就会成功。"
+            ],
+            [
+              "只有...才...",
+              "Hanya jika baru",
+              "只有努力，才能成功。"
+            ],
+            [
+              "一边...一边...",
+              "Sambil",
+              "一边吃饭，一边看电视。"
+            ],
+            [
+              "不但不...反而...",
+              "Malah sebaliknya",
+              "不但不道歉，反而生气。"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata atau pola waktu",
+            "Fungsi",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "才",
+              "Baru, lebih lambat",
+              "八点才来。"
+            ],
+            [
+              "就",
+              "Sudah, lebih cepat",
+              "七点就来了。"
+            ],
+            [
+              "一...就...",
+              "Begitu langsung",
+              "一来就走。"
+            ],
+            [
+              "先...然后...",
+              "Pertama lalu",
+              "先吃饭，然后去。"
+            ],
+            [
+              "刚...就...",
+              "Baru saja langsung",
+              "刚出门就下雨。"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Ungkapan",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "差不多",
+              "Hampir atau kurang lebih"
+            ],
+            [
+              "大概",
+              "Kira-kira atau mungkin"
+            ],
+            [
+              "左右",
+              "Sekitar"
+            ],
+            [
+              "几乎",
+              "Hampir"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Ringkasan harus dipakai sebagai peta keputusan, bukan sebagai pengganti penjelasan. Mulailah dari tujuan komunikatif: menyatakan fakta, menolak, bertanya, memerintah, membandingkan, menghubungkan alasan, menyatakan syarat, atau mengatur urutan waktu. Setelah tujuan diketahui, pilih konstruksi. Dalam bahasa Mandarin, banyak bentuk yang tampak mirip dalam terjemahan Indonesia tetapi berbeda secara logika. Contohnya tidak dapat diterjemahkan menjadi 不 atau 没 tanpa melihat apakah penutur sedang menolak kebiasaan/kehendak atau menyangkal peristiwa. Demikian juga lebih dapat berupa 比, 更, atau 比较 tergantung struktur dan konteks. Tabel berikut menjadi peta cepat sebelum masuk ke rincian pilar lain."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Tujuan",
+            "Pola utama",
+            "Pertanyaan kunci",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "Pernyataan",
+              "S + V + O",
+              "Apa tindakannya?",
+              "我学习中文。"
+            ],
+            [
+              "Topik",
+              "Topic + Comment",
+              "Apa yang sedang dibahas?",
+              "这本书，我喜欢。"
+            ],
+            [
+              "Negasi",
+              "不 / 没",
+              "Sikap atau kejadian?",
+              "我不去 / 我没去。"
+            ],
+            [
+              "Tanya",
+              "吗 / A-not-A / wh",
+              "Jenis pertanyaan apa?",
+              "你去不去？"
+            ],
+            [
+              "Lebih",
+              "A 比 B + P",
+              "Siapa lebih?",
+              "我比他高。"
+            ],
+            [
+              "Sama",
+              "A 跟 B 一样 + P",
+              "Apakah setara?",
+              "我跟他一样高。"
+            ],
+            [
+              "Paling",
+              "最 + P",
+              "Siapa tertinggi?",
+              "他最高。"
+            ],
+            [
+              "Kondisi",
+              "如果/只要/只有...就/才",
+              "Jenis syarat?",
+              "如果下雨，我就不去。"
+            ],
+            [
+              "Sebab",
+              "因为/既然/于是",
+              "Hubungan alasan atau akibat?",
+              "因为下雨，所以没去。"
+            ],
+            [
+              "Waktu",
+              "才/就/一...就...",
+              "Bagaimana jarak waktunya?",
+              "一到家就睡。"
+            ],
+            [
+              "Pasif",
+              "S + 被 + Pelaku + V",
+              "Siapa terkena tindakan?",
+              "他被老师批评了。"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我喜欢这本书。",
+              "pinyin": "Wǒ xǐhuān zhè běn shū.",
+              "arti": "Saya suka buku ini.",
+              "catatan": "SVO netral."
+            },
+            {
+              "hanzi": "这本书，我很喜欢。",
+              "pinyin": "Zhè běn shū, wǒ hěn xǐhuān.",
+              "arti": "Buku ini, saya sangat suka.",
+              "catatan": "Topic-Comment."
+            },
+            {
+              "hanzi": "我没有他高。",
+              "pinyin": "Wǒ méiyǒu tā gāo.",
+              "arti": "Saya tidak setinggi dia.",
+              "catatan": "Perbandingan negatif."
+            },
+            {
+              "hanzi": "如果你累了，就休息吧。",
+              "pinyin": "Rúguǒ nǐ lèi le, jiù xiūxi ba.",
+              "arti": "Kalau lelah, istirahatlah.",
+              "catatan": "Kondisi + ajakan."
+            },
+            {
+              "hanzi": "他八点才来。",
+              "pinyin": "Tā bā diǎn cái lái.",
+              "arti": "Dia baru datang jam delapan.",
+              "catatan": "Waktu relatif."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: cheat sheet membantu mengingat bentuk, tetapi tidak boleh dipakai untuk mengabaikan konteks. Struktur yang benar secara bentuk dapat tetap salah secara makna jika pasangan konstruksinya dipilih keliru."
+        }
+      ]
+    },
+    {
+      "judul": "R. Kesalahan Umum Pembelajar Indonesia",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kesalahan",
+            "Bentuk benar",
+            "Penjelasan"
+          ],
+          "baris": [
+            [
+              "我高他。",
+              "我比他高。",
+              "Perbandingan lebih memerlukan 比."
+            ],
+            [
+              "他漂亮我。",
+              "他比我漂亮。",
+              "A ditempatkan sebelum 比 dan B setelah 比."
+            ],
+            [
+              "她很漂亮？",
+              "她漂亮吗？",
+              "Pertanyaan ya/tidak dapat menggunakan 吗; 很 bukan penanda pertanyaan."
+            ],
+            [
+              "我没是学生。",
+              "我不是学生。",
+              "是 dinegasikan dengan 不."
+            ],
+            [
+              "我没知道。",
+              "我不知道。",
+              "知道 dalam materi menggunakan 不."
+            ],
+            [
+              "多少个人？",
+              "几个人？",
+              "Untuk jumlah kecil digunakan 几."
+            ],
+            [
+              "几本书？ untuk jumlah besar",
+              "多少本书？",
+              "Untuk jumlah besar digunakan 多少."
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jebakan terbesar adalah menerjemahkan struktur Mandarin kata demi kata dari bahasa Indonesia. Fokuslah pada fungsi konstruksi, posisi unsur, dan nuansa yang dibawa oleh partikel atau kata pembentuk pola."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Dalam perbandingan, jangan menghilangkan 比 ketika memang ingin menyatakan A lebih tinggi, lebih mahal, lebih cantik, dan sebagainya daripada B."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Bedakan 不 sebagai penolakan atau keadaan umum dengan 没 sebagai ketidakadaan, pengalaman, atau peristiwa yang tidak terjadi. Hafalan sederhana yang digunakan materi adalah 不 lebih bersifat keputusan atau subjektif, sedangkan 没 lebih berfokus pada fakta bahwa sesuatu belum atau tidak terjadi."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Kesalahan pembelajar Indonesia sering muncul karena Mandarin dan Indonesia sama-sama tidak mengenal konjugasi verba seperti bahasa tertentu, tetapi berbeda dalam cara menandai fokus, aspek, negasi, dan perbandingan. Bahasa Indonesia juga memungkinkan beberapa pola yang terasa natural jika diterjemahkan langsung, sedangkan Mandarin membutuhkan penanda struktural tertentu. Karena itu koreksi paling efektif adalah membandingkan kalimat salah dan benar lalu menjelaskan alasan. Kesalahan tidak hanya berupa kosakata; posisi kata, pemilihan partikel, dan logika konstruksi sering lebih menentukan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Salah",
+            "Benar",
+            "Masalah"
+          ],
+          "baris": [
+            [
+              "*我高他。",
+              "我比他高。",
+              "arah perbandingan tidak ditandai"
+            ],
+            [
+              "*我没是学生。",
+              "我不是学生。",
+              "是 dinegasikan dengan 不"
+            ],
+            [
+              "*我没知道。",
+              "我不知道。",
+              "知道 lazim dinegasikan dengan 不"
+            ],
+            [
+              "*什么你喜欢？",
+              "你喜欢什么？",
+              "kata tanya tetap di posisinya"
+            ],
+            [
+              "*她是漂亮。",
+              "她很漂亮。",
+              "adjektiva menjadi predikat tanpa 是"
+            ],
+            [
+              "*这里不有人。",
+              "这里没有人。",
+              "keberadaan memakai 有/没有"
+            ],
+            [
+              "*我昨天不去学校。",
+              "我昨天没去学校。",
+              "untuk kejadian spesifik yang tidak terjadi, 没 lebih tepat"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "❌ 我高他。 → ✅ 我比他高。",
+              "pinyin": "Wǒ bǐ tā gāo.",
+              "arti": "Saya lebih tinggi darinya.",
+              "catatan": "Perbandingan memerlukan 比 dalam pola dasar."
+            },
+            {
+              "hanzi": "❌ 她是漂亮。 → ✅ 她很漂亮。",
+              "pinyin": "Tā hěn piàoliang.",
+              "arti": "Dia cantik.",
+              "catatan": "Adjektiva dapat menjadi predikat."
+            },
+            {
+              "hanzi": "❌ 我没知道。 → ✅ 我不知道。",
+              "pinyin": "Wǒ bù zhīdào.",
+              "arti": "Saya tidak tahu.",
+              "catatan": "Keadaan/pengetahuan lazim dinegasikan dengan 不."
+            },
+            {
+              "hanzi": "❌ 你什么时候在？ → konteks berbeda",
+              "pinyin": "Nǐ shénme shíhou lái?",
+              "arti": "Kamu datang kapan?",
+              "catatan": "Tempat kata tanya harus mengikuti fungsi yang ditanyakan."
+            },
+            {
+              "hanzi": "❌ 这里不有人。 → ✅ 这里没有人。",
+              "pinyin": "Zhèlǐ méiyǒu rén.",
+              "arti": "Di sini tidak ada orang.",
+              "catatan": "没有 menyatakan keberadaan negatif."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: tanda bintang * berarti bentuk yang dianggap tidak tepat untuk makna yang sedang diuji, bukan berarti setiap penutur tidak pernah mengucapkannya dalam konteks apa pun. Selalu nilai bentuk bersama konteks."
+        }
+      ]
+    },
+    {
+      "judul": "S. Prinsip Hafalan dan Penggunaan Praktis",
+      "isi": [
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Dalam perbandingan, letakkan A lebih dahulu, kemudian 比 atau bentuk pembanding lainnya, lalu B.",
+            "Untuk mengingat 不 dan 没, hubungkan 不 dengan pilihan, kebiasaan, atau keadaan umum; hubungkan 没 dengan belum, tidak pernah, tidak ada, atau peristiwa yang tidak terjadi.",
+            "Latih Topic-Comment dengan membiasakan diri mengemukakan topik terlebih dahulu kemudian memberikan komentar.",
+            "Jangan hanya menghafal terjemahan Indonesia. Hafalkan pola lengkap seperti A 比 B + sifat, A 跟 B 一样 + sifat, dan 越 A 越 B.",
+            "Perhatikan nuansa waktu pada 才 dan 就: 才 cenderung memberi kesan terlambat, sedangkan 就 memberi kesan lebih awal atau cepat.",
+            "Gunakan pola konjungsi sebagai satu kesatuan, misalnya 因为...所以..., 如果...就..., dan 只有...才...."
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Hafalan paling efektif untuk Pilar 6 bukan menghafal terjemahan tunggal, melainkan pasangan fungsi dan pola. Gunakan pertanyaan keputusan: apa topiknya, siapa pelakunya, apakah peristiwa terjadi, apakah saya membandingkan, apakah syaratnya cukup atau wajib, dan apakah peristiwa terjadi cepat atau terlambat menurut sudut pandang saya. Latihan dapat dilakukan dengan satu kerangka lalu mengganti satu unsur. Misalnya dari 我去学校 menjadi 我不去学校, 我没去学校, 你去不去学校, 我比他早去学校, dan 如果下雨我就不去学校. Dengan cara ini otak mempelajari sistem yang saling berhubungan, bukan kalimat terpisah."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pertanyaan mental",
+            "Pilihan",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "Apa fokus?",
+              "S / Topic",
+              "这本书，我喜欢。"
+            ],
+            [
+              "Negasi apa?",
+              "不 / 没 / 别",
+              "我不去 / 我没去 / 别去"
+            ],
+            [
+              "Hubungan perbandingan?",
+              "比 / 一样 / 最",
+              "我比他高。"
+            ],
+            [
+              "Syarat?",
+              "如果 / 只要 / 只有",
+              "只要你来，我就去。"
+            ],
+            [
+              "Waktu relatif?",
+              "才 / 就",
+              "他八点才来。"
+            ],
+            [
+              "Tujuan?",
+              "为了",
+              "为了健康，我运动。"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "Saya pergi.",
+              "pinyin": "Wǒ qù.",
+              "arti": "我去。",
+              "catatan": "Kalimat dasar."
+            },
+            {
+              "hanzi": "Saya tidak pergi.",
+              "pinyin": "Wǒ bù qù.",
+              "arti": "我不去。",
+              "catatan": "Negasi keputusan/kebiasaan."
+            },
+            {
+              "hanzi": "Saya belum pergi.",
+              "pinyin": "Wǒ méi qù.",
+              "arti": "我没去。",
+              "catatan": "Negasi kejadian."
+            },
+            {
+              "hanzi": "Jangan pergi.",
+              "pinyin": "Bié qù.",
+              "arti": "别去。",
+              "catatan": "Larangan."
+            },
+            {
+              "hanzi": "Saya lebih cepat darinya.",
+              "pinyin": "Wǒ bǐ tā kuài.",
+              "arti": "我比他快。",
+              "catatan": "Perbandingan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: jangan menghafal rumus tanpa suara dan konteks. Ucapkan pola dengan beberapa kosakata berbeda agar struktur tidak terikat pada satu contoh."
+        }
+      ]
+    },
+    {
+      "judul": "T. Latihan Terjemahan Tambahan",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kalimat Indonesia",
+            "Jawaban Mandarin",
+            "Pinyin"
+          ],
+          "baris": [
+            [
+              "Saya lebih suka kopi daripada teh.",
+              "我比茶更喜欢咖啡。",
+              "Wǒ bǐ chá gèng xǐhuān kāfēi."
+            ],
+            [
+              "Apakah kamu sudah makan?",
+              "你吃饭了吗？",
+              "Nǐ chīfàn le ma?"
+            ],
+            [
+              "Dia setinggi saya.",
+              "他跟我一样高。",
+              "Tā gēn wǒ yīyàng gāo."
+            ],
+            [
+              "Jangan pergi!",
+              "别去！",
+              "Bié qù!"
+            ],
+            [
+              "Kenapa kamu tidak datang kemarin?",
+              "你昨天为什么没来？",
+              "Nǐ zuótiān wèishénme méi lái?"
+            ],
+            [
+              "Semakin belajar, semakin pintar.",
+              "越学越聪明。",
+              "Yuè xué yuè cōngming."
+            ],
+            [
+              "Meskipun mahal, tetapi saya tetap mau membelinya.",
+              "虽然很贵，但是我还是想买。",
+              "Suīrán hěn guì, dànshì wǒ háishì xiǎng mǎi."
+            ],
+            [
+              "Begitu pulang, langsung mandi.",
+              "一回家就洗澡。",
+              "Yī huíjiā jiù xǐzǎo."
+            ],
+            [
+              "Dia bukan hanya pintar, tetapi juga rajin.",
+              "他不但聪明，而且勤奋。",
+              "Tā bùdàn cōngming, érqiě qínfèn."
+            ],
+            [
+              "Jika hujan, kita tidak pergi.",
+              "如果下雨，我们就不去。",
+              "Rúguǒ xiàyǔ, wǒmen jiù bù qù."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Terjemahan dua arah berguna untuk menemukan perbedaan logika antara bahasa Indonesia dan Mandarin. Namun jawaban yang baik tidak selalu hanya satu. Beberapa kalimat Indonesia dapat memiliki beberapa terjemahan Mandarin dengan nuansa berbeda. Karena itu latihan harus menilai apakah struktur yang dipilih sesuai maksud, bukan apakah urutan katanya identik. Untuk perbandingan, misalnya saya lebih suka A daripada B dapat diekspresikan dengan 更喜欢 dan struktur 比, tetapi pilihan yang paling alami bergantung pada fokus. Untuk negasi, belum, tidak, dan jangan harus dipisahkan sejak awal."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Fokus terjemahan",
+            "Pola target",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "lebih tinggi",
+              "比",
+              "他比我高。"
+            ],
+            [
+              "belum pernah",
+              "没 + V + 过",
+              "我没去过中国。"
+            ],
+            [
+              "jangan",
+              "别 + V",
+              "别走。"
+            ],
+            [
+              "jika...maka",
+              "如果...就...",
+              "如果下雨，我就不去。"
+            ],
+            [
+              "asalkan",
+              "只要...就...",
+              "只要努力，就会进步。"
+            ],
+            [
+              "hanya jika",
+              "只有...才...",
+              "只有努力，才能成功。"
+            ],
+            [
+              "begitu...langsung",
+              "一...就...",
+              "一到家就睡觉。"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "Saya tidak tahu.",
+              "pinyin": "Wǒ bù zhīdào.",
+              "arti": "我不知道。",
+              "catatan": "Keadaan pengetahuan memakai 不."
+            },
+            {
+              "hanzi": "Dia tidak datang kemarin.",
+              "pinyin": "Tā zuótiān méi lái.",
+              "arti": "他昨天没来。",
+              "catatan": "Peristiwa spesifik memakai 没."
+            },
+            {
+              "hanzi": "Kamu lebih tinggi dariku.",
+              "pinyin": "Nǐ bǐ wǒ gāo.",
+              "arti": "你比我高。",
+              "catatan": "A harus menjadi pihak yang lebih tinggi."
+            },
+            {
+              "hanzi": "Lebih baik kita berangkat sekarang.",
+              "pinyin": "Wǒmen háishì xiànzài chūfā bǐjiào hǎo.",
+              "arti": "我们还是现在出发比较好。",
+              "catatan": "Saran dapat memakai 还是...比较好."
+            },
+            {
+              "hanzi": "Semakin belajar, semakin paham.",
+              "pinyin": "Yuè xué yuè dǒng.",
+              "arti": "越学越懂。",
+              "catatan": "Hubungan korelatif memakai 越...越..."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: jangan memaksakan satu terjemahan Indonesia ke satu pola Mandarin. Setelah menerjemahkan, tanyakan apakah kalimat tersebut menekankan waktu, keputusan, pengalaman, perbandingan, atau tujuan."
+        }
+      ]
+    },
+    {
+      "judul": "V. Variasi Ragam, Regional, Formal, dan Bahasa Modern",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Struktur inti Mandarin standar relatif stabil di Tiongkok Daratan, Taiwan, Singapura, dan komunitas Mandarin di Malaysia, sehingga pola SVO, 不/没, 比, 一样, dan 如果...就... tetap dapat dipahami lintas wilayah. Perbedaan regional lebih sering muncul pada kosakata, pilihan istilah, aksara sederhana atau tradisional, serta pengaruh bahasa lokal. Hong Kong perlu diperlakukan berbeda karena bahasa sehari-hari utamanya adalah Kantonis, sehingga banyak struktur lisan Kantonis tidak boleh dipelajari sebagai variasi Mandarin standar. Dalam Mandarin Taiwan, pola pertanyaan, negasi, perbandingan, dan susunan klausa dasar tetap sejalan dengan Mandarin standar, walaupun pilihan kosakata, aksara, dan intonasi dapat berbeda. Singapura dan Malaysia juga mempertahankan tata bahasa Mandarin standar, tetapi percakapan dapat memperlihatkan pengaruh kosakata setempat. Bahasa formal atau tertulis cenderung mempertahankan struktur lebih lengkap, sedangkan bahasa lisan lebih banyak menghilangkan unsur yang sudah jelas. Internet menambah slang dan singkatan, tetapi itu bukan tata bahasa inti."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Dimensi",
+            "Tiongkok Daratan",
+            "Taiwan",
+            "Singapura/Malaysia",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "Aksara",
+              "简体字 dominan",
+              "繁體字 dominan",
+              "keduanya dapat ditemui",
+              "Perbedaan aksara tidak otomatis mengubah tata bahasa."
+            ],
+            [
+              "Bahasa lisan",
+              "普通话",
+              "國語",
+              "华语/Mandarin",
+              "Varian standar saling dapat dipahami."
+            ],
+            [
+              "Hong Kong",
+              "Kantonis dominan secara lisan",
+              "bukan fokus",
+              "bukan fokus",
+              "Jangan memasukkan tata bahasa Kantonis sebagai Mandarin standar."
+            ],
+            [
+              "Formal/tertulis",
+              "lebih eksplisit",
+              "lebih eksplisit",
+              "lebih eksplisit",
+              "Konjungsi dan unsur gramatikal cenderung lebih lengkap."
+            ],
+            [
+              "Lisan",
+              "elipsis lebih tinggi",
+              "elipsis lebih tinggi",
+              "elipsis lebih tinggi",
+              "Unsur yang sudah jelas sering dihilangkan."
+            ],
+            [
+              "Internet",
+              "slang/singkatan",
+              "slang komunitas",
+              "slang komunitas",
+              "Pelajari sebagai pemakaian kontekstual."
+            ]
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Mandarin lisan sering menghilangkan subjek atau objek yang sudah jelas dari konteks.",
+            "Tulisan formal cenderung mempertahankan hubungan logis antarklausa dengan bentuk yang lebih eksplisit.",
+            "Taiwan menggunakan aksara tradisional, sedangkan Tiongkok Daratan dominan aksara sederhana; struktur seperti 比 dan 一样 tetap sama.",
+            "Singapura dan Malaysia dapat memiliki pilihan kosakata lokal, tetapi pola Mandarin standar tetap menjadi fondasi aman.",
+            "Slang internet tidak perlu dijadikan aturan dasar tata bahasa."
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你吃饭了吗？",
+              "pinyin": "Nǐ chīfàn le ma?",
+              "arti": "Kamu sudah makan?",
+              "catatan": "Pola umum Mandarin standar."
+            },
+            {
+              "hanzi": "這本書很好看。",
+              "pinyin": "Zhè běn shū hěn hǎokàn.",
+              "arti": "Buku ini sangat menarik.",
+              "catatan": "繁體字; struktur sama dengan 这本书很好看."
+            },
+            {
+              "hanzi": "你今天忙不忙？",
+              "pinyin": "Nǐ jīntiān máng bù máng?",
+              "arti": "Kamu sibuk atau tidak hari ini?",
+              "catatan": "A-not-A umum dalam Mandarin standar."
+            },
+            {
+              "hanzi": "這個比較方便。",
+              "pinyin": "Zhège bǐjiào fāngbiàn.",
+              "arti": "Yang ini lebih praktis.",
+              "catatan": "比較 juga umum dalam Mandarin Taiwan."
+            },
+            {
+              "hanzi": "我们等一下再说。",
+              "pinyin": "Wǒmen děng yīxià zài shuō.",
+              "arti": "Kita bicara lagi nanti.",
+              "catatan": "Bentuk lisan yang alami. 再 mengatur tindakan berikutnya."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: jangan menganggap Kantonis Hong Kong hanya sebagai Mandarin dengan aksen berbeda. Untuk tujuan belajar Mandarin standar, fokuskan tata bahasa pada 普通话 atau 國語 terlebih dahulu. Slang internet juga sebaiknya dipelajari sebagai pemakaian sesuai konteks, bukan sebagai aturan tata bahasa baru."
+        }
+      ]
+    },
+    {
+      "judul": "U. Cheat Sheet Final",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kategori",
+            "Pola atau kata kunci",
+            "Makna cepat"
+          ],
+          "baris": [
+            [
+              "Kalimat dasar",
+              "S + V + O",
+              "Subjek + verba + objek"
+            ],
+            [
+              "Tidak",
+              "不",
+              "Tidak mau, tidak akan, kebiasaan, keadaan umum"
+            ],
+            [
+              "Belum atau tidak terjadi",
+              "没",
+              "Belum, tidak pernah, tidak ada, peristiwa tidak terjadi"
+            ],
+            [
+              "Jangan",
+              "别",
+              "Larangan"
+            ],
+            [
+              "Pertanyaan ya/tidak",
+              "吗",
+              "Apakah"
+            ],
+            [
+              "Pertanyaan alternatif",
+              "A-not-A",
+              "A atau tidak"
+            ],
+            [
+              "Kata tanya",
+              "什么/谁/哪里/什么时候/为什么/怎么/多少/几/哪",
+              "Apa, siapa, di mana, kapan, mengapa, bagaimana, berapa, yang mana"
+            ],
+            [
+              "Lebih",
+              "比",
+              "Lebih ... daripada"
+            ],
+            [
+              "Kurang",
+              "没有",
+              "Tidak lebih ... daripada"
+            ],
+            [
+              "Sama",
+              "跟/和...一样",
+              "Sama ... dengan"
+            ],
+            [
+              "Paling",
+              "最",
+              "Paling"
+            ],
+            [
+              "Semakin",
+              "越...越...",
+              "Semakin A semakin B"
+            ],
+            [
+              "Semakin seiring waktu",
+              "越来越",
+              "Semakin..."
+            ],
+            [
+              "Lebih baik",
+              "还是...比较好",
+              "Lebih baik..."
+            ],
+            [
+              "Sungguh",
+              "真 + sifat",
+              "Sungguh atau sangat"
+            ],
+            [
+              "Sangat atau terlalu",
+              "太 + sifat + 了",
+              "Sangat atau terlalu"
+            ],
+            [
+              "Betapa",
+              "多 + sifat + 啊",
+              "Betapa..."
+            ],
+            [
+              "Sambil",
+              "一边...一边...",
+              "Melakukan dua tindakan bersamaan"
+            ],
+            [
+              "Sebab-akibat",
+              "因为...所以...",
+              "Karena... maka..."
+            ],
+            [
+              "Meskipun",
+              "虽然...但是...",
+              "Meskipun... tetapi..."
+            ],
+            [
+              "Bukan hanya",
+              "不但...而且...",
+              "Bukan hanya... tapi juga..."
+            ],
+            [
+              "Jika",
+              "如果...就...",
+              "Jika... maka..."
+            ],
+            [
+              "Asalkan",
+              "只要...就...",
+              "Asalkan... maka..."
+            ],
+            [
+              "Hanya jika",
+              "只有...才...",
+              "Hanya jika... baru..."
+            ],
+            [
+              "Tujuan",
+              "为了...",
+              "Untuk..."
+            ],
+            [
+              "Sebab yang sudah diketahui",
+              "既然...就...",
+              "Karena sudah demikian, maka..."
+            ],
+            [
+              "Akibat logis",
+              "于是",
+              "Maka atau akhirnya"
+            ],
+            [
+              "Tetap meskipun",
+              "尽管...还是...",
+              "Meskipun... tetap..."
+            ],
+            [
+              "Baru atau terlambat",
+              "才",
+              "Baru, lebih lambat dari harapan"
+            ],
+            [
+              "Sudah atau cepat",
+              "就",
+              "Sudah, lebih cepat dari harapan"
+            ],
+            [
+              "Begitu langsung",
+              "一...就...",
+              "Begitu A langsung B"
+            ],
+            [
+              "Pertama lalu",
+              "先...然后...",
+              "Urutan tindakan"
+            ],
+            [
+              "Baru saja lalu",
+              "刚...就...",
+              "Baru saja A, langsung B"
+            ],
+            [
+              "Hampir",
+              "差不多",
+              "Hampir atau kurang lebih"
+            ],
+            [
+              "Hampir",
+              "几乎",
+              "Hampir"
+            ],
+            [
+              "Kira-kira",
+              "大概",
+              "Kira-kira atau mungkin"
+            ],
+            [
+              "Sekitar",
+              "左右",
+              "Sekitar angka tertentu"
+            ],
+            [
+              "Pasif dasar",
+              "被",
+              "Dikenai tindakan oleh pelaku"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Penguasaan Pilar 6 berarti mampu mengenali dan membangun pola kalimat dasar, memilih 不 atau 没 dengan tepat, membentuk pertanyaan, menyusun perbandingan, menyatakan perintah dan larangan, serta menghubungkan gagasan dengan konstruksi kondisi, sebab-akibat, konsesi, tujuan, dan urutan waktu. Pola-pola ini menjadi fondasi untuk konstruksi Mandarin yang lebih kompleks."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Gunakan lembar ini sebagai alat diagnosis cepat. Jika ingin membangun kalimat, tentukan dulu fungsi komunikasinya, kemudian pilih kerangka. Setelah kerangka dipilih, periksa tiga hal: posisi unsur, partikel atau kata penghubung yang diperlukan, dan nuansa yang muncul. Struktur dasar SVO adalah titik awal, tetapi Topic-Comment menjelaskan pengaturan fokus. 不, 没, dan 别 membedakan jenis negasi. Pertanyaan memakai 吗, A-not-A, kata tanya, atau 还是. Perbandingan memakai 比, 没有, 一样, 最, 越...越..., dan 越来越. Klausa dapat dihubungkan dengan kondisi, sebab-akibat, konsesi, tujuan, dan urutan waktu. Dengan peta ini, pembelajar dapat mengenali pola baru sebagai variasi dari sistem yang sudah dikenal."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Checklist",
+            "Yang diperiksa",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "1",
+              "Fokus/topik",
+              "这件事，我不知道。"
+            ],
+            [
+              "2",
+              "Predikat",
+              "我学习中文。"
+            ],
+            [
+              "3",
+              "Negasi",
+              "我没去 / 我不去。"
+            ],
+            [
+              "4",
+              "Pertanyaan",
+              "你去不去？"
+            ],
+            [
+              "5",
+              "Perbandingan",
+              "我比他高。"
+            ],
+            [
+              "6",
+              "Kesamaan",
+              "我跟他一样高。"
+            ],
+            [
+              "7",
+              "Kondisi",
+              "如果下雨，我就不去。"
+            ],
+            [
+              "8",
+              "Sebab",
+              "因为下雨，所以没去。"
+            ],
+            [
+              "9",
+              "Waktu",
+              "一到家就睡觉。"
+            ],
+            [
+              "10",
+              "Pasif",
+              "他被老师批评了。"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "这本书，我最喜欢。",
+              "pinyin": "Zhè běn shū, wǒ zuì xǐhuān.",
+              "arti": "Buku ini yang paling saya suka.",
+              "catatan": "Topic-Comment + superlatif."
+            },
+            {
+              "hanzi": "我没有他高，但是我跑得比他快。",
+              "pinyin": "Wǒ méiyǒu tā gāo, dànshì wǒ pǎo de bǐ tā kuài.",
+              "arti": "Saya tidak setinggi dia, tetapi saya berlari lebih cepat darinya.",
+              "catatan": "Dua jenis perbandingan dalam satu kalimat."
+            },
+            {
+              "hanzi": "如果明天下雨，我们就不去。",
+              "pinyin": "Rúguǒ míngtiān xiàyǔ, wǒmen jiù bù qù.",
+              "arti": "Kalau besok hujan, kami tidak pergi.",
+              "catatan": "Kondisi + negasi."
+            },
+            {
+              "hanzi": "他八点才到，但是我们六点就到了。",
+              "pinyin": "Tā bā diǎn cái dào, dànshì wǒmen liù diǎn jiù dào le.",
+              "arti": "Dia baru tiba jam delapan, tetapi kami sudah tiba jam enam.",
+              "catatan": "才 dan 就 memperlihatkan perspektif waktu."
+            },
+            {
+              "hanzi": "虽然很贵，但是质量很好。",
+              "pinyin": "Suīrán hěn guì, dànshì zhìliàng hěn hǎo.",
+              "arti": "Meskipun mahal, kualitasnya sangat baik.",
+              "catatan": "Konsesi + evaluasi."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Peringatan: cheat sheet bukan berarti semua pola dapat dicampur sesuka hati. Jika dua pola digabung, pastikan fungsi masing-masing tetap jelas dan posisi unsur tidak rusak."
+        }
+      ]
+    }
+  ]
+}
