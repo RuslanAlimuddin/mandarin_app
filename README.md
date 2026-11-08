@@ -1,2 +1,0 @@
-# mandarin_app
-kamus
