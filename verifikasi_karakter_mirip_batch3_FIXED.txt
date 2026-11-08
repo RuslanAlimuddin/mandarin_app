@@ -1,1 +1,0 @@
-{"character": "石", "confusable_with": ["右"], "note": "石 dan 右 sama-sama memakai 口 di bawah garis mendatar; bedanya pada panjang 撇 (goresan miring kiri), yang lebih panjang pada 石 dan lebih pendek pada 右."}
