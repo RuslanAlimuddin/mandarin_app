@@ -1,0 +1,4874 @@
+{
+  "pilar": 5,
+  "judul": "KATA KERJA BANTU MODAL (能愿动词 - Néngyuàn Dòngcí)",
+  "ringkasan": "Kata kerja bantu modal atau 能愿动词 (néngyuàn dòngcí) digunakan sebelum kata kerja utama untuk menyatakan kemampuan, izin, kemungkinan, kewajiban, keinginan, kesediaan, atau keberanian. Menguasai modal bukan hanya menghafal arti, tetapi memahami nuansa fisik, situasional, sosial, dan psikologis dari setiap pilihan kata.",
+  "bagian": [
+    {
+      "judul": "1. Definisi dan Fungsi Kata Kerja Modal",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Kata kerja bantu modal atau <span class=\"hz\">能愿动词</span> (<span class=\"py\">néngyuàn dòngcí</span>) adalah kata kerja bantu yang diletakkan sebelum kata kerja utama untuk menunjukkan sikap atau kondisi terhadap suatu tindakan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Aspek",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "Kemampuan",
+              "Mampu atau tidak mampu melakukan sesuatu"
+            ],
+            [
+              "Izin",
+              "Diperbolehkan atau tidak diperbolehkan"
+            ],
+            [
+              "Kemungkinan",
+              "Mungkin atau tidak mungkin terjadi"
+            ],
+            [
+              "Kewajiban",
+              "Harus atau tidak harus dilakukan"
+            ],
+            [
+              "Keinginan",
+              "Mau atau tidak mau melakukan sesuatu"
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Dalam materi ini, kata kerja modal dijelaskan sebagai unsur yang diletakkan sebelum kata kerja utama. Jangan menghafalnya hanya berdasarkan satu terjemahan bahasa Indonesia karena satu modal dapat memiliki beberapa fungsi dan nuansa."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Secara sintaksis, modal biasanya muncul setelah subjek dan sebelum predikat verbal atau frasa verbal. Unsur setelah modal tetap menjadi inti tindakan, sedangkan modal memberi sudut pandang pembicara terhadap tindakan itu. Karena itu, struktur 我能去 berbeda dari 我会去 dan 我应该去 walaupun semuanya sama-sama berbicara tentang pergi. Pada tingkat yang lebih lanjut, modal juga dapat ditemani keterangan waktu, negasi, objek, atau modal lain yang memang wajar digabungkan. Pembelajar Indonesia sebaiknya terlebih dahulu menentukan pertanyaan makna: apakah saya sedang membicarakan kemampuan, izin, niat, kewajiban, kemungkinan, kesediaan, atau keberanian? Setelah itu baru memilih bentuk Mandarin."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pertanyaan makna",
+            "Modal yang biasanya relevan",
+            "Contoh inti",
+            "Nuansa utama"
+          ],
+          "baris": [
+            [
+              "Apakah mampu secara fisik atau situasional?",
+              "能",
+              "我能进去。",
+              "Kondisi memungkinkan"
+            ],
+            [
+              "Apakah memiliki keterampilan yang dipelajari?",
+              "会",
+              "我会开车。",
+              "Keahlian"
+            ],
+            [
+              "Apakah diizinkan?",
+              "可以 / 能",
+              "我可以进来吗？",
+              "Izin"
+            ],
+            [
+              "Apakah berniat atau ingin?",
+              "要 / 想",
+              "我想回家。",
+              "Keinginan atau niat"
+            ],
+            [
+              "Apakah bersedia?",
+              "愿意",
+              "我愿意帮忙。",
+              "Kerelaan"
+            ],
+            [
+              "Apakah harus karena keadaan?",
+              "得",
+              "我得走了。",
+              "Kebutuhan/desakan"
+            ],
+            [
+              "Apakah wajib tanpa pilihan?",
+              "必须",
+              "你必须参加。",
+              "Kewajiban kuat"
+            ],
+            [
+              "Apakah mungkin?",
+              "可能",
+              "他可能来了。",
+              "Dugaan"
+            ],
+            [
+              "Apakah berani?",
+              "敢",
+              "我不敢说。",
+              "Keberanian"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我能参加。",
+              "pinyin": "Wǒ néng cānjiā.",
+              "arti": "Saya bisa ikut.",
+              "catatan": "Kemampuan atau keadaan memungkinkan."
+            },
+            {
+              "hanzi": "我会参加。",
+              "pinyin": "Wǒ huì cānjiā.",
+              "arti": "Saya akan ikut / saya bisa ikut.",
+              "catatan": "会 dapat menekankan prediksi atau niat yang akan terlaksana tergantung konteks."
+            },
+            {
+              "hanzi": "我可以参加吗？",
+              "pinyin": "Wǒ kěyǐ cānjiā ma?",
+              "arti": "Bolehkah saya ikut?",
+              "catatan": "Fokusnya izin."
+            },
+            {
+              "hanzi": "我得参加。",
+              "pinyin": "Wǒ děi cānjiā.",
+              "arti": "Saya harus ikut.",
+              "catatan": "Ada kebutuhan atau keadaan yang menuntut."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan paling mendasar adalah menyamakan modal dengan kata kerja biasa lalu mencari satu terjemahan tetap. Untuk pembelajar Indonesia, kata bisa, boleh, harus, mau, dan akan adalah titik jebakan utama karena satu kata Indonesia dapat dipetakan ke beberapa modal."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Pahami modal sebagai penanda sikap pembicara terhadap tindakan. Jangan menerjemahkan kata Indonesia secara otomatis; tentukan dulu apakah fokusnya kemampuan, izin, niat, kewajiban, kemungkinan, kesediaan, atau keberanian. Modal biasanya mendahului verba utama, dan konteks menentukan nuansa."
+        }
+      ]
+    },
+    {
+      "judul": "2. 能 (néng) — Mampu karena Kondisi Fisik atau Situasi",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">能</span> (<span class=\"py\">néng</span>) terutama menunjukkan kemampuan yang berkaitan dengan kondisi fisik, keadaan, atau situasi yang memungkinkan suatu tindakan dilakukan. Dalam konteks tertentu, <span class=\"hz\">能</span> juga dapat digunakan untuk meminta izin secara netral."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Situasi",
+            "Contoh",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "Kemampuan fisik",
+              "我能游泳。",
+              "Saya bisa berenang."
+            ],
+            [
+              "Situasi memungkinkan",
+              "这里能停车吗？",
+              "Bisa parkir di sini?"
+            ],
+            [
+              "Meminta izin dalam konteks tertentu",
+              "我能用你的电话吗？",
+              "Bolehkah saya memakai teleponmu?"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我能游泳。",
+              "pinyin": "Wǒ néng yóuyǒng.",
+              "arti": "Saya bisa berenang.",
+              "catatan": "Kemampuan yang berkaitan dengan kondisi atau kemampuan fisik."
+            },
+            {
+              "hanzi": "这里能停车吗？",
+              "pinyin": "Zhèlǐ néng tíngchē ma?",
+              "arti": "Bisa parkir di sini?",
+              "catatan": "Menanyakan apakah situasi atau tempat memungkinkan tindakan tersebut."
+            },
+            {
+              "hanzi": "我能用你的电话吗？",
+              "pinyin": "Wǒ néng yòng nǐ de diànhuà ma?",
+              "arti": "Bolehkah saya memakai teleponmu?",
+              "catatan": "Dalam konteks tertentu, 能 dapat digunakan untuk meminta izin secara netral."
+            },
+            {
+              "hanzi": "我不能去。",
+              "pinyin": "Wǒ bù néng qù.",
+              "arti": "Saya tidak bisa pergi.",
+              "catatan": "不能 menunjukkan ketidakmampuan atau keadaan yang membuat tindakan tidak mungkin dilakukan."
+            },
+            {
+              "hanzi": "你不能抽烟。",
+              "pinyin": "Nǐ bù néng chōuyān.",
+              "arti": "Kamu tidak boleh merokok.",
+              "catatan": "Dalam konteks larangan, 不能 dapat berarti tidak boleh."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan langsung menerjemahkan semua penggunaan <span class=\"hz\">能</span> sebagai bisa dalam arti keterampilan. Jika fokusnya adalah keterampilan yang diperoleh melalui belajar atau latihan, biasanya digunakan <span class=\"hz\">会</span>."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "能 paling mudah dipahami jika pembicara menilai apakah tindakan itu dapat dilakukan dalam keadaan tertentu. Keadaan tersebut dapat berupa tenaga fisik, kesehatan, waktu, kapasitas, cuaca, fasilitas, atau kondisi lingkungan. Karena itu 能 sering muncul ketika ada faktor penghalang atau pendukung yang nyata. Seseorang mungkin 会游泳 tetapi今天不能游泳 karena sakit atau kolam ditutup. Jadi 会 dan 能 dapat benar dalam satu orang pada waktu yang sama, tetapi menjawab pertanyaan yang berbeda."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kalimat",
+            "Pertanyaan yang sebenarnya",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "我会游泳。",
+              "Apakah saya memiliki keterampilan berenang?",
+              "Saya bisa berenang karena sudah belajar."
+            ],
+            [
+              "我能游泳。",
+              "Apakah kondisi saya memungkinkan berenang?",
+              "Saya mampu berenang dalam kondisi sekarang."
+            ],
+            [
+              "今天我不能游泳。",
+              "Apakah sekarang ada hambatan?",
+              "Hari ini saya tidak bisa berenang."
+            ],
+            [
+              "这里能停车吗？",
+              "Apakah tempat ini memungkinkan parkir?",
+              "Apakah bisa parkir di sini?"
+            ],
+            [
+              "我能用一下吗？",
+              "Apakah tindakan ini diperbolehkan dalam konteks ini?",
+              "Bolehkah saya memakai sebentar?"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我今天不能跑步。",
+              "pinyin": "Wǒ jīntiān bù néng pǎobù.",
+              "arti": "Hari ini saya tidak bisa berlari.",
+              "catatan": "Kondisi hari ini menjadi penghalang."
+            },
+            {
+              "hanzi": "电梯坏了，我们不能上去。",
+              "pinyin": "Diàntī huài le, wǒmen bù néng shàngqù.",
+              "arti": "Lift rusak, kami tidak bisa naik.",
+              "catatan": "Situasi eksternal membuat tindakan tidak mungkin."
+            },
+            {
+              "hanzi": "你能帮我搬一下吗？",
+              "pinyin": "Nǐ néng bāng wǒ bān yíxià ma?",
+              "arti": "Bisakah kamu membantu mengangkat sebentar?",
+              "catatan": "Menilai apakah lawan bicara mampu dan tersedia untuk membantu."
+            },
+            {
+              "hanzi": "这里不能拍照。",
+              "pinyin": "Zhèlǐ bù néng pāizhào.",
+              "arti": "Di sini tidak boleh mengambil foto.",
+              "catatan": "不能 dapat bermakna larangan bila konteksnya aturan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan memakai 能 hanya karena ada kata bisa. 我能开车 dapat menyoroti kemampuan atau kondisi untuk mengemudi, sedangkan 我会开车 menegaskan bahwa keterampilan mengemudi telah dikuasai."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "3. 会 (huì) — Keahlian yang Dipelajari dan Prediksi",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">会</span> (<span class=\"py\">huì</span>) memiliki dua fungsi utama dalam materi ini: menunjukkan kemampuan atau keahlian yang diperoleh melalui belajar dan latihan, serta menunjukkan prediksi bahwa sesuatu akan terjadi di masa depan. Dalam konteks tertentu, <span class=\"hz\">会</span> juga dapat menunjukkan janji atau kehendak."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Situasi",
+            "Contoh",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "Keahlian yang dipelajari",
+              "我会说中文。",
+              "Saya bisa bahasa Mandarin karena belajar."
+            ],
+            [
+              "Keterampilan yang dipelajari",
+              "她会弹钢琴。",
+              "Dia bisa bermain piano."
+            ],
+            [
+              "Prediksi masa depan",
+              "明天会下雨。",
+              "Besok akan hujan."
+            ],
+            [
+              "Janji atau kehendak",
+              "我会帮你的。",
+              "Saya akan membantumu."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我会说中文。",
+              "pinyin": "Wǒ huì shuō Zhōngwén.",
+              "arti": "Saya bisa bahasa Mandarin.",
+              "catatan": "Kemampuan yang diperoleh karena belajar."
+            },
+            {
+              "hanzi": "她会弹钢琴。",
+              "pinyin": "Tā huì tán gāngqín.",
+              "arti": "Dia bisa bermain piano.",
+              "catatan": "Keterampilan yang dipelajari."
+            },
+            {
+              "hanzi": "明天会下雨。",
+              "pinyin": "Míngtiān huì xiàyǔ.",
+              "arti": "Besok akan hujan.",
+              "catatan": "Prediksi mengenai kejadian masa depan."
+            },
+            {
+              "hanzi": "我会帮你的。",
+              "pinyin": "Wǒ huì bāng nǐ de.",
+              "arti": "Saya akan membantumu.",
+              "catatan": "Menunjukkan janji atau kehendak."
+            },
+            {
+              "hanzi": "我不会做菜。",
+              "pinyin": "Wǒ bù huì zuòcài.",
+              "arti": "Saya tidak bisa memasak.",
+              "catatan": "Dalam konteks kemampuan, menunjukkan bahwa keterampilan tersebut belum dipelajari."
+            },
+            {
+              "hanzi": "他不会来的。",
+              "pinyin": "Tā bù huì lái de.",
+              "arti": "Dia tidak akan datang.",
+              "catatan": "Menunjukkan prediksi negatif mengenai masa depan."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "会 memiliki dua pusat makna yang perlu dipisahkan sejak awal: kemampuan hasil belajar dan prediksi mengenai kejadian. Pada makna keterampilan, objeknya biasanya sesuatu yang dapat dipelajari seperti bahasa, olahraga, musik, memasak, atau mengemudi. Pada makna prediksi, 会 tidak berarti pembicara telah belajar melakukan sesuatu, melainkan pembicara memperkirakan suatu kejadian akan berlangsung. Konteks waktu sangat membantu: 明天会下雨 jelas merupakan prediksi. Namun 会 juga dapat muncul tanpa keterangan waktu, misalnya 他不会来的, yang berdasarkan konteks berarti pembicara yakin dia tidak akan datang. Dengan demikian, bentuk negatif 不会 harus dibaca dari konteks, bukan diterjemahkan otomatis sebagai tidak bisa."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Fungsi 会",
+            "Petunjuk konteks",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "Keahlian",
+              "Objek dapat dipelajari",
+              "她会弹琴。",
+              "Dia bisa bermain piano."
+            ],
+            [
+              "Kemampuan bahasa",
+              "Nama bahasa",
+              "我会说汉语。",
+              "Saya bisa berbicara Mandarin."
+            ],
+            [
+              "Prediksi",
+              "Kejadian masa depan",
+              "明天会很忙。",
+              "Besok akan sangat sibuk."
+            ],
+            [
+              "Janji/komitmen",
+              "Subjek manusia + konteks niat",
+              "我会告诉你。",
+              "Saya akan memberitahumu."
+            ],
+            [
+              "Negasi kemampuan",
+              "Keterampilan belum dikuasai",
+              "我不会游泳。",
+              "Saya tidak bisa berenang."
+            ],
+            [
+              "Negasi prediksi",
+              "Peristiwa yang diperkirakan tidak terjadi",
+              "他不会同意。",
+              "Dia tidak akan setuju."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我会做饭。",
+              "pinyin": "Wǒ huì zuòfàn.",
+              "arti": "Saya bisa memasak.",
+              "catatan": "Keterampilan yang dipelajari."
+            },
+            {
+              "hanzi": "她不会开车。",
+              "pinyin": "Tā bú huì kāichē.",
+              "arti": "Dia tidak bisa mengemudi.",
+              "catatan": "Keterampilan belum dikuasai."
+            },
+            {
+              "hanzi": "晚上会下雨吗？",
+              "pinyin": "Wǎnshang huì xiàyǔ ma?",
+              "arti": "Apakah malam nanti akan hujan?",
+              "catatan": "Prediksi."
+            },
+            {
+              "hanzi": "他一定会来的。",
+              "pinyin": "Tā yídìng huì lái de.",
+              "arti": "Dia pasti akan datang.",
+              "catatan": "Prediksi kuat dengan 一定."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan umum adalah menerjemahkan 会 selalu sebagai bisa. Saat 会 menunjukkan prediksi, terjemahan yang lebih alami adalah akan atau kemungkinan yang diprediksi, bukan kemampuan."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "4. Perbedaan Krusial antara 能 dan 会",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Aspek",
+            "能 (néng)",
+            "会 (huì)"
+          ],
+          "baris": [
+            [
+              "Fokus",
+              "Kemampuan fisik atau situasi",
+              "Keahlian atau pembelajaran"
+            ],
+            [
+              "Pertanyaan utama",
+              "Apakah situasi atau kondisi memungkinkan?",
+              "Apakah kamu pernah belajar atau menguasainya?"
+            ],
+            [
+              "Contoh",
+              "我能搬这个箱子。",
+              "我会开车。"
+            ],
+            [
+              "Makna contoh",
+              "Saya bisa mengangkat kotak ini secara fisik.",
+              "Saya bisa mengemudi karena telah belajar."
+            ],
+            [
+              "Negatif",
+              "不能 = tidak bisa atau tidak boleh",
+              "不会 = tidak bisa karena belum belajar atau tidak akan"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我能搬这个箱子。",
+              "pinyin": "Wǒ néng bān zhège xiāngzi.",
+              "arti": "Saya bisa mengangkat kotak ini.",
+              "catatan": "Fokusnya kemampuan fisik."
+            },
+            {
+              "hanzi": "我会开车。",
+              "pinyin": "Wǒ huì kāichē.",
+              "arti": "Saya bisa mengemudi.",
+              "catatan": "Fokusnya keterampilan yang diperoleh melalui belajar."
+            },
+            {
+              "hanzi": "你会说中文吗？",
+              "pinyin": "Nǐ huì shuō Zhōngwén ma?",
+              "arti": "Apakah kamu bisa bahasa Mandarin?",
+              "catatan": "Pertanyaan mengenai keahlian bahasa."
+            },
+            {
+              "hanzi": "会一点点。",
+              "pinyin": "Huì yìdiǎndiǎn.",
+              "arti": "Bisa sedikit.",
+              "catatan": "Jawaban yang menunjukkan kemampuan yang telah dipelajari."
+            },
+            {
+              "hanzi": "那你能帮我翻译吗？",
+              "pinyin": "Nà nǐ néng bāng wǒ fānyì ma?",
+              "arti": "Kalau begitu, bisakah kamu membantu saya menerjemahkan?",
+              "catatan": "能 menanyakan apakah orang tersebut mampu atau berada dalam kondisi yang memungkinkan untuk membantu."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan umum adalah memakai <span class=\"hz\">会</span> dan <span class=\"hz\">能</span> secara bergantian hanya karena keduanya sering diterjemahkan sebagai bisa. Bedakan keahlian yang dipelajari dengan kemampuan fisik atau kondisi yang memungkinkan."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Perbedaan 能 dan 会 menjadi paling jelas jika tindakan yang sama diuji dengan dua pertanyaan berbeda. 会 menjawab apakah seseorang memiliki pengetahuan atau keterampilan untuk melakukan tindakan, sedangkan 能 menjawab apakah orang itu dapat melakukannya dalam keadaan tertentu. Karena itu kedua modal kadang dapat muncul bersama dalam konteks yang berbeda. Misalnya seseorang 会游泳, tetapi karena sedang sakit ia 今天不能游泳. Sebaliknya, jika kolam memungkinkan dan tubuh sehat, ia bisa mengatakan 我能游泳. Perbedaan ini bukan aturan mutlak bahwa satu modal hanya boleh muncul pada satu jenis kalimat; yang menentukan adalah fokus informasi."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Situasi",
+            "会",
+            "能",
+            "Penjelasan"
+          ],
+          "baris": [
+            [
+              "Belajar mengemudi",
+              "我会开车。",
+              "我能开车。",
+              "会 menekankan keterampilan; 能 dapat menekankan kemampuan/kelayakan dalam kondisi tertentu."
+            ],
+            [
+              "Sedang sakit",
+              "我会游泳。",
+              "我今天不能游泳。",
+              "Keterampilan tetap ada, tetapi kondisi sekarang menghalangi."
+            ],
+            [
+              "Meminta bantuan",
+              "你会帮我吗？",
+              "你能帮我吗？",
+              "会 dapat bernuansa apakah akan; 能 lebih alami untuk kemampuan/ketersediaan membantu."
+            ],
+            [
+              "Fasilitas",
+              "这个机器会打印。",
+              "这个机器能打印。",
+              "能 sangat lazim untuk kemampuan/fungsi yang memungkinkan dilakukan mesin."
+            ],
+            [
+              "Belum belajar",
+              "我不会。",
+              "我不能。",
+              "不会 cenderung tidak menguasai; 不能 cenderung tidak mampu/tidak dapat karena kondisi atau larangan."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我会骑自行车，但是今天不能骑。",
+              "pinyin": "Wǒ huì qí zìxíngchē, dànshì jīntiān bù néng qí.",
+              "arti": "Saya bisa bersepeda, tetapi hari ini tidak bisa.",
+              "catatan": "Keterampilan tetap ada, kondisi berubah."
+            },
+            {
+              "hanzi": "你会做这个吗？",
+              "pinyin": "Nǐ huì zuò zhège ma?",
+              "arti": "Kamu tahu cara melakukan ini?",
+              "catatan": "Fokus pada keterampilan."
+            },
+            {
+              "hanzi": "你能做这个吗？",
+              "pinyin": "Nǐ néng zuò zhège ma?",
+              "arti": "Kamu bisa melakukan ini sekarang?",
+              "catatan": "Fokus pada kemampuan/kondisi."
+            },
+            {
+              "hanzi": "我会说一点中文，但是现在不能说。",
+              "pinyin": "Wǒ huì shuō yìdiǎn Zhōngwén, dànshì xiànzài bù néng shuō.",
+              "arti": "Saya bisa sedikit bahasa Mandarin, tetapi sekarang tidak bisa berbicara.",
+              "catatan": "Konteks dapat mengubah fokus."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan mengajarkan aturan terlalu kaku seperti 会 hanya untuk manusia dan 能 hanya untuk fisik. Mesin, situasi, dan tindakan tertentu dapat menggunakan keduanya dengan fokus yang berbeda. Yang penting adalah alasan pembicara memilih modal tersebut."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "5. 可以 (kěyǐ) — Boleh, Mungkin, atau Bisa dalam Konteks Tertentu",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">可以</span> (<span class=\"py\">kěyǐ</span>) terutama digunakan untuk menyatakan izin atau sesuatu yang diperbolehkan. Dalam materi ini, <span class=\"hz\">可以</span> juga digunakan untuk kemungkinan subjektif dan kemampuan dalam konteks formal tertentu."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Situasi",
+            "Contoh",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "Meminta izin",
+              "我可以进来吗？",
+              "Bolehkah saya masuk?"
+            ],
+            [
+              "Memberi izin",
+              "你可以走了。",
+              "Kamu boleh pergi."
+            ],
+            [
+              "Kemungkinan subjektif",
+              "明天可以不下雨。",
+              "Besok mungkin tidak hujan."
+            ],
+            [
+              "Kemampuan dalam konteks formal",
+              "这个机器可以打印。",
+              "Mesin ini bisa mencetak."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我可以进来吗？",
+              "pinyin": "Wǒ kěyǐ jìnlái ma?",
+              "arti": "Bolehkah saya masuk?",
+              "catatan": "Meminta izin."
+            },
+            {
+              "hanzi": "你可以走了。",
+              "pinyin": "Nǐ kěyǐ zǒu le.",
+              "arti": "Kamu boleh pergi.",
+              "catatan": "Memberikan izin."
+            },
+            {
+              "hanzi": "明天可以不下雨。",
+              "pinyin": "Míngtiān kěyǐ bù xiàyǔ.",
+              "arti": "Besok mungkin tidak hujan.",
+              "catatan": "Kemungkinan subjektif."
+            },
+            {
+              "hanzi": "这个机器可以打印。",
+              "pinyin": "Zhège jīqì kěyǐ dǎyìn.",
+              "arti": "Mesin ini bisa mencetak.",
+              "catatan": "Kemampuan atau fungsi dalam konteks formal."
+            },
+            {
+              "hanzi": "你不可以进去。",
+              "pinyin": "Nǐ bù kěyǐ jìnqù.",
+              "arti": "Kamu tidak boleh masuk.",
+              "catatan": "Bentuk negatif untuk larangan."
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pertanyaan",
+            "Jawaban positif",
+            "Jawaban negatif"
+          ],
+          "baris": [
+            [
+              "可以吗？",
+              "可以。",
+              "不可以 / 不行。"
+            ],
+            [
+              "Makna",
+              "Boleh.",
+              "Tidak boleh / tidak bisa."
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "<span class=\"hz\">不行</span> (<span class=\"py\">bù xíng</span>) dapat digunakan sebagai jawaban negatif terhadap permintaan izin dan dalam materi dijelaskan lebih tegas daripada <span class=\"hz\">不可以</span>."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "可以 berpusat pada kelayakan atau izin. Dalam percakapan, bentuk ini sangat umum untuk meminta dan memberi izin, misalnya 可以进来吗 dan 你可以走了. Dibandingkan 能, 可以 membuat aspek izin lebih eksplisit. Dalam konteks kemampuan fungsi, 可以 juga menyatakan bahwa sesuatu dapat digunakan untuk menghasilkan tindakan tertentu, seperti 这个软件可以编辑照片. Karena itu terjemahan bisa tidak selalu berarti kemampuan pribadi. Untuk kemungkinan, 可以 dapat muncul dalam konstruksi tertentu, tetapi pembelajar sebaiknya tidak menyamakan semua penggunaan 可以 dengan 可能. 可以 lebih dekat dengan kelayakan, kemungkinan yang terbuka, atau izin, sedangkan 可能 lebih langsung menyatakan probabilitas atau dugaan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk",
+            "Fokus",
+            "Contoh",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "可以 + V",
+              "Izin",
+              "你可以进来。",
+              "Kamu boleh masuk."
+            ],
+            [
+              "可以 + V + 吗",
+              "Permintaan izin",
+              "我可以坐这里吗？",
+              "Bolehkah saya duduk di sini?"
+            ],
+            [
+              "不可以 + V",
+              "Larangan",
+              "这里不可以停车。",
+              "Di sini tidak boleh parkir."
+            ],
+            [
+              "Mesin + 可以 + V",
+              "Fungsi/kelayakan",
+              "这台机器可以打印。",
+              "Mesin ini dapat mencetak."
+            ],
+            [
+              "可能 + V",
+              "Probabilitas",
+              "他可能迟到。",
+              "Dia mungkin terlambat."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我可以问一个问题吗？",
+              "pinyin": "Wǒ kěyǐ wèn yí ge wèntí ma?",
+              "arti": "Bolehkah saya bertanya satu pertanyaan?",
+              "catatan": "Permintaan izin yang umum."
+            },
+            {
+              "hanzi": "你可以坐这儿。",
+              "pinyin": "Nǐ kěyǐ zuò zhèr.",
+              "arti": "Kamu boleh duduk di sini.",
+              "catatan": "Pemberian izin."
+            },
+            {
+              "hanzi": "这里不可以拍照。",
+              "pinyin": "Zhèlǐ bù kěyǐ pāizhào.",
+              "arti": "Di sini tidak boleh mengambil foto.",
+              "catatan": "Larangan berbasis aturan."
+            },
+            {
+              "hanzi": "这个手机可以用中文输入。",
+              "pinyin": "Zhège shǒujī kěyǐ yòng Zhōngwén shūrù.",
+              "arti": "Ponsel ini bisa digunakan untuk mengetik dalam bahasa Mandarin.",
+              "catatan": "Fungsi atau kemampuan sistem."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap 可以 selalu lebih sopan daripada 能 dalam semua keadaan. Keduanya dapat dipakai untuk meminta izin; perbedaan utamanya adalah 可以 lebih jelas menyoroti izin/kelayakan, sedangkan 能 sering terasa lebih percakapan dan situasional."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "6. 要 (yào) — Mau, Akan, Niat Kuat, dan Tuntutan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">要</span> (<span class=\"py\">yào</span>) digunakan untuk menyatakan keinginan atau kehendak, rencana atau niat yang kuat, kebutuhan, serta tuntutan. Dalam konteks tertentu, <span class=\"hz\">要</span> dapat diterjemahkan sebagai mau, akan, atau harus."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Situasi",
+            "Contoh",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "Keinginan",
+              "我要喝水。",
+              "Saya mau minum air."
+            ],
+            [
+              "Rencana atau niat kuat",
+              "明年我要去中国。",
+              "Tahun depan saya mau pergi ke China."
+            ],
+            [
+              "Kebutuhan",
+              "你要多休息。",
+              "Kamu harus banyak istirahat."
+            ],
+            [
+              "Tuntutan",
+              "你要听老师的话。",
+              "Kamu harus mendengarkan kata guru."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我要喝水。",
+              "pinyin": "Wǒ yào hē shuǐ.",
+              "arti": "Saya mau minum air.",
+              "catatan": "Keinginan pribadi."
+            },
+            {
+              "hanzi": "明年我要去中国。",
+              "pinyin": "Míngnián wǒ yào qù Zhōngguó.",
+              "arti": "Tahun depan saya mau pergi ke China.",
+              "catatan": "Niat atau rencana yang kuat."
+            },
+            {
+              "hanzi": "你要多休息。",
+              "pinyin": "Nǐ yào duō xiūxi.",
+              "arti": "Kamu harus banyak istirahat.",
+              "catatan": "Kebutuhan atau tuntutan."
+            },
+            {
+              "hanzi": "你要听老师的话。",
+              "pinyin": "Nǐ yào tīng lǎoshī de huà.",
+              "arti": "Kamu harus mendengarkan kata guru.",
+              "catatan": "Tuntutan."
+            },
+            {
+              "hanzi": "我不要吃这个。",
+              "pinyin": "Wǒ bú yào chī zhège.",
+              "arti": "Saya tidak mau makan ini.",
+              "catatan": "不要 menyatakan tidak mau."
+            },
+            {
+              "hanzi": "不要说话！",
+              "pinyin": "Bú yào shuōhuà!",
+              "arti": "Jangan bicara!",
+              "catatan": "不要 juga sering digunakan sebagai larangan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "<span class=\"hz\">不要</span> (<span class=\"py\">bú yào</span>) tidak hanya berarti tidak mau. Dalam bentuk perintah, <span class=\"hz\">不要</span> berarti jangan dan berfungsi sebagai larangan."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "要 sangat bergantung pada konteks karena dapat menyatakan keinginan, niat, kebutuhan, tuntutan, dan dalam konstruksi tertentu kejadian yang segera akan berlangsung. Dibandingkan 想, 要 sering terdengar lebih tegas atau lebih dekat dengan keputusan. 我要咖啡 dapat menjadi pernyataan keinginan langsung, sedangkan 我想喝咖啡 lebih menonjolkan keinginan atau pikiran untuk minum kopi. Ketika subjeknya orang lain, 要 juga dapat menjadi tuntutan: 你要认真听. Dalam larangan, 不要 + verba berarti jangan melakukan tindakan tersebut. Karena itu pembelajar harus membedakan 不要 sebagai tidak mau dari 不要 sebagai jangan berdasarkan struktur dan konteks."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk",
+            "Fokus",
+            "Contoh",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "我要 + benda",
+              "Keinginan/permintaan langsung",
+              "我要一杯茶。",
+              "Langsung."
+            ],
+            [
+              "我想 + V",
+              "Keinginan/pikiran",
+              "我想喝茶。",
+              "Lebih menonjolkan keinginan."
+            ],
+            [
+              "要 + V",
+              "Niat/keputusan",
+              "我明天要走。",
+              "Rencana kuat."
+            ],
+            [
+              "要 + V",
+              "Tuntutan/nasihat",
+              "你要小心。",
+              "Kamu harus/harus ingat untuk hati-hati."
+            ],
+            [
+              "不要 + V",
+              "Larangan",
+              "不要跑！",
+              "Jangan berlari!"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我想学中文。",
+              "pinyin": "Wǒ xiǎng xué Zhōngwén.",
+              "arti": "Saya ingin belajar Mandarin.",
+              "catatan": "Keinginan."
+            },
+            {
+              "hanzi": "我明天要去上海。",
+              "pinyin": "Wǒ míngtiān yào qù Shànghǎi.",
+              "arti": "Besok saya akan pergi ke Shanghai.",
+              "catatan": "Niat atau rencana kuat."
+            },
+            {
+              "hanzi": "你要早点睡。",
+              "pinyin": "Nǐ yào zǎodiǎn shuì.",
+              "arti": "Kamu harus tidur lebih awal.",
+              "catatan": "Nasihat/tuntutan."
+            },
+            {
+              "hanzi": "我不要这个。",
+              "pinyin": "Wǒ bú yào zhège.",
+              "arti": "Saya tidak mau ini.",
+              "catatan": "Penolakan keinginan."
+            },
+            {
+              "hanzi": "不要忘了带钥匙。",
+              "pinyin": "Bú yào wàng le dài yàoshi.",
+              "arti": "Jangan lupa membawa kunci.",
+              "catatan": "Larangan/perintah negatif."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan yang sering terjadi adalah memakai 我要... sebagai padanan sopan untuk setiap permintaan. Kepada pelayan atau orang yang tidak dekat, bentuk seperti 请给我... atau 可以给我...吗 sering lebih sesuai daripada pernyataan tuntutan 我要...."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "7. 应该 (yīnggāi) — Harus, Seharusnya, dan Perkiraan Logis",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">应该</span> (<span class=\"py\">yīnggāi</span>) menyatakan kewajiban moral atau sosial, nasihat atau saran, serta perkiraan logis. Dibandingkan kewajiban yang bersifat mutlak, penggunaannya dalam materi ditempatkan sebagai bentuk yang lebih lembut."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Situasi",
+            "Contoh",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "Kewajiban",
+              "我们应该帮助朋友。",
+              "Kita harus membantu teman."
+            ],
+            [
+              "Nasihat",
+              "你应该多运动。",
+              "Kamu seharusnya lebih banyak berolahraga."
+            ],
+            [
+              "Perkiraan logis",
+              "他应该到了。",
+              "Dia seharusnya sudah sampai."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我们应该帮助朋友。",
+              "pinyin": "Wǒmen yīnggāi bāngzhù péngyou.",
+              "arti": "Kita harus membantu teman.",
+              "catatan": "Kewajiban moral atau sosial."
+            },
+            {
+              "hanzi": "你应该多运动。",
+              "pinyin": "Nǐ yīnggāi duō yùndòng.",
+              "arti": "Kamu seharusnya lebih banyak berolahraga.",
+              "catatan": "Nasihat atau saran."
+            },
+            {
+              "hanzi": "他应该到了。",
+              "pinyin": "Tā yīnggāi dào le.",
+              "arti": "Dia seharusnya sudah sampai.",
+              "catatan": "Perkiraan logis."
+            },
+            {
+              "hanzi": "你不应该这么晚回家。",
+              "pinyin": "Nǐ bù yīnggāi zhème wǎn huí jiā.",
+              "arti": "Kamu tidak seharusnya pulang selarut ini.",
+              "catatan": "Bentuk negatif menyatakan sesuatu yang dianggap tidak seharusnya dilakukan."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "应该 memiliki dua arah makna yang sangat penting: penilaian normatif dan perkiraan logis. Pada arah normatif, pembicara menilai tindakan sebagai sesuatu yang tepat, wajar, atau seharusnya dilakukan. Pada arah prediktif, pembicara menarik kesimpulan dari informasi yang ada, misalnya 他应该到了 berarti menurut perkiraan dia sudah sampai. Karena itu 应该 tidak selalu berarti kewajiban keras. Bentuk 不应该 juga dapat menjadi teguran atau penilaian moral, misalnya 你不应该骗他. Dalam percakapan, 应该 dapat terdengar lebih lunak daripada 必须 karena masih menyisakan ruang bagi pertimbangan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Penggunaan",
+            "Contoh",
+            "Arti",
+            "Sumber penilaian"
+          ],
+          "baris": [
+            [
+              "Nasihat",
+              "你应该休息。",
+              "Kamu seharusnya istirahat.",
+              "Saran pembicara"
+            ],
+            [
+              "Norma sosial",
+              "我们应该守时。",
+              "Kita seharusnya tepat waktu.",
+              "Norma"
+            ],
+            [
+              "Teguran",
+              "你不应该骗人。",
+              "Kamu tidak seharusnya berbohong.",
+              "Penilaian perilaku"
+            ],
+            [
+              "Perkiraan",
+              "他应该到了。",
+              "Dia seharusnya sudah sampai.",
+              "Kesimpulan logis"
+            ],
+            [
+              "Perkiraan masa depan",
+              "他应该会来。",
+              "Dia seharusnya akan datang.",
+              "Prediksi berbasis alasan"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你应该早点告诉我。",
+              "pinyin": "Nǐ yīnggāi zǎodiǎn gàosu wǒ.",
+              "arti": "Kamu seharusnya memberi tahu saya lebih awal.",
+              "catatan": "Penilaian terhadap tindakan."
+            },
+            {
+              "hanzi": "我们应该尊重别人。",
+              "pinyin": "Wǒmen yīnggāi zūnzhòng biérén.",
+              "arti": "Kita seharusnya menghormati orang lain.",
+              "catatan": "Norma sosial."
+            },
+            {
+              "hanzi": "他应该知道。",
+              "pinyin": "Tā yīnggāi zhīdào.",
+              "arti": "Dia seharusnya tahu.",
+              "catatan": "Perkiraan atau dugaan."
+            },
+            {
+              "hanzi": "她现在应该在家。",
+              "pinyin": "Tā xiànzài yīnggāi zài jiā.",
+              "arti": "Sekarang dia seharusnya ada di rumah.",
+              "catatan": "Perkiraan berdasarkan informasi."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menyamakan 应该 dengan 必须. Jika suatu aturan benar-benar tidak memberikan pilihan, 必须 lebih tepat. Jika pembicara memberi nasihat atau membuat perkiraan, 应该 lebih sesuai."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "8. Lima Modal Lanjutan: 得、必须、可能、愿意、敢",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Selain lima modal dasar, materi sumber memperluas kerangka Pilar 5 dengan lima bentuk tambahan yang perlu dikuasai untuk memahami kewajiban, kemungkinan, kesediaan, dan keberanian secara lebih lengkap."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "No.",
+            "Kata",
+            "Pinyin",
+            "Makna utama"
+          ],
+          "baris": [
+            [
+              "6",
+              "得",
+              "děi",
+              "Harus karena kebutuhan atau desakan"
+            ],
+            [
+              "7",
+              "必须",
+              "bìxū",
+              "Harus karena kewajiban mutlak atau paksaan"
+            ],
+            [
+              "8",
+              "可能",
+              "kěnéng",
+              "Mungkin atau memiliki kemungkinan terjadi"
+            ],
+            [
+              "9",
+              "愿意",
+              "yuànyì",
+              "Bersedia atau rela"
+            ],
+            [
+              "10",
+              "敢",
+              "gǎn",
+              "Berani melakukan sesuatu"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Lima modal lanjutan memperluas peta makna yang tidak dapat ditangkap hanya dengan lima bentuk dasar. 得 menunjukkan kebutuhan atau desakan yang terasa berasal dari keadaan; 必须 menunjukkan kewajiban yang kuat; 可能 menyatakan probabilitas; 愿意 menilai kesediaan hati; 敢 menilai keberanian. Kelima bentuk ini sering menjadi titik ketika pembelajar Indonesia mulai menyadari bahwa satu terjemahan Indonesia seperti harus atau mau tidak cukup untuk menentukan pilihan Mandarin. Karena itu setiap bentuk sebaiknya dipelajari bersama pertanyaan diagnostik: apa yang memaksa, seberapa pasti, apakah orang itu rela, dan apakah ia berani."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Modal",
+            "Pertanyaan diagnostik",
+            "Contoh",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "得",
+              "Apa yang membuat tindakan tidak bisa dihindari?",
+              "我得走了。",
+              "Saya harus pergi."
+            ],
+            [
+              "必须",
+              "Apakah ada kewajiban kuat atau aturan?",
+              "你必须签字。",
+              "Kamu harus tanda tangan."
+            ],
+            [
+              "可能",
+              "Seberapa mungkin?",
+              "他可能迟到。",
+              "Dia mungkin terlambat."
+            ],
+            [
+              "愿意",
+              "Apakah subjek rela/besedia?",
+              "我愿意帮你。",
+              "Saya bersedia membantu."
+            ],
+            [
+              "敢",
+              "Apakah subjek berani?",
+              "你敢说吗？",
+              "Kamu berani mengatakannya?"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我得回家了。",
+              "pinyin": "Wǒ děi huí jiā le.",
+              "arti": "Saya harus pulang.",
+              "catatan": "Keadaan atau kebutuhan menuntut."
+            },
+            {
+              "hanzi": "你必须遵守规则。",
+              "pinyin": "Nǐ bìxū zūnshǒu guīzé.",
+              "arti": "Kamu harus mematuhi aturan.",
+              "catatan": "Kewajiban kuat."
+            },
+            {
+              "hanzi": "明天可能下雪。",
+              "pinyin": "Míngtiān kěnéng xiàxuě.",
+              "arti": "Besok mungkin turun salju.",
+              "catatan": "Kemungkinan."
+            },
+            {
+              "hanzi": "我愿意等你。",
+              "pinyin": "Wǒ yuànyì děng nǐ.",
+              "arti": "Saya bersedia menunggumu.",
+              "catatan": "Kesediaan hati."
+            },
+            {
+              "hanzi": "我不敢问。",
+              "pinyin": "Wǒ bù gǎn wèn.",
+              "arti": "Saya tidak berani bertanya.",
+              "catatan": "Hambatan berupa keberanian."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menghafal lima bentuk lanjutan sebagai sinonim lima bentuk dasar. 得 bukan sekadar versi kuat dari 应该, 必须 bukan sekadar versi sopan dari 得, dan 愿意 bukan sekadar terjemahan formal dari 要."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Lima bentuk ini sebaiknya dipahami sebagai perluasan sistem: kebutuhan, kewajiban, probabilitas, kesediaan, dan keberanian. Dengan begitu pembelajar tidak perlu memaksakan semua bentuk ke dalam kategori kemampuan atau keinginan saja."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你得马上走。",
+              "pinyin": "Nǐ děi mǎshàng zǒu.",
+              "arti": "Kamu harus segera pergi.",
+              "catatan": "Desakan."
+            },
+            {
+              "hanzi": "你必须参加考试。",
+              "pinyin": "Nǐ bìxū cānjiā kǎoshì.",
+              "arti": "Kamu harus mengikuti ujian.",
+              "catatan": "Kewajiban."
+            },
+            {
+              "hanzi": "他可能不来。",
+              "pinyin": "Tā kěnéng bù lái.",
+              "arti": "Dia mungkin tidak datang.",
+              "catatan": "Probabilitas negatif."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Periksa konteks sebelum memilih modal. Terjemahan satu kata dalam bahasa Indonesia tidak cukup untuk menentukan bentuk Mandarin yang paling alami."
+        }
+      ]
+    },
+    {
+      "judul": "9. 得 (děi) — Harus karena Kebutuhan atau Desakan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">得</span> (<span class=\"py\">děi</span>) dalam penggunaan modal berarti harus karena adanya kebutuhan atau desakan, termasuk keadaan yang menuntut tindakan dilakukan."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你得马上走。",
+              "pinyin": "Nǐ děi mǎshàng zǒu.",
+              "arti": "Kamu harus segera pergi.",
+              "catatan": "Menunjukkan desakan waktu."
+            },
+            {
+              "hanzi": "得交钱才能进去。",
+              "pinyin": "Děi jiāo qián cái néng jìnqù.",
+              "arti": "Harus membayar baru bisa masuk.",
+              "catatan": "Menunjukkan syarat atau kebutuhan yang harus dipenuhi."
+            },
+            {
+              "hanzi": "你不用来。",
+              "pinyin": "Nǐ bú yòng lái.",
+              "arti": "Kamu tidak perlu datang.",
+              "catatan": "Bentuk negatif yang ditekankan dalam materi adalah 不用, bukan 不得."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Untuk makna tidak perlu dalam konteks yang dibahas di sini, gunakan <span class=\"hz\">不用</span> (<span class=\"py\">bú yòng</span>) atau bentuk yang sesuai konteks, bukan menganggap <span class=\"hz\">不得</span> sebagai pasangan negatif langsung dari <span class=\"hz\">得</span>."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "得 yang dibaca děi berbeda dari 得 sebagai partikel struktural yang dipelajari dalam tata bahasa lain. Dalam fungsi modal, 得 menyatakan kebutuhan yang dirasakan sebagai akibat keadaan, jadwal, syarat, atau situasi yang menuntut. Karena sangat lazim dalam bahasa lisan, bentuk ini penting untuk percakapan sehari-hari. 得 juga sering muncul dalam rangkaian seperti 得先... atau 得赶紧..., yang memberi kesan bahwa tindakan perlu dilakukan terlebih dahulu atau segera. Negasi makna tidak perlu biasanya dinyatakan dengan 不用 atau 不必 sesuai konteks, bukan dengan membuat pasangan mekanis *不得 sebagai lawan 得i. Perlu dibedakan pula 不得 yang dapat muncul dalam bahasa tertulis dengan makna dilarang/tidak boleh dalam konstruksi tertentu."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk",
+            "Fokus",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "得 + V",
+              "Kebutuhan",
+              "我得走了。",
+              "Saya harus pergi."
+            ],
+            [
+              "得赶紧 + V",
+              "Desakan",
+              "你得赶紧走。",
+              "Kamu harus segera pergi."
+            ],
+            [
+              "得先 + V",
+              "Urutan yang wajib",
+              "你得先吃饭。",
+              "Kamu harus makan dulu."
+            ],
+            [
+              "不用 + V",
+              "Tidak perlu",
+              "你不用来。",
+              "Kamu tidak perlu datang."
+            ],
+            [
+              "不必 + V",
+              "Tidak perlu, cenderung lebih formal",
+              "你不必担心。",
+              "Kamu tidak perlu khawatir."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我得先打个电话。",
+              "pinyin": "Wǒ děi xiān dǎ ge diànhuà.",
+              "arti": "Saya harus menelepon dulu.",
+              "catatan": "Kebutuhan sebelum tindakan berikutnya."
+            },
+            {
+              "hanzi": "我们得马上出发。",
+              "pinyin": "Wǒmen děi mǎshàng chūfā.",
+              "arti": "Kita harus segera berangkat.",
+              "catatan": "Desakan waktu."
+            },
+            {
+              "hanzi": "你得小心一点。",
+              "pinyin": "Nǐ děi xiǎoxīn yìdiǎn.",
+              "arti": "Kamu harus lebih hati-hati.",
+              "catatan": "Keadaan menuntut kehati-hatian."
+            },
+            {
+              "hanzi": "今天不用上班。",
+              "pinyin": "Jīntiān bú yòng shàngbān.",
+              "arti": "Hari ini tidak perlu masuk kerja.",
+              "catatan": "Pasangan negatif yang alami untuk makna tidak perlu."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Perhatikan nada: 得 dalam arti modal harus dibaca děi, bukan de. Jangan mencampurnya dengan 得 pada struktur pelengkap derajat atau cara, karena fungsi dan pengucapannya berbeda."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "10. 必须 (bìxū) — Harus secara Mutlak",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">必须</span> (<span class=\"py\">bìxū</span>) menyatakan kewajiban yang kuat, aturan, paksaan, atau keadaan yang tidak memberikan pilihan."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你必须戴口罩。",
+              "pinyin": "Nǐ bìxū dài kǒuzhào.",
+              "arti": "Kamu harus memakai masker.",
+              "catatan": "Kewajiban berdasarkan aturan."
+            },
+            {
+              "hanzi": "学生必须参加考试。",
+              "pinyin": "Xuésheng bìxū cānjiā kǎoshì.",
+              "arti": "Murid harus mengikuti ujian.",
+              "catatan": "Kewajiban yang bersifat mutlak."
+            },
+            {
+              "hanzi": "你不必道歉。",
+              "pinyin": "Nǐ bú bì dàoqiàn.",
+              "arti": "Kamu tidak perlu meminta maaf.",
+              "catatan": "不必 digunakan untuk menyatakan tidak perlu."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Bentuk negatif yang diberikan dalam materi adalah <span class=\"hz\">不必</span> (<span class=\"py\">bú bì</span>) atau <span class=\"hz\">不需要</span> (<span class=\"py\">bù xūyào</span>) untuk makna tidak perlu."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "必须 menandai kewajiban yang sangat kuat. Sumber kewajiban dapat berupa peraturan, instruksi, syarat administratif, kebutuhan keselamatan, atau keputusan yang dianggap tidak dapat ditawar. Karena itu 必须 cocok dalam bahasa formal maupun percakapan ketika pembicara memang ingin menegaskan tidak ada pilihan. Namun tidak setiap kalimat Indonesia yang memakai harus membutuhkan 必须. Untuk nasihat gunakan 应该, sedangkan untuk kebutuhan yang timbul dari keadaan gunakan 得. Dalam teks resmi, 必须 juga sering muncul dalam pola syarat seperti 必须...才能..., yang menunjukkan bahwa syarat pertama wajib dipenuhi agar hasil kedua dapat terjadi."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Konteks",
+            "Contoh",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "Aturan",
+              "必须遵守规定。",
+              "Harus mematuhi peraturan."
+            ],
+            [
+              "Syarat",
+              "必须先付款才能取货。",
+              "Harus membayar dulu baru bisa mengambil barang."
+            ],
+            [
+              "Keselamatan",
+              "你必须系安全带。",
+              "Kamu harus memakai sabuk pengaman."
+            ],
+            [
+              "Kewajiban akademik",
+              "学生必须参加考试。",
+              "Siswa wajib mengikuti ujian."
+            ],
+            [
+              "Negasi",
+              "你不必解释。",
+              "Kamu tidak perlu menjelaskan."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "所有员工必须准时到达。",
+              "pinyin": "Suǒyǒu yuángōng bìxū zhǔnshí dàodá.",
+              "arti": "Semua karyawan wajib datang tepat waktu.",
+              "catatan": "Kewajiban aturan."
+            },
+            {
+              "hanzi": "你必须先登记。",
+              "pinyin": "Nǐ bìxū xiān dēngjì.",
+              "arti": "Kamu harus mendaftar terlebih dahulu.",
+              "catatan": "Syarat prosedural."
+            },
+            {
+              "hanzi": "必须认真检查。",
+              "pinyin": "Bìxū rènzhēn jiǎnchá.",
+              "arti": "Harus memeriksa dengan teliti.",
+              "catatan": "Instruksi kuat."
+            },
+            {
+              "hanzi": "这件事你不必担心。",
+              "pinyin": "Zhè jiàn shì nǐ bú bì dānxīn.",
+              "arti": "Kamu tidak perlu mengkhawatirkan hal ini.",
+              "catatan": "不必 menyatakan tidak ada kewajiban."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menggunakan 必须 untuk semua nasihat karena terdengar terlalu memaksa. 你必须多休息 terdengar seperti instruksi kuat, sedangkan 你应该多休息 lebih cocok jika maksudnya saran."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "11. 可能 (kěnéng) — Mungkin",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">可能</span> (<span class=\"py\">kěnéng</span>) menyatakan kemungkinan, probabilitas, atau dugaan bahwa sesuatu terjadi atau akan terjadi."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "他可能不来了。",
+              "pinyin": "Tā kěnéng bù lái le.",
+              "arti": "Dia mungkin tidak datang.",
+              "catatan": "Menyatakan dugaan atau kemungkinan."
+            },
+            {
+              "hanzi": "这可能是个误会。",
+              "pinyin": "Zhè kěnéng shì ge wùhuì.",
+              "arti": "Ini mungkin sebuah kesalahpahaman.",
+              "catatan": "Menyatakan kemungkinan."
+            },
+            {
+              "hanzi": "那不可能！",
+              "pinyin": "Nà bù kěnéng!",
+              "arti": "Itu tidak mungkin!",
+              "catatan": "不可能 menyatakan kemustahilan."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "可能 terutama menyatakan probabilitas atau dugaan. Bentuk ini berbeda dari 可以 karena 可以 lebih berkaitan dengan kelayakan atau izin, sedangkan 可能 secara langsung menyatakan bahwa pembicara tidak yakin seratus persen. 可能 dapat dipakai untuk masa kini, masa depan, maupun keadaan yang diduga berdasarkan bukti. Ia juga dapat diikuti 不 untuk membentuk kemungkinan negatif: 可能不来 berarti mungkin tidak datang. Bentuk 不可能 menyatakan kemustahilan, bukan sekadar ketidakpastian. Dalam percakapan, 也许 juga dapat menyatakan mungkin, tetapi 可能 sangat berguna karena dapat langsung ditempatkan sebelum predikat verbal atau nominal dalam struktur yang lazim."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk",
+            "Tingkat kepastian",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "可能 + V",
+              "Ada kemungkinan",
+              "他可能来。",
+              "Dia mungkin datang."
+            ],
+            [
+              "可能不 + V",
+              "Kemungkinan negatif",
+              "他可能不来。",
+              "Dia mungkin tidak datang."
+            ],
+            [
+              "不可能 + V",
+              "Mustahil",
+              "他不可能来。",
+              "Dia tidak mungkin datang."
+            ],
+            [
+              "可能是 + N",
+              "Dugaan identitas/keadaan",
+              "这可能是误会。",
+              "Ini mungkin kesalahpahaman."
+            ],
+            [
+              "可能会 + V",
+              "Kemungkinan kejadian masa depan",
+              "明天可能会下雨。",
+              "Besok mungkin akan hujan."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "他可能已经走了。",
+              "pinyin": "Tā kěnéng yǐjīng zǒu le.",
+              "arti": "Dia mungkin sudah pergi.",
+              "catatan": "Dugaan tentang keadaan yang telah terjadi."
+            },
+            {
+              "hanzi": "这可能是真的。",
+              "pinyin": "Zhè kěnéng shì zhēn de.",
+              "arti": "Ini mungkin benar.",
+              "catatan": "Probabilitas."
+            },
+            {
+              "hanzi": "明天可能会很冷。",
+              "pinyin": "Míngtiān kěnéng huì hěn lěng.",
+              "arti": "Besok mungkin akan sangat dingin.",
+              "catatan": "Kemungkinan masa depan."
+            },
+            {
+              "hanzi": "这不可能是真的。",
+              "pinyin": "Zhè bù kěnéng shì zhēn de.",
+              "arti": "Ini tidak mungkin benar.",
+              "catatan": "Penolakan terhadap kemungkinan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menerjemahkan 可能 sebagai pasti mungkin atau pasti akan. Intinya justru ketidakpastian. Jika pembicara ingin menyatakan prediksi dengan keyakinan lebih tinggi, konteks atau unsur seperti 一定 dapat mengubah tingkat kepastian."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "12. 愿意 (yuànyì) — Bersedia atau Rela",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">愿意</span> (<span class=\"py\">yuànyì</span>) menunjukkan kesediaan hati atau kerelaan untuk melakukan sesuatu. Dalam materi, bentuk ini digambarkan lebih formal dan lebih emosional dibandingkan <span class=\"hz\">要</span>."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你愿意嫁给我吗？",
+              "pinyin": "Nǐ yuànyì jià gěi wǒ ma?",
+              "arti": "Maukah kamu menikah denganku?",
+              "catatan": "Menanyakan kesediaan atau kerelaan hati."
+            },
+            {
+              "hanzi": "我愿意帮助你。",
+              "pinyin": "Wǒ yuànyì bāngzhù nǐ.",
+              "arti": "Saya bersedia membantumu.",
+              "catatan": "Menunjukkan kesediaan."
+            },
+            {
+              "hanzi": "我不愿意。",
+              "pinyin": "Wǒ bú yuànyì.",
+              "arti": "Saya tidak bersedia.",
+              "catatan": "Bentuk negatifnya adalah 不愿意."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "愿意 menilai kemauan dari sisi kesediaan atau kerelaan hati. Karena itu 你愿意帮我吗？ berbeda dari 你要帮我吗？: yang pertama bertanya apakah kamu bersedia, sedangkan yang kedua lebih dekat dengan apakah kamu mau/akan membantu. 愿意 juga sering digunakan dalam konteks hubungan, komitmen, pengorbanan, atau keputusan yang memerlukan persetujuan batin. Bentuk 不愿意 menyatakan penolakan terhadap kesediaan, bukan ketidakmampuan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Pertanyaan utama",
+            "Contoh",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "想",
+              "Apakah ingin?",
+              "我想帮你。",
+              "Keinginan/pikiran pribadi."
+            ],
+            [
+              "要",
+              "Apakah berniat/memutuskan?",
+              "我要帮你。",
+              "Niat lebih tegas."
+            ],
+            [
+              "愿意",
+              "Apakah rela/besedia?",
+              "我愿意帮你。",
+              "Kesediaan hati."
+            ],
+            [
+              "不愿意",
+              "Apakah menolak kesediaan?",
+              "我不愿意。",
+              "Tidak bersedia."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你愿意跟我一起去吗？",
+              "pinyin": "Nǐ yuànyì gēn wǒ yìqǐ qù ma?",
+              "arti": "Apakah kamu bersedia pergi bersamaku?",
+              "catatan": "Menanyakan kerelaan."
+            },
+            {
+              "hanzi": "她不愿意改变。",
+              "pinyin": "Tā bù yuànyì gǎibiàn.",
+              "arti": "Dia tidak bersedia berubah.",
+              "catatan": "Penolakan kesediaan."
+            },
+            {
+              "hanzi": "我愿意承担责任。",
+              "pinyin": "Wǒ yuànyì chéngdān zérèn.",
+              "arti": "Saya bersedia menanggung tanggung jawab.",
+              "catatan": "Komitmen."
+            },
+            {
+              "hanzi": "如果你愿意，我可以帮你。",
+              "pinyin": "Rúguǒ nǐ yuànyì, wǒ kěyǐ bāng nǐ.",
+              "arti": "Jika kamu bersedia, saya bisa membantu.",
+              "catatan": "愿意 menandai persetujuan/kerelaan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap 愿意 selalu berarti formal. Bentuk ini juga lazim dalam percakapan ketika yang dibicarakan benar-benar kesediaan hati. Perbedaan utamanya adalah fokus makna, bukan sekadar tingkat resmi."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "13. 敢 (gǎn) — Berani",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">敢</span> (<span class=\"py\">gǎn</span>) menyatakan keberanian atau kesediaan untuk melakukan sesuatu yang mungkin dianggap berisiko, sulit, atau menakutkan."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你敢一个人去吗？",
+              "pinyin": "Nǐ gǎn yí ge rén qù ma?",
+              "arti": "Kamu berani pergi sendiri?",
+              "catatan": "Menanyakan keberanian melakukan tindakan."
+            },
+            {
+              "hanzi": "我不敢说。",
+              "pinyin": "Wǒ bù gǎn shuō.",
+              "arti": "Saya tidak berani bilang.",
+              "catatan": "不敢 menyatakan tidak berani."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "敢 berfokus pada keberanian atau keberanian mengambil risiko sosial, fisik, atau psikologis. Bentuk ini sering dipakai untuk bertanya apakah seseorang berani melakukan sesuatu, menyatakan bahwa seseorang tidak berani, atau menantang seseorang. 敢 juga dapat membawa nuansa menantang dalam percakapan, terutama dalam pola 你敢不敢...？. Bentuk 不敢 sangat umum untuk menyatakan rasa takut, segan, atau tidak berani mengambil risiko. Jadi tidak berani tidak selalu berarti takut secara fisik; bisa juga takut pada konsekuensi sosial atau otoritas."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Contoh",
+            "Arti",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "敢 + V",
+              "我敢说。",
+              "Saya berani bilang.",
+              "Keberanian."
+            ],
+            [
+              "不敢 + V",
+              "我不敢问。",
+              "Saya tidak berani bertanya.",
+              "Takut/segan mengambil risiko."
+            ],
+            [
+              "敢不敢 + V",
+              "你敢不敢试？",
+              "Kamu berani mencoba tidak?",
+              "Tantangan."
+            ],
+            [
+              "谁敢 + V",
+              "谁敢反对？",
+              "Siapa yang berani menentang?",
+              "Tantangan/retorika."
+            ],
+            [
+              "不敢说",
+              "我不敢说。",
+              "Saya tidak berani bilang.",
+              "Penahanan diri atau ketidakpastian."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你敢一个人走夜路吗？",
+              "pinyin": "Nǐ gǎn yí ge rén zǒu yèlù ma?",
+              "arti": "Kamu berani berjalan sendirian pada malam hari?",
+              "catatan": "Keberanian menghadapi risiko."
+            },
+            {
+              "hanzi": "我不敢告诉他。",
+              "pinyin": "Wǒ bù gǎn gàosu tā.",
+              "arti": "Saya tidak berani memberitahunya.",
+              "catatan": "Takut konsekuensi."
+            },
+            {
+              "hanzi": "你敢不敢再试一次？",
+              "pinyin": "Nǐ gǎn bu gǎn zài shì yí cì?",
+              "arti": "Kamu berani mencoba sekali lagi?",
+              "catatan": "Tantangan."
+            },
+            {
+              "hanzi": "我可不敢。",
+              "pinyin": "Wǒ kě bù gǎn.",
+              "arti": "Saya jelas tidak berani.",
+              "catatan": "Penekanan informal."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menyamakan 敢 dengan 能. 能 bertanya apakah tindakan dapat dilakukan; 敢 bertanya apakah subjek berani melakukannya. Seseorang bisa 能做 tetapi 不敢做."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "14. Tiga Tingkat Nuansa Harus: 应该、得、必须",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Tiga bentuk ini sama-sama dapat diterjemahkan sebagai harus, tetapi tingkat kekuatan dan sumber dorongannya berbeda. Materi menempatkan <span class=\"hz\">应该</span> sebagai yang paling lembut, <span class=\"hz\">得</span> sebagai kebutuhan atau desakan tingkat sedang, dan <span class=\"hz\">必须</span> sebagai kewajiban yang paling kuat."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Makna",
+            "Tingkat kekuatan",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "应该",
+              "Seharusnya atau harus sebagai nasihat",
+              "Paling lembut",
+              "你应该多休息。"
+            ],
+            [
+              "得",
+              "Harus karena kebutuhan atau desakan",
+              "Sedang",
+              "我得去医院。"
+            ],
+            [
+              "必须",
+              "Harus secara mutlak",
+              "Paling kuat",
+              "你必须遵守法律。"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Urutan kekuatan yang diberikan dalam materi adalah <span class=\"hz\">应该</span> < <span class=\"hz\">得</span> < <span class=\"hz\">必须</span>."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Perbandingan 应该、得、必须 paling aman jika dipahami sebagai tiga sumber dorongan, bukan sekadar tiga angka kekuatan. 应该 berasal dari penilaian, nasihat, atau norma; 得 sering muncul karena keadaan membuat tindakan diperlukan; 必须 menandai kewajiban yang sangat kuat atau aturan. Dalam percakapan nyata, batasnya tidak selalu berupa skala lurus karena konteks dapat membuat 应该 terdengar tegas atau 得 terdengar sangat mendesak. Jadi urutan pedagogis berguna sebagai peta, bukan hukum bahwa setiap kalimat selalu mengikuti skala tersebut."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kalimat",
+            "Sumber dorongan",
+            "Kesan",
+            "Terjemahan"
+          ],
+          "baris": [
+            [
+              "你应该休息。",
+              "Nasihat",
+              "Lembut",
+              "Kamu seharusnya istirahat."
+            ],
+            [
+              "我得走了。",
+              "Keadaan/kebutuhan",
+              "Praktis dan mendesak",
+              "Saya harus pergi."
+            ],
+            [
+              "你必须走。",
+              "Kewajiban kuat",
+              "Tegas",
+              "Kamu harus pergi."
+            ],
+            [
+              "你不应该去。",
+              "Penilaian",
+              "Teguran/saran",
+              "Kamu seharusnya tidak pergi."
+            ],
+            [
+              "你不必去。",
+              "Tidak ada kewajiban",
+              "Menenangkan",
+              "Kamu tidak perlu pergi."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你应该早点睡。",
+              "pinyin": "Nǐ yīnggāi zǎodiǎn shuì.",
+              "arti": "Kamu seharusnya tidur lebih awal.",
+              "catatan": "Nasihat."
+            },
+            {
+              "hanzi": "我得去医院。",
+              "pinyin": "Wǒ děi qù yīyuàn.",
+              "arti": "Saya harus pergi ke rumah sakit.",
+              "catatan": "Kebutuhan karena keadaan."
+            },
+            {
+              "hanzi": "员工必须遵守规定。",
+              "pinyin": "Yuángōng bìxū zūnshǒu guīdìng.",
+              "arti": "Karyawan wajib mematuhi peraturan.",
+              "catatan": "Aturan."
+            },
+            {
+              "hanzi": "你不必这么紧张。",
+              "pinyin": "Nǐ bú bì zhème jǐnzhāng.",
+              "arti": "Kamu tidak perlu setegang ini.",
+              "catatan": "Tidak ada kewajiban."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Hindari mengajarkan 应该 = harus ringan, 得 = harus sedang, 必须 = harus berat secara mekanis. Fokus yang lebih stabil adalah sumber kewajiban dan maksud pembicara."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "15. Tiga Jenis Biasa untuk Makna Bisa atau Boleh",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Makna",
+            "Konteks",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "会",
+              "Bisa karena keahlian",
+              "Belajar atau latihan",
+              "我会画画。"
+            ],
+            [
+              "能",
+              "Bisa karena kemampuan fisik atau situasi",
+              "Tubuh atau lingkungan",
+              "我能跑10公里。"
+            ],
+            [
+              "可以",
+              "Boleh atau bisa karena izin",
+              "Sosial atau aturan",
+              "我可以进来吗？"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Ketika menemukan terjemahan Indonesia bisa, tentukan terlebih dahulu apakah yang dimaksud adalah keterampilan yang telah dipelajari, kemampuan fisik atau situasional, atau izin. Pembedaan inilah yang menentukan pilihan antara <span class=\"hz\">会</span>, <span class=\"hz\">能</span>, dan <span class=\"hz\">可以</span>."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Tiga bentuk 会、能、可以 memang sering diterjemahkan dengan bisa, tetapi kata Indonesia bisa menyembunyikan tiga pertanyaan berbeda: apakah seseorang memiliki keterampilan, apakah kondisi memungkinkan, dan apakah tindakan diizinkan. Dalam satu situasi ketiganya bahkan dapat muncul berturut-turut. Misalnya seseorang 会开车, mobil dalam kondisi baik sehingga 能开, tetapi ia tidak boleh mengemudi karena tidak memiliki izin sehingga 不可以开. Contoh seperti ini membantu membangun sistem mental yang lebih kuat daripada menghafal terjemahan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pertanyaan diagnostik",
+            "Pilihan",
+            "Contoh",
+            "Jawaban yang dicari"
+          ],
+          "baris": [
+            [
+              "Apakah tahu caranya?",
+              "会",
+              "你会开车吗？",
+              "会 / 不会"
+            ],
+            [
+              "Apakah bisa sekarang?",
+              "能",
+              "你现在能开车吗？",
+              "能 / 不能"
+            ],
+            [
+              "Apakah diizinkan?",
+              "可以",
+              "我可以开车吗？",
+              "可以 / 不可以"
+            ],
+            [
+              "Apakah mungkin secara situasi?",
+              "能 / 可能",
+              "今天能走吗？",
+              "能 / 不能"
+            ],
+            [
+              "Apakah fungsi alat memungkinkan?",
+              "能 / 可以",
+              "这个软件能导出吗？",
+              "能 / 可以"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我会游泳，但是今天不能游。",
+              "pinyin": "Wǒ huì yóuyǒng, dànshì jīntiān bù néng yóu.",
+              "arti": "Saya bisa berenang, tetapi hari ini tidak bisa berenang.",
+              "catatan": "Keterampilan versus kondisi."
+            },
+            {
+              "hanzi": "我会开车，但这里不可以停车。",
+              "pinyin": "Wǒ huì kāichē, dàn zhèlǐ bù kěyǐ tíngchē.",
+              "arti": "Saya bisa mengemudi, tetapi di sini tidak boleh parkir.",
+              "catatan": "Keahlian versus izin."
+            },
+            {
+              "hanzi": "这个机器能工作吗？",
+              "pinyin": "Zhège jīqì néng gōngzuò ma?",
+              "arti": "Mesin ini bisa bekerja?",
+              "catatan": "Kemampuan/kondisi alat."
+            },
+            {
+              "hanzi": "我可以进去吗？",
+              "pinyin": "Wǒ kěyǐ jìnqù ma?",
+              "arti": "Bolehkah saya masuk?",
+              "catatan": "Izin."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan Indonesia yang sangat umum adalah memakai 会 untuk semua kemampuan. Jika yang dimaksud adalah boleh, jangan otomatis memakai 会. Jika yang dimaksud adalah kondisi fisik atau situasional, jangan otomatis memakai 会."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "16. Tiga Bentuk untuk Makna Mau atau Ingin",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Makna",
+            "Konteks"
+          ],
+          "baris": [
+            [
+              "要",
+              "Mau atau memiliki niat kuat",
+              "Sehari-hari dan relatif informal"
+            ],
+            [
+              "愿意",
+              "Bersedia atau rela",
+              "Lebih formal atau emosional"
+            ],
+            [
+              "想",
+              "Mau atau ingin",
+              "Keinginan; juga dapat berarti berpikir"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">想</span> (<span class=\"py\">xiǎng</span>) dibahas sebagai bentuk yang sering digunakan seperti modal untuk menyatakan keinginan, meskipun materi menempatkannya sebagai bentuk semi-modal atau bentuk dengan batas kategori yang lebih kabur."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "要、想、愿意 sama-sama berhubungan dengan kemauan, tetapi masing-masing menyoroti bagian yang berbeda. 想 paling dekat dengan keinginan atau pikiran untuk melakukan sesuatu. 要 lebih tegas sebagai niat, keputusan, kebutuhan, atau tuntutan. 愿意 menyoroti kesediaan dan kerelaan. Karena itu pertanyaan 你想去吗？ menanyakan apakah kamu ingin pergi, 你要去吗？ dapat menanyakan apakah kamu akan/berniat pergi, dan 你愿意去吗？ menanyakan apakah kamu bersedia pergi. Ketiganya dapat diterjemahkan dengan mau dalam bahasa Indonesia, tetapi sikap pembicara berbeda."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Fokus",
+            "Pertanyaan alami",
+            "Jawaban"
+          ],
+          "baris": [
+            [
+              "想",
+              "Keinginan",
+              "你想去吗？",
+              "我想去。"
+            ],
+            [
+              "要",
+              "Niat/keputusan",
+              "你要去吗？",
+              "我要去。"
+            ],
+            [
+              "愿意",
+              "Kesediaan",
+              "你愿意去吗？",
+              "我愿意去。"
+            ],
+            [
+              "不要",
+              "Tidak mau/larangan",
+              "你不要去。",
+              "我不去 / 不要去."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我想喝咖啡。",
+              "pinyin": "Wǒ xiǎng hē kāfēi.",
+              "arti": "Saya ingin minum kopi.",
+              "catatan": "Keinginan."
+            },
+            {
+              "hanzi": "我明天要去北京。",
+              "pinyin": "Wǒ míngtiān yào qù Běijīng.",
+              "arti": "Besok saya akan pergi ke Beijing.",
+              "catatan": "Niat kuat."
+            },
+            {
+              "hanzi": "我愿意等你。",
+              "pinyin": "Wǒ yuànyì děng nǐ.",
+              "arti": "Saya bersedia menunggumu.",
+              "catatan": "Kerelaan."
+            },
+            {
+              "hanzi": "你想不想一起吃饭？",
+              "pinyin": "Nǐ xiǎng bu xiǎng yìqǐ chīfàn?",
+              "arti": "Mau makan bersama tidak?",
+              "catatan": "Pertanyaan tentang keinginan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan mengajarkan 要 = informal dan 愿意 = formal sebagai satu-satunya pembeda. Fokus yang lebih akurat adalah jenis kemauan: keinginan, niat, atau kesediaan."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "17. Perbedaan 要 sebagai Niat dan 会 sebagai Prediksi",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kalimat",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "明天我要去北京。",
+              "Niat kuat: Saya mau pergi ke Beijing besok."
+            ],
+            [
+              "明天会下雨。",
+              "Prediksi netral: Besok akan hujan."
+            ],
+            [
+              "明天能下雨吗？",
+              "Kemungkinan atau apakah kondisi memungkinkan hujan besok?"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">要</span> lebih menonjolkan niat atau rencana dari pihak yang melakukan tindakan, sedangkan <span class=\"hz\">会</span> dapat digunakan untuk prediksi yang lebih netral mengenai kejadian masa depan."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "要 dan 会 dapat sama-sama menunjuk masa depan, tetapi sudut pandangnya berbeda. 要 biasanya berhubungan dengan niat, rencana, atau keputusan subjek. 会 lebih mudah digunakan untuk prediksi pembicara mengenai kejadian yang akan berlangsung, termasuk kejadian alam atau perilaku yang diperkirakan. Karena itu 明天我要去北京 berisi rencana pembicara, sedangkan 明天会下雨 tidak berarti hujan memiliki niat; itu adalah prediksi. Dalam konteks tertentu 会 juga dapat menjadi janji atau keputusan manusia, sehingga konteks harus diperhatikan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kalimat",
+            "Fokus",
+            "Terjemahan paling alami"
+          ],
+          "baris": [
+            [
+              "明天我要去北京。",
+              "Niat pembicara",
+              "Besok saya akan pergi ke Beijing."
+            ],
+            [
+              "明天会下雨。",
+              "Prediksi",
+              "Besok akan hujan."
+            ],
+            [
+              "他会来的。",
+              "Prediksi/jaminan",
+              "Dia akan datang."
+            ],
+            [
+              "他要来了。",
+              "Peristiwa yang segera/niat",
+              "Dia sebentar lagi datang."
+            ],
+            [
+              "我会帮你。",
+              "Janji/komitmen",
+              "Saya akan membantumu."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我明天要上班。",
+              "pinyin": "Wǒ míngtiān yào shàngbān.",
+              "arti": "Besok saya akan masuk kerja.",
+              "catatan": "Rencana pribadi."
+            },
+            {
+              "hanzi": "明天会很热。",
+              "pinyin": "Míngtiān huì hěn rè.",
+              "arti": "Besok akan sangat panas.",
+              "catatan": "Prediksi."
+            },
+            {
+              "hanzi": "别担心，他会来的。",
+              "pinyin": "Bié dānxīn, tā huì lái de.",
+              "arti": "Jangan khawatir, dia akan datang.",
+              "catatan": "Jaminan/prediksi."
+            },
+            {
+              "hanzi": "快要下雨了。",
+              "pinyin": "Kuài yào xiàyǔ le.",
+              "arti": "Sebentar lagi akan hujan.",
+              "catatan": "要 dalam pola masa depan dekat; ini bukan sekadar niat pribadi."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap semua 要 + verba berarti rencana jauh. Konstruksi seperti 快要...了 atau 要...了 dapat menandai perubahan yang segera terjadi, sehingga konteks waktu sangat penting."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "18. Pola Pertanyaan dengan Kata Kerja Modal",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Contoh",
+            "Terjemahan"
+          ],
+          "baris": [
+            [
+              "Modal + 不 + Modal + V?",
+              "你能不能帮我？",
+              "Bisakah kamu membantu saya?"
+            ],
+            [
+              "Modal + V + 吗？",
+              "你可以帮我吗？",
+              "Bisakah atau bolehkah kamu membantu saya?"
+            ],
+            [
+              "Modal + V + 吗？",
+              "你会开车吗？",
+              "Apakah kamu bisa mengemudi?"
+            ],
+            [
+              "Verb + 不 + Verb?",
+              "去不去？",
+              "Pergi tidak?"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Pola pengulangan seperti <span class=\"hz\">能不能</span> atau <span class=\"hz\">会不会</span> digunakan untuk membentuk pertanyaan pilihan ya atau tidak. Tanpa modal, pola seperti <span class=\"hz\">去不去</span> dapat digunakan untuk menanyakan apakah suatu tindakan dilakukan atau tidak."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Pertanyaan modal mempunyai beberapa pola yang produktif. Bentuk A-not-A seperti 能不能, 会不会, 要不要 menggabungkan alternatif positif dan negatif dalam satu pertanyaan. Bentuk 吗 lebih sederhana dan sering terasa netral. Dalam percakapan, modal yang sama dapat diulang untuk memperoleh jawaban singkat, tetapi jawaban lengkap juga mungkin digunakan untuk menjelaskan alasan. Untuk pembelajar Indonesia, pola ini penting karena tidak selalu perlu menerjemahkan setiap unsur secara kata demi kata; yang penting adalah mengenali bahwa A不A membentuk pertanyaan ya/tidak."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Contoh",
+            "Fungsi"
+          ],
+          "baris": [
+            [
+              "Modal + 不 + Modal + V?",
+              "你能不能帮我？",
+              "Meminta keputusan/kemampuan."
+            ],
+            [
+              "Modal + V + 吗？",
+              "你可以帮我吗？",
+              "Pertanyaan ya/tidak."
+            ],
+            [
+              "Modal + V + 不 + V?",
+              "你要不要去？",
+              "Menanyakan kemauan."
+            ],
+            [
+              "会不会 + V?",
+              "你会不会开车？",
+              "Menanyakan kemampuan atau prediksi tergantung konteks."
+            ],
+            [
+              "不 + modal + V?",
+              "你不应该去吗？",
+              "Pertanyaan dengan asumsi/penegasan; konteks menentukan maksud."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你能不能再说一遍？",
+              "pinyin": "Nǐ néng bu néng zài shuō yí biàn?",
+              "arti": "Bisakah kamu mengatakannya sekali lagi?",
+              "catatan": "A-not-A."
+            },
+            {
+              "hanzi": "你会不会做饭？",
+              "pinyin": "Nǐ huì bu huì zuòfàn?",
+              "arti": "Apakah kamu bisa memasak?",
+              "catatan": "Kemampuan yang dipelajari."
+            },
+            {
+              "hanzi": "你要不要喝茶？",
+              "pinyin": "Nǐ yào bu yào hē chá?",
+              "arti": "Mau minum teh tidak?",
+              "catatan": "Pilihan keinginan."
+            },
+            {
+              "hanzi": "我可以坐这里吗？",
+              "pinyin": "Wǒ kěyǐ zuò zhèlǐ ma?",
+              "arti": "Bolehkah saya duduk di sini?",
+              "catatan": "Permintaan izin."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menyalin pola Indonesia secara harfiah. Dalam Mandarin, pola A-not-A harus mempertahankan bentuk modal yang sama dan biasanya tidak memakai 不 sebelum bentuk negatif kedua secara acak."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "19. Pola Jawaban Singkat",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pertanyaan",
+            "Jawaban positif",
+            "Jawaban negatif"
+          ],
+          "baris": [
+            [
+              "你能不能...?",
+              "能。",
+              "不能。"
+            ],
+            [
+              "你会不会...?",
+              "会。",
+              "不会。"
+            ],
+            [
+              "可以...吗？",
+              "可以。",
+              "不可以 / 不行。"
+            ],
+            [
+              "要不要...？",
+              "要。",
+              "不要。"
+            ],
+            [
+              "应该...吗？",
+              "应该。",
+              "不应该。"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Jawaban singkat biasanya cukup menggunakan modal yang sama dengan pertanyaan. Hal ini membantu pembelajar memahami bahwa modal membawa inti sikap pembicara terhadap tindakan yang dibicarakan."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Jawaban singkat dengan modal membantu percakapan menjadi cepat dan alami. Jika pertanyaan menanyakan 能不能, jawaban 能 atau 不能 langsung mengonfirmasi kemampuan/kemungkinan. Jika pertanyaan meminta izin dengan 可以吗, 可以 atau 不可以 menjawab izin. Namun 不行 juga sangat umum untuk menolak, dan alasan dapat ditambahkan setelahnya. Jawaban singkat bukan berarti maknanya dangkal: modal yang dipilih tetap menunjukkan sikap pembicara."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pertanyaan",
+            "Jawaban singkat",
+            "Jawaban dengan alasan"
+          ],
+          "baris": [
+            [
+              "你能不能来？",
+              "能。/ 不能。",
+              "不能，我今天有事。"
+            ],
+            [
+              "你会不会开车？",
+              "会。/ 不会。",
+              "不会，我还没学。"
+            ],
+            [
+              "可以吗？",
+              "可以。/ 不行。",
+              "不行，今天不方便。"
+            ],
+            [
+              "要不要喝咖啡？",
+              "要。/ 不要。",
+              "不要，我刚喝过。"
+            ],
+            [
+              "你应该去吗？",
+              "应该。/ 不应该。",
+              "不应该，现在太晚了。"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "A：你能来吗？ B：能。",
+              "pinyin": "A: Nǐ néng lái ma? B: Néng.",
+              "arti": "A: Bisa datang? B: Bisa.",
+              "catatan": "Jawaban singkat mengulang modal."
+            },
+            {
+              "hanzi": "A：你会说中文吗？ B：会一点。",
+              "pinyin": "A: Nǐ huì shuō Zhōngwén ma? B: Huì yìdiǎn.",
+              "arti": "A: Bisa Mandarin? B: Sedikit.",
+              "catatan": "Jawaban dapat diberi tingkat."
+            },
+            {
+              "hanzi": "A：可以进去吗？ B：不行。",
+              "pinyin": "A: Kěyǐ jìnqù ma? B: Bù xíng.",
+              "arti": "A: Boleh masuk? B: Tidak boleh.",
+              "catatan": "不行 dapat menjadi penolakan tegas."
+            },
+            {
+              "hanzi": "A：要不要一起去？ B：好啊。",
+              "pinyin": "A: Yào bu yào yìqǐ qù? B: Hǎo a.",
+              "arti": "A: Mau pergi bersama? B: Boleh/oke.",
+              "catatan": "Respons percakapan dapat memakai ungkapan selain mengulang modal."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap jawaban harus selalu satu kata yang identik dengan modal pertanyaan. Dalam percakapan nyata, 好, 行, 不行, 可以, 当然, 可能, 也许, dan alasan lengkap dapat menjadi respons sesuai konteks."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "20. Kombinasi Kata Kerja Modal",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Materi menjelaskan bahwa dalam bahasa Mandarin dua modal dapat digabungkan untuk menyatakan lebih dari satu lapisan makna, misalnya izin sekaligus kewajiban atau kemungkinan sekaligus prediksi."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你可以应该多运动。",
+              "pinyin": "Nǐ kěyǐ yīnggāi duō yùndòng.",
+              "arti": "Kamu boleh dan seharusnya lebih banyak berolahraga.",
+              "catatan": "Materi sumber memberikan contoh kombinasi 可以 dan 应该."
+            },
+            {
+              "hanzi": "可能会",
+              "pinyin": "kěnéng huì",
+              "arti": "mungkin akan",
+              "catatan": "Menggabungkan kemungkinan dengan prediksi."
+            },
+            {
+              "hanzi": "应该能",
+              "pinyin": "yīnggāi néng",
+              "arti": "seharusnya bisa",
+              "catatan": "Menggabungkan perkiraan atau kewajiban dengan kemampuan."
+            },
+            {
+              "hanzi": "得可以",
+              "pinyin": "děi kěyǐ",
+              "arti": "harus boleh",
+              "catatan": "Materi menyebut kombinasi ini sebagai bentuk yang jarang digunakan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kombinasi modal tidak boleh dipahami sebagai aturan bahwa semua modal dapat disusun bebas. Kombinasi harus diperiksa berdasarkan fungsi, urutan, dan kewajaran konteks."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Kombinasi modal perlu dipahami sebagai penumpukan lapisan makna, bukan daftar pasangan yang bebas dirangkai. Contoh yang sangat produktif adalah 可能会 yang menggabungkan kemungkinan dengan prediksi, dan 应该能 yang menggabungkan perkiraan atau kewajaran dengan kemampuan. Dalam bahasa Mandarin modern, susunan seperti ini biasanya membentuk rantai yang tetap berpusat pada predikat utama. Tidak semua kombinasi terdengar alami; bentuk seperti 得可以 yang disebut materi sebagai jarang tidak boleh dijadikan pola produktif bagi pemula. Untuk penggunaan nyata, lebih aman menghafal kombinasi yang sering muncul sebagai satu unit."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kombinasi",
+            "Lapisan makna",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "可能会 + V",
+              "Kemungkinan + prediksi",
+              "他可能会来。",
+              "Dia mungkin akan datang."
+            ],
+            [
+              "应该能 + V",
+              "Perkiraan + kemampuan",
+              "他应该能完成。",
+              "Dia seharusnya bisa menyelesaikan."
+            ],
+            [
+              "可能要 + V",
+              "Kemungkinan + niat/kejadian",
+              "他可能要走了。",
+              "Dia mungkin akan pergi/segera pergi."
+            ],
+            [
+              "可以 + V",
+              "Izin/kelayakan",
+              "你可以进去。",
+              "Kamu boleh masuk."
+            ],
+            [
+              "得 + V",
+              "Kebutuhan",
+              "我得先走。",
+              "Saya harus pergi dulu."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "明天可能会下雨。",
+              "pinyin": "Míngtiān kěnéng huì xiàyǔ.",
+              "arti": "Besok mungkin akan hujan.",
+              "catatan": "Kemungkinan + prediksi."
+            },
+            {
+              "hanzi": "他应该能解决这个问题。",
+              "pinyin": "Tā yīnggāi néng jiějué zhège wèntí.",
+              "arti": "Dia seharusnya bisa menyelesaikan masalah ini.",
+              "catatan": "Perkiraan + kemampuan."
+            },
+            {
+              "hanzi": "她可能要迟到了。",
+              "pinyin": "Tā kěnéng yào chídào le.",
+              "arti": "Dia mungkin akan terlambat.",
+              "catatan": "Kemungkinan + perkembangan yang diperkirakan."
+            },
+            {
+              "hanzi": "你得先完成作业才能玩。",
+              "pinyin": "Nǐ děi xiān wánchéng zuòyè cái néng wán.",
+              "arti": "Kamu harus menyelesaikan PR dulu baru bisa bermain.",
+              "catatan": "Kebutuhan + pola syarat."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Contoh lama 你可以应该多运动 bersifat tidak lazim dan sebaiknya tidak dijadikan pola produktif. Untuk makna yang dimaksud, lebih alami memisahkan fungsi menjadi 你可以多运动 atau 你应该多运动 sesuai apakah maksudnya izin atau nasihat."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "21. Semi-Modal dan Batas Kategori",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Materi sumber memperluas pembahasan dengan beberapa bentuk yang memiliki fungsi mirip modal tetapi batas kategorinya lebih kabur. Bentuk tersebut tidak semuanya merupakan modal murni."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Kategori semi-modal perlu diperlakukan hati-hati karena batas antara kata kerja biasa dan modal tidak selalu sama dalam semua analisis tata bahasa. 想 dapat berfungsi sangat mirip modal ketika langsung diikuti verba, tetapi juga mempunyai fungsi leksikal lain seperti berpikir atau merindukan tergantung konteks. 觉得 lebih jelas merupakan verba seperti merasa atau berpendapat, bukan modal murni, tetapi dapat memengaruhi sikap pembicara terhadap proposisi. Karena itu tujuan bagian ini bukan menambah daftar modal tanpa batas, melainkan melatih pembelajar mengenali fungsi yang mirip modal tanpa menghapus perbedaan kategori."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk",
+            "Status praktis",
+            "Contoh",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "想",
+              "Sering berfungsi seperti modal",
+              "我想去。",
+              "Saya ingin pergi."
+            ],
+            [
+              "觉得",
+              "Verba sikap/pikiran",
+              "我觉得他会来。",
+              "Saya rasa dia akan datang."
+            ],
+            [
+              "有",
+              "Verba memiliki; bukan modal inti",
+              "我有时间去。",
+              "Saya punya waktu untuk pergi."
+            ],
+            [
+              "需要",
+              "Verba kebutuhan; dapat memodalkan tindakan",
+              "我需要休息。",
+              "Saya perlu istirahat."
+            ],
+            [
+              "希望",
+              "Verba harapan",
+              "我希望你能来。",
+              "Saya berharap kamu bisa datang."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我想学中文。",
+              "pinyin": "Wǒ xiǎng xué Zhōngwén.",
+              "arti": "Saya ingin belajar Mandarin.",
+              "catatan": "想 berfungsi seperti modal keinginan."
+            },
+            {
+              "hanzi": "我觉得他应该知道。",
+              "pinyin": "Wǒ juéde tā yīnggāi zhīdào.",
+              "arti": "Saya rasa dia seharusnya tahu.",
+              "catatan": "觉得 adalah verba sikap yang mengambil klausa."
+            },
+            {
+              "hanzi": "我需要早点走。",
+              "pinyin": "Wǒ xūyào zǎodiǎn zǒu.",
+              "arti": "Saya perlu pergi lebih awal.",
+              "catatan": "Kebutuhan dinyatakan secara leksikal."
+            },
+            {
+              "hanzi": "我希望你能理解。",
+              "pinyin": "Wǒ xīwàng nǐ néng lǐjiě.",
+              "arti": "Saya berharap kamu bisa memahami.",
+              "catatan": "希望 diikuti klausa dengan modal."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan memperluas daftar modal secara sembarangan hanya karena sebuah verba dapat berada sebelum verba lain. Kategori modal memiliki ciri sintaksis dan semantis tertentu; untuk pembelajaran, lebih baik mempertahankan sepuluh bentuk utama dari sumber lalu mempelajari semi-modal sebagai kelompok tambahan."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "22. Negasi Modal: 不 dan Bentuk Negatif yang Lazim",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Sebagian besar modal yang dibahas membentuk negasi dengan <span class=\"hz\">不</span> (<span class=\"py\">bù</span>), tetapi bentuk negatif yang digunakan tidak selalu berupa pasangan sederhana dari kata positifnya. Makna negatif juga bergantung pada modal yang digunakan."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap semua modal memiliki satu pasangan negatif yang dapat dibuat secara mekanis. Contohnya, untuk makna tidak perlu, materi menggunakan <span class=\"hz\">不用</span>, <span class=\"hz\">不必</span>, atau <span class=\"hz\">不需要</span> sesuai modal dan konteks."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Negasi modal harus dipelajari bersama maknanya. 不 + modal sering menolak kemampuan, izin, niat, kewajiban, atau keberanian sesuai modal yang dipakai. Namun beberapa makna negatif memiliki bentuk yang lebih alami dan tidak merupakan lawan mekanis: 不用 dan 不必 berarti tidak perlu, 不愿意 berarti tidak bersedia, 不敢 berarti tidak berani, 不可能 berarti tidak mungkin. Jangan menyusun bentuk negatif hanya dengan menambahkan 不 pada apa pun yang terlihat sebagai modal. Selain itu, 不要 memiliki dua fungsi penting, yaitu tidak mau dan jangan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Positif",
+            "Negatif",
+            "Makna negatif",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "能",
+              "不能",
+              "Tidak bisa/tidak boleh",
+              "我不能去。"
+            ],
+            [
+              "会",
+              "不会",
+              "Tidak bisa/tidak akan",
+              "我不会游泳。"
+            ],
+            [
+              "可以",
+              "不可以",
+              "Tidak boleh",
+              "不可以进去。"
+            ],
+            [
+              "要",
+              "不要",
+              "Tidak mau/jangan",
+              "我不要。/不要说话。"
+            ],
+            [
+              "应该",
+              "不应该",
+              "Tidak seharusnya",
+              "你不应该这样。"
+            ],
+            [
+              "得",
+              "不用 / 不必",
+              "Tidak perlu",
+              "你不用来。"
+            ],
+            [
+              "必须",
+              "不必 / 不需要",
+              "Tidak perlu",
+              "你不必担心。"
+            ],
+            [
+              "可能",
+              "不可能",
+              "Tidak mungkin",
+              "这不可能。"
+            ],
+            [
+              "愿意",
+              "不愿意",
+              "Tidak bersedia",
+              "我不愿意。"
+            ],
+            [
+              "敢",
+              "不敢",
+              "Tidak berani",
+              "我不敢说。"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我不能喝酒。",
+              "pinyin": "Wǒ bù néng hējiǔ.",
+              "arti": "Saya tidak bisa/tidak boleh minum alkohol.",
+              "catatan": "Makna bergantung konteks fisik atau larangan."
+            },
+            {
+              "hanzi": "我不会开车。",
+              "pinyin": "Wǒ bú huì kāichē.",
+              "arti": "Saya tidak bisa mengemudi.",
+              "catatan": "Keterampilan belum dikuasai."
+            },
+            {
+              "hanzi": "你不可以进去。",
+              "pinyin": "Nǐ bù kěyǐ jìnqù.",
+              "arti": "Kamu tidak boleh masuk.",
+              "catatan": "Larangan."
+            },
+            {
+              "hanzi": "你不用担心。",
+              "pinyin": "Nǐ bú yòng dānxīn.",
+              "arti": "Kamu tidak perlu khawatir.",
+              "catatan": "Tidak ada kebutuhan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan membuat pola seperti *不得 sebagai pasangan negatif langsung 得i untuk makna tidak harus. 不得 memang dapat muncul dalam bahasa Mandarin dengan fungsi lain, terutama larangan atau bentuk tertulis tertentu."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "23. Perbedaan 不 dan 没 dengan Modal",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Materi memberikan perbandingan sederhana antara penggunaan <span class=\"hz\">不</span> (<span class=\"py\">bù</span>) dan <span class=\"hz\">没</span> (<span class=\"py\">méi</span>) dalam konstruksi yang berkaitan dengan modal. Modal seperti <span class=\"hz\">能</span>, <span class=\"hz\">会</span>, dan <span class=\"hz\">要</span> pada contoh yang diberikan menggunakan <span class=\"hz\">不</span> untuk negasi."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan memaksakan pola <span class=\"hz\">没</span> pada semua modal hanya karena <span class=\"hz\">没</span> sering digunakan untuk negasi dalam bahasa Mandarin. Pilihan negasi bergantung pada jenis kata dan makna yang hendak disampaikan."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Perbedaan 不 dan 没 menjadi lebih jelas jika dibedakan antara penolakan terhadap keadaan, kebiasaan, kemampuan, niat, atau kejadian yang sudah berlangsung. Modal seperti 能、会、要 pada kerangka sumber terutama dinegasikan dengan 不: 不能、不会、不要. 没 biasanya digunakan untuk menyangkal kejadian atau pengalaman yang telah terjadi, misalnya 没去、没来、没学过. Karena itu jangan memaksa 没会 atau 没能 sebagai pasangan biasa untuk semua konteks. Bentuk 没能 memang dapat muncul dalam Mandarin nyata ketika menyatakan tidak berhasil atau tidak sempat melakukan sesuatu pada kejadian tertentu, tetapi fungsinya bukan sekadar pasangan sederhana dari 不能."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk",
+            "Fokus",
+            "Contoh",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "不能",
+              "Kemampuan/izin sekarang",
+              "我不能去。",
+              "Saya tidak bisa/tidak boleh pergi."
+            ],
+            [
+              "不会",
+              "Keahlian/prediksi",
+              "我不会做。",
+              "Saya tidak bisa membuatnya / tidak akan melakukannya."
+            ],
+            [
+              "不要",
+              "Keinginan/larangan",
+              "不要走。",
+              "Jangan pergi."
+            ],
+            [
+              "没去",
+              "Kejadian belum terjadi",
+              "我没去。",
+              "Saya tidak pergi."
+            ],
+            [
+              "没能去",
+              "Tidak berhasil/sempat",
+              "我没能去。",
+              "Saya tidak berhasil/sempat pergi."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我不会说粤语。",
+              "pinyin": "Wǒ bú huì shuō Yuèyǔ.",
+              "arti": "Saya tidak bisa berbahasa Kanton.",
+              "catatan": "Keterampilan belum dipelajari."
+            },
+            {
+              "hanzi": "我没学过粤语。",
+              "pinyin": "Wǒ méi xué guo Yuèyǔ.",
+              "arti": "Saya belum pernah belajar bahasa Kanton.",
+              "catatan": "Menolak pengalaman yang sudah terjadi."
+            },
+            {
+              "hanzi": "昨天我没能去。",
+              "pinyin": "Zuótiān wǒ méi néng qù.",
+              "arti": "Kemarin saya tidak berhasil pergi.",
+              "catatan": "Peristiwa spesifik di masa lalu."
+            },
+            {
+              "hanzi": "我不能去。",
+              "pinyin": "Wǒ bù néng qù.",
+              "arti": "Saya tidak bisa pergi.",
+              "catatan": "Ketidakmampuan atau larangan sesuai konteks."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan mengajarkan 没能 sebagai bentuk yang salah. Bentuk itu dapat digunakan, tetapi maknanya biasanya terkait kegagalan atau ketidakmampuan dalam suatu kesempatan tertentu di masa lalu. Ini berbeda dari 不能 yang menyatakan ketidakmampuan/ketidakbolehan secara umum atau situasional."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "24. Negatif Ganda untuk Penekanan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Dua bentuk negatif dapat muncul dalam satu kalimat untuk menghasilkan makna penekanan. Dalam contoh materi, struktur seperti ini menghasilkan kesimpulan yang sangat kuat atau mendekati kepastian."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Negatif ganda menghasilkan struktur yang secara logika dapat tampak rumit, tetapi dalam bahasa Mandarin sering dipakai untuk menegaskan kesimpulan. 不可能不知道 secara harfiah berarti tidak mungkin tidak tahu, sehingga kesimpulan pragmatisnya adalah pembicara sangat yakin bahwa subjek tahu. 不会不去 dapat berarti tidak mungkin/tidak akan sampai pada keadaan tidak pergi, sehingga dalam konteks yang tepat pembicara menyiratkan ia pasti akan pergi. Struktur seperti ini sebaiknya dipahami dari keseluruhan proposisi, bukan diterjemahkan kata per kata. Konteks, intonasi, dan pengetahuan bersama tetap menentukan kekuatan kesimpulan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Struktur",
+            "Logika sederhana",
+            "Makna pragmatis"
+          ],
+          "baris": [
+            [
+              "不可能不知道",
+              "Tidak mungkin + tidak tahu",
+              "Pasti tahu / hampir pasti tahu."
+            ],
+            [
+              "不会不去",
+              "Tidak akan + tidak pergi",
+              "Kemungkinan besar pasti pergi."
+            ],
+            [
+              "不能不做",
+              "Tidak bisa + tidak melakukan",
+              "Harus melakukan."
+            ],
+            [
+              "不得不走",
+              "Tidak boleh tidak pergi",
+              "Terpaksa harus pergi."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "他不可能不知道这件事。",
+              "pinyin": "Tā bù kěnéng bù zhīdào zhè jiàn shì.",
+              "arti": "Tidak mungkin dia tidak tahu hal ini.",
+              "catatan": "Kesimpulan kuat bahwa dia tahu."
+            },
+            {
+              "hanzi": "你不能不去。",
+              "pinyin": "Nǐ bù néng bú qù.",
+              "arti": "Kamu tidak bisa tidak pergi.",
+              "catatan": "Pergi menjadi sesuatu yang wajib."
+            },
+            {
+              "hanzi": "我不得不走。",
+              "pinyin": "Wǒ bùdébù zǒu.",
+              "arti": "Saya terpaksa harus pergi.",
+              "catatan": "Kewajiban karena keadaan; bentuk leksikal yang sangat umum."
+            },
+            {
+              "hanzi": "他不会不知道。",
+              "pinyin": "Tā bú huì bù zhīdào.",
+              "arti": "Dia tidak mungkin tidak tahu.",
+              "catatan": "Prediksi/penilaian kuat dari pembicara."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Negatif ganda bukan berarti dua kali negasi selalu menghasilkan makna positif secara mekanis. Ungkapan seperti 不得不 adalah konstruksi yang sudah mapan, sedangkan bentuk lain sangat bergantung konteks."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "25. Nuansa Sosial dan Tingkat Kesopanan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Pemilihan modal tidak hanya menyampaikan makna gramatikal, tetapi juga dapat memengaruhi kesan sosial. Materi sumber menekankan bahwa pilihan modal dapat menunjukkan tingkat kehalusan, kepercayaan diri, dan kesesuaian dengan situasi."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Terjemahan literal seperti saya mau tidak selalu merupakan pilihan paling alami atau sopan dalam situasi sosial. Perhatikan hubungan dengan lawan bicara dan tujuan kalimat, terutama ketika meminta sesuatu."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Nuansa sosial modal paling terlihat ketika pembicara meminta izin, menolak, memberi instruksi, atau menyampaikan keinginan. 可以 dan 能 dapat sama-sama dipakai untuk meminta izin, tetapi 可以 lebih eksplisit mengenai izin. 要 dapat terdengar sangat langsung jika dipakai sebagai tuntutan kepada orang lain atau permintaan barang tanpa pelunak. Namun jangan menganggap satu modal selalu sopan atau kasar; kesopanan juga dipengaruhi 请, 麻烦, 不好意思, 您, 语气词 seperti 吧, hubungan sosial, dan situasi. Tujuan pembelajar adalah memilih modal yang benar secara makna lalu menyesuaikan tingkat kelembutan dengan perangkat pragmatik lain."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Situasi",
+            "Lebih langsung",
+            "Lebih halus",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "Minta izin",
+              "我能进去吗？",
+              "我可以进去吗？",
+              "Keduanya dapat alami."
+            ],
+            [
+              "Minta bantuan",
+              "你能帮我吗？",
+              "可以麻烦你帮我吗？",
+              "Pelunak menambah kesopanan."
+            ],
+            [
+              "Meminta barang",
+              "我要一杯水。",
+              "请给我一杯水。",
+              "Bentuk langsung versus permintaan sopan."
+            ],
+            [
+              "Menolak",
+              "不可以。",
+              "不好意思，恐怕不行。",
+              "Tambahkan permintaan maaf/pelunak."
+            ],
+            [
+              "Memberi saran",
+              "你必须休息。",
+              "你应该多休息。",
+              "Bukan hanya soal sopan, tetapi kekuatan makna."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "不好意思，我可以问一下吗？",
+              "pinyin": "Bù hǎoyìsi, wǒ kěyǐ wèn yíxià ma?",
+              "arti": "Maaf, boleh saya bertanya sebentar?",
+              "catatan": "Permintaan izin dengan pelunak."
+            },
+            {
+              "hanzi": "你能不能帮我一下？",
+              "pinyin": "Nǐ néng bu néng bāng wǒ yíxià?",
+              "arti": "Bisakah kamu membantu saya sebentar?",
+              "catatan": "Nada percakapan yang umum."
+            },
+            {
+              "hanzi": "请给我一杯水。",
+              "pinyin": "Qǐng gěi wǒ yì bēi shuǐ.",
+              "arti": "Tolong beri saya segelas air.",
+              "catatan": "Permintaan langsung tetapi sopan karena 请."
+            },
+            {
+              "hanzi": "恐怕不可以。",
+              "pinyin": "Kǒngpà bù kěyǐ.",
+              "arti": "Saya khawatir tidak bisa/tidak diperbolehkan.",
+              "catatan": "Penolakan yang diperlunak."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan membuat aturan absolut seperti 可以 selalu paling sopan dan 要 selalu kasar. Dalam Mandarin nyata, keseluruhan kalimat, intonasi, hubungan sosial, dan pelunak menentukan kesan."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "26. Cara Menolak dengan Lebih Halus",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam percakapan, penolakan langsung dapat dibuat lebih halus dengan menambahkan ungkapan kesopanan atau menyampaikan penolakan secara tidak terlalu keras."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Penolakan yang halus penting karena modal negatif dapat terdengar sangat final jika berdiri sendiri. 不行 dapat tegas, sedangkan 不好意思，不行 menambahkan permintaan maaf. 恐怕不可以 menandai bahwa pembicara menyampaikan penolakan dengan hati-hati. Penolakan juga dapat disertai alasan, alternatif, atau ucapan terima kasih. Strategi ini lebih alami daripada hanya mencari satu kata Mandarin yang berarti tidak. Untuk pembelajar Indonesia, pola paling berguna adalah alasan singkat setelah penolakan: 不好意思，今天不方便, atau 谢谢你的邀请，但是我不去了."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Strategi",
+            "Contoh",
+            "Fungsi"
+          ],
+          "baris": [
+            [
+              "Permintaan maaf + penolakan",
+              "不好意思，不行。",
+              "Mengurangi kekasaran."
+            ],
+            [
+              "Pelunak + penolakan",
+              "恐怕不可以。",
+              "Membuat penolakan lebih tidak langsung."
+            ],
+            [
+              "Terima kasih + penolakan",
+              "谢谢，但是我不去了。",
+              "Menolak ajakan tanpa merendahkan lawan bicara."
+            ],
+            [
+              "Penolakan + alasan",
+              "不行，我今天有事。",
+              "Memberi dasar penolakan."
+            ],
+            [
+              "Alternatif",
+              "今天不行，明天可以。",
+              "Menawarkan jalan keluar."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "不好意思，我今天不能去。",
+              "pinyin": "Bù hǎoyìsi, wǒ jīntiān bù néng qù.",
+              "arti": "Maaf, hari ini saya tidak bisa pergi.",
+              "catatan": "Penolakan dengan alasan situasional."
+            },
+            {
+              "hanzi": "谢谢你的邀请，但是我不去了。",
+              "pinyin": "Xièxie nǐ de yāoqǐng, dànshì wǒ bú qù le.",
+              "arti": "Terima kasih atas undangannya, tetapi saya tidak jadi pergi.",
+              "catatan": "Menolak ajakan secara halus."
+            },
+            {
+              "hanzi": "恐怕不可以这样做。",
+              "pinyin": "Kǒngpà bù kěyǐ zhèyàng zuò.",
+              "arti": "Saya khawatir tidak boleh melakukan seperti ini.",
+              "catatan": "Penolakan yang diperlunak."
+            },
+            {
+              "hanzi": "今天不行，明天可以。",
+              "pinyin": "Jīntiān bù xíng, míngtiān kěyǐ.",
+              "arti": "Hari ini tidak bisa, besok bisa.",
+              "catatan": "Memberi alternatif."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan pembelajar adalah menganggap penolakan sopan cukup dengan mengganti 不可以 menjadi 不能. Modal yang benar harus tetap mengikuti makna; kesopanan dapat ditambahkan melalui ungkapan pragmatik."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "27. Perbandingan Lengkap Sepuluh Modal Utama",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Modal",
+            "Pertanyaan kunci",
+            "Negatif umum",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "能",
+              "Apakah kondisi memungkinkan?",
+              "不能",
+              "我不能去。"
+            ],
+            [
+              "会",
+              "Apakah keterampilan dikuasai / apa prediksi?",
+              "不会",
+              "我不会开车。"
+            ],
+            [
+              "可以",
+              "Apakah diizinkan?",
+              "不可以",
+              "我可以进去吗？"
+            ],
+            [
+              "要",
+              "Apa niat/keinginan/tuntutannya?",
+              "不要",
+              "我要走了。"
+            ],
+            [
+              "应该",
+              "Apa yang seharusnya menurut penilaian?",
+              "不应该",
+              "你应该休息。"
+            ],
+            [
+              "得",
+              "Apa yang harus dilakukan karena keadaan?",
+              "不用",
+              "我得走了。"
+            ],
+            [
+              "必须",
+              "Apa kewajiban mutlaknya?",
+              "不必",
+              "你必须签字。"
+            ],
+            [
+              "可能",
+              "Apa yang mungkin terjadi?",
+              "不可能",
+              "他可能迟到。"
+            ],
+            [
+              "愿意",
+              "Apakah rela/besedia?",
+              "不愿意",
+              "我愿意帮忙。"
+            ],
+            [
+              "敢",
+              "Apakah berani?",
+              "不敢",
+              "我不敢说。"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Sepuluh bentuk utama membentuk peta yang lebih berguna bila dikelompokkan berdasarkan pertanyaan semantis. Kelompok kemampuan terdiri dari 会 dan 能; izin terutama 可以 dan dalam konteks tertentu 能; kemauan terdiri dari 要、想, dan kesediaan 愿意; kewajiban/nasihat terdiri dari 应该、得、必须; kemungkinan dengan 可能; keberanian dengan 敢. Pengelompokan ini mencegah pembelajar menghafal daftar datar. Saat berbicara, mulailah dari maksud lalu pilih kelompok, kemudian modal."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Modal",
+            "Pertanyaan kunci",
+            "Negatif umum",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "能",
+              "Apakah kondisi memungkinkan?",
+              "不能",
+              "我不能去。"
+            ],
+            [
+              "会",
+              "Apakah keterampilan dikuasai / apa prediksi?",
+              "不会",
+              "我不会开车。"
+            ],
+            [
+              "可以",
+              "Apakah diizinkan?",
+              "不可以",
+              "我可以进去吗？"
+            ],
+            [
+              "要",
+              "Apa niat/keinginan/tuntutannya?",
+              "不要",
+              "我要走了。"
+            ],
+            [
+              "应该",
+              "Apa yang seharusnya menurut penilaian?",
+              "不应该",
+              "你应该休息。"
+            ],
+            [
+              "得",
+              "Apa yang harus dilakukan karena keadaan?",
+              "不用",
+              "我得走了。"
+            ],
+            [
+              "必须",
+              "Apa kewajiban mutlaknya?",
+              "不必",
+              "你必须签字。"
+            ],
+            [
+              "可能",
+              "Apa yang mungkin terjadi?",
+              "不可能",
+              "他可能迟到。"
+            ],
+            [
+              "愿意",
+              "Apakah rela/besedia?",
+              "不愿意",
+              "我愿意帮忙。"
+            ],
+            [
+              "敢",
+              "Apakah berani?",
+              "不敢",
+              "我不敢说。"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我会，但是我现在不能。",
+              "pinyin": "Wǒ huì, dànshì wǒ xiànzài bù néng.",
+              "arti": "Saya bisa, tetapi sekarang tidak bisa.",
+              "catatan": "会 dan 能 dapat dibedakan dalam satu konteks."
+            },
+            {
+              "hanzi": "我可以，但是我不愿意。",
+              "pinyin": "Wǒ kěyǐ, dànshì wǒ bù yuànyì.",
+              "arti": "Saya bisa/boleh, tetapi saya tidak bersedia.",
+              "catatan": "Kemampuan/izin versus kemauan hati."
+            },
+            {
+              "hanzi": "我得去，但是我不敢一个人去。",
+              "pinyin": "Wǒ děi qù, dànshì wǒ bù gǎn yí ge rén qù.",
+              "arti": "Saya harus pergi, tetapi saya tidak berani pergi sendiri.",
+              "catatan": "Kewajiban versus keberanian."
+            },
+            {
+              "hanzi": "他可能会来，但是他不一定会留下。",
+              "pinyin": "Tā kěnéng huì lái, dànshì tā bù yídìng huì liúxià.",
+              "arti": "Dia mungkin datang, tetapi belum tentu tinggal.",
+              "catatan": "Kemungkinan dan prediksi."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Tabel ini adalah peta pedagogis, bukan aturan bahwa setiap modal hanya mempunyai satu fungsi. Beberapa modal memiliki fungsi tambahan dan tumpang tindih sesuai konteks."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Gunakan sepuluh modal sebagai peta keputusan: 会, 能, 可以, 要, 应该, 得, 必须, 可能, 愿意, 敢. Tambahkan 想 sebagai bentuk keinginan yang sangat produktif, tetapi tetap bedakan kategori dan fungsi."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我会开车，但是今天不能开。",
+              "pinyin": "Wǒ huì kāichē, dànshì jīntiān bù néng kāi.",
+              "arti": "Saya bisa mengemudi, tetapi hari ini tidak bisa.",
+              "catatan": "Keterampilan versus kondisi."
+            },
+            {
+              "hanzi": "我可以进去吗？",
+              "pinyin": "Wǒ kěyǐ jìnqù ma?",
+              "arti": "Bolehkah saya masuk?",
+              "catatan": "Fokus izin."
+            },
+            {
+              "hanzi": "我想去，但是我得工作。",
+              "pinyin": "Wǒ xiǎng qù, dànshì wǒ děi gōngzuò.",
+              "arti": "Saya ingin pergi, tetapi saya harus bekerja.",
+              "catatan": "Keinginan versus kebutuhan."
+            },
+            {
+              "hanzi": "他可能会来。",
+              "pinyin": "Tā kěnéng huì lái.",
+              "arti": "Dia mungkin akan datang.",
+              "catatan": "Kemungkinan + prediksi."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Periksa konteks sebelum memilih modal. Terjemahan satu kata dalam bahasa Indonesia tidak cukup untuk menentukan bentuk Mandarin yang paling alami."
+        }
+      ]
+    },
+    {
+      "judul": "28. Peta Makna Kata Kerja Modal",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Inti pembelajaran Pilar 5 adalah bahwa terjemahan bahasa Indonesia yang sama tidak selalu berarti pilihan modal Mandarin yang sama. Kata bisa, boleh, harus, mau, dan akan perlu dipecah berdasarkan nuansa makna yang sebenarnya."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Peta makna modal sebaiknya dibaca sebagai sistem keputusan. Mulailah dari kata Indonesia yang ingin Anda ucapkan, lalu jangan langsung menerjemahkannya. Untuk bisa, tentukan apakah keterampilan, kondisi, atau izin. Untuk harus, tentukan apakah nasihat, kebutuhan keadaan, atau kewajiban mutlak. Untuk mau, tentukan apakah keinginan, niat, atau kesediaan. Untuk akan, tentukan apakah niat pribadi atau prediksi. Untuk mungkin, gunakan 可能 ketika inti pesannya adalah ketidakpastian. Untuk berani, gunakan 敢 ketika hambatannya adalah keberanian, bukan kemampuan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Makna Indonesia",
+            "Pertanyaan diagnosis",
+            "Pilihan utama"
+          ],
+          "baris": [
+            [
+              "Bisa",
+              "Keterampilan?",
+              "会"
+            ],
+            [
+              "Bisa",
+              "Kondisi memungkinkan?",
+              "能"
+            ],
+            [
+              "Boleh",
+              "Ada izin?",
+              "可以 / 能"
+            ],
+            [
+              "Mau",
+              "Keinginan?",
+              "想 / 要"
+            ],
+            [
+              "Bersedia",
+              "Rela?",
+              "愿意"
+            ],
+            [
+              "Harus",
+              "Nasihat?",
+              "应该"
+            ],
+            [
+              "Harus",
+              "Keadaan menuntut?",
+              "得"
+            ],
+            [
+              "Harus",
+              "Aturan/kewajiban mutlak?",
+              "必须"
+            ],
+            [
+              "Akan",
+              "Niat?",
+              "要"
+            ],
+            [
+              "Akan",
+              "Prediksi?",
+              "会"
+            ],
+            [
+              "Mungkin",
+              "Ketidakpastian?",
+              "可能"
+            ],
+            [
+              "Berani",
+              "Keberanian?",
+              "敢"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "Saya bisa mengemudi karena belajar.",
+              "pinyin": "Wǒ huì kāichē.",
+              "arti": "Saya bisa mengemudi karena belajar.",
+              "catatan": "Keterampilan."
+            },
+            {
+              "hanzi": "Saya tidak bisa mengemudi hari ini karena sakit.",
+              "pinyin": "Wǒ jīntiān bù néng kāichē.",
+              "arti": "Saya tidak bisa mengemudi hari ini karena sakit.",
+              "catatan": "Kondisi."
+            },
+            {
+              "hanzi": "Bolehkah saya masuk?",
+              "pinyin": "Wǒ kěyǐ jìnqù ma?",
+              "arti": "Bolehkah saya masuk?",
+              "catatan": "Izin."
+            },
+            {
+              "hanzi": "Saya harus pergi karena keadaan.",
+              "pinyin": "Wǒ děi zǒu le.",
+              "arti": "Saya harus pergi karena keadaan.",
+              "catatan": "Kebutuhan."
+            },
+            {
+              "hanzi": "Saya bersedia membantu.",
+              "pinyin": "Wǒ yuànyì bāngmáng.",
+              "arti": "Saya bersedia membantu.",
+              "catatan": "Kesediaan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan memulai dari bentuk Mandarin lalu mencari terjemahan Indonesia tunggal. Untuk modal, arah berpikir yang lebih aman adalah maksud → konteks → modal → kalimat."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Gunakan sepuluh modal sebagai peta keputusan: 会, 能, 可以, 要, 应该, 得, 必须, 可能, 愿意, 敢. Tambahkan 想 sebagai bentuk keinginan yang sangat produktif, tetapi tetap bedakan kategori dan fungsi."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我会开车，但是今天不能开。",
+              "pinyin": "Wǒ huì kāichē, dànshì jīntiān bù néng kāi.",
+              "arti": "Saya bisa mengemudi, tetapi hari ini tidak bisa.",
+              "catatan": "Keterampilan versus kondisi."
+            },
+            {
+              "hanzi": "我可以进去吗？",
+              "pinyin": "Wǒ kěyǐ jìnqù ma?",
+              "arti": "Bolehkah saya masuk?",
+              "catatan": "Fokus izin."
+            },
+            {
+              "hanzi": "我想去，但是我得工作。",
+              "pinyin": "Wǒ xiǎng qù, dànshì wǒ děi gōngzuò.",
+              "arti": "Saya ingin pergi, tetapi saya harus bekerja.",
+              "catatan": "Keinginan versus kebutuhan."
+            },
+            {
+              "hanzi": "他可能会来。",
+              "pinyin": "Tā kěnéng huì lái.",
+              "arti": "Dia mungkin akan datang.",
+              "catatan": "Kemungkinan + prediksi."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Periksa konteks sebelum memilih modal. Terjemahan satu kata dalam bahasa Indonesia tidak cukup untuk menentukan bentuk Mandarin yang paling alami."
+        }
+      ]
+    },
+    {
+      "judul": "29. Latihan 1 — Memilih Modal yang Tepat",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Lengkapi kalimat berikut dengan modal yang paling sesuai berdasarkan konteks yang diberikan."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Latihan memilih modal sebaiknya tidak hanya menguji hafalan. Setiap soal perlu memberikan petunjuk semantik seperti belajar, sakit, aturan, niat, kesediaan, kemungkinan, atau keberanian. Jika dua jawaban secara teori mungkin, pilih yang paling sesuai dengan fokus yang dinyatakan. Setelah memilih, pembelajar sebaiknya menjelaskan mengapa modal lain tidak dipilih. Cara ini mengubah latihan dari tebak kata menjadi latihan diagnosis."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Soal",
+            "Pilihan",
+            "Petunjuk"
+          ],
+          "baris": [
+            [
+              "我___开车，因为我学了三年。",
+              "会 / 能 / 可以",
+              "Belajar tiga tahun → keterampilan."
+            ],
+            [
+              "我腿疼，不___跑步。",
+              "会 / 能 / 愿意",
+              "Kaki sakit → kondisi fisik."
+            ],
+            [
+              "这里___停车吗？",
+              "会 / 可以 / 愿意",
+              "Pertanyaan izin."
+            ],
+            [
+              "你___多休息。",
+              "应该 / 必须 / 敢",
+              "Nasihat."
+            ],
+            [
+              "明天___下雨。",
+              "会 / 要 / 敢",
+              "Prediksi cuaca."
+            ],
+            [
+              "我___帮助你。",
+              "愿意 / 敢 / 可能",
+              "Kesediaan."
+            ],
+            [
+              "我___马上走了。",
+              "得 / 会 / 愿意",
+              "Keadaan mendesak."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我会开车，因为我学了三年。",
+              "pinyin": "Wǒ huì kāichē, yīnwèi wǒ xué le sān nián.",
+              "arti": "Saya bisa mengemudi karena sudah belajar tiga tahun.",
+              "catatan": "Jawaban: 会."
+            },
+            {
+              "hanzi": "这里可以停车吗？",
+              "pinyin": "Zhèlǐ kěyǐ tíngchē ma?",
+              "arti": "Apakah boleh parkir di sini?",
+              "catatan": "Jawaban: 可以."
+            },
+            {
+              "hanzi": "我腿疼，所以不能跑步。",
+              "pinyin": "Wǒ tuǐ téng, suǒyǐ bù néng pǎobù.",
+              "arti": "Kaki saya sakit, jadi tidak bisa berlari.",
+              "catatan": "Jawaban: 能 dalam bentuk negatif."
+            },
+            {
+              "hanzi": "你应该多休息。",
+              "pinyin": "Nǐ yīnggāi duō xiūxi.",
+              "arti": "Kamu seharusnya lebih banyak istirahat.",
+              "catatan": "Jawaban: 应该."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap soal modal selalu hanya punya satu jawaban berdasarkan bentuk Indonesia. Jika konteks tidak cukup, beberapa modal dapat mungkin secara gramatikal. Dalam latihan ini, petunjuk konteks adalah penentu."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "30. Latihan 2 — Menerjemahkan ke Mandarin",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Latihan terjemahkan kalimat berikut ke Mandarin dengan mempertahankan nuansa modal yang diminta."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Latihan terjemahan harus dilakukan dengan mempertahankan nuansa, bukan hanya isi leksikal. Jika kalimat Indonesia mengatakan tidak bisa karena belum belajar, gunakan 不会; jika karena keadaan, gunakan 不能. Jika mengatakan tidak boleh, gunakan 不可以 atau bentuk yang sesuai konteks. Jika mengatakan tidak bersedia, gunakan 不愿意. Jika mengatakan harus karena aturan, gunakan 必须. Dengan cara ini satu kalimat Indonesia dapat menjadi beberapa kalimat Mandarin yang berbeda ketika alasan atau konteks diubah."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bahasa Indonesia",
+            "Fokus",
+            "Mandarin"
+          ],
+          "baris": [
+            [
+              "Saya tidak bisa berenang karena belum belajar.",
+              "Keahlian",
+              "我不会游泳。"
+            ],
+            [
+              "Saya hari ini tidak bisa berenang karena sakit.",
+              "Kondisi",
+              "我今天不能游泳。"
+            ],
+            [
+              "Bolehkah saya masuk?",
+              "Izin",
+              "我可以进去吗？"
+            ],
+            [
+              "Saya harus pergi karena ada urusan.",
+              "Kebutuhan",
+              "我得走了。"
+            ],
+            [
+              "Kamu wajib mematuhi aturan.",
+              "Kewajiban kuat",
+              "你必须遵守规定。"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "Saya tidak berani bertanya.",
+              "pinyin": "Wǒ bù gǎn wèn.",
+              "arti": "Saya tidak berani bertanya.",
+              "catatan": "Keberanian."
+            },
+            {
+              "hanzi": "Dia mungkin tidak datang.",
+              "pinyin": "Tā kěnéng bù lái.",
+              "arti": "Dia mungkin tidak datang.",
+              "catatan": "Kemungkinan negatif."
+            },
+            {
+              "hanzi": "Saya bersedia membantu kamu.",
+              "pinyin": "Wǒ yuànyì bāngzhù nǐ.",
+              "arti": "Saya bersedia membantu kamu.",
+              "catatan": "Kesediaan."
+            },
+            {
+              "hanzi": "Kamu seharusnya lebih hati-hati.",
+              "pinyin": "Nǐ yīnggāi xiǎoxīn yìdiǎn.",
+              "arti": "Kamu seharusnya lebih hati-hati.",
+              "catatan": "Nasihat."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Saat menerjemahkan, jangan memilih modal berdasarkan kata pertama yang muncul dalam kamus. Tambahkan alasan dalam kepala: kemampuan, izin, kondisi, niat, kewajiban, probabilitas, kesediaan, atau keberanian."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "31. Latihan 3 — Membedakan Nuansa Tidak Bisa, Tidak Mau, dan Tidak Boleh",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Empat kalimat di atas sama-sama dapat terlihat seperti variasi dari tidak minum jika diterjemahkan secara kasar, tetapi modalnya mengungkapkan alasan dan sikap yang berbeda."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Empat kalimat seperti 我不能喝、我不会喝、我不可以喝、我不要喝 dapat sama-sama diterjemahkan secara kasar sebagai saya tidak minum, tetapi masing-masing menyatakan alasan yang berbeda. 不能 mengarah pada ketidakmampuan, keadaan, atau larangan; 不会 pada keterampilan yang tidak dikuasai atau prediksi tidak akan; 不可以 pada izin yang tidak diberikan; 不要 pada kemauan yang ditolak atau larangan ketika dipakai sebagai perintah. Latihan nuansa harus menguji konteks, karena kalimat tanpa konteks kadang memang ambigu."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kalimat",
+            "Pertanyaan tersembunyi",
+            "Makna utama"
+          ],
+          "baris": [
+            [
+              "我不能喝。",
+              "Apakah saya dapat minum?",
+              "Saya tidak bisa/tidak boleh minum."
+            ],
+            [
+              "我不会喝。",
+              "Apakah saya tahu cara/akan minum?",
+              "Saya tidak bisa karena tidak tahu caranya atau tidak akan, sesuai konteks."
+            ],
+            [
+              "我不可以喝。",
+              "Apakah saya mendapat izin?",
+              "Saya tidak boleh minum."
+            ],
+            [
+              "我不要喝。",
+              "Apakah saya mau?",
+              "Saya tidak mau minum."
+            ],
+            [
+              "我不愿意喝。",
+              "Apakah saya bersedia?",
+              "Saya tidak bersedia minum."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我不能喝酒，因为我生病了。",
+              "pinyin": "Wǒ bù néng hējiǔ, yīnwèi wǒ shēngbìng le.",
+              "arti": "Saya tidak bisa minum alkohol karena sedang sakit.",
+              "catatan": "Kondisi fisik."
+            },
+            {
+              "hanzi": "我不会喝酒。",
+              "pinyin": "Wǒ bú huì hējiǔ.",
+              "arti": "Saya tidak tahu cara minum alkohol / saya tidak akan minum.",
+              "catatan": "Makna harus dibaca dari konteks."
+            },
+            {
+              "hanzi": "医生说我不可以喝酒。",
+              "pinyin": "Yīshēng shuō wǒ bù kěyǐ hējiǔ.",
+              "arti": "Dokter mengatakan saya tidak boleh minum alkohol.",
+              "catatan": "Larangan/izin."
+            },
+            {
+              "hanzi": "我不要喝酒，谢谢。",
+              "pinyin": "Wǒ bú yào hējiǔ, xièxie.",
+              "arti": "Saya tidak mau minum alkohol, terima kasih.",
+              "catatan": "Penolakan keinginan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan mengajarkan satu terjemahan tetap untuk 不会. Tanpa konteks, 不会喝 dapat ambigu antara tidak tahu cara minum dan tidak akan minum. Konteks adalah bagian dari makna."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "32. Kesalahan Umum Pembelajar Indonesia",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Kata kerja modal harus dipilih berdasarkan maksud pembicara, bukan hanya berdasarkan terjemahan satu kata dalam bahasa Indonesia. Perbedaan kecil antara modal dapat mengubah apakah suatu kalimat terdengar seperti kemampuan, izin, keinginan, larangan, nasihat, prediksi, atau kewajiban."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Kesalahan pembelajar Indonesia paling sering muncul karena bahasa Indonesia tidak selalu membedakan kemampuan, izin, kemungkinan, niat, dan kewajiban secara morfologis. Kata bisa dapat mencakup 会、能、可以; kata harus dapat mencakup 应该、得、必须; kata mau dapat mencakup 想、要、愿意. Kesalahan lain muncul ketika pembelajar memindahkan pola negasi Indonesia secara langsung, menganggap semua modal dapat dinegasikan dengan bentuk yang sama, atau menganggap satu modal memiliki satu arti. Solusi terbaik adalah membangun pasangan kontras dan mengubah konteks sedikit demi sedikit."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kesalahan",
+            "Bentuk yang lebih tepat",
+            "Mengapa"
+          ],
+          "baris": [
+            [
+              "*我会进去吗？ untuk meminta izin",
+              "我可以进去吗？",
+              "会 bukan modal utama untuk izin."
+            ],
+            [
+              "*我会去 karena situasi memungkinkan",
+              "我能去。",
+              "能 menonjolkan kemungkinan/kemampuan situasional."
+            ],
+            [
+              "*你必须多休息 sebagai nasihat biasa",
+              "你应该多休息。",
+              "必须 lebih kuat dan wajib."
+            ],
+            [
+              "*不得 = tidak perlu",
+              "不用 / 不必",
+              "不得 bukan pasangan negatif sederhana 得i."
+            ],
+            [
+              "*我没会开车",
+              "我不会开车。",
+              "Negasi keterampilan memakai 不会."
+            ],
+            [
+              "*我不要去? selalu = saya tidak mau pergi",
+              "不要去！ = jangan pergi",
+              "不要 dapat menjadi larangan."
+            ],
+            [
+              "*会 untuk semua kata bisa",
+              "会 / 能 / 可以 sesuai konteks",
+              "Terjemahan Indonesia tidak cukup."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "Salah: 我会进去吗？ Benar: 我可以进去吗？",
+              "pinyin": "Cuò: Wǒ huì jìnqù ma? Zhèngquè: Wǒ kěyǐ jìnqù ma?",
+              "arti": "Salah: Bolehkah saya masuk? Benar: Bolehkah saya masuk?",
+              "catatan": "Masalahnya pilihan modal untuk izin."
+            },
+            {
+              "hanzi": "Salah: 我不会去，因为腿疼。 Benar: 我不能去，因为腿疼。",
+              "pinyin": "Cuò: Wǒ bú huì qù, yīnwèi tuǐ téng. Zhèngquè: Wǒ bù néng qù, yīnwèi tuǐ téng.",
+              "arti": "Salah versus benar karena penyebabnya kondisi fisik.",
+              "catatan": "Kondisi fisik → 不能."
+            },
+            {
+              "hanzi": "Salah: 你必须早点睡 sebagai saran biasa. Benar: 你应该早点睡。",
+              "pinyin": "Cuò: Nǐ bìxū zǎodiǎn shuì. Zhèngquè: Nǐ yīnggāi zǎodiǎn shuì.",
+              "arti": "Salah versus benar untuk nasihat.",
+              "catatan": "应该 lebih sesuai jika bukan perintah mutlak."
+            },
+            {
+              "hanzi": "Salah: 我没会开车。 Benar: 我不会开车。",
+              "pinyin": "Cuò: Wǒ méi huì kāichē. Zhèngquè: Wǒ bú huì kāichē.",
+              "arti": "Salah versus benar.",
+              "catatan": "Negasi kemampuan yang dipelajari memakai 不会."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Bentuk yang diberi tanda salah di sini adalah kesalahan pedagogis yang umum, bukan berarti setiap kalimat serupa selalu mustahil dalam semua konteks. Selalu periksa maksud dan konteks sebelum memberi label mutlak."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "33. Ringkasan Konseptual Pilar 5",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Makna bahasa Indonesia",
+            "Pertanyaan yang perlu dipikirkan",
+            "Modal yang relevan"
+          ],
+          "baris": [
+            [
+              "Bisa",
+              "Apakah ini keterampilan yang dipelajari?",
+              "会"
+            ],
+            [
+              "Bisa",
+              "Apakah kondisi fisik atau situasi memungkinkan?",
+              "能"
+            ],
+            [
+              "Boleh",
+              "Apakah tindakan ini diizinkan?",
+              "可以 / 能"
+            ],
+            [
+              "Mau",
+              "Apakah ini keinginan atau niat pribadi?",
+              "要 / 想"
+            ],
+            [
+              "Bersedia",
+              "Apakah orang tersebut rela atau bersedia?",
+              "愿意"
+            ],
+            [
+              "Harus secara nasihat",
+              "Apakah ini sesuatu yang sebaiknya dilakukan?",
+              "应该"
+            ],
+            [
+              "Harus karena kebutuhan",
+              "Apakah keadaan mendesak atau menuntutnya?",
+              "得"
+            ],
+            [
+              "Harus mutlak",
+              "Apakah ini kewajiban atau aturan tanpa pilihan?",
+              "必须"
+            ],
+            [
+              "Mungkin",
+              "Apakah ini hanya kemungkinan atau dugaan?",
+              "可能"
+            ],
+            [
+              "Berani",
+              "Apakah orang tersebut memiliki keberanian untuk melakukannya?",
+              "敢"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Peta konsep utama Pilar 5 dapat dipahami sebagai berikut: kemampuan dibedakan menjadi kemampuan fisik atau situasional dengan <span class=\"hz\">能</span> dan keahlian dengan <span class=\"hz\">会</span>; izin terutama dengan <span class=\"hz\">可以</span> atau dalam konteks tertentu <span class=\"hz\">能</span>; keinginan dengan <span class=\"hz\">要</span> atau <span class=\"hz\">想</span>; kesediaan dengan <span class=\"hz\">愿意</span>; kewajiban dan nasihat dengan <span class=\"hz\">应该</span>, <span class=\"hz\">得</span>, dan <span class=\"hz\">必须</span>; kemungkinan dengan <span class=\"hz\">可能</span>; serta keberanian dengan <span class=\"hz\">敢</span>."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Ringkasan akhir sebaiknya tidak dibaca sebagai daftar hafalan, tetapi sebagai algoritme mental. Pertama identifikasi tindakan utama. Kedua tanyakan sikap pembicara terhadap tindakan itu. Ketiga tentukan apakah sikap tersebut berkaitan dengan kemampuan, izin, niat, kesediaan, kewajiban, kemungkinan, atau keberanian. Keempat pilih modal yang paling spesifik. Kelima periksa negasi dan tingkat ketegasan. Dengan metode ini pembelajar dapat menangani kalimat baru yang belum pernah dihafal."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Makna",
+            "Pilihan utama",
+            "Pembeda cepat",
+            "Negatif"
+          ],
+          "baris": [
+            [
+              "Keahlian",
+              "会",
+              "Belajar/latihan",
+              "不会"
+            ],
+            [
+              "Kemampuan/situasi",
+              "能",
+              "Kondisi memungkinkan",
+              "不能"
+            ],
+            [
+              "Izin",
+              "可以 / 能",
+              "Boleh menurut aturan/situasi",
+              "不可以 / 不能"
+            ],
+            [
+              "Keinginan",
+              "想 / 要",
+              "Ingin atau berniat",
+              "不想 / 不要"
+            ],
+            [
+              "Kesediaan",
+              "愿意",
+              "Rela/besedia",
+              "不愿意"
+            ],
+            [
+              "Nasihat",
+              "应该",
+              "Seharusnya",
+              "不应该"
+            ],
+            [
+              "Kebutuhan",
+              "得",
+              "Keadaan menuntut",
+              "不用 / 不必"
+            ],
+            [
+              "Kewajiban mutlak",
+              "必须",
+              "Aturan/tidak ada pilihan",
+              "不必 / 不需要"
+            ],
+            [
+              "Kemungkinan",
+              "可能",
+              "Probabilitas",
+              "不可能"
+            ],
+            [
+              "Keberanian",
+              "敢",
+              "Berani mengambil risiko",
+              "不敢"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我会说中文，但是今天不能说。",
+              "pinyin": "Wǒ huì shuō Zhōngwén, dànshì jīntiān bù néng shuō.",
+              "arti": "Saya bisa bahasa Mandarin, tetapi hari ini tidak bisa berbicara.",
+              "catatan": "Gabungan keahlian dan kondisi."
+            },
+            {
+              "hanzi": "我想去，但是我得工作。",
+              "pinyin": "Wǒ xiǎng qù, dànshì wǒ děi gōngzuò.",
+              "arti": "Saya ingin pergi, tetapi saya harus bekerja.",
+              "catatan": "Keinginan versus kebutuhan."
+            },
+            {
+              "hanzi": "你可以来，但不必带东西。",
+              "pinyin": "Nǐ kěyǐ lái, dàn bú bì dài dōngxi.",
+              "arti": "Kamu boleh datang, tetapi tidak perlu membawa apa-apa.",
+              "catatan": "Izin versus tidak ada kewajiban."
+            },
+            {
+              "hanzi": "他可能会来，但是他不一定能留下。",
+              "pinyin": "Tā kěnéng huì lái, dànshì tā bù yídìng néng liúxià.",
+              "arti": "Dia mungkin akan datang, tetapi belum tentu bisa tinggal.",
+              "catatan": "Kemungkinan, prediksi, dan kemampuan situasional."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jika Anda ragu antara dua modal, jangan segera memilih berdasarkan terjemahan. Buat dua pertanyaan: apa sumber informasi dan apa sikap pembicara? Jawaban terhadap dua pertanyaan itu biasanya mempersempit pilihan."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Gunakan sepuluh modal sebagai peta keputusan: 会, 能, 可以, 要, 应该, 得, 必须, 可能, 愿意, 敢. Tambahkan 想 sebagai bentuk keinginan yang sangat produktif, tetapi tetap bedakan kategori dan fungsi."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我会开车，但是今天不能开。",
+              "pinyin": "Wǒ huì kāichē, dànshì jīntiān bù néng kāi.",
+              "arti": "Saya bisa mengemudi, tetapi hari ini tidak bisa.",
+              "catatan": "Keterampilan versus kondisi."
+            },
+            {
+              "hanzi": "我可以进去吗？",
+              "pinyin": "Wǒ kěyǐ jìnqù ma?",
+              "arti": "Bolehkah saya masuk?",
+              "catatan": "Fokus izin."
+            },
+            {
+              "hanzi": "我想去，但是我得工作。",
+              "pinyin": "Wǒ xiǎng qù, dànshì wǒ děi gōngzuò.",
+              "arti": "Saya ingin pergi, tetapi saya harus bekerja.",
+              "catatan": "Keinginan versus kebutuhan."
+            },
+            {
+              "hanzi": "他可能会来。",
+              "pinyin": "Tā kěnéng huì lái.",
+              "arti": "Dia mungkin akan datang.",
+              "catatan": "Kemungkinan + prediksi."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Periksa konteks sebelum memilih modal. Terjemahan satu kata dalam bahasa Indonesia tidak cukup untuk menentukan bentuk Mandarin yang paling alami."
+        }
+      ]
+    },
+    {
+      "judul": "34. Pesan Utama dan Cara Menguasai Pilar 5",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Menguasai kata kerja modal bukan hanya tentang menghafal terjemahan. Yang harus dipahami adalah nuansa sosial, fisik, dan psikologis di balik setiap pilihan kata. Pilihan modal dapat memengaruhi tingkat kehalusan, kepercayaan diri, dan kesesuaian seseorang dengan situasi percakapan."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Hafalkan sepuluh modal utama beserta fungsi dan nuansanya: 能, 会, 可以, 要, 应该, 得, 必须, 可能, 愿意, dan 敢.",
+            "Latih kemampuan membedakan modal berdasarkan konteks, bukan berdasarkan terjemahan satu kata.",
+            "Buat lebih dari 100 kalimat sendiri dengan berbagai konteks.",
+            "Dengarkan penutur asli menggunakan modal dalam situasi nyata.",
+            "Berbicara, membuat kesalahan, menerima koreksi, lalu memperbaiki penggunaan modal.",
+            "Perhatikan nuansa kesopanan ketika menggunakan modal dalam interaksi sosial."
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Kerangka teori yang dibahas dalam Pilar 5 mencakup modal dasar, modal lanjutan, kombinasi modal, bentuk semi-modal, negasi, negatif ganda, perbedaan nuansa, pola pertanyaan dan jawaban, serta konteks sosial. Penguasaan teori perlu dilanjutkan dengan latihan dan paparan bahasa nyata agar berubah menjadi kefasihan."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Teori yang lengkap tidak otomatis berarti fasih. Kefasihan membutuhkan praktik berulang, mendengarkan penutur asli, membuat kalimat, berbicara, melakukan kesalahan, dan menerima koreksi."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Tujuan akhir bukan hafal terjemahan, tetapi mengenali sikap pembicara secara cepat. Dengarkan modal dalam konteks, buat kalimat sendiri, dan periksa apakah pilihan Anda menyatakan kemampuan, izin, niat, kewajiban, probabilitas, kesediaan, atau keberanian."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我会开车，但是今天不能开。",
+              "pinyin": "Wǒ huì kāichē, dànshì jīntiān bù néng kāi.",
+              "arti": "Saya bisa mengemudi, tetapi hari ini tidak bisa.",
+              "catatan": "Keterampilan versus kondisi."
+            },
+            {
+              "hanzi": "我可以进去吗？",
+              "pinyin": "Wǒ kěyǐ jìnqù ma?",
+              "arti": "Bolehkah saya masuk?",
+              "catatan": "Fokus izin."
+            },
+            {
+              "hanzi": "我想去，但是我得工作。",
+              "pinyin": "Wǒ xiǎng qù, dànshì wǒ děi gōngzuò.",
+              "arti": "Saya ingin pergi, tetapi saya harus bekerja.",
+              "catatan": "Keinginan versus kebutuhan."
+            },
+            {
+              "hanzi": "他可能会来。",
+              "pinyin": "Tā kěnéng huì lái.",
+              "arti": "Dia mungkin akan datang.",
+              "catatan": "Kemungkinan + prediksi."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Periksa konteks sebelum memilih modal. Terjemahan satu kata dalam bahasa Indonesia tidak cukup untuk menentukan bentuk Mandarin yang paling alami."
+        }
+      ]
+    },
+    {
+      "judul": "35. Formal, Tertulis, dan Lisan Sehari-hari",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Modal tidak hanya membawa makna, tetapi juga dapat terasa berbeda menurut register atau tingkat keformalan. 得i sangat umum dalam percakapan, sedangkan 必须 lebih mudah muncul dalam instruksi, aturan, dan tulisan formal. 应当 juga sering dijumpai dalam bahasa tertulis atau gaya resmi sebagai kerabat makna 应该, walaupun bentuk utama yang dipelajari dalam Pilar 5 tetap 应该. Dalam percakapan, bentuk pendek seperti 得、能不能、要不要、敢不敢 sangat produktif. Pembelajar sebaiknya tidak menyimpulkan bahwa bentuk formal selalu lebih sopan; formalitas dan kesopanan adalah dua dimensi yang berbeda."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk",
+            "Kecenderungan register",
+            "Contoh",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "得i",
+              "Sangat umum dalam lisan",
+              "我得走了。",
+              "Percakapan sehari-hari."
+            ],
+            [
+              "必须",
+              "Netral hingga formal",
+              "必须遵守规定。",
+              "Kuat dan cocok untuk aturan."
+            ],
+            [
+              "应该",
+              "Netral, sangat umum",
+              "你应该休息。",
+              "Nasihat atau perkiraan."
+            ],
+            [
+              "应当",
+              "Lebih tertulis/resmi",
+              "我们应当遵守规定。",
+              "Alternatif formal untuk 应该 dalam konteks tertentu."
+            ],
+            [
+              "可以",
+              "Netral dan luas",
+              "可以进去吗？",
+              "Izin sangat umum."
+            ],
+            [
+              "能不能",
+              "Lisan dan percakapan",
+              "能不能帮我？",
+              "Permintaan sehari-hari."
+            ],
+            [
+              "要不要",
+              "Sangat umum dalam lisan",
+              "要不要喝茶？",
+              "Menawarkan pilihan."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我得走了。",
+              "pinyin": "Wǒ děi zǒu le.",
+              "arti": "Saya harus pergi.",
+              "catatan": "Sangat alami dalam percakapan."
+            },
+            {
+              "hanzi": "按照规定，必须提交申请。",
+              "pinyin": "Ànzhào guīdìng, bìxū tíjiāo shēnqǐng.",
+              "arti": "Sesuai peraturan, wajib mengajukan permohonan.",
+              "catatan": "Gaya resmi."
+            },
+            {
+              "hanzi": "我们应当认真考虑这个问题。",
+              "pinyin": "Wǒmen yīngdāng rènzhēn kǎolǜ zhège wèntí.",
+              "arti": "Kita seharusnya mempertimbangkan masalah ini dengan serius.",
+              "catatan": "Gaya lebih tertulis/resmi."
+            },
+            {
+              "hanzi": "能不能再说一遍？",
+              "pinyin": "Néng bu néng zài shuō yí biàn?",
+              "arti": "Bisakah mengatakannya sekali lagi?",
+              "catatan": "Percakapan sehari-hari."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menerjemahkan register sebagai tingkat sopan secara otomatis. 必须 dapat sopan jika konteksnya prosedural, sedangkan 我要... dapat terdengar terlalu langsung dalam situasi tertentu walaupun secara tata bahasa benar."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "36. Variasi Regional dan Komunitas Mandarin",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Untuk modal inti seperti 能、会、可以、要、应该、必须、可能、愿意, dan 敢, kerangka dasarnya relatif luas dipahami di berbagai komunitas Mandarin. Perbedaan regional lebih sering terlihat pada pilihan ungkapan pendamping, kosakata sehari-hari, tingkat kelisanan, dan preferensi tertentu daripada pada perubahan makna dasar modal. Di Taiwan, misalnya, 會 dan 可以 sangat umum dalam percakapan, dan penggunaan 會 untuk prediksi juga tetap penting. Di Singapura dan Malaysia, Mandarin sehari-hari hidup berdampingan dengan bahasa lain sehingga pilihan kosakata dan pola percakapan dapat dipengaruhi lingkungan bilingual. Hong Kong memiliki lingkungan Kantonis yang kuat, sehingga pembelajar perlu berhati-hati agar tidak memindahkan modal Mandarin ke Kantonis secara otomatis. Untuk Pilar 5, yang paling aman adalah menguasai modal Mandarin Standar terlebih dahulu, lalu memperhatikan variasi komunitas."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Wilayah/komunitas",
+            "Fokus belajar",
+            "Implikasi untuk modal"
+          ],
+          "baris": [
+            [
+              "Tiongkok Daratan",
+              "Mandarin Standar dan variasi lisan regional",
+              "Modal inti tetap sama; register dan kolokasi dapat berubah."
+            ],
+            [
+              "Taiwan",
+              "Mandarin Taiwan",
+              "会、可以、要、應該 dan bentuk terkait sangat produktif; perbedaan terutama pada kosakata/karakter tradisional."
+            ],
+            [
+              "Hong Kong",
+              "Lingkungan Kantonis-Mandarin",
+              "Jangan mencampur pola modal Mandarin dengan pola Kantonis tanpa belajar sistem Kantonis."
+            ],
+            [
+              "Singapura/Malaysia",
+              "Lingkungan multibahasa",
+              "Modal Mandarin tetap dipahami, tetapi gaya percakapan dapat dipengaruhi kontak bahasa."
+            ],
+            [
+              "Utara vs Selatan Tiongkok",
+              "Aksen dan gaya lisan",
+              "Perbedaan terbesar biasanya pelafalan, partikel, dan kosakata regional; modal inti relatif stabil."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你可以进去吗？",
+              "pinyin": "Nǐ kěyǐ jìnqù ma?",
+              "arti": "Bolehkah kamu masuk?",
+              "catatan": "Contoh netral yang luas dipahami."
+            },
+            {
+              "hanzi": "你会不会来？",
+              "pinyin": "Nǐ huì bu huì lái?",
+              "arti": "Apakah kamu akan datang?",
+              "catatan": "会不会 dapat dibaca sebagai pertanyaan kemampuan atau prediksi sesuai konteks."
+            },
+            {
+              "hanzi": "我应该先走。",
+              "pinyin": "Wǒ yīnggāi xiān zǒu.",
+              "arti": "Saya seharusnya pergi dulu.",
+              "catatan": "Bentuk inti yang luas dipahami."
+            },
+            {
+              "hanzi": "我不敢说。",
+              "pinyin": "Wǒ bù gǎn shuō.",
+              "arti": "Saya tidak berani mengatakannya.",
+              "catatan": "Modal keberanian lintas komunitas."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menggeneralisasi bahwa setiap wilayah mempunyai modal yang berbeda. Untuk modal inti Pilar 5, perbedaan regional biasanya lebih kecil daripada perbedaan register dan kosakata. Variasi yang sangat spesifik sebaiknya dipelajari setelah Mandarin Standar dikuasai."
+        }
+      ]
+    },
+    {
+      "judul": "37. Bahasa Internet dan Percakapan Modern",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Modal sangat produktif dalam komunikasi digital karena pola pendek dapat menyampaikan tantangan, ajakan, keraguan, atau kepastian dengan cepat. Bentuk seperti 能不能、要不要、敢不敢、会不会 sering muncul dalam pesan singkat dan percakapan daring. Yang berubah biasanya bukan tata bahasa inti, melainkan konteks pragmatik: sebuah kalimat pendek dapat terdengar bercanda, menantang, menggoda, atau menekan tergantung hubungan pengguna. Pembelajar harus membedakan bahasa internet yang masih merupakan Mandarin standar dengan singkatan, meme, atau slang lokal yang tidak cocok dipindahkan ke situasi formal."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola digital/lisan",
+            "Fungsi",
+            "Contoh",
+            "Kesan yang mungkin"
+          ],
+          "baris": [
+            [
+              "能不能...？",
+              "Permintaan/tantangan",
+              "能不能快一点？",
+              "Bisa cepat sedikit?"
+            ],
+            [
+              "要不要...？",
+              "Ajakan/opsi",
+              "要不要一起吃？",
+              "Mau makan bersama?"
+            ],
+            [
+              "敢不敢...？",
+              "Tantangan",
+              "敢不敢试试？",
+              "Berani coba?"
+            ],
+            [
+              "会不会...？",
+              "Pertanyaan kemampuan/prediksi",
+              "会不会迟到？",
+              "Apakah mungkin terlambat?"
+            ],
+            [
+              "不敢当",
+              "Respons merendah",
+              "不敢当不敢当。",
+              "Ungkapan sopan, bukan arti literal berani."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你敢不敢再来一次？",
+              "pinyin": "Nǐ gǎn bu gǎn zài lái yí cì?",
+              "arti": "Berani coba sekali lagi?",
+              "catatan": "Bisa menjadi tantangan bercanda."
+            },
+            {
+              "hanzi": "要不要一起看电影？",
+              "pinyin": "Yào bu yào yìqǐ kàn diànyǐng?",
+              "arti": "Mau nonton film bersama?",
+              "catatan": "Ajakan santai."
+            },
+            {
+              "hanzi": "你能不能快一点？",
+              "pinyin": "Nǐ néng bu néng kuài yìdiǎn?",
+              "arti": "Bisa lebih cepat sedikit?",
+              "catatan": "Permintaan; dapat terdengar menekan jika tanpa pelunak."
+            },
+            {
+              "hanzi": "不会吧？",
+              "pinyin": "Bú huì ba?",
+              "arti": "Masa sih? / Tidak mungkin, kan?",
+              "catatan": "Ekspresi percakapan modern; bukan sekadar bentuk negatif kemampuan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Bahasa internet dapat memperkuat nuansa emosional tanpa mengubah struktur modal. Jangan membawa ungkapan bercanda atau slang ke surat resmi hanya karena bentuknya gramatikal."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "38. Jejak Historis dan Bentuk Klasik 文言文 yang Relevan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam bahasa klasik 文言文, banyak karakter yang sekarang berhubungan dengan modal memiliki sejarah penggunaan yang lebih luas. 可 dan 能 dapat menyatakan kemungkinan atau kemampuan dalam teks klasik, 必 menandai keniscayaan, 宜 berkaitan dengan kepantasan atau keharusan dalam konteks tertentu, dan 敢 berkaitan dengan keberanian. Namun bahasa klasik bukan sekadar Mandarin modern tanpa partikel modern; struktur, kosakata, dan fungsi karakter dapat berbeda. Karena itu bagian historis ini hanya berfungsi sebagai jembatan pengenalan, bukan sebagai aturan untuk membuat kalimat Mandarin modern. Pembelajar modern sebaiknya tidak mengganti 可以 menjadi 可 atau 必须 menjadi 必 dalam percakapan hanya karena bentuk klasiknya lebih pendek."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk historis",
+            "Hubungan dengan modern",
+            "Makna umum historis",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "可",
+              "可以 / 可",
+              "Dapat, boleh, mungkin",
+              "Masih hidup dalam banyak kata modern dan tulisan."
+            ],
+            [
+              "能",
+              "能",
+              "Mampu",
+              "Makna kemampuan sudah lama berakar."
+            ],
+            [
+              "必",
+              "必须",
+              "Pasti/harus",
+              "Karakter hidup dalam kosakata modern seperti 必须."
+            ],
+            [
+              "宜",
+              "应当/应该 dalam konteks tertentu",
+              "Sebaiknya/patut",
+              "Lebih khas tulisan klasik/formal."
+            ],
+            [
+              "敢",
+              "敢",
+              "Berani",
+              "Makna dasar tetap mudah dikenali."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "不可",
+              "pinyin": "bù kě",
+              "arti": "Tidak boleh/tidak dapat.",
+              "catatan": "Bentuk klasik/tertulis yang masih muncul dalam ekspresi modern."
+            },
+            {
+              "hanzi": "必有一失",
+              "pinyin": "bì yǒu yì shī",
+              "arti": "Pasti ada satu kekurangan/kegagalan.",
+              "catatan": "Contoh idiomatik bernuansa klasik; jangan diperlakukan sebagai pola percakapan biasa."
+            },
+            {
+              "hanzi": "人而无信，不知其可也",
+              "pinyin": "Rén ér wú xìn, bù zhī qí kě yě.",
+              "arti": "Orang yang tidak punya kepercayaan/kejujuran tidak diketahui bagaimana dapat berdiri/diterima.",
+              "catatan": "Contoh klasik untuk menunjukkan bahwa 可 dalam teks lama tidak identik satu banding satu dengan 可以 modern."
+            },
+            {
+              "hanzi": "不敢当",
+              "pinyin": "bù gǎn dāng",
+              "arti": "Tidak berani menerimanya / Anda terlalu memuji.",
+              "catatan": "Ekspresi modern yang mempertahankan 敢 dalam fungsi sopan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan memindahkan struktur 文言文 ke Mandarin modern tanpa pemeriksaan. Kesamaan karakter tidak menjamin kesamaan sintaksis, frekuensi, atau nuansa."
+        }
+      ]
+    },
+    {
+      "judul": "39. Latihan Akhir Integratif",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Latihan akhir menggabungkan semua sumbu utama: kemampuan, izin, keinginan, kesediaan, kewajiban, kemungkinan, keberanian, negasi, dan register. Kerjakan tanpa melihat tabel, lalu jelaskan alasan setiap pilihan. Jika sebuah soal terasa memiliki lebih dari satu jawaban, tuliskan konteks tambahan yang membuat jawaban Anda menjadi jelas. Ini melatih kemampuan produksi nyata karena penutur sering memilih modal berdasarkan situasi, bukan berdasarkan daftar terjemahan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Soal",
+            "Pilihan yang mungkin",
+            "Petunjuk"
+          ],
+          "baris": [
+            [
+              "Saya bisa berenang karena sudah belajar.",
+              "会 / 能",
+              "Fokus keterampilan."
+            ],
+            [
+              "Saya tidak bisa berenang hari ini karena sakit.",
+              "不会 / 不能",
+              "Fokus kondisi."
+            ],
+            [
+              "Bolehkah saya duduk di sini?",
+              "可以 / 会",
+              "Fokus izin."
+            ],
+            [
+              "Saya ingin pergi, tetapi saya harus bekerja.",
+              "想 / 得",
+              "Keinginan + kebutuhan."
+            ],
+            [
+              "Kamu wajib mengikuti aturan.",
+              "应该 / 必须",
+              "Kewajiban mutlak."
+            ],
+            [
+              "Dia mungkin akan datang.",
+              "可能会 / 必须",
+              "Kemungkinan masa depan."
+            ],
+            [
+              "Saya bersedia membantu.",
+              "愿意 / 敢",
+              "Kesediaan."
+            ],
+            [
+              "Saya tidak berani bertanya.",
+              "不愿意 / 不敢",
+              "Keberanian."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我会游泳，因为我学过。",
+              "pinyin": "Wǒ huì yóuyǒng, yīnwèi wǒ xué guo.",
+              "arti": "Saya bisa berenang karena pernah belajar.",
+              "catatan": "Keahlian."
+            },
+            {
+              "hanzi": "我今天不能游泳，因为我不舒服。",
+              "pinyin": "Wǒ jīntiān bù néng yóuyǒng, yīnwèi wǒ bù shūfu.",
+              "arti": "Hari ini saya tidak bisa berenang karena tidak enak badan.",
+              "catatan": "Kondisi."
+            },
+            {
+              "hanzi": "我可以坐这里吗？",
+              "pinyin": "Wǒ kěyǐ zuò zhèlǐ ma?",
+              "arti": "Bolehkah saya duduk di sini?",
+              "catatan": "Izin."
+            },
+            {
+              "hanzi": "我想去，但是我得工作。",
+              "pinyin": "Wǒ xiǎng qù, dànshì wǒ děi gōngzuò.",
+              "arti": "Saya ingin pergi, tetapi saya harus bekerja.",
+              "catatan": "Keinginan versus kebutuhan."
+            },
+            {
+              "hanzi": "他可能会来。",
+              "pinyin": "Tā kěnéng huì lái.",
+              "arti": "Dia mungkin akan datang.",
+              "catatan": "Kemungkinan + prediksi."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan hanya memeriksa apakah jawaban secara tata bahasa benar. Periksa apakah modal menyampaikan alasan dan sikap yang diminta soal. Itulah inti penguasaan Pilar 5."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam praktik, gunakan konteks sebagai penguji akhir. Ubah satu unsur saja lalu amati apakah modal ikut berubah: ubah keterampilan menjadi kondisi, izin menjadi larangan, rencana menjadi prediksi, nasihat menjadi kewajiban, atau keinginan menjadi kesediaan. Jika perubahan konteks menuntut modal berbeda, itu justru menunjukkan bahwa modal bekerja sebagai penanda nuansa, bukan terjemahan satu-ke-satu."
+        }
+      ]
+    },
+    {
+      "judul": "40. Perbandingan Lengkap Semua Modal Pilar 5",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Tabel terakhir ini merangkum sistem secara menyeluruh. Sepuluh modal utama dari materi sumber dipertahankan, sementara 想 dan bentuk terkait ditempatkan sebagai semi-modal atau bentuk keinginan yang sangat produktif. Ringkasan ini harus dipakai sebagai alat diagnosis cepat, bukan sebagai pengganti penjelasan tiap bagian. Saat menemui kalimat baru, gunakan kolom pertanyaan kunci untuk menentukan modal yang paling sesuai."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Modal",
+            "Pinyin",
+            "Fungsi inti",
+            "Pertanyaan kunci",
+            "Negatif/kontras",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "能",
+              "néng",
+              "Kemampuan/situasi; izin tertentu",
+              "Bisa dilakukan dalam kondisi ini?",
+              "不能",
+              "我能帮你。"
+            ],
+            [
+              "会",
+              "huì",
+              "Keahlian; prediksi",
+              "Sudah menguasai atau akan terjadi?",
+              "不会",
+              "我会开车。"
+            ],
+            [
+              "可以",
+              "kěyǐ",
+              "Izin/kelayakan",
+              "Apakah diizinkan?",
+              "不可以",
+              "可以进来吗？"
+            ],
+            [
+              "要",
+              "yào",
+              "Keinginan/niat/tuntutan",
+              "Apa yang hendak dilakukan?",
+              "不要",
+              "我要走了。"
+            ],
+            [
+              "应该",
+              "yīnggāi",
+              "Nasihat/perkiraan",
+              "Apa yang seharusnya?",
+              "不应该",
+              "你应该休息。"
+            ],
+            [
+              "得i",
+              "děi",
+              "Kebutuhan/desakan",
+              "Apa yang keadaan tuntut?",
+              "不用 / 不必",
+              "我得走了。"
+            ],
+            [
+              "必须",
+              "bìxū",
+              "Kewajiban mutlak",
+              "Apakah tidak ada pilihan?",
+              "不必 / 不需要",
+              "必须遵守规则。"
+            ],
+            [
+              "可能",
+              "kěnéng",
+              "Kemungkinan",
+              "Seberapa mungkin?",
+              "不可能",
+              "他可能会来。"
+            ],
+            [
+              "愿意",
+              "yuànyì",
+              "Kesediaan/kerelaan",
+              "Apakah rela?",
+              "不愿意",
+              "我愿意帮你。"
+            ],
+            [
+              "敢",
+              "gǎn",
+              "Keberanian",
+              "Apakah berani?",
+              "不敢",
+              "我不敢说。"
+            ],
+            [
+              "想",
+              "xiǎng",
+              "Keinginan; semi-modal",
+              "Apakah ingin?",
+              "不想",
+              "我想回家。"
+            ]
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Jika terjemahan Indonesia adalah bisa, bedakan 会, 能, dan 可以.",
+            "Jika terjemahan adalah harus, bedakan 应该, 得, dan 必须 berdasarkan sumber dorongan.",
+            "Jika terjemahan adalah mau, bedakan 想, 要, dan 愿意 berdasarkan keinginan, niat, dan kesediaan.",
+            "Jika terjemahan adalah akan, bedakan 要 yang berhubungan dengan niat dengan 会 yang berhubungan dengan prediksi atau janji.",
+            "Jika terjemahan adalah mungkin, 可能 menyatakan probabilitas; jangan otomatis menggantinya dengan 可以.",
+            "Jika terjemahan adalah berani, 敢 menilai keberanian, bukan kemampuan.",
+            "Untuk negasi, pelajari bentuk yang lazim seperti 不能、不会、不可以、不要、不应该、不用、不必、不可能、不愿意、不敢.",
+            "Untuk konteks formal, perhatikan register dan jangan menyamakan formalitas dengan kesopanan."
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我会开车，但是今天不能开。",
+              "pinyin": "Wǒ huì kāichē, dànshì jīntiān bù néng kāi.",
+              "arti": "Saya bisa mengemudi, tetapi hari ini tidak bisa.",
+              "catatan": "Keahlian versus kondisi."
+            },
+            {
+              "hanzi": "你可以进去，但是必须先登记。",
+              "pinyin": "Nǐ kěyǐ jìnqù, dànshì bìxū xiān dēngjì.",
+              "arti": "Kamu boleh masuk, tetapi harus mendaftar dulu.",
+              "catatan": "Izin dan kewajiban dapat hadir dalam satu konteks."
+            },
+            {
+              "hanzi": "我想去，但是我得工作。",
+              "pinyin": "Wǒ xiǎng qù, dànshì wǒ děi gōngzuò.",
+              "arti": "Saya ingin pergi, tetapi saya harus bekerja.",
+              "catatan": "Keinginan dan kebutuhan."
+            },
+            {
+              "hanzi": "他可能会来，但是不一定能留下。",
+              "pinyin": "Tā kěnéng huì lái, dànshì bù yídìng néng liúxià.",
+              "arti": "Dia mungkin akan datang, tetapi belum tentu bisa tinggal.",
+              "catatan": "Kemungkinan, prediksi, dan kemampuan."
+            },
+            {
+              "hanzi": "我愿意帮你，但是我不敢一个人做。",
+              "pinyin": "Wǒ yuànyì bāng nǐ, dànshì wǒ bù gǎn yí ge rén zuò.",
+              "arti": "Saya bersedia membantu, tetapi tidak berani melakukannya sendirian.",
+              "catatan": "Kesediaan versus keberanian."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan terakhir yang harus dihindari adalah menganggap tabel ini sebagai kamus satu-ke-satu. Modal adalah sistem makna yang saling bersinggungan. Konteks, aspek waktu, negasi, hubungan sosial, dan register dapat mengubah pilihan yang paling alami."
+        }
+      ]
+    }
+  ]
+}
