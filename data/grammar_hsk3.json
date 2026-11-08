@@ -1,0 +1,2318 @@
+{
+ "level": 3,
+ "categories": [
+  {
+   "name": "Kata Kerja Bantu (Modal Verbs)",
+   "points": [
+    {
+     "id": "hsk3-1.1",
+     "number": "1.1",
+     "title": "Kata Kerja Bantu \"需要\" (xūyào) - Perlu",
+     "fungsi": "Menyatakan kebutuhan .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "Subjek + 需要 + V/O",
+       "contoh": "我需要帮助。",
+       "pinyin": "Wǒ xūyào bāngzhù.",
+       "terjemahan": "Saya perlu bantuan."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "Subjek + 不需要 + V/O",
+       "contoh": "我不需要你的帮助。",
+       "pinyin": "Wǒ bù xūyào nǐ de bāngzhù.",
+       "terjemahan": "Saya tidak perlu bantuanmu."
+      },
+      {
+       "jenis": "Interogatif",
+       "pola": "Subjek + 需要 + V + 吗?",
+       "contoh": "你需要我帮你吗？",
+       "pinyin": "Nǐ xūyào wǒ bāng nǐ ma?",
+       "terjemahan": "Apakah kamu perlu saya bantu?"
+      },
+      {
+       "jenis": "Deklaratif",
+       "pola": "Subjek + 需要 + V/O",
+       "contoh": "他需要休息。",
+       "pinyin": "Tā xūyào xiūxi.",
+       "terjemahan": "Dia perlu istirahat."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-1.2",
+     "number": "1.2",
+     "title": "Kata Kerja Bantu \"应该/该\" (yīnggāi/gāi) - Seharusnya",
+     "fungsi": "Menyatakan kewajiban atau saran .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "Subjek + 应该 + V",
+       "contoh": "你应该多运动。",
+       "pinyin": "Nǐ yīnggāi duō yùndòng.",
+       "terjemahan": "Kamu seharusnya lebih banyak olahraga."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "Subjek + 不应该 + V",
+       "contoh": "你不应该熬夜。",
+       "pinyin": "Nǐ bù yīnggāi áoyè.",
+       "terjemahan": "Kamu seharusnya tidak begadang."
+      },
+      {
+       "jenis": "Interogatif",
+       "pola": "Subjek + 应该 + V + 吗?",
+       "contoh": "我应该现在去吗？",
+       "pinyin": "Wǒ yīnggāi xiànzài qù ma?",
+       "terjemahan": "Haruskah saya pergi sekarang?"
+      },
+      {
+       "jenis": "Deklaratif",
+       "pola": "Subjek + 该 + V + 了",
+       "contoh": "你该睡觉了。",
+       "pinyin": "Nǐ gāi shuìjiào le.",
+       "terjemahan": "Kamu seharusnya sudah tidur."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-1.3",
+     "number": "1.3",
+     "title": "Kata Kerja Bantu \"愿意\" (yuànyì) - Bersedia",
+     "fungsi": "Menyatakan kesediaan .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "Subjek + 愿意 + V",
+       "contoh": "我愿意帮你。",
+       "pinyin": "Wǒ yuànyì bāng nǐ.",
+       "terjemahan": "Saya bersedia membantumu."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "Subjek + 不愿意 + V",
+       "contoh": "他不愿意去。",
+       "pinyin": "Tā bù yuànyì qù.",
+       "terjemahan": "Dia tidak bersedia pergi."
+      },
+      {
+       "jenis": "Interogatif",
+       "pola": "Subjek + 愿意 + V + 吗?",
+       "contoh": "你愿意嫁给我吗？",
+       "pinyin": "Nǐ yuànyì jià gěi wǒ ma?",
+       "terjemahan": "Apakah kamu bersedia menikah denganku?"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-1.4",
+     "number": "1.4",
+     "title": "Kata Kerja Bantu \"得\" (děi) - Harus",
+     "fungsi": "Menyatakan keharusan (kolokial) .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "Subjek + 得 + V",
+       "contoh": "明天得早起。",
+       "pinyin": "Míngtiān děi zǎo qǐ.",
+       "terjemahan": "Besok harus bangun pagi."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "Subjek + 不用 + V",
+       "contoh": "明天不用早起。",
+       "pinyin": "Míngtiān bùyòng zǎo qǐ.",
+       "terjemahan": "Besok tidak harus bangun pagi."
+      },
+      {
+       "jenis": "Interogatif",
+       "pola": "Subjek + 得 + V + 吗?",
+       "contoh": "我得去吗？",
+       "pinyin": "Wǒ děi qù ma?",
+       "terjemahan": "Haruskah saya pergi?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kata Penggolong (Measure Words)",
+   "points": [
+    {
+     "id": "hsk3-2.1",
+     "number": "2.1",
+     "title": "Kata Penggolong \"把\" (bǎ)",
+     "fungsi": "Untuk benda bergagang (pisau, payung, kursi, dll.) .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "Angka + 把 + KB",
+       "contoh": "一把刀",
+       "pinyin": "Yì bǎ dāo",
+       "terjemahan": "Satu pisau"
+      },
+      {
+       "jenis": "Interogatif",
+       "pola": "几 + 把 + KB + ?",
+       "contoh": "几把椅子？",
+       "pinyin": "Jǐ bǎ yǐzi?",
+       "terjemahan": "Berapa kursi?"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-2.2",
+     "number": "2.2",
+     "title": "Kata Penggolong \"双\" (shuāng)",
+     "fungsi": "Untuk benda berpasangan (sepatu, kaus kaki, sarung tangan) .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "Angka + 双 + KB",
+       "contoh": "一双鞋",
+       "pinyin": "Yì shuāng xié",
+       "terjemahan": "Sepasang sepatu"
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "Angka + 双 + KB",
+       "contoh": "两双袜子",
+       "pinyin": "Liǎng shuāng wàzi",
+       "terjemahan": "Dua pasang kaus kaki"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-2.3",
+     "number": "2.3",
+     "title": "Kata Penggolong \"张\" (zhāng)",
+     "fungsi": "Untuk benda pipih (kertas, meja, foto) .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "Angka + 张 + KB",
+       "contoh": "一张纸",
+       "pinyin": "Yì zhāng zhǐ",
+       "terjemahan": "Selembar kertas"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-2.4",
+     "number": "2.4",
+     "title": "Kata Penggolong \"种\" (zhǒng)",
+     "fungsi": "Untuk jenis atau macam .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "Angka + 种 + KB",
+       "contoh": "两种语言",
+       "pinyin": "Liǎng zhǒng yǔyán",
+       "terjemahan": "Dua jenis bahasa"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-2.5",
+     "number": "2.5",
+     "title": "Kata Penggolong \"辆\" (liàng)",
+     "fungsi": "Untuk kendaraan .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "Angka + 辆 + KB",
+       "contoh": "一辆车",
+       "pinyin": "Yí liàng chē",
+       "terjemahan": "Satu mobil"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-2.6",
+     "number": "2.6",
+     "title": "Kata Penggolong \"封\" (fēng)",
+     "fungsi": "Untuk surat .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "Angka + 封 + KB",
+       "contoh": "一封信",
+       "pinyin": "Yì fēng xìn",
+       "terjemahan": "Satu surat"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-2.7",
+     "number": "2.7",
+     "title": "Kata Penggolong \"层\" (céng)",
+     "fungsi": "Untuk lapisan atau lantai .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "Angka + 层 + KB",
+       "contoh": "十层楼",
+       "pinyin": "Shí céng lóu",
+       "terjemahan": "Sepuluh lantai"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-2.8",
+     "number": "2.8",
+     "title": "Kata Penggolong \"句\" (jù)",
+     "fungsi": "Untuk kalimat .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "Angka + 句 + KB",
+       "contoh": "一句话",
+       "pinyin": "Yí jù huà",
+       "terjemahan": "Satu kalimat"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-2.9",
+     "number": "2.9",
+     "title": "Kata Penggolong \"段\" (duàn)",
+     "fungsi": "Untuk paragraf atau periode waktu .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "Angka + 段 + KB",
+       "contoh": "一段话",
+       "pinyin": "Yí duàn huà",
+       "terjemahan": "Satu paragraf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Partikel (Particles)",
+   "points": [
+    {
+     "id": "hsk3-3.1",
+     "number": "3.1",
+     "title": "Partikel \"的话\" (de huà) - Jika (Pelembut)",
+     "fungsi": "Melembutkan klausa kondisional, sering dipasangkan dengan 如果 .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "Jika + 的话 + (Result)",
+       "contoh": "如果你来的话，给我打电话。",
+       "pinyin": "Rúguǒ nǐ lái de huà, gěi wǒ dǎ diànhuà.",
+       "terjemahan": "Kalau kamu datang, telepon saya."
+      },
+      {
+       "jenis": "Interogatif",
+       "pola": "Jika + 的话 + Result + 吗?",
+       "contoh": "如果下雨的话，比赛还会举行吗？",
+       "pinyin": "Rúguǒ xiàyǔ de huà, bǐsài hái huì jǔxíng ma?",
+       "terjemahan": "Kalau hujan, apakah pertandingan tetap dilaksanakan?"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-3.2",
+     "number": "3.2",
+     "title": "Partikel \"地\" (de) - Pembentuk Adverbia",
+     "fungsi": "Mengubah kata sifat menjadi adverbia (kata keterangan) .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "KS + 地 + V",
+       "contoh": "你要认真地学习。",
+       "pinyin": "Nǐ yào rènzhēn de xuéxí.",
+       "terjemahan": "Kamu harus belajar dengan serius."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "KS + 地 + V",
+       "contoh": "慢慢地走",
+       "pinyin": "Mànmàn de zǒu",
+       "terjemahan": "Berjalan pelan-pelan"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kata Keterangan (Adverbs)",
+   "points": [
+    {
+     "id": "hsk3-4.1",
+     "number": "4.1",
+     "title": "Kata Keterangan \"比较\" (bǐjiào) - Agak/Relatif",
+     "fungsi": "Menyatakan \"agak\" atau \"relatif\" (lebih ringan dari 很) .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "比较 + KS",
+       "contoh": "今天比较冷。",
+       "pinyin": "Jīntiān bǐjiào lěng.",
+       "terjemahan": "Hari ini agak dingin."
+      },
+      {
+       "jenis": "Interogatif",
+       "pola": "比较 + KS + 吗?",
+       "contoh": "这个比较难吗？",
+       "pinyin": "Zhège bǐjiào nán ma?",
+       "terjemahan": "Apakah ini agak sulit?"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-4.2",
+     "number": "4.2",
+     "title": "Kata Keterangan \"才\" (cái) - Baru / Hanya",
+     "fungsi": "",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "才 + V",
+       "contoh": "他才来。",
+       "pinyin": "Tā cái lái.",
+       "terjemahan": "Dia baru datang."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "Subjek + Waktu + 才 + V",
+       "contoh": "他二十五岁才上大学。",
+       "pinyin": "Tā èrshíwǔ suì cái shàng dàxué.",
+       "terjemahan": "Dia baru masuk universitas umur 25."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "才 + Angka + KW",
+       "contoh": "才五点。",
+       "pinyin": "Cái wǔ diǎn.",
+       "terjemahan": "Baru jam 5."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-4.3",
+     "number": "4.3",
+     "title": "Kata Keterangan \"终于\" (zhōngyú) - Akhirnya",
+     "fungsi": "Menyatakan \"akhirnya\" setelah menunggu lama .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "终于 + V + 了",
+       "contoh": "你终于到了！",
+       "pinyin": "Nǐ zhōngyú dào le!",
+       "terjemahan": "Kamu akhirnya sampai!"
+      },
+      {
+       "jenis": "Ekslamatif",
+       "pola": "终于 + V + 了！",
+       "contoh": "终于找到了！",
+       "pinyin": "Zhōngyú zhǎo dào le!",
+       "terjemahan": "Akhirnya ketemu!"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-4.4",
+     "number": "4.4",
+     "title": "Kata Keterangan \"一直\" (yīzhí) - Selalu/Terus",
+     "fungsi": "Menyatakan \"terus menerus\" atau \"sepanjang waktu\" .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "一直 + V",
+       "contoh": "我一直在这里工作。",
+       "pinyin": "Wǒ yīzhí zài zhèlǐ gōngzuò.",
+       "terjemahan": "Saya selalu bekerja di sini."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "一直 + 不/没 + V",
+       "contoh": "他一直没来。",
+       "pinyin": "Tā yīzhí méi lái.",
+       "terjemahan": "Dia terus tidak datang."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-4.5",
+     "number": "4.5",
+     "title": "Kata Keterangan \"总是\" (zǒngshì) - Selalu (Kebiasaan)",
+     "fungsi": "Menyatakan kebiasaan atau frekuensi tinggi .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "总是 + V",
+       "contoh": "他总是迟到。",
+       "pinyin": "Tā zǒngshì chídào.",
+       "terjemahan": "Dia selalu terlambat."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-4.6",
+     "number": "4.6",
+     "title": "Kata Keterangan \"马上\" (mǎshàng) - Segera",
+     "fungsi": "Menyatakan \"segera\" atau \"dalam waktu dekat\" .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "马上 + V",
+       "contoh": "我马上就来。",
+       "pinyin": "Wǒ mǎshàng jiù lái.",
+       "terjemahan": "Saya segera datang."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-4.7",
+     "number": "4.7",
+     "title": "Kata Keterangan \"刚 / 刚刚\" (gāng / gānggāng) - Baru Saja",
+     "fungsi": "Menyatakan \"baru saja\" terjadi .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "刚 + V",
+       "contoh": "他刚走。",
+       "pinyin": "Tā gāng zǒu.",
+       "terjemahan": "Dia baru saja pergi."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "刚刚 + V",
+       "contoh": "我刚刚到。",
+       "pinyin": "Wǒ gānggāng dào.",
+       "terjemahan": "Saya baru saja sampai."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-4.8",
+     "number": "4.8",
+     "title": "Kata Keterangan \"特别\" (tèbié) - Sangat/Istimewa",
+     "fungsi": "Menyatakan \"sangat\" atau \"terutama\" .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "特别 + KS/V",
+       "contoh": "这里特别美。",
+       "pinyin": "Zhèlǐ tèbié měi.",
+       "terjemahan": "Di sini sangat indah."
+      },
+      {
+       "jenis": "Ekslamatif",
+       "pola": "特别 + KS + 啊！",
+       "contoh": "特别好吃啊！",
+       "pinyin": "Tèbié hǎochī a!",
+       "terjemahan": "Sangat enak!"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-4.9",
+     "number": "4.9",
+     "title": "Kata Keterangan \"大概\" (dàgài) - Kira-kira/Mungkin",
+     "fungsi": "Menyatakan perkiraan atau kemungkinan .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "大概 + V/KS",
+       "contoh": "他大概不来了。",
+       "pinyin": "Tā dàgài bù lái le.",
+       "terjemahan": "Dia mungkin tidak datang."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-4.10",
+     "number": "4.10",
+     "title": "Kata Keterangan \"几乎\" (jīhū) - Hampir",
+     "fungsi": "Menyatakan \"hampir\" (90%+) .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "几乎 + V/KS",
+       "contoh": "几乎所有人都来了。",
+       "pinyin": "Jīhū suǒyǒu rén dōu lái le.",
+       "terjemahan": "Hampir semua orang datang."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-4.11",
+     "number": "4.11",
+     "title": "Kata Keterangan \"当然\" (dāngrán) - Tentu Saja",
+     "fungsi": "Menyatakan \"tentu saja\" .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "当然 + V/KS",
+       "contoh": "当然可以。",
+       "pinyin": "Dāngrán kěyǐ.",
+       "terjemahan": "Tentu saja boleh."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-4.12",
+     "number": "4.12",
+     "title": "Kata Keterangan \"其实\" (qíshí) - Sebenarnya",
+     "fungsi": "Menyatakan fakta yang sebenarnya .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "其实 + V/KS",
+       "contoh": "其实我不太喜欢。",
+       "pinyin": "Qíshí wǒ bù tài xǐhuān.",
+       "terjemahan": "Sebenarnya saya tidak terlalu suka."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-4.13",
+     "number": "4.13",
+     "title": "Kata Keterangan \"必须\" (bìxū) - Harus (Kuat)",
+     "fungsi": "Menyatakan keharusan yang kuat .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "必须 + V",
+       "contoh": "你必须按时交作业。",
+       "pinyin": "Nǐ bìxū ànshí jiāo zuòyè.",
+       "terjemahan": "Kamu harus mengumpulkan tugas tepat waktu."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-4.14",
+     "number": "4.14",
+     "title": "Kata Keterangan \"差不多\" (chàbuduō) - Hampir/Kira-kira",
+     "fungsi": "Menyatakan \"hampir sama\" atau \"kira-kira\" .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "差不多 + KS/V",
+       "contoh": "差不多好了。",
+       "pinyin": "Chàbuduō hǎo le.",
+       "terjemahan": "Hampir selesai."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-4.15",
+     "number": "4.15",
+     "title": "Kata Keterangan \"又\" (yòu) - Lagi (Masa Lalu)",
+     "fungsi": "Menyatakan pengulangan tindakan di masa lalu .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "又 + V + 了",
+       "contoh": "你又迟到了。",
+       "pinyin": "Nǐ yòu chídào le.",
+       "terjemahan": "Kamu terlambat lagi."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kata Depan (Prepositions)",
+   "points": [
+    {
+     "id": "hsk3-5.1",
+     "number": "5.1",
+     "title": "Kata Depan \"把\" (bǎ) - Struktur Disposisi",
+     "fungsi": "Menempatkan objek sebelum kata kerja untuk menunjukkan dampak terhadap objek .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "S + 把 + O + V + 在/到/给 + Tempat/Orang",
+       "contoh": "我把裙子放到椅子上。",
+       "pinyin": "Wǒ bǎ qúnzi fàng dào yǐzi shàng.",
+       "terjemahan": "Saya menaruh rok di kursi."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "S + 把 + O + V + 结果/补语",
+       "contoh": "我把房间打扫了。",
+       "pinyin": "Wǒ bǎ fángjiān dǎsǎo le.",
+       "terjemahan": "Saya sudah membersihkan kamar."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "S + 没/不 + 把 + O + V + 补语",
+       "contoh": "我没把裙子放到椅子上。",
+       "pinyin": "Wǒ méi bǎ qúnzi fàng dào yǐzi shàng.",
+       "terjemahan": "Saya tidak menaruh rok di kursi."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "S + 没/不 + 把 + O + V + 补语",
+       "contoh": "他出去的时候没把冰箱关上。",
+       "pinyin": "Tā chūqu de shíhou méi bǎ bīngxiāng guānshàng.",
+       "terjemahan": "Waktu keluar dia tidak menutup kulkas."
+      },
+      {
+       "jenis": "Interogatif",
+       "pola": "S + 把 + O + V + 补语 + 了没有?",
+       "contoh": "他们把结果告诉你了没有？",
+       "pinyin": "Tāmen bǎ jiéguǒ gàosu nǐ le méiyǒu?",
+       "terjemahan": "Apakah mereka sudah memberitahumu hasilnya?"
+      },
+      {
+       "jenis": "Imperatif",
+       "pola": "把 + O + V + 补语 + 吧",
+       "contoh": "把重要的东西放在我这儿吧。",
+       "pinyin": "Bǎ zhòngyào de dōngxi fàng zài wǒ zhèr ba.",
+       "terjemahan": "Taruh barang penting di sini saja."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-5.2",
+     "number": "5.2",
+     "title": "Kata Depan \"被\" (bèi) - Pasif",
+     "fungsi": "Menandakan kalimat pasif di mana subjek menerima tindakan .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "S + 被 + Pelaku + V + 结果",
+       "contoh": "电脑被师傅修好了。",
+       "pinyin": "Diànnǎo bèi shīfu xiū hǎo le.",
+       "terjemahan": "Komputer sudah diperbaiki oleh teknisi."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "S + 被 + V + 了/过",
+       "contoh": "我的自行车被偷走了。",
+       "pinyin": "Wǒ de zìxíngchē bèi tōu zǒu le.",
+       "terjemahan": "Sepeda saya dicuri."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "S + 没被 + V",
+       "contoh": "手机没被摔坏。",
+       "pinyin": "Shǒujī méi bèi shuāi huài.",
+       "terjemahan": "HP tidak rusak jatuh."
+      },
+      {
+       "jenis": "Interogatif",
+       "pola": "S + 被 + V + 补语 + 了吗?",
+       "contoh": "教室被你们打扫干净了吗？",
+       "pinyin": "Jiàoshì bèi nǐmen dǎsǎo gānjìng le ma?",
+       "terjemahan": "Apakah kelas sudah dibersihkan oleh kalian?"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-5.3",
+     "number": "5.3",
+     "title": "Kata Depan \"比\" (bǐ) - Perbandingan",
+     "fungsi": "Membandingkan dua hal .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "A + 比 + B + KS",
+       "contoh": "他比我高。",
+       "pinyin": "Tā bǐ wǒ gāo.",
+       "terjemahan": "Dia lebih tinggi dari saya."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "A + 比 + B + KS + 数量",
+       "contoh": "北京比上海冷3度。",
+       "pinyin": "Běijīng bǐ Shànghǎi lěng 3 dù.",
+       "terjemahan": "Beijing lebih dingin 3 derajat dari Shanghai."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "A + 没/没有 + B + KS",
+       "contoh": "上海没有北京冷。",
+       "pinyin": "Shànghǎi méiyǒu Běijīng lěng.",
+       "terjemahan": "Shanghai tidak sedingin Beijing."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "A + 不 + 比 + B + KS",
+       "contoh": "他不比我高。",
+       "pinyin": "Tā bù bǐ wǒ gāo.",
+       "terjemahan": "Dia tidak lebih tinggi dari saya."
+      },
+      {
+       "jenis": "Interogatif",
+       "pola": "A + 比 + B + KS + 吗?",
+       "contoh": "他比你高吗？",
+       "pinyin": "Tā bǐ nǐ gāo ma?",
+       "terjemahan": "Apakah dia lebih tinggi darimu?"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-5.4",
+     "number": "5.4",
+     "title": "Kata Depan \"跟...一样\" (gēn...yīyàng) - Sama seperti",
+     "fungsi": "Menyatakan kesamaan .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "A + 跟 + B + 一样 + KS",
+       "contoh": "你跟他一样高。",
+       "pinyin": "Nǐ gēn tā yīyàng gāo.",
+       "terjemahan": "Kamu sama tingginya dengan dia."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "A + 跟 + B + 不一样 + KS",
+       "contoh": "你跟他不一样高。",
+       "pinyin": "Nǐ gēn tā bù yīyàng gāo.",
+       "terjemahan": "Kamu tidak sama tingginya dengan dia."
+      },
+      {
+       "jenis": "Interogatif",
+       "pola": "A + 跟 + B + 一样 + KS + 吗?",
+       "contoh": "你跟他一样高吗？",
+       "pinyin": "Nǐ gēn tā yīyàng gāo ma?",
+       "terjemahan": "Apakah kamu sama tingginya dengan dia?"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-5.5",
+     "number": "5.5",
+     "title": "Kata Depan \"从\" (cóng) - Dari",
+     "fungsi": "Menunjukkan asal waktu atau tempat .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "从 + Tempat + V",
+       "contoh": "我从北京来。",
+       "pinyin": "Wǒ cóng Běijīng lái.",
+       "terjemahan": "Saya datang dari Beijing."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "从 + Waktu + V",
+       "contoh": "从八点开始上课。",
+       "pinyin": "Cóng bā diǎn kāishǐ shàngkè.",
+       "terjemahan": "Mulai kelas dari jam 8."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-5.6",
+     "number": "5.6",
+     "title": "Kata Depan \"关于\" (guānyú) - Tentang/Mengenai",
+     "fungsi": "Menunjukkan topik .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "关于 + Topik",
+       "contoh": "关于中国历史，我知道的不多。",
+       "pinyin": "Guānyú Zhōngguó lìshǐ, wǒ zhīdào de bù duō.",
+       "terjemahan": "Tentang sejarah China, saya tidak tahu banyak."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-5.7",
+     "number": "5.7",
+     "title": "Kata Depan \"为了\" (wèile) - Untuk/Demi",
+     "fungsi": "Menunjukkan tujuan .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "为了 + Tujuan + Result",
+       "contoh": "为了学好中文，她每天都练习。",
+       "pinyin": "Wèile xué hǎo Zhōngwén, tā měitiān dōu liànxí.",
+       "terjemahan": "Untuk belajar Mandarin dengan baik, dia berlatih setiap hari."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Konjungsi (Conjunctions)",
+   "points": [
+    {
+     "id": "hsk3-6.1",
+     "number": "6.1",
+     "title": "\"如果...就...\" - Jika...maka...",
+     "fungsi": "Menyatakan hubungan kondisional (jika-maka) .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "如果 + Kondisi + 就 + Hasil",
+       "contoh": "如果下雨，就不去了。",
+       "pinyin": "Rúguǒ xiàyǔ, jiù bú qù le.",
+       "terjemahan": "Jika hujan, maka tidak jadi pergi."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "如果 + Kondisi + 的话 + 就 + Hasil",
+       "contoh": "如果你饿了，我们现在就去吃饭。",
+       "pinyin": "Rúguǒ nǐ è le de huà, wǒmen xiànzài jiù qù chīfàn.",
+       "terjemahan": "Kalau kamu lapar, kita pergi makan sekarang."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "如果 + 不 + Kondisi + 就 + Hasil",
+       "contoh": "如果你不努力，就不会成功。",
+       "pinyin": "Rúguǒ nǐ bù nǔlì, jiù bú huì chénggōng.",
+       "terjemahan": "Jika kamu tidak berusaha, maka tidak akan sukses."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-6.2",
+     "number": "6.2",
+     "title": "\"只要...就...\" - Asalkan...maka...",
+     "fungsi": "Menyatakan kondisi yang cukup (asalkan) .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "只要 + Kondisi + 就 + Hasil",
+       "contoh": "只要努力，就能成功。",
+       "pinyin": "Zhǐyào nǔlì, jiù néng chénggōng.",
+       "terjemahan": "Asalkan berusaha, pasti bisa sukses."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "只要 + Kondisi + 就 + Hasil",
+       "contoh": "只要明天不下雨，我们就去打篮球。",
+       "pinyin": "Zhǐyào míngtiān bú xiàyǔ, wǒmen jiù qù dǎ lánqiú.",
+       "terjemahan": "Asalkan besok tidak hujan, kami pergi main basket."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-6.3",
+     "number": "6.3",
+     "title": "\"只有...才...\" - Hanya jika...baru...",
+     "fungsi": "Menyatakan kondisi yang diperlukan (hanya jika) .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "只有 + Kondisi + 才 + Hasil",
+       "contoh": "只有努力，才能成功。",
+       "pinyin": "Zhǐyǒu nǔlì, cái néng chénggōng.",
+       "terjemahan": "Hanya dengan usaha, baru bisa sukses."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "只有 + Kondisi + 才 + Hasil",
+       "contoh": "只有在中国，才能吃到地道的中国菜。",
+       "pinyin": "Zhǐyǒu zài Zhōngguó, cái néng chīdào dìdào de Zhōngguó cài.",
+       "terjemahan": "Hanya di China, baru bisa makan masakan China asli."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-6.4",
+     "number": "6.4",
+     "title": "\"不但...而且...\" - Tidak hanya...tetapi juga...",
+     "fungsi": "Menyatakan penambahan informasi .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "不但 + A + 而且 + B",
+       "contoh": "不但聪明，而且努力。",
+       "pinyin": "Búdàn cōngmíng, érqiě nǔlì.",
+       "terjemahan": "Tidak hanya pintar, tetapi juga rajin."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-6.5",
+     "number": "6.5",
+     "title": "\"虽然...但是...\" - Meskipun...tetapi...",
+     "fungsi": "Menyatakan hubungan konsesi .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "虽然 + A + 但是 + B",
+       "contoh": "虽然很累，但是很开心。",
+       "pinyin": "Suīrán hěn lèi, dànshì hěn kāixīn.",
+       "terjemahan": "Meskipun lelah, tapi sangat senang."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "虽然 + A + 但是 + B",
+       "contoh": "他虽然外国人，但是汉语说得很好。",
+       "pinyin": "Tā suīrán wàiguórén, dànshì Hànyǔ shuō de hěn hǎo.",
+       "terjemahan": "Meskipun dia orang asing, tapi Mandarinnya bagus."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-6.6",
+     "number": "6.6",
+     "title": "\"因为...所以...\" - Karena...jadi...",
+     "fungsi": "Menyatakan sebab-akibat .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "因为 + Sebab + 所以 + Hasil",
+       "contoh": "因为下雨，所以我不去。",
+       "pinyin": "Yīnwèi xiàyǔ, suǒyǐ wǒ bú qù.",
+       "terjemahan": "Karena hujan, jadi saya tidak pergi."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-6.7",
+     "number": "6.7",
+     "title": "\"一边...一边...\" - Sambil...",
+     "fungsi": "Menyatakan dua tindakan dilakukan bersamaan .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "一边 + V1 + 一边 + V2",
+       "contoh": "一边说话，一边吃东西。",
+       "pinyin": "Yìbiān shuōhuà, yìbiān chī dōngxi.",
+       "terjemahan": "Sambil berbicara, sambil makan."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-6.8",
+     "number": "6.8",
+     "title": "\"或者\" (huòzhě) - Atau (Pernyataan)",
+     "fungsi": "Pilihan dalam pernyataan (bukan pertanyaan) .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "A + 或者 + B",
+       "contoh": "我想去青岛或者南京。",
+       "pinyin": "Wǒ xiǎng qù Qīngdǎo huòzhě Nánjīng.",
+       "terjemahan": "Saya ingin pergi ke Qingdao atau Nanjing."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-6.9",
+     "number": "6.9",
+     "title": "\"还是\" (háishi) - Atau (Tanya)",
+     "fungsi": "Pilihan dalam pertanyaan .",
+     "table": [
+      {
+       "jenis": "Interogatif",
+       "pola": "A + 还是 + B + ?",
+       "contoh": "你喝茶还是咖啡？",
+       "pinyin": "Nǐ hē chá háishi kāfēi?",
+       "terjemahan": "Kamu minum teh atau kopi?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Komplemen (Complements)",
+   "points": [
+    {
+     "id": "hsk3-7.1",
+     "number": "7.1",
+     "title": "Komplemen Potensial (Potential Complement)",
+     "fungsi": "Menyatakan apakah suatu hasil dapat dicapai atau tidak .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "V + 得 + Hasil",
+       "contoh": "看得见/做得完",
+       "pinyin": "Kàn de jiàn / Zuò de wán",
+       "terjemahan": "Bisa melihat / Bisa selesai"
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "V + 不 + Hasil",
+       "contoh": "看不见/做不完",
+       "pinyin": "Kàn bú jiàn / Zuò bù wán",
+       "terjemahan": "Tidak bisa melihat / Tidak bisa selesai"
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "V + 得 + 懂",
+       "contoh": "他听得懂汉语。",
+       "pinyin": "Tā tīng de dǒng Hànyǔ.",
+       "terjemahan": "Dia bisa mengerti Mandarin yang didengar."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "V + 不 + 懂",
+       "contoh": "我听不懂。",
+       "pinyin": "Wǒ tīng bù dǒng.",
+       "terjemahan": "Saya tidak mengerti."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "V + 得 + 完",
+       "contoh": "作业做得完吗？",
+       "pinyin": "Zuòyè zuò de wán ma?",
+       "terjemahan": "Apakah PR bisa selesai?"
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "V + 不 + 完",
+       "contoh": "作业太多，做不完。",
+       "pinyin": "Zuòyè tài duō, zuò bù wán.",
+       "terjemahan": "PR terlalu banyak, tidak bisa selesai."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "V + 得 + 进/去",
+       "contoh": "进得去。",
+       "pinyin": "Jìn de qù.",
+       "terjemahan": "Bisa masuk (ke sana)."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "V + 不 + 进/去",
+       "contoh": "进不去。",
+       "pinyin": "Jìn bú qù.",
+       "terjemahan": "Tidak bisa masuk."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "V + 得 + 了",
+       "contoh": "吃得了。",
+       "pinyin": "Chī de liǎo.",
+       "terjemahan": "Bisa habis dimakan."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "V + 不 + 了",
+       "contoh": "吃不了。",
+       "pinyin": "Chī bù liǎo.",
+       "terjemahan": "Tidak bisa habis dimakan."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-7.2",
+     "number": "7.2",
+     "title": "Komplemen Arah 2 (Directional Complement - Extended)",
+     "fungsi": "",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "V + 起来",
+       "contoh": "唱起来了。",
+       "pinyin": "Chàng qǐlái le.",
+       "terjemahan": "Mulai bernyanyi."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "V + 起来",
+       "contoh": "笑起来了。",
+       "pinyin": "Xiào qǐlái le.",
+       "terjemahan": "Mulai tertawa."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "V + 下去",
+       "contoh": "说下去。",
+       "pinyin": "Shuō xiàqù.",
+       "terjemahan": "Terus bicara."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "V + 不 + 下去",
+       "contoh": "我坚持不下去了。",
+       "pinyin": "Wǒ jiānchí bù xiàqù le.",
+       "terjemahan": "Saya tidak bisa bertahan lagi."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "V + 下来",
+       "contoh": "坚持下来。",
+       "pinyin": "Jiānchí xiàlái.",
+       "terjemahan": "Bertahan sampai selesai."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-7.3",
+     "number": "7.3",
+     "title": "Komplemen Hasil 2 (Resultative Complement 2)",
+     "fungsi": "Menunjukkan hasil dari suatu tindakan .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "V + 到",
+       "contoh": "我找到了。",
+       "pinyin": "Wǒ zhǎo dào le.",
+       "terjemahan": "Saya sudah menemukannya."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "V + 住",
+       "contoh": "我记住了。",
+       "pinyin": "Wǒ jì zhù le.",
+       "terjemahan": "Saya sudah mengingatnya."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "V + 走",
+       "contoh": "他带走了。",
+       "pinyin": "Tā dài zǒu le.",
+       "terjemahan": "Dia membawanya pergi."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "V + 上",
+       "contoh": "我爱上他了。",
+       "pinyin": "Wǒ ài shàng tā le.",
+       "terjemahan": "Saya jatuh cinta padanya."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "V + 好",
+       "contoh": "我复习好了。",
+       "pinyin": "Wǒ fùxí hǎo le.",
+       "terjemahan": "Saya sudah selesai mengulang."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "没 + V + 好",
+       "contoh": "我还没准备好。",
+       "pinyin": "Wǒ hái méi zhǔnbèi hǎo.",
+       "terjemahan": "Saya belum siap."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-7.4",
+     "number": "7.4",
+     "title": "Komplemen Derajat 2 (Degree Complement 2)",
+     "fungsi": "Menyatakan derajat yang ekstrem .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "KS/V + 极了",
+       "contoh": "好极了！",
+       "pinyin": "Hǎo jí le!",
+       "terjemahan": "Bagus sekali!"
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "KS/V + 极了",
+       "contoh": "这只小猫可爱极了。",
+       "pinyin": "Zhè zhī xiǎo māo kě'ài jí le.",
+       "terjemahan": "Anak kucing ini sangat lucu."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "KS + 得很",
+       "contoh": "高兴得很。",
+       "pinyin": "Gāoxìng de hěn.",
+       "terjemahan": "Sangat senang."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "KS/V + 坏了",
+       "contoh": "急坏了！",
+       "pinyin": "Jí huài le!",
+       "terjemahan": "Sangat cemas!"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-7.5",
+     "number": "7.5",
+     "title": "Komplemen Keadaan (State Complement) - Lanjutan",
+     "fungsi": "Menggambarkan keadaan dari suatu tindakan .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "V + 得 + Frasa V",
+       "contoh": "她累得不想说话。",
+       "pinyin": "Tā lèi de bù xiǎng shuōhuà.",
+       "terjemahan": "Dia sangat lelah sampai tidak mau bicara."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "V + 得 + Frasa V",
+       "contoh": "大卫高兴得又唱又跳。",
+       "pinyin": "Dàwèi gāoxìng de yòu chàng yòu tiào.",
+       "terjemahan": "David sangat senang sampai bernyanyi dan menari."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Pola Kalimat Khusus",
+   "points": [
+    {
+     "id": "hsk3-8.1",
+     "number": "8.1",
+     "title": "\"是...的\" (Penekanan) - Lanjutan",
+     "fungsi": "Menekankan informasi tertentu (waktu, tempat, cara, pelaku) .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "S + 是 + Info + V + 的",
+       "contoh": "这个菜单是用汉语写的。",
+       "pinyin": "Zhège càidān shì yòng Hànyǔ xiě de.",
+       "terjemahan": "Menu ini ditulis dalam bahasa Mandarin."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "S + 不是 + Info + V + 的",
+       "contoh": "这个菜单不是用汉语写的。",
+       "pinyin": "Zhège càidān bú shì yòng Hànyǔ xiě de.",
+       "terjemahan": "Menu ini bukan ditulis dalam bahasa Mandarin."
+      },
+      {
+       "jenis": "Interogatif",
+       "pola": "S + 是 + Info + V + 的 + 吗?",
+       "contoh": "你是用汉语写的吗？",
+       "pinyin": "Nǐ shì yòng Hànyǔ xiě de ma?",
+       "terjemahan": "Apakah kamu menulisnya dalam bahasa Mandarin?"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-8.2",
+     "number": "8.2",
+     "title": "\"除了...以外，都/还/也...\" - Selain...semua/juga...",
+     "fungsi": "Mengecualikan satu bagian dari kelompok .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "除了 + A + 以外 + 都 + B",
+       "contoh": "除了数学课以外，其他课玛丽都喜欢。",
+       "pinyin": "Chúle shùxué kè yǐwài, qítā kè Mǎlì dōu xǐhuān.",
+       "terjemahan": "Selain pelajaran matematika, Mary suka semua pelajaran lainnya."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "除了 + A + 以外 + 还/也 + B",
+       "contoh": "除了茶以外，老师还喜欢喝咖啡和果汁。",
+       "pinyin": "Chúle chá yǐwài, lǎoshī hái xǐhuān hē kāfēi hé guǒzhī.",
+       "terjemahan": "Selain teh, guru juga suka minum kopi dan jus."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-8.3",
+     "number": "8.3",
+     "title": "\"一...也/都+不/没...\" - Tidak satupun...",
+     "fungsi": "Menyatakan negasi total .",
+     "table": [
+      {
+       "jenis": "Negatif",
+       "pola": "一 + KW + 也/都 + 不/没 + V",
+       "contoh": "外面一个人都没有。",
+       "pinyin": "Wàimiàn yí gè rén dōu méiyǒu.",
+       "terjemahan": "Di luar tidak ada satu orang pun."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "一 + KW + 也/都 + 不/没 + V",
+       "contoh": "她一口水也没喝。",
+       "pinyin": "Tā yì kǒu shuǐ yě méi hē.",
+       "terjemahan": "Dia tidak minum seteguk air pun."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "一点儿 + 也/都 + 不 + KS",
+       "contoh": "这本书一点儿都不难。",
+       "pinyin": "Zhè běn shū yìdiǎnr dōu bù nán.",
+       "terjemahan": "Buku ini sama sekali tidak sulit."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-8.4",
+     "number": "8.4",
+     "title": "\"越来越...\" - Semakin...",
+     "fungsi": "Menyatakan perubahan bertahap .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "越来越 + KS/V",
+       "contoh": "生词越来越多。",
+       "pinyin": "Shēngcí yuèláiyuè duō.",
+       "terjemahan": "Kosakata semakin banyak."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "越来越 + KS/V",
+       "contoh": "杰克汉语说得越来越好。",
+       "pinyin": "Jiékè Hànyǔ shuō de yuèláiyuè hǎo.",
+       "terjemahan": "Mandarin Jack semakin bagus."
+      },
+      {
+       "jenis": "Negatif",
+       "pola": "越来越 + 不 + KS/V",
+       "contoh": "情况越来越不好。",
+       "pinyin": "Qíngkuàng yuèláiyuè bù hǎo.",
+       "terjemahan": "Situasi semakin tidak baik."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-8.5",
+     "number": "8.5",
+     "title": "\"越...越...\" - Semakin...semakin...",
+     "fungsi": "Menyatakan hubungan kausal antara dua perubahan .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "越 + V/KS1 + 越 + V/KS2",
+       "contoh": "越学越喜欢。",
+       "pinyin": "Yuè xué yuè xǐhuān.",
+       "terjemahan": "Semakin belajar, semakin suka."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "越 + V/KS1 + 越 + V/KS2",
+       "contoh": "天越来越冷了。",
+       "pinyin": "Tiān yuèláiyuè lěng le.",
+       "terjemahan": "Cuaca semakin dingin."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-8.6",
+     "number": "8.6",
+     "title": "\"又...又...\" - ...dan... (Sifat)",
+     "fungsi": "Menyatakan dua sifat secara bersamaan .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "又 + KS1 + 又 + KS2",
+       "contoh": "玛丽又聪明又漂亮。",
+       "pinyin": "Mǎlì yòu cōngmíng yòu piàoliang.",
+       "terjemahan": "Mary pintar dan cantik."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "又 + KS1 + 又 + KS2",
+       "contoh": "这条裙子又便宜又好看。",
+       "pinyin": "Zhè tiáo qúnzi yòu piányi yòu hǎokàn.",
+       "terjemahan": "Rok ini murah dan bagus."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-8.7",
+     "number": "8.7",
+     "title": "\"一...就...\" - Begitu...langsung...",
+     "fungsi": "Menyatakan dua tindakan berurutan .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "一 + V1 + 就 + V2",
+       "contoh": "他一回家就吃饭。",
+       "pinyin": "Tā yì huí jiā jiù chīfàn.",
+       "terjemahan": "Begitu pulang, dia langsung makan."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-8.8",
+     "number": "8.8",
+     "title": "\"先...再...\" - Pertama...kemudian...",
+     "fungsi": "Menyatakan urutan tindakan .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "先 + V1 + 再 + V2",
+       "contoh": "先洗手，再吃饭。",
+       "pinyin": "Xiān xǐ shǒu, zài chīfàn.",
+       "terjemahan": "Cuci tangan dulu, baru makan."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Pengulangan Kata (Reduplication)",
+   "points": [
+    {
+     "id": "hsk3-9.1",
+     "number": "9.1",
+     "title": "Pengulangan Kata Sifat Tunggal",
+     "fungsi": "Menekankan sifat atau membuatnya lebih hidup .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "KS + KS",
+       "contoh": "大卫个子高高的。",
+       "pinyin": "Dàwèi gèzi gāogāo de.",
+       "terjemahan": "David badannya tinggi."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "KS + KS",
+       "contoh": "这个孩子胖胖的。",
+       "pinyin": "Zhège háizi pàngpàng de.",
+       "terjemahan": "Anak ini gemuk."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-9.2",
+     "number": "9.2",
+     "title": "Pengulangan Kata Kerja Dua Suku Kata",
+     "fungsi": "Melembutkan tindakan atau menunjukkan durasi singkat .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "ABAB",
+       "contoh": "我想休息休息。",
+       "pinyin": "Wǒ xiǎng xiūxi xiūxi.",
+       "terjemahan": "Saya ingin istirahat sebentar."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "ABAB",
+       "contoh": "请你介绍介绍北京。",
+       "pinyin": "Qǐng nǐ jièshào jièshào Běijīng.",
+       "terjemahan": "Tolong perkenalkan Beijing sedikit."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-9.3",
+     "number": "9.3",
+     "title": "Pengulangan Kata Penggolong",
+     "fungsi": "Menyatakan \"setiap\" .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "KW + KW + 都",
+       "contoh": "个个都很好。",
+       "pinyin": "Gè gè dōu hěn hǎo.",
+       "terjemahan": "Semuanya baik."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kata Tanya Non-Question",
+   "points": [
+    {
+     "id": "hsk3-10.1",
+     "number": "10.1",
+     "title": "疑问代词 + 都 - Siapa pun/Apa pun",
+     "fungsi": "Menyatakan \"siapa pun\", \"apa pun\", \"di mana pun\" .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "疑问代词 + 都",
+       "contoh": "谁都可以来。",
+       "pinyin": "Shéi dōu kěyǐ lái.",
+       "terjemahan": "Siapa pun boleh datang."
+      },
+      {
+       "jenis": "Afirmatif",
+       "pola": "疑问代词 + 都",
+       "contoh": "哪儿都好玩。",
+       "pinyin": "Nǎr dōu hǎowán.",
+       "terjemahan": "Di mana pun menyenangkan."
+      }
+     ]
+    },
+    {
+     "id": "hsk3-10.2",
+     "number": "10.2",
+     "title": "疑问代词 + 疑问代词 - Suka-suka",
+     "fungsi": "Menyatakan \"suka-suka\" atau \"apa pun\" .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "什么 + 就 + 什么",
+       "contoh": "你喜欢什么就买什么。",
+       "pinyin": "Nǐ xǐhuān shénme jiù mǎi shénme.",
+       "terjemahan": "Kamu suka apa, beli itu."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Prefix & Suffix",
+   "points": [
+    {
+     "id": "hsk3-11.1",
+     "number": "11.1",
+     "title": "Prefix \"老—\" (lǎo)",
+     "fungsi": "Untuk orang, binatang, dan istilah akrab .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "老 + Kata",
+       "contoh": "老师、老板、老鼠",
+       "pinyin": "Lǎoshī, lǎobǎn, lǎoshǔ",
+       "terjemahan": "Guru, bos, tikus"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-11.2",
+     "number": "11.2",
+     "title": "Suffix \"—家\" (jiā)",
+     "fungsi": "Untuk ahli/spesialis dalam suatu bidang .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "Kata + 家",
+       "contoh": "科学家、艺术家、音乐家",
+       "pinyin": "Kēxuéjiā, yìshùjiā, yīnyuèjiā",
+       "terjemahan": "Ilmuwan, seniman, musisi"
+      }
+     ]
+    },
+    {
+     "id": "hsk3-11.3",
+     "number": "11.3",
+     "title": "Suffix \"—员\" (yuán)",
+     "fungsi": "Untuk personel atau anggota .",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "Kata + 员",
+       "contoh": "运动员、服务员、演员",
+       "pinyin": "Yùndòngyuán, fúwùyuán, yǎnyuán",
+       "terjemahan": "Atlet, pelayan, aktor"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "把字句 & 被动句 (Kalimat 把 & Kalimat Pasif)",
+   "points": [
+    {
+     "title": "把字句1(1) — 把+O+V+在/到+Tempat",
+     "title_cn": "“把”字句1(1)：主语+把+宾语+动词+在/到+处所",
+     "fungsi": "Menyatakan memindahkan/menempatkan objek ke suatu tempat. 把 mengedepankan objek untuk menekankan APA yang terjadi padanya.",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "S+把+O+V+在/到+Tempat",
+       "contoh": "我把书放在桌子上。",
+       "pinyin": "Wǒ bǎ shū fàng zài zhuōzi shàng.",
+       "terjemahan": "Saya meletakkan buku di atas meja."
+      }
+     ],
+     "id": "hsk3-12.1",
+     "number": "12.1",
+     "tingkat": "HSK 3",
+     "kategori": "把字句 & 被动句 (Kalimat 把 & Kalimat Pasif)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "把字句1(2) — 把+O1+V(给)+O2",
+     "title_cn": "“把”字句1(2)：主语+把+宾语1+动词（给）+宾语2",
+     "fungsi": "Menyatakan memberikan/menyerahkan objek kepada seseorang, dengan objek yang diserahkan ditekankan lewat 把.",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "S+把+O1+V(给)+O2",
+       "contoh": "我把钱还给他了。",
+       "pinyin": "Wǒ bǎ qián huán gěi tā le.",
+       "terjemahan": "Saya mengembalikan uangnya padanya."
+      }
+     ],
+     "id": "hsk3-12.2",
+     "number": "12.2",
+     "tingkat": "HSK 3",
+     "kategori": "把字句 & 被动句 (Kalimat 把 & Kalimat Pasif)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "把字句1(3) — 把+O+V+Komplemen",
+     "title_cn": "“把”字句1(3)：主语+把+宾语+动词+结果/趋向/状态补语",
+     "fungsi": "Bentuk 把字句 paling umum: menekankan HASIL yang terjadi pada objek setelah aksi dilakukan. Kata kerja WAJIB diikuti komplemen (tidak boleh berdiri sendiri).",
+     "table": [
+      {
+       "jenis": "Komplemen hasil",
+       "pola": "S+把+O+V+结果补语+了",
+       "contoh": "我把作业做完了。",
+       "pinyin": "Wǒ bǎ zuòyè zuò wán le.",
+       "terjemahan": "Saya sudah menyelesaikan PR."
+      },
+      {
+       "jenis": "Komplemen keadaan",
+       "pola": "S+把+O+V+得+Adj",
+       "contoh": "他把房间打扫得很干净。",
+       "pinyin": "Tā bǎ fángjiān dǎsǎo de hěn gānjìng.",
+       "terjemahan": "Dia membersihkan kamar sampai sangat bersih."
+      }
+     ],
+     "id": "hsk3-12.3",
+     "number": "12.3",
+     "tingkat": "HSK 3",
+     "kategori": "把字句 & 被动句 (Kalimat 把 & Kalimat Pasif)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "被动句1(1) — 被+O+V+Lainnya",
+     "title_cn": "被动句1(1)：主语+被+宾语+动词+其他成分",
+     "fungsi": "Kalimat pasif dengan pelaku disebutkan eksplisit setelah 被.",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "S(penderita)+被+Pelaku+V+Komplemen",
+       "contoh": "我的手机被弟弟弄坏了。",
+       "pinyin": "Wǒ de shǒujī bèi dìdi nòng huài le.",
+       "terjemahan": "HP saya dirusak oleh adik."
+      }
+     ],
+     "id": "hsk3-12.4",
+     "number": "12.4",
+     "tingkat": "HSK 3",
+     "kategori": "把字句 & 被动句 (Kalimat 把 & Kalimat Pasif)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "被动句1(2) — 被+V+Lainnya (Pelaku Tak Disebut)",
+     "title_cn": "被动句1(2)：主语+被+动词+其他成分",
+     "fungsi": "Kalimat pasif tanpa menyebutkan siapa pelakunya secara eksplisit.",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "S(penderita)+被+V+Komplemen",
+       "contoh": "蛋糕被吃完了。",
+       "pinyin": "Dàngāo bèi chī wán le.",
+       "terjemahan": "Kuenya sudah habis dimakan (oleh seseorang)."
+      }
+     ],
+     "id": "hsk3-12.5",
+     "number": "12.5",
+     "tingkat": "HSK 3",
+     "kategori": "把字句 & 被动句 (Kalimat 把 & Kalimat Pasif)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    }
+   ]
+  },
+  {
+   "name": "比较句 Lanjutan (Comparison Extended)",
+   "points": [
+    {
+     "title": "A比B更/还+Adj — Perbandingan Ditegaskan",
+     "title_cn": "比较句2(1)：A比B+更/还+形容词",
+     "fungsi": "Menambahkan 更/还 sebelum kata sifat untuk menegaskan tingkat perbandingannya.",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "A+比+B+更/还+Adj",
+       "contoh": "这个比那个更贵。",
+       "pinyin": "Zhège bǐ nàge gèng guì.",
+       "terjemahan": "Ini lebih mahal lagi daripada itu."
+      }
+     ],
+     "id": "hsk3-13.1",
+     "number": "13.1",
+     "tingkat": "HSK 3",
+     "kategori": "比较句 Lanjutan (Comparison Extended)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "A跟B一样(+Adj) — Kesetaraan",
+     "title_cn": "比较句2(2)(3)：A跟B一样；A跟B一样+形容词",
+     "fungsi": "Menyatakan A dan B setara/sama, bisa berdiri sendiri atau diikuti kata sifat spesifik.",
+     "table": [
+      {
+       "jenis": "Sama saja",
+       "pola": "A + 跟 + B + 一样",
+       "contoh": "我的想法跟你一样。",
+       "pinyin": "Wǒ de xiǎngfǎ gēn nǐ yíyàng.",
+       "terjemahan": "Pikiran saya sama dengan kamu."
+      },
+      {
+       "jenis": "Sama dalam hal Adj",
+       "pola": "A+跟+B+一样+Adj",
+       "contoh": "他跟我一样高。",
+       "pinyin": "Tā gēn wǒ yíyàng gāo.",
+       "terjemahan": "Dia setinggi saya."
+      }
+     ],
+     "id": "hsk3-13.2",
+     "number": "13.2",
+     "tingkat": "HSK 3",
+     "kategori": "比较句 Lanjutan (Comparison Extended)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "A不比B+Adj — Menyangkal Lebih",
+     "title_cn": "比较句2(4)：A不比B+形容词",
+     "fungsi": "Menyangkal bahwa A lebih [sifat] daripada B (bukan berarti A kurang, tapi menyatakan keduanya kurang lebih setara).",
+     "table": [
+      {
+       "jenis": "Negatif",
+       "pola": "A + 不比 + B + Adj",
+       "contoh": "今天不比昨天冷。",
+       "pinyin": "Jīntiān bù bǐ zuótiān lěng.",
+       "terjemahan": "Hari ini tidak lebih dingin dari kemarin."
+      }
+     ],
+     "id": "hsk3-13.3",
+     "number": "13.3",
+     "tingkat": "HSK 3",
+     "kategori": "比较句 Lanjutan (Comparison Extended)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "A比B+多/少/早/晚+V+Angka",
+     "title_cn": "比较句2(5)：A比B+多/少/早/晚+动词+数量短语",
+     "fungsi": "Membandingkan JUMLAH selisih suatu aksi antara A dan B.",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "A+比+B+多/少/早/晚+V+Angka+satuan",
+       "contoh": "我比他早来十分钟。",
+       "pinyin": "Wǒ bǐ tā zǎo lái shí fēnzhōng.",
+       "terjemahan": "Saya datang sepuluh menit lebih awal dari dia."
+      }
+     ],
+     "id": "hsk3-13.4",
+     "number": "13.4",
+     "tingkat": "HSK 3",
+     "kategori": "比较句 Lanjutan (Comparison Extended)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    }
+   ]
+  },
+  {
+   "name": "POLA KALIMAT LAIN (Reduplikasi Aksi & Lainnya)",
+   "points": [
+    {
+     "title": "反问句 — 不是……吗？ (Bukankah...?)",
+     "title_cn": "反问句1：不是……吗？",
+     "fungsi": "Kalimat tanya retoris untuk menegaskan sesuatu (bukan benar-benar bertanya, tapi menekankan sebaliknya dari apa yang tersirat).",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "这/那 + 不是 + Klausa + 吗？",
+       "contoh": "这不是很简单吗？",
+       "pinyin": "Zhè bú shì hěn jiǎndān ma?",
+       "terjemahan": "Bukankah ini sangat mudah?"
+      }
+     ],
+     "id": "hsk3-14.1",
+     "number": "14.1",
+     "tingkat": "HSK 3",
+     "kategori": "POLA KALIMAT LAIN (Reduplikasi Aksi & Lainnya)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "重动句 — S+V+O+V+Komplemen",
+     "title_cn": "重动句：主语+动词+宾语+动词+补语",
+     "fungsi": "Kata kerja diulang supaya bisa menambahkan komplemen SETELAH objek (karena komplemen tidak bisa langsung menempel setelah objek).",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "S+V+O+V+得+Adj",
+       "contoh": "他说汉语说得很好。",
+       "pinyin": "Tā shuō Hànyǔ shuō de hěn hǎo.",
+       "terjemahan": "Dia bicara Mandarin dengan sangat baik."
+      }
+     ],
+     "id": "hsk3-14.2",
+     "number": "14.2",
+     "tingkat": "HSK 3",
+     "kategori": "POLA KALIMAT LAIN (Reduplikasi Aksi & Lainnya)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "连动句2 — V1着V2 (Sambil)",
+     "title_cn": "连动句2：“着”表示动作的伴随：动词1+着+动词2",
+     "fungsi": "Menyatakan aksi kedua dilakukan SAMBIL/DALAM KEADAAN aksi pertama berlangsung.",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "S+V1+着+V2",
+       "contoh": "他笑着说。",
+       "pinyin": "Tā xiàozhe shuō.",
+       "terjemahan": "Dia berkata sambil tersenyum."
+      }
+     ],
+     "id": "hsk3-14.3",
+     "number": "14.3",
+     "tingkat": "HSK 3",
+     "kategori": "POLA KALIMAT LAIN (Reduplikasi Aksi & Lainnya)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "存现句3 — Muncul/Menghilang",
+     "title_cn": "存现句3：处所+动词+趋向/结果补语+了+数量+N",
+     "fungsi": "Menyatakan sesuatu MUNCUL atau MENGHILANG dari suatu tempat (bukan sekadar 'ada', tapi PERUBAHAN keberadaan).",
+     "table": [
+      {
+       "jenis": "Muncul",
+       "pola": "Tempat+V+趋向补语+了+Angka+N",
+       "contoh": "前面走过来一个人。",
+       "pinyin": "Qiánmiàn zǒu guòlai yí ge rén.",
+       "terjemahan": "Dari depan datang seseorang (berjalan mendekat)."
+      },
+      {
+       "jenis": "Menghilang",
+       "pola": "Tempat+V+结果补语+了+Angka+N",
+       "contoh": "班里走了两个学生。",
+       "pinyin": "Bān lǐ zǒu le liǎng ge xuésheng.",
+       "terjemahan": "Dua murid sudah pergi dari kelas."
+      }
+     ],
+     "id": "hsk3-14.4",
+     "number": "14.4",
+     "tingkat": "HSK 3",
+     "kategori": "POLA KALIMAT LAIN (Reduplikasi Aksi & Lainnya)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    }
+   ]
+  },
+  {
+   "name": "KATA GANTI & KATA ARAH (HSK3)",
+   "points": [
+    {
+     "title": "别人 / 咱们",
+     "title_cn": "人称代词：别人、咱们",
+     "fungsi": "别人 = orang lain. 咱们 = 'kita' yang WAJIB termasuk lawan bicara (beda dengan 我们 yang bisa TIDAK termasuk lawan bicara).",
+     "table": [
+      {
+       "jenis": "别人",
+       "pola": "别人 + V",
+       "contoh": "别人都知道了。",
+       "pinyin": "Biéren dōu zhīdào le.",
+       "terjemahan": "Orang lain semua sudah tahu."
+      },
+      {
+       "jenis": "咱们",
+       "pola": "咱们 + V",
+       "contoh": "咱们一起走吧。",
+       "pinyin": "Zánmen yìqǐ zǒu ba.",
+       "terjemahan": "Ayo kita pergi bersama (kamu & saya)."
+      }
+     ],
+     "id": "hsk3-15.1",
+     "number": "15.1",
+     "tingkat": "HSK 3",
+     "kategori": "KATA GANTI & KATA ARAH (HSK3)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "别的 / 其他",
+     "title_cn": "指示代词：别的、其他",
+     "fungsi": "Keduanya berarti 'yang lain', 别的 lebih santai/lisan, 其他 lebih formal/tulisan.",
+     "table": [
+      {
+       "jenis": "别的",
+       "pola": "别的 + N",
+       "contoh": "我要别的颜色。",
+       "pinyin": "Wǒ yào biéde yánsè.",
+       "terjemahan": "Saya mau warna lain."
+      },
+      {
+       "jenis": "其他",
+       "pola": "其他 + N",
+       "contoh": "还有其他问题吗？",
+       "pinyin": "Hái yǒu qítā wèntí ma?",
+       "terjemahan": "Ada pertanyaan lain?"
+      }
+     ],
+     "id": "hsk3-15.2",
+     "number": "15.2",
+     "tingkat": "HSK 3",
+     "kategori": "KATA GANTI & KATA ARAH (HSK3)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "Arah Mata Angin: 东/南/西/北",
+     "title_cn": "方位名词：东/南/西/北",
+     "fungsi": "Kata arah mata angin, bisa ditambah 方/边/面 untuk jadi kata tempat lengkap.",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "N + 东/南/西/北 (+边/方)",
+       "contoh": "太阳从东边升起。",
+       "pinyin": "Tàiyáng cóng dōngbian shēngqǐ.",
+       "terjemahan": "Matahari terbit dari timur."
+      }
+     ],
+     "id": "hsk3-15.3",
+     "number": "15.3",
+     "tingkat": "HSK 3",
+     "kategori": "KATA GANTI & KATA ARAH (HSK3)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    }
+   ]
+  },
+  {
+   "name": "KATA KERJA TERPISAH & AKHIRAN (HSK3)",
+   "points": [
+    {
+     "title": "离合词 (动宾式): 放假/见面/结婚/洗澡",
+     "title_cn": "动宾式离合词",
+     "fungsi": "Kata kerja terpisah tipe verba+objek (sama seperti pola HSK1/2), kata-kata level HSK3.",
+     "table": [
+      {
+       "jenis": "Utuh",
+       "pola": "S + 放假/见面/结婚/洗澡",
+       "contoh": "我们下周放假。",
+       "pinyin": "Wǒmen xiàzhōu fàngjià.",
+       "terjemahan": "Minggu depan kami libur."
+      },
+      {
+       "jenis": "Disisipi",
+       "pola": "见 + 过 + 面",
+       "contoh": "我们见过面。",
+       "pinyin": "Wǒmen jiàn guo miàn.",
+       "terjemahan": "Kami pernah bertemu."
+      }
+     ],
+     "id": "hsk3-16.1",
+     "number": "16.1",
+     "tingkat": "HSK 3",
+     "kategori": "KATA KERJA TERPISAH & AKHIRAN (HSK3)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "离合词 (动补式): 离开/完成/分开",
+     "title_cn": "动补式离合词",
+     "fungsi": "Tipe kata kerja terpisah lain: verba+komplemen yang menyatu jadi 1 kata, tapi secara struktur tetap V+Komplemen.",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "S + 离开/完成/分开 + (O)",
+       "contoh": "他已经离开了。",
+       "pinyin": "Tā yǐjīng líkāi le.",
+       "terjemahan": "Dia sudah pergi."
+      }
+     ],
+     "id": "hsk3-16.2",
+     "number": "16.2",
+     "tingkat": "HSK 3",
+     "kategori": "KATA KERJA TERPISAH & AKHIRAN (HSK3)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "Akhiran —子 (pembentuk kata benda)",
+     "title_cn": "后缀：—子",
+     "fungsi": "Akhiran umum untuk membentuk kata benda dari akar kata, sangat produktif dalam Mandarin.",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "Akar kata + 子",
+       "contoh": "桌子、椅子、儿子",
+       "pinyin": "zhuōzi, yǐzi, érzi",
+       "terjemahan": "meja, kursi, anak laki-laki"
+      }
+     ],
+     "id": "hsk3-16.3",
+     "number": "16.3",
+     "tingkat": "HSK 3",
+     "kategori": "KATA KERJA TERPISAH & AKHIRAN (HSK3)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    }
+   ]
+  },
+  {
+   "name": "FORMAT TETAP TAMBAHAN (Fixed Formats) HSK3",
+   "points": [
+    {
+     "title": "对……来说 — Bagi/Menurut",
+     "title_cn": "固定格式：对……来说",
+     "fungsi": "Menyatakan sudut pandang/perspektif seseorang atau sesuatu.",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "对 + N/S + 来说，……",
+       "contoh": "对我来说，健康最重要。",
+       "pinyin": "Duì wǒ láishuō, jiànkāng zuì zhòngyào.",
+       "terjemahan": "Bagi saya, kesehatan paling penting."
+      }
+     ],
+     "id": "hsk3-17.1",
+     "number": "17.1",
+     "tingkat": "HSK 3",
+     "kategori": "FORMAT TETAP TAMBAHAN (Fixed Formats) HSK3",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "一点儿也不 — Sama Sekali Tidak",
+     "title_cn": "固定格式：一点儿也不",
+     "fungsi": "Penekanan negasi total, 'sama sekali tidak'.",
+     "table": [
+      {
+       "jenis": "Negatif",
+       "pola": "一点儿也不/没 + V/Adj",
+       "contoh": "我一点儿也不累。",
+       "pinyin": "Wǒ yìdiǎnr yě bú lèi.",
+       "terjemahan": "Saya sama sekali tidak capek."
+      }
+     ],
+     "id": "hsk3-17.2",
+     "number": "17.2",
+     "tingkat": "HSK 3",
+     "kategori": "FORMAT TETAP TAMBAHAN (Fixed Formats) HSK3",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "该……了 — Sudah Waktunya",
+     "title_cn": "固定格式：该……了",
+     "fungsi": "Menyatakan sudah waktunya melakukan sesuatu.",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "该 + V(+O) + 了",
+       "contoh": "该吃饭了。",
+       "pinyin": "Gāi chīfàn le.",
+       "terjemahan": "Sudah waktunya makan."
+      }
+     ],
+     "id": "hsk3-17.3",
+     "number": "17.3",
+     "tingkat": "HSK 3",
+     "kategori": "FORMAT TETAP TAMBAHAN (Fixed Formats) HSK3",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "看起来/看上去 — Kelihatannya",
+     "title_cn": "固定短语：看起来、看上去",
+     "fungsi": "Menyatakan kesan visual/penilaian sekilas terhadap sesuatu.",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "S + 看起来/看上去 + Adj",
+       "contoh": "她看起来很累。",
+       "pinyin": "Tā kànqǐlai hěn lèi.",
+       "terjemahan": "Dia kelihatannya capek."
+      }
+     ],
+     "id": "hsk3-17.4",
+     "number": "17.4",
+     "tingkat": "HSK 3",
+     "kategori": "FORMAT TETAP TAMBAHAN (Fixed Formats) HSK3",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "一般来说 — Pada Umumnya",
+     "title_cn": "固定短语：一般来说",
+     "fungsi": "Frasa pembuka untuk generalisasi.",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "一般来说，……",
+       "contoh": "一般来说，夏天比较热。",
+       "pinyin": "Yìbān láishuō, xiàtiān bǐjiào rè.",
+       "terjemahan": "Pada umumnya, musim panas relatif panas."
+      }
+     ],
+     "id": "hsk3-17.5",
+     "number": "17.5",
+     "tingkat": "HSK 3",
+     "kategori": "FORMAT TETAP TAMBAHAN (Fixed Formats) HSK3",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    }
+   ]
+  },
+  {
+   "name": "KATA KETERANGAN & KATA DEPAN TAMBAHAN (HSK3)",
+   "points": [
+    {
+     "title": "只 / 一共 / 常常",
+     "title_cn": "范围副词：只、一共；频率副词：常常",
+     "fungsi": "只=hanya, 一共=totalnya, 常常=sering (frekuensi tinggi, hampir seperti kebiasaan).",
+     "table": [
+      {
+       "jenis": "只",
+       "pola": "只 + V/O",
+       "contoh": "我只喝水。",
+       "pinyin": "Wǒ zhǐ hē shuǐ.",
+       "terjemahan": "Saya cuma minum air."
+      },
+      {
+       "jenis": "一共",
+       "pola": "一共 + Angka",
+       "contoh": "一共多少钱？",
+       "pinyin": "Yígòng duōshao qián?",
+       "terjemahan": "Totalnya berapa?"
+      },
+      {
+       "jenis": "常常",
+       "pola": "S + 常常 + V",
+       "contoh": "他常常迟到。",
+       "pinyin": "Tā chángcháng chídào.",
+       "terjemahan": "Dia sering terlambat."
+      }
+     ],
+     "id": "hsk3-18.1",
+     "number": "18.1",
+     "tingkat": "HSK 3",
+     "kategori": "KATA KETERANGAN & KATA DEPAN TAMBAHAN (HSK3)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "一定 / 好像",
+     "title_cn": "情态副词：一定、好像",
+     "fungsi": "一定=pasti (keyakinan tinggi), 好像=sepertinya (dugaan berdasar kesan).",
+     "table": [
+      {
+       "jenis": "一定",
+       "pola": "S + 一定 + V",
+       "contoh": "他一定会来。",
+       "pinyin": "Tā yídìng huì lái.",
+       "terjemahan": "Dia pasti akan datang."
+      },
+      {
+       "jenis": "好像",
+       "pola": "S + 好像 + Klausa",
+       "contoh": "他好像不高兴。",
+       "pinyin": "Tā hǎoxiàng bù gāoxìng.",
+       "terjemahan": "Dia sepertinya tidak senang."
+      }
+     ],
+     "id": "hsk3-18.2",
+     "number": "18.2",
+     "tingkat": "HSK 3",
+     "kategori": "KATA KETERANGAN & KATA DEPAN TAMBAHAN (HSK3)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "不必 / 不用 — Tidak Perlu",
+     "title_cn": "否定副词：不必、不用",
+     "fungsi": "Keduanya berarti 'tidak perlu' (negasi dari 必须/需要), bisa saling gantikan di sebagian besar konteks.",
+     "table": [
+      {
+       "jenis": "Negatif",
+       "pola": "不必/不用 + V",
+       "contoh": "你不用担心。",
+       "pinyin": "Nǐ búyòng dānxīn.",
+       "terjemahan": "Kamu tidak perlu khawatir."
+      }
+     ],
+     "id": "hsk3-18.3",
+     "number": "18.3",
+     "tingkat": "HSK 3",
+     "kategori": "KATA KETERANGAN & KATA DEPAN TAMBAHAN (HSK3)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    },
+    {
+     "title": "根据 — Berdasarkan",
+     "title_cn": "介词：根据",
+     "fungsi": "Menyatakan dasar/acuan suatu pernyataan atau keputusan.",
+     "table": [
+      {
+       "jenis": "Afirmatif",
+       "pola": "根据 + N，……",
+       "contoh": "根据天气预报，明天会下雨。",
+       "pinyin": "Gēnjù tiānqì yùbào, míngtiān huì xiàyǔ.",
+       "terjemahan": "Berdasarkan ramalan cuaca, besok akan hujan."
+      }
+     ],
+     "id": "hsk3-18.4",
+     "number": "18.4",
+     "tingkat": "HSK 3",
+     "kategori": "KATA KETERANGAN & KATA DEPAN TAMBAHAN (HSK3)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    }
+   ]
+  },
+  {
+   "name": "REFERENSI: STRUKTUR TAMBAHAN (HSK3)",
+   "points": [
+    {
+     "title": "Struktur & Frasa Tambahan HSK3",
+     "title_cn": "同位短语、多项定语 dsb.",
+     "fungsi": "Referensi struktural tambahan untuk HSK3.",
+     "reference_table": [
+      {
+       "jenis": "同位短语 (Frasa Apositif)",
+       "pola": "N1 + N2 (N2 menjelaskan ulang N1)",
+       "contoh": "我们老师王先生 (guru kami, Pak Wang)"
+      },
+      {
+       "jenis": "多项定语 (Atributif Berlapis)",
+       "pola": "Beberapa penjelas menumpuk sebelum 1 nomina",
+       "contoh": "我的那件红色的衣服"
+      },
+      {
+       "jenis": "数量重叠 (Pengulangan Angka+Pengukur)",
+       "pola": "Num+M+Num+M",
+       "contoh": "一个一个 (satu per satu)"
+      },
+      {
+       "jenis": "不A不B (格式四字)",
+       "pola": "不 + A + 不 + B",
+       "contoh": "不多不少 (tidak lebih tidak kurang)"
+      }
+     ],
+     "table": [],
+     "id": "hsk3-19.1",
+     "number": "19.1",
+     "tingkat": "HSK 3",
+     "kategori": "REFERENSI: STRUKTUR TAMBAHAN (HSK3)",
+     "source": "HSK 3.0 Official Syllabus (audit tambahan)"
+    }
+   ]
+  }
+ ],
+ "kesalahan_umum": [
+  {
+   "kategori": "Penempatan Kata Keterangan (副词)",
+   "salah": "我爱最吃西瓜。",
+   "benar": "我最爱吃西瓜。",
+   "penjelasan": "最 harus diletakkan sebelum kata kerja 爱"
+  },
+  {
+   "kategori": "Penempatan Kata Keterangan (副词)",
+   "salah": "他同意了终于。",
+   "benar": "他终于同意了。",
+   "penjelasan": "终于 harus diletakkan sebelum kata kerja"
+  },
+  {
+   "kategori": "Penempatan Kata Keterangan (副词)",
+   "salah": "他同意终于了。",
+   "benar": "他终于同意了。",
+   "penjelasan": "终于 harus diletakkan sebelum kata kerja"
+  },
+  {
+   "kategori": "Penempatan Kata Keterangan (副词)",
+   "salah": "冬天在这次举行会议。",
+   "benar": "这次会议在2010年冬天举行。",
+   "penjelasan": "在 sebagai kata keterangan waktu diletakkan sebelum kata kerja"
+  },
+  {
+   "kategori": "Pola Khusus \"是...的\"",
+   "salah": "这个是写用汉语的菜单。",
+   "benar": "这个菜单是用汉语写的。",
+   "penjelasan": "Pola 是...的: Subjek + 是 + Info + V + 的"
+  },
+  {
+   "kategori": "Kalimat \"把\" (把字句)",
+   "salah": "我把饭吃。",
+   "benar": "我把饭吃完了。",
+   "penjelasan": "Kata kerja harus diikuti komplemen"
+  },
+  {
+   "kategori": "Kalimat \"把\" (把字句)",
+   "salah": "他出去的时候没关冰箱。",
+   "benar": "他出去的时候没把冰箱关上。",
+   "penjelasan": "把 harus digunakan untuk menekankan objek yang terkena dampak"
+  },
+  {
+   "kategori": "Kalimat \"被\" (被字句)",
+   "salah": "被我的手机弄坏了。",
+   "benar": "我的手机被我弟弟弄坏了。",
+   "penjelasan": "Subjek (penerima) + 被 + pelaku + V"
+  },
+  {
+   "kategori": "Komplemen Potensial",
+   "salah": "我听不懂了。",
+   "benar": "我听不懂。",
+   "penjelasan": "Komplemen potensial negatif tidak menggunakan 了 di akhir"
+  }
+ ],
+ "metadata": {
+  "total_points": 96,
+  "audit_status": "Audit lengkap vs silabus resmi: 96 poin (19 kategori)."
+ }
+}
