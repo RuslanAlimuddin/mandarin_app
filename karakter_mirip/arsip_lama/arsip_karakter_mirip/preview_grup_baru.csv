@@ -1,0 +1,236 @@
+﻿id_baru,character,confusable_with,tier,jumlah_anggota,jumlah_pasangan,klik_lengkap,dari_komponen,tingkat_campuran,sumber_tingkat,sumber_catatan,menyentuh_grup_lama,perlu_tinjau_catatan,note
+161,丁,了,2,2,1,ya,2,,claude,claude,135,,"丁 dan 了 sama-sama berkait ke bawah; 了 diawali goresan bengkok di atas, 丁 diawali garis datar."
+162,互,五,2,2,1,ya,2,,claude,claude,,,"互 dan 五 sama-sama ringkas dengan garis datar atas-bawah; 互 punya bentuk kait di tengah, 五 tidak."
+163,免,兑冤,3,3,2,tidak,7,ya,claude/gpt,claude,"5,71",ya,"免 dan 兑 sama-sama berkaki 儿 dengan 口 di tengah; bagian atasnya berbeda; Bentuk 免 sama persis, 冤 menambah topi 冖 di atas."
+164,完,兑宪,3,3,2,tidak,7,ya,claude/gpt,claude/gpt,"71,103",ya,Keduanya bertingkat dan berakhir dengan 儿; bagian atas/tengah 兑 vs 完 berbeda; Berkerangka 宀 dengan 元 vs 先 di bawah.
+165,兔,冤,2,2,1,ya,7,,gpt,gpt,5,ya,冤 memuat bentuk 兔 di bawah penutup 冖; siluet bertambah di bagian atas.
+166,宪,宽,2,2,1,ya,7,,gpt,claude,,,"Radikal 宀 di atas sama, bawah 先 vs 见."
+167,勺,匀勾句,2,4,5,tidak,4,ya,claude/gpt,claude/gpt,,ya,"勺 dan 匀 sama-sama berbingkai 勹; isi dalamnya hanya beda satu goresan kecil; 勺 dan 勾 sama-sama berkerangka 勹; isi dalamnya berbeda sedikit; Sama-sama berkerangka 勹; 句 menambah 口 di dalam, 勺 hanya titik; Kerangka 勹 sama; isi dalam 厶 vs 冫 berbeda; 勾 dan 句 sama-sama berkerangka 勹; isi dalam 厶 vs 口 mirip."
+168,于,千予,2,3,2,tidak,3,,claude,claude,"3,72,128,136",ya,Sama-sama berkerangka garis mendatar dan tegak; goresan atas berbeda; 予 dan 于 sama-sama berkait ke bawah dengan garis datar; bagian atasnya berbeda sedikit.
+169,牛,半件,2,3,2,tidak,3,ya,claude/gpt,claude/gpt,"15,121",ya,半 dan 牛 sangat dekat; posisi/keberadaan garis mendatar membedakan keduanya; 件 memuat 牛 di sisi kanan (亻 di kiri).
+170,矢,夫失,1,3,2,tidak,3,,claude,claude,"26,112,152,153",ya,夫 dan 矢 hanya beda goresan pembuka di bagian atas; Sama-sama berkerangka 矢; 失 menambah satu goresan.
+171,户,卢,1,2,1,ya,2,,gpt,gpt,113,ya,卢 dan 户 memiliki siluet atap dan bagian bawah yang dekat; beda goresan atas.
+172,已,巴,1,2,1,ya,2,,claude,claude,1,,已 dan 巴 sama-sama berbentuk bersudut dengan goresan akhir menekuk; beda tipis pada goresan.
+173,未,朱来禾,2,4,3,tidak,6,ya,claude,claude,"35,119,158",ya,"未 dan 朱 sama-sama berbasis 木 dengan garis datar di atas; 朱 punya goresan miring tambahan; 未 dan 来 sama-sama berbasis 木; 来 menambah goresan-goresan kecil di bagian atas; Sama-sama berkerangka 木; 未 punya garis atas tambahan, 禾 punya goresan miring di atas."
+174,末,朱来禾,2,4,3,tidak,6,,claude,claude,"35,119,120,158",ya,"朱 dan 末 sama-sama berbasis 木 dengan garis datar di atas; 朱 punya goresan miring tambahan; 末 dan 来 sama-sama berbasis 木; 来 menambah goresan-goresan kecil di bagian atas; Sama-sama berkerangka 木; garis atas 末 lebih panjang, 禾 punya goresan miring."
+175,来,米,2,2,1,ya,6,,claude,claude,,,Sama-sama berkerangka 米; 来 punya garis mendatar tambahan.
+176,惧,俱慎,2,3,2,tidak,5,,claude/gpt,KOSONG/gpt,,ya,具 di kanan sama; pembeda utama hanya radikal kiri 亻 vs 忄.
+177,填,慎真,3,3,2,tidak,5,ya,claude/gpt,claude,13,ya,"Komponen kanan 真 sama; kiri 土 vs 忄; Komponen 真 sama persis, 填 hanya menambahkan radikal 土 di sisi kiri."
+178,候,喉,2,2,1,ya,2,,gpt,gpt,62,ya,侯 di kanan sama; pembeda berada pada komponen kiri 亻 vs 口.
+179,傀,愧鬼槐,3,4,4,tidak,4,ya,claude/gpt,KOSONG/claude/gpt,,ya,鬼 di kanan sama; pembeda utama radikal kiri 亻 vs 忄; 傀 mempertahankan bentuk 鬼 lalu menambahkan 亻 di kiri; 傀 dan 槐 sama-sama memakai 鬼 di kanan; radikal kiri 亻 vs 木.
+180,惟,锥难谁,3,4,5,tidak,8,ya,claude/gpt,claude,,ya,"惟 dan 谁 sama-sama memakai 隹 di kanan; radikal kiri 忄 vs 讠; Komponen 隹 di kanan sama persis, beda radikal 忄 vs 又 (siluet 左右 sangat mirip); Komponen kanan 隹 sama; radikal kiri 忄 vs 钅; 锥 dan 难 sama-sama memakai 隹 di kanan; radikal kiri 钅 vs 又; Kanan 隹 sama persis, beda radikal 讠 vs 钅."
+181,惟,锥稚维,3,4,6,ya,8,ya,claude/gpt,claude,,ya,"Komponen kanan 隹 sama; kiri 忄 vs 禾; Komponen kanan 隹 sama; radikal kiri 忄 vs 钅; Komponen kanan 隹 sama; radikal kiri 忄 vs 纟; 稚 dan 锥 sama-sama memakai 隹 di kanan; radikal kiri 禾 vs 钅; Komponen 隹 di kanan sama persis, beda radikal 纟 vs 钅; Komponen kanan 隹 sama; kiri 禾 vs 纟."
+182,谁,稚维,3,3,3,ya,8,ya,claude,claude,,ya,稚 dan 谁 sama-sama memakai 隹 di kanan; radikal kiri 禾 vs 讠; Komponen kanan 隹 sama; radikal kiri 纟 vs 讠; Komponen kanan 隹 sama; kiri 禾 vs 纟.
+183,催,惟,3,2,1,ya,8,,gpt,gpt,,ya,"Keduanya memuat 隹; 催 menambahkan 山 di atas 隹 dan memakai 亻, sedangkan 惟 memakai 忄."
+184,维,雏,3,2,1,ya,8,,claude,claude,,,维 dan 雏 sama-sama memakai 隹 di kanan; komponen kiri 纟 vs 刍.
+185,僚,镣,2,2,1,ya,2,,gpt,gpt,,ya,尞 di kanan sama; radikal kiri 亻 vs 钅.
+186,僧,憎,2,2,1,ya,2,,gpt,gpt,,ya,曾 di kanan sama; radikal kiri 亻 vs 忄.
+187,儒,懦,2,2,1,ya,2,,gpt,gpt,,ya,需 di kanan sama; radikal kiri 亻 vs 忄.
+188,元,无,1,2,1,ya,2,,gpt,gpt,,ya,Kerangka 元 dan 无 sangat dekat; beda pada bentuk goresan bagian atas.
+189,克,竞竟章,3,4,3,tidak,4,ya,claude/gpt,claude/gpt,,ya,Sama-sama bertingkat dengan bagian bawah mirip 儿; bagian tengah dan atas 克 vs 竞 berbeda; Komponen atas 十/立 dan 儿/音 di bawah memiliki kontur mirip; Sama-sama beratap 立 + 日; bagian bawah berbeda (儿 vs 十).
+190,党,觉,3,2,1,ya,2,,gpt,gpt,,ya,Penutup atas dan susunan bertingkat mirip; bagian bawah 兄 vs 见 berbeda.
+191,关,夹,2,2,1,ya,2,,gpt,gpt,,ya,Silhouette simetris dekat; garis tambahan dan susunan bagian tengah membedakan 关 dan 夹.
+192,冠,寇,2,2,1,ya,2,,gpt,gpt,,ya,Keduanya beratap dan memiliki 元 sebagai komponen tengah; bagian bawah 寸 vs 攴 berbeda.
+193,决,诀,2,2,1,ya,2,,gpt,gpt,,ya,夬 di kanan sama; pembeda kiri 冫 vs 讠 hanya berupa komponen kecil.
+194,准,焦雀瞧,3,4,3,tidak,4,ya,claude/gpt,claude/gpt,,ya,"Keduanya memuat 隹, tetapi posisi dan unsur pendampingnya berbeda; hanya layak T3; 隹 muncul pada keduanya; unsur pendamping 冫 vs 小 dan susunan keseluruhan berbeda; 瞧 memuat 焦 dengan tambahan 目 di kiri."
+195,凤,风,1,2,1,ya,2,,gpt,gpt,,ya,Kerangka luar 几 sama; bagian dalam 凤 vs 风 berbeda tipis.
+196,刹,刺,3,2,1,ya,2,,gpt,gpt,60,ya,刂 di kanan sama dan bagian kiri 杀/朿 memiliki kerangka 木 yang mendekati; kemiripan masih T3.
+197,剑,刽险,3,3,2,tidak,3,ya,gpt,gpt,,ya,刂 di kanan sama; komponen kiri 会 dan 佥 memiliki susunan atas-bawah yang dekat; 佥 di kanan sama; pembeda kiri 刂 vs 阝.
+198,悄,削稍,3,3,2,tidak,5,ya,claude/gpt,claude/gpt,107,ya,肖 menjadi komponen yang sama; pembeda kiri 刂 vs 忄; Komponen kanan 肖 sama; kiri 忄 vs 禾.
+199,俏,稍销,3,3,2,tidak,5,,claude,claude,107,ya,俏 dan 稍 sama-sama memakai 肖 di kanan; radikal kiri 亻 vs 禾; 俏 dan 销 sama-sama memakai 肖 di kanan; radikal kiri 亻 vs 钅.
+200,前,箭,2,2,1,ya,2,,gpt,gpt,,ya,箭 memuat 前 sebagai bagian bawah; tambahan ⺮ di atas menjadi pembeda utama.
+201,剖,陪,2,2,1,ya,2,,gpt,gpt,67,ya,咅 di kanan sama; pembeda kiri 刂 vs 阝.
+202,劝,办,3,2,1,ya,2,,gpt,gpt,,ya,Bentuk ringkas 劝 dan 办 sama-sama menonjolkan 力; unsur pendampingnya berbeda.
+203,助,肋,2,2,1,ya,2,,gpt,gpt,,ya,力 di kanan sama; bagian kiri 且 dan 月 memiliki bingkai dan garis dalam yang dekat.
+204,募,幕慕,2,3,3,ya,3,ya,claude/gpt,claude/gpt,,ya,"莫 di atas sama; bagian bawah 力 vs 巾 berbeda; Hanya beda komponen paling bawah: 力 (tenaga) vs ⺗ (hati), bagian atas 莫 sama persis; 幕 dan 慕 sama-sama memuat 莫 di atas; bagian bawah 巾 vs 心 (㣺)."
+205,匈,胸,2,2,1,ya,2,,gpt,gpt,,ya,胸 memuat 匈 di kanan dan menambahkan 月 di kiri.
+206,华,哗,2,2,1,ya,2,,gpt,gpt,,ya,哗 memuat 华 di kanan dan menambahkan 口 di kiri.
+207,南,甫,3,2,1,ya,2,,gpt,gpt,,ya,南 dan 甫 memiliki bingkai serta susunan garis dalam yang dekat; beberapa garis internal tetap berbeda.
+208,博,搏傅,3,3,2,tidak,3,ya,claude/gpt,claude/gpt,,ya,Komponen 尃+寸 sama; bagian kiri 十 vs 扌 membedakan 博 dan 搏; Sama-sama memuat unsur kanan 尃; unsur kiri berbeda (亻 vs 十).
+209,卵,卯卿,3,3,2,tidak,3,ya,gpt,gpt,,ya,卯 dan 卵 sangat dekat; 卵 memiliki tambahan dua titik; Kerangka sisi dan unsur 卩 berdekatan; 卿 memiliki tambahan komponen di tengah.
+210,卷,巷眷,3,3,2,tidak,3,,claude/gpt,claude/gpt,,ya,卷 dan 巷 sama-sama bertingkat dengan ekor bawah melengkung; komponen atas berbeda; 卷 dan 眷 sama-sama bertopi susunan mirip; bagian bawah 卩 vs 目.
+211,征,怔,2,2,1,ya,2,,claude,KOSONG,,ya,
+212,径,轻怪,2,3,2,tidak,3,,claude,KOSONG/claude,,ya,径 dan 怪 sama-sama memakai 圣 di kanan; radikal kiri 彳 vs 忄.
+213,徐,除,2,2,1,ya,2,,claude,KOSONG,,ya,
+214,必,泌,2,2,1,ya,2,,claude,KOSONG,139,ya,
+215,快,筷,2,2,1,ya,2,,claude,KOSONG,10,ya,
+216,悼,掉,2,2,1,ya,2,,claude,KOSONG,,ya,
+217,惯,愤,3,2,1,ya,2,,claude,KOSONG,,ya,
+218,惹,若,2,2,1,ya,2,,claude,KOSONG,,ya,
+219,戎,戏戒或,3,4,5,tidak,12,ya,claude,KOSONG/claude,59,ya,Sama-sama berkerangka 戈; unsur tambahan berbeda; Sama-sama berkerangka 戈; unsur tambahan 又 vs 廾 berbeda.
+220,咸,戌戚戊,2,4,3,tidak,12,,claude/gpt,claude,59,ya,"Bingkai 戊/戈 sama persis, beda komponen dalam 口 vs  trace/九; 咸 memuat 戌 ditambah 口; Sama-sama berkerangka 戈; 咸 memiliki tambahan 口."
+221,成,戎戌戊,3,4,3,tidak,12,ya,claude,claude,"44,59",ya,Sama-sama berkerangka 戈; unsur di dalam berbeda; 戌 dan 成 sama-sama berkerangka 戊/戈; isi dalamnya berbeda sedikit.
+222,戎,戈,2,2,1,ya,12,,claude,claude,59,,戎 memuat 戈 dengan tambahan 十 di sampingnya.
+223,戒,戍,2,2,1,ya,12,,claude,claude,59,,Sama-sama berkerangka 戈; unsur tambahan 人 vs 廾 berbeda.
+224,咸,威,3,2,1,ya,12,,claude,claude,,,咸 dan 威 sama-sama berkerangka 戊; bagian bawahnya 口 vs 女.
+225,扎,札,2,2,1,ya,2,,claude,KOSONG,,ya,
+226,扑,朴讣仆,2,4,3,tidak,4,,claude,KOSONG/claude,,ya,仆 dan 扑 sama-sama memakai 卜 di kanan; radikal kiri 亻 vs 扌.
+227,扛,杠,2,2,1,ya,2,,claude,KOSONG,,ya,
+228,扮,粉,3,2,1,ya,2,,claude,KOSONG,,ya,
+229,扳,板披拔,2,4,3,tidak,4,,claude/gpt,KOSONG/claude,14,ya,"Radikal 扌 sama persis, kanan 反 vs 皮 (lekukan miring kanan sangat serupa)."
+230,挟,抉秩,2,3,2,tidak,3,,claude/gpt,KOSONG/claude,,ya,"Komponen 夹/失 di kanan sangat identik, beda radikal 扌 vs 禾."
+231,抖,料科斜,3,4,3,tidak,4,,claude,KOSONG/claude,,ya,斜 dan 科 sama-sama memakai 斗 di kanan; komponen kiri 余 vs 禾.
+232,押,钾,2,2,1,ya,2,,claude,KOSONG,,ya,
+233,柱,拄桂枉,2,4,3,tidak,6,ya,claude,KOSONG/claude,,ya,枉 dan 柱 sama-sama berradikal 木; komponen kanan 王 vs 主 hanya beda satu titik; 柱 dan 桂 sama-sama berradikal 木; komponen kanan 主 vs 圭 mirip.
+234,挂,拄桂捶,3,4,3,tidak,6,ya,claude/gpt,KOSONG/claude,,ya,"拄 dan 挂 sama-sama berradikal 扌; komponen kanan 主 vs 圭 mirip; Radikal 扌 sama persis, kanan 圭 vs 垂 (susunan garis horizontal berlapis identik)."
+235,拍,柏怕,2,3,2,tidak,3,,claude,KOSONG/claude,,ya,Sama-sama memuat 白 di kanan; radikal kiri 忄 vs 扌 sangat mirip.
+236,拒,柜,2,2,1,ya,2,,claude,KOSONG,,ya,
+237,括,拓捂枯,3,4,3,tidak,7,ya,claude,KOSONG/claude,,ya,括 dan 枯 sama-sama berkomponen kanan mirip (舌 vs 古); radikal kiri 扌 vs 木.
+238,枯,桔柑,3,3,2,tidak,7,ya,claude,claude,,ya,枯 dan 桔 sama-sama berradikal 木; komponen kanan 古 vs 吉 hanya beda satu goresan; 枯 dan 柑 sama-sama berradikal 木; komponen kanan 古 vs 甘 mirip.
+239,捂,梧,2,2,1,ya,7,,claude,KOSONG,,ya,
+240,拘,构,2,2,1,ya,2,,claude,KOSONG,,ya,
+241,拣,栋,2,2,1,ya,2,,claude,KOSONG,,ya,
+242,拦,栏,2,2,1,ya,2,,claude,KOSONG,,ya,
+243,拧,柠,2,2,1,ya,2,,claude,KOSONG,,ya,
+244,拴,栓,2,2,1,ya,2,,claude,KOSONG,,ya,
+245,挑,桃,2,2,1,ya,2,,claude,KOSONG,95,ya,
+246,捅,捕桶,2,3,2,tidak,3,,claude,KOSONG,,ya,
+247,捎,梢,2,2,1,ya,2,,claude,KOSONG,,ya,
+248,捧,棒,2,2,1,ya,2,,claude,KOSONG,,ya,
+249,椎,推摧,3,3,2,tidak,3,ya,claude,KOSONG/claude,,ya,摧 dan 椎 sama-sama berkomponen kanan yang memuat 隹; radikal kiri 扌 vs 木.
+250,揩,楷,2,2,1,ya,2,,claude,claude,,,揩 dan 楷 sama-sama memakai 皆 di kanan; radikal kiri 扌 vs 木.
+251,揪,锹,2,2,1,ya,2,,claude,claude,,,揪 dan 锹 sama-sama memakai 秋 di kanan; radikal kiri 扌 vs 钅.
+252,揽,缆,2,2,1,ya,2,,claude,claude,,,揽 dan 缆 sama-sama memakai 览 di kanan; radikal kiri 扌 vs 纟.
+253,搂,楼,2,2,1,ya,2,,claude,claude,,,搂 dan 楼 sama-sama memakai 娄 di kanan; radikal kiri 扌 vs 木.
+254,搪,糖,3,2,1,ya,2,,claude,claude,,,搪 dan 糖 sama-sama memakai 唐 di kanan; radikal kiri 扌 vs 米.
+255,摸,模,2,2,1,ya,2,,claude,claude,,,摸 dan 模 sama-sama memakai 莫 di kanan; radikal kiri 扌 vs 木.
+256,撒,撤,2,2,1,ya,2,,claude,claude,,,撒 dan 撤 sama-sama berradikal 扌 dan berakhir 攵; komponen kiri-tengahnya mirip.
+257,擅,檀,2,2,1,ya,2,,claude,claude,,,擅 dan 檀 sama-sama memakai 亶 di kanan; radikal kiri 扌 vs 木.
+258,每,敏毋母,2,4,3,tidak,4,ya,claude,claude,,ya,敏 memuat 每 dengan tambahan 攵 di kanan; 每 = 母 dengan goresan tambahan di atas; 毋 dan 母 sangat mirip; 母 menambahkan dua titik di dalam kerangkanya.
+259,敝,敞,2,2,1,ya,2,,claude,claude,,,敝 dan 敞 sama-sama berakhir 攵 di kanan; komponen kirinya mirip.
+260,早,旱,1,2,1,ya,2,,claude,claude,,,早 dan 旱 sama-sama berkepala 日; bagian bawah 十 vs 干 hanya beda satu goresan.
+261,期,欺斯,2,3,3,ya,3,,claude,claude,,ya,期 dan 欺 sama-sama memakai 其 di kiri; komponen kanan 月 vs 欠; 斯 dan 期 sama-sama memakai 其 di kiri; komponen kanan 斤 vs 月; Komponen kiri 其 sama; kanan 斤 vs 欠.
+262,杆,秆扦,3,3,3,ya,3,ya,claude,claude,,ya,杆 dan 秆 sama-sama memakai 干 di kanan; radikal kiri 木 vs 禾; 扦 dan 杆 sama-sama berradikal kiri mirip; komponen kanan 千 vs 干 hanya beda satu goresan; 扦 dan 秆 sama-sama memakai komponen kanan mirip (千 vs 干); radikal kiri 扌 vs 禾.
+263,束,柬果,2,3,2,tidak,3,,claude,claude,60,ya,束 dan 柬 sama-sama berkerangka 木 dengan isi di tengah; 柬 lebih padat; Sama-sama berkerangka 木 di bawah; unsur atas berbeda (口 vs 日).
+264,汀,订,2,2,1,ya,2,,claude,claude,,,汀 dan 订 sama-sama memakai 丁 di kanan; radikal kiri 氵 vs 讠.
+265,沦,沧,1,2,1,ya,2,,claude,claude,,,沦 dan 沧 sama-sama berradikal 氵; komponen kanan 仑 vs 仓 hanya beda satu goresan.
+266,沽,洁浩活,2,4,3,tidak,4,ya,claude,claude,,ya,沽 dan 洁 sama-sama berradikal 氵; komponen kanan 古 vs 吉 hanya beda satu goresan; 沽 dan 浩 sama-sama berradikal 氵; komponen kanan 古 vs 告 mirip; 洁 dan 活 sama-sama berradikal 氵; komponen kanan 吉 vs 舌 mirip.
+267,海,诲,2,2,1,ya,2,,claude,claude,110,,海 dan 诲 sama-sama memakai 每 di kanan; radikal kiri 氵 vs 讠.
+268,涌,诵,2,2,1,ya,2,,claude,claude,,,涌 dan 诵 sama-sama memakai 甬 di kanan; radikal kiri 氵 vs 讠.
+269,涎,诞,2,2,1,ya,2,,claude,claude,,,涎 dan 诞 sama-sama memakai 延 di kanan; radikal kiri 氵 vs 讠.
+270,渭,谓,2,2,1,ya,2,,claude,claude,,,渭 dan 谓 sama-sama memakai 胃 di kanan; radikal kiri 氵 vs 讠.
+271,滥,监,2,2,1,ya,2,,claude,claude,,,滥 memuat 监 dengan tambahan 氵 di kiri.
+272,白,臼,1,2,1,ya,2,,claude,claude,"8,116,117",,白 dan 臼 sama-sama berkerangka kotak dengan goresan di dalam; beda tipis pada bagian atas dan isi.
+273,直,置,2,2,1,ya,2,,claude,claude,13,,置 memuat 直 dengan tambahan 罒 di atas.
+274,磺,黄,2,2,1,ya,2,,claude,claude,,,磺 memuat 黄 dengan tambahan 石 di kiri.
+275,篡,纂,2,2,1,ya,2,,claude,claude,,,篡 dan 纂 sama-sama berkepala ⺮ dan secara keseluruhan sangat mirip serta mudah tertukar.
+276,钧,绚钓钩,3,4,3,tidak,6,ya,claude,claude,,ya,绚 dan 钧 sama-sama berkomponen kanan mirip (句 vs 匀); radikal kiri 纟 vs 钅; 钓 dan 钧 sama-sama berradikal 钅; komponen kanan 勺 vs 匀 hanya beda satu goresan kecil; 钧 dan 钩 sama-sama berradikal 钅; komponen kanan 匀 vs 勾 mirip.
+277,均,钓钩,2,3,2,tidak,6,,gpt,claude,,ya,"Komponen 匀/勺 di kanan mirip, beda radikal 土 vs 钅; Komponen 匀/句 di kanan mirip, beda radikal 土 vs 钅."
+278,约,绚,2,2,1,ya,6,,claude,claude,,,约 dan 绚 sama-sama berradikal 纟; komponen kanan 勺 vs 句 hanya beda sedikit.
+279,芍,苟,2,2,1,ya,2,,claude,claude,,,芍 dan 苟 sama-sama berkepala 艹; komponen bawah 勺 vs 句 hanya beda sedikit.
+280,苦,苫,1,2,1,ya,2,,claude,claude,17,,苦 dan 苫 sama-sama berkepala 艹; komponen bawah 古 vs 占 hanya beda sedikit.
+281,英,荚,2,2,1,ya,2,,claude,claude,,,英 dan 荚 sama-sama berkepala 艹; komponen bawah 央 vs 夹 mirip.
+282,莱,菜,2,2,1,ya,2,,claude,claude,61,,莱 dan 菜 sama-sama berkepala 艹; komponen bawah 来 vs 采 mirip.
+283,衰,衷袁表,3,4,5,tidak,5,ya,claude,claude,,ya,衰 dan 衷 sama-sama berkerangka 衣 dengan unsur di tengah yang mirip; 衰 dan 袁 sama-sama berkerangka 衣 dengan unsur di tengah; Sama-sama berkerangka 衣 dengan unsur di tengah; 衷 dan 袁 sama-sama berkerangka 衣 dengan unsur di tengah.
+284,衷,裹,3,2,1,ya,5,,claude,claude,,,衷 dan 裹 sama-sama berkerangka 衣 dengan unsur di tengah.
+285,较,铰,2,2,1,ya,2,,claude,claude,,,较 dan 铰 sama-sama memakai 交 di kanan; radikal kiri 车 vs 钅.
+286,辅,铺,2,2,1,ya,2,,claude,claude,,,辅 dan 铺 sama-sama memakai 甫 di kanan; radikal kiri 车 vs 钅.
+287,酷,醋,3,2,1,ya,2,,claude,claude,,,酷 dan 醋 sama-sama berradikal 酉; komponen kanan 告 vs 昔 mirip.
+288,钎,针仟,2,3,2,tidak,3,ya,claude,claude,,ya,针 dan 钎 sama-sama berradikal 钅; komponen kanan 十 vs 千 hanya beda satu goresan; 仟 dan 钎 sama-sama memakai 千 di kanan; radikal kiri 亻 vs 钅.
+289,钱,饯,2,2,1,ya,2,,claude,claude,,,钱 dan 饯 sama-sama memakai 戋 di kanan; radikal kiri 钅 vs 饣.
+290,铃,龄伶,3,3,2,tidak,3,,claude,claude,,ya,铃 dan 龄 sama-sama memakai 令 di kanan; radikal kiri 钅 vs 齿; 伶 dan 铃 sama-sama memakai 令 di kanan; radikal kiri 亻 vs 钅.
+291,闭,闲,1,2,1,ya,2,,claude,claude,,,闭 dan 闲 sama-sama berbingkai 门; isi dalam 才 vs 木 hanya beda satu goresan.
+292,闰,闺,2,2,1,ya,2,,claude,claude,,,闰 dan 闺 sama-sama berbingkai 门; isi dalam 王 vs 圭.
+293,阉,阎,3,2,1,ya,2,,claude,claude,,,阉 dan 阎 sama-sama berbingkai 门; isi dalam 奄 vs 臽 mirip.
+294,佐,佑,1,2,1,ya,2,,claude,claude,,,佐 dan 佑 sama-sama berradikal 亻; komponen kanan 左 vs 右 hanya beda satu goresan.
+295,佣,侗,2,2,1,ya,2,,claude,claude,66,,佣 dan 侗 sama-sama berradikal 亻; komponen kanan 用 vs 同 mirip.
+296,侧,铡,3,2,1,ya,2,,claude,claude,,,侧 dan 铡 sama-sama memakai 则 di kanan; radikal kiri 亻 vs 钅.
+297,倾,顷领,2,3,2,tidak,3,,claude/gpt,claude,,ya,"倾 memuat 顷 dengan tambahan 亻 di kiri; Komponen 顷/领 di kanan sangat mirip, 倾 pakai radikal 亻 di kiri."
+298,其,典,3,2,1,ya,2,,claude,claude,,,其 dan 典 sama-sama berkaki bentuk 丌 dengan garis-garis datar di tengah.
+299,屈,届屑,2,3,2,tidak,3,,claude/gpt,claude,,ya,"屈 dan 届 sama-sama berkepala 尸; komponen bawah 出 vs 由 mirip; Bingkai 尸 di atas sama, beda komponen dalam 出 vs 肖."
+300,崇,祟,2,2,1,ya,2,,claude,claude,,,崇 dan 祟 sama-sama berkaki 示-like dan berpuncak bentuk mirip; susunan atasnya berbeda tipis.
+301,很,琅役,3,3,2,tidak,3,ya,claude/gpt,claude,82,ya,"很 dan 琅 sama-sama memakai 艮 di kanan; radikal kiri 彳 vs 王; Radikal 彳 di kiri sama persis, kanan 殳 vs 艮 (sangat mirip kontur kanannya)."
+302,情,惜,3,2,1,ya,2,,claude,claude,"40,50,56",,情 dan 惜 sama-sama berradikal 忄; komponen kanan 青 vs 昔 mirip.
+303,稠,绸,2,2,1,ya,2,,claude,claude,,,稠 dan 绸 sama-sama memakai 周 di kanan; radikal kiri 禾 vs 纟.
+304,绕,饶,1,2,1,ya,2,,gpt,claude,,,"Hanya beda radikal kiri: 纟 (sutra) vs 饣(makanan), kanan 尧 sama persis."
+305,观,规,1,2,1,ya,2,,gpt,claude,,,"Kanan 见 sama persis, beda komponen kiri 又 vs 夫."
+306,词,饲,1,2,1,ya,2,,gpt,claude,,,"Kanan 司 sama persis, beda radikal 讠 (bicara) vs 饣 (makanan)."
+307,锗,诸都,3,3,2,tidak,3,ya,claude/gpt,claude,,ya,"Kanan 者 sama persis, beda radikal 讠 vs 钅; 都 dan 锗 sama-sama memakai 者; komponen pendamping 阝 vs 钅."
+308,哉,载,1,2,1,ya,2,,gpt,claude,,,"Bingkai 𢦏/戈 sama persis, beda komponen dalam 口 vs 车."
+309,坞,鸡,2,2,1,ya,2,,gpt,claude,,,"Komponen 乌/鸟 di kanan sama persis, beda radikal 土 vs 又."
+310,埃,挠,2,2,1,ya,2,,gpt,claude,,,"Komponen 矣/尧 di kanan mirip, beda radikal 土 vs 扌."
+311,姜,羡,2,2,1,ya,2,,gpt,claude,,,"Komponen 羊 di atas sama, bawah 女 vs 欠."
+312,局,居,2,2,1,ya,2,,gpt,claude,,,"Bingkai 尸 di atas sama persis, beda komponen dalam 尺/口 vs 古."
+313,怎,总,3,2,1,ya,2,,gpt,claude,,,"Radikal 心 di bawah sama, atas 乍 vs 丷/口."
+314,执,扰,1,2,1,ya,2,,gpt,claude,,,"Radikal 扌 sama persis, kanan 丸 vs 尤 (hanya beda posisi titik/goresan miring)."
+315,找,栈,2,2,1,ya,2,,gpt,claude,,,"Komponen 戈/戋 di kanan sangat identik, beda radikal 扌 vs 木."
+316,插,稻,2,2,1,ya,2,,gpt,claude,,,"Komponen 臿/舀 di kanan miring/dalam wadah sangat mirip, beda radikal 扌 vs 禾."
+317,溅,贱,2,2,1,ya,2,,claude,claude,,,溅 memuat 贱 dengan tambahan 氵 di kiri.
+318,萄,葡,3,2,1,ya,2,,claude,claude,,,萄 dan 葡 sama-sama berkepala 艹; komponen bawah 甸 vs 匍 mirip.
+319,傍,镑,3,2,1,ya,2,,claude,claude,94,,Komponen kanan 旁 sama; radikal kiri 亻 vs 钅.
+320,一,二,1,2,1,ya,2,,claude,claude,136,,Beda satu goresan: 二 menambah satu garis mendatar dari 一.
+321,七,匕,1,2,1,ya,2,,claude,claude,,,"Bentuk dasar mirip; 七 punya garis mendatar yang memotong, 匕 tidak."
+322,上,正,3,2,1,ya,2,,claude,claude,"115,140",,正 memuat bentuk mirip 上/止 dengan satu garis tambahan di atas.
+323,下,不,1,2,1,ya,2,,claude,claude,150,,不 seperti 下 dengan satu goresan miring tambahan.
+324,与,写,2,2,1,ya,2,,claude,claude,,,写 memuat 与 di bagian bawah (冖 di atas).
+325,专,传转,3,3,3,ya,3,ya,claude,claude,,ya,传 memuat 专 di sisi kanan (亻 di kiri); 转 memuat 专 di sisi kanan (车 di kiri); Sama-sama memuat 专 di kanan; radikal kiri berbeda (亻 vs 车).
+326,且,宜,2,2,1,ya,2,,claude,claude,,,宜 memuat 且 di bagian bawah (宀 di atas).
+327,两,俩辆,3,3,3,ya,3,ya,claude,claude,,ya,俩 memuat 两 di sisi kanan (亻 di kiri); 辆 memuat 两 di sisi kanan (车 di kiri); Sama-sama memuat 两 di kanan; radikal kiri berbeda (亻 vs 车).
+328,中,田由申,3,4,3,tidak,5,ya,claude,claude,"22,75,118,144,157",ya,"Sama-sama berkerangka 口; 中 ditembus garis tegak, 田 berisi tanda 十; Sama-sama berkerangka 口 dengan garis tegak; 由 punya garis mendatar di dalam dan garis tegak keluar di atas; 申 seperti 中 dengan satu garis mendatar tambahan di dalam."
+329,中,甲,3,2,1,ya,5,,claude,claude,"22,118,144",,Sama-sama berkerangka 口 dengan garis tegak; 甲 punya garis mendatar di dalam dan garis tegak keluar di bawah.
+330,住,主注,3,3,2,tidak,3,ya,claude,claude,"32,33,111",ya,住 memuat 主 di sisi kanan (亻 di kiri); Sama-sama memuat 主 di kanan; radikal kiri berbeda (亻 vs 氵).
+331,乃,奶,2,2,1,ya,2,,claude,claude,,,奶 memuat 乃 di sisi kanan (女 di kiri).
+332,义,议,2,2,1,ya,2,,claude,claude,12,,议 memuat 义 di sisi kanan (讠 di kiri).
+333,九,几力,2,3,3,ya,3,,claude,claude,"11,123,124",ya,Bentuk keseluruhan sangat mirip; berbeda pada lengkung/kait akhir; Bentuk keseluruhan sangat mirip; berbeda pada goresan miring; Bentuk keseluruhan sangat mirip; berbeda pada goresan atas.
+334,也,他地她,2,4,3,tidak,4,,claude,claude,80,ya,他 memuat 也 di sisi kanan (亻 di kiri); 地 memuat 也 di sisi kanan (土 di kiri); 她 memuat 也 di sisi kanan (女 di kiri).
+335,习,羽,2,2,1,ya,2,,claude,claude,,,羽 memuat dua bentuk 习.
+336,买,头,2,2,1,ya,2,,claude,claude,9,,"买 memuat 头 di bagian bawah, dengan goresan tambahan di atas."
+337,争,净静,2,3,2,tidak,3,,claude,claude,,ya,净 memuat 争 di sisi kanan (冫/氵 di kiri); 静 memuat 争 di sisi kanan (青 di kiri).
+338,亏,号,2,2,1,ya,2,,claude,claude,,,号 memuat 丂 di bagian bawah (口 di atas).
+339,云,运,2,2,1,ya,2,,claude,claude,"49,129",,运 memuat 云 (辶 di bawah-kiri).
+340,些,此,2,2,1,ya,2,,claude,claude,,,些 memuat 此 di bagian atas (二 di bawah).
+341,京,凉就惊,2,4,3,tidak,5,,claude,claude,,ya,凉 memuat 京 di sisi kanan (冫 di kiri); 就 memuat 京 di sisi kiri (尤 di kanan); 惊 memuat 京 di sisi kanan (忄 di kiri).
+342,京,谅,2,2,1,ya,5,,claude,claude,,,谅 memuat 京 di sisi kanan (讠 di kiri).
+343,亭,亮停高,3,4,3,tidak,4,ya,claude,claude,,ya,Sama-sama berawal 亠 + 口; bagian bawah berbeda; 停 memuat 亭 di sisi kanan (亻 di kiri).
+344,什,汁计汗,3,4,3,tidak,4,ya,claude,claude,,ya,Sama-sama memuat 十 di kanan; radikal kiri berbeda (亻 vs 氵); Sama-sama memuat 十 di kanan; radikal kiri berbeda (亻 vs 讠); Sama-sama beradikal 氵; 十 vs 干 beda satu goresan.
+345,仅,权,3,2,1,ya,2,,claude,claude,,,Sama-sama memuat 又 di kanan; radikal kiri berbeda (亻 vs 木).
+346,价,介份分,3,4,3,tidak,4,ya,claude,claude,,ya,价 memuat 介 di sisi kanan (亻 di kiri); Sama-sama radikal 亻 di kiri; komponen kanan mirip (介 vs 分); 份 memuat 分 di sisi kanan (亻 di kiri).
+347,仍,扔,3,2,1,ya,2,,claude,claude,,,Sama-sama memuat 乃 di kanan; radikal kiri berbeda (亻 vs 扌).
+348,从,众,2,2,1,ya,2,,claude,claude,143,,众 memuat 从 di bagian bawah (人 di atas).
+349,付,村符衬,3,4,3,tidak,5,ya,claude,claude,,ya,Sama-sama memuat 寸 di kanan; radikal kiri berbeda (亻 vs 木); 符 memuat 付 di bagian bawah (竹 di atas); Sama-sama memuat 寸 di kanan; radikal kiri berbeda (亻 vs 衤).
+350,付,讨,3,2,1,ya,5,,claude,claude,,,Sama-sama memuat 寸 di kanan; radikal kiri berbeda (亻 vs 讠).
+351,代,式,3,2,1,ya,2,,claude,claude,45,,Sama-sama memuat 弋; unsur tambahan berbeda (亻 vs 工).
+352,们,门,2,2,1,ya,2,,claude,claude,76,,们 memuat 门 di sisi kanan (亻 di kiri).
+353,优,尤,2,2,1,ya,2,,claude,claude,30,,优 memuat 尤 di sisi kanan (亻 di kiri).
+354,会,合,3,2,1,ya,2,,claude,claude,49,,Bentuk keseluruhan mirip; unsur bawah berbeda.
+355,估,故,3,2,1,ya,2,,claude,claude,,,Sama-sama memuat 古; unsur tambahan berbeda (亻 vs 攵).
+356,但,担,3,2,1,ya,2,,claude,claude,,,Sama-sama memuat 旦 di kanan; radikal kiri berbeda (亻 vs 扌).
+357,位,垃拉立,3,4,3,tidak,4,ya,claude,claude,57,ya,Sama-sama memuat 立 di kanan; radikal kiri berbeda (亻 vs 土); Sama-sama memuat 立 di kanan; radikal kiri berbeda (亻 vs 扌); 位 memuat 立 di sisi kanan (亻 di kiri).
+358,低,底抵,3,3,2,tidak,3,,claude,claude,92,ya,Sama-sama memuat 氐; unsur tambahan berbeda (亻 vs 广); Sama-sama memuat 氐 di kanan; radikal kiri berbeda (亻 vs 扌).
+359,余,涂途,2,3,2,tidak,3,,claude,claude,,ya,涂 memuat 余 di sisi kanan (氵 di kiri); 途 memuat 余 (辶 di bawah-kiri).
+360,作,昨,3,2,1,ya,2,,claude,claude,,,Sama-sama memuat 乍 di kanan; radikal kiri berbeda (亻 vs 日).
+361,你,尔您,2,3,2,tidak,3,,claude,claude,,ya,你 memuat 尔 di sisi kanan (亻 di kiri); 您 memuat 你 di bagian atas (心 di bawah).
+362,供,共,2,2,1,ya,2,,claude,claude,,,供 memuat 共 di sisi kanan (亻 di kiri).
+363,保,呆,2,2,1,ya,2,,claude,claude,,,保 memuat 呆 di sisi kanan (亻 di kiri).
+364,俞,偷愉输,3,4,4,tidak,4,ya,claude,claude,,ya,偷 memuat 俞 di sisi kanan (亻 di kiri); 愉 memuat 俞 di sisi kanan (忄 di kiri); 输 memuat 俞 di sisi kanan (车 di kiri); Sama-sama memuat 俞 di kanan; radikal kiri berbeda (亻 vs 车).
+365,信,言,2,2,1,ya,2,,claude,claude,,,信 memuat 言 di sisi kanan (亻 di kiri).
+366,像,橡,3,2,1,ya,2,,claude,claude,21,,Sama-sama memuat 象 di kanan; radikal kiri berbeda (亻 vs 木).
+367,允,充,3,2,1,ya,2,,claude,claude,,,Sama-sama berbagi 儿 di bawah; unsur atas berbeda.
+368,内,肉,2,2,1,ya,2,,claude,claude,142,,Sama-sama berkerangka 冂 dengan unsur di dalam.
+369,北,比,2,2,1,ya,2,,claude,claude,,,Sama-sama dua unsur berdampingan yang saling mirip.
+370,即,既,3,2,1,ya,2,,claude,claude,,,Sama-sama berkerangka kiri yang sama; unsur kanan berbeda.
+371,反,友发,3,3,2,tidak,3,ya,claude,claude,,ya,Sama-sama memuat 又 di bawah; goresan atas berbeda.
+372,受,爱,2,2,1,ya,2,,claude,claude,,,Sama-sama beratap 爫 + 冖; bagian bawah berbeda (又 vs 友).
+373,古,吉,1,2,1,ya,2,,claude,claude,"17,20,126",,Sama-sama berkerangka 十 + 口; garis 十 vs 士 berbeda.
+374,后,右石,3,3,2,tidak,3,ya,claude,claude,133,ya,Sama-sama memuat 口 di bawah; unsur atas serupa (ナ vs 𠂆+一); Sama-sama memuat 口 di bawah; unsur atas berbeda.
+375,同,司向,2,3,2,tidak,3,,claude,claude,,ya,Sama-sama berkerangka 冂-an dengan 口 di dalam; garis atas berbeda; Sama-sama berkerangka 冂 dengan 口 di dalam; goresan atas berbeda.
+376,各,名,2,2,1,ya,2,,claude,claude,,,Sama-sama memuat 口 di bawah; 夂 vs 夕 berbeda satu goresan.
+377,告,舌,1,2,1,ya,2,,claude,claude,"19,20,160",,Sama-sama memuat 口 di bawah; 牛 vs 千 beda satu goresan.
+378,在,左,2,2,1,ya,2,,claude,claude,,,Sama-sama berawal 一+丿 di kiri atas; unsur bawah berbeda (土 vs 工).
+379,犬,术,2,2,1,ya,2,,claude,claude,"2,54",,"Sama-sama berkerangka garis mendatar + titik; 术 berbasis 木, 犬 berbasis 大."
+380,尺,尽,2,2,1,ya,2,,claude,claude,154,,Sama-sama beratap 尸; bagian bawah mirip.
+381,川,州,2,2,1,ya,2,,claude,claude,,,州 memuat bentuk 川 dengan tambahan titik-titik.
+382,慢,漫,2,2,1,ya,2,,claude,claude,,,Sama-sama memuat 曼 di kanan; radikal kiri 忄 vs 氵 sangat mirip.
+383,扬,汤,2,2,1,ya,2,,claude,claude,97,,Sama-sama memuat 昜 di kanan; radikal kiri 扌 vs 氵 sangat mirip.
+384,投,没,2,2,1,ya,2,,claude,claude,,,Sama-sama memuat 殳 di kanan; radikal kiri 扌 vs 氵 sangat mirip.
+385,抬,治,2,2,1,ya,2,,claude,claude,65,,Sama-sama memuat 台 di kanan; radikal kiri 扌 vs 氵 sangat mirip.
+386,抽,油,2,2,1,ya,2,,claude,claude,,,Sama-sama memuat 由 di kanan; radikal kiri 扌 vs 氵 sangat mirip.
+387,月,用,2,2,1,ya,2,,claude,claude,,,Sama-sama berkerangka luar yang sama dengan garis di dalam; isi dalam berbeda.
+388,朵,杂,2,2,1,ya,2,,claude,claude,,,Sama-sama beralas 木; unsur atas berbeda (几 vs 九).
+389,李,杏,2,2,1,ya,2,,claude,claude,,,Sama-sama beratap 木; unsur bawah berbeda (子 vs 口).
+390,棵,稞,2,2,1,ya,2,,claude,claude,84,,Sama-sama memuat 果 di kanan; radikal kiri 木 vs 禾 sangat mirip.
+391,水,永,2,2,1,ya,2,,claude,claude,,,Bentuk keseluruhan mirip; 永 punya goresan tambahan di sisi kiri atas.
+392,狠,狼,1,2,1,ya,2,,claude,claude,82,,Sama-sama beradikal 犭; 艮 vs 良 beda satu goresan.
+393,皿,血,1,2,1,ya,2,,claude,claude,,,血 = 皿 dengan satu goresan tambahan di atas.
+394,篮,蓝,2,2,1,ya,2,,claude,claude,,,Sama-sama memuat 监 di bawah; unsur atas 竹 vs 艹 mirip.
+395,老,考,2,2,1,ya,2,,claude,claude,,,Sama-sama beratap 耂; bagian bawah mirip (匕 vs 丂).
