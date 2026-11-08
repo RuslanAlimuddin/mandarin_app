@@ -1,0 +1,5078 @@
+{
+  "subyek": [
+    {
+      "cn": "我",
+      "py": "wǒ",
+      "id": "saya; aku; milikku",
+      "hsk": 1
+    },
+    {
+      "cn": "你",
+      "py": "nǐ",
+      "id": "kamu (informal, sebagai lawan dari 您[nin2] yang sopan)",
+      "hsk": 1
+    },
+    {
+      "cn": "他",
+      "py": "tā",
+      "id": "(orang ketiga tunggal) (sejak awal abad ke-20, biasanya laki-laki) dia; dia; nya",
+      "hsk": 1
+    },
+    {
+      "cn": "这",
+      "py": "zhè",
+      "id": "(kata ganti) ini; ini",
+      "hsk": 1
+    },
+    {
+      "cn": "我们",
+      "py": "wǒ men",
+      "id": "kami; kita; diri kami; milik kami",
+      "hsk": 1
+    },
+    {
+      "cn": "她",
+      "py": "tā",
+      "id": "dia (pr)",
+      "hsk": 1
+    },
+    {
+      "cn": "那",
+      "py": "nà",
+      "id": "itu",
+      "hsk": 1
+    },
+    {
+      "cn": "他们",
+      "py": "tā men",
+      "id": "mereka",
+      "hsk": 1
+    },
+    {
+      "cn": "什么",
+      "py": "shén me",
+      "id": "apa?",
+      "hsk": 1
+    },
+    {
+      "cn": "工作",
+      "py": "gōng zuò",
+      "id": "bekerja",
+      "hsk": 1
+    },
+    {
+      "cn": "你们",
+      "py": "nǐ men",
+      "id": "kalian (jamak)",
+      "hsk": 1
+    },
+    {
+      "cn": "怎么",
+      "py": "zěn me",
+      "id": "bagaimana?",
+      "hsk": 1
+    },
+    {
+      "cn": "这些",
+      "py": "zhè xiē",
+      "id": "ini (jamak)",
+      "hsk": 1
+    },
+    {
+      "cn": "谁",
+      "py": "shéi",
+      "id": "siapa",
+      "hsk": 1
+    },
+    {
+      "cn": "这里",
+      "py": "zhè lǐ",
+      "id": "di sini",
+      "hsk": 1
+    },
+    {
+      "cn": "自己",
+      "py": "zì jǐ",
+      "id": "diri sendiri",
+      "hsk": 2
+    },
+    {
+      "cn": "这样",
+      "py": "zhè yàng",
+      "id": "jenis ini",
+      "hsk": 2
+    },
+    {
+      "cn": "它",
+      "py": "tā",
+      "id": "itu",
+      "hsk": 2
+    },
+    {
+      "cn": "该",
+      "py": "gāi",
+      "id": "seharusnya",
+      "hsk": 2
+    },
+    {
+      "cn": "那么",
+      "py": "nà me",
+      "id": "seperti itu; dengan cara itu; sampai tingkat itu",
+      "hsk": 2
+    },
+    {
+      "cn": "这么",
+      "py": "zhè me",
+      "id": "sangat banyak",
+      "hsk": 2
+    },
+    {
+      "cn": "大家",
+      "py": "dà jiā",
+      "id": "semua orang",
+      "hsk": 2
+    },
+    {
+      "cn": "其他",
+      "py": "qí tā",
+      "id": "lain",
+      "hsk": 2
+    },
+    {
+      "cn": "为什么",
+      "py": "wèi shén me",
+      "id": "mengapa?",
+      "hsk": 2
+    },
+    {
+      "cn": "有人",
+      "py": "yǒu rén",
+      "id": "seseorang",
+      "hsk": 2
+    },
+    {
+      "cn": "其中",
+      "py": "qí zhōng",
+      "id": "di antara",
+      "hsk": 2
+    },
+    {
+      "cn": "家庭",
+      "py": "jiā tíng",
+      "id": "keluarga",
+      "hsk": 2
+    },
+    {
+      "cn": "那样",
+      "py": "nà yàng",
+      "id": "tipe itu",
+      "hsk": 2
+    },
+    {
+      "cn": "它们",
+      "py": "tā men",
+      "id": "mereka",
+      "hsk": 2
+    },
+    {
+      "cn": "怎样",
+      "py": "zěn yàng",
+      "id": "bagaimana",
+      "hsk": 2
+    },
+    {
+      "cn": "每",
+      "py": "měi",
+      "id": "setiap",
+      "hsk": 3
+    },
+    {
+      "cn": "一切",
+      "py": "yī qiè",
+      "id": "segalanya",
+      "hsk": 3
+    },
+    {
+      "cn": "任何",
+      "py": "rèn hé",
+      "id": "apa pun; mana pun",
+      "hsk": 3
+    },
+    {
+      "cn": "如何",
+      "py": "rú hé",
+      "id": "bagaimana",
+      "hsk": 3
+    },
+    {
+      "cn": "者",
+      "py": "zhě",
+      "id": "(setelah kata kerja atau kata sifat) orang yang (adalah)...",
+      "hsk": 3
+    },
+    {
+      "cn": "另外",
+      "py": "lìng wài",
+      "id": "tambahan",
+      "hsk": 3
+    },
+    {
+      "cn": "各位",
+      "py": "gè wèi",
+      "id": "semuanya",
+      "hsk": 3
+    },
+    {
+      "cn": "父亲",
+      "py": "fù qīn",
+      "id": "ayah",
+      "hsk": 3
+    },
+    {
+      "cn": "记者",
+      "py": "jì zhě",
+      "id": "reporter; jurnalis",
+      "hsk": 3
+    },
+    {
+      "cn": "父母",
+      "py": "fù mǔ",
+      "id": "ayah dan ibu; orang tua",
+      "hsk": 3
+    },
+    {
+      "cn": "某",
+      "py": "mǒu",
+      "id": "beberapa",
+      "hsk": 3
+    },
+    {
+      "cn": "母亲",
+      "py": "mǔ qīn",
+      "id": "ibu",
+      "hsk": 3
+    },
+    {
+      "cn": "部门",
+      "py": "bù mén",
+      "id": "departemen",
+      "hsk": 3
+    },
+    {
+      "cn": "各",
+      "py": "gè",
+      "id": "masing-masing",
+      "hsk": 3
+    },
+    {
+      "cn": "警察",
+      "py": "jǐng chá",
+      "id": "polisi; petugas polisi",
+      "hsk": 3
+    },
+    {
+      "cn": "此",
+      "py": "cǐ",
+      "id": "ini",
+      "hsk": 4
+    },
+    {
+      "cn": "自",
+      "py": "zì",
+      "id": "diri sendiri; diri sendiri",
+      "hsk": 4
+    },
+    {
+      "cn": "之一",
+      "py": "zhī yī",
+      "id": "salah satu dari (sesuatu)",
+      "hsk": 4
+    },
+    {
+      "cn": "兄弟",
+      "py": "xiōng dì",
+      "id": "saudara laki-laki",
+      "hsk": 4
+    },
+    {
+      "cn": "妻子",
+      "py": "qī zǐ",
+      "id": "istri dan anak-anak",
+      "hsk": 4
+    },
+    {
+      "cn": "律师",
+      "py": "lǜ shī",
+      "id": "pengacara",
+      "hsk": 4
+    },
+    {
+      "cn": "丈夫",
+      "py": "zhàng fu",
+      "id": "suami",
+      "hsk": 4
+    },
+    {
+      "cn": "老婆",
+      "py": "lǎo pó",
+      "id": "(percakapan) istri",
+      "hsk": 4
+    },
+    {
+      "cn": "合同",
+      "py": "hé tong",
+      "id": "kontrak; perjanjian",
+      "hsk": 4
+    },
+    {
+      "cn": "人家",
+      "py": "rén jiā",
+      "id": "rumah tangga",
+      "hsk": 4
+    },
+    {
+      "cn": "老公",
+      "py": "lǎo gōng",
+      "id": "(percakapan) suami",
+      "hsk": 4
+    },
+    {
+      "cn": "运动员",
+      "py": "yùn dòng yuán",
+      "id": "atlet",
+      "hsk": 4
+    },
+    {
+      "cn": "姐妹",
+      "py": "jiě mèi",
+      "id": "kakak (dan adik) perempuan",
+      "hsk": 4
+    },
+    {
+      "cn": "夫妇",
+      "py": "fū fù",
+      "id": "sepasang (menikah) suami istri",
+      "hsk": 4
+    },
+    {
+      "cn": "如此",
+      "py": "rú cǐ",
+      "id": "seperti ini; begitu; sedemikian",
+      "hsk": 5
+    },
+    {
+      "cn": "其",
+      "py": "qí",
+      "id": "miliknya",
+      "hsk": 5
+    },
+    {
+      "cn": "彼此",
+      "py": "bǐ cǐ",
+      "id": "satu sama lain; saling",
+      "hsk": 5
+    },
+    {
+      "cn": "编辑",
+      "py": "biān jí",
+      "id": "menyunting",
+      "hsk": 5
+    },
+    {
+      "cn": "本人",
+      "py": "běn rén",
+      "id": "saya; diriku",
+      "hsk": 5
+    },
+    {
+      "cn": "此时",
+      "py": "cǐ shí",
+      "id": "sekarang",
+      "hsk": 5
+    },
+    {
+      "cn": "辞职",
+      "py": "cí zhí",
+      "id": "mengundurkan diri",
+      "hsk": 5
+    },
+    {
+      "cn": "总裁",
+      "py": "zǒng cái",
+      "id": "ketua",
+      "hsk": 5
+    },
+    {
+      "cn": "此刻",
+      "py": "cǐ kè",
+      "id": "saat ini",
+      "hsk": 5
+    },
+    {
+      "cn": "职位",
+      "py": "zhí wèi",
+      "id": "posisi; jabatan; pekerjaan",
+      "hsk": 5
+    },
+    {
+      "cn": "裁判",
+      "py": "cái pàn",
+      "id": "(hukum) menghakimi; memutuskan; putusan; penilaian",
+      "hsk": 5
+    },
+    {
+      "cn": "福利",
+      "py": "fú lì",
+      "id": "manfaat material",
+      "hsk": 5
+    },
+    {
+      "cn": "军人",
+      "py": "jūn rén",
+      "id": "prajurit",
+      "hsk": 5
+    },
+    {
+      "cn": "职务",
+      "py": "zhí wù",
+      "id": "jabatan; posisi; pekerjaan; tugas",
+      "hsk": 5
+    },
+    {
+      "cn": "出差",
+      "py": "chū chāi",
+      "id": "melakukan perjalanan dinas atau bisnis",
+      "hsk": 5
+    },
+    {
+      "cn": "另",
+      "py": "lìng",
+      "id": "lain",
+      "hsk": 6
+    },
+    {
+      "cn": "之类",
+      "py": "zhī lèi",
+      "id": "dan seterusnya",
+      "hsk": 6
+    },
+    {
+      "cn": "自我",
+      "py": "zì wǒ",
+      "id": "diri-",
+      "hsk": 6
+    },
+    {
+      "cn": "为何",
+      "py": "wèi hé",
+      "id": "mengapa",
+      "hsk": 6
+    },
+    {
+      "cn": "本身",
+      "py": "běn shēn",
+      "id": "dirinya sendiri",
+      "hsk": 6
+    },
+    {
+      "cn": "本地",
+      "py": "běn dì",
+      "id": "lokal",
+      "hsk": 6
+    },
+    {
+      "cn": "设计师",
+      "py": "shè jì shī",
+      "id": "desainer",
+      "hsk": 6
+    },
+    {
+      "cn": "此次",
+      "py": "cǐ cì",
+      "id": "kali ini",
+      "hsk": 6
+    },
+    {
+      "cn": "岗位",
+      "py": "gǎng wèi",
+      "id": "jabatan; pekerjaan",
+      "hsk": 6
+    },
+    {
+      "cn": "孤儿",
+      "py": "gū ér",
+      "id": "anak yatim",
+      "hsk": 6
+    },
+    {
+      "cn": "此事",
+      "py": "cǐ shì",
+      "id": "masalah ini",
+      "hsk": 6
+    },
+    {
+      "cn": "薪水",
+      "py": "xīn shuǐ",
+      "id": "gaji",
+      "hsk": 6
+    },
+    {
+      "cn": "厨师",
+      "py": "chú shī",
+      "id": "juru masak",
+      "hsk": 6
+    },
+    {
+      "cn": "招聘",
+      "py": "zhāo pìn",
+      "id": "mengundang lamaran untuk pekerjaan",
+      "hsk": 6
+    },
+    {
+      "cn": "父子",
+      "py": "fù zǐ",
+      "id": "ayah dan anak laki-laki",
+      "hsk": 6
+    },
+    {
+      "cn": "之",
+      "py": "zhī",
+      "id": "(partikel posesif, padanan sastra dari 的[de5])",
+      "hsk": 7
+    },
+    {
+      "cn": "娘",
+      "py": "niáng",
+      "id": "ibu",
+      "hsk": 7
+    },
+    {
+      "cn": "他人",
+      "py": "tā rén",
+      "id": "orang lain",
+      "hsk": 7
+    },
+    {
+      "cn": "家族",
+      "py": "jiā zú",
+      "id": "keluarga",
+      "hsk": 7
+    },
+    {
+      "cn": "何时",
+      "py": "hé shí",
+      "id": "kapan",
+      "hsk": 7
+    },
+    {
+      "cn": "爹",
+      "py": "diē",
+      "id": "ayah",
+      "hsk": 7
+    },
+    {
+      "cn": "亲戚",
+      "py": "qīn qi",
+      "id": "seorang kerabat (yaitu, hubungan keluarga)",
+      "hsk": 7
+    },
+    {
+      "cn": "外婆",
+      "py": "wài pó",
+      "id": "(percakapan) ibu dari ibu",
+      "hsk": 7
+    },
+    {
+      "cn": "后者",
+      "py": "hòu zhě",
+      "id": "yang terakhir",
+      "hsk": 7
+    },
+    {
+      "cn": "何处",
+      "py": "hé chù",
+      "id": "dari mana",
+      "hsk": 7
+    },
+    {
+      "cn": "职员",
+      "py": "zhí yuán",
+      "id": "pekerja kantor",
+      "hsk": 7
+    },
+    {
+      "cn": "舅舅",
+      "py": "jiù jiu",
+      "id": "saudara laki-laki ibu",
+      "hsk": 7
+    },
+    {
+      "cn": "外公",
+      "py": "wài gōng",
+      "id": "(percakapan) ayah dari ibu",
+      "hsk": 7
+    },
+    {
+      "cn": "姨",
+      "py": "yí",
+      "id": "saudara perempuan ibu",
+      "hsk": 7
+    }
+  ],
+  "kata_kerja": [
+    {
+      "cn": "了",
+      "py": "le",
+      "id": "(penanda tindakan selesai)",
+      "hsk": 1
+    },
+    {
+      "cn": "是",
+      "py": "shì",
+      "id": "adalah (diikuti hanya oleh kata benda)",
+      "hsk": 1
+    },
+    {
+      "cn": "在",
+      "py": "zài",
+      "id": "ada; menjadi hidup",
+      "hsk": 1
+    },
+    {
+      "cn": "有",
+      "py": "yǒu",
+      "id": "memiliki; ada",
+      "hsk": 1
+    },
+    {
+      "cn": "就",
+      "py": "jiù",
+      "id": "(setelah klausa pengandaian) dalam hal itu; maka",
+      "hsk": 1
+    },
+    {
+      "cn": "要",
+      "py": "yào",
+      "id": "ingin; mau; akan",
+      "hsk": 1
+    },
+    {
+      "cn": "说",
+      "py": "shuō",
+      "id": "berbicara; mengatakan",
+      "hsk": 1
+    },
+    {
+      "cn": "好",
+      "py": "hào",
+      "id": "menyukai; gemar (akan sesuatu)",
+      "hsk": 1
+    },
+    {
+      "cn": "会",
+      "py": "huì",
+      "id": "bisa; memiliki keahlian; tahu cara",
+      "hsk": 1
+    },
+    {
+      "cn": "对",
+      "py": "duì",
+      "id": "benar; tepat",
+      "hsk": 1
+    },
+    {
+      "cn": "上",
+      "py": "shàng",
+      "id": "naik; pergi ke (mis. sekolah, kerja)",
+      "hsk": 1
+    },
+    {
+      "cn": "到",
+      "py": "dào",
+      "id": "mencapai; tiba",
+      "hsk": 1
+    },
+    {
+      "cn": "来",
+      "py": "lái",
+      "id": "datang",
+      "hsk": 1
+    },
+    {
+      "cn": "还",
+      "py": "huán",
+      "id": "mengembalikan",
+      "hsk": 1
+    },
+    {
+      "cn": "让",
+      "py": "ràng",
+      "id": "mengalah",
+      "hsk": 2
+    },
+    {
+      "cn": "自己",
+      "py": "zì jǐ",
+      "id": "diri sendiri",
+      "hsk": 2
+    },
+    {
+      "cn": "为",
+      "py": "wéi",
+      "id": "sebagai (dalam kapasitas)",
+      "hsk": 2
+    },
+    {
+      "cn": "可以",
+      "py": "kě yǐ",
+      "id": "bisa",
+      "hsk": 2
+    },
+    {
+      "cn": "得",
+      "py": "dé",
+      "id": "memperoleh",
+      "hsk": 2
+    },
+    {
+      "cn": "如果",
+      "py": "rú guǒ",
+      "id": "jika",
+      "hsk": 2
+    },
+    {
+      "cn": "该",
+      "py": "gāi",
+      "id": "seharusnya",
+      "hsk": 2
+    },
+    {
+      "cn": "可能",
+      "py": "kě néng",
+      "id": "mungkin (terjadi)",
+      "hsk": 2
+    },
+    {
+      "cn": "像",
+      "py": "xiàng",
+      "id": "menyerupai",
+      "hsk": 2
+    },
+    {
+      "cn": "当",
+      "py": "dāng",
+      "id": "(tiruan bunyi) dong",
+      "hsk": 2
+    },
+    {
+      "cn": "向",
+      "py": "xiàng",
+      "id": "menuju; ke arah",
+      "hsk": 2
+    },
+    {
+      "cn": "认为",
+      "py": "rèn wéi",
+      "id": "percaya; berpikir; menganggap; merasa",
+      "hsk": 2
+    },
+    {
+      "cn": "应该",
+      "py": "yīng gāi",
+      "id": "seharusnya; harus; wajib",
+      "hsk": 2
+    },
+    {
+      "cn": "带",
+      "py": "dài",
+      "id": "pita",
+      "hsk": 2
+    },
+    {
+      "cn": "发现",
+      "py": "fā xiàn",
+      "id": "memperhatikan; menyadari",
+      "hsk": 2
+    },
+    {
+      "cn": "把",
+      "py": "bǎ",
+      "id": "memegang; menggenggam",
+      "hsk": 3
+    },
+    {
+      "cn": "就是",
+      "py": "jiù shì",
+      "id": "tepat; persis",
+      "hsk": 3
+    },
+    {
+      "cn": "需要",
+      "py": "xū yào",
+      "id": "membutuhkan; menginginkan; menuntut; memerlukan",
+      "hsk": 3
+    },
+    {
+      "cn": "开始",
+      "py": "kāi shǐ",
+      "id": "memulai",
+      "hsk": 3
+    },
+    {
+      "cn": "死",
+      "py": "sǐ",
+      "id": "meninggal",
+      "hsk": 3
+    },
+    {
+      "cn": "种",
+      "py": "zhòng",
+      "id": "menanam",
+      "hsk": 3
+    },
+    {
+      "cn": "希望",
+      "py": "xī wàng",
+      "id": "berharap",
+      "hsk": 3
+    },
+    {
+      "cn": "发生",
+      "py": "fā shēng",
+      "id": "terjadi; berlangsung; pecah",
+      "hsk": 3
+    },
+    {
+      "cn": "为了",
+      "py": "wèi le",
+      "id": "untuk; demi; tujuan; agar",
+      "hsk": 3
+    },
+    {
+      "cn": "只是",
+      "py": "zhǐ shì",
+      "id": "hanya; cuma; tidak lebih dari",
+      "hsk": 3
+    },
+    {
+      "cn": "比赛",
+      "py": "bǐ sài",
+      "id": "kompetisi (olahraga dll)",
+      "hsk": 3
+    },
+    {
+      "cn": "继续",
+      "py": "jì xù",
+      "id": "melanjutkan; teruskan",
+      "hsk": 3
+    },
+    {
+      "cn": "张",
+      "py": "zhāng",
+      "id": "membuka (mis. mulut); merentangkan",
+      "hsk": 3
+    },
+    {
+      "cn": "关系",
+      "py": "guān xi",
+      "id": "hubungan",
+      "hsk": 3
+    },
+    {
+      "cn": "总",
+      "py": "zǒng",
+      "id": "umum; keseluruhan",
+      "hsk": 3
+    },
+    {
+      "cn": "担心",
+      "py": "dān xīn",
+      "id": "cemas",
+      "hsk": 4
+    },
+    {
+      "cn": "了解",
+      "py": "liǎo jiě",
+      "id": "memahami",
+      "hsk": 4
+    },
+    {
+      "cn": "无",
+      "py": "wú",
+      "id": "digunakan dalam 南無|南无[na1 mo2]",
+      "hsk": 4
+    },
+    {
+      "cn": "选择",
+      "py": "xuǎn zé",
+      "id": "memilih",
+      "hsk": 4
+    },
+    {
+      "cn": "作为",
+      "py": "zuò wéi",
+      "id": "tingkah laku seseorang",
+      "hsk": 4
+    },
+    {
+      "cn": "无法",
+      "py": "wú fǎ",
+      "id": "tidak dapat; tidak mampu",
+      "hsk": 4
+    },
+    {
+      "cn": "处",
+      "py": "chǔ",
+      "id": "bertempat tinggal",
+      "hsk": 4
+    },
+    {
+      "cn": "是否",
+      "py": "shì fǒu",
+      "id": "apakah (atau tidak)",
+      "hsk": 4
+    },
+    {
+      "cn": "研究",
+      "py": "yán jiū",
+      "id": "penelitian",
+      "hsk": 4
+    },
+    {
+      "cn": "定",
+      "py": "dìng",
+      "id": "memperbaiki; menetapkan; membuat pasti",
+      "hsk": 4
+    },
+    {
+      "cn": "考虑",
+      "py": "kǎo lǜ",
+      "id": "mempertimbangkan",
+      "hsk": 4
+    },
+    {
+      "cn": "提供",
+      "py": "tí gōng",
+      "id": "menawarkan",
+      "hsk": 4
+    },
+    {
+      "cn": "治疗",
+      "py": "zhì liáo",
+      "id": "mengobati (penyakit)",
+      "hsk": 4
+    },
+    {
+      "cn": "根据",
+      "py": "gēn jù",
+      "id": "menurut",
+      "hsk": 4
+    },
+    {
+      "cn": "获得",
+      "py": "huò dé",
+      "id": "memperoleh; menerima; mendapatkan",
+      "hsk": 4
+    },
+    {
+      "cn": "可",
+      "py": "kě",
+      "id": "(prefiks) bisa; boleh; mampu; -dapat",
+      "hsk": 5
+    },
+    {
+      "cn": "搞",
+      "py": "gǎo",
+      "id": "melakukan",
+      "hsk": 5
+    },
+    {
+      "cn": "肯定",
+      "py": "kěn dìng",
+      "id": "menjadi pasti; positif",
+      "hsk": 5
+    },
+    {
+      "cn": "杀",
+      "py": "shā",
+      "id": "membunuh; memenggal; menyerang",
+      "hsk": 5
+    },
+    {
+      "cn": "控制",
+      "py": "kòng zhì",
+      "id": "mengendalikan",
+      "hsk": 5
+    },
+    {
+      "cn": "组织",
+      "py": "zǔ zhī",
+      "id": "mengatur; organisasi",
+      "hsk": 5
+    },
+    {
+      "cn": "拥有",
+      "py": "yōng yǒu",
+      "id": "memiliki; mempunyai",
+      "hsk": 5
+    },
+    {
+      "cn": "令",
+      "py": "líng",
+      "id": "digunakan dalam 脊令[ji2 ling2]",
+      "hsk": 5
+    },
+    {
+      "cn": "至",
+      "py": "zhì",
+      "id": "sampai",
+      "hsk": 5
+    },
+    {
+      "cn": "放弃",
+      "py": "fàng qì",
+      "id": "menyerah; meninggalkan; melepaskan",
+      "hsk": 5
+    },
+    {
+      "cn": "陪",
+      "py": "péi",
+      "id": "menemani",
+      "hsk": 5
+    },
+    {
+      "cn": "分析",
+      "py": "fēn xī",
+      "id": "menganalisis",
+      "hsk": 5
+    },
+    {
+      "cn": "享受",
+      "py": "xiǎng shòu",
+      "id": "menikmati",
+      "hsk": 5
+    },
+    {
+      "cn": "抢",
+      "py": "qiāng",
+      "id": "(sastra) menabrak",
+      "hsk": 5
+    },
+    {
+      "cn": "待",
+      "py": "dāi",
+      "id": "untuk tinggal; untuk tetap",
+      "hsk": 5
+    },
+    {
+      "cn": "如",
+      "py": "rú",
+      "id": "sebagai",
+      "hsk": 6
+    },
+    {
+      "cn": "同",
+      "py": "tóng",
+      "id": "seperti",
+      "hsk": 6
+    },
+    {
+      "cn": "作",
+      "py": "zuò",
+      "id": "membuat; melakukan",
+      "hsk": 6
+    },
+    {
+      "cn": "有关",
+      "py": "yǒu guān",
+      "id": "memiliki hubungan dengan",
+      "hsk": 6
+    },
+    {
+      "cn": "超",
+      "py": "chāo",
+      "id": "melebihi",
+      "hsk": 6
+    },
+    {
+      "cn": "入",
+      "py": "rù",
+      "id": "masuk; pergi ke dalam",
+      "hsk": 6
+    },
+    {
+      "cn": "死亡",
+      "py": "sǐ wáng",
+      "id": "meninggal",
+      "hsk": 6
+    },
+    {
+      "cn": "清",
+      "py": "qīng",
+      "id": "membersihkan; menjernihkan",
+      "hsk": 6
+    },
+    {
+      "cn": "投票",
+      "py": "tóu piào",
+      "id": "memilih",
+      "hsk": 6
+    },
+    {
+      "cn": "犯罪",
+      "py": "fàn zuì",
+      "id": "melakukan kejahatan",
+      "hsk": 6
+    },
+    {
+      "cn": "逼",
+      "py": "bī",
+      "id": "memaksa; mendesak",
+      "hsk": 6
+    },
+    {
+      "cn": "赛",
+      "py": "sài",
+      "id": "bersaing",
+      "hsk": 6
+    },
+    {
+      "cn": "尽",
+      "py": "jǐn",
+      "id": "sebanyak mungkin",
+      "hsk": 6
+    },
+    {
+      "cn": "若",
+      "py": "ruò",
+      "id": "digunakan dalam 般若[bo1 re3]",
+      "hsk": 6
+    },
+    {
+      "cn": "招",
+      "py": "zhāo",
+      "id": "merekrut",
+      "hsk": 6
+    },
+    {
+      "cn": "及",
+      "py": "jí",
+      "id": "dan",
+      "hsk": 7
+    },
+    {
+      "cn": "文",
+      "py": "wén",
+      "id": "tulisan; bahasa",
+      "hsk": 7
+    },
+    {
+      "cn": "经",
+      "py": "jīng",
+      "id": "melalui; mengalami",
+      "hsk": 7
+    },
+    {
+      "cn": "不知",
+      "py": "bù zhī",
+      "id": "tidak tahu",
+      "hsk": 7
+    },
+    {
+      "cn": "即",
+      "py": "jí",
+      "id": "yaitu",
+      "hsk": 7
+    },
+    {
+      "cn": "所谓",
+      "py": "suǒ wèi",
+      "id": "apa yang dimaksud dengan ungkapan ...; apa yang disebut sebagai ...",
+      "hsk": 7
+    },
+    {
+      "cn": "需",
+      "py": "xū",
+      "id": "membutuhkan",
+      "hsk": 7
+    },
+    {
+      "cn": "有所",
+      "py": "yǒu suǒ",
+      "id": "agak",
+      "hsk": 7
+    },
+    {
+      "cn": "袭击",
+      "py": "xí jī",
+      "id": "serangan (terutama serangan mendadak)",
+      "hsk": 7
+    },
+    {
+      "cn": "感染",
+      "py": "gǎn rǎn",
+      "id": "infeksi; menginfeksi",
+      "hsk": 7
+    },
+    {
+      "cn": "砸",
+      "py": "zá",
+      "id": "menghancurkan",
+      "hsk": 7
+    },
+    {
+      "cn": "许",
+      "py": "xǔ",
+      "id": "mengizinkan; membolehkan",
+      "hsk": 7
+    },
+    {
+      "cn": "推荐",
+      "py": "tuī jiàn",
+      "id": "merekomendasikan",
+      "hsk": 7
+    },
+    {
+      "cn": "注",
+      "py": "zhù",
+      "id": "menuangkan ke dalam; mengalir ke dalam; menyuntikkan",
+      "hsk": 7
+    }
+  ],
+  "objek_umum": [
+    {
+      "cn": "的",
+      "py": "de",
+      "id": "dari; milik ~ (partikel posesif)",
+      "hsk": 1
+    },
+    {
+      "cn": "人",
+      "py": "rén",
+      "id": "orang; orang-orang",
+      "hsk": 1
+    },
+    {
+      "cn": "天",
+      "py": "tiān",
+      "id": "hari",
+      "hsk": 1
+    },
+    {
+      "cn": "事",
+      "py": "shì",
+      "id": "masalah",
+      "hsk": 1
+    },
+    {
+      "cn": "地",
+      "py": "de",
+      "id": "partikel struktural: digunakan sebelum kata kerja atau kata sifat untuk menghubungkan keterangan yang mendahuluinya (setara dengan akhiran “-ly” dalam bahasa Inggris)",
+      "hsk": 1
+    },
+    {
+      "cn": "孩子",
+      "py": "hái zi",
+      "id": "anak",
+      "hsk": 1
+    },
+    {
+      "cn": "钱",
+      "py": "qián",
+      "id": "uang",
+      "hsk": 1
+    },
+    {
+      "cn": "地方",
+      "py": "dì fāng",
+      "id": "wilayah",
+      "hsk": 1
+    },
+    {
+      "cn": "朋友",
+      "py": "péng you",
+      "id": "teman",
+      "hsk": 1
+    },
+    {
+      "cn": "水",
+      "py": "shuǐ",
+      "id": "air",
+      "hsk": 1
+    },
+    {
+      "cn": "国家",
+      "py": "guó jiā",
+      "id": "negara; bangsa",
+      "hsk": 1
+    },
+    {
+      "cn": "电话",
+      "py": "diàn huà",
+      "id": "telepon",
+      "hsk": 1
+    },
+    {
+      "cn": "女人",
+      "py": "nǚ rén",
+      "id": "wanita",
+      "hsk": 1
+    },
+    {
+      "cn": "路",
+      "py": "lù",
+      "id": "jalan",
+      "hsk": 1
+    },
+    {
+      "cn": "男人",
+      "py": "nán rén",
+      "id": "seorang pria",
+      "hsk": 1
+    },
+    {
+      "cn": "问题",
+      "py": "wèn tí",
+      "id": "pertanyaan",
+      "hsk": 2
+    },
+    {
+      "cn": "才",
+      "py": "cái",
+      "id": "kemampuan; bakat",
+      "hsk": 2
+    },
+    {
+      "cn": "公司",
+      "py": "gōng sī",
+      "id": "perusahaan; firma; korporasi",
+      "hsk": 2
+    },
+    {
+      "cn": "事情",
+      "py": "shì qing",
+      "id": "urusan; masalah; hal; bisnis",
+      "hsk": 2
+    },
+    {
+      "cn": "周",
+      "py": "zhōu",
+      "id": "minggu",
+      "hsk": 2
+    },
+    {
+      "cn": "结果",
+      "py": "jiē guǒ",
+      "id": "berbuah",
+      "hsk": 2
+    },
+    {
+      "cn": "机会",
+      "py": "jī huì",
+      "id": "kesempatan; peluang; acara",
+      "hsk": 2
+    },
+    {
+      "cn": "原因",
+      "py": "yuán yīn",
+      "id": "penyebab",
+      "hsk": 2
+    },
+    {
+      "cn": "人们",
+      "py": "rén men",
+      "id": "orang-orang",
+      "hsk": 2
+    },
+    {
+      "cn": "办法",
+      "py": "bàn fǎ",
+      "id": "metode; cara (melakukan sesuatu); cara",
+      "hsk": 2
+    },
+    {
+      "cn": "同时",
+      "py": "tóng shí",
+      "id": "pada saat yang sama; serentak",
+      "hsk": 2
+    },
+    {
+      "cn": "方法",
+      "py": "fāng fǎ",
+      "id": "metode; cara; sarana",
+      "hsk": 2
+    },
+    {
+      "cn": "方面",
+      "py": "fāng miàn",
+      "id": "aspek",
+      "hsk": 2
+    },
+    {
+      "cn": "信息",
+      "py": "xìn xī",
+      "id": "informasi",
+      "hsk": 2
+    },
+    {
+      "cn": "狗",
+      "py": "gǒu",
+      "id": "anjing",
+      "hsk": 2
+    },
+    {
+      "cn": "世界",
+      "py": "shì jiè",
+      "id": "dunia",
+      "hsk": 3
+    },
+    {
+      "cn": "情况",
+      "py": "qíng kuàng",
+      "id": "situasi; keadaan; KP:個|个[ge4],種|种[zhong3]",
+      "hsk": 3
+    },
+    {
+      "cn": "心",
+      "py": "xīn",
+      "id": "hati",
+      "hsk": 3
+    },
+    {
+      "cn": "消息",
+      "py": "xiāo xi",
+      "id": "(sepotong) berita; informasi",
+      "hsk": 3
+    },
+    {
+      "cn": "方式",
+      "py": "fāng shì",
+      "id": "cara; metode; perilaku; mode; pola (perilaku dll)",
+      "hsk": 3
+    },
+    {
+      "cn": "能力",
+      "py": "néng lì",
+      "id": "kemampuan",
+      "hsk": 3
+    },
+    {
+      "cn": "城市",
+      "py": "chéng shì",
+      "id": "kota; kota kecil",
+      "hsk": 3
+    },
+    {
+      "cn": "马",
+      "py": "mǎ",
+      "id": "kuda",
+      "hsk": 3
+    },
+    {
+      "cn": "个人",
+      "py": "gè rén",
+      "id": "individu",
+      "hsk": 3
+    },
+    {
+      "cn": "区",
+      "py": "qū",
+      "id": "wilayah; distrik",
+      "hsk": 3
+    },
+    {
+      "cn": "精神",
+      "py": "jīng shén",
+      "id": "roh",
+      "hsk": 3
+    },
+    {
+      "cn": "目标",
+      "py": "mù biāo",
+      "id": "target",
+      "hsk": 3
+    },
+    {
+      "cn": "任务",
+      "py": "rèn wu",
+      "id": "misi; tugas; pekerjaan; kewajiban; peran",
+      "hsk": 3
+    },
+    {
+      "cn": "人员",
+      "py": "rén yuán",
+      "id": "staf",
+      "hsk": 3
+    },
+    {
+      "cn": "生命",
+      "py": "shēng mìng",
+      "id": "kehidupan (sebagai karakteristik makhluk hidup)",
+      "hsk": 3
+    },
+    {
+      "cn": "政府",
+      "py": "zhèng fǔ",
+      "id": "pemerintah",
+      "hsk": 4
+    },
+    {
+      "cn": "法",
+      "py": "fǎ",
+      "id": "hukum; metode; cara",
+      "hsk": 4
+    },
+    {
+      "cn": "局",
+      "py": "jú",
+      "id": "sempit",
+      "hsk": 4
+    },
+    {
+      "cn": "法律",
+      "py": "fǎ lǜ",
+      "id": "hukum",
+      "hsk": 4
+    },
+    {
+      "cn": "历史",
+      "py": "lì shǐ",
+      "id": "sejarah",
+      "hsk": 4
+    },
+    {
+      "cn": "项目",
+      "py": "xiàng mù",
+      "id": "item",
+      "hsk": 4
+    },
+    {
+      "cn": "梦",
+      "py": "mèng",
+      "id": "mimpi (KP:場|场[chang2],個|个[ge4])",
+      "hsk": 4
+    },
+    {
+      "cn": "总统",
+      "py": "zǒng tǒng",
+      "id": "presiden (negara)",
+      "hsk": 4
+    },
+    {
+      "cn": "位置",
+      "py": "wèi zhi",
+      "id": "posisi",
+      "hsk": 4
+    },
+    {
+      "cn": "宝贝",
+      "py": "bǎo bèi",
+      "id": "objek berharga",
+      "hsk": 4
+    },
+    {
+      "cn": "王",
+      "py": "wáng",
+      "id": "raja",
+      "hsk": 4
+    },
+    {
+      "cn": "地址",
+      "py": "dì zhǐ",
+      "id": "alamat",
+      "hsk": 4
+    },
+    {
+      "cn": "资料",
+      "py": "zī liào",
+      "id": "materi",
+      "hsk": 4
+    },
+    {
+      "cn": "心理",
+      "py": "xīn lǐ",
+      "id": "psikologi",
+      "hsk": 4
+    },
+    {
+      "cn": "战争",
+      "py": "zhàn zhēng",
+      "id": "perang; konflik",
+      "hsk": 4
+    },
+    {
+      "cn": "声",
+      "py": "shēng",
+      "id": "suara",
+      "hsk": 5
+    },
+    {
+      "cn": "客户",
+      "py": "kè hù",
+      "id": "klien; pelanggan",
+      "hsk": 5
+    },
+    {
+      "cn": "冠军",
+      "py": "guàn jūn",
+      "id": "juara",
+      "hsk": 5
+    },
+    {
+      "cn": "女性",
+      "py": "nǚ xìng",
+      "id": "wanita",
+      "hsk": 5
+    },
+    {
+      "cn": "人物",
+      "py": "rén wù",
+      "id": "orang; tokoh; sosok (terutama seseorang yang penting)",
+      "hsk": 5
+    },
+    {
+      "cn": "俱乐部",
+      "py": "jù lè bù",
+      "id": "(kata serapan) klub (organisasi atau tempatnya)",
+      "hsk": 5
+    },
+    {
+      "cn": "区域",
+      "py": "qū yù",
+      "id": "area",
+      "hsk": 5
+    },
+    {
+      "cn": "戏",
+      "py": "xì",
+      "id": "drama; pertunjukan; permainan",
+      "hsk": 5
+    },
+    {
+      "cn": "基地",
+      "py": "jī dì",
+      "id": "al-Qaeda",
+      "hsk": 5
+    },
+    {
+      "cn": "基金",
+      "py": "jī jīn",
+      "id": "dana",
+      "hsk": 5
+    },
+    {
+      "cn": "社区",
+      "py": "shè qū",
+      "id": "komunitas",
+      "hsk": 5
+    },
+    {
+      "cn": "手段",
+      "py": "shǒu duàn",
+      "id": "metode; cara; sarana (untuk melakukan sesuatu)",
+      "hsk": 5
+    },
+    {
+      "cn": "皮肤",
+      "py": "pí fū",
+      "id": "kulit",
+      "hsk": 5
+    },
+    {
+      "cn": "屋",
+      "py": "wū",
+      "id": "rumah",
+      "hsk": 5
+    },
+    {
+      "cn": "年龄",
+      "py": "nián líng",
+      "id": "usia (seseorang)",
+      "hsk": 5
+    },
+    {
+      "cn": "权",
+      "py": "quán",
+      "id": "wewenang; kekuasaan",
+      "hsk": 6
+    },
+    {
+      "cn": "利",
+      "py": "lì",
+      "id": "keuntungan; manfaat",
+      "hsk": 6
+    },
+    {
+      "cn": "命",
+      "py": "mìng",
+      "id": "hidup",
+      "hsk": 6
+    },
+    {
+      "cn": "队伍",
+      "py": "duì wǔ",
+      "id": "barisan",
+      "hsk": 6
+    },
+    {
+      "cn": "英雄",
+      "py": "yīng xióng",
+      "id": "pahlawan",
+      "hsk": 6
+    },
+    {
+      "cn": "镇",
+      "py": "zhèn",
+      "id": "menekan ke bawah",
+      "hsk": 6
+    },
+    {
+      "cn": "剑",
+      "py": "jiàn",
+      "id": "pedang bermata dua",
+      "hsk": 6
+    },
+    {
+      "cn": "情绪",
+      "py": "qíng xù",
+      "id": "suasana hati; kondisi pikiran; mudah marah; KP:種|种[zhong3]",
+      "hsk": 6
+    },
+    {
+      "cn": "岛",
+      "py": "dǎo",
+      "id": "pulau",
+      "hsk": 6
+    },
+    {
+      "cn": "军队",
+      "py": "jūn duì",
+      "id": "angkatan bersenjata; pasukan",
+      "hsk": 6
+    },
+    {
+      "cn": "部队",
+      "py": "bù duì",
+      "id": "tentara",
+      "hsk": 6
+    },
+    {
+      "cn": "罪",
+      "py": "zuì",
+      "id": "kesalahan",
+      "hsk": 6
+    },
+    {
+      "cn": "党",
+      "py": "dǎng",
+      "id": "partai (politik)",
+      "hsk": 6
+    },
+    {
+      "cn": "时期",
+      "py": "shí qī",
+      "id": "periode",
+      "hsk": 6
+    },
+    {
+      "cn": "剧",
+      "py": "jù",
+      "id": "karya teater (sandiwara, opera, serial TV dll)",
+      "hsk": 6
+    },
+    {
+      "cn": "主",
+      "py": "zhǔ",
+      "id": "pemilik",
+      "hsk": 7
+    },
+    {
+      "cn": "情",
+      "py": "qíng",
+      "id": "perasaan; emosi; sentimen; gairah",
+      "hsk": 7
+    },
+    {
+      "cn": "德",
+      "py": "dé",
+      "id": "moral; kebajikan",
+      "hsk": 7
+    },
+    {
+      "cn": "同志",
+      "py": "tóng zhì",
+      "id": "kawan",
+      "hsk": 7
+    },
+    {
+      "cn": "案件",
+      "py": "àn jiàn",
+      "id": "kasus",
+      "hsk": 7
+    },
+    {
+      "cn": "委员会",
+      "py": "wěi yuán huì",
+      "id": "komite; komisi",
+      "hsk": 7
+    },
+    {
+      "cn": "格",
+      "py": "gé",
+      "id": "digunakan dalam 格登[ge1 deng1]",
+      "hsk": 7
+    },
+    {
+      "cn": "时尚",
+      "py": "shí shàng",
+      "id": "mode",
+      "hsk": 7
+    },
+    {
+      "cn": "家伙",
+      "py": "jiā huo",
+      "id": "orang (informal); alat; barang",
+      "hsk": 7
+    },
+    {
+      "cn": "婚姻",
+      "py": "hūn yīn",
+      "id": "pernikahan; perkawinan",
+      "hsk": 7
+    },
+    {
+      "cn": "生物",
+      "py": "shēng wù",
+      "id": "organisme",
+      "hsk": 7
+    },
+    {
+      "cn": "狼",
+      "py": "láng",
+      "id": "serigala",
+      "hsk": 7
+    },
+    {
+      "cn": "领域",
+      "py": "lǐng yù",
+      "id": "domain; ranah; bidang; wilayah; area",
+      "hsk": 7
+    },
+    {
+      "cn": "尸体",
+      "py": "shī tǐ",
+      "id": "mayat; jenazah",
+      "hsk": 7
+    },
+    {
+      "cn": "粉丝",
+      "py": "fěn sī",
+      "id": "bihun; mi dari pati kacang hijau; soun",
+      "hsk": 7
+    }
+  ],
+  "kata_sifat": [
+    {
+      "cn": "好",
+      "py": "hǎo",
+      "id": "baik",
+      "hsk": 1
+    },
+    {
+      "cn": "对",
+      "py": "duì",
+      "id": "benar; tepat",
+      "hsk": 1
+    },
+    {
+      "cn": "大",
+      "py": "dà",
+      "id": "besar; luas; hebat",
+      "hsk": 1
+    },
+    {
+      "cn": "真",
+      "py": "zhēn",
+      "id": "benar-benar",
+      "hsk": 1
+    },
+    {
+      "cn": "多",
+      "py": "duō",
+      "id": "banyak; banyak sekali; lebih",
+      "hsk": 1
+    },
+    {
+      "cn": "次",
+      "py": "cì",
+      "id": "berikutnya dalam urutan",
+      "hsk": 1
+    },
+    {
+      "cn": "小",
+      "py": "xiǎo",
+      "id": "kecil",
+      "hsk": 1
+    },
+    {
+      "cn": "新",
+      "py": "xīn",
+      "id": "baru",
+      "hsk": 1
+    },
+    {
+      "cn": "快",
+      "py": "kuài",
+      "id": "cepat",
+      "hsk": 1
+    },
+    {
+      "cn": "一样",
+      "py": "yī yàng",
+      "id": "sama",
+      "hsk": 1
+    },
+    {
+      "cn": "重要",
+      "py": "zhòng yào",
+      "id": "penting; signifikan; utama",
+      "hsk": 1
+    },
+    {
+      "cn": "老",
+      "py": "lǎo",
+      "id": "awalan yang digunakan sebelum nama keluarga seseorang atau angka yang menunjukkan urutan kelahiran anak-anak dalam keluarga atau untuk menunjukkan kasih sayang atau keakraban",
+      "hsk": 1
+    },
+    {
+      "cn": "行",
+      "py": "xíng",
+      "id": "boleh; oke",
+      "hsk": 1
+    },
+    {
+      "cn": "高",
+      "py": "gāo",
+      "id": "tinggi",
+      "hsk": 1
+    },
+    {
+      "cn": "正",
+      "py": "zhēng",
+      "id": "bulan pertama tahun lunar",
+      "hsk": 1
+    },
+    {
+      "cn": "长",
+      "py": "cháng",
+      "id": "panjang",
+      "hsk": 2
+    },
+    {
+      "cn": "安全",
+      "py": "ān quán",
+      "id": "aman",
+      "hsk": 2
+    },
+    {
+      "cn": "不错",
+      "py": "bù cuò",
+      "id": "benar",
+      "hsk": 2
+    },
+    {
+      "cn": "完全",
+      "py": "wán quán",
+      "id": "lengkap; utuh",
+      "hsk": 2
+    },
+    {
+      "cn": "全",
+      "py": "quán",
+      "id": "semua; seluruh",
+      "hsk": 2
+    },
+    {
+      "cn": "不同",
+      "py": "bù tóng",
+      "id": "berbeda",
+      "hsk": 2
+    },
+    {
+      "cn": "努力",
+      "py": "nǔ lì",
+      "id": "berusaha; bekerja keras; berjuang",
+      "hsk": 2
+    },
+    {
+      "cn": "特别",
+      "py": "tè bié",
+      "id": "tidak biasa; istimewa; sangat; terutama; khususnya; secara khusus; tujuan tertentu (sering diikuti oleh 是[shi4]) khususnya",
+      "hsk": 2
+    },
+    {
+      "cn": "生",
+      "py": "shēng",
+      "id": "lahir",
+      "hsk": 2
+    },
+    {
+      "cn": "直接",
+      "py": "zhí jiē",
+      "id": "langsung (lawan kata: tidak langsung 間接|间接[jian4 jie1])",
+      "hsk": 2
+    },
+    {
+      "cn": "快乐",
+      "py": "kuài lè",
+      "id": "bahagia; gembira",
+      "hsk": 2
+    },
+    {
+      "cn": "开心",
+      "py": "kāi xīn",
+      "id": "merasa bahagia",
+      "hsk": 2
+    },
+    {
+      "cn": "正常",
+      "py": "zhèng cháng",
+      "id": "reguler",
+      "hsk": 2
+    },
+    {
+      "cn": "黑",
+      "py": "hēi",
+      "id": "hitam",
+      "hsk": 2
+    },
+    {
+      "cn": "清楚",
+      "py": "qīng chu",
+      "id": "jelas",
+      "hsk": 2
+    },
+    {
+      "cn": "死",
+      "py": "sǐ",
+      "id": "meninggal",
+      "hsk": 3
+    },
+    {
+      "cn": "美",
+      "py": "měi",
+      "id": "cantik; indah",
+      "hsk": 3
+    },
+    {
+      "cn": "成功",
+      "py": "chéng gōng",
+      "id": "berhasil; sukses",
+      "hsk": 3
+    },
+    {
+      "cn": "强",
+      "py": "qiáng",
+      "id": "kuat",
+      "hsk": 3
+    },
+    {
+      "cn": "活",
+      "py": "huó",
+      "id": "hidup; masih hidup; pekerjaan; pengerjaan",
+      "hsk": 3
+    },
+    {
+      "cn": "根本",
+      "py": "gēn běn",
+      "id": "fundamental",
+      "hsk": 3
+    },
+    {
+      "cn": "突然",
+      "py": "tū rán",
+      "id": "mendadak; tiba-tiba; tak terduga",
+      "hsk": 3
+    },
+    {
+      "cn": "容易",
+      "py": "róng yì",
+      "id": "mudah; lugas",
+      "hsk": 3
+    },
+    {
+      "cn": "明显",
+      "py": "míng xiǎn",
+      "id": "jelas",
+      "hsk": 3
+    },
+    {
+      "cn": "简单",
+      "py": "jiǎn dān",
+      "id": "sederhana; tidak rumit",
+      "hsk": 3
+    },
+    {
+      "cn": "绝对",
+      "py": "jué duì",
+      "id": "mutlak; tanpa syarat",
+      "hsk": 3
+    },
+    {
+      "cn": "光",
+      "py": "guāng",
+      "id": "cahaya; sinar (KP:道[dao4])",
+      "hsk": 3
+    },
+    {
+      "cn": "确实",
+      "py": "què shí",
+      "id": "memang",
+      "hsk": 3
+    },
+    {
+      "cn": "负责",
+      "py": "fù zé",
+      "id": "bertanggung jawab atas; bertanggung jawab; menanggung tanggung jawab atas",
+      "hsk": 3
+    },
+    {
+      "cn": "幸福",
+      "py": "xìng fú",
+      "id": "kebahagiaan",
+      "hsk": 3
+    },
+    {
+      "cn": "系统",
+      "py": "xì tǒng",
+      "id": "sistem",
+      "hsk": 4
+    },
+    {
+      "cn": "严重",
+      "py": "yán zhòng",
+      "id": "genting; serius; parah; kritis",
+      "hsk": 4
+    },
+    {
+      "cn": "方",
+      "py": "fāng",
+      "id": "persegi",
+      "hsk": 4
+    },
+    {
+      "cn": "亲爱",
+      "py": "qīn ài",
+      "id": "tersayang",
+      "hsk": 4
+    },
+    {
+      "cn": "怪",
+      "py": "guài",
+      "id": "membingungkan",
+      "hsk": 4
+    },
+    {
+      "cn": "传统",
+      "py": "chuán tǒng",
+      "id": "tradisi",
+      "hsk": 4
+    },
+    {
+      "cn": "稳定",
+      "py": "wěn dìng",
+      "id": "stabil",
+      "hsk": 4
+    },
+    {
+      "cn": "巨大",
+      "py": "jù dà",
+      "id": "besar sekali; sangat besar; luar biasa; raksasa",
+      "hsk": 4
+    },
+    {
+      "cn": "秘密",
+      "py": "mì mì",
+      "id": "rahasia; pribadi; konfidensial; tersembunyi",
+      "hsk": 4
+    },
+    {
+      "cn": "特殊",
+      "py": "tè shū",
+      "id": "khusus",
+      "hsk": 4
+    },
+    {
+      "cn": "彻底",
+      "py": "chè dǐ",
+      "id": "menyeluruh",
+      "hsk": 4
+    },
+    {
+      "cn": "优秀",
+      "py": "yōu xiù",
+      "id": "luar biasa; exellent",
+      "hsk": 4
+    },
+    {
+      "cn": "轻松",
+      "py": "qīng sōng",
+      "id": "ringan",
+      "hsk": 4
+    },
+    {
+      "cn": "兴奋",
+      "py": "xīng fèn",
+      "id": "gembira",
+      "hsk": 4
+    },
+    {
+      "cn": "独立",
+      "py": "dú lì",
+      "id": "mandiri",
+      "hsk": 4
+    },
+    {
+      "cn": "肯定",
+      "py": "kěn dìng",
+      "id": "menjadi pasti; positif",
+      "hsk": 5
+    },
+    {
+      "cn": "关键",
+      "py": "guān jiàn",
+      "id": "titik krusial",
+      "hsk": 5
+    },
+    {
+      "cn": "傻",
+      "py": "shǎ",
+      "id": "bodoh",
+      "hsk": 5
+    },
+    {
+      "cn": "棒",
+      "py": "bàng",
+      "id": "tongkat; gada; pentungan",
+      "hsk": 5
+    },
+    {
+      "cn": "呆",
+      "py": "dāi",
+      "id": "bodoh; tolol",
+      "hsk": 5
+    },
+    {
+      "cn": "鬼",
+      "py": "guǐ",
+      "id": "roh halus; hantu; iblis",
+      "hsk": 5
+    },
+    {
+      "cn": "疯狂",
+      "py": "fēng kuáng",
+      "id": "gila; liar; bersemangat",
+      "hsk": 5
+    },
+    {
+      "cn": "聪明",
+      "py": "cōng ming",
+      "id": "cerdas; pintar; cemerlang",
+      "hsk": 5
+    },
+    {
+      "cn": "厉害",
+      "py": "lì hai",
+      "id": "(digunakan untuk menggambarkan seseorang atau sesuatu yang membuat kesan sangat kuat, baik yang menguntungkan maupun yang tidak menguntungkan) mengerikan; hebat; parah; dahsyat; menakjubkan; luar biasa",
+      "hsk": 5
+    },
+    {
+      "cn": "可怜",
+      "py": "kě lián",
+      "id": "menyedihkan",
+      "hsk": 5
+    },
+    {
+      "cn": "毒",
+      "py": "dú",
+      "id": "racun",
+      "hsk": 5
+    },
+    {
+      "cn": "可惜",
+      "py": "kě xī",
+      "id": "sayang sekali",
+      "hsk": 5
+    },
+    {
+      "cn": "熟悉",
+      "py": "shú xī",
+      "id": "akrab dengan; mengenal dengan baik",
+      "hsk": 5
+    },
+    {
+      "cn": "狂",
+      "py": "kuáng",
+      "id": "gila",
+      "hsk": 5
+    },
+    {
+      "cn": "清",
+      "py": "qīng",
+      "id": "jernih; bersih",
+      "hsk": 6
+    },
+    {
+      "cn": "混",
+      "py": "hún",
+      "id": "berlumpur; keruh (varian dari 渾|浑[hun2])",
+      "hsk": 6
+    },
+    {
+      "cn": "遗憾",
+      "py": "yí hàn",
+      "id": "penyesalan",
+      "hsk": 6
+    },
+    {
+      "cn": "惊喜",
+      "py": "jīng xǐ",
+      "id": "kejutan menyenangkan",
+      "hsk": 6
+    },
+    {
+      "cn": "异常",
+      "py": "yì cháng",
+      "id": "tidak biasa; abnormal",
+      "hsk": 6
+    },
+    {
+      "cn": "足",
+      "py": "jù",
+      "id": "berlebihan",
+      "hsk": 6
+    },
+    {
+      "cn": "顺",
+      "py": "shùn",
+      "id": "mematuhi",
+      "hsk": 6
+    },
+    {
+      "cn": "野",
+      "py": "yě",
+      "id": "liar; alami",
+      "hsk": 6
+    },
+    {
+      "cn": "愉快",
+      "py": "yú kuài",
+      "id": "ceria; bahagia; menyenangkan; gembira",
+      "hsk": 6
+    },
+    {
+      "cn": "精",
+      "py": "jīng",
+      "id": "inti",
+      "hsk": 6
+    },
+    {
+      "cn": "孤独",
+      "py": "gū dú",
+      "id": "kesepian",
+      "hsk": 6
+    },
+    {
+      "cn": "骄傲",
+      "py": "jiāo ào",
+      "id": "kebanggaan",
+      "hsk": 6
+    },
+    {
+      "cn": "平衡",
+      "py": "píng héng",
+      "id": "keseimbangan",
+      "hsk": 6
+    },
+    {
+      "cn": "偏",
+      "py": "piān",
+      "id": "bersandar",
+      "hsk": 6
+    },
+    {
+      "cn": "愤怒",
+      "py": "fèn nù",
+      "id": "marah",
+      "hsk": 6
+    },
+    {
+      "cn": "恐怖",
+      "py": "kǒng bù",
+      "id": "mengerikan",
+      "hsk": 7
+    },
+    {
+      "cn": "灵",
+      "py": "líng",
+      "id": "cepat",
+      "hsk": 7
+    },
+    {
+      "cn": "粉",
+      "py": "fěn",
+      "id": "tepung",
+      "hsk": 7
+    },
+    {
+      "cn": "素",
+      "py": "sù",
+      "id": "sutra mentah",
+      "hsk": 7
+    },
+    {
+      "cn": "灰",
+      "py": "huī",
+      "id": "abu",
+      "hsk": 7
+    },
+    {
+      "cn": "尴尬",
+      "py": "gān gà",
+      "id": "canggung; malu",
+      "hsk": 7
+    },
+    {
+      "cn": "惊讶",
+      "py": "jīng yà",
+      "id": "kagum",
+      "hsk": 7
+    },
+    {
+      "cn": "蛮",
+      "py": "mán",
+      "id": "barbar",
+      "hsk": 7
+    },
+    {
+      "cn": "恐惧",
+      "py": "kǒng jù",
+      "id": "takut",
+      "hsk": 7
+    },
+    {
+      "cn": "孤单",
+      "py": "gū dān",
+      "id": "sendirian",
+      "hsk": 7
+    },
+    {
+      "cn": "温柔",
+      "py": "wēn róu",
+      "id": "lembut dan halus; manis (umumnya digunakan untuk menggambarkan seorang gadis atau wanita)",
+      "hsk": 7
+    },
+    {
+      "cn": "恶",
+      "py": "ě",
+      "id": "digunakan dalam 惡心|恶心[e3 xin1]",
+      "hsk": 7
+    },
+    {
+      "cn": "寂寞",
+      "py": "jì mò",
+      "id": "kesepian",
+      "hsk": 7
+    },
+    {
+      "cn": "豪华",
+      "py": "háo huá",
+      "id": "mewah",
+      "hsk": 7
+    },
+    {
+      "cn": "独",
+      "py": "dú",
+      "id": "sendiri",
+      "hsk": 7
+    }
+  ],
+  "tempat": [
+    {
+      "cn": "上",
+      "py": "shàng",
+      "id": "atas; di atas",
+      "hsk": 1
+    },
+    {
+      "cn": "来",
+      "py": "lái",
+      "id": "datang",
+      "hsk": 1
+    },
+    {
+      "cn": "下",
+      "py": "xià",
+      "id": "turun",
+      "hsk": 1
+    },
+    {
+      "cn": "中",
+      "py": "zhōng",
+      "id": "tengah; dalam",
+      "hsk": 1
+    },
+    {
+      "cn": "里",
+      "py": "lǐ",
+      "id": "dalam",
+      "hsk": 1
+    },
+    {
+      "cn": "后",
+      "py": "hòu",
+      "id": "belakang",
+      "hsk": 1
+    },
+    {
+      "cn": "前",
+      "py": "qián",
+      "id": "depan",
+      "hsk": 1
+    },
+    {
+      "cn": "起",
+      "py": "qǐ",
+      "id": "bangkit",
+      "hsk": 1
+    },
+    {
+      "cn": "东西",
+      "py": "dōng xī",
+      "id": "timur dan barat",
+      "hsk": 1
+    },
+    {
+      "cn": "最后",
+      "py": "zuì hòu",
+      "id": "terakhir; penghabisan; pamungkas",
+      "hsk": 1
+    },
+    {
+      "cn": "外",
+      "py": "wài",
+      "id": "luar",
+      "hsk": 1
+    },
+    {
+      "cn": "间",
+      "py": "jiān",
+      "id": "antara",
+      "hsk": 1
+    },
+    {
+      "cn": "中国",
+      "py": "Zhōng guó",
+      "id": "Tiongkok",
+      "hsk": 1
+    },
+    {
+      "cn": "西",
+      "py": "xī",
+      "id": "barat",
+      "hsk": 1
+    },
+    {
+      "cn": "一边",
+      "py": "yī biān",
+      "id": "satu sisi",
+      "hsk": 1
+    },
+    {
+      "cn": "以后",
+      "py": "yǐ hòu",
+      "id": "setelah",
+      "hsk": 2
+    },
+    {
+      "cn": "以前",
+      "py": "yǐ qián",
+      "id": "sebelum",
+      "hsk": 2
+    },
+    {
+      "cn": "中心",
+      "py": "zhōng xīn",
+      "id": "pusat; jantung; inti",
+      "hsk": 2
+    },
+    {
+      "cn": "面前",
+      "py": "miàn qián",
+      "id": "di depan",
+      "hsk": 2
+    },
+    {
+      "cn": "以下",
+      "py": "yǐ xià",
+      "id": "tingkat itu atau lebih rendah",
+      "hsk": 2
+    },
+    {
+      "cn": "以上",
+      "py": "yǐ shàng",
+      "id": "tingkat itu atau lebih tinggi; jumlah itu atau lebih",
+      "hsk": 2
+    },
+    {
+      "cn": "以外",
+      "py": "yǐ wài",
+      "id": "selain dari",
+      "hsk": 2
+    },
+    {
+      "cn": "南方",
+      "py": "nán fāng",
+      "id": "selatan; arah selatan",
+      "hsk": 2
+    },
+    {
+      "cn": "对面",
+      "py": "duì miàn",
+      "id": "(duduk) berhadapan",
+      "hsk": 2
+    },
+    {
+      "cn": "西方",
+      "py": "xī fāng",
+      "id": "Barat (arah/wilayah)",
+      "hsk": 2
+    },
+    {
+      "cn": "北方",
+      "py": "běi fāng",
+      "id": "utara",
+      "hsk": 2
+    },
+    {
+      "cn": "东方",
+      "py": "dōng fāng",
+      "id": "Timur (arah/wilayah)",
+      "hsk": 2
+    },
+    {
+      "cn": "东北",
+      "py": "dōng běi",
+      "id": "timur laut",
+      "hsk": 2
+    },
+    {
+      "cn": "西南",
+      "py": "xī nán",
+      "id": "barat daya",
+      "hsk": 2
+    },
+    {
+      "cn": "西北",
+      "py": "xī běi",
+      "id": "barat laut",
+      "hsk": 2
+    },
+    {
+      "cn": "内",
+      "py": "nèi",
+      "id": "dalam",
+      "hsk": 3
+    },
+    {
+      "cn": "里面",
+      "py": "lǐ miàn",
+      "id": "di dalam",
+      "hsk": 3
+    },
+    {
+      "cn": "以来",
+      "py": "yǐ lái",
+      "id": "sejak (kejadian sebelumnya)",
+      "hsk": 3
+    },
+    {
+      "cn": "上面",
+      "py": "shàng miàn",
+      "id": "di atas",
+      "hsk": 3
+    },
+    {
+      "cn": "后面",
+      "py": "hòu mian",
+      "id": "bagian belakang; belakang; bagian terakhir",
+      "hsk": 3
+    },
+    {
+      "cn": "左右",
+      "py": "zuǒ yòu",
+      "id": "kiri dan kanan",
+      "hsk": 3
+    },
+    {
+      "cn": "外面",
+      "py": "wài miàn",
+      "id": "luar (juga dibaca [wai4 mian5] untuk arti ini)",
+      "hsk": 3
+    },
+    {
+      "cn": "下面",
+      "py": "xià miàn",
+      "id": "di bawah",
+      "hsk": 3
+    },
+    {
+      "cn": "周围",
+      "py": "zhōu wéi",
+      "id": "lingkungan; sekitar; pinggiran",
+      "hsk": 3
+    },
+    {
+      "cn": "前面",
+      "py": "qián miàn",
+      "id": "di depan",
+      "hsk": 3
+    },
+    {
+      "cn": "初",
+      "py": "chū",
+      "id": "pada awalnya",
+      "hsk": 3
+    },
+    {
+      "cn": "背后",
+      "py": "bèi hòu",
+      "id": "di belakang",
+      "hsk": 3
+    },
+    {
+      "cn": "当中",
+      "py": "dāng zhōng",
+      "id": "di antara",
+      "hsk": 3
+    },
+    {
+      "cn": "西部",
+      "py": "xī bù",
+      "id": "bagian barat",
+      "hsk": 3
+    },
+    {
+      "cn": "民族",
+      "py": "mín zú",
+      "id": "kebangsaan; kelompok etnis",
+      "hsk": 3
+    },
+    {
+      "cn": "之后",
+      "py": "zhī hòu",
+      "id": "setelah; di belakang",
+      "hsk": 4
+    },
+    {
+      "cn": "之间",
+      "py": "zhī jiān",
+      "id": "(setelah kata benda) antara; di antara; di tengah",
+      "hsk": 4
+    },
+    {
+      "cn": "之前",
+      "py": "zhī qián",
+      "id": "sebelum",
+      "hsk": 4
+    },
+    {
+      "cn": "底",
+      "py": "de",
+      "id": "partikel posesif (setara dengan 的)",
+      "hsk": 4
+    },
+    {
+      "cn": "附近",
+      "py": "fù jìn",
+      "id": "dekat; bertetangga",
+      "hsk": 4
+    },
+    {
+      "cn": "顶",
+      "py": "dǐng",
+      "id": "puncak",
+      "hsk": 4
+    },
+    {
+      "cn": "期间",
+      "py": "qī jiān",
+      "id": "periode waktu",
+      "hsk": 4
+    },
+    {
+      "cn": "内部",
+      "py": "nèi bù",
+      "id": "interior",
+      "hsk": 4
+    },
+    {
+      "cn": "末",
+      "py": "mò",
+      "id": "akhir; ujung",
+      "hsk": 4
+    },
+    {
+      "cn": "移民",
+      "py": "yí mín",
+      "id": "beremigrasi",
+      "hsk": 4
+    },
+    {
+      "cn": "以内",
+      "py": "yǐ nèi",
+      "id": "di dalam",
+      "hsk": 4
+    },
+    {
+      "cn": "两边",
+      "py": "liǎng bian",
+      "id": "kedua sisi; kedua belah pihak",
+      "hsk": 4
+    },
+    {
+      "cn": "后头",
+      "py": "hòu tou",
+      "id": "di belakang",
+      "hsk": 4
+    },
+    {
+      "cn": "前头",
+      "py": "qián tou",
+      "id": "di depan",
+      "hsk": 4
+    },
+    {
+      "cn": "之中",
+      "py": "zhī zhōng",
+      "id": "di dalam",
+      "hsk": 5
+    },
+    {
+      "cn": "中央",
+      "py": "zhōng yāng",
+      "id": "pusat",
+      "hsk": 5
+    },
+    {
+      "cn": "之外",
+      "py": "zhī wài",
+      "id": "di luar",
+      "hsk": 5
+    },
+    {
+      "cn": "之下",
+      "py": "zhī xià",
+      "id": "di bawah",
+      "hsk": 5
+    },
+    {
+      "cn": "旁",
+      "py": "páng",
+      "id": "satu sisi",
+      "hsk": 5
+    },
+    {
+      "cn": "之内",
+      "py": "zhī nèi",
+      "id": "di dalam",
+      "hsk": 5
+    },
+    {
+      "cn": "随后",
+      "py": "suí hòu",
+      "id": "segera setelah itu",
+      "hsk": 5
+    },
+    {
+      "cn": "上下",
+      "py": "shàng xià",
+      "id": "bagian atas dan bawah dari sesuatu",
+      "hsk": 5
+    },
+    {
+      "cn": "早期",
+      "py": "zǎo qī",
+      "id": "periode awal; fase awal; tahap awal",
+      "hsk": 5
+    },
+    {
+      "cn": "四周",
+      "py": "sì zhōu",
+      "id": "di sekeliling",
+      "hsk": 5
+    },
+    {
+      "cn": "初期",
+      "py": "chū qī",
+      "id": "tahap awal",
+      "hsk": 5
+    },
+    {
+      "cn": "南北",
+      "py": "nán běi",
+      "id": "utara dan selatan",
+      "hsk": 5
+    },
+    {
+      "cn": "南极",
+      "py": "nán jí",
+      "id": "kutub selatan",
+      "hsk": 5
+    },
+    {
+      "cn": "北极",
+      "py": "běi jí",
+      "id": "Kutub Utara; Kutub Arktik",
+      "hsk": 5
+    },
+    {
+      "cn": "跟前",
+      "py": "gēn qián",
+      "id": "depan",
+      "hsk": 5
+    },
+    {
+      "cn": "侧",
+      "py": "cè",
+      "id": "sisi",
+      "hsk": 6
+    },
+    {
+      "cn": "沿",
+      "py": "yán",
+      "id": "sepanjang",
+      "hsk": 6
+    },
+    {
+      "cn": "前方",
+      "py": "qián fāng",
+      "id": "di depan",
+      "hsk": 6
+    },
+    {
+      "cn": "外部",
+      "py": "wài bù",
+      "id": "bagian luar; (sebagai atribut) eksternal",
+      "hsk": 6
+    },
+    {
+      "cn": "中期",
+      "py": "zhōng qī",
+      "id": "tengah (dari periode waktu)",
+      "hsk": 6
+    },
+    {
+      "cn": "国旗",
+      "py": "guó qí",
+      "id": "bendera (suatu negara)",
+      "hsk": 6
+    },
+    {
+      "cn": "内外",
+      "py": "nèi wài",
+      "id": "di dalam dan di luar",
+      "hsk": 6
+    },
+    {
+      "cn": "外头",
+      "py": "wài tou",
+      "id": "di luar; di luar ruangan",
+      "hsk": 6
+    },
+    {
+      "cn": "国歌",
+      "py": "guó gē",
+      "id": "lagu kebangsaan",
+      "hsk": 6
+    },
+    {
+      "cn": "两侧",
+      "py": "liǎng cè",
+      "id": "dua sisi; kedua sisi",
+      "hsk": 6
+    },
+    {
+      "cn": "同期",
+      "py": "tóng qī",
+      "id": "periode waktu yang sesuai (pada tahun yang berbeda, dll)",
+      "hsk": 6
+    },
+    {
+      "cn": "沿海",
+      "py": "yán hǎi",
+      "id": "pesisir",
+      "hsk": 6
+    },
+    {
+      "cn": "一面",
+      "py": "yī miàn",
+      "id": "satu sisi",
+      "hsk": 7
+    },
+    {
+      "cn": "正面",
+      "py": "zhèng miàn",
+      "id": "depan",
+      "hsk": 7
+    },
+    {
+      "cn": "尽头",
+      "py": "jìn tóu",
+      "id": "akhir; ujung; batas",
+      "hsk": 7
+    },
+    {
+      "cn": "上方",
+      "py": "shàng fāng",
+      "id": "tempat di atas (itu)",
+      "hsk": 7
+    },
+    {
+      "cn": "一旁",
+      "py": "yī páng",
+      "id": "ke samping",
+      "hsk": 7
+    },
+    {
+      "cn": "侧面",
+      "py": "cè miàn",
+      "id": "sisi lateral",
+      "hsk": 7
+    },
+    {
+      "cn": "稍后",
+      "py": "shāo hòu",
+      "id": "sebentar lagi; segera setelah",
+      "hsk": 7
+    },
+    {
+      "cn": "后期",
+      "py": "hòu qī",
+      "id": "tahap akhir",
+      "hsk": 7
+    },
+    {
+      "cn": "背面",
+      "py": "bèi miàn",
+      "id": "bagian belakang",
+      "hsk": 7
+    },
+    {
+      "cn": "前期",
+      "py": "qián qī",
+      "id": "periode sebelumnya",
+      "hsk": 7
+    },
+    {
+      "cn": "上游",
+      "py": "shàng yóu",
+      "id": "hulu (sungai)",
+      "hsk": 7
+    },
+    {
+      "cn": "前夕",
+      "py": "qián xī",
+      "id": "malam",
+      "hsk": 7
+    },
+    {
+      "cn": "首府",
+      "py": "shǒu fǔ",
+      "id": "ibu kota wilayah otonom",
+      "hsk": 7
+    },
+    {
+      "cn": "下游",
+      "py": "xià yóu",
+      "id": "bagian hilir (sungai)",
+      "hsk": 7
+    },
+    {
+      "cn": "上头",
+      "py": "shàng tóu",
+      "id": "(dari alkohol, cinta, dll) naik ke kepala seseorang; (dari ide, lagu, dll) masuk ke kepala seseorang; menarik perhatian seseorang",
+      "hsk": 7
+    }
+  ],
+  "waktu": [
+    {
+      "cn": "一",
+      "py": "yī",
+      "id": "satu",
+      "hsk": 1
+    },
+    {
+      "cn": "点",
+      "py": "diǎn",
+      "id": "menyentuh sebentar; mengetuk",
+      "hsk": 1
+    },
+    {
+      "cn": "现在",
+      "py": "xiàn zài",
+      "id": "sekarang; saat ini",
+      "hsk": 1
+    },
+    {
+      "cn": "年",
+      "py": "nián",
+      "id": "tahun",
+      "hsk": 1
+    },
+    {
+      "cn": "两",
+      "py": "liǎng",
+      "id": "dua",
+      "hsk": 1
+    },
+    {
+      "cn": "时候",
+      "py": "shí hou",
+      "id": "waktu",
+      "hsk": 1
+    },
+    {
+      "cn": "后",
+      "py": "hòu",
+      "id": "setelah; kemudian",
+      "hsk": 1
+    },
+    {
+      "cn": "时间",
+      "py": "shí jiān",
+      "id": "(konsep) waktu",
+      "hsk": 1
+    },
+    {
+      "cn": "今天",
+      "py": "jīn tiān",
+      "id": "hari ini",
+      "hsk": 1
+    },
+    {
+      "cn": "月",
+      "py": "yuè",
+      "id": "bulan",
+      "hsk": 1
+    },
+    {
+      "cn": "分",
+      "py": "fēn",
+      "id": "membagi; memisahkan",
+      "hsk": 1
+    },
+    {
+      "cn": "小时",
+      "py": "xiǎo shí",
+      "id": "jam",
+      "hsk": 1
+    },
+    {
+      "cn": "日",
+      "py": "rì",
+      "id": "hari; tanggal",
+      "hsk": 1
+    },
+    {
+      "cn": "明天",
+      "py": "míng tiān",
+      "id": "besok",
+      "hsk": 1
+    },
+    {
+      "cn": "过去",
+      "py": "guò qù",
+      "id": "(di masa) lalu; mantan; sebelumnya",
+      "hsk": 2
+    },
+    {
+      "cn": "分钟",
+      "py": "fēn zhōng",
+      "id": "menit",
+      "hsk": 2
+    },
+    {
+      "cn": "当时",
+      "py": "dāng shí",
+      "id": "saat itu",
+      "hsk": 2
+    },
+    {
+      "cn": "万",
+      "py": "mò",
+      "id": "digunakan dalam 万俟[Mo4 qi2]",
+      "hsk": 2
+    },
+    {
+      "cn": "最近",
+      "py": "zuì jìn",
+      "id": "baru-baru ini",
+      "hsk": 2
+    },
+    {
+      "cn": "后来",
+      "py": "hòu lái",
+      "id": "kemudian; nanti",
+      "hsk": 2
+    },
+    {
+      "cn": "刚才",
+      "py": "gāng cái",
+      "id": "baru saja",
+      "hsk": 2
+    },
+    {
+      "cn": "周末",
+      "py": "zhōu mò",
+      "id": "akhir pekan",
+      "hsk": 2
+    },
+    {
+      "cn": "千",
+      "py": "qiān",
+      "id": "ribu",
+      "hsk": 2
+    },
+    {
+      "cn": "上周",
+      "py": "shàng zhōu",
+      "id": "minggu lalu",
+      "hsk": 2
+    },
+    {
+      "cn": "不久",
+      "py": "bù jiǔ",
+      "id": "tidak lama (setelah)",
+      "hsk": 2
+    },
+    {
+      "cn": "平时",
+      "py": "píng shí",
+      "id": "biasanya",
+      "hsk": 2
+    },
+    {
+      "cn": "夏天",
+      "py": "xià tiān",
+      "id": "musim panas",
+      "hsk": 2
+    },
+    {
+      "cn": "早晨",
+      "py": "zǎo chén",
+      "id": "pagi dini",
+      "hsk": 2
+    },
+    {
+      "cn": "小时候",
+      "py": "xiǎo shí hou",
+      "id": "di masa kecil",
+      "hsk": 2
+    },
+    {
+      "cn": "时",
+      "py": "shí",
+      "id": "waktu; saat; jam",
+      "hsk": 3
+    },
+    {
+      "cn": "目前",
+      "py": "mù qián",
+      "id": "saat ini",
+      "hsk": 3
+    },
+    {
+      "cn": "年代",
+      "py": "nián dài",
+      "id": "satu dekade dalam satu abad (misalnya tahun Enam Puluhan)",
+      "hsk": 3
+    },
+    {
+      "cn": "世纪",
+      "py": "shì jì",
+      "id": "abad",
+      "hsk": 3
+    },
+    {
+      "cn": "时刻",
+      "py": "shí kè",
+      "id": "waktu",
+      "hsk": 3
+    },
+    {
+      "cn": "现代",
+      "py": "xiàn dài",
+      "id": "zaman modern; kontemporer",
+      "hsk": 3
+    },
+    {
+      "cn": "眼前",
+      "py": "yǎn qián",
+      "id": "di depan mata",
+      "hsk": 3
+    },
+    {
+      "cn": "将来",
+      "py": "jiāng lái",
+      "id": "di masa depan; masa depan; KP:個|个[ge4]",
+      "hsk": 3
+    },
+    {
+      "cn": "当初",
+      "py": "dāng chū",
+      "id": "pada saat itu",
+      "hsk": 3
+    },
+    {
+      "cn": "从前",
+      "py": "cóng qián",
+      "id": "sebelumnya; dahulu kala; suatu ketika",
+      "hsk": 3
+    },
+    {
+      "cn": "古代",
+      "py": "gǔ dài",
+      "id": "zaman dahulu",
+      "hsk": 3
+    },
+    {
+      "cn": "近期",
+      "py": "jìn qī",
+      "id": "dekat dalam waktu",
+      "hsk": 3
+    },
+    {
+      "cn": "年底",
+      "py": "nián dǐ",
+      "id": "akhir tahun",
+      "hsk": 3
+    },
+    {
+      "cn": "国庆",
+      "py": "guó qìng",
+      "id": "Hari Nasional",
+      "hsk": 3
+    },
+    {
+      "cn": "之后",
+      "py": "zhī hòu",
+      "id": "setelah; di belakang",
+      "hsk": 4
+    },
+    {
+      "cn": "未来",
+      "py": "wèi lái",
+      "id": "masa depan",
+      "hsk": 4
+    },
+    {
+      "cn": "万一",
+      "py": "wàn yī",
+      "id": "kalau-kalau",
+      "hsk": 4
+    },
+    {
+      "cn": "如今",
+      "py": "rú jīn",
+      "id": "saat ini; sekarang",
+      "hsk": 4
+    },
+    {
+      "cn": "季节",
+      "py": "jì jié",
+      "id": "waktu",
+      "hsk": 4
+    },
+    {
+      "cn": "童年",
+      "py": "tóng nián",
+      "id": "masa kanak-kanak",
+      "hsk": 4
+    },
+    {
+      "cn": "上个月",
+      "py": "shàng gè yuè",
+      "id": "bulan lalu",
+      "hsk": 4
+    },
+    {
+      "cn": "冬季",
+      "py": "dōng jì",
+      "id": "musim dingin",
+      "hsk": 4
+    },
+    {
+      "cn": "暑假",
+      "py": "shǔ jià",
+      "id": "liburan musim panas; KP:個|个[ge4]",
+      "hsk": 4
+    },
+    {
+      "cn": "夏季",
+      "py": "xià jì",
+      "id": "musim panas",
+      "hsk": 4
+    },
+    {
+      "cn": "秋季",
+      "py": "qiū jì",
+      "id": "musim gugur",
+      "hsk": 4
+    },
+    {
+      "cn": "春季",
+      "py": "chūn jì",
+      "id": "musim semi",
+      "hsk": 4
+    },
+    {
+      "cn": "期末",
+      "py": "qī mò",
+      "id": "akhir semester (di sekolah)",
+      "hsk": 4
+    },
+    {
+      "cn": "月底",
+      "py": "yuè dǐ",
+      "id": "akhir bulan",
+      "hsk": 4
+    },
+    {
+      "cn": "期中",
+      "py": "qī zhōng",
+      "id": "antara",
+      "hsk": 4
+    },
+    {
+      "cn": "秒",
+      "py": "miǎo",
+      "id": "detik (satuan waktu)",
+      "hsk": 5
+    },
+    {
+      "cn": "当年",
+      "py": "dāng nián",
+      "id": "di masa itu; dulu; di tahun-tahun itu",
+      "hsk": 5
+    },
+    {
+      "cn": "今日",
+      "py": "jīn rì",
+      "id": "hari ini",
+      "hsk": 5
+    },
+    {
+      "cn": "以往",
+      "py": "yǐ wǎng",
+      "id": "di masa lalu; sebelumnya",
+      "hsk": 5
+    },
+    {
+      "cn": "当前",
+      "py": "dāng qián",
+      "id": "zaman sekarang",
+      "hsk": 5
+    },
+    {
+      "cn": "早期",
+      "py": "zǎo qī",
+      "id": "periode awal; fase awal; tahap awal",
+      "hsk": 5
+    },
+    {
+      "cn": "夜间",
+      "py": "yè jiān",
+      "id": "waktu malam",
+      "hsk": 5
+    },
+    {
+      "cn": "近来",
+      "py": "jìn lái",
+      "id": "baru-baru ini",
+      "hsk": 5
+    },
+    {
+      "cn": "清晨",
+      "py": "qīng chén",
+      "id": "dini hari",
+      "hsk": 5
+    },
+    {
+      "cn": "拾",
+      "py": "shè",
+      "id": "mendaki dengan langkah ringan",
+      "hsk": 5
+    },
+    {
+      "cn": "此后",
+      "py": "cǐ hòu",
+      "id": "setelah ini",
+      "hsk": 5
+    },
+    {
+      "cn": "先前",
+      "py": "xiān qián",
+      "id": "sebelumnya",
+      "hsk": 5
+    },
+    {
+      "cn": "当代",
+      "py": "dāng dài",
+      "id": "zaman sekarang",
+      "hsk": 5
+    },
+    {
+      "cn": "除夕",
+      "py": "chú xī",
+      "id": "malam Tahun Baru Imlek",
+      "hsk": 5
+    },
+    {
+      "cn": "工作日",
+      "py": "gōng zuò rì",
+      "id": "hari kerja",
+      "hsk": 5
+    },
+    {
+      "cn": "圣诞节",
+      "py": "shèng dàn jié",
+      "id": "Hari Natal",
+      "hsk": 6
+    },
+    {
+      "cn": "一时",
+      "py": "yī shí",
+      "id": "jangka waktu",
+      "hsk": 6
+    },
+    {
+      "cn": "当天",
+      "py": "dāng tiān",
+      "id": "pada hari itu",
+      "hsk": 6
+    },
+    {
+      "cn": "过后",
+      "py": "guò hòu",
+      "id": "setelah kejadian",
+      "hsk": 6
+    },
+    {
+      "cn": "往后",
+      "py": "wǎng hòu",
+      "id": "mulai sekarang",
+      "hsk": 6
+    },
+    {
+      "cn": "早晚",
+      "py": "zǎo wǎn",
+      "id": "pagi dan sore",
+      "hsk": 6
+    },
+    {
+      "cn": "假日",
+      "py": "jià rì",
+      "id": "hari libur; hari istirahat",
+      "hsk": 6
+    },
+    {
+      "cn": "事后",
+      "py": "shì hòu",
+      "id": "setelah acara",
+      "hsk": 6
+    },
+    {
+      "cn": "明日",
+      "py": "míng rì",
+      "id": "besok",
+      "hsk": 6
+    },
+    {
+      "cn": "此前",
+      "py": "cǐ qián",
+      "id": "sebelum ini",
+      "hsk": 6
+    },
+    {
+      "cn": "傍晚",
+      "py": "bàng wǎn",
+      "id": "di malam hari",
+      "hsk": 6
+    },
+    {
+      "cn": "近日",
+      "py": "jìn rì",
+      "id": "beberapa hari terakhir",
+      "hsk": 6
+    },
+    {
+      "cn": "往年",
+      "py": "wǎng nián",
+      "id": "tahun-tahun sebelumnya; tahun-tahun lalu",
+      "hsk": 6
+    },
+    {
+      "cn": "常年",
+      "py": "cháng nián",
+      "id": "sepanjang tahun",
+      "hsk": 6
+    },
+    {
+      "cn": "节假日",
+      "py": "jié jià rì",
+      "id": "libur nasional",
+      "hsk": 6
+    },
+    {
+      "cn": "凌晨",
+      "py": "líng chén",
+      "id": "sangat pagi",
+      "hsk": 7
+    },
+    {
+      "cn": "夜晚",
+      "py": "yè wǎn",
+      "id": "malam",
+      "hsk": 7
+    },
+    {
+      "cn": "瞬间",
+      "py": "shùn jiān",
+      "id": "dalam sekejap",
+      "hsk": 7
+    },
+    {
+      "cn": "当晚",
+      "py": "dāng wǎn",
+      "id": "pada malam itu",
+      "hsk": 7
+    },
+    {
+      "cn": "深夜",
+      "py": "shēn yè",
+      "id": "larut malam",
+      "hsk": 7
+    },
+    {
+      "cn": "一早",
+      "py": "yī zǎo",
+      "id": "pagi-pagi sekali",
+      "hsk": 7
+    },
+    {
+      "cn": "眼下",
+      "py": "yǎn xià",
+      "id": "sekarang; saat ini",
+      "hsk": 7
+    },
+    {
+      "cn": "一瞬间",
+      "py": "yī shùn jiān",
+      "id": "sepersekian detik",
+      "hsk": 7
+    },
+    {
+      "cn": "一大早",
+      "py": "yī dà zǎo",
+      "id": "saat fajar",
+      "hsk": 7
+    },
+    {
+      "cn": "当今",
+      "py": "dāng jīn",
+      "id": "zaman sekarang",
+      "hsk": 7
+    },
+    {
+      "cn": "黎明",
+      "py": "lí míng",
+      "id": "fajar; dini hari",
+      "hsk": 7
+    },
+    {
+      "cn": "生前",
+      "py": "shēng qián",
+      "id": "(dari almarhum) selama hidupnya",
+      "hsk": 7
+    },
+    {
+      "cn": "起初",
+      "py": "qǐ chū",
+      "id": "awalnya; pada awalnya; pada permulaan",
+      "hsk": 7
+    },
+    {
+      "cn": "晚间",
+      "py": "wǎn jiān",
+      "id": "malam hari",
+      "hsk": 7
+    },
+    {
+      "cn": "往常",
+      "py": "wǎng cháng",
+      "id": "biasa",
+      "hsk": 7
+    }
+  ],
+  "angka": [
+    {
+      "cn": "一",
+      "py": "yī",
+      "id": "satu",
+      "hsk": 1
+    },
+    {
+      "cn": "来",
+      "py": "lái",
+      "id": "datang",
+      "hsk": 1
+    },
+    {
+      "cn": "两",
+      "py": "liǎng",
+      "id": "dua",
+      "hsk": 1
+    },
+    {
+      "cn": "几",
+      "py": "jī",
+      "id": "meja kecil",
+      "hsk": 1
+    },
+    {
+      "cn": "三",
+      "py": "sān",
+      "id": "tiga",
+      "hsk": 1
+    },
+    {
+      "cn": "头",
+      "py": "tóu",
+      "id": "kepala",
+      "hsk": 2
+    },
+    {
+      "cn": "四",
+      "py": "sì",
+      "id": "empat",
+      "hsk": 1
+    },
+    {
+      "cn": "部分",
+      "py": "bù fen",
+      "id": "bagian; porsi; potongan",
+      "hsk": 2
+    },
+    {
+      "cn": "第二",
+      "py": "dì èr",
+      "id": "kedua",
+      "hsk": 1
+    },
+    {
+      "cn": "万",
+      "py": "mò",
+      "id": "digunakan dalam 万俟[Mo4 qi2]",
+      "hsk": 2
+    },
+    {
+      "cn": "五",
+      "py": "wǔ",
+      "id": "lima",
+      "hsk": 1
+    },
+    {
+      "cn": "整个",
+      "py": "zhěng gè",
+      "id": "seluruh; semua; total",
+      "hsk": 3
+    },
+    {
+      "cn": "双",
+      "py": "shuāng",
+      "id": "sepasang; dua",
+      "hsk": 3
+    },
+    {
+      "cn": "首",
+      "py": "shǒu",
+      "id": "kepala",
+      "hsk": 4
+    },
+    {
+      "cn": "二",
+      "py": "èr",
+      "id": "dua",
+      "hsk": 1
+    },
+    {
+      "cn": "全部",
+      "py": "quán bù",
+      "id": "seluruh; semua",
+      "hsk": 2
+    },
+    {
+      "cn": "半",
+      "py": "bàn",
+      "id": "setengah",
+      "hsk": 1
+    },
+    {
+      "cn": "六",
+      "py": "liù",
+      "id": "enam",
+      "hsk": 1
+    },
+    {
+      "cn": "数",
+      "py": "shù",
+      "id": "angka; jumlah",
+      "hsk": 2
+    },
+    {
+      "cn": "十",
+      "py": "shí",
+      "id": "sepuluh",
+      "hsk": 1
+    },
+    {
+      "cn": "第",
+      "py": "dì",
+      "id": "(prefiks yang menunjukkan bilangan ordinal, seperti pada 第六[di4 - liu4] \"keenam\")",
+      "hsk": 1
+    },
+    {
+      "cn": "许多",
+      "py": "xǔ duō",
+      "id": "banyak",
+      "hsk": 2
+    },
+    {
+      "cn": "不少",
+      "py": "bù shǎo",
+      "id": "banyak",
+      "hsk": 2
+    },
+    {
+      "cn": "整",
+      "py": "zhěng",
+      "id": "utuh; lengkap; seluruh; (sebelum kata penggolong) utuh; (sebelum atau sesudah angka + kata penggolong) tepat",
+      "hsk": 3
+    },
+    {
+      "cn": "左右",
+      "py": "zuǒ yòu",
+      "id": "kiri dan kanan",
+      "hsk": 3
+    },
+    {
+      "cn": "八",
+      "py": "bā",
+      "id": "delapan",
+      "hsk": 1
+    },
+    {
+      "cn": "七",
+      "py": "qī",
+      "id": "tujuh",
+      "hsk": 1
+    },
+    {
+      "cn": "俩",
+      "py": "liǎ",
+      "id": "dua (setara bahasa sehari-hari dari 兩個|两个)",
+      "hsk": 4
+    },
+    {
+      "cn": "一半",
+      "py": "yī bàn",
+      "id": "setengah",
+      "hsk": 1
+    },
+    {
+      "cn": "千万",
+      "py": "qiān wàn",
+      "id": "sepuluh juta",
+      "hsk": 3
+    },
+    {
+      "cn": "千",
+      "py": "qiān",
+      "id": "ribu",
+      "hsk": 2
+    },
+    {
+      "cn": "大量",
+      "py": "dà liàng",
+      "id": "jumlah besar",
+      "hsk": 2
+    },
+    {
+      "cn": "好多",
+      "py": "hǎo duō",
+      "id": "banyak",
+      "hsk": 2
+    },
+    {
+      "cn": "大部分",
+      "py": "dà bù fen",
+      "id": "bagian yang lebih besar; mayoritas; sebagian besar",
+      "hsk": 2
+    },
+    {
+      "cn": "九",
+      "py": "jiǔ",
+      "id": "sembilan",
+      "hsk": 1
+    },
+    {
+      "cn": "大多数",
+      "py": "dà duō shù",
+      "id": "mayoritas (besar)",
+      "hsk": 2
+    },
+    {
+      "cn": "负",
+      "py": "fù",
+      "id": "menanggung",
+      "hsk": 6
+    },
+    {
+      "cn": "百",
+      "py": "bǎi",
+      "id": "seratus",
+      "hsk": 1
+    },
+    {
+      "cn": "不久",
+      "py": "bù jiǔ",
+      "id": "tidak lama (setelah)",
+      "hsk": 2
+    },
+    {
+      "cn": "好久",
+      "py": "hǎo jiǔ",
+      "id": "cukup lama",
+      "hsk": 2
+    },
+    {
+      "cn": "甲",
+      "py": "jiǎ",
+      "id": "batang langit pertama dari sepuluh Batang Langit 十天干[shi2 tian1 gan1]",
+      "hsk": 5
+    },
+    {
+      "cn": "无数",
+      "py": "wú shù",
+      "id": "tak terhitung",
+      "hsk": 4
+    },
+    {
+      "cn": "亿",
+      "py": "yì",
+      "id": "100 juta",
+      "hsk": 2
+    },
+    {
+      "cn": "一时",
+      "py": "yī shí",
+      "id": "jangka waktu",
+      "hsk": 6
+    },
+    {
+      "cn": "零",
+      "py": "líng",
+      "id": "nol",
+      "hsk": 1
+    },
+    {
+      "cn": "一部分",
+      "py": "yī bù fen",
+      "id": "bagian",
+      "hsk": 2
+    },
+    {
+      "cn": "多数",
+      "py": "duō shù",
+      "id": "mayoritas; kebanyakan",
+      "hsk": 2
+    },
+    {
+      "cn": "众多",
+      "py": "zhòng duō",
+      "id": "banyak",
+      "hsk": 5
+    },
+    {
+      "cn": "上下",
+      "py": "shàng xià",
+      "id": "bagian atas dan bawah dari sesuatu",
+      "hsk": 5
+    },
+    {
+      "cn": "少数",
+      "py": "shǎo shù",
+      "id": "jumlah kecil",
+      "hsk": 2
+    },
+    {
+      "cn": "丝毫",
+      "py": "sī háo",
+      "id": "sedikitpun",
+      "hsk": 7
+    },
+    {
+      "cn": "大多",
+      "py": "dà duō",
+      "id": "sebagian besar",
+      "hsk": 4
+    },
+    {
+      "cn": "多种",
+      "py": "duō zhǒng",
+      "id": "berbagai macam; jamak; beragam; multi-",
+      "hsk": 4
+    },
+    {
+      "cn": "一瞬间",
+      "py": "yī shùn jiān",
+      "id": "sepersekian detik",
+      "hsk": 7
+    },
+    {
+      "cn": "绝大多数",
+      "py": "jué dà duō shù",
+      "id": "mayoritas besar",
+      "hsk": 6
+    },
+    {
+      "cn": "乙",
+      "py": "yǐ",
+      "id": "kedua dari Sepuluh Batang Langit 十天干[shi2 tian1 gan1]",
+      "hsk": 5
+    },
+    {
+      "cn": "余",
+      "py": "yú",
+      "id": "lebih (dari angka tertentu)",
+      "hsk": 7
+    },
+    {
+      "cn": "少量",
+      "py": "shǎo liàng",
+      "id": "sedikit sekali",
+      "hsk": 7
+    },
+    {
+      "cn": "终生",
+      "py": "zhōng shēng",
+      "id": "seumur hidup; masa hidup",
+      "hsk": 7
+    },
+    {
+      "cn": "多半",
+      "py": "duō bàn",
+      "id": "kebanyakan",
+      "hsk": 6
+    },
+    {
+      "cn": "若干",
+      "py": "ruò gān",
+      "id": "sejumlah atau sejumlah tertentu",
+      "hsk": 7
+    },
+    {
+      "cn": "诸多",
+      "py": "zhū duō",
+      "id": "(digunakan untuk hal-hal abstrak) banyak, sejumlah besar",
+      "hsk": 7
+    },
+    {
+      "cn": "出头",
+      "py": "chū tóu",
+      "id": "keluar dari kesulitan",
+      "hsk": 7
+    },
+    {
+      "cn": "半数",
+      "py": "bàn shù",
+      "id": "setengah dari jumlah; setengah",
+      "hsk": 7
+    },
+    {
+      "cn": "大批",
+      "py": "dà pī",
+      "id": "jumlah besar",
+      "hsk": 6
+    },
+    {
+      "cn": "大宗",
+      "py": "dà zōng",
+      "id": "jumlah besar",
+      "hsk": 7
+    },
+    {
+      "cn": "多样",
+      "py": "duō yàng",
+      "id": "beragam",
+      "hsk": 4
+    },
+    {
+      "cn": "首次",
+      "py": "shǒu cì",
+      "id": "pertama",
+      "hsk": 6
+    },
+    {
+      "cn": "一点点",
+      "py": "yī diǎn diǎn",
+      "id": "sedikit saja",
+      "hsk": 2
+    },
+    {
+      "cn": "分之",
+      "py": "fēn zhī",
+      "id": "(menunjukkan pecahan)",
+      "hsk": 4
+    }
+  ],
+  "satuan": [
+    {
+      "cn": "个",
+      "py": "gě",
+      "id": "digunakan dalam 自個兒|自个儿[zi4 ge3 r5]",
+      "hsk": 1
+    },
+    {
+      "cn": "对",
+      "py": "duì",
+      "id": "pasang (kata ukur untuk sepasang benda/orang)",
+      "hsk": 1
+    },
+    {
+      "cn": "里",
+      "py": "lǐ",
+      "id": "li (satuan jarak Tiongkok, sekitar 500 meter)",
+      "hsk": 1
+    },
+    {
+      "cn": "出",
+      "py": "chū",
+      "id": "keluar; muncul",
+      "hsk": 1
+    },
+    {
+      "cn": "家",
+      "py": "jiā",
+      "id": "digunakan dalam 傢伙|家伙[jia1 huo5] dan 傢俱|家俱[jia1 ju4]",
+      "hsk": 1
+    },
+    {
+      "cn": "起",
+      "py": "qǐ",
+      "id": "bangkit",
+      "hsk": 1
+    },
+    {
+      "cn": "手",
+      "py": "shǒu",
+      "id": "tangan",
+      "hsk": 1
+    },
+    {
+      "cn": "开",
+      "py": "kāi",
+      "id": "membuka (transitif atau intransitif)",
+      "hsk": 1
+    },
+    {
+      "cn": "本",
+      "py": "běn",
+      "id": "buku; jilid (kata ukur untuk buku)",
+      "hsk": 1
+    },
+    {
+      "cn": "行",
+      "py": "háng",
+      "id": "baris; garis",
+      "hsk": 1
+    },
+    {
+      "cn": "号",
+      "py": "háo",
+      "id": "auman",
+      "hsk": 1
+    },
+    {
+      "cn": "小时",
+      "py": "xiǎo shí",
+      "id": "jam",
+      "hsk": 1
+    },
+    {
+      "cn": "帮",
+      "py": "bāng",
+      "id": "kelompok; gerombolan",
+      "hsk": 1
+    },
+    {
+      "cn": "只",
+      "py": "zhī",
+      "id": "ekor; buah (kata ukur untuk hewan, dll.)",
+      "hsk": 2
+    },
+    {
+      "cn": "位",
+      "py": "wèi",
+      "id": "posisi",
+      "hsk": 2
+    },
+    {
+      "cn": "成",
+      "py": "chéng",
+      "id": "sepersepuluh (bagian)",
+      "hsk": 2
+    },
+    {
+      "cn": "名",
+      "py": "míng",
+      "id": "nama",
+      "hsk": 2
+    },
+    {
+      "cn": "条",
+      "py": "tiáo",
+      "id": "strip",
+      "hsk": 2
+    },
+    {
+      "cn": "件",
+      "py": "jiàn",
+      "id": "item",
+      "hsk": 2
+    },
+    {
+      "cn": "头",
+      "py": "tóu",
+      "id": "kepala",
+      "hsk": 2
+    },
+    {
+      "cn": "发",
+      "py": "fā",
+      "id": "mengirim",
+      "hsk": 2
+    },
+    {
+      "cn": "队",
+      "py": "duì",
+      "id": "skuadron",
+      "hsk": 2
+    },
+    {
+      "cn": "片",
+      "py": "piān",
+      "id": "disk",
+      "hsk": 2
+    },
+    {
+      "cn": "组",
+      "py": "zǔ",
+      "id": "kelompok; grup",
+      "hsk": 2
+    },
+    {
+      "cn": "句",
+      "py": "jù",
+      "id": "kalimat (kata ukur untuk kalimat, cth. 一句话)",
+      "hsk": 2
+    },
+    {
+      "cn": "面",
+      "py": "miàn",
+      "id": "wajah",
+      "hsk": 2
+    },
+    {
+      "cn": "份",
+      "py": "fèn",
+      "id": "kata penggolong untuk hadiah, koran, majalah, kertas, laporan, kontrak, dll",
+      "hsk": 2
+    },
+    {
+      "cn": "脸",
+      "py": "liǎn",
+      "id": "wajah",
+      "hsk": 2
+    },
+    {
+      "cn": "所",
+      "py": "suǒ",
+      "id": "sebenarnya",
+      "hsk": 3
+    },
+    {
+      "cn": "种",
+      "py": "zhǒng",
+      "id": "jenis; macam (kata ukur)",
+      "hsk": 3
+    },
+    {
+      "cn": "张",
+      "py": "zhāng",
+      "id": "lembar (kertas, dll.)",
+      "hsk": 3
+    },
+    {
+      "cn": "部",
+      "py": "bù",
+      "id": "kementerian",
+      "hsk": 3
+    },
+    {
+      "cn": "美元",
+      "py": "měi yuán",
+      "id": "Dolar Amerika (USD)",
+      "hsk": 3
+    },
+    {
+      "cn": "管",
+      "py": "guǎn",
+      "id": "tabung; pipa (kata ukur untuk benda panjang berongga)",
+      "hsk": 3
+    },
+    {
+      "cn": "拍",
+      "py": "pāi",
+      "id": "menepuk",
+      "hsk": 3
+    },
+    {
+      "cn": "双",
+      "py": "shuāng",
+      "id": "pasang (sepatu, dll.)",
+      "hsk": 3
+    },
+    {
+      "cn": "线",
+      "py": "xiàn",
+      "id": "seutas (benang, kabel, dll.)",
+      "hsk": 3
+    },
+    {
+      "cn": "台",
+      "py": "tái",
+      "id": "unit (mesin, TV, komputer, dll.)",
+      "hsk": 3
+    },
+    {
+      "cn": "派",
+      "py": "pài",
+      "id": "digunakan dalam 派司[pa1 si5]",
+      "hsk": 3
+    },
+    {
+      "cn": "支",
+      "py": "zhī",
+      "id": "batang (pena, rokok, dll.)",
+      "hsk": 3
+    },
+    {
+      "cn": "挂",
+      "py": "guà",
+      "id": "menggantung; menopang (dari pengait dll.)",
+      "hsk": 3
+    },
+    {
+      "cn": "类",
+      "py": "lèi",
+      "id": "jenis; tipe; kelas; kategori",
+      "hsk": 3
+    },
+    {
+      "cn": "跳",
+      "py": "tiào",
+      "id": "melompat",
+      "hsk": 3
+    },
+    {
+      "cn": "处",
+      "py": "chǔ",
+      "id": "bertempat tinggal",
+      "hsk": 4
+    },
+    {
+      "cn": "些",
+      "py": "xiē",
+      "id": "kata penggolong yang menunjukkan jumlah kecil atau angka kecil lebih besar dari 1: beberapa, sedikit, beberapa",
+      "hsk": 4
+    },
+    {
+      "cn": "首",
+      "py": "shǒu",
+      "id": "kepala",
+      "hsk": 4
+    },
+    {
+      "cn": "项",
+      "py": "xiàng",
+      "id": "item; hal (poin, proyek, dll.)",
+      "hsk": 4
+    },
+    {
+      "cn": "方",
+      "py": "fāng",
+      "id": "kotak (benda kubik)",
+      "hsk": 4
+    },
+    {
+      "cn": "根",
+      "py": "gēn",
+      "id": "batang (kata ukur untuk benda panjang tipis, cth. pisang, rokok)",
+      "hsk": 4
+    },
+    {
+      "cn": "倍",
+      "py": "bèi",
+      "id": "(dua, tiga, dll.) -kali",
+      "hsk": 4
+    },
+    {
+      "cn": "季",
+      "py": "jì",
+      "id": "musim; kuartal",
+      "hsk": 4
+    },
+    {
+      "cn": "顶",
+      "py": "dǐng",
+      "id": "puncak",
+      "hsk": 4
+    },
+    {
+      "cn": "色",
+      "py": "sè",
+      "id": "warna",
+      "hsk": 4
+    },
+    {
+      "cn": "卷",
+      "py": "juǎn",
+      "id": "menggulung",
+      "hsk": 4
+    },
+    {
+      "cn": "系列",
+      "py": "xì liè",
+      "id": "seri",
+      "hsk": 4
+    },
+    {
+      "cn": "列",
+      "py": "liè",
+      "id": "mengatur",
+      "hsk": 4
+    },
+    {
+      "cn": "户",
+      "py": "hù",
+      "id": "rumah tangga",
+      "hsk": 4
+    },
+    {
+      "cn": "箱",
+      "py": "xiāng",
+      "id": "kotak",
+      "hsk": 4
+    },
+    {
+      "cn": "棒",
+      "py": "bàng",
+      "id": "tongkat; gada; pentungan",
+      "hsk": 5
+    },
+    {
+      "cn": "颗",
+      "py": "kē",
+      "id": "penggolong untuk bola kecil, mutiara, biji jagung, gigi, hati, satelit dll",
+      "hsk": 5
+    },
+    {
+      "cn": "枪",
+      "py": "qiāng",
+      "id": "pucuk (senjata)",
+      "hsk": 5
+    },
+    {
+      "cn": "版",
+      "py": "bǎn",
+      "id": "register",
+      "hsk": 5
+    },
+    {
+      "cn": "幅",
+      "py": "fú",
+      "id": "lebar",
+      "hsk": 5
+    },
+    {
+      "cn": "堆",
+      "py": "duī",
+      "id": "menumpuk",
+      "hsk": 5
+    },
+    {
+      "cn": "盒",
+      "py": "hé",
+      "id": "kotak kecil",
+      "hsk": 5
+    },
+    {
+      "cn": "届",
+      "py": "jiè",
+      "id": "tiba di (tempat atau waktu)",
+      "hsk": 5
+    },
+    {
+      "cn": "挡",
+      "py": "dǎng",
+      "id": "menahan; menghalangi; mencegah; menangkis (pukulan); menghalangi jalan; penutup; gigi (misalnya pada transmisi mobil)",
+      "hsk": 5
+    },
+    {
+      "cn": "扇",
+      "py": "shān",
+      "id": "mengipasi",
+      "hsk": 5
+    },
+    {
+      "cn": "匹",
+      "py": "pǐ",
+      "id": "ekor (kuda); potong (kain)",
+      "hsk": 5
+    },
+    {
+      "cn": "锅",
+      "py": "guō",
+      "id": "panci; wajan; kuali",
+      "hsk": 5
+    },
+    {
+      "cn": "吨",
+      "py": "dūn",
+      "id": "ton (kata serapan)",
+      "hsk": 5
+    },
+    {
+      "cn": "寸",
+      "py": "cùn",
+      "id": "satuan ukuran",
+      "hsk": 5
+    },
+    {
+      "cn": "朵",
+      "py": "duǒ",
+      "id": "bunga",
+      "hsk": 5
+    },
+    {
+      "cn": "集",
+      "py": "jí",
+      "id": "mengumpulkan",
+      "hsk": 6
+    },
+    {
+      "cn": "副",
+      "py": "fù",
+      "id": "sekunder",
+      "hsk": 6
+    },
+    {
+      "cn": "招",
+      "py": "zhāo",
+      "id": "merekrut",
+      "hsk": 6
+    },
+    {
+      "cn": "服",
+      "py": "fú",
+      "id": "pakaian",
+      "hsk": 6
+    },
+    {
+      "cn": "样",
+      "py": "yàng",
+      "id": "cara",
+      "hsk": 6
+    },
+    {
+      "cn": "股",
+      "py": "gǔ",
+      "id": "paha",
+      "hsk": 6
+    },
+    {
+      "cn": "觉",
+      "py": "jiào",
+      "id": "tidur siang; tidur; KP:場|场[chang2]",
+      "hsk": 6
+    },
+    {
+      "cn": "滴",
+      "py": "dī",
+      "id": "setetes",
+      "hsk": 6
+    },
+    {
+      "cn": "泡",
+      "py": "pāo",
+      "id": "menggelembung; bengkak; seperti spons",
+      "hsk": 6
+    },
+    {
+      "cn": "端",
+      "py": "duān",
+      "id": "ujung; akhir; ekstremitas",
+      "hsk": 6
+    },
+    {
+      "cn": "侧",
+      "py": "cè",
+      "id": "sisi",
+      "hsk": 6
+    },
+    {
+      "cn": "杆",
+      "py": "gān",
+      "id": "tiang",
+      "hsk": 6
+    },
+    {
+      "cn": "族",
+      "py": "zú",
+      "id": "suku",
+      "hsk": 6
+    },
+    {
+      "cn": "档",
+      "py": "dǎng",
+      "id": "(Tw) gigi persneling (varian dari 擋|挡[dang3])",
+      "hsk": 6
+    },
+    {
+      "cn": "章",
+      "py": "zhāng",
+      "id": "bab (buku)",
+      "hsk": 6
+    },
+    {
+      "cn": "则",
+      "py": "zé",
+      "id": "(bentuk sastra) (kata penghubung yang digunakan untuk menyatakan kontras dengan klausa sebelumnya) tetapi; kemudian",
+      "hsk": 7
+    },
+    {
+      "cn": "丝",
+      "py": "sī",
+      "id": "sutra",
+      "hsk": 7
+    },
+    {
+      "cn": "曲",
+      "py": "qū",
+      "id": "buah (lagu/melodi)",
+      "hsk": 7
+    },
+    {
+      "cn": "拨",
+      "py": "bō",
+      "id": "menyingkirkan dengan tangan, kaki, tongkat dll",
+      "hsk": 7
+    },
+    {
+      "cn": "艘",
+      "py": "sōu",
+      "id": "klasifikasi untuk kapal",
+      "hsk": 7
+    },
+    {
+      "cn": "枚",
+      "py": "méi",
+      "id": "keping; buah (benda kecil bulat)",
+      "hsk": 7
+    },
+    {
+      "cn": "剂",
+      "py": "jì",
+      "id": "senyawa yang dibuat dengan mencampurkan bahan-bahan (terutama produk obat atau kimia)",
+      "hsk": 7
+    },
+    {
+      "cn": "码",
+      "py": "mǎ",
+      "id": "(kuno) batu akik",
+      "hsk": 7
+    },
+    {
+      "cn": "斗",
+      "py": "dǒu",
+      "id": "dou (satuan ukur biji-bijian kuno)",
+      "hsk": 7
+    },
+    {
+      "cn": "幕",
+      "py": "mù",
+      "id": "tirai atau layar",
+      "hsk": 7
+    },
+    {
+      "cn": "栋",
+      "py": "dòng",
+      "id": "penggolong untuk rumah atau bangunan",
+      "hsk": 7
+    },
+    {
+      "cn": "堂",
+      "py": "táng",
+      "id": "aula (utama)",
+      "hsk": 7
+    },
+    {
+      "cn": "桶",
+      "py": "tǒng",
+      "id": "ember",
+      "hsk": 7
+    },
+    {
+      "cn": "瓦",
+      "py": "wǎ",
+      "id": "genteng",
+      "hsk": 7
+    },
+    {
+      "cn": "标",
+      "py": "biāo",
+      "id": "tanda",
+      "hsk": 7
+    }
+  ],
+  "identitas": [
+    {
+      "cn": "工作",
+      "py": "gōng zuò",
+      "id": "bekerja",
+      "hsk": 1
+    },
+    {
+      "cn": "老师",
+      "py": "lǎo shī",
+      "id": "guru",
+      "hsk": 1
+    },
+    {
+      "cn": "医生",
+      "py": "yī shēng",
+      "id": "dokter",
+      "hsk": 1
+    },
+    {
+      "cn": "上班",
+      "py": "shàng bān",
+      "id": "pergi bekerja",
+      "hsk": 1
+    },
+    {
+      "cn": "工人",
+      "py": "gōng rén",
+      "id": "pekerja",
+      "hsk": 1
+    },
+    {
+      "cn": "下班",
+      "py": "xià bān",
+      "id": "selesai kerja; pulang kerja",
+      "hsk": 1
+    },
+    {
+      "cn": "司机",
+      "py": "sī jī",
+      "id": "sopir; pengemudi",
+      "hsk": 2
+    },
+    {
+      "cn": "经理",
+      "py": "jīng lǐ",
+      "id": "manajer",
+      "hsk": 2
+    },
+    {
+      "cn": "作家",
+      "py": "zuò jiā",
+      "id": "penulis",
+      "hsk": 2
+    },
+    {
+      "cn": "商人",
+      "py": "shāng rén",
+      "id": "pedagang",
+      "hsk": 2
+    },
+    {
+      "cn": "记者",
+      "py": "jì zhě",
+      "id": "reporter; jurnalis",
+      "hsk": 3
+    },
+    {
+      "cn": "部门",
+      "py": "bù mén",
+      "id": "departemen",
+      "hsk": 3
+    },
+    {
+      "cn": "警察",
+      "py": "jǐng chá",
+      "id": "polisi; petugas polisi",
+      "hsk": 3
+    },
+    {
+      "cn": "职业",
+      "py": "zhí yè",
+      "id": "mata pencaharian; profesi; panggilan",
+      "hsk": 3
+    },
+    {
+      "cn": "演员",
+      "py": "yǎn yuán",
+      "id": "aktor; aktris; pemain",
+      "hsk": 3
+    },
+    {
+      "cn": "教练",
+      "py": "jiào liàn",
+      "id": "melatih; untuk melatih",
+      "hsk": 3
+    },
+    {
+      "cn": "员工",
+      "py": "yuán gōng",
+      "id": "staf; personel; karyawan",
+      "hsk": 3
+    },
+    {
+      "cn": "工资",
+      "py": "gōng zī",
+      "id": "upah; gaji",
+      "hsk": 3
+    },
+    {
+      "cn": "歌手",
+      "py": "gē shǒu",
+      "id": "penyanyi",
+      "hsk": 3
+    },
+    {
+      "cn": "退休",
+      "py": "tuì xiū",
+      "id": "pensiun (dari pekerjaan); pensiun",
+      "hsk": 3
+    },
+    {
+      "cn": "农民",
+      "py": "nóng mín",
+      "id": "petani",
+      "hsk": 3
+    },
+    {
+      "cn": "服务员",
+      "py": "fú wù yuán",
+      "id": "pelayan pria",
+      "hsk": 3
+    },
+    {
+      "cn": "工程师",
+      "py": "gōng chéng shī",
+      "id": "insinyur",
+      "hsk": 3
+    },
+    {
+      "cn": "公务员",
+      "py": "gōng wù yuán",
+      "id": "pegawai negeri sipil; abdi masyarakat",
+      "hsk": 3
+    },
+    {
+      "cn": "律师",
+      "py": "lǜ shī",
+      "id": "pengacara",
+      "hsk": 4
+    },
+    {
+      "cn": "合同",
+      "py": "hé tong",
+      "id": "kontrak; perjanjian",
+      "hsk": 4
+    },
+    {
+      "cn": "运动员",
+      "py": "yùn dòng yuán",
+      "id": "atlet",
+      "hsk": 4
+    },
+    {
+      "cn": "奖金",
+      "py": "jiǎng jīn",
+      "id": "premi",
+      "hsk": 4
+    },
+    {
+      "cn": "护士",
+      "py": "hù shi",
+      "id": "perawat",
+      "hsk": 4
+    },
+    {
+      "cn": "面试",
+      "py": "miàn shì",
+      "id": "diwawancarai (sebagai kandidat)",
+      "hsk": 4
+    },
+    {
+      "cn": "会计",
+      "py": "kuài jì",
+      "id": "akuntan",
+      "hsk": 4
+    },
+    {
+      "cn": "加班",
+      "py": "jiā bān",
+      "id": "bekerja lembur",
+      "hsk": 4
+    },
+    {
+      "cn": "简历",
+      "py": "jiǎn lì",
+      "id": "curriculum vitae (CV)",
+      "hsk": 4
+    },
+    {
+      "cn": "编辑",
+      "py": "biān jí",
+      "id": "menyunting",
+      "hsk": 5
+    },
+    {
+      "cn": "辞职",
+      "py": "cí zhí",
+      "id": "mengundurkan diri",
+      "hsk": 5
+    },
+    {
+      "cn": "总裁",
+      "py": "zǒng cái",
+      "id": "ketua",
+      "hsk": 5
+    },
+    {
+      "cn": "职位",
+      "py": "zhí wèi",
+      "id": "posisi; jabatan; pekerjaan",
+      "hsk": 5
+    },
+    {
+      "cn": "裁判",
+      "py": "cái pàn",
+      "id": "(hukum) menghakimi; memutuskan; putusan; penilaian",
+      "hsk": 5
+    },
+    {
+      "cn": "福利",
+      "py": "fú lì",
+      "id": "manfaat material",
+      "hsk": 5
+    },
+    {
+      "cn": "军人",
+      "py": "jūn rén",
+      "id": "prajurit",
+      "hsk": 5
+    },
+    {
+      "cn": "职务",
+      "py": "zhí wù",
+      "id": "jabatan; posisi; pekerjaan; tugas",
+      "hsk": 5
+    },
+    {
+      "cn": "出差",
+      "py": "chū chāi",
+      "id": "melakukan perjalanan dinas atau bisnis",
+      "hsk": 5
+    },
+    {
+      "cn": "设计师",
+      "py": "shè jì shī",
+      "id": "desainer",
+      "hsk": 6
+    },
+    {
+      "cn": "岗位",
+      "py": "gǎng wèi",
+      "id": "jabatan; pekerjaan",
+      "hsk": 6
+    },
+    {
+      "cn": "薪水",
+      "py": "xīn shuǐ",
+      "id": "gaji",
+      "hsk": 6
+    },
+    {
+      "cn": "厨师",
+      "py": "chú shī",
+      "id": "juru masak",
+      "hsk": 6
+    },
+    {
+      "cn": "招聘",
+      "py": "zhāo pìn",
+      "id": "mengundang lamaran untuk pekerjaan",
+      "hsk": 6
+    },
+    {
+      "cn": "总经理",
+      "py": "zǒng jīng lǐ",
+      "id": "manajer umum",
+      "hsk": 6
+    },
+    {
+      "cn": "职员",
+      "py": "zhí yuán",
+      "id": "pekerja kantor",
+      "hsk": 7
+    },
+    {
+      "cn": "解雇",
+      "py": "jiě gù",
+      "id": "memecat",
+      "hsk": 7
+    },
+    {
+      "cn": "建筑师",
+      "py": "jiàn zhù shī",
+      "id": "arsitek",
+      "hsk": 7
+    }
+  ]
+}
