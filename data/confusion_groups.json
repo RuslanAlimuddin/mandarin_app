@@ -1,0 +1,969 @@
+{
+ "groups": [
+  {
+   "id": 1,
+   "character": "己",
+   "confusable_with": ["已", "巳"],
+   "note": "Perbedaan pada lengkung kecil di bagian atas — 己 terbuka, 已 setengah tertutup, 巳 tertutup penuh."
+  },
+  {
+   "id": 2,
+   "character": "大",
+   "confusable_with": ["太", "犬"],
+   "note": "太 menambahkan satu titik di bawah (di antara kedua kaki 大); 犬 menambahkan satu titik di kanan atas."
+  },
+  {
+   "id": 3,
+   "character": "干",
+   "confusable_with": ["千"],
+   "note": "Perbedaan pada garis miring atas"
+  },
+  {
+   "id": 4,
+   "character": "少",
+   "confusable_with": ["小"],
+   "note": "少 memiliki satu goresan miring kiri (撇) tambahan dibandingkan 小."
+  },
+  {
+   "id": 5,
+   "character": "兔",
+   "confusable_with": ["免"],
+   "note": "Perbedaan pada titik ekor — 兔 memiliki titik di bawah"
+  },
+  {
+   "id": 6,
+   "character": "日",
+   "confusable_with": ["曰"],
+   "note": "Perbedaan proporsi — 日 tipis (tinggi), 曰 lebar (pendek)"
+  },
+  {
+   "id": 7,
+   "character": "王",
+   "confusable_with": ["玉"],
+   "note": "Perbedaan pada titik di bawah — 玉 = 王 + titik"
+  },
+  {
+   "id": 8,
+   "character": "白",
+   "confusable_with": ["百"],
+   "note": "Perbedaan pada garis di atas — 百 memiliki garis horizontal di atas"
+  },
+  {
+   "id": 9,
+   "character": "买",
+   "confusable_with": ["卖"],
+   "note": "Perbedaan pada radikal atas — 卖 memiliki 十 di atas"
+  },
+  {
+   "id": 10,
+   "character": "快",
+   "confusable_with": ["块"],
+   "note": "Perbedaan radikal kiri — 快 (忄 hati) vs 块 (土 tanah)"
+  },
+  {
+   "id": 11,
+   "character": "刀",
+   "confusable_with": ["力"],
+   "note": "Pada 力, goresan miring kiri (撇) memotong garis mendatar; pada 刀, goresan miring itu tidak memotong garis mendatar."
+  },
+  {
+   "id": 12,
+   "character": "又",
+   "confusable_with": ["叉", "义"],
+   "note": "Perbedaan garis bawah -- 叉 punya titik/garis tambahan, 义 beda struktur atas"
+  },
+  {
+   "id": 13,
+   "character": "直",
+   "confusable_with": ["真"],
+   "note": "Bagian bawah berbeda — 真 diakhiri 八 (dua goresan miring), sedangkan 直 diakhiri goresan siku 乚 yang turun lalu berbelok ke kanan di sisi kiri bawah."
+  },
+  {
+   "id": 14,
+   "character": "拨",
+   "confusable_with": ["拔"],
+   "note": "Perbedaan pada radikal kanan — 拨 (发) vs 拔 (犮)"
+  },
+  {
+   "id": 15,
+   "character": "午",
+   "confusable_with": ["牛"],
+   "note": "Pada 牛, garis tegak dimulai dari garis mendatar pertama (atas) lalu menembus kedua garis mendatar; pada 午, garis tegak dimulai di bawah garis mendatar pertama dan hanya menembus garis mendatar kedua (bawah)."
+  },
+  {
+   "id": 16,
+   "character": "幸",
+   "confusable_with": ["辛"],
+   "note": "Perbedaan pada garis atas/bawah — 幸 memiliki 土 di atas, 辛 memiliki 立"
+  },
+  {
+   "id": 17,
+   "character": "古",
+   "confusable_with": ["苦"],
+   "note": "苦 = 古 + radikal 艹 (rumput)"
+  },
+  {
+   "id": 18,
+   "character": "人",
+   "confusable_with": ["入", "八"],
+   "note": "Perbedaan arah garis — 人 (ke bawah), 入 (ke dalam), 八 (terpisah)"
+  },
+  {
+   "id": 19,
+   "character": "舍",
+   "confusable_with": ["舌"],
+   "note": "Perbedaan pada radikal atas — 舍 = 人 + 舌"
+  },
+  {
+   "id": 20,
+   "character": "告",
+   "confusable_with": ["吉"],
+   "note": "Bagian atas berbeda — 告 = 牛 + 口, sedangkan 吉 = 士 + 口; keduanya memakai 口 di bawah."
+  },
+  {
+   "id": 21,
+   "character": "象",
+   "confusable_with": ["像"],
+   "note": "像 = 象 + radikal orang (亻)"
+  },
+  {
+   "id": 22,
+   "character": "甲",
+   "confusable_with": ["由"],
+   "note": "Perbedaan pada garis tengah — 甲 garis bawah, 由 garis atas"
+  },
+  {
+   "id": 23,
+   "character": "今",
+   "confusable_with": ["令"],
+   "note": "Perbedaan pada titik bawah — 令 memiliki titik di bawah"
+  },
+  {
+   "id": 24,
+   "character": "令",
+   "confusable_with": ["冷"],
+   "note": "冷 = 令 + radikal dingin (冫)"
+  },
+  {
+   "id": 25,
+   "character": "贝",
+   "confusable_with": ["见"],
+   "note": "Kerangka 冂 dan goresan miring kiri di bawahnya sama; goresan terakhir berbeda — 贝 berupa titik, 见 berupa 竖弯钩 (kait)."
+  },
+  {
+   "id": 26,
+   "character": "失",
+   "confusable_with": ["夫"],
+   "note": "失 diawali goresan miring kiri (撇) di bagian atas, sedangkan 夫 diawali garis mendatar."
+  },
+  {
+   "id": 27,
+   "character": "天",
+   "confusable_with": ["夭"],
+   "note": "夭 menggantikan garis mendatar atas 天 dengan goresan miring kiri (撇) di bagian atas."
+  },
+  {
+   "id": 28,
+   "character": "开",
+   "confusable_with": ["井"],
+   "note": "Pada 井, kedua garis tegak memotong kedua garis mendatar (seperti tanda #); pada 开, hanya garis mendatar kedua (bawah) yang ditembus."
+  },
+  {
+   "id": 29,
+   "character": "乌",
+   "confusable_with": ["鸟"],
+   "note": "Perbedaan pada titik — 鸟 memiliki titik di atas, 乌 tidak"
+  },
+  {
+   "id": 30,
+   "character": "龙",
+   "confusable_with": ["尤"],
+   "note": "Perbedaan pada garis miring — 龙 lebih kompleks, 尤 sederhana"
+  },
+  {
+   "id": 31,
+   "character": "方",
+   "confusable_with": ["万"],
+   "note": "Perbedaan pada titik — 方 memiliki titik di atas, 万 tidak"
+  },
+  {
+   "id": 32,
+   "character": "主",
+   "confusable_with": ["王"],
+   "note": "Perbedaan pada titik di atas — 主 = 王 + titik di atas"
+  },
+  {
+   "id": 33,
+   "character": "住",
+   "confusable_with": ["往"],
+   "note": "Perbedaan radikal kiri — 住 (亻 orang) vs 往 (彳 jalan)"
+  },
+  {
+   "id": 34,
+   "character": "体",
+   "confusable_with": ["休"],
+   "note": "Radikal kiri 亻 sama; bagian kanan berbeda — 体 memakai 本 (木 dengan garis tambahan di bawah), 休 memakai 木."
+  },
+  {
+   "id": 35,
+   "character": "末",
+   "confusable_with": ["未"],
+   "note": "Perbedaan panjang garis mendatar — pada 末 garis atas lebih panjang daripada garis bawah, pada 未 garis atas lebih pendek daripada garis bawah."
+  },
+  {
+   "id": 36,
+   "character": "目",
+   "confusable_with": ["自"],
+   "note": "自 = 目 + goresan miring kiri (撇) di bagian atas; garis-garis mendatar di dalam bingkainya sama pada keduanya."
+  },
+  {
+   "id": 37,
+   "character": "暖",
+   "confusable_with": ["缓"],
+   "note": "Perbedaan radikal kiri — 暖 (日 matahari) vs 缓 (纟 sutra)"
+  },
+  {
+   "id": 38,
+   "character": "报",
+   "confusable_with": ["抱"],
+   "note": "报 dan 抱 sama-sama berradikal tangan (扌); bedanya di bagian kanan -- 报 tanpa 包, 抱 dengan 包"
+  },
+  {
+   "id": 39,
+   "character": "持",
+   "confusable_with": ["待"],
+   "note": "Perbedaan radikal kiri — 持 (扌 tangan) vs 待 (彳 jalan)"
+  },
+  {
+   "id": 40,
+   "character": "情",
+   "confusable_with": ["请"],
+   "note": "Perbedaan radikal kiri — 情 (忄 hati) vs 请 (讠 bicara)"
+  },
+  {
+   "id": 41,
+   "character": "清",
+   "confusable_with": ["晴"],
+   "note": "Perbedaan radikal kiri — 清 (氵 air) vs 晴 (日 matahari)"
+  },
+  {
+   "id": 42,
+   "character": "睛",
+   "confusable_with": ["晴"],
+   "note": "Perbedaan radikal kiri — 睛 (目 mata) vs 晴 (日 matahari)"
+  },
+  {
+   "id": 43,
+   "character": "跑",
+   "confusable_with": ["炮"],
+   "note": "Perbedaan radikal kiri — 跑 (足 kaki) vs 炮 (火 api)"
+  },
+  {
+   "id": 44,
+   "character": "城",
+   "confusable_with": ["成"],
+   "note": "城 = 成 + radikal tanah (土)"
+  },
+  {
+   "id": 45,
+   "character": "试",
+   "confusable_with": ["式"],
+   "note": "试 = 式 + radikal bicara (讠)"
+  },
+  {
+   "id": 46,
+   "character": "诚",
+   "confusable_with": ["城"],
+   "note": "Perbedaan radikal kiri — 诚 (讠 bicara) vs 城 (土 tanah)"
+  },
+  {
+   "id": 47,
+   "character": "捡",
+   "confusable_with": ["检"],
+   "note": "Perbedaan radikal kiri — 捡 (扌 tangan) vs 检 (木 kayu)"
+  },
+  {
+   "id": 48,
+   "character": "换",
+   "confusable_with": ["唤"],
+   "note": "Perbedaan radikal kiri — 换 (扌 tangan) vs 唤 (口 mulut)"
+  },
+  {
+   "id": 49,
+   "character": "云",
+   "confusable_with": ["会", "动"],
+   "note": "云 adalah dasar; 会 = 人 (di atas) + 云, sedangkan 动 = 云 + 力 (di kanan)."
+  },
+  {
+   "id": 50,
+   "character": "青",
+   "confusable_with": ["清", "情", "请", "晴"],
+   "note": "Family 青 dengan radikal berbeda — air, hati, bicara, matahari"
+  },
+  {
+   "id": 51,
+   "character": "工",
+   "confusable_with": ["王", "玉"],
+   "note": "Perbedaan garis/titik — 工 (kerja), 王 (raja), 玉 (giok)"
+  },
+  {
+   "id": 52,
+   "character": "土",
+   "confusable_with": ["士"],
+   "note": "土: garis mendatar atas lebih pendek daripada garis bawah; 士: garis mendatar atas lebih panjang daripada garis bawah."
+  },
+  {
+   "id": 53,
+   "character": "贵",
+   "confusable_with": ["货"],
+   "note": "Sama-sama berbagian bawah 贝 (kerang/uang); bedanya di bagian atas -- 贵 ada 中+一, 货 ada 化"
+  },
+  {
+   "id": 54,
+   "character": "木",
+   "confusable_with": ["术", "本"],
+   "note": "术 = 木 + titik miring; 本 = 木 + garis bawah (akar)"
+  },
+  {
+   "id": 55,
+   "character": "猫",
+   "confusable_with": ["描", "锚"],
+   "note": "Radikal kiri berbeda — 猫 (犭 hewan), 描 (扌 tangan), 锚 (钅 logam)"
+  },
+  {
+   "id": 56,
+   "character": "借",
+   "confusable_with": ["惜", "措"],
+   "note": "Radikal kiri berbeda — 借 (亻 orang), 惜 (忄 hati), 措 (扌 tangan)"
+  },
+  {
+   "id": 57,
+   "character": "拉",
+   "confusable_with": ["垃"],
+   "note": "Radikal kiri berbeda — 拉 (扌 tangan) vs 垃 (土 tanah)"
+  },
+  {
+   "id": 58,
+   "character": "辨",
+   "confusable_with": ["辩", "辫", "瓣"],
+   "note": "Komponen di antara dua 辛 berbeda — 辨 (刂 pisau), 辩 (讠 bicara), 辫 (纟 benang), 瓣 (瓜 melon)."
+  },
+  {
+   "id": 59,
+   "character": "戊",
+   "confusable_with": ["戌", "戍", "戎"],
+   "note": "Posisi titik/garis kecil di dalam bingkai berbeda pada tiap karakter"
+  },
+  {
+   "id": 60,
+   "character": "束",
+   "confusable_with": ["刺", "棘"],
+   "note": "刺 = mirip 束 + 刂 (pisau); 棘 = dua 朿 berdampingan"
+  },
+  {
+   "id": 61,
+   "character": "采",
+   "confusable_with": ["彩", "菜"],
+   "note": "彩 = 采 + 彡 (corak warna); 菜 = 艹 (rumput) + 采 (sayur)"
+  },
+  {
+   "id": 62,
+   "character": "候",
+   "confusable_with": ["侯"],
+   "note": "候 memiliki garis vertikal tambahan di tengah yang tidak dimiliki 侯"
+  },
+  {
+   "id": 63,
+   "character": "荒",
+   "confusable_with": ["慌"],
+   "note": "Radikal kiri/atas berbeda — 荒 (艹 rumput) vs 慌 (忄 hati)"
+  },
+  {
+   "id": 64,
+   "character": "瓜",
+   "confusable_with": ["爪"],
+   "note": "Perbedaan posisi titik kecil di dalam bentuk"
+  },
+  {
+   "id": 65,
+   "character": "治",
+   "confusable_with": ["冶"],
+   "note": "Radikal kiri berbeda — 治 (氵 air, tiga titik) vs 冶 (冫 es, dua titik)"
+  },
+  {
+   "id": 66,
+   "character": "拥",
+   "confusable_with": ["佣"],
+   "note": "Radikal kiri berbeda — 拥 (扌 tangan) vs 佣 (亻 orang)"
+  },
+  {
+   "id": 67,
+   "character": "部",
+   "confusable_with": ["陪", "倍", "培"],
+   "note": "Berbagi komponen 咅; radikal pembeda — 阝 (kanan), 阝 (kiri), 亻 (orang), 土 (tanah)"
+  },
+  {
+   "id": 68,
+   "character": "沙",
+   "confusable_with": ["纱", "抄"],
+   "note": "Berbagi komponen 少; radikal pembeda — 氵 (air), 纟 (benang), 扌 (tangan)"
+  },
+  {
+   "id": 69,
+   "character": "淋",
+   "confusable_with": ["林", "森"],
+   "note": "Jumlah 木 berbeda — 淋 (氵 + dua 木), 林 (dua 木), 森 (tiga 木)"
+  },
+  {
+   "id": 70,
+   "character": "责",
+   "confusable_with": ["贵", "员"],
+   "note": "Sama-sama berbagian bawah 贝; bagian atas berbeda"
+  },
+  {
+   "id": 71,
+   "character": "兑",
+   "confusable_with": ["说", "悦", "阅"],
+   "note": "Karakter dasar 兑 dengan radikal tambahan — 说 (讠 bicara), 悦 (忄 hati), 阅 (门 pintu)"
+  },
+  {
+   "id": 72,
+   "character": "干",
+   "confusable_with": ["于"],
+   "note": "Perbedaan pada garis tegak dan panjang garis — 于 punya kait di ujung bawah garis tegak dan garis mendatar atasnya lebih panjang, sedangkan garis tegak 干 lurus tanpa kait."
+  },
+  {
+   "id": 73,
+   "character": "厂",
+   "confusable_with": ["广"],
+   "note": "Keduanya memiliki kerangka 厂; 广 menambahkan satu titik di bagian kiri atas, sedangkan 厂 tidak memiliki titik tersebut."
+  },
+  {
+   "id": 74,
+   "character": "夕",
+   "confusable_with": ["外"],
+   "note": "外 mempertahankan bentuk dasar 夕 lalu menambahkan komponen 卜 di sebelah kanan, sedangkan 夕 tidak memiliki komponen tersebut."
+  },
+  {
+   "id": 75,
+   "character": "电",
+   "confusable_with": ["申"],
+   "note": "Keduanya memiliki kerangka yang hampir sama; pada 电, garis vertikal di bagian bawah berbelok menjadi kait, sedangkan pada 申 garis vertikal terus lurus menembus bagian bawah."
+  },
+  {
+   "id": 76,
+   "character": "门",
+   "confusable_with": ["问", "间", "闻"],
+   "note": "Kerangka luar sama; 门 tidak memiliki komponen di dalam, 问 memiliki 口, 间 memiliki 日, sedangkan 闻 memiliki 耳."
+  },
+  {
+   "id": 77,
+   "character": "回",
+   "confusable_with": ["因", "困"],
+   "note": "Kerangka luar 囗 sama; 回 memiliki 口 di dalam, 因 memiliki 大, sedangkan 困 memiliki 木."
+  },
+  {
+   "id": 78,
+   "character": "国",
+   "confusable_with": ["园", "圆", "团"],
+   "note": "Kerangka luar 囗 sama; 国 berisi 玉, 园 berisi 元, 圆 berisi 员, sedangkan 团 berisi 才."
+  },
+  {
+   "id": 79,
+   "character": "坏",
+   "confusable_with": ["怀", "杯"],
+   "note": "Ketiganya memiliki 不 di bagian kanan; 坏 memakai 土 di kiri, 怀 memakai 忄, sedangkan 杯 memakai 木."
+  },
+  {
+   "id": 80,
+   "character": "他",
+   "confusable_with": ["她", "地", "池"],
+   "note": "Ketiganya memiliki 也 di bagian kanan; 他 memakai 亻 di kiri, 她 memakai 女, 地 memakai 土, sedangkan 池 memakai 氵."
+  },
+  {
+   "id": 81,
+   "character": "识",
+   "confusable_with": ["织", "职"],
+   "note": "Ketiganya memiliki 只 di bagian kanan; 识 memakai 讠 di kiri, 织 memakai 纟, sedangkan 职 memakai 耳."
+  },
+  {
+   "id": 82,
+   "character": "很",
+   "confusable_with": ["恨", "狠"],
+   "note": "Ketiganya memiliki 艮 di bagian kanan; 很 memakai 彳 di kiri, 恨 memakai 忄, sedangkan 狠 memakai 犭."
+  },
+  {
+   "id": 83,
+   "character": "根",
+   "confusable_with": ["跟", "银"],
+   "note": "Ketiganya memiliki 艮 di bagian kanan; 根 memakai 木 di kiri, 跟 memakai 足, sedangkan 银 memakai 钅."
+  },
+  {
+   "id": 84,
+   "character": "课",
+   "confusable_with": ["棵", "颗"],
+   "note": "课 dan 棵 memakai 果 di kanan (讠 dan 木 di kiri), sedangkan 颗 membalik posisinya: 果 di kiri dan 页 di kanan."
+  },
+  {
+   "id": 85,
+   "character": "河",
+   "confusable_with": ["何"],
+   "note": "Keduanya memiliki 可 di bagian kanan; 河 memakai 氵 di kiri, sedangkan 何 memakai 亻."
+  },
+  {
+   "id": 86,
+   "character": "种",
+   "confusable_with": ["钟", "肿"],
+   "note": "Ketiganya memiliki 中 di bagian kanan; 种 memakai 禾 di kiri, 钟 memakai 钅, sedangkan 肿 memakai 月."
+  },
+  {
+   "id": 87,
+   "character": "姐",
+   "confusable_with": ["组", "阻"],
+   "note": "Ketiganya memiliki 且 di bagian kanan; 姐 memakai 女 di kiri, 组 memakai 纟, sedangkan 阻 memakai 阝."
+  },
+  {
+   "id": 88,
+   "character": "租",
+   "confusable_with": ["祖", "组"],
+   "note": "Ketiganya memiliki 且 di bagian kanan; 租 memakai 禾 di kiri, 祖 memakai 礻, sedangkan 组 memakai 纟."
+  },
+  {
+   "id": 89,
+   "character": "路",
+   "confusable_with": ["格", "客"],
+   "note": "路 dan 格 memakai 各 di kanan (足 dan 木 di kiri), sedangkan 客 menaruh 各 di bawah 宀."
+  },
+  {
+   "id": 90,
+   "character": "落",
+   "confusable_with": ["洛"],
+   "note": "落 memiliki 洛 sebagai bagian bawah lalu menambahkan 艹 di atas, sedangkan 洛 tidak memiliki 艹; keduanya sama-sama memiliki 氵 di kiri dan 各 di kanan pada bagian bawah."
+  },
+  {
+   "id": 91,
+   "character": "妈",
+   "confusable_with": ["吗", "码", "蚂"],
+   "note": "Ketiganya memiliki 马 di bagian kanan; 妈 memakai 女 di kiri, 吗 memakai 口, 码 memakai 石, sedangkan 蚂 memakai 虫."
+  },
+  {
+   "id": 92,
+   "character": "纸",
+   "confusable_with": ["低"],
+   "note": "纸 = 纟+氏, sedangkan 低 = 亻+氐; bagian kanan 氏 pada 纸 berbeda dari 氐 pada 低 karena 氐 memiliki tambahan satu titik."
+  },
+  {
+   "id": 93,
+   "character": "访",
+   "confusable_with": ["防", "芳"],
+   "note": "访 dan 防 memakai 方 di kanan (讠 dan 阝 di kiri), sedangkan 芳 menaruh 方 di bawah 艹."
+  },
+  {
+   "id": 94,
+   "character": "旁",
+   "confusable_with": ["榜", "傍"],
+   "note": "旁 menjadi bagian kanan dari 榜 dan 傍; 榜 menambahkan 木 di kiri, sedangkan 傍 menambahkan 亻 di kiri."
+  },
+  {
+   "id": 95,
+   "character": "桃",
+   "confusable_with": ["跳", "逃"],
+   "note": "Ketiganya memiliki 兆 di bagian kanan; 桃 memakai 木 di kiri, 跳 memakai 足, sedangkan 逃 memakai 辶."
+  },
+  {
+   "id": 96,
+   "character": "玻",
+   "confusable_with": ["坡", "破"],
+   "note": "Ketiganya memiliki 皮 di bagian kanan; 玻 memakai 王 di kiri, 坡 memakai 土, sedangkan 破 memakai 石."
+  },
+  {
+   "id": 97,
+   "character": "场",
+   "confusable_with": ["扬", "杨"],
+   "note": "Ketiganya memiliki 昜 di bagian kanan; 场 memakai 土 di kiri, 扬 memakai 扌, sedangkan 杨 memakai 木."
+  },
+  {
+   "id": 98,
+   "character": "练",
+   "confusable_with": ["炼"],
+   "note": "Keduanya memiliki 东 di bagian kanan; 练 memakai 纟 di kiri, sedangkan 炼 memakai 火."
+  },
+  {
+   "id": 99,
+   "character": "刚",
+   "confusable_with": ["钢"],
+   "note": "Keduanya sama-sama memiliki 冈; pada 刚, 冈 berada di kiri dan 刂 di kanan, sedangkan pada 钢, 钅 berada di kiri dan 冈 di kanan."
+  },
+  {
+   "id": 100,
+   "character": "功",
+   "confusable_with": ["攻"],
+   "note": "Keduanya memiliki 工 di bagian kiri; 功 menambahkan 力 di kanan, sedangkan 攻 menambahkan 攵."
+  },
+  {
+   "id": 101,
+   "character": "历",
+   "confusable_with": ["厉", "励"],
+   "note": "Ketiganya diawali dengan 厂; 历 memiliki 力 di bawahnya, 厉 memiliki 万, sedangkan 励 memiliki 万 dan tambahan 力."
+  },
+  {
+   "id": 102,
+   "character": "庄",
+   "confusable_with": ["床", "压"],
+   "note": "庄 = 广+土, 床 = 广+木, sedangkan 压 = 厂+土+丶; perbedaannya terletak pada komponen bawah serta ada atau tidaknya titik pada bagian atas."
+  },
+  {
+   "id": 103,
+   "character": "完",
+   "confusable_with": ["玩", "远"],
+   "note": "Ketiganya memiliki 元 sebagai bagian utama; 完 memakai 宀 di atas, 玩 memakai 王 di kiri, sedangkan 远 memakai 辶 di luar kiri-bawah."
+  },
+  {
+   "id": 104,
+   "character": "看",
+   "confusable_with": ["着"],
+   "note": "Keduanya memiliki 目 di bagian bawah; 看 memakai 手 di atas, sedangkan 着 memakai 羊 di atas."
+  },
+  {
+   "id": 105,
+   "character": "段",
+   "confusable_with": ["锻"],
+   "note": "Keduanya mempertahankan seluruh bagian 段; 锻 menambahkan 钅 di sebelah kiri, sedangkan 段 tidak memiliki komponen tersebut."
+  },
+  {
+   "id": 106,
+   "character": "烧",
+   "confusable_with": ["浇", "晓"],
+   "note": "Ketiganya memiliki 尧 di bagian kanan; 烧 memakai 火 di kiri, 浇 memakai 氵, sedangkan 晓 memakai 日."
+  },
+  {
+   "id": 107,
+   "character": "消",
+   "confusable_with": ["稍", "哨"],
+   "note": "Ketiganya memiliki 肖 di bagian kanan; 消 memakai 氵 di kiri, 稍 memakai 禾, sedangkan 哨 memakai 口."
+  },
+  {
+   "id": 108,
+   "character": "妙",
+   "confusable_with": ["秒", "抄"],
+   "note": "Ketiganya memiliki 少 di bagian kanan; 妙 memakai 女 di kiri, 秒 memakai 禾, sedangkan 抄 memakai 扌."
+  },
+  {
+   "id": 109,
+   "character": "折",
+   "confusable_with": ["析", "拆"],
+   "note": "折 = 扌+斤 dan 析 = 木+斤, sedangkan 拆 = 扌+斥; 斥 bentuknya mirip 斤 sehingga mudah tertukar."
+  },
+  {
+   "id": 110,
+   "character": "海",
+   "confusable_with": ["悔", "梅"],
+   "note": "Ketiganya memiliki 每 di bagian kanan; 海 memakai 氵 di kiri, 悔 memakai 忄, sedangkan 梅 memakai 木."
+  },
+  {
+   "id": 111,
+   "character": "玉",
+   "confusable_with": ["主"],
+   "note": "Letak titik berbeda: 玉 memiliki titik di kanan bawah bentuk 王, sedangkan 主 memiliki titik di atas."
+  },
+  {
+   "id": 112,
+   "character": "天",
+   "confusable_with": ["夫"],
+   "note": "Keduanya terdiri atas dua garis mendatar di atas 人; bedanya terletak pada perbandingan panjang kedua garis mendatar itu."
+  },
+  {
+   "id": 113,
+   "character": "户",
+   "confusable_with": ["尸"],
+   "note": "Perbedaan terdapat pada titik pendek di kiri atas: 户 memiliki titik tambahan, sedangkan 尸 tidak."
+  },
+  {
+   "id": 114,
+   "character": "寸",
+   "confusable_with": ["才"],
+   "note": "Goresan tambahannya berbeda: 寸 memiliki titik di kanan, sedangkan 才 memiliki goresan miring ke kiri bawah."
+  },
+  {
+   "id": 115,
+   "character": "正",
+   "confusable_with": ["止"],
+   "note": "正 memiliki satu garis mendatar tambahan di bagian paling atas dibandingkan 止."
+  },
+  {
+   "id": 116,
+   "character": "日",
+   "confusable_with": ["白", "目"],
+   "note": "白 memiliki goresan miring pendek di kiri atas yang tidak ada pada 日; 目 memiliki satu garis mendatar tambahan di dalam bingkai dibandingkan 日."
+  },
+  {
+   "id": 117,
+   "character": "白",
+   "confusable_with": ["自"],
+   "note": "自 memiliki dua garis mendatar di dalam bingkai, sedangkan 白 hanya memiliki satu."
+  },
+  {
+   "id": 118,
+   "character": "田",
+   "confusable_with": ["由", "甲", "申"],
+   "note": "Garis tegak tengah: 田 tidak menonjol keluar bingkai; 由 menonjol ke atas; 甲 menonjol ke bawah; 申 menonjol ke atas dan ke bawah."
+  },
+  {
+   "id": 119,
+   "character": "木",
+   "confusable_with": ["禾"],
+   "note": "Goresan paling atas berbeda: 木 dimulai dengan garis mendatar, sedangkan 禾 dimulai dengan goresan miring ke kiri."
+  },
+  {
+   "id": 120,
+   "character": "本",
+   "confusable_with": ["末"],
+   "note": "Letak garis mendatar tambahannya berbeda: 本 memiliki garis tambahan di bawah persilangan tengah, sedangkan 末 memiliki garis tambahan di bagian atas."
+  },
+  {
+   "id": 121,
+   "character": "羊",
+   "confusable_with": ["半"],
+   "note": "羊 memiliki satu garis mendatar tambahan di bagian tengah dibandingkan 半."
+  },
+  {
+   "id": 122,
+   "character": "兵",
+   "confusable_with": ["乒", "乓"],
+   "note": "Goresan bagian bawah berbeda: 兵 memiliki goresan miring kiri dan titik kanan, 乒 hanya memiliki goresan miring kiri, sedangkan 乓 hanya memiliki titik kanan."
+  },
+  {
+   "id": 123,
+   "character": "丸",
+   "confusable_with": ["九"],
+   "note": "丸 pada dasarnya adalah 九 dengan satu titik tambahan."
+  },
+  {
+   "id": 124,
+   "character": "凡",
+   "confusable_with": ["几"],
+   "note": "凡 memiliki satu titik tambahan di bagian dalam bentuk lengkung yang tidak terdapat pada 几."
+  },
+  {
+   "id": 125,
+   "character": "火",
+   "confusable_with": ["灭"],
+   "note": "灭 memiliki satu garis mendatar tambahan di atas bentuk 火."
+  },
+  {
+   "id": 126,
+   "character": "古",
+   "confusable_with": ["占"],
+   "note": "Komponen atas berbeda: 古 memiliki 十, sedangkan 占 memiliki 卜; keduanya memiliki 口 di bagian bawah."
+  },
+  {
+   "id": 127,
+   "character": "币",
+   "confusable_with": ["巾"],
+   "note": "币 pada dasarnya adalah 巾 dengan satu goresan tambahan."
+  },
+  {
+   "id": 128,
+   "character": "千",
+   "confusable_with": ["十"],
+   "note": "千 memiliki satu goresan miring ke kiri di bagian atas, sedangkan 十 tidak."
+  },
+  {
+   "id": 129,
+   "character": "去",
+   "confusable_with": ["云", "丢"],
+   "note": "Dibandingkan 云, 去 memiliki garis tegak pada komponen atas 土; dibandingkan 丢, 去 tidak memiliki goresan miring tambahan di kiri atas."
+  },
+  {
+   "id": 130,
+   "character": "手",
+   "confusable_with": ["毛"],
+   "note": "Bentuk goresan terakhir berbeda: 手 memiliki kait tegak di bagian tengah, sedangkan 毛 memiliki kait melengkung di sisi kanan."
+  },
+  {
+   "id": 131,
+   "character": "区",
+   "confusable_with": ["匹"],
+   "note": "Komponen di dalam bingkai terbuka berbeda: 区 memiliki dua goresan bersilangan membentuk 乂, sedangkan 匹 memiliki bentuk 儿."
+  },
+  {
+   "id": 132,
+   "character": "刀",
+   "confusable_with": ["刃"],
+   "note": "刃 pada dasarnya adalah 刀 dengan satu titik tambahan (menandai bagian yang tajam)."
+  },
+  {
+   "id": 133,
+   "character": "石",
+   "confusable_with": ["右"],
+   "note": "石 dan 右 sama-sama memakai 口 di bawah garis mendatar; bedanya pada panjang 撇 (goresan miring kiri), yang lebih panjang pada 石 dan lebih pendek pada 右."
+  },
+  {
+   "id": 134,
+   "character": "人",
+   "confusable_with": ["个", "大"],
+   "note": "个 memiliki satu garis tegak tambahan di bagian tengah; 大 memiliki satu garis mendatar tambahan di bagian atas, di antara dua goresan miring."
+  },
+  {
+   "id": 135,
+   "character": "了",
+   "confusable_with": ["子"],
+   "note": "子 pada dasarnya adalah 了 dengan satu garis mendatar tambahan yang memotong garis tegak."
+  },
+  {
+   "id": 136,
+   "character": "二",
+   "confusable_with": ["三", "于"],
+   "note": "三 memiliki tiga garis mendatar, sedangkan 二 hanya memiliki dua. 于 memiliki dua garis mendatar dan satu garis tegak berkait di bagian tengah."
+  },
+  {
+   "id": 137,
+   "character": "十",
+   "confusable_with": ["干", "土"],
+   "note": "十 memiliki satu garis mendatar dan satu garis tegak. 干 memiliki dua garis mendatar dengan garis tegak melewati keduanya. 土 juga memiliki dua garis mendatar, tetapi garis mendatarnya yang bawah menjadi alas."
+  },
+  {
+   "id": 138,
+   "character": "土",
+   "confusable_with": ["王"],
+   "note": "王 memiliki tiga garis mendatar yang dihubungkan satu garis tegak, sedangkan 土 hanya memiliki dua garis mendatar."
+  },
+  {
+   "id": 139,
+   "character": "心",
+   "confusable_with": ["必"],
+   "note": "必 pada dasarnya adalah 心 dengan satu goresan miring kiri (撇) tambahan."
+  },
+  {
+   "id": 140,
+   "character": "上",
+   "confusable_with": ["止"],
+   "note": "止 pada dasarnya adalah 上 dengan satu garis tegak tambahan."
+  },
+  {
+   "id": 141,
+   "character": "弓",
+   "confusable_with": ["引"],
+   "note": "引 memiliki satu garis tegak tambahan di sebelah kanan 弓."
+  },
+  {
+   "id": 142,
+   "character": "内",
+   "confusable_with": ["丙"],
+   "note": "丙 memiliki satu garis mendatar tambahan di bagian paling atas, sedangkan 内 tidak memilikinya."
+  },
+  {
+   "id": 143,
+   "character": "从",
+   "confusable_with": ["丛"],
+   "note": "丛 memiliki satu garis mendatar tambahan di bawah dua komponen 人."
+  },
+  {
+   "id": 144,
+   "character": "口",
+   "confusable_with": ["中", "日", "曰"],
+   "note": "中 memiliki satu garis tegak tambahan yang menembus bingkai atas dan bawah. 日 dan 曰 masing-masing memiliki satu garis mendatar di dalam bingkai; bentuk 日 cenderung lebih tegak, sedangkan 曰 lebih melebar."
+  },
+  {
+   "id": 145,
+   "character": "曰",
+   "confusable_with": ["电"],
+   "note": "电 memiliki goresan tegak berkait yang memanjang keluar dari bingkai di bagian bawah, sedangkan 曰 tidak memilikinya."
+  },
+  {
+   "id": 146,
+   "character": "三",
+   "confusable_with": ["丰"],
+   "note": "丰 memiliki satu garis tegak tambahan yang memotong tiga garis mendatar."
+  },
+  {
+   "id": 147,
+   "character": "业",
+   "confusable_with": ["亚"],
+   "note": "亚 memiliki satu garis mendatar tambahan di bagian paling atas dibandingkan 业."
+  },
+  {
+   "id": 148,
+   "character": "之",
+   "confusable_with": ["乏"],
+   "note": "乏 memiliki satu goresan miring ke kiri tambahan di bagian kiri atas dibandingkan 之."
+  },
+  {
+   "id": 149,
+   "character": "勿",
+   "confusable_with": ["匆"],
+   "note": "匆 memiliki satu titik tambahan di bagian dalam, sedangkan 勿 tidak memilikinya."
+  },
+  {
+   "id": 150,
+   "character": "卜",
+   "confusable_with": ["下"],
+   "note": "下 memiliki satu garis mendatar tambahan di bagian atas dibandingkan 卜."
+  },
+  {
+   "id": 151,
+   "character": "夕",
+   "confusable_with": ["歹"],
+   "note": "歹 memiliki satu garis mendatar tambahan di bagian paling atas dibandingkan 夕."
+  },
+  {
+   "id": 152,
+   "character": "大",
+   "confusable_with": ["天", "夫"],
+   "note": "天 memiliki satu garis mendatar tambahan di atas 大. 夫 juga memiliki satu garis mendatar tambahan, tetapi posisi dan panjang kedua garis mendatarnya berbeda dari 天."
+  },
+  {
+   "id": 153,
+   "character": "天",
+   "confusable_with": ["矢"],
+   "note": "矢 memiliki satu goresan miring ke kiri di bagian atas, sedangkan 天 tidak memilikinya."
+  },
+  {
+   "id": 154,
+   "character": "尸",
+   "confusable_with": ["尺"],
+   "note": "尺 memiliki satu goresan tambahan yang memanjang ke kanan bawah, sedangkan 尸 tidak memilikinya."
+  },
+  {
+   "id": 155,
+   "character": "干",
+   "confusable_with": ["午"],
+   "note": "午 memiliki goresan miring ke kiri di bagian atas, sedangkan 干 memiliki garis mendatar pada posisi tersebut."
+  },
+  {
+   "id": 156,
+   "character": "斤",
+   "confusable_with": ["斥"],
+   "note": "斥 pada dasarnya adalah 斤 dengan satu titik tambahan."
+  },
+  {
+   "id": 157,
+   "character": "日",
+   "confusable_with": ["旧", "旦", "申"],
+   "note": "旧 memiliki satu garis tegak tambahan di sebelah kiri 日. 旦 memiliki satu garis mendatar tambahan di bawah 日. 申 memiliki satu garis tegak yang menembus bingkai atas dan bawah."
+  },
+  {
+   "id": 158,
+   "character": "木",
+   "confusable_with": ["未", "末"],
+   "note": "未 dan 末 masing-masing adalah 木 dengan satu garis mendatar tambahan di atasnya; bedanya terletak pada panjang relatif kedua garis mendatar (garis atas dan garis bawah)."
+  },
+  {
+   "id": 159,
+   "character": "子",
+   "confusable_with": ["孔"],
+   "note": "孔 pada dasarnya adalah 子 dengan satu goresan berkait (乚) tambahan di sisi kanan."
+  },
+  {
+   "id": 160,
+   "character": "舌",
+   "confusable_with": ["乱"],
+   "note": "乱 pada dasarnya adalah 舌 dengan satu goresan berkait (乚) tambahan di sisi kanan."
+  }
+ ],
+ "metadata": {
+  "total_groups": 160,
+  "total_characters": 328,
+  "notes": "Gabungan confusion_groups.json awal (19 kelompok) + confusion_groups_expanded.json dari رسلان (52 kelompok) + batch tambahan Claude (18 kelompok, id 54-71), sudah dibersihkan dari duplikat. | Ekspansi 2026-10-14: +39 grup (id 72-110). | Ekspansi 2026-10-19: +22 grup (id 111-132). | Ekspansi 2026-10-23: +1 grup (id 133-133). | Ekspansi 2026-10-24: +27 grup (id 134-160). | Perbaikan note 2026-10-24: 14 grup lama (id 1, 2, 4, 13, 20, 25, 26, 27, 34, 35, 36, 49, 52, 58). | Perbaikan note 2026-10-24: 3 grup lama (id 11, 15, 28)."
+ }
+}
