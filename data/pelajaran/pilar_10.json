@@ -1,0 +1,2049 @@
+{
+  "pilar": 10,
+  "judul": "PRAGMATIK, BUDAYA, DAN EKSPRESI LISAN",
+  "ringkasan": "Pilar ini membahas sisi sosial dan budaya bahasa Mandarin: bagaimana emosi, kesopanan, konteks, bahasa tubuh, tabu, humor, ekspresi lisan, register formal-informal, hingga bahasa gaul internet membuat ucapan terdengar alami dan sesuai situasi. Tata bahasa yang benar belum tentu terdengar manusiawi; pemahaman pragmatik membantu pembelajar mengetahui bukan hanya apa yang dikatakan, tetapi juga bagaimana, kapan, dan kepada siapa sesuatu dikatakan.",
+  "bagian": [
+    {
+      "judul": "1. Kata Seru 叹词 — Musik Emosi dalam Satu Suku Kata",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Kata seru dalam Mandarin sangat bergantung pada nada. Suku kata yang sama dapat menghasilkan emosi yang sangat berbeda ketika nadanya berubah, sehingga kata seru sebaiknya dipelajari sebagai unit bunyi-plus-nada-plus-situasi, bukan sekadar karakter dengan satu arti tetap. Karena kata seru sering diucapkan spontan dan cepat, penutur asli kadang menuliskannya dengan karakter yang berbeda-beda (misalnya 唉 dan 哎 dapat saling menggantikan dalam tulisan informal) karena fungsi utamanya adalah bunyi dan nada, bukan makna karakter itu sendiri."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Kata seru dapat dikelompokkan menurut fungsi emosinya: (1) keterkejutan atau pencerahan mendadak — 啊 nada 1, 咦, 诶; (2) permintaan pengulangan atau keheranan — 啊 nada 2, 什么; (3) keluhan, penyesalan, atau kekecewaan ringan — 唉, 咳; (4) memanggil perhatian dari jarak — 诶, 嘿; dan (5) reaksi simbolis terhadap sesuatu yang dianggap jijik atau sial — 呸. Mengelompokkan kata seru dengan cara ini membantu pembelajar menebak fungsi kata seru baru yang belum pernah didengar, berdasarkan bunyi dan konteks kemunculannya."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata seru",
+            "Pinyin/nada",
+            "Fungsi atau nuansa"
+          ],
+          "baris": [
+            [
+              "啊",
+              "ā — nada 1",
+              "Terkejut atau mendapat pencerahan"
+            ],
+            [
+              "啊",
+              "á — nada 2",
+              "Heran atau meminta pengulangan"
+            ],
+            [
+              "啊",
+              "ǎ — nada 3",
+              "Bingung atau tidak percaya"
+            ],
+            [
+              "啊",
+              "à — nada 4",
+              "Persetujuan, kesadaran mendadak, atau kekesalan"
+            ],
+            [
+              "咦",
+              "yí",
+              "Rasa heran atau ingin tahu ketika melihat sesuatu yang tidak terduga, mirip 'lho?' atau 'eh?'"
+            ],
+            [
+              "哦",
+              "ò",
+              "Menunjukkan bahwa pembicara memahami atau menyadari sesuatu; sangat umum dalam percakapan WeChat"
+            ],
+            [
+              "嗯",
+              "ǹg / ēn",
+              "Mirip hmm atau uh-huh; nada naik dapat bermakna ya? ada apa?, sedangkan nada datar berarti iya atau setuju"
+            ],
+            [
+              "唉",
+              "āi",
+              "Frustrasi, keputusasaan, atau keluhan ringan, sering diikuti helaan napas"
+            ],
+            [
+              "诶",
+              "éi / èi",
+              "Memanggil orang dari kejauhan atau menunjukkan keterkejutan"
+            ],
+            [
+              "嘿",
+              "hēi",
+              "Menarik perhatian, mirip hey; juga dipakai untuk menyapa dengan nada akrab"
+            ],
+            [
+              "咳",
+              "hāi",
+              "Menunjukkan penyesalan atau kekecewaan, mirip menghela napas sambil bicara"
+            ],
+            [
+              "呸",
+              "pēi",
+              "Meludah secara simbolis, mengekspresikan jijik, atau membantah takhayul; juga dipakai untuk menangkal sial"
+            ],
+            [
+              "哎哟喂",
+              "āiyō wēi",
+              "Versi dramatis dari aduh, sering digunakan berlebihan untuk efek komedi"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "啊！我想起来了！",
+              "pinyin": "Ā! Wǒ xiǎng qǐlái le!",
+              "arti": "Ah! Saya ingat sekarang!",
+              "catatan": "啖 dengan nada 1 dapat menunjukkan keterkejutan atau pencerahan."
+            },
+            {
+              "hanzi": "啊？你说什么？",
+              "pinyin": "Á? Nǐ shuō shénme?",
+              "arti": "Hah? Apa katamu?",
+              "catatan": "啊 dengan nada 2 dapat menunjukkan keheranan atau permintaan pengulangan."
+            },
+            {
+              "hanzi": "啊？真的？",
+              "pinyin": "Ǎ? Zhēn de?",
+              "arti": "Hah? Sungguh?",
+              "catatan": "啊 dengan nada 3 dapat menunjukkan kebingungan atau ketidakpercayaan."
+            },
+            {
+              "hanzi": "啊！好吧！",
+              "pinyin": "À! Hǎo ba!",
+              "arti": "Ah! Baiklah!",
+              "catatan": "啊 dengan nada 4 dapat menunjukkan persetujuan atau kesadaran mendadak."
+            },
+            {
+              "hanzi": "咦？我的手机呢？",
+              "pinyin": "Yí? Wǒ de shǒujī ne?",
+              "arti": "Lho? Ponsel saya mana?",
+              "catatan": "咦 muncul ketika seseorang menyadari sesuatu yang tidak sesuai harapan, seperti barang yang tiba-tiba tidak ada."
+            },
+            {
+              "hanzi": "唉，算了吧。",
+              "pinyin": "Āi, suàn le ba.",
+              "arti": "Ah, sudahlah.",
+              "catatan": "唉 menunjukkan kepasrahan atau kekecewaan ringan sebelum melepaskan suatu masalah."
+            },
+            {
+              "hanzi": "诶！你怎么在这儿？",
+              "pinyin": "Éi! Nǐ zěnme zài zhèr?",
+              "arti": "Eh! Kenapa kamu di sini?",
+              "catatan": "诶 dipakai spontan saat bertemu seseorang tak terduga di suatu tempat."
+            },
+            {
+              "hanzi": "呸！别乱说话！",
+              "pinyin": "Pēi! Bié luàn shuōhuà!",
+              "arti": "Cih! Jangan bicara sembarangan!",
+              "catatan": "呸 di sini berfungsi simbolis untuk menolak ucapan yang dianggap membawa sial, bukan meludah sungguhan."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Kelompok keterkejutan/pencerahan: 啊(nada1), 咦, 诶.",
+            "Kelompok heran/minta ulang: 啊(nada2).",
+            "Kelompok bingung/tak percaya: 啊(nada3).",
+            "Kelompok setuju/sadar mendadak/kesal: 啊(nada4).",
+            "Kelompok keluhan/penyesalan: 唉, 咳.",
+            "Kelompok memanggil perhatian: 诶, 嘿.",
+            "Kelompok simbolis menolak sial: 呸."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan mempelajari kata seru hanya sebagai karakter dan arti kamus. Nada suara sangat menentukan emosi dan maksudnya, terutama pada 啊 dan 嗯. Kesalahan umum pembelajar Indonesia adalah mengucapkan semua kata seru dengan nada datar seperti membaca daftar kata, padahal penutur asli justru memanjangkan atau menekuk nada kata seru sesuai emosi yang dirasakan saat itu juga."
+        }
+      ]
+    },
+    {
+      "judul": "2. Onomatope 拟声词 — Menghidupkan Cerita",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Onomatope atau 拟声词 adalah kata yang menirukan suara benda, alam, hewan, atau aktivitas. Penggunaannya membuat cerita dan percakapan terasa lebih hidup karena pendengar seolah dapat membayangkan suara yang sedang terjadi. Penutur Mandarin, terutama dalam cerita lisan, komik, dan pesan singkat, jauh lebih sering memasukkan onomatope ke tengah kalimat dibanding penutur bahasa Indonesia, sehingga pembelajar perlu membiasakan diri mendengar dan menggunakannya, bukan hanya menghafalnya sebagai daftar kosakata terpisah."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Onomatope Mandarin dapat dikelompokkan berdasarkan sumber suaranya: suara benda dan alam (叮咚, 哗啦, 轰隆), suara keramaian atau percakapan (叽叽喳喳), suara aksi cepat atau meriah (噼里啪啦), suara hewan (汪汪, 喵喵), suara tubuh atau proses (咕噜咕噜), dan suara tawa (哈哈, 呵呵). Banyak onomatope dalam Mandarin berbentuk reduplikasi dua suku kata (AABB atau ABAB) yang meniru pengulangan bunyi asli, seperti getaran suara ayam yang ribut atau bunyi petasan yang bersambungan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Onomatope",
+            "Pinyin",
+            "Makna atau penggunaan"
+          ],
+          "baris": [
+            [
+              "叮咚",
+              "dīngdōng",
+              "Suara bel pintu atau notifikasi ponsel"
+            ],
+            [
+              "哗啦",
+              "huālā",
+              "Suara air mengalir deras atau benda-benda jatuh berhamburan"
+            ],
+            [
+              "轰隆",
+              "hōnglōng",
+              "Suara guntur, ledakan, atau sesuatu yang besar dan bergemuruh"
+            ],
+            [
+              "叽叽喳喳",
+              "jījizhāzhā",
+              "Suara orang ramai dan ribut bercakap-cakap, seperti kicauan burung"
+            ],
+            [
+              "噼里啪啦",
+              "pīlipālā",
+              "Suara petasan, tepuk tangan meriah, atau suara mengetik dengan cepat"
+            ],
+            [
+              "汪汪",
+              "wāngwāng",
+              "Suara gonggongan anjing"
+            ],
+            [
+              "喵喵",
+              "miāomiāo",
+              "Suara kucing mengeong"
+            ],
+            [
+              "咕噜咕噜",
+              "gūlūgūlū",
+              "Suara perut lapar, air mendidih, atau cairan yang bergejolak"
+            ],
+            [
+              "啪嗒",
+              "pādā",
+              "Suara benda kecil jatuh atau bunyi ringan ketika mengenai permukaan"
+            ],
+            [
+              "哈哈",
+              "hāhā",
+              "Tawa keras dan wajar"
+            ],
+            [
+              "呵呵",
+              "hēhē",
+              "Secara literal merupakan tawa, tetapi dalam komunikasi internet modern sering bernuansa sinis atau mengejek"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "门口叮咚一响，快递到了。",
+              "pinyin": "Ménkǒu dīngdōng yī xiǎng, kuàidì dào le.",
+              "arti": "Bel pintu berbunyi ding-dong, paket sudah datang.",
+              "catatan": "叮咚 menirukan bunyi bel pintu atau notifikasi ponsel."
+            },
+            {
+              "hanzi": "外面哗啦哗啦下大雨。",
+              "pinyin": "Wàimiàn huālā huālā xià dàyǔ.",
+              "arti": "Di luar hujan deras, suaranya deras sekali.",
+              "catatan": "哗啦 dipakai untuk suara air atau hujan yang mengalir deras."
+            },
+            {
+              "hanzi": "教室里叽叽喳喳的，很热闹。",
+              "pinyin": "Jiàoshì lǐ jījizhāzhā de, hěn rènao.",
+              "arti": "Di kelas ramai bercakap-cakap, suasananya meriah.",
+              "catatan": "叽叽喳喳 menggambarkan suasana ribut namun hidup, sering berpasangan dengan konsep 热闹."
+            },
+            {
+              "hanzi": "我的肚子咕噜咕噜叫。",
+              "pinyin": "Wǒ de dùzi gūlūgūlū jiào.",
+              "arti": "Perut saya berbunyi keroncongan.",
+              "catatan": "咕噜咕噜 dapat menirukan suara perut lapar maupun air yang mendidih."
+            },
+            {
+              "hanzi": "钱包啪嗒一声掉在地上。",
+              "pinyin": "Qiánbāo pādā yī shēng diào zài dìshang.",
+              "arti": "Dompet jatuh ke lantai dengan bunyi pletak.",
+              "catatan": "啪嗒 menirukan bunyi benda kecil dan ringan yang jatuh."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Perbedaan antara 哈哈 dan 呵呵 sangat penting dalam komunikasi digital. 哈哈 lazim dipakai untuk menunjukkan tawa yang tulus dan hangat, sedangkan 呵呵 dalam penggunaan internet modern dapat terdengar seperti senyum sinis, ejekan, atau sinyal bahwa pembicara sudah malas melanjutkan percakapan. Membalas pesan panjang seseorang hanya dengan 呵呵 sering dianggap sebagai tanda ketidaktertarikan atau bahkan ejekan halus."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menerjemahkan semua onomatope secara harfiah atau menganggapnya sekadar hiasan cerita. Nilai emosionalnya sangat bergantung pada konteks, dan sebagian, seperti 呵呵, dapat berubah makna drastis dari tawa hangat menjadi sindiran dingin tergantung siapa yang mengucapkannya dan dalam medium apa (percakapan langsung vs pesan teks)."
+        }
+      ]
+    },
+    {
+      "judul": "3. Homofon, Tabu, dan Kepercayaan Kolektif",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Karena Mandarin memiliki sangat banyak karakter dengan bunyi yang sama atau mirip (homofon), masyarakat Tionghoa memiliki kepekaan tinggi terhadap bunyi kata dalam kehidupan sehari-hari. Kesadaran terhadap homofon ini memengaruhi pemberian hadiah, pemilihan angka, penataan gedung, cara makan bersama, hingga cara berbicara mengenai kematian. Fenomena ini bukan sekadar takhayul kuno; banyak pengembang properti, pedagang, dan generasi muda modern tetap memperhatikan pantangan-pantangan ini karena sudah mengakar dalam kebiasaan sosial."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hal",
+            "Bunyi atau hubungan",
+            "Makna budaya"
+          ],
+          "baris": [
+            [
+              "Angka 4",
+              "sì mirip 死 sǐ",
+              "Angka 4 dihindari karena bunyinya mirip dengan mati; banyak gedung melewati lantai 4, 14, 24, dan rentang 40–49"
+            ],
+            [
+              "Angka 8",
+              "bā mirip 发 fā",
+              "Dipandang sangat beruntung karena diasosiasikan dengan kemakmuran atau rezeki (发财)"
+            ],
+            [
+              "Angka 6",
+              "liù dalam 六六大顺",
+              "Dianggap membawa kelancaran; ungkapan 六六大顺 berarti segalanya berjalan lancar"
+            ],
+            [
+              "Angka 9",
+              "jiǔ mirip 久 jiǔ",
+              "Diasosiasikan dengan sesuatu yang langgeng atau abadi; sering dipakai dalam konteks romantis, misalnya memberi 999 tangkai bunga"
+            ],
+            [
+              "Memberikan jam",
+              "送钟 sòng zhōng mirip 送终 sòngzhōng",
+              "Dianggap tabu besar karena bunyinya berasosiasi dengan mengantar kematian, terutama sebagai hadiah untuk orang tua"
+            ],
+            [
+              "Membelah pir",
+              "分梨 fēn lí mirip 分离 fēnlí",
+              "Dihindari saat makan bersama karena berasosiasi dengan perpisahan"
+            ],
+            [
+              "Memberi sepatu",
+              "鞋 xié mirip 邪 xié",
+              "Dianggap kurang baik karena diasosiasikan dengan hal jahat/sial; penerima biasanya diminta membayar sejumlah kecil uang simbolis agar hadiah dianggap 'dibeli', bukan diberi cuma-cuma"
+            ],
+            [
+              "Memberi payung",
+              "伞 sǎn mirip 散 sàn",
+              "Dihindari sebagai hadiah karena diasosiasikan dengan perpisahan atau berpencar"
+            ],
+            [
+              "Kematian",
+              "死 sǐ",
+              "Untuk orang yang dihormati sering digunakan eufemisme seperti 走了, 去世, atau 不在, bukan kata 死 secara langsung"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Angka 4 dapat dihindari dalam penomoran bangunan, lantai, pelat nomor kendaraan, dan nomor kamar hotel, termasuk kombinasi seperti 14, 24, dan kelompok 40–49. Sebaliknya, angka 8 memiliki citra sangat positif karena bunyinya diasosiasikan dengan 发 (fā), sehingga nomor telepon atau pelat kendaraan dengan banyak angka 8 kadang dijual dengan harga premium. Kesadaran terhadap homofon ini juga meluas ke bilangan gaul seperti 250 (èrbǎiwǔ), yang dalam bahasa sehari-hari dipakai sebagai sindiran untuk menyebut seseorang bodoh atau ceroboh, sehingga sebaiknya dihindari saat menyebut jumlah barang dalam konteks santai kepada orang yang tidak akrab."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "走了",
+              "pinyin": "zǒu le",
+              "arti": "sudah pergi",
+              "catatan": "Eufemisme umum untuk menyatakan seseorang telah meninggal, dipakai agar terdengar lebih halus."
+            },
+            {
+              "hanzi": "去世",
+              "pinyin": "qùshì",
+              "arti": "meninggal dunia",
+              "catatan": "Ungkapan yang lebih formal dan halus untuk kematian, sering dipakai dalam berita atau situasi resmi."
+            },
+            {
+              "hanzi": "不在",
+              "pinyin": "bù zài",
+              "arti": "tidak ada lagi",
+              "catatan": "Dapat dipakai sebagai eufemisme ketika membicarakan orang yang telah meninggal, terutama dalam percakapan keluarga."
+            },
+            {
+              "hanzi": "送钟",
+              "pinyin": "sòng zhōng",
+              "arti": "memberikan atau mengantar jam",
+              "catatan": "Dihindari sebagai hadiah karena bunyinya sama persis dengan 送终, mengantar kematian seseorang."
+            },
+            {
+              "hanzi": "分梨",
+              "pinyin": "fēn lí",
+              "arti": "membagi buah pir",
+              "catatan": "Dihindari saat makan bersama karena berasosiasi bunyi dengan 分离, yaitu berpisah."
+            },
+            {
+              "hanzi": "送伞给朋友不太好。",
+              "pinyin": "Sòng sǎn gěi péngyou bú tài hǎo.",
+              "arti": "Memberikan payung kepada teman kurang baik.",
+              "catatan": "伞 sǎn berbunyi mirip 散 sàn (berpisah/berpencar), sehingga sebagian orang menghindarinya sebagai hadiah."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Angka 4 → dihindari (mirip 死, mati).",
+            "Angka 8 → disukai (mirip 发, makmur).",
+            "Angka 6 → disukai (lancar, 六六大顺).",
+            "Angka 9 → bermakna abadi/langgeng (mirip 久).",
+            "Jam, sepatu, payung → hindari sebagai hadiah.",
+            "Membelah pir bersama → hindari saat makan bersama.",
+            "Kata 死 → gantikan dengan eufemisme untuk orang yang dihormati."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan membawa kebiasaan budaya Indonesia secara otomatis ke konteks Tionghoa. Hadiah, angka, dan cara membagi makanan dapat memiliki asosiasi bunyi yang sangat berbeda dari yang dibayangkan pembelajar Indonesia. Kesalahan umum adalah menganggap pantangan-pantangan ini sekadar mitos kuno yang boleh diabaikan; kenyataannya, di banyak keluarga dan bisnis modern, pantangan seperti memberi jam atau menghindari angka 4 masih dipraktikkan secara serius, sehingga melanggarnya tanpa sadar dapat dianggap tidak sopan."
+        }
+      ]
+    },
+    {
+      "judul": "4. Bahasa Tubuh dan Gerak Isyarat",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Pragmatik bukan hanya tentang kata yang diucapkan. Gerakan tubuh, cara menerima benda, dan cara menyentuh peralatan makan juga membawa makna sosial yang kuat. Gerakan yang dianggap netral dalam satu budaya dapat dianggap kasar, merendahkan, atau bahkan membawa pertanda buruk dalam budaya Tionghoa, sehingga bahasa tubuh perlu dipelajari sejajar dengan kosakata dan tata bahasa, bukan sebagai pelengkap yang bisa diabaikan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Situasi",
+            "Kebiasaan yang dibahas",
+            "Makna atau aturan"
+          ],
+          "baris": [
+            [
+              "Memanggil orang",
+              "Telapak tangan menghadap ke bawah dan jari diibaskan ke arah diri sendiri",
+              "Digunakan untuk memanggil orang; telapak menghadap ke atas dapat diasosiasikan dengan memanggil anjing atau orang yang sangat rendah statusnya"
+            ],
+            [
+              "Menunjuk orang",
+              "Hindari telunjuk",
+              "Gunakan seluruh telapak tangan terbuka seperti gerakan mempersilakan, atau arahkan dengan dagu"
+            ],
+            [
+              "Menerima kartu nama, hadiah, atau uang",
+              "Gunakan kedua tangan",
+              "Menunjukkan penghormatan; menerima dengan satu tangan dapat dianggap tidak sopan atau malas"
+            ],
+            [
+              "Meletakkan sumpit di mangkuk nasi",
+              "Hindari menancapkan sumpit tegak lurus ke dalam nasi",
+              "Posisi sumpit tegak menyerupai dupa yang ditancapkan untuk arwah, sehingga diasosiasikan dengan kematian dan sangat tidak sopan di meja makan"
+            ],
+            [
+              "Menghitung angka dengan satu tangan",
+              "Sistem isyarat jari 1–10 dengan satu tangan",
+              "Umum dipakai pedagang di pasar Tiongkok Utara untuk tawar-menawar tanpa bersuara; bentuk isyarat berbeda dari cara menghitung jari di Indonesia, terutama untuk angka 6 sampai 10"
+            ],
+            [
+              "Menyapa secara formal",
+              "Sedikit menganggukkan kepala atau membungkuk ringan",
+              "Dipakai dalam situasi hormat, meskipun jabat tangan gaya Barat kini juga umum di lingkungan bisnis"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你过来一下。",
+              "pinyin": "Nǐ guòlái yíxià.",
+              "arti": "Kamu ke sini sebentar.",
+              "catatan": "Sering diucapkan sambil memanggil dengan telapak tangan menghadap ke bawah, bukan ke atas."
+            },
+            {
+              "hanzi": "请用双手接。",
+              "pinyin": "Qǐng yòng shuāngshǒu jiē.",
+              "arti": "Silakan terima dengan dua tangan.",
+              "catatan": "Ungkapan yang menekankan pentingnya menggunakan kedua tangan saat menerima sesuatu yang penting."
+            },
+            {
+              "hanzi": "筷子不能插在饭里。",
+              "pinyin": "Kuàizi bù néng chā zài fàn lǐ.",
+              "arti": "Sumpit tidak boleh ditancapkan di nasi.",
+              "catatan": "Larangan ini berkaitan dengan asosiasi terhadap dupa sembahyang untuk arwah."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menunjuk orang dengan telunjuk, jangan menancapkan sumpit tegak di mangkuk nasi, dan selalu gunakan kedua tangan saat menerima kartu nama, hadiah, atau uang. Kesalahan bahasa tubuh sering luput dari perhatian pembelajar karena tidak terasa seperti 'kesalahan bahasa', padahal dampaknya terhadap kesan sosial bisa lebih besar daripada kesalahan tata bahasa kecil."
+        }
+      ]
+    },
+    {
+      "judul": "5. Kata dan Konsep Budaya yang Sulit Diterjemahkan Secara 1:1",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Beberapa kata Mandarin membawa konsep sosial dan budaya yang jauh lebih luas daripada satu kata padanan dalam bahasa Indonesia. Memahami konsep di baliknya jauh lebih penting daripada menghafalkan satu terjemahan tetap, karena kata-kata ini muncul hampir setiap hari dalam percakapan dan mencerminkan nilai-nilai sosial masyarakat Tionghoa seperti hubungan timbal balik, kerendahan hati, dan penghargaan terhadap usaha orang lain."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Pinyin",
+            "Konsep dan nuansa"
+          ],
+          "baris": [
+            [
+              "缘分",
+              "yuánfèn",
+              "Ikatan atau pertemuan yang terasa seperti sudah ditakdirkan; mencakup unsur kebetulan, nasib, keberuntungan, dan tanggung jawab menjaga hubungan yang terbentuk"
+            ],
+            [
+              "有缘",
+              "yǒuyuán",
+              "Memiliki ikatan takdir dengan seseorang atau sesuatu; sering dipakai untuk menggambarkan pertemuan yang terasa istimewa"
+            ],
+            [
+              "无缘",
+              "wúyuán",
+              "Tidak berjodoh atau tidak memiliki ikatan takdir; dipakai saat suatu hubungan atau kesempatan tidak terwujud"
+            ],
+            [
+              "热闹",
+              "rènao",
+              "Suasana meriah, hangat, penuh energi, interaktif, dan menyenangkan secara kolektif; bukan sekadar banyak orang"
+            ],
+            [
+              "凑热闹",
+              "còu rènao",
+              "Ikut meramaikan suasana atau sekadar ingin tahu dan bergabung dalam keramaian, kadang bernuansa jahil atau usil"
+            ],
+            [
+              "客气",
+              "kèqi",
+              "Sikap sopan, merendah, menjaga jarak hormat, dan menunjukkan sungkan dalam interaksi sosial"
+            ],
+            [
+              "别客气",
+              "bié kèqi",
+              "Jangan sungkan; ungkapan umum untuk mempersilakan lawan bicara menerima tawaran tanpa basa-basi berlebihan"
+            ],
+            [
+              "辛苦",
+              "xīnkǔ",
+              "Ungkapan empati dan penghargaan terhadap usaha atau kerja keras seseorang; secara harfiah berkaitan dengan pahit dan lelah"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "缘分",
+              "pinyin": "yuánfèn",
+              "arti": "jodoh atau ikatan karena pertemuan yang terasa ditakdirkan",
+              "catatan": "Tidak cukup diterjemahkan sebagai takdir; konsepnya berkaitan dengan pertemuan, keberuntungan, nasib, dan ikatan sosial."
+            },
+            {
+              "hanzi": "我们真有缘，又见面了！",
+              "pinyin": "Wǒmen zhēn yǒuyuán, yòu jiànmiàn le!",
+              "arti": "Kita benar-benar berjodoh, bertemu lagi!",
+              "catatan": "有缘 menekankan bahwa pertemuan berulang terasa bukan kebetulan biasa."
+            },
+            {
+              "hanzi": "热闹",
+              "pinyin": "rènao",
+              "arti": "meriah dan ramai dalam suasana yang hidup",
+              "catatan": "Pesta dengan banyak orang belum tentu 热闹 jika suasananya sepi dan tidak interaktif."
+            },
+            {
+              "hanzi": "客气",
+              "pinyin": "kèqi",
+              "arti": "sopan, sungkan, atau merendah",
+              "catatan": "Misalnya ketika seseorang memuji masakan dan Anda merendahkan hasil masakan sendiri sebagai bentuk kesopanan."
+            },
+            {
+              "hanzi": "辛苦你了",
+              "pinyin": "xīnkǔ nǐ le",
+              "arti": "Anda sudah bekerja keras / Anda sungguh lelah",
+              "catatan": "Digunakan untuk mengakui dan menghargai usaha seseorang, sering menggantikan posisi 谢谢 kepada bawahan, sopir, atau rekan kerja."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Contoh penggunaan 缘分 adalah ketika secara kebetulan bertemu orang Indonesia di sebuah toko kecil di Beijing dan mengatakan bahwa pertemuan tersebut memiliki 缘分. Konsep 热闹 dapat menggambarkan makan malam keluarga besar yang penuh tawa dan interaksi, sedangkan pesta yang dipenuhi orang tetapi terasa sepi tidak otomatis disebut 热闹. Sementara itu, 辛苦你了 jauh lebih tepat diucapkan kepada guru, sopir taksi, atau atasan setelah mereka bekerja keras dibanding sekadar mengucapkan 谢谢, karena 辛苦 secara khusus mengakui kelelahan dan usaha, bukan hanya rasa terima kasih atas hasilnya."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menerjemahkan kata-kata seperti 缘分, 热闹, 客气, dan 辛苦 dengan satu kata Indonesia lalu menganggap tugas selesai. Kesalahan umum pembelajar adalah memakai 谢谢 untuk semua situasi apresiasi, padahal 辛苦你了 jauh lebih pas ketika mengakui kerja keras seseorang, dan memakai 客气 secara harfiah sebagai 'sopan' tanpa memahami unsur merendah dan menjaga jarak hormat di dalamnya."
+        }
+      ]
+    },
+    {
+      "judul": "6. Pragmatik Kesopanan: 面子 dan Strategi Merendah",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Konsep 面子 (miànzi) berkaitan dengan menjaga harga diri dan martabat sosial seseorang di depan orang lain. Dalam interaksi, menjaga muka orang lain dapat lebih penting daripada menyampaikan kebenaran secara terlalu langsung. Karena itu, penutur Mandarin sering menggunakan penolakan halus, ungkapan tidak langsung, dan strategi merendahkan diri sendiri agar lawan bicara tidak merasa dipermalukan atau dipojokkan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Situasi",
+            "Ekspresi",
+            "Makna pragmatik"
+          ],
+          "baris": [
+            [
+              "Menolak bantuan atau permintaan secara halus",
+              "这不太方便",
+              "Secara literal berarti ini agak tidak nyaman; dalam konteks tertentu merupakan penolakan halus"
+            ],
+            [
+              "Menunda jawaban",
+              "我考虑考虑",
+              "Saya pikir-pikir dulu; dapat menjadi cara halus untuk menolak"
+            ],
+            [
+              "Menolak ajakan atau permintaan",
+              "再说吧",
+              "Nanti kita bicarakan lagi; dalam konteks yang dibahas dapat bermakna penolakan tanpa mengatakan tidak secara langsung"
+            ],
+            [
+              "Merendahkan diri ketika menerima pujian",
+              "内人",
+              "Istilah rendah hati untuk menyebut istri sendiri, secara harfiah berarti 'orang dalam'"
+            ],
+            [
+              "Menyebut suami orang lain",
+              "您先生",
+              "Ungkapan hormat untuk suami orang lain"
+            ],
+            [
+              "Memberi muka kepada orang lain",
+              "给面子",
+              "Menunjukkan penghormatan dengan menuruti atau menghargai permintaan/kehadiran seseorang di depan umum"
+            ],
+            [
+              "Mempermalukan seseorang di depan umum",
+              "丢脸 / 让人没面子",
+              "Membuat seseorang kehilangan muka; dianggap pelanggaran sosial serius, terutama di depan atasan, kolega, atau keluarga"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Strategi merendah juga dapat muncul ketika membicarakan keluarga sendiri. Dalam konteks yang dibahas, seseorang tidak dianjurkan memuji anak sendiri secara berlebihan di depan orang lain; ia dapat mengatakan bahwa anaknya masih nakal meskipun sebenarnya anak tersebut berprestasi. Sebaliknya, memberi pujian kepada anak atau pasangan orang lain secara terbuka dianggap sebagai cara memberi muka (给面子) kepada lawan bicara, dan menolak pujian tersebut secara mentah-mentah (misalnya dengan diam saja) dapat terasa canggung."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "这不太方便",
+              "pinyin": "Zhè bú tài fāngbiàn",
+              "arti": "Ini agak tidak nyaman / kurang memungkinkan",
+              "catatan": "Dalam konteks permintaan atau bantuan, dapat berfungsi sebagai penolakan halus."
+            },
+            {
+              "hanzi": "我考虑考虑",
+              "pinyin": "Wǒ kǎolǜ kǎolǜ",
+              "arti": "Saya pikir-pikir dulu",
+              "catatan": "Dalam konteks tertentu dapat menjadi cara tidak langsung untuk mengatakan tidak."
+            },
+            {
+              "hanzi": "再说吧",
+              "pinyin": "Zàishuō ba",
+              "arti": "Nanti kita bicarakan lagi",
+              "catatan": "Dalam materi ini diperlakukan sebagai penolakan halus yang sering kali berarti tidak."
+            },
+            {
+              "hanzi": "内人",
+              "pinyin": "nèirén",
+              "arti": "istri saya",
+              "catatan": "Istilah merendah untuk menyebut istri sendiri dalam konteks yang dibahas."
+            },
+            {
+              "hanzi": "您先生",
+              "pinyin": "nín xiānsheng",
+              "arti": "suami Anda / Bapak Anda",
+              "catatan": "Digunakan dengan nuansa hormat ketika menyebut suami orang lain."
+            },
+            {
+              "hanzi": "给他一点面子吧。",
+              "pinyin": "Gěi tā yìdiǎn miànzi ba.",
+              "arti": "Beri dia sedikit muka, ya.",
+              "catatan": "Ungkapan meminta seseorang untuk tidak mempermalukan orang lain di depan umum, misalnya dengan menyetujui permintaannya."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan selalu mengartikan jawaban tidak langsung secara harfiah. Dalam konteks sosial tertentu, kalimat seperti 这不太方便, 我考虑考虑, atau 再说吧 dapat berfungsi sebagai penolakan. Memaksa lawan bicara mengucapkan tidak secara eksplisit dapat membuat interaksi menjadi tidak nyaman dan dianggap membuat lawan bicara kehilangan muka (丢脸)."
+        }
+      ]
+    },
+    {
+      "judul": "7. Partikel Akhir 语气词 — Membentuk Nada Percakapan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Partikel akhir atau 语气词 sering kali tidak mengubah inti proposisi sebuah kalimat, tetapi mengubah nada, sikap, tingkat keakraban, atau suasana kalimat tersebut. Partikel seperti 吗, 呢, 吧, 啊, 啦, 嘛, dan 呀 merupakan bagian penting dari percakapan yang terdengar alami, dan ketiadaannya sering membuat kalimat pembelajar terdengar terlalu kaku atau seperti membaca buku pelajaran."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Partikel",
+            "Fungsi atau nuansa"
+          ],
+          "baris": [
+            [
+              "吗",
+              "Membentuk pertanyaan ya/tidak yang netral dan formal"
+            ],
+            [
+              "呢",
+              "Dapat digunakan untuk pertanyaan balik (你呢？) atau menunjukkan keadaan yang sedang berlangsung"
+            ],
+            [
+              "吧",
+              "Menunjukkan saran, ajakan, atau tebakan yang tidak terlalu yakin"
+            ],
+            [
+              "啊",
+              "Di akhir kalimat dapat memperhalus perintah dan membuatnya terdengar lebih ramah atau ekspresif"
+            ],
+            [
+              "呀",
+              "Varian dari 啊 yang muncul setelah bunyi vokal tertentu; terasa lebih ringan dan cair dalam pengucapan"
+            ],
+            [
+              "啦",
+              "Gabungan 了 + 啊 dalam penggunaan santai; menunjukkan perubahan keadaan dengan nuansa kasual"
+            ],
+            [
+              "嘛",
+              "Menekankan sesuatu yang dianggap sudah jelas atau logis, kadang terdengar sedikit merajuk atau membujuk"
+            ],
+            [
+              "哈",
+              "Dalam contoh percakapan digunakan sebagai versi santai dari 啊, umum di percakapan lisan Tiongkok Utara"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我吃饭呢。",
+              "pinyin": "Wǒ chīfàn ne.",
+              "arti": "Saya sedang makan.",
+              "catatan": "呢 dapat menekankan keadaan yang sedang berlangsung."
+            },
+            {
+              "hanzi": "我们走吧。",
+              "pinyin": "Wǒmen zǒu ba.",
+              "arti": "Kita pergi, yuk.",
+              "catatan": "吧 dapat digunakan untuk memberikan saran atau ajakan."
+            },
+            {
+              "hanzi": "你来啊。",
+              "pinyin": "Nǐ lái a.",
+              "arti": "Kamu datanglah.",
+              "catatan": "啊 di akhir dapat membuat perintah terdengar lebih ramah."
+            },
+            {
+              "hanzi": "我做完啦。",
+              "pinyin": "Wǒ zuò wán la.",
+              "arti": "Saya sudah selesai.",
+              "catatan": "啦 memberikan nuansa santai dan menunjukkan perubahan keadaan."
+            },
+            {
+              "hanzi": "这样不好嘛！",
+              "pinyin": "Zhèyàng bù hǎo ma!",
+              "arti": "Ini kan tidak baik!",
+              "catatan": "嘛 menekankan sesuatu yang menurut pembicara sudah jelas atau logis, kadang bernada membujuk atau sedikit merajuk."
+            },
+            {
+              "hanzi": "是呀，我也这么想。",
+              "pinyin": "Shì ya, wǒ yě zhème xiǎng.",
+              "arti": "Iya, saya juga berpikir begitu.",
+              "catatan": "呀 di sini adalah varian 啊 yang lebih ringan, muncul setelah bunyi vokal i."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menghafalkan partikel akhir hanya sebagai padanan satu kata Indonesia, dan jangan mencampur 吗 dengan 嘛 karena keduanya terdengar mirip tetapi fungsinya berbeda: 吗 membentuk pertanyaan, sedangkan 嘛 menekankan sesuatu yang dianggap sudah jelas. Fungsi pragmatis partikel akhir berubah sesuai konteks, intonasi, hubungan antarpenutur, dan jenis kalimat."
+        }
+      ]
+    },
+    {
+      "judul": "8. Ekspresi Kasar, Makian, dan Pelembutan Bahasa",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Ekspresi kasar dalam Mandarin sering berkaitan dengan keluarga (terutama ibu), hewan, penghinaan terhadap kecerdasan, atau bentuk umpatan spontan. Namun tingkat kekasarannya sangat bergantung pada hubungan antarpenutur, konteks, generasi, dan media komunikasi. Kata yang terdengar sangat kasar bila diucapkan kepada orang asing bisa terdengar biasa saja, bahkan akrab, bila diucapkan di antara teman dekat atau pasangan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Ekspresi",
+            "Pinyin",
+            "Nuansa dan penggunaan"
+          ],
+          "baris": [
+            [
+              "他妈的",
+              "tā mā de",
+              "Umpatan yang dapat berfungsi seperti sialan atau damn"
+            ],
+            [
+              "笨",
+              "bèn",
+              "Bodoh; dapat menyakitkan kepada orang yang tidak dekat, tetapi kadang menjadi panggilan bercanda di antara orang dekat"
+            ],
+            [
+              "傻瓜",
+              "shǎguā",
+              "Secara literal penghinaan seperti bodoh; dapat menjadi panggilan sayang di antara teman dekat atau pasangan"
+            ],
+            [
+              "卧槽",
+              "wòcáo",
+              "Ekspresi kaget yang dalam penggunaan internet dan kalangan muda dapat terdengar sebagai ekspresi sehari-hari, meskipun asal dan bentuknya berkaitan dengan bahasa kasar"
+            ],
+            [
+              "我去",
+              "wǒ qù",
+              "Secara literal saya pergi; digunakan sebagai ekspresi kaget seperti astaga"
+            ],
+            [
+              "我晕",
+              "wǒ yūn",
+              "Secara literal saya pusing; digunakan untuk ketidakpercayaan atau frustrasi"
+            ],
+            [
+              "晕死",
+              "yūn sǐ",
+              "Secara harfiah pusing sampai mati; bentuk yang lebih dramatis dari 我晕"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Generasi muda dapat mengganti makian keras dengan ekspresi yang lebih ringan atau tersamarkan sebagai bentuk pelembutan bahasa. Contohnya 我去 dapat dipakai untuk menunjukkan keterkejutan tanpa terdengar terlalu vulgar, 我晕 untuk ketidakpercayaan atau frustrasi, dan 晕死 sebagai versi yang lebih dramatis. Pola pelembutan ini serupa dengan kebiasaan mengganti kata makian dengan kata yang bunyinya mirip namun tidak vulgar dalam bahasa Indonesia (misalnya 'anj*y' menjadi 'anjir')."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan meniru kata makian hanya karena sering mendengarnya dalam film, drama, atau internet. Tingkat kekasaran tidak selalu terlihat dari terjemahan literal. Kata seperti 笨 atau 傻瓜 dapat terdengar akrab di antara orang dekat tetapi menyakitkan jika diarahkan kepada orang yang tidak dikenal, sehingga sebaiknya pembelajar tidak menggunakan ekspresi ini sampai benar-benar memahami tingkat keakraban dengan lawan bicara."
+        }
+      ]
+    },
+    {
+      "judul": "9. Bahasa Gaul dan Ekspresi Internet Modern",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Selain pelembutan makian yang sudah dibahas, internet Tiongkok terus menciptakan ekspresi baru yang cepat menyebar lalu kadang cepat pula memudar popularitasnya. Ekspresi-ekspresi ini penting dikenali pembelajar karena sangat umum muncul di media sosial, aplikasi pesan, dan percakapan santai anak muda, meskipun sebagian bersifat musiman dan dapat terasa ketinggalan zaman dalam beberapa tahun."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Istilah gaul",
+            "Pinyin",
+            "Makna dan penggunaan"
+          ],
+          "baris": [
+            [
+              "yyds",
+              "yǒng yuǎn de shén (永远的神)",
+              "Singkatan huruf awal dari 'dewa abadi', dipakai untuk memuji sesuatu atau seseorang sebagai yang terbaik sepanjang masa"
+            ],
+            [
+              "破防",
+              "pòfáng",
+              "Secara harfiah 'pertahanan jebol'; dipakai untuk menggambarkan momen tersentuh, kewalahan secara emosional, atau kehilangan kendali emosi"
+            ],
+            [
+              "摆烂",
+              "bǎilàn",
+              "Sikap sengaja membiarkan sesuatu memburuk atau berhenti berusaha karena merasa lelah/putus asa, mirip 'masa bodoh, biarkan saja'"
+            ],
+            [
+              "内卷",
+              "nèijuǎn",
+              "Kompetisi berlebihan yang melelahkan tanpa hasil yang sebanding, sering dipakai untuk menggambarkan tekanan di sekolah atau tempat kerja"
+            ],
+            [
+              "emo",
+              "emo (kata pinjaman)",
+              "Dipakai sebagai kata kerja informal berarti 'sedang merasa sedih/galau', dipinjam dari kata Inggris emotional"
+            ],
+            [
+              "栓Q",
+              "shuān Q",
+              "Ejaan bercanda dari 'thank you' yang diucapkan dengan aksen lucu; dipakai secara ironis atau humoris, bukan ucapan terima kasih serius"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "这场演出真的yyds！",
+              "pinyin": "Zhè chǎng yǎnchū zhēn de yyds!",
+              "arti": "Pertunjukan ini benar-benar luar biasa!",
+              "catatan": "yyds dipakai sebagai pujian tertinggi dalam bahasa gaul internet."
+            },
+            {
+              "hanzi": "看到这段我直接破防了。",
+              "pinyin": "Kàndào zhè duàn wǒ zhíjiē pòfáng le.",
+              "arti": "Melihat bagian ini saya langsung baper/tersentuh habis.",
+              "catatan": "破防 menggambarkan momen emosional yang mengejutkan diri sendiri."
+            },
+            {
+              "hanzi": "最近太累了，我要摆烂了。",
+              "pinyin": "Zuìjìn tài lèi le, wǒ yào bǎilàn le.",
+              "arti": "Belakangan ini terlalu lelah, saya mau menyerah saja dulu.",
+              "catatan": "摆烂 mengekspresikan sikap pasrah sementara terhadap tekanan, sering dipakai bercanda maupun serius."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Bahasa gaul internet berubah sangat cepat dan bersifat musiman; istilah yang populer tahun ini bisa terasa basi dalam satu atau dua tahun. Kesalahan umum pembelajar adalah memakai istilah gaul dalam situasi formal (surat resmi, presentasi kerja, percakapan dengan orang yang jauh lebih tua) padahal istilah-istilah ini hanya pantas dipakai secara informal kepada teman sebaya atau di media sosial."
+        }
+      ]
+    },
+    {
+      "judul": "10. Kesopanan dalam Layanan Publik dan Ekspresi Ritual",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam toko, restoran, stasiun, dan situasi pelayanan publik lainnya, penutur dapat mendengar sejumlah ungkapan yang bersifat ritual dan sangat sopan. Ungkapan tersebut tidak selalu perlu diterjemahkan kata demi kata karena fungsinya adalah menjalankan norma interaksi sosial yang sudah baku, mirip dengan sapaan baku pramuniaga di Indonesia seperti 'Selamat datang, ada yang bisa dibantu?'."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Ungkapan",
+            "Pinyin",
+            "Konteks penggunaan"
+          ],
+          "baris": [
+            [
+              "欢迎光临",
+              "huānyíng guānglín",
+              "Diucapkan staf toko/restoran saat pelanggan masuk"
+            ],
+            [
+              "请问",
+              "qǐngwèn",
+              "Pembuka sopan sebelum bertanya, setara dengan permisi, boleh saya bertanya"
+            ],
+            [
+              "劳驾",
+              "láojià",
+              "Ungkapan sopan Beijing untuk minta tolong atau permisi lewat, lebih formal dan khas percakapan lisan utara"
+            ],
+            [
+              "慢走",
+              "màn zǒu",
+              "Diucapkan kasir/tuan rumah saat pelanggan atau tamu pergi, seperti hati-hati di jalan"
+            ],
+            [
+              "您慢用",
+              "nín mànyòng",
+              "Diucapkan pelayan setelah menyajikan makanan, seperti selamat menikmati"
+            ],
+            [
+              "对不起，让您久等了",
+              "duìbuqǐ, ràng nín jiǔ děng le",
+              "Ungkapan standar ketika pelayanan terlambat atau pelanggan menunggu lama"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "欢迎光临",
+              "pinyin": "Huānyíng guānglín",
+              "arti": "Selamat datang",
+              "catatan": "Ungkapan pelayanan yang sangat hormat dan lazim digunakan untuk menyambut pelanggan."
+            },
+            {
+              "hanzi": "请问附近有洗手间吗？",
+              "pinyin": "Qǐngwèn fùjìn yǒu xǐshǒujiān ma?",
+              "arti": "Permisi, apakah ada toilet di dekat sini?",
+              "catatan": "请问 dipakai sebagai pembuka sopan sebelum bertanya kepada orang asing atau staf."
+            },
+            {
+              "hanzi": "慢走",
+              "pinyin": "Màn zǒu",
+              "arti": "Pelan-pelan jalannya / hati-hati di jalan",
+              "catatan": "Dapat diucapkan oleh kasir atau pihak toko ketika pelanggan pergi."
+            },
+            {
+              "hanzi": "您慢用",
+              "pinyin": "Nín mànyòng",
+              "arti": "Silakan menikmati makanan Anda",
+              "catatan": "Ungkapan sopan yang dapat diucapkan pelayan setelah menyajikan makanan."
+            },
+            {
+              "hanzi": "对不起，让您久等了",
+              "pinyin": "Duìbuqǐ, ràng nín jiǔ děng le",
+              "arti": "Maaf, telah membuat Anda menunggu lama",
+              "catatan": "Ungkapan standar ketika pelayanan terlambat atau pelanggan menunggu."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Ungkapan ritual pelayanan tidak selalu memiliki padanan alami satu per satu dalam bahasa Indonesia. Fokuskan pemahaman pada fungsi sosialnya: menyambut, mengantar pelanggan, mempersilakan menikmati makanan, atau meminta maaf atas waktu tunggu, bukan pada terjemahan kata per kata yang sering terasa canggung."
+        }
+      ]
+    },
+    {
+      "judul": "11. Bahasa Formal/Tertulis (书面语) vs Informal/Lisan Sehari-hari (口语)",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Mandarin memiliki jarak yang cukup jelas antara 书面语 (bahasa tulis/formal) dan 口语 (bahasa lisan sehari-hari). Banyak pembelajar yang belajar dari buku teks cenderung berbicara terlalu formal dalam percakapan santai, seperti menggunakan kosakata surat resmi dalam obrolan dengan teman. Memahami pasangan kata formal-informal membantu pembelajar memilih register yang tepat sesuai situasi, mirip perbedaan antara bahasa baku dan bahasa gaul dalam bahasa Indonesia."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Konteks",
+            "Bentuk formal/tertulis",
+            "Bentuk informal/lisan"
+          ],
+          "baris": [
+            [
+              "Sebab",
+              "由于 (yóuyú)",
+              "因为 (yīnwèi)"
+            ],
+            [
+              "Tetapi",
+              "然而 (rán'ér)",
+              "但是 / 不过 (dànshì / búguò)"
+            ],
+            [
+              "Makan",
+              "用餐 (yòngcān)",
+              "吃饭 (chīfàn)"
+            ],
+            [
+              "Meninggal",
+              "逝世 (shìshì)",
+              "走了 / 死了 (zǒu le / sǐ le)"
+            ],
+            [
+              "Segera",
+              "立刻 (lìkè)",
+              "马上 / 赶紧 (mǎshàng / gǎnjǐn)"
+            ],
+            [
+              "Penutup surat resmi",
+              "此致敬礼 (cǐzhì jìnglǐ)",
+              "拜拜 / 再见 (báibái / zàijiàn)"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "由于天气原因，航班延误。",
+              "pinyin": "Yóuyú tiānqì yuányīn, hángbān yánwù.",
+              "arti": "Karena faktor cuaca, penerbangan tertunda.",
+              "catatan": "由于 dipakai dalam pengumuman resmi atau tulisan formal, terasa kaku bila dipakai dalam obrolan santai."
+            },
+            {
+              "hanzi": "因为下雨，我们晚点走。",
+              "pinyin": "Yīnwèi xiàyǔ, wǒmen wǎndiǎn zǒu.",
+              "arti": "Karena hujan, kita berangkat agak telat.",
+              "catatan": "因为 adalah bentuk sebab-akibat yang lazim dipakai dalam percakapan sehari-hari."
+            },
+            {
+              "hanzi": "此致敬礼",
+              "pinyin": "Cǐzhì jìnglǐ",
+              "arti": "Hormat kami / Demikian, terima kasih",
+              "catatan": "Frasa penutup surat resmi dalam bahasa tulis, tidak dipakai dalam pesan singkat kepada teman."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Perbedaan register ini juga berlaku pada sapaan dan kata ganti. Dalam tulisan formal atau saat berbicara dengan orang yang sangat dihormati, 您 (nín) dipakai menggantikan 你 (nǐ), dan gelar seperti 先生, 女士, atau jabatan (经理, 老师) dipakai menggantikan nama depan secara langsung. Sebaliknya, dalam percakapan sangat santai dengan teman dekat, penutur bahkan bisa saling memanggil dengan julukan atau menghilangkan sapaan formal sama sekali."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan umum pembelajar Indonesia adalah membawa kosakata dari buku teks formal langsung ke percakapan santai, misalnya mengucapkan 由于...因此... dalam obrolan biasa dengan teman, yang terdengar seperti membaca laporan resmi. Sebaliknya, memakai partikel dan kosakata sangat santai (啦, 呗, 咋整) dalam surat lamaran kerja juga dianggap tidak pantas. Pembelajar perlu menyesuaikan register bahasa dengan medium: pesan WeChat ke teman boleh sangat santai, tetapi email kerja atau surat resmi tetap perlu bahasa tertulis yang lebih baku."
+        }
+      ]
+    },
+    {
+      "judul": "12. Humor, Sarkasme, Ironi, dan Konteks Nada",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Makna sebuah kalimat Mandarin tidak selalu sama dengan arti literalnya. Sarkasme atau 反话 (fǎnhuà, secara harfiah 'kata terbalik') dapat muncul melalui pilihan kata yang secara literal positif tetapi diucapkan setelah seseorang melakukan kesalahan, terutama ketika disertai senyum sinis, nada datar, atau jeda yang tidak wajar sebelum kalimat diucapkan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Ekspresi",
+            "Arti literal",
+            "Fungsi ironis/sarkastis"
+          ],
+          "baris": [
+            [
+              "你可真厉害啊！",
+              "Kamu sungguh hebat!",
+              "Sarkasme setelah seseorang melakukan kesalahan bodoh, berarti 'hebat amat sih kamu'"
+            ],
+            [
+              "呵呵",
+              "Hehe (tawa ringan)",
+              "Senyum sinis di internet, sering menandakan suasana tidak baik ketika dibalas setelah pesan panjang"
+            ],
+            [
+              "algo我服了你了",
+              "Saya mengaku kalah / tunduk padamu",
+              "Sering dipakai sarkastis untuk menyatakan kekesalan atau ketidaksetujuan terhadap tindakan seseorang, bukan pujian sungguhan"
+            ],
+            [
+              "开玩笑",
+              "Bercanda",
+              "Dipakai untuk melunakkan pernyataan yang keras atau menjelaskan bahwa suatu ucapan hanya lelucon"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你可真厉害啊！",
+              "pinyin": "Nǐ kě zhēn lìhài a!",
+              "arti": "Kamu sungguh hebat!",
+              "catatan": "Jika dikatakan setelah seseorang melakukan kesalahan bodoh, kalimat ini dapat menjadi sarkasme dengan makna seperti 'hebat amat sih kamu'."
+            },
+            {
+              "hanzi": "呵呵",
+              "pinyin": "hēhē",
+              "arti": "Hehe",
+              "catatan": "Dalam komunikasi internet modern dapat menjadi senyum sinis. Balasan hanya dengan 呵呵 setelah pesan panjang dapat menjadi tanda suasana yang tidak baik."
+            },
+            {
+              "hanzi": "开玩笑",
+              "pinyin": "kāi wánxiào",
+              "arti": "Bercanda",
+              "catatan": "Dapat digunakan untuk melunakkan pernyataan yang keras atau menjelaskan bahwa suatu pernyataan dimaksudkan sebagai lelucon."
+            },
+            {
+              "hanzi": "我真是服了你了。",
+              "pinyin": "Wǒ zhēnshi fú le nǐ le.",
+              "arti": "Aku benar-benar mengaku kalah padamu.",
+              "catatan": "Meskipun secara literal terdengar seperti pujian, dalam banyak konteks ini menyatakan kekesalan atau ketidaksetujuan terhadap tingkah seseorang."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menerjemahkan kalimat positif secara otomatis sebagai pujian. Dalam sarkasme, nada suara, ekspresi wajah, urutan kejadian, dan konteks dapat membalikkan makna literal sepenuhnya. Kesalahan umum pembelajar adalah membalas sarkasme dengan ucapan terima kasih polos, padahal lawan bicara sedang menyindir; mendengarkan intonasi dan membaca situasi sama pentingnya dengan memahami kosakata."
+        }
+      ]
+    },
+    {
+      "judul": "13. Backchanneling — Respons Pendek Saat Mendengarkan Cerita",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam percakapan panjang, pendengar perlu menunjukkan bahwa ia mengikuti cerita agar pembicara tidak merasa berbicara sendirian. Respons pendek atau backchanneling ini membantu pembicara mengetahui bahwa lawan bicara tertarik, terkejut, atau ingin mendengar kelanjutan cerita. Ketiadaan backchanneling dalam percakapan Mandarin, meskipun pendengar sebenarnya menyimak, dapat membuat pembicara merasa diabaikan atau bicara ke tembok."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Ekspresi",
+            "Pinyin",
+            "Fungsi"
+          ],
+          "baris": [
+            [
+              "是吗？",
+              "shì ma?",
+              "Menunjukkan ketertarikan, seperti oh ya? atau benarkah?"
+            ],
+            [
+              "然后呢？",
+              "ránhòu ne?",
+              "Mendorong pembicara untuk melanjutkan: lalu? atau terus?"
+            ],
+            [
+              "不会吧？",
+              "bùhuì ba?",
+              "Menunjukkan keterkejutan atau ketidakpercayaan: masa sih? atau tidak mungkin!"
+            ],
+            [
+              "真的假的？",
+              "zhēn de jiǎ de?",
+              "Ekspresi kaget yang mempertanyakan kebenaran cerita, mirip serius?/yang bener?"
+            ],
+            [
+              "天哪",
+              "tiān na",
+              "Seruan kaget seperti astaga/ya ampun, sering dipakai saat mendengar berita mengejutkan"
+            ],
+            [
+              "哎哟喂",
+              "āiyō wēi",
+              "Respons dramatis seperti aduh, sering digunakan secara berlebihan untuk efek komedi"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "是吗？",
+              "pinyin": "Shì ma?",
+              "arti": "Oh ya? / Beneran?",
+              "catatan": "Digunakan untuk menunjukkan ketertarikan terhadap cerita orang lain."
+            },
+            {
+              "hanzi": "然后呢？",
+              "pinyin": "Ránhòu ne?",
+              "arti": "Lalu? / Terus?",
+              "catatan": "Mendorong lawan bicara untuk melanjutkan cerita."
+            },
+            {
+              "hanzi": "不会吧？",
+              "pinyin": "Bùhuì ba?",
+              "arti": "Masa sih? / Tidak mungkin!",
+              "catatan": "Menunjukkan keterkejutan atau ketidakpercayaan."
+            },
+            {
+              "hanzi": "真的假的？他真的辞职了？",
+              "pinyin": "Zhēn de jiǎ de? Tā zhēn de cízhí le?",
+              "arti": "Serius nggak sih? Dia benar-benar resign?",
+              "catatan": "真的假的 dipakai untuk menunjukkan keterkejutan sekaligus meminta konfirmasi ulang."
+            },
+            {
+              "hanzi": "天哪，太可怕了！",
+              "pinyin": "Tiān na, tài kěpà le!",
+              "arti": "Ya ampun, seram sekali!",
+              "catatan": "天哪 dipakai spontan sebagai reaksi kaget terhadap berita yang mengejutkan atau menakutkan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Diam total sambil mendengarkan cerita, seperti kebiasaan yang dianggap sopan di sebagian budaya, justru dapat membuat penutur Mandarin merasa lawan bicaranya tidak tertarik atau tidak menyimak. Kesalahan umum pembelajar Indonesia adalah terlalu pasif saat mendengarkan cerita; sebaiknya sisipkan respons pendek seperti 是吗？ atau 真的假的？ secara berkala untuk menunjukkan keterlibatan aktif."
+        }
+      ]
+    },
+    {
+      "judul": "14. 不好意思, 对不起, dan Nuansa Meminta Maaf",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "不好意思 adalah salah satu ekspresi pragmatis paling serbaguna dalam Mandarin, sebanding dengan tingkat keseringan pemakaian 谢谢. Dalam situasi berbeda, ungkapan ini dapat berfungsi sebagai permintaan maaf ringan, permisi ketika menyela atau lewat, atau ungkapan sungkan dan malu ketika menerima pujian atau bantuan berlebihan. Di sisi lain, 对不起 dan 抱歉 menempati tingkat keseriusan yang lebih tinggi, dengan 抱歉 sering dipakai dalam konteks tertulis atau semi-formal."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Ekspresi",
+            "Pinyin",
+            "Tingkat keseriusan dan nuansa"
+          ],
+          "baris": [
+            [
+              "不好意思",
+              "bùhǎoyìsi",
+              "Maaf ringan, permisi, atau merasa sungkan/malu; dipakai untuk hal-hal kecil sehari-hari"
+            ],
+            [
+              "对不起",
+              "duìbuqǐ",
+              "Permintaan maaf yang lebih serius; digunakan untuk kesalahan yang lebih berat atau menyakiti perasaan seseorang"
+            ],
+            [
+              "抱歉",
+              "bàoqiàn",
+              "Permintaan maaf tingkat menengah yang lebih formal, umum dipakai dalam pengumuman resmi, email kerja, atau situasi semi-formal"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "不好意思",
+              "pinyin": "Bùhǎoyìsi",
+              "arti": "Maaf / permisi / sungkan",
+              "catatan": "Dapat digunakan untuk hal kecil seperti tidak sengaja menabrak orang, menyela, atau merasa sungkan."
+            },
+            {
+              "hanzi": "不好意思，请问洗手间在哪儿？",
+              "pinyin": "Bùhǎoyìsi, qǐngwèn xǐshǒujiān zài nǎr?",
+              "arti": "Permisi, toilet di mana ya?",
+              "catatan": "不好意思 di sini berfungsi sebagai pembuka sopan sebelum bertanya kepada orang asing."
+            },
+            {
+              "hanzi": "对不起",
+              "pinyin": "Duìbuqǐ",
+              "arti": "Saya minta maaf",
+              "catatan": "Dalam materi ini diposisikan sebagai permintaan maaf yang lebih serius dibanding 不好意思."
+            },
+            {
+              "hanzi": "非常抱歉给您带来不便。",
+              "pinyin": "Fēicháng bàoqiàn gěi nín dàilái búbiàn.",
+              "arti": "Mohon maaf atas ketidaknyamanan yang ditimbulkan.",
+              "catatan": "抱歉 sering dipakai dalam pengumuman resmi perusahaan atau email kerja, terasa lebih formal daripada 不好意思 namun tidak seberat 对不起 untuk kesalahan pribadi yang menyakitkan."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "不好意思 juga sering dipakai sebagai pembuka kalimat sebelum meminta tolong atau bertanya kepada orang asing, misalnya sebelum menanyakan arah atau meminta tolong difoto, di mana fungsinya lebih dekat dengan 'permisi' daripada 'maaf'. Penutur Mandarin bahkan dapat mengucapkan 不好意思 tanpa benar-benar merasa bersalah, sekadar sebagai pelicin sosial agar permintaan terdengar lebih sopan."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan selalu menggunakan 对不起 untuk setiap kesalahan kecil. Dalam situasi ringan seperti tidak sengaja menabrak seseorang di kereta, 不好意思 dapat terdengar lebih alami. Penggunaan 对不起 untuk hal sepele dapat terasa terlalu berat atau dramatis, seolah kesalahan tersebut jauh lebih serius daripada kenyataannya."
+        }
+      ]
+    },
+    {
+      "judul": "15. Ekspresi Tergesa-gesa dan Perbedaan Nuansa",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Beberapa ekspresi yang sama-sama berkaitan dengan kecepatan atau segera memiliki nuansa berbeda dalam hal urgensi, kedekatan hubungan, tekanan terhadap lawan bicara, dan tingkat formalitas. Memilih ekspresi yang tepat penting agar tidak terdengar terlalu memaksa atau justru terlalu lemah untuk situasi darurat."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Ekspresi",
+            "Pinyin",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "赶紧",
+              "gǎnjǐn",
+              "Segera; biasanya karena situasi mendesak, umum dalam percakapan lisan"
+            ],
+            [
+              "赶快",
+              "gǎnkuài",
+              "Cepat atau segera; mendorong tindakan agar tidak terlambat, mirip 赶紧"
+            ],
+            [
+              "快点",
+              "kuài diǎn",
+              "Cepetan; lebih langsung dan dapat terdengar kasar jika digunakan kepada teman dalam konteks tertentu, meskipun lazim di antara orang dekat"
+            ],
+            [
+              "马上",
+              "mǎshàng",
+              "Sekarang juga atau secepatnya; secara harfiah berkaitan dengan di atas kuda, dari zaman pos kuda"
+            ],
+            [
+              "立刻",
+              "lìkè",
+              "Segera/seketika; lebih formal dan tertulis, umum dipakai dalam instruksi resmi atau berita"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "赶紧去医院！",
+              "pinyin": "Gǎnjǐn qù yīyuàn!",
+              "arti": "Segera pergi ke rumah sakit!",
+              "catatan": "赶紧 menekankan adanya urgensi."
+            },
+            {
+              "hanzi": "快点！",
+              "pinyin": "Kuài diǎn!",
+              "arti": "Cepetan!",
+              "catatan": "Sangat langsung dan dapat terdengar keras tergantung hubungan dan intonasi."
+            },
+            {
+              "hanzi": "马上",
+              "pinyin": "mǎshàng",
+              "arti": "Sekarang juga / secepatnya",
+              "catatan": "Menekankan tindakan yang akan dilakukan segera."
+            },
+            {
+              "hanzi": "请立刻离开现场。",
+              "pinyin": "Qǐng lìkè líkāi xiànchǎng.",
+              "arti": "Mohon segera tinggalkan lokasi.",
+              "catatan": "立刻 dipakai dalam instruksi resmi seperti pengumuman keselamatan, terasa lebih formal dibanding 马上 atau 赶紧."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "赶紧 → paling sering dipakai untuk situasi mendesak yang butuh tindakan segera, sering muncul di kalimat perintah lisan.",
+            "赶快 → nyaris identik dengan 赶紧, kadang terasa sedikit lebih mendorong/mengajak.",
+            "快点 → paling langsung dan personal, cocok untuk hubungan akrab, bisa terdengar tidak sabar.",
+            "马上 → menjanjikan tindakan segera dari sisi pembicara sendiri, misalnya 我马上到 (saya segera sampai).",
+            "立刻 → paling formal, umum di instruksi tertulis, pengumuman, atau berita resmi."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menyamakan 赶紧, 赶快, 快点, 马上, dan 立刻 sebagai sinonim sempurna yang bisa dipertukarkan bebas. Semuanya berkaitan dengan kecepatan atau kesegeraan, tetapi tekanan, urgensi, tingkat formalitas, dan nuansa interpersonalnya berbeda; memakai 立刻 dalam obrolan santai dengan teman terasa terlalu kaku, sedangkan memakai 快点 dalam pengumuman resmi terasa tidak pantas."
+        }
+      ]
+    },
+    {
+      "judul": "16. Persetujuan dan Ketidaksetujuan yang Lebih Alami",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Respons setuju dalam percakapan sehari-hari tidak selalu berupa 是 atau 对. Beberapa bentuk pendek terdengar lebih hangat, santai, regional, atau khas situasi tertentu, dan memilih bentuk yang tepat membuat respons terdengar jauh lebih alami dibanding jawaban buku teks."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Ekspresi",
+            "Pinyin",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "行",
+              "xíng",
+              "OK atau bisa; sangat umum dan dalam materi ini disebut lebih hangat daripada 好"
+            ],
+            [
+              "成",
+              "chéng",
+              "Versi Beijing yang digunakan seperti 行, berarti setuju atau oke"
+            ],
+            [
+              "得嘞",
+              "dé lei",
+              "Ekspresi Beijing yang bernuansa puas, seperti selesai atau oke deh"
+            ],
+            [
+              "没问题",
+              "méi wèntí",
+              "Tidak masalah; menunjukkan kesediaan yang meyakinkan dan ramah"
+            ],
+            [
+              "随便",
+              "suíbiàn",
+              "Terserah; dapat terdengar santai dan fleksibel, tetapi juga dapat terdengar cuek atau tidak peduli tergantung nada suara"
+            ],
+            [
+              "再说吧",
+              "zàishuō ba",
+              "Nanti kita bicarakan lagi; dapat menjadi penolakan halus"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "行。",
+              "pinyin": "Xíng.",
+              "arti": "OK / Bisa.",
+              "catatan": "Respons persetujuan yang sangat umum."
+            },
+            {
+              "hanzi": "成。",
+              "pinyin": "Chéng.",
+              "arti": "Setuju! / Oke!",
+              "catatan": "Diberikan dalam materi sebagai bentuk yang khas Beijing."
+            },
+            {
+              "hanzi": "得嘞！",
+              "pinyin": "Dé lei!",
+              "arti": "Selesai! / Oke deh!",
+              "catatan": "Diberikan sebagai ekspresi khas Beijing yang bernuansa puas."
+            },
+            {
+              "hanzi": "没问题，交给我吧！",
+              "pinyin": "Méi wèntí, jiāo gěi wǒ ba!",
+              "arti": "Tidak masalah, serahkan saja padaku!",
+              "catatan": "没问题 menunjukkan kesediaan yang meyakinkan dan ramah, cocok untuk situasi kerja maupun santai."
+            },
+            {
+              "hanzi": "随便你。",
+              "pinyin": "Suíbiàn nǐ.",
+              "arti": "Terserah kamu.",
+              "catatan": "Bergantung nada suara, 随便 bisa terdengar fleksibel dan santai atau justru cuek dan sedikit ketus."
+            },
+            {
+              "hanzi": "再说吧。",
+              "pinyin": "Zàishuō ba.",
+              "arti": "Nanti kita bicarakan lagi.",
+              "catatan": "Dalam konteks tertentu merupakan cara halus untuk menolak."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Tingkat kehangatan juga berbeda antarekspresi: 行 dan 没问题 cenderung terdengar meyakinkan dan ramah dalam berbagai situasi, sementara 成 dan 得嘞 lebih terikat pada gaya bicara khas Beijing dan bisa terdengar aneh jika dipakai oleh penutur dari wilayah lain tanpa konteks yang wajar. Dalam situasi kerja formal, 好的 atau 没问题 lebih aman dipakai dibanding 成 atau 得嘞 yang terasa sangat kasual dan lokal."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Berhati-hatilah dengan 随便; meskipun secara harfiah berarti terserah dan bisa terdengar santai, dalam nada yang datar atau ketus ekspresi ini dapat membuat lawan bicara merasa diabaikan, seolah pembicara tidak peduli dengan pilihan yang ditawarkan."
+        }
+      ]
+    },
+    {
+      "judul": "17. Ritual dan Pragmatik Saat Makan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Meja makan merupakan salah satu tempat penting untuk memahami pragmatik budaya Tionghoa. Sapaan, cara menawarkan makanan, posisi gelas saat bersulang, dan bahkan seberapa banyak makanan tersisa di piring dapat membawa makna sosial yang tidak terlihat dari tata bahasa saja."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Ekspresi atau ritual",
+            "Pinyin",
+            "Makna budaya"
+          ],
+          "baris": [
+            [
+              "吃了吗？",
+              "chī le ma?",
+              "Diposisikan sebagai sapaan sosial yang setara dengan apa kabar?, bukan pertanyaan literal"
+            ],
+            [
+              "夹菜",
+              "jiā cài",
+              "Tuan rumah mengambil makanan dan menaruhnya ke mangkuk tamu sebagai tanda perhatian atau penghormatan"
+            ],
+            [
+              "干杯",
+              "gānbēi",
+              "Bersulang; secara literal kosongkan gelas"
+            ],
+            [
+              "Posisi gelas saat bersulang",
+              "—",
+              "Gelas orang yang lebih muda atau lebih rendah statusnya ditempatkan lebih rendah daripada gelas orang yang lebih tua sebagai tanda hormat"
+            ],
+            [
+              "光盘",
+              "guāngpán",
+              "Menghabiskan semua makanan di piring sebagai tanda menghargai masakan dan tidak menyia-nyiakan makanan, sesuai gerakan 光盘行动 (gerakan piring bersih) yang dipromosikan di Tiongkok"
+            ],
+            [
+              "主随客便",
+              "zhǔ suí kè biàn",
+              "Tuan rumah mengikuti kenyamanan tamu; ungkapan yang menekankan bahwa tamu tidak perlu terlalu formal"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "吃了吗？",
+              "pinyin": "Chī le ma?",
+              "arti": "Sudah makan?",
+              "catatan": "Dalam materi sumber dijelaskan sebagai sapaan sosial, bukan selalu pertanyaan literal mengenai apakah seseorang sudah makan."
+            },
+            {
+              "hanzi": "吃了。",
+              "pinyin": "Chī le.",
+              "arti": "Sudah makan.",
+              "catatan": "Jawaban yang digunakan dalam konteks sapaan tersebut, meskipun sebenarnya belum makan."
+            },
+            {
+              "hanzi": "干杯！",
+              "pinyin": "Gānbēi!",
+              "arti": "Bersulang!",
+              "catatan": "Saat bersulang, posisi gelas juga dapat menunjukkan penghormatan terhadap orang yang lebih tua atau lebih tinggi statusnya."
+            },
+            {
+              "hanzi": "这顿饭我们光盘了。",
+              "pinyin": "Zhè dùn fàn wǒmen guāngpán le.",
+              "arti": "Makan kali ini kita menghabiskan semua makanan.",
+              "catatan": "光盘 dipakai untuk menyatakan tidak ada makanan yang tersisa/terbuang."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan hanya memperhatikan kata yang diucapkan ketika makan bersama. Tindakan mengambilkan makanan, cara menerima makanan, posisi gelas saat bersulang, serta seberapa bersih piring di akhir makan merupakan bagian dari pesan sosial dan rasa hormat yang sama pentingnya dengan ucapan verbal."
+        }
+      ]
+    },
+    {
+      "judul": "18. Variasi Regional dalam Ekspresi Lisan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Mandarin lisan tidak sepenuhnya seragam di semua wilayah. Pilihan bunyi, partikel akhir, dan gaya berbicara dapat menunjukkan latar regional penutur. Materi ini membandingkan Beijing (utara), wilayah selatan seperti Shanghai dan Guangzhou, Taiwan, serta Mandarin di Singapura/Malaysia yang memiliki ciri campuran tersendiri."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Wilayah",
+            "Ciri yang dibahas",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "Beijing / Utara",
+              "Banyak menggunakan 儿化 atau erhua",
+              "哪儿 dibanding 哪里; 好玩儿 dibanding 好玩"
+            ],
+            [
+              "Shanghai / Guangzhou / Selatan",
+              "Lebih jarang menggunakan 儿化; partikel akhir tertentu lebih sering terdengar",
+              "啦 dan 咯 (lo)"
+            ],
+            [
+              "Taiwan",
+              "Sering menggunakan 啦 secara ekstrem dan partikel akhir seperti 喔 atau 唷 yang terdengar lebih lembut/manis; jarang menggunakan 儿化",
+              "啦, 喔, 唷"
+            ],
+            [
+              "Singapura / Malaysia",
+              "Sering mencampur kata Inggris dan Melayu ke dalam kalimat Mandarin, serta memakai partikel akhir seperti 啦, 咯, dan 罗 yang dipengaruhi dialek Hokkien/Kanton",
+              "他很忙的啦; mencampur kata seperti okay, can, sian ke dalam kalimat Mandarin"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "哪儿",
+              "pinyin": "nǎr",
+              "arti": "di mana",
+              "catatan": "Bentuk dengan 儿化 yang umum diasosiasikan dengan Beijing."
+            },
+            {
+              "hanzi": "哪里",
+              "pinyin": "nǎlǐ",
+              "arti": "di mana",
+              "catatan": "Bentuk tanpa 儿化 yang dibandingkan dengan 哪儿, lebih umum di wilayah selatan dan bahasa standar tertulis."
+            },
+            {
+              "hanzi": "好玩儿",
+              "pinyin": "hǎowánr",
+              "arti": "menyenangkan",
+              "catatan": "Contoh bentuk dengan 儿化 yang khas gaya bicara Beijing."
+            },
+            {
+              "hanzi": "好玩",
+              "pinyin": "hǎowán",
+              "arti": "menyenangkan",
+              "catatan": "Bentuk tanpa 儿化 yang dibandingkan dengan 好玩儿."
+            },
+            {
+              "hanzi": "知道啦！",
+              "pinyin": "Zhīdào la!",
+              "arti": "Tahu, kok!",
+              "catatan": "啦 dipakai luas di Taiwan dan selatan untuk memberi nada santai pada pernyataan."
+            },
+            {
+              "hanzi": "好啊，我们一起去咯。",
+              "pinyin": "Hǎo a, wǒmen yìqǐ qù lo.",
+              "arti": "Oke, kita pergi bareng ya.",
+              "catatan": "咯 (lo) adalah partikel akhir khas wilayah selatan yang menandai kepastian santai."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap semua variasi regional sebagai kesalahan tata bahasa. Bentuk yang berbeda dapat mencerminkan kebiasaan pengucapan dan gaya bicara suatu wilayah, bukan kesalahan. Pembelajar perlu membedakan variasi regional yang sah dari kesalahan bahasa, dan menyesuaikan gaya bicara dengan lawan bicara jika ingin terdengar lebih akrab dengan penutur dari wilayah tertentu."
+        }
+      ]
+    },
+    {
+      "judul": "19. Kesalahan Umum Pembelajar Indonesia dalam Pragmatik Mandarin",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Sebagian besar kesalahan pragmatik pembelajar Indonesia bukan berasal dari tata bahasa yang salah, melainkan dari menerapkan norma sosial bahasa Indonesia atau bahasa Inggris ke dalam konteks Mandarin. Kalimat yang gramatikal sempurna tetap bisa terdengar aneh, terlalu blak-blakan, atau tidak sopan jika pemilihan register dan strateginya tidak sesuai kebiasaan penutur Mandarin."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Topik",
+            "Kesalahan (SALAH)",
+            "Perbaikan (BENAR)"
+          ],
+          "baris": [
+            [
+              "Menolak permintaan",
+              "不行, 我不要 (terlalu langsung dan terdengar kasar)",
+              "这不太方便 / 我考虑考虑 (penolakan halus yang menjaga muka lawan bicara)"
+            ],
+            [
+              "Berterima kasih atas kerja keras",
+              "谢谢 (hanya berterima kasih standar)",
+              "辛苦你了 (mengakui usaha dan kelelahan seseorang, lebih tepat untuk kerja keras)"
+            ],
+            [
+              "Meminta maaf hal kecil",
+              "对不起 (menabrak orang di kereta, terlalu berat/dramatis)",
+              "不好意思 (lebih pas untuk kesalahan kecil sehari-hari)"
+            ],
+            [
+              "Memanggil orang",
+              "Telapak tangan menghadap ke atas sambil mengibaskan jari",
+              "Telapak tangan menghadap ke bawah sambil mengibaskan jari ke arah diri sendiri"
+            ],
+            [
+              "Menerima hadiah/kartu nama",
+              "Menerima dengan satu tangan sambil melakukan hal lain",
+              "Menerima dengan kedua tangan sebagai tanda hormat"
+            ],
+            [
+              "Bahasa gaul di situasi formal",
+              "Memakai 摆烂 atau 栓Q dalam email kerja/surat resmi",
+              "Gunakan kosakata baku seperti 由于, 因此, 敬请谅解 dalam tulisan formal"
+            ],
+            [
+              "Membalas cerita panjang",
+              "Diam total tanpa respons apa pun",
+              "Sisipkan backchannel seperti 是吗？ 真的假的？ agar pembicara tahu Anda menyimak"
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan pragmatik sering tidak disadari karena secara tata bahasa kalimatnya benar, sehingga guru atau aplikasi koreksi tata bahasa tidak menandainya sebagai salah. Cara terbaik menghindarinya adalah membandingkan reaksi penutur asli terhadap ucapan Anda: jika lawan bicara terlihat canggung, menghindar, atau menjawab singkat tanpa alasan jelas, kemungkinan ada masalah pragmatik, bukan tata bahasa."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Pola umum lain: pembelajar sering menganggap bahwa semakin banyak kata sopan yang dipakai, semakin sopan kesan yang tercipta, padahal kesopanan Mandarin lebih bergantung pada strategi tidak langsung dan kepekaan terhadap muka lawan bicara dibanding jumlah kata 请 atau 谢谢 yang diucapkan. Menumpuk kata sopan tanpa memahami strategi merendah dan penolakan halus justru bisa terdengar kaku atau dipelajari dari buku, bukan alami."
+        }
+      ]
+    },
+    {
+      "judul": "20. Skenario Integratif: Menggabungkan Pragmatik dalam Percakapan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Pragmatik paling mudah dipahami ketika beberapa unsur muncul bersamaan dalam satu situasi nyata. Contoh berikut menggabungkan kata seru, konsep 热闹, 客气, 辛苦, respons keselamatan, partikel akhir, dan onomatope dalam satu alur percakapan di sebuah mal yang ramai."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "哇！这里真热闹啊！",
+              "pinyin": "Wā! Zhèlǐ zhēn rènao a!",
+              "arti": "Wow! Di sini ramai sekali!",
+              "catatan": "哇 menunjukkan kekaguman; 热闹 menggambarkan suasana ramai yang hidup dan meriah; 啊 membuat kalimat lebih ekspresif."
+            },
+            {
+              "hanzi": "哎呀，你太客气了，辛苦你了！",
+              "pinyin": "Āiyā, nǐ tài kèqi le, xīnkǔ nǐ le!",
+              "arti": "Aduh, Anda terlalu baik/sopan, Anda sudah bekerja keras!",
+              "catatan": "Menggabungkan ekspresi 哎呀, konsep 客气, dan penghargaan melalui 辛苦."
+            },
+            {
+              "hanzi": "啪嗒！",
+              "pinyin": "Pādā!",
+              "arti": "Bunyi benda jatuh.",
+              "catatan": "Onomatope untuk menggambarkan bunyi ketika dompet atau benda lain jatuh."
+            },
+            {
+              "hanzi": "啊呀！",
+              "pinyin": "Āyā!",
+              "arti": "Aduh!",
+              "catatan": "Respons spontan terhadap kejadian seperti barang jatuh."
+            },
+            {
+              "hanzi": "你没事吧？",
+              "pinyin": "Nǐ méishì ba?",
+              "arti": "Kamu tidak apa-apa?",
+              "catatan": "Pertanyaan untuk memastikan keadaan orang lain."
+            },
+            {
+              "hanzi": "没事，谢谢哈！",
+              "pinyin": "Méishì, xièxie hā!",
+              "arti": "Tidak apa-apa, makasih ya!",
+              "catatan": "Dalam contoh sumber, 哈 digunakan sebagai versi santai dari 啊."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Skenario kedua terjadi di tempat kerja: seorang rekan datang membantu menyelesaikan tugas mendesak yang sudah terlambat. \"赶紧把这个发给客户！\" (Segera kirim ini ke klien!) diucapkan atasan dengan nada terburu-buru. Setelah selesai, rekan tersebut menjawab \"没问题，搞定了！\" (Tidak masalah, sudah beres!), lalu atasan berkata \"辛苦了，今天你帮了大忙。\" (Terima kasih atas kerja kerasnya, hari ini kamu sangat membantu). Percakapan singkat ini menunjukkan bagaimana partikel, ekspresi kesegeraan, dan ungkapan penghargaan 辛苦 bekerja bersama secara alami dalam situasi profesional."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Skenario tersebut menunjukkan bahwa percakapan alami tidak hanya terdiri dari struktur kalimat. Penutur menggunakan interjeksi untuk emosi, partikel untuk nada, kata budaya untuk hubungan sosial, dan onomatope untuk membuat cerita lebih hidup, semuanya berjalan serentak dalam hitungan detik tanpa perlu dipikirkan secara sadar oleh penutur asli."
+        }
+      ]
+    },
+    {
+      "judul": "21. Ekspresi Penutup yang Menunjukkan Kerendahan Hati",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Pragmatik Mandarin tidak hanya berlaku pada pembukaan percakapan, tetapi juga pada cara menutupnya. Ungkapan seperti 那麻烦你了 menunjukkan bahwa pragmatik juga berkaitan dengan bagaimana seseorang mengakui bantuan orang lain dan menjaga hubungan sosial. Memahami ekspresi seperti ini membantu pembelajar terdengar lebih alami dibanding hanya mengandalkan 谢谢 dalam semua situasi."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Ekspresi",
+            "Pinyin",
+            "Konteks"
+          ],
+          "baris": [
+            [
+              "那麻烦你了",
+              "nà máfan nǐ le",
+              "Diucapkan setelah meminta bantuan, mengakui bahwa Anda telah merepotkan lawan bicara"
+            ],
+            [
+              "不客气",
+              "bú kèqi",
+              "Balasan standar untuk 谢谢, setara sama-sama"
+            ],
+            [
+              "哪里哪里",
+              "nǎlǐ nǎlǐ",
+              "Respons merendah terhadap pujian, secara harfiah 'di mana, di mana', menyiratkan 'ah, tidak juga'"
+            ],
+            [
+              "过奖了",
+              "guòjiǎng le",
+              "Anda terlalu memuji; respons merendah yang lebih formal terhadap pujian"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "那麻烦你了。",
+              "pinyin": "Nà máfan nǐ le.",
+              "arti": "Kalau begitu, saya repotkan Anda ya.",
+              "catatan": "Contoh penutup yang menunjukkan kerendahan hati setelah meminta bantuan."
+            },
+            {
+              "hanzi": "哪里哪里，还差得远呢。",
+              "pinyin": "Nǎlǐ nǎlǐ, hái chà de yuǎn ne.",
+              "arti": "Ah, tidak juga, masih jauh dari sempurna.",
+              "catatan": "Respons merendah yang umum diucapkan setelah menerima pujian, meskipun secara harfiah tampak seperti menyangkal."
+            },
+            {
+              "hanzi": "您过奖了。",
+              "pinyin": "Nín guòjiǎng le.",
+              "arti": "Anda terlalu memuji.",
+              "catatan": "Versi yang lebih formal untuk merendah setelah menerima pujian, cocok untuk situasi kerja atau dengan orang yang dihormati."
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Ekspresi penutup yang menunjukkan kerendahan hati sering muncul berpasangan dengan ekspresi pembuka yang juga merendah, membentuk pola percakapan yang konsisten: memulai dengan sungkan (不好意思打扰您了 — maaf mengganggu Anda), lalu menutup dengan mengakui jasa lawan bicara (那麻烦你了 atau 辛苦你了). Pola dua arah ini membuat interaksi terasa saling menghormati dari awal sampai akhir, bukan hanya formalitas di satu titik saja."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan membalas pujian dengan menerimanya secara langsung seperti 'terima kasih, memang saya hebat', karena dalam banyak konteks sosial Mandarin hal ini dapat terkesan sombong. Respons merendah seperti 哪里哪里 atau 过奖了 lebih diharapkan, meskipun secara harfiah terdengar seperti menyangkal pujian tersebut."
+        }
+      ]
+    },
+    {
+      "judul": "22. Latihan Singkat",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Latihan berikut menguji pemahaman terhadap fungsi pragmatik, bukan sekadar arti kata. Cobalah jawab sebelum melihat penjelasan pada bagian catatan."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Soal 1 (pilih makna yang tepat): Seorang teman membalas cerita panjang Anda hanya dengan '呵呵' di WeChat. Apa kemungkinan besar maksudnya? (a) Tertawa hangat dan senang mendengar cerita Anda (b) Sinis, kurang tertarik, atau bahkan agak kesal. Jawaban: (b) — dalam komunikasi internet modern, 呵呵 sering bernuansa sinis, bukan tawa tulus.",
+            "Soal 2 (terjemahkan maksud pragmatiknya, bukan kata per kata): Anda menawarkan bantuan kepada kolega, dan ia menjawab '这不太方便'. Apa maksud sebenarnya? (a) Ia sedang sibuk tetapi tetap menerima bantuan Anda nanti (b) Ia menolak secara halus dan sebaiknya Anda tidak memaksa. Jawaban: (b) — ungkapan ini adalah salah satu bentuk penolakan tidak langsung yang umum untuk menjaga muka kedua pihak.",
+            "Soal 3 (pilih ekspresi paling wajar): Anda tidak sengaja menyenggol seseorang di kereta yang penuh sesak. Ekspresi mana yang paling wajar diucapkan? (a) 对不起，我犯了严重的错误 (b) 不好意思. Jawaban: (b) — 不好意思 lebih pas untuk situasi kecil sehari-hari; menggunakan 对不起 dengan frasa seberat itu justru terdengar berlebihan.",
+            "Soal 4 (pilih bahasa tubuh yang tepat): Anda ingin memanggil seorang pelayan restoran dari kejauhan. Gerakan mana yang lebih sesuai norma yang dibahas? (a) Telapak tangan menghadap ke atas sambil menekuk jari (b) Telapak tangan menghadap ke bawah sambil mengibaskan jari ke arah diri sendiri. Jawaban: (b) — telapak menghadap ke atas dapat diasosiasikan dengan cara memanggil anjing atau orang berstatus sangat rendah.",
+            "Soal 5 (pilih register yang tepat): Anda menulis email resmi ke atasan untuk menjelaskan keterlambatan proyek karena masalah teknis. Ungkapan sebab-akibat mana yang lebih sesuai? (a) 因为...所以... dalam gaya obrolan santai (b) 由于...因此... dalam gaya tertulis formal. Jawaban: (b) — email kerja formal lebih sesuai memakai kosakata 书面语 seperti 由于 dan 因此, bukan gaya lisan santai."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "23. Prinsip Belajar Pragmatik Mandarin",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Untuk menguasai pragmatik, pembelajar perlu mendengarkan secara aktif. Jangan hanya memperhatikan kata yang digunakan; perhatikan bagaimana kata tersebut diucapkan, kepada siapa, dalam situasi apa, dengan nada seperti apa, dan respons apa yang muncul setelahnya. Pragmatik tidak bisa dikuasai hanya lewat menghafal daftar, melainkan lewat paparan berulang terhadap percakapan nyata dan keberanian mencoba lalu memperbaiki kesalahan."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Perhatikan intonasi dan nada, terutama ketika mendengar kata seru seperti 啊 dan 嗯.",
+            "Amati hubungan sosial antara pembicara: teman dekat, orang asing, orang yang lebih tua, guru, atasan, pelanggan, atau pelayan.",
+            "Bedakan arti literal dengan fungsi pragmatis. Kalimat yang secara literal berarti sesuatu belum tentu memiliki fungsi sosial yang sama.",
+            "Perhatikan penggunaan penolakan tidak langsung karena jawaban seperti 这不太方便, 我考虑考虑, atau 再说吧 dapat berfungsi sebagai penolakan halus.",
+            "Pelajari ungkapan secara berkelompok berdasarkan situasi, bukan hanya sebagai daftar kosakata terpisah.",
+            "Amati bahasa tubuh ketika menerima benda, memanggil orang, menunjuk, atau bersulang.",
+            "Kenali tabu berbasis homofon sebelum memberikan hadiah atau menggunakan angka dalam konteks budaya Tionghoa.",
+            "Bedakan bahasa standar dengan variasi regional seperti 儿化 di Beijing atau penggunaan partikel 啦/咯/喔 di wilayah lain.",
+            "Waspadai humor, sarkasme, dan ironi karena arti literal dapat berlawanan dengan maksud sebenarnya.",
+            "Gunakan konteks untuk menentukan apakah kata seperti 笨 atau 傻瓜 merupakan hinaan atau justru panggilan akrab.",
+            "Pelajari ekspresi pendek untuk menunjukkan bahwa Anda mendengarkan, seperti 是吗？ dan 然后呢？.",
+            "Sesuaikan register bahasa (formal/tertulis vs informal/lisan) dengan medium dan lawan bicara.",
+            "Bangun kepekaan terhadap tingkat kesopanan sehingga respons terdengar alami, bukan sekadar benar secara tata bahasa."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan terbesar pembelajar adalah menganggap bahasa sebagai kode yang hanya perlu diterjemahkan kata demi kata. Dalam pragmatik, arti sosial sering berada pada nada, konteks, hubungan antarpenutur, gerakan tubuh, dan kebiasaan budaya. Kalimat yang secara tata bahasa benar tetap dapat terdengar kaku, dingin, atau tidak sopan jika konteks pragmatisnya salah."
+        }
+      ]
+    },
+    {
+      "judul": "24. Sintesis Akhir Pilar 10",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Pilar 10 merupakan lapisan yang membuat bahasa Mandarin berubah dari sekadar struktur gramatikal menjadi komunikasi manusiawi. Setelah menguasai struktur dasar, pembelajar perlu memahami emosi dalam kata seru, suara dalam onomatope, pengaruh homofon terhadap budaya, bahasa tubuh, konsep seperti 缘分, 热闹, 客气, 辛苦, dan 面子, serta cara penutur menggunakan penolakan halus, partikel akhir, register formal-informal, bahasa gaul internet, humor, sarkasme, dan ekspresi regional."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Topik",
+            "Contoh kunci",
+            "Inti pragmatik"
+          ],
+          "baris": [
+            [
+              "Kata seru",
+              "啊(4 nada), 咦, 唉, 诶, 呸",
+              "Nada menentukan emosi lebih dari karakter itu sendiri"
+            ],
+            [
+              "Onomatope",
+              "叮咚, 哗啦, 哈哈 vs 呵呵",
+              "Membuat cerita lisan terasa hidup; 呵呵 bisa berubah sinis di internet"
+            ],
+            [
+              "Homofon & tabu",
+              "4≈死, 8≈发, 送钟≈送终, 伞≈散",
+              "Bunyi kata memengaruhi kebiasaan hadiah, angka, dan makan bersama"
+            ],
+            [
+              "Bahasa tubuh",
+              "Memanggil telapak ke bawah, dua tangan menerima, sumpit tidak tegak",
+              "Gerakan membawa makna sosial sekuat kata-kata"
+            ],
+            [
+              "Kata budaya",
+              "缘分, 热闹, 客气, 辛苦",
+              "Konsep sosial yang tidak punya padanan 1:1 dalam bahasa Indonesia"
+            ],
+            [
+              "面子 dan merendah",
+              "这不太方便, 内人, 给面子",
+              "Menjaga muka lawan bicara lebih penting daripada kejujuran blak-blakan"
+            ],
+            [
+              "Partikel akhir",
+              "吗, 呢, 吧, 啊, 啦, 嘛",
+              "Mengubah nada dan sikap tanpa mengubah inti makna"
+            ],
+            [
+              "Makian & pelembutan",
+              "他妈的, 笨, 我去, 我晕",
+              "Kekasaran bergantung pada kedekatan hubungan, bukan hanya kata itu sendiri"
+            ],
+            [
+              "Bahasa gaul internet",
+              "yyds, 破防, 摆烂, 内卷",
+              "Berubah cepat, hanya pantas untuk situasi informal"
+            ],
+            [
+              "Layanan publik",
+              "欢迎光临, 慢走, 您慢用",
+              "Ungkapan ritual yang menjalankan norma interaksi, bukan makna literal"
+            ],
+            [
+              "Formal vs informal",
+              "由于 vs 因为, 立刻 vs 马上",
+              "Register bahasa harus disesuaikan dengan medium dan situasi"
+            ],
+            [
+              "Humor & sarkasme",
+              "你可真厉害啊, 呵呵",
+              "Arti literal dapat terbalik total tergantung nada dan konteks"
+            ],
+            [
+              "Backchanneling",
+              "是吗？, 然后呢？, 天哪",
+              "Respons pendek menunjukkan pendengar aktif menyimak"
+            ],
+            [
+              "不好意思 vs 对不起",
+              "不好意思 (ringan) vs 对不起 (serius) vs 抱歉 (formal)",
+              "Tingkat keseriusan permintaan maaf berbeda-beda"
+            ],
+            [
+              "Ekspresi tergesa-gesa",
+              "赶紧, 赶快, 快点, 马上, 立刻",
+              "Nuansa urgensi dan formalitas berbeda meski semua berarti cepat"
+            ],
+            [
+              "Persetujuan/penolakan",
+              "行, 成, 得嘞, 随便, 再说吧",
+              "Banyak tingkat nuansa selain 是/不是"
+            ],
+            [
+              "Ritual makan",
+              "吃了吗？, 夹菜, 干杯, 光盘",
+              "Tindakan di meja makan membawa pesan hormat"
+            ],
+            [
+              "Variasi regional",
+              "儿化 Beijing, 啦/咯 selatan, 喔/唷 Taiwan",
+              "Mandarin lisan tidak seragam di semua wilayah"
+            ]
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Kata seru menunjukkan emosi dan sangat sensitif terhadap nada.",
+            "Onomatope membuat bahasa lisan dan cerita terasa lebih hidup.",
+            "Homofon memengaruhi tabu, angka, pemberian hadiah, dan kebiasaan sosial.",
+            "Bahasa tubuh merupakan bagian dari komunikasi dan dapat menentukan apakah suatu tindakan dianggap sopan atau kasar.",
+            "缘分, 热闹, 客气, 辛苦, dan 面子 membawa makna budaya yang tidak selalu dapat diterjemahkan dengan satu kata.",
+            "Kesopanan sering menggunakan strategi merendah dan menghindari penolakan yang terlalu langsung.",
+            "Partikel seperti 吗, 呢, 吧, 啊, dan 啦 membantu membentuk nada percakapan yang alami.",
+            "Makian dan bahasa kasar memiliki tingkat keakraban dan kekasaran yang bergantung pada konteks.",
+            "Bahasa generasi muda dan komunikasi internet terus menciptakan cara baru untuk melembutkan atau mengganti ekspresi kasar, tetapi cepat berubah dan hanya pantas dipakai informal.",
+            "Bahasa formal/tertulis dan informal/lisan memiliki kosakata berbeda yang harus disesuaikan dengan medium.",
+            "Respons pendek seperti 是吗？ dan 然后呢？ membantu menunjukkan bahwa pendengar aktif mengikuti cerita.",
+            "不好意思, 对不起, dan 抱歉 tidak selalu dapat dipertukarkan karena tingkat keseriusan dan fungsi sosialnya berbeda.",
+            "赶紧, 赶快, 快点, 马上, dan 立刻 memiliki perbedaan nuansa meskipun semuanya berkaitan dengan tindakan yang cepat atau segera.",
+            "行, 成, 得嘞, dan 再说吧 menunjukkan bahwa persetujuan dan penolakan dapat disampaikan dengan banyak tingkat nuansa.",
+            "Ritual makan, seperti 夹菜, 干杯, dan 光盘, membawa pesan penghormatan yang tidak terlihat dari kata-kata saja.",
+            "Variasi Beijing, wilayah selatan, Taiwan, dan Singapura/Malaysia menunjukkan bahwa Mandarin lisan memiliki keragaman regional.",
+            "Kemampuan pragmatik berkembang melalui mendengarkan secara aktif dan mengamati bagaimana penutur menggunakan bahasa dalam situasi nyata, bukan hanya menghafal daftar ekspresi."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan mengejar kesempurnaan pragmatik hanya dengan menghafalkan daftar ekspresi. Bahasa adalah sistem sosial yang terus berkembang. Materi ini mencakup fondasi dan banyak nuansa penting, tetapi penggunaan nyata tetap perlu dipelajari melalui paparan terhadap percakapan, konteks budaya, variasi regional, serta hubungan sosial antarpenutur."
+        }
+      ]
+    }
+  ]
+}
