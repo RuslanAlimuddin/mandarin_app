@@ -1,0 +1,3171 @@
+{
+  "pilar": 8,
+  "judul": "KATA GANTI, PENUNJUK, DAN SISTEM SAPAAN",
+  "ringkasan": "Pilar ini membahas cara merujuk kepada diri sendiri dan orang lain, menunjuk benda, tempat, waktu, cara, serta menggunakan sapaan keluarga, profesional, sosial, formal, akrab, dan regional dalam bahasa Mandarin. Pilihan kata sering berkaitan dengan usia, status, hubungan sosial, tingkat keakraban, dan konteks budaya.",
+  "bagian": [
+    {
+      "judul": "1. Kata Ganti Orang (人称代词)",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam bahasa Mandarin, kata ganti orang tidak hanya menunjukkan siapa yang dimaksud, tetapi dalam kasus tertentu juga mencerminkan hubungan sosial. Bentuk yang paling penting untuk diperhatikan adalah <span class=\"hz\">你</span> (<span class=\"py\">nǐ</span>) dan <span class=\"hz\">您</span> (<span class=\"py\">nín</span>), serta perbedaan tulisan antara <span class=\"hz\">他</span>, <span class=\"hz\">她</span>, dan <span class=\"hz\">它</span>."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Pinyin",
+            "Arti",
+            "Penggunaan"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">我</span>",
+              "<span class=\"py\">wǒ</span>",
+              "Saya",
+              "Digunakan dalam semua situasi; tidak memiliki bentuk hormat khusus untuk \"saya\"."
+            ],
+            [
+              "<span class=\"hz\">你</span>",
+              "<span class=\"py\">nǐ</span>",
+              "Kamu",
+              "Bentuk netral, terutama untuk teman sebaya, bawahan, atau orang yang lebih muda."
+            ],
+            [
+              "<span class=\"hz\">您</span>",
+              "<span class=\"py\">nín</span>",
+              "Anda",
+              "Bentuk hormat untuk orang yang lebih tua, atasan, guru, orang tua, mertua, pelanggan, atau orang yang dihormati."
+            ],
+            [
+              "<span class=\"hz\">他</span>",
+              "<span class=\"py\">tā</span>",
+              "Dia laki-laki",
+              "Untuk laki-laki."
+            ],
+            [
+              "<span class=\"hz\">她</span>",
+              "<span class=\"py\">tā</span>",
+              "Dia perempuan",
+              "Untuk perempuan; pengucapannya sama dengan <span class=\"hz\">他</span>."
+            ],
+            [
+              "<span class=\"hz\">它</span>",
+              "<span class=\"py\">tā</span>",
+              "Dia untuk benda/hewan",
+              "Untuk benda mati dan hewan secara netral."
+            ],
+            [
+              "<span class=\"hz\">祂</span>",
+              "<span class=\"py\">tā</span>",
+              "Dia untuk yang ilahi",
+              "Digunakan dalam tulisan tertentu untuk dewa atau yang ilahi; jarang digunakan."
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Semua bentuk \"dia\" pada tabel tersebut dibaca <span class=\"py\">tā</span>. Perbedaan <span class=\"hz\">他</span>, <span class=\"hz\">她</span>, <span class=\"hz\">它</span>, dan <span class=\"hz\">祂</span> terutama terlihat dalam tulisan, bukan dalam pelafalan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Pinyin",
+            "Arti",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">我们</span>",
+              "<span class=\"py\">wǒmen</span>",
+              "Kami/kita",
+              "Maknanya dapat inklusif atau eksklusif, tergantung konteks."
+            ],
+            [
+              "<span class=\"hz\">咱们</span>",
+              "<span class=\"py\">zánmen</span>",
+              "Kita",
+              "Secara khusus mencakup pembicara dan lawan bicara; populer terutama di wilayah Utara."
+            ],
+            [
+              "<span class=\"hz\">你们</span>",
+              "<span class=\"py\">nǐmen</span>",
+              "Kalian",
+              "Bentuk jamak dari <span class=\"hz\">你</span>."
+            ],
+            [
+              "<span class=\"hz\">您们</span>",
+              "<span class=\"py\">nínmen</span>",
+              "Anda sekalian",
+              "Jarang digunakan; lebih lazim menggunakan <span class=\"hz\">您各位</span> atau <span class=\"hz\">各位</span>."
+            ],
+            [
+              "<span class=\"hz\">他们</span>",
+              "<span class=\"py\">tāmen</span>",
+              "Mereka",
+              "Untuk kelompok laki-laki atau kelompok campuran."
+            ],
+            [
+              "<span class=\"hz\">她们</span>",
+              "<span class=\"py\">tāmen</span>",
+              "Mereka perempuan",
+              "Untuk kelompok yang seluruhnya perempuan."
+            ],
+            [
+              "<span class=\"hz\">它们</span>",
+              "<span class=\"py\">tāmen</span>",
+              "Mereka untuk benda/hewan",
+              "Untuk kelompok benda atau hewan."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Akhiran <span class=\"hz\">们</span> (<span class=\"py\">men</span>) berfungsi sebagai penanda jamak pada kata ganti. Namun, penanda ini tidak digunakan setelah jumlah yang sudah disebutkan. Misalnya, gunakan <span class=\"hz\">三个学生</span> (<span class=\"py\">sān ge xuésheng</span>), bukan <span class=\"hz\">三个学生们</span>."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Perbandingan",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">我们</span>",
+              "Dapat berarti kami yang tidak mencakup lawan bicara atau kita yang mencakup lawan bicara, bergantung pada konteks."
+            ],
+            [
+              "<span class=\"hz\">咱们</span>",
+              "Menunjukkan kelompok yang mencakup pembicara dan lawan bicara."
+            ],
+            [
+              "<span class=\"hz\">您</span>",
+              "Menunjukkan penghormatan terhadap lawan bicara."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我们去看电影",
+              "pinyin": "wǒmen qù kàn diànyǐng",
+              "arti": "Kami pergi menonton film; lawan bicara belum tentu ikut.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "咱们去看电影",
+              "pinyin": "zánmen qù kàn diànyǐng",
+              "arti": "Kita pergi menonton film; lawan bicara termasuk dalam kelompok.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "你吃了吗？",
+              "pinyin": "nǐ chī le ma?",
+              "arti": "Kamu sudah makan?",
+              "catatan": "Subjek dapat dihilangkan jika sudah jelas dari konteks."
+            },
+            {
+              "hanzi": "我吃了",
+              "pinyin": "wǒ chī le",
+              "arti": "Saya sudah makan.",
+              "catatan": ""
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Dalam konteks yang menuntut penghormatan, terutama ketika berbicara dengan orang yang lebih tua, atasan, guru, orang tua, mertua, atau pelanggan, jangan sembarangan mengganti <span class=\"hz\">您</span> dengan <span class=\"hz\">你</span>. Dalam konteks bisnis, sumber menekankan penggunaan <span class=\"hz\">您</span> untuk klien."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Bahasa Mandarin sering menghilangkan subjek apabila identitasnya sudah jelas. Karena itu, kalimat seperti <span class=\"hz\">吃了吗？</span> (<span class=\"py\">chī le ma?</span>) dapat dipahami sebagai \"sudah makan?\" tanpa harus selalu menyebut <span class=\"hz\">你</span>."
+        }
+      ]
+    },
+    {
+      "judul": "2. Kata Ganti Refleksif dan Timbal Balik",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Pinyin",
+            "Arti dan penggunaan"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">自己</span>",
+              "<span class=\"py\">zìjǐ</span>",
+              "\"Diri sendiri\"; dapat digunakan untuk semua orang."
+            ],
+            [
+              "<span class=\"hz\">亲自</span>",
+              "<span class=\"py\">qīnzì</span>",
+              "\"Secara pribadi\"; menekankan bahwa tindakan dilakukan sendiri secara langsung."
+            ],
+            [
+              "<span class=\"hz\">互相</span>",
+              "<span class=\"py\">hùxiāng</span>",
+              "\"Saling\"; digunakan untuk tindakan dua arah."
+            ],
+            [
+              "<span class=\"hz\">彼此</span>",
+              "<span class=\"py\">bǐcǐ</span>",
+              "\"Satu sama lain\"; nuansanya lebih formal atau sastra."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Pola penting untuk <span class=\"hz\">自己</span> adalah <span class=\"hz\">自己</span> + kata kerja untuk menyatakan melakukan sesuatu sendiri. Bentuk seperti <span class=\"hz\">我自己</span> menekankan bahwa \"saya sendiri\" yang melakukan tindakan tersebut."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我自己去",
+              "pinyin": "wǒ zìjǐ qù",
+              "arti": "Saya sendiri yang pergi.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "他应该自己决定",
+              "pinyin": "tā yīnggāi zìjǐ juédìng",
+              "arti": "Dia harus memutuskan sendiri.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "亲自来",
+              "pinyin": "qīnzì lái",
+              "arti": "Datang secara pribadi.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "互相帮助",
+              "pinyin": "hùxiāng bāngzhù",
+              "arti": "Saling membantu.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "互相了解",
+              "pinyin": "hùxiāng liǎojiě",
+              "arti": "Saling memahami.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "彼此尊重",
+              "pinyin": "bǐcǐ zūnzhòng",
+              "arti": "Saling menghormati.",
+              "catatan": "Nuansa lebih formal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "3. Kata Tunjuk Dasar dan Lokasi",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Pinyin",
+            "Arti",
+            "Penggunaan"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">这</span>",
+              "<span class=\"py\">zhè</span>",
+              "Ini",
+              "Untuk benda atau lokasi yang dekat."
+            ],
+            [
+              "<span class=\"hz\">那</span>",
+              "<span class=\"py\">nà</span>",
+              "Itu",
+              "Untuk benda atau lokasi yang jauh."
+            ],
+            [
+              "<span class=\"hz\">这些</span>",
+              "<span class=\"py\">zhèxiē</span>",
+              "Ini, jamak",
+              "Untuk banyak benda yang dekat."
+            ],
+            [
+              "<span class=\"hz\">那些</span>",
+              "<span class=\"py\">nàxiē</span>",
+              "Itu, jamak",
+              "Untuk banyak benda yang jauh."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Pola dasar untuk menunjuk benda adalah <span class=\"hz\">这</span>/<span class=\"hz\">那</span> + kata bantu bilangan + kata benda. Kata bantu bilangan harus menyesuaikan jenis benda yang dirujuk."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "这本书",
+              "pinyin": "zhè běn shū",
+              "arti": "Buku ini.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "那辆车",
+              "pinyin": "nà liàng chē",
+              "arti": "Mobil itu.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "这只猫",
+              "pinyin": "zhè zhī māo",
+              "arti": "Kucing ini.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "那个学生",
+              "pinyin": "nà ge xuésheng",
+              "arti": "Murid itu.",
+              "catatan": ""
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Pinyin",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">这里</span> / <span class=\"hz\">这儿</span>",
+              "<span class=\"py\">zhèlǐ / zhèr</span>",
+              "Di sini."
+            ],
+            [
+              "<span class=\"hz\">那里</span> / <span class=\"hz\">那儿</span>",
+              "<span class=\"py\">nàlǐ / nàr</span>",
+              "Di sana."
+            ],
+            [
+              "<span class=\"hz\">哪里</span> / <span class=\"hz\">哪儿</span>",
+              "<span class=\"py\">nǎlǐ / nǎr</span>",
+              "Di mana?"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Akhiran <span class=\"hz\">儿</span> (<span class=\"py\">-r</span>) berkaitan dengan 儿化 (erhua), yaitu ciri pengucapan yang sangat umum di wilayah Utara, khususnya Beijing. Bentuk seperti <span class=\"hz\">这儿</span>, <span class=\"hz\">那儿</span>, dan <span class=\"hz\">哪儿</span> merupakan variasi dari <span class=\"hz\">这里</span>, <span class=\"hz\">那里</span>, dan <span class=\"hz\">哪里</span>."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Pinyin",
+            "Arti",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">上</span>",
+              "<span class=\"py\">shàng</span>",
+              "Atas",
+              "<span class=\"hz\">桌子上</span> = di atas meja"
+            ],
+            [
+              "<span class=\"hz\">下</span>",
+              "<span class=\"py\">xià</span>",
+              "Bawah",
+              "<span class=\"hz\">桌子下</span> = di bawah meja"
+            ],
+            [
+              "<span class=\"hz\">左</span>",
+              "<span class=\"py\">zuǒ</span>",
+              "Kiri",
+              "<span class=\"hz\">左边</span> = di kiri"
+            ],
+            [
+              "<span class=\"hz\">右</span>",
+              "<span class=\"py\">yòu</span>",
+              "Kanan",
+              "<span class=\"hz\">右边</span> = di kanan"
+            ],
+            [
+              "<span class=\"hz\">前</span>",
+              "<span class=\"py\">qián</span>",
+              "Depan",
+              "<span class=\"hz\">前面</span> = di depan"
+            ],
+            [
+              "<span class=\"hz\">后</span>",
+              "<span class=\"py\">hòu</span>",
+              "Belakang",
+              "<span class=\"hz\">后面</span> = di belakang"
+            ],
+            [
+              "<span class=\"hz\">里</span>",
+              "<span class=\"py\">lǐ</span>",
+              "Dalam",
+              "<span class=\"hz\">房间里</span> = di dalam kamar"
+            ],
+            [
+              "<span class=\"hz\">外</span>",
+              "<span class=\"py\">wài</span>",
+              "Luar",
+              "<span class=\"hz\">门外</span> = di luar pintu"
+            ],
+            [
+              "<span class=\"hz\">旁</span>",
+              "<span class=\"py\">páng</span>",
+              "Samping",
+              "<span class=\"hz\">旁边</span> = di samping"
+            ],
+            [
+              "<span class=\"hz\">中间</span>",
+              "<span class=\"py\">zhōngjiān</span>",
+              "Tengah",
+              "<span class=\"hz\">中间</span> = di tengah"
+            ],
+            [
+              "<span class=\"hz\">对面</span>",
+              "<span class=\"py\">duìmiàn</span>",
+              "Seberang",
+              "<span class=\"hz\">对面</span> = di seberang"
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Lokasi dapat dibentuk dengan pola kata benda + <span class=\"hz\">的</span> + posisi, atau kata benda + posisi tanpa <span class=\"hz\">的</span> pada ungkapan yang sudah umum. Bentuk tanpa <span class=\"hz\">的</span> sering lebih ringkas dan lazim dalam penggunaan sehari-hari."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "书的上面",
+              "pinyin": "shū de shàngmiàn",
+              "arti": "Di atas buku.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "桌子上",
+              "pinyin": "zhuōzi shàng",
+              "arti": "Di atas meja.",
+              "catatan": "Bentuk tanpa 的 yang umum."
+            },
+            {
+              "hanzi": "桌子上面",
+              "pinyin": "zhuōzi shàngmiàn",
+              "arti": "Di atas meja.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "学校前面",
+              "pinyin": "xuéxiào qiánmiàn",
+              "arti": "Di depan sekolah.",
+              "catatan": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "4. Kata Tunjuk untuk Cara, Derajat, Kondisi, dan Alasan",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Pinyin",
+            "Makna",
+            "Fungsi"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">这样</span>",
+              "<span class=\"py\">zhèyàng</span>",
+              "Begini",
+              "Menunjukkan cara seperti ini."
+            ],
+            [
+              "<span class=\"hz\">那样</span>",
+              "<span class=\"py\">nàyàng</span>",
+              "Begitu",
+              "Menunjukkan cara seperti itu."
+            ],
+            [
+              "<span class=\"hz\">这么</span>",
+              "<span class=\"py\">zhème</span>",
+              "Sebesar/sebanyak/secepat ini",
+              "Menunjukkan tingkat atau derajat yang diasosiasikan dengan \"ini\"."
+            ],
+            [
+              "<span class=\"hz\">那么</span>",
+              "<span class=\"py\">nàme</span>",
+              "Sebesar/sebanyak/secepat itu",
+              "Menunjukkan tingkat atau derajat yang diasosiasikan dengan \"itu\"."
+            ],
+            [
+              "<span class=\"hz\">怎么</span>",
+              "<span class=\"py\">zěnme</span>",
+              "Bagaimana",
+              "Menanyakan cara; dalam konteks tertentu juga dapat menyatakan alasan atau keheranan."
+            ],
+            [
+              "<span class=\"hz\">怎么样</span>",
+              "<span class=\"py\">zěnmeyàng</span>",
+              "Bagaimana",
+              "Menanyakan kondisi atau keadaan."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "<span class=\"hz\">这样</span> dan <span class=\"hz\">那样</span> menunjuk pada cara atau keadaan, sedangkan <span class=\"hz\">这么</span> dan <span class=\"hz\">那么</span> digunakan untuk menunjukkan tingkat, ukuran, jumlah, harga, kecepatan, dan sifat lainnya. Dalam materi sumber, <span class=\"hz\">这么</span> diasosiasikan dengan kedekatan seperti \"ini\", sedangkan <span class=\"hz\">那么</span> dengan jarak seperti \"itu\"."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "这样做",
+              "pinyin": "zhèyàng zuò",
+              "arti": "Lakukan begini.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "那样说",
+              "pinyin": "nàyàng shuō",
+              "arti": "Bilang begitu.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "这么大",
+              "pinyin": "zhème dà",
+              "arti": "Sebesar ini.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "这么多",
+              "pinyin": "zhème duō",
+              "arti": "Sebanyak ini.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "这么贵",
+              "pinyin": "zhème guì",
+              "arti": "Semahal ini.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "这么快",
+              "pinyin": "zhème kuài",
+              "arti": "Secepat ini.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "那么大",
+              "pinyin": "nàme dà",
+              "arti": "Sebesar itu.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "那么多",
+              "pinyin": "nàme duō",
+              "arti": "Sebanyak itu.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "那么贵",
+              "pinyin": "nàme guì",
+              "arti": "Semahal itu.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "那么远",
+              "pinyin": "nàme yuǎn",
+              "arti": "Sejauh itu.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "北京这么多人！",
+              "pinyin": "Běijīng zhème duō rén!",
+              "arti": "Beijing sebanyak ini orangnya!",
+              "catatan": "Menunjukkan keterkejutan terhadap jumlah."
+            },
+            {
+              "hanzi": "他这么高！",
+              "pinyin": "tā zhème gāo!",
+              "arti": "Dia setinggi ini!",
+              "catatan": "Menunjukkan keheranan terhadap tingkat sifat."
+            },
+            {
+              "hanzi": "你怎么这么晚才来？",
+              "pinyin": "nǐ zěnme zhème wǎn cái lái?",
+              "arti": "Kenapa kamu datang selambat ini?",
+              "catatan": ""
+            },
+            {
+              "hanzi": "怎么做？",
+              "pinyin": "zěnme zuò?",
+              "arti": "Bagaimana melakukannya?",
+              "catatan": ""
+            },
+            {
+              "hanzi": "怎么不去？",
+              "pinyin": "zěnme bù qù?",
+              "arti": "Kenapa tidak pergi?",
+              "catatan": "Dalam konteks ini 怎么 dapat menanyakan alasan."
+            },
+            {
+              "hanzi": "你怎么样？",
+              "pinyin": "nǐ zěnmeyàng?",
+              "arti": "Bagaimana kabarmu/kondisimu?",
+              "catatan": ""
+            },
+            {
+              "hanzi": "怎么着？",
+              "pinyin": "zěnmezhe?",
+              "arti": "Bagaimana?",
+              "catatan": "Kasual dan dikaitkan dengan dialek Utara."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap <span class=\"hz\">这么</span> dan <span class=\"hz\">那么</span> hanya berarti \"ini\" dan \"itu\" secara lokasi. Dalam penggunaan derajat, keduanya dapat menerangkan ukuran, jumlah, harga, kecepatan, sifat, atau tingkat tertentu."
+        }
+      ]
+    },
+    {
+      "judul": "5. Sistem Sapaan Keluarga Dasar",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Sistem sapaan kekerabatan Mandarin sangat rinci. Perbedaannya dapat bergantung pada pihak ayah atau ibu, generasi, urutan usia, serta hubungan melalui pernikahan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hanzi",
+            "Pinyin",
+            "Arti",
+            "Keterangan"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">爸爸</span>",
+              "<span class=\"py\">bàba</span>",
+              "Ayah",
+              "Orang tua laki-laki."
+            ],
+            [
+              "<span class=\"hz\">妈妈</span>",
+              "<span class=\"py\">māma</span>",
+              "Ibu",
+              "Orang tua perempuan."
+            ],
+            [
+              "<span class=\"hz\">爷爷</span>",
+              "<span class=\"py\">yéye</span>",
+              "Kakek",
+              "Ayah dari ayah; pihak ayah."
+            ],
+            [
+              "<span class=\"hz\">奶奶</span>",
+              "<span class=\"py\">nǎinai</span>",
+              "Nenek",
+              "Ibu dari ayah; pihak ayah."
+            ],
+            [
+              "<span class=\"hz\">伯伯</span>",
+              "<span class=\"py\">bóbo</span>",
+              "Paman",
+              "Kakak laki-laki ayah."
+            ],
+            [
+              "<span class=\"hz\">叔叔</span>",
+              "<span class=\"py\">shūshu</span>",
+              "Paman",
+              "Adik laki-laki ayah."
+            ],
+            [
+              "<span class=\"hz\">姑姑</span>",
+              "<span class=\"py\">gūgu</span>",
+              "Bibi",
+              "Saudara perempuan ayah."
+            ],
+            [
+              "<span class=\"hz\">外公</span>",
+              "<span class=\"py\">wàigōng</span>",
+              "Kakek",
+              "Ayah dari ibu; pihak ibu."
+            ],
+            [
+              "<span class=\"hz\">外婆</span>",
+              "<span class=\"py\">wàipó</span>",
+              "Nenek",
+              "Ibu dari ibu; pihak ibu."
+            ],
+            [
+              "<span class=\"hz\">舅舅</span>",
+              "<span class=\"py\">jiùjiu</span>",
+              "Paman",
+              "Saudara laki-laki ibu."
+            ],
+            [
+              "<span class=\"hz\">阿姨</span>",
+              "<span class=\"py\">āyí</span>",
+              "Bibi",
+              "Saudara perempuan ibu."
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Perbedaan <span class=\"hz\">伯伯</span> dan <span class=\"hz\">叔叔</span> sangat penting: <span class=\"hz\">伯伯</span> adalah kakak laki-laki ayah, sedangkan <span class=\"hz\">叔叔</span> adalah adik laki-laki ayah. Salah memanggil anggota keluarga dapat dianggap tidak menghormati hubungan keluarga."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hanzi",
+            "Pinyin",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">哥哥</span>",
+              "<span class=\"py\">gēge</span>",
+              "Kakak laki-laki."
+            ],
+            [
+              "<span class=\"hz\">弟弟</span>",
+              "<span class=\"py\">dìdi</span>",
+              "Adik laki-laki."
+            ],
+            [
+              "<span class=\"hz\">姐姐</span>",
+              "<span class=\"py\">jiějie</span>",
+              "Kakak perempuan."
+            ],
+            [
+              "<span class=\"hz\">妹妹</span>",
+              "<span class=\"py\">mèimei</span>",
+              "Adik perempuan."
+            ],
+            [
+              "<span class=\"hz\">兄弟</span>",
+              "<span class=\"py\">xiōngdì</span>",
+              "Saudara laki-laki, mencakup kakak dan adik."
+            ],
+            [
+              "<span class=\"hz\">姐妹</span>",
+              "<span class=\"py\">jiěmèi</span>",
+              "Saudara perempuan, mencakup kakak dan adik."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam sistem sapaan keluarga, posisi usia relatif sangat penting. Panggilan kakak atau adik ditentukan berdasarkan siapa yang lebih tua atau lebih muda, bukan berdasarkan jenis kelamin pembicara. Kakak tertua sering disebut <span class=\"hz\">大哥</span> (<span class=\"py\">dà gē</span>) atau <span class=\"hz\">大姐</span> (<span class=\"py\">dà jiě</span>)."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hanzi",
+            "Pinyin",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">儿子</span>",
+              "<span class=\"py\">érzi</span>",
+              "Anak laki-laki."
+            ],
+            [
+              "<span class=\"hz\">女儿</span>",
+              "<span class=\"py\">nǚ'ér</span>",
+              "Anak perempuan."
+            ],
+            [
+              "<span class=\"hz\">孩子</span>",
+              "<span class=\"py\">háizi</span>",
+              "Anak secara umum."
+            ],
+            [
+              "<span class=\"hz\">孙子</span>",
+              "<span class=\"py\">sūnzi</span>",
+              "Cucu laki-laki dari anak laki-laki."
+            ],
+            [
+              "<span class=\"hz\">孙女</span>",
+              "<span class=\"py\">sūnnǚ</span>",
+              "Cucu perempuan dari anak laki-laki."
+            ],
+            [
+              "<span class=\"hz\">外孙</span>",
+              "<span class=\"py\">wàisūn</span>",
+              "Cucu laki-laki dari anak perempuan."
+            ],
+            [
+              "<span class=\"hz\">外孙女</span>",
+              "<span class=\"py\">wàisūnnǚ</span>",
+              "Cucu perempuan dari anak perempuan."
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Perhatikan perbedaan <span class=\"hz\">孙子</span>/<span class=\"hz\">孙女</span> dengan <span class=\"hz\">外孙</span>/<span class=\"hz\">外孙女</span>. Perbedaannya bergantung pada anak siapa yang menjadi orang tua si cucu."
+        }
+      ]
+    },
+    {
+      "judul": "6. Pasangan dan Mertua",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hanzi",
+            "Pinyin",
+            "Arti",
+            "Nuansa/keterangan"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">老公</span>",
+              "<span class=\"py\">lǎogōng</span>",
+              "Suami",
+              "Kasual dan sehari-hari."
+            ],
+            [
+              "<span class=\"hz\">老婆</span>",
+              "<span class=\"py\">lǎopó</span>",
+              "Istri",
+              "Kasual dan sehari-hari."
+            ],
+            [
+              "<span class=\"hz\">丈夫</span>",
+              "<span class=\"py\">zhàngfu</span>",
+              "Suami",
+              "Lebih formal."
+            ],
+            [
+              "<span class=\"hz\">妻子</span>",
+              "<span class=\"py\">qīzi</span>",
+              "Istri",
+              "Lebih formal."
+            ],
+            [
+              "<span class=\"hz\">岳父</span>",
+              "<span class=\"py\">yuèfù</span>",
+              "Ayah mertua dari pihak istri",
+              "Digunakan dalam hubungan pihak istri."
+            ],
+            [
+              "<span class=\"hz\">岳母</span>",
+              "<span class=\"py\">yuèmǔ</span>",
+              "Ibu mertua dari pihak istri",
+              "Digunakan dalam hubungan pihak istri."
+            ],
+            [
+              "<span class=\"hz\">公公</span>",
+              "<span class=\"py\">gōnggong</span>",
+              "Ayah mertua dari pihak suami",
+              "Istri menyebut ayah suaminya demikian."
+            ],
+            [
+              "<span class=\"hz\">婆婆</span>",
+              "<span class=\"py\">pópo</span>",
+              "Ibu mertua dari pihak suami",
+              "Istri menyebut ibu suaminya demikian."
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menyamakan semua mertua dengan satu istilah. <span class=\"hz\">岳父</span> dan <span class=\"hz\">岳母</span> merujuk pada orang tua istri, sedangkan <span class=\"hz\">公公</span> dan <span class=\"hz\">婆婆</span> merujuk pada orang tua suami."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam sapaan langsung kepada mertua, materi sumber memberikan contoh penggunaan <span class=\"hz\">爸爸</span> atau <span class=\"hz\">妈妈</span> sebagai panggilan keluarga, disertai bentuk hormat <span class=\"hz\">您</span>."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "爸爸，您吃饭了吗？",
+              "pinyin": "bàba, nín chīfàn le ma?",
+              "arti": "Ayah, apakah Anda sudah makan?",
+              "catatan": "Contoh panggilan langsung kepada mertua."
+            },
+            {
+              "hanzi": "妈，您身体好吗？",
+              "pinyin": "mā, nín shēntǐ hǎo ma?",
+              "arti": "Bu, apakah kesehatan Anda baik?",
+              "catatan": "Contoh panggilan hormat kepada mertua."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "7. Sepupu, Ipar, Keponakan, dan Generasi Lebih Jauh",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Sistem kekerabatan Mandarin membedakan sepupu berdasarkan garis keluarga. Salah satu perbedaan penting adalah <span class=\"hz\">堂</span> dan <span class=\"hz\">表</span>."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Pinyin",
+            "Arti",
+            "Hubungan"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">堂哥</span>",
+              "<span class=\"py\">tánggē</span>",
+              "Sepupu laki-laki lebih tua",
+              "Anak dari saudara laki-laki ayah."
+            ],
+            [
+              "<span class=\"hz\">堂弟</span>",
+              "<span class=\"py\">tángdì</span>",
+              "Sepupu laki-laki lebih muda",
+              "Anak dari saudara laki-laki ayah."
+            ],
+            [
+              "<span class=\"hz\">堂姐</span>",
+              "<span class=\"py\">tángjiě</span>",
+              "Sepupu perempuan lebih tua",
+              "Anak dari saudara laki-laki ayah."
+            ],
+            [
+              "<span class=\"hz\">堂妹</span>",
+              "<span class=\"py\">tángmèi</span>",
+              "Sepupu perempuan lebih muda",
+              "Anak dari saudara laki-laki ayah."
+            ],
+            [
+              "<span class=\"hz\">表哥</span>",
+              "<span class=\"py\">biǎogē</span>",
+              "Sepupu laki-laki lebih tua",
+              "Dari pihak ibu atau anak dari saudara perempuan ayah."
+            ],
+            [
+              "<span class=\"hz\">表弟</span>",
+              "<span class=\"py\">biǎodì</span>",
+              "Sepupu laki-laki lebih muda",
+              "Dari pihak ibu atau anak dari saudara perempuan ayah."
+            ],
+            [
+              "<span class=\"hz\">表姐</span>",
+              "<span class=\"py\">biǎojiě</span>",
+              "Sepupu perempuan lebih tua",
+              "Dari pihak ibu atau anak dari saudara perempuan ayah."
+            ],
+            [
+              "<span class=\"hz\">表妹</span>",
+              "<span class=\"py\">biǎomèi</span>",
+              "Sepupu perempuan lebih muda",
+              "Dari pihak ibu atau anak dari saudara perempuan ayah."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam kerangka tradisional yang dijelaskan sumber, <span class=\"hz\">堂</span> berkaitan dengan garis ayah melalui saudara laki-laki ayah dan secara tradisional diasosiasikan dengan nama keluarga yang sama. <span class=\"hz\">表</span> mencakup sepupu dari pihak ibu serta anak dari saudara perempuan ayah dan secara tradisional diasosiasikan dengan nama keluarga yang berbeda."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Rumus hafalan yang diberikan sumber adalah: <span class=\"hz\">堂</span> = garis ayah melalui saudara laki-laki ayah; <span class=\"hz\">表</span> = pihak ibu atau melalui saudara perempuan ayah. Jangan hanya menghafalkan arti \"sepupu\", karena hubungan keluarganya berbeda."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hanzi",
+            "Pinyin",
+            "Arti",
+            "Hubungan"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">大伯子</span>",
+              "<span class=\"py\">dàbózi</span>",
+              "Kakak laki-laki suami",
+              "Istri menyebut kakak laki-laki suaminya."
+            ],
+            [
+              "<span class=\"hz\">小叔子</span>",
+              "<span class=\"py\">xiǎoshūzi</span>",
+              "Adik laki-laki suami",
+              "Istri menyebut adik laki-laki suaminya."
+            ],
+            [
+              "<span class=\"hz\">大姑子</span>",
+              "<span class=\"py\">dàgūzi</span>",
+              "Kakak perempuan suami",
+              "Istri menyebut kakak perempuan suaminya."
+            ],
+            [
+              "<span class=\"hz\">小姑子</span>",
+              "<span class=\"py\">xiǎogūzi</span>",
+              "Adik perempuan suami",
+              "Istri menyebut adik perempuan suaminya."
+            ],
+            [
+              "<span class=\"hz\">大舅子</span>",
+              "<span class=\"py\">dàjiùzi</span>",
+              "Kakak laki-laki istri",
+              "Suami menyebut kakak laki-laki istrinya."
+            ],
+            [
+              "<span class=\"hz\">小舅子</span>",
+              "<span class=\"py\">xiǎojiùzi</span>",
+              "Adik laki-laki istri",
+              "Suami menyebut adik laki-laki istrinya."
+            ],
+            [
+              "<span class=\"hz\">大姨子</span>",
+              "<span class=\"py\">dàyízi</span>",
+              "Kakak perempuan istri",
+              "Suami menyebut kakak perempuan istrinya."
+            ],
+            [
+              "<span class=\"hz\">小姨子</span>",
+              "<span class=\"py\">xiǎoyízi</span>",
+              "Adik perempuan istri",
+              "Suami menyebut adik perempuan istrinya."
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hanzi",
+            "Pinyin",
+            "Arti",
+            "Hubungan"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">侄子</span>",
+              "<span class=\"py\">zhízi</span>",
+              "Keponakan laki-laki",
+              "Anak dari saudara laki-laki."
+            ],
+            [
+              "<span class=\"hz\">侄女</span>",
+              "<span class=\"py\">zhínǚ</span>",
+              "Keponakan perempuan",
+              "Anak dari saudara laki-laki."
+            ],
+            [
+              "<span class=\"hz\">外甥</span>",
+              "<span class=\"py\">wàishēng</span>",
+              "Keponakan laki-laki",
+              "Anak dari saudara perempuan."
+            ],
+            [
+              "<span class=\"hz\">外甥女</span>",
+              "<span class=\"py\">wàishēngnǚ</span>",
+              "Keponakan perempuan",
+              "Anak dari saudara perempuan."
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hanzi",
+            "Pinyin",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">曾祖父</span>",
+              "<span class=\"py\">zēngzǔfù</span>",
+              "Kakek buyut."
+            ],
+            [
+              "<span class=\"hz\">曾祖母</span>",
+              "<span class=\"py\">zēngzǔmǔ</span>",
+              "Nenek buyut."
+            ],
+            [
+              "<span class=\"hz\">外曾祖父</span>",
+              "<span class=\"py\">wàizēngzǔfù</span>",
+              "Kakek buyut dari garis ibu."
+            ],
+            [
+              "<span class=\"hz\">外曾祖母</span>",
+              "<span class=\"py\">wàizēngzǔmǔ</span>",
+              "Nenek buyut dari garis ibu."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam percakapan sehari-hari, generasi buyut juga dapat disebut dengan bentuk seperti <span class=\"hz\">太爷爷</span> (<span class=\"py\">tài yéye</span>) atau <span class=\"hz\">太奶奶</span> (<span class=\"py\">tài nǎinai</span>), sebagaimana dicatat dalam sumber."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Generasi",
+            "Istilah"
+          ],
+          "baris": [
+            [
+              "Generasi 5 di atas",
+              "<span class=\"hz\">高祖</span> (<span class=\"py\">gāozǔ</span>)"
+            ],
+            [
+              "Generasi 4 di atas",
+              "<span class=\"hz\">曾祖</span> (<span class=\"py\">zēngzǔ</span>)"
+            ],
+            [
+              "Generasi 3 di atas",
+              "<span class=\"hz\">祖</span> (<span class=\"py\">zǔ</span>)"
+            ],
+            [
+              "Generasi 2 di atas",
+              "<span class=\"hz\">父</span>/<span class=\"hz\">母</span> (<span class=\"py\">fù/mǔ</span>)"
+            ],
+            [
+              "Generasi 1",
+              "Diri sendiri"
+            ],
+            [
+              "Generasi 1 di bawah",
+              "<span class=\"hz\">子</span>/<span class=\"hz\">女</span> (<span class=\"py\">zǐ/nǚ</span>)"
+            ],
+            [
+              "Generasi 2 di bawah",
+              "<span class=\"hz\">孙</span> (<span class=\"py\">sūn</span>)"
+            ],
+            [
+              "Generasi 3 di bawah",
+              "<span class=\"hz\">曾孙</span> (<span class=\"py\">zēngsūn</span>)"
+            ],
+            [
+              "Generasi 4 di bawah",
+              "<span class=\"hz\">玄孙</span> (<span class=\"py\">xuánsūn</span>)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "8. Sapaan Profesional, Sosial, dan Orang Asing",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam konteks formal, penggunaan jabatan sebagai sapaan sangat penting. Pola yang umum adalah nama belakang + jabatan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hanzi",
+            "Pinyin",
+            "Arti",
+            "Penggunaan"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">老师</span>",
+              "<span class=\"py\">lǎoshī</span>",
+              "Guru",
+              "Guru, dosen, atau instruktur; sangat umum."
+            ],
+            [
+              "<span class=\"hz\">医生</span>",
+              "<span class=\"py\">yīshēng</span>",
+              "Dokter",
+              "Tenaga medis."
+            ],
+            [
+              "<span class=\"hz\">经理</span>",
+              "<span class=\"py\">jīnglǐ</span>",
+              "Manajer",
+              "Atasan atau manajer di kantor."
+            ],
+            [
+              "<span class=\"hz\">校长</span>",
+              "<span class=\"py\">xiàozhǎng</span>",
+              "Kepala sekolah",
+              "Pemimpin institusi pendidikan."
+            ],
+            [
+              "<span class=\"hz\">董事长</span>",
+              "<span class=\"py\">dǒngshìzhǎng</span>",
+              "Ketua dewan",
+              "Pemimpin perusahaan."
+            ],
+            [
+              "<span class=\"hz\">教授</span>",
+              "<span class=\"py\">jiàoshòu</span>",
+              "Profesor",
+              "Akademisi senior."
+            ],
+            [
+              "<span class=\"hz\">师傅</span>",
+              "<span class=\"py\">shīfu</span>",
+              "Master/ahli",
+              "Tukang, sopir, atau pekerja terampil."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "张老师",
+              "pinyin": "Zhāng lǎoshī",
+              "arti": "Guru Zhang.",
+              "catatan": "Nama belakang + jabatan."
+            },
+            {
+              "hanzi": "王医生",
+              "pinyin": "Wáng yīshēng",
+              "arti": "Dokter Wang.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "李经理",
+              "pinyin": "Lǐ jīnglǐ",
+              "arti": "Manajer Li.",
+              "catatan": ""
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hanzi",
+            "Pinyin",
+            "Arti",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">先生</span>",
+              "<span class=\"py\">xiānsheng</span>",
+              "Tuan/Bapak",
+              "Formal untuk pria."
+            ],
+            [
+              "<span class=\"hz\">女士</span>",
+              "<span class=\"py\">nǚshì</span>",
+              "Nyonya/Nona",
+              "Formal untuk wanita."
+            ],
+            [
+              "<span class=\"hz\">小姐</span>",
+              "<span class=\"py\">xiǎojiě</span>",
+              "Nona",
+              "Untuk wanita muda, tetapi memiliki perbedaan konotasi regional."
+            ],
+            [
+              "<span class=\"hz\">同志</span>",
+              "<span class=\"py\">tóngzhì</span>",
+              "Kawan",
+              "Sapaan yang dahulu lebih umum; sekarang relatif jarang dalam makna tersebut."
+            ],
+            [
+              "<span class=\"hz\">帅哥</span>",
+              "<span class=\"py\">shuàigē</span>",
+              "Ganteng/Bro",
+              "Kasual untuk pria muda."
+            ],
+            [
+              "<span class=\"hz\">美女</span>",
+              "<span class=\"py\">měinǚ</span>",
+              "Cantik/Nona cantik",
+              "Kasual untuk wanita muda."
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Penggunaan <span class=\"hz\">小姐</span> perlu sangat hati-hati karena konotasinya dapat berbeda menurut wilayah dan konteks. Materi sumber memperingatkan bahwa di Daratan istilah ini dapat memiliki penggunaan atau konotasi negatif. Untuk sapaan formal yang aman kepada wanita, gunakan <span class=\"hz\">女士</span>."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "<span class=\"hz\">同志</span> juga memiliki perbedaan regional dan historis. Dalam materi sumber, di Taiwan kata ini dicatat memiliki makna modern yang berbeda, sedangkan penggunaan lama \"kawan\" masih diasosiasikan dengan Daratan. <span class=\"hz\">帅哥</span> dan <span class=\"hz\">美女</span> bersifat sangat kasual dan tidak cocok untuk semua situasi formal."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Sapaan",
+            "Pinyin",
+            "Arti/nilai sosial"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">大爷</span>",
+              "<span class=\"py\">dàyé</span>",
+              "Sapaan hormat untuk pria tua."
+            ],
+            [
+              "<span class=\"hz\">大妈</span>",
+              "<span class=\"py\">dàmā</span>",
+              "Sapaan untuk wanita setengah tua."
+            ],
+            [
+              "<span class=\"hz\">老人家</span>",
+              "<span class=\"py\">lǎorénjiā</span>",
+              "Sapaan sangat hormat untuk orang tua."
+            ],
+            [
+              "<span class=\"hz\">老张</span>",
+              "<span class=\"py\">lǎo Zhāng</span>",
+              "Sapaan kepada Zhang yang lebih tua atau sudah akrab; dapat membawa nuansa akrab/hormat."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "9. Aturan Emas Sapaan dan Kesalahan Umum",
+      "isi": [
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Gunakan jabatan sebagai sapaan dalam situasi formal.",
+            "Gunakan <span class=\"hz\">您</span> untuk orang yang lebih tua atau memiliki status lebih tinggi ketika konteks menuntut penghormatan.",
+            "Jangan langsung memanggil nama seseorang jika hubungan belum cukup akrab.",
+            "Jika tidak yakin bagaimana memanggil seseorang, tanyakan secara sopan."
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我怎么称呼您？",
+              "pinyin": "wǒ zěnme chēnghu nín?",
+              "arti": "Bagaimana saya sebaiknya memanggil Anda?",
+              "catatan": "Cara meminta petunjuk sapaan dengan sopan."
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kesalahan",
+            "Mengapa bermasalah",
+            "Perbaikan"
+          ],
+          "baris": [
+            [
+              "Memanggil atasan dengan nama langsung",
+              "Dapat dianggap tidak hormat.",
+              "Gunakan jabatan."
+            ],
+            [
+              "Memanggil orang tua dengan <span class=\"hz\">你</span>",
+              "Dalam konteks yang menuntut penghormatan dapat dianggap tidak sopan.",
+              "Gunakan <span class=\"hz\">您</span>."
+            ],
+            [
+              "Memanggil guru dengan nama langsung",
+              "Dapat dianggap tidak hormat.",
+              "Gunakan jabatan seperti <span class=\"hz\">老师</span> + nama belakang."
+            ],
+            [
+              "Salah membedakan hubungan keluarga",
+              "Dapat menyinggung atau menunjukkan bahwa hubungan tidak dipahami.",
+              "Pelajari sistem kekerabatan secara spesifik."
+            ],
+            [
+              "Memanggil wanita asing dengan <span class=\"hz\">小姐</span> di Daratan tanpa memahami konteks",
+              "Dapat membawa konotasi negatif.",
+              "Gunakan <span class=\"hz\">女士</span> dalam konteks formal."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Sapaan juga dapat berubah menurut generasi dan tingkat keakraban. Materi sumber memberikan kecenderungan bahwa orang lebih tua sering disapa dengan jabatan atau istilah hormat, kelompok usia menengah dengan jabatan atau <span class=\"hz\">先生</span>/<span class=\"hz\">女士</span>, orang muda yang sudah akrab dapat menggunakan <span class=\"hz\">哥</span>/<span class=\"hz\">姐</span>, sedangkan teman sebaya dapat menggunakan nama langsung bila hubungan memang sudah akrab."
+        }
+      ]
+    },
+    {
+      "judul": "10. Kepemilikan dan Pola Inti",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Kata ganti dapat digunakan untuk menunjukkan kepemilikan dengan pola kata ganti + <span class=\"hz\">的</span> + kata benda."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我的书",
+              "pinyin": "wǒ de shū",
+              "arti": "Buku saya.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "你的车",
+              "pinyin": "nǐ de chē",
+              "arti": "Mobilmu.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "他的家",
+              "pinyin": "tā de jiā",
+              "arti": "Rumahnya.",
+              "catatan": ""
+            }
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Tiga pola inti yang perlu diingat adalah: kata ganti + <span class=\"hz\">的</span> + kata benda untuk kepemilikan; <span class=\"hz\">这</span>/<span class=\"hz\">那</span> + kata bantu + kata benda untuk menunjuk benda; serta kata benda + <span class=\"hz\">的</span> + posisi atau kata benda + posisi untuk lokasi."
+        }
+      ]
+    },
+    {
+      "judul": "11. Kata Tunjuk untuk \"Lain\", \"Masing-masing\", \"Semua\", dan \"Sendiri\"",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Pinyin",
+            "Makna dan nuansa"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">其他</span>",
+              "<span class=\"py\">qítā</span>",
+              "\"Lain\"; lebih formal dan banyak digunakan untuk hal, orang, pilihan, atau faktor lain."
+            ],
+            [
+              "<span class=\"hz\">别的</span>",
+              "<span class=\"py\">biéde</span>",
+              "\"Lain\"; lebih kasual dan sehari-hari."
+            ],
+            [
+              "<span class=\"hz\">另外</span>",
+              "<span class=\"py\">lìngwài</span>",
+              "\"Lain/tambahan/selain itu\"; dapat memperkenalkan tambahan atau alternatif."
+            ],
+            [
+              "<span class=\"hz\">各自</span>",
+              "<span class=\"py\">gèzì</span>",
+              "\"Masing-masing\"; menekankan setiap pihak melakukan atau memiliki sesuatu sendiri."
+            ],
+            [
+              "<span class=\"hz\">分别</span>",
+              "<span class=\"py\">fēnbié</span>",
+              "\"Secara terpisah/masing-masing\"; menekankan tindakan atau hasil yang terpisah."
+            ],
+            [
+              "<span class=\"hz\">大家</span>",
+              "<span class=\"py\">dàjiā</span>",
+              "\"Semua orang\"; umum dan sehari-hari."
+            ],
+            [
+              "<span class=\"hz\">各位</span>",
+              "<span class=\"py\">gèwèi</span>",
+              "\"Hadirin sekalian\"; formal, terutama untuk pidato atau kelompok yang disapa."
+            ],
+            [
+              "<span class=\"hz\">所有</span>",
+              "<span class=\"py\">suǒyǒu</span>",
+              "\"Semua\"; digunakan untuk benda atau hal dalam materi sumber."
+            ],
+            [
+              "<span class=\"hz\">独自</span>",
+              "<span class=\"py\">dúzì</span>",
+              "\"Sendirian\"; menekankan melakukan sesuatu seorang diri dan dapat membawa nuansa emosional."
+            ],
+            [
+              "<span class=\"hz\">单独</span>",
+              "<span class=\"py\">dāndú</span>",
+              "\"Secara terpisah/sendirian\"; lebih netral dan faktual."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "除了这个，还有其他问题吗？",
+              "pinyin": "chúle zhège, hái yǒu qítā wèntí ma?",
+              "arti": "Selain ini, apakah masih ada pertanyaan lain?",
+              "catatan": ""
+            },
+            {
+              "hanzi": "我们需要考虑其他因素",
+              "pinyin": "wǒmen xūyào kǎolǜ qítā yīnsù",
+              "arti": "Kita perlu mempertimbangkan faktor-faktor lain.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "我不想吃这个，有别的东西吗？",
+              "pinyin": "wǒ bù xiǎng chī zhège, yǒu biéde dōngxi ma?",
+              "arti": "Saya tidak mau makan ini, ada yang lain?",
+              "catatan": ""
+            },
+            {
+              "hanzi": "别的人已经走了",
+              "pinyin": "biéde rén yǐjīng zǒu le",
+              "arti": "Orang lain sudah pergi.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "我买了苹果，另外还买了香蕉",
+              "pinyin": "wǒ mǎi le píngguǒ, lìngwài hái mǎi le xiāngjiāo",
+              "arti": "Saya membeli apel, selain itu juga membeli pisang.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "另外，我想说一件事",
+              "pinyin": "lìngwài, wǒ xiǎng shuō yí jiàn shì",
+              "arti": "Selain itu, saya ingin mengatakan satu hal.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "他们各自回家",
+              "pinyin": "tāmen gèzì huí jiā",
+              "arti": "Mereka masing-masing pulang ke rumah.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "各自有自己的想法",
+              "pinyin": "gèzì yǒu zìjǐ de xiǎngfǎ",
+              "arti": "Masing-masing memiliki pemikirannya sendiri.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "我们分别去不同的地方",
+              "pinyin": "wǒmen fēnbié qù bùtóng de dìfang",
+              "arti": "Kami pergi secara terpisah ke tempat yang berbeda.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "大家好！",
+              "pinyin": "dàjiā hǎo!",
+              "arti": "Halo semuanya!",
+              "catatan": ""
+            },
+            {
+              "hanzi": "各位来宾",
+              "pinyin": "gèwèi láibīn",
+              "arti": "Para tamu sekalian.",
+              "catatan": "Formal."
+            },
+            {
+              "hanzi": "各位老师",
+              "pinyin": "gèwèi lǎoshī",
+              "arti": "Para guru sekalian.",
+              "catatan": "Formal."
+            },
+            {
+              "hanzi": "所有的问题",
+              "pinyin": "suǒyǒu de wèntí",
+              "arti": "Semua masalah.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "所有的钱",
+              "pinyin": "suǒyǒu de qián",
+              "arti": "Semua uang.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "他独自生活",
+              "pinyin": "tā dúzì shēnghuó",
+              "arti": "Dia hidup sendirian.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "我们单独谈谈",
+              "pinyin": "wǒmen dāndú tán tan",
+              "arti": "Kita bicara berdua saja.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "单独的房间",
+              "pinyin": "dāndú de fángjiān",
+              "arti": "Kamar terpisah.",
+              "catatan": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "12. Kata Tunjuk untuk Waktu",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Pinyin",
+            "Arti",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">现在</span>",
+              "<span class=\"py\">xiànzài</span>",
+              "Sekarang",
+              "Umum dan netral."
+            ],
+            [
+              "<span class=\"hz\">目前</span>",
+              "<span class=\"py\">mùqián</span>",
+              "Saat ini",
+              "Lebih formal; cocok untuk laporan atau keadaan yang sedang berlangsung."
+            ],
+            [
+              "<span class=\"hz\">如今</span>",
+              "<span class=\"py\">rújīn</span>",
+              "Sekarang ini",
+              "Menunjukkan keadaan masa kini, terutama dengan nuansa perubahan dibanding masa lalu."
+            ],
+            [
+              "<span class=\"hz\">这会儿</span>",
+              "<span class=\"py\">zhèhuìr</span>",
+              "Sekarang ini",
+              "Kasual; dikaitkan dengan penggunaan Beijing."
+            ],
+            [
+              "<span class=\"hz\">那时</span>",
+              "<span class=\"py\">nàshí</span>",
+              "Waktu itu",
+              "Menunjuk waktu yang telah dirujuk sebelumnya."
+            ],
+            [
+              "<span class=\"hz\">这时</span>",
+              "<span class=\"py\">zhèshí</span>",
+              "Pada saat ini/pada saat itu",
+              "Menunjuk waktu yang sedang dirujuk."
+            ],
+            [
+              "<span class=\"hz\">那时候</span>",
+              "<span class=\"py\">nàshíhou</span>",
+              "Pada waktu itu",
+              "Menunjuk periode waktu tertentu yang telah dibicarakan."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "现在几点了？",
+              "pinyin": "xiànzài jǐ diǎn le?",
+              "arti": "Sekarang jam berapa?",
+              "catatan": "Penggunaan umum."
+            },
+            {
+              "hanzi": "目前的情况很好",
+              "pinyin": "mùqián de qíngkuàng hěn hǎo",
+              "arti": "Situasi saat ini sangat baik.",
+              "catatan": "Nuansa lebih formal."
+            },
+            {
+              "hanzi": "如今的生活不一样了",
+              "pinyin": "rújīn de shēnghuó bù yíyàng le",
+              "arti": "Sekarang ini kehidupan sudah berbeda.",
+              "catatan": "Menunjukkan perubahan."
+            },
+            {
+              "hanzi": "这会儿没人",
+              "pinyin": "zhèhuìr méi rén",
+              "arti": "Sekarang ini tidak ada orang.",
+              "catatan": "Kasual."
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Pinyin",
+            "Arti",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">以后</span>",
+              "<span class=\"py\">yǐhòu</span>",
+              "Nanti/setelah ini",
+              "Dapat menunjuk waktu setelah sekarang atau setelah suatu peristiwa."
+            ],
+            [
+              "<span class=\"hz\">将来</span>",
+              "<span class=\"py\">jiānglái</span>",
+              "Masa depan",
+              "Lebih berorientasi pada masa depan."
+            ],
+            [
+              "<span class=\"hz\">未来</span>",
+              "<span class=\"py\">wèilái</span>",
+              "Masa depan",
+              "Dalam sumber diberi nuansa lebih formal atau filosofis."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "以后再说",
+              "pinyin": "yǐhòu zài shuō",
+              "arti": "Nanti dibicarakan.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "将来我要当医生",
+              "pinyin": "jiānglái wǒ yào dāng yīshēng",
+              "arti": "Di masa depan saya ingin menjadi dokter.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "未来的世界",
+              "pinyin": "wèilái de shìjiè",
+              "arti": "Dunia masa depan.",
+              "catatan": "Nuansa formal/futuristik."
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Pinyin",
+            "Arti",
+            "Nuansa dalam sumber"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">刚才</span>",
+              "<span class=\"py\">gāngcái</span>",
+              "Baru saja/tadi",
+              "Menunjuk waktu yang lebih spesifik."
+            ],
+            [
+              "<span class=\"hz\">刚刚</span>",
+              "<span class=\"py\">gānggāng</span>",
+              "Baru saja",
+              "Menunjuk kejadian yang sangat baru."
+            ],
+            [
+              "<span class=\"hz\">刚</span>",
+              "<span class=\"py\">gāng</span>",
+              "Baru saja",
+              "Bentuk ringkas dan kasual."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "刚才他去哪儿了？",
+              "pinyin": "gāngcái tā qù nǎr le?",
+              "arti": "Tadi dia pergi ke mana?",
+              "catatan": "Menunjuk waktu spesifik yang baru berlalu."
+            },
+            {
+              "hanzi": "他刚刚走",
+              "pinyin": "tā gānggāng zǒu",
+              "arti": "Dia baru saja pergi.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "我刚吃完",
+              "pinyin": "wǒ gāng chī wán",
+              "arti": "Saya baru selesai makan.",
+              "catatan": "Bentuk ringkas dan kasual."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "13. Kata Ganti Tanya",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Materi lanjutan sumber memasukkan kata tanya yang berfungsi sebagai rujukan kepada orang, benda, pilihan, dan jumlah. Bagian ini sebelumnya hanya disebutkan sebagai materi yang belum dibahas secara rinci."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Pinyin",
+            "Arti",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">谁</span>",
+              "<span class=\"py\">shuí</span>",
+              "Siapa",
+              "Bentuk umum untuk menanyakan identitas seseorang."
+            ],
+            [
+              "<span class=\"hz\">哪位</span>",
+              "<span class=\"py\">nǎwèi</span>",
+              "Siapa",
+              "Bentuk lebih sopan/formal untuk menanyakan orang."
+            ],
+            [
+              "<span class=\"hz\">什么</span>",
+              "<span class=\"py\">shénme</span>",
+              "Apa",
+              "Bentuk umum untuk benda atau hal."
+            ],
+            [
+              "<span class=\"hz\">啥</span>",
+              "<span class=\"py\">shá</span>",
+              "Apa",
+              "Bentuk dialek/kasual."
+            ],
+            [
+              "<span class=\"hz\">哪个</span>",
+              "<span class=\"py\">nǎge</span>",
+              "Yang mana",
+              "Menanyakan pilihan tertentu."
+            ],
+            [
+              "<span class=\"hz\">哪</span>",
+              "<span class=\"py\">nǎ</span>",
+              "Yang mana",
+              "Bentuk dasar yang biasanya membutuhkan konteks atau unsur sesudahnya."
+            ],
+            [
+              "<span class=\"hz\">几</span>",
+              "<span class=\"py\">jǐ</span>",
+              "Berapa",
+              "Digunakan untuk menanyakan jumlah."
+            ],
+            [
+              "<span class=\"hz\">多少</span>",
+              "<span class=\"py\">duōshao</span>",
+              "Berapa/banyak berapa",
+              "Digunakan untuk menanyakan jumlah."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "14. Bahasa Gaul dan Internet",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Bahasa internet Mandarin memiliki bentuk kreatif yang tidak cocok diperlakukan sebagai bahasa Mandarin standar formal. Beberapa bentuk muncul dari permainan kata, perubahan bunyi, gaya komunitas, atau budaya internet."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hanzi",
+            "Pinyin",
+            "Makna",
+            "Penggunaan"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">偶</span>",
+              "<span class=\"py\">ǒu</span>",
+              "Saya",
+              "Bentuk internet yang berasal dari <span class=\"hz\">我</span>; populer pada 2000-an dan dalam sumber disebut sudah terasa tua."
+            ],
+            [
+              "<span class=\"hz\">本宝宝</span>",
+              "<span class=\"py\">běn bǎobao</span>",
+              "Saya si bayi ini",
+              "Gaya internet yang lucu atau merendahkan diri secara bercanda."
+            ],
+            [
+              "<span class=\"hz\">人家</span>",
+              "<span class=\"py\">rénjia</span>",
+              "Saya",
+              "Dalam sumber dikaitkan dengan gaya perempuan/genit."
+            ],
+            [
+              "<span class=\"hz\">姐</span>/<span class=\"hz\">哥</span>",
+              "<span class=\"py\">jiě/gē</span>",
+              "Saya si kakak",
+              "Gaya percaya diri dan dapat terdengar sedikit sombong."
+            ],
+            [
+              "<span class=\"hz\">亲</span>",
+              "<span class=\"py\">qīn</span>",
+              "Sayang",
+              "Sering digunakan penjual online untuk pelanggan."
+            ],
+            [
+              "<span class=\"hz\">你丫</span>",
+              "<span class=\"py\">nǐ yā</span>",
+              "Kamu",
+              "Kasual dan agak kasar; dikaitkan dengan Beijing."
+            ],
+            [
+              "<span class=\"hz\">哥们儿</span>",
+              "<span class=\"py\">gēmenr</span>",
+              "Bro/kawan",
+              "Akrab, terutama pria kepada pria."
+            ],
+            [
+              "<span class=\"hz\">姐妹</span>",
+              "<span class=\"py\">jiěmèi</span>",
+              "Sis",
+              "Akrab, terutama wanita kepada wanita."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "本宝宝今天不开心",
+              "pinyin": "běn bǎobao jīntiān bù kāixīn",
+              "arti": "Saya si bayi ini hari ini tidak senang.",
+              "catatan": "Gaya internet."
+            },
+            {
+              "hanzi": "人家不想去嘛",
+              "pinyin": "rénjia bù xiǎng qù ma",
+              "arti": "Saya tidak mau pergi dong.",
+              "catatan": "Dalam sumber dikaitkan dengan gaya perempuan/genit."
+            },
+            {
+              "hanzi": "姐就是女王",
+              "pinyin": "jiě jiù shì nǚwáng",
+              "arti": "Saya ini ratu!",
+              "catatan": "Gaya percaya diri."
+            },
+            {
+              "hanzi": "亲，这件衣服要吗？",
+              "pinyin": "qīn, zhè jiàn yīfu yào ma?",
+              "arti": "Sayang, baju ini mau?",
+              "catatan": "Gaya penjual online."
+            },
+            {
+              "hanzi": "哥们儿，帮个忙！",
+              "pinyin": "gēmenr, bāng ge máng!",
+              "arti": "Bro, tolong bantu!",
+              "catatan": "Sangat akrab."
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Istilah",
+            "Pinyin",
+            "Makna dalam game/online"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">队友</span>",
+              "<span class=\"py\">duìyǒu</span>",
+              "Teman satu tim."
+            ],
+            [
+              "<span class=\"hz\">对面</span>",
+              "<span class=\"py\">duìmiàn</span>",
+              "Lawan, secara harfiah \"di seberang\"."
+            ],
+            [
+              "<span class=\"hz\">大佬</span>",
+              "<span class=\"py\">dàlǎo</span>",
+              "Bos/master; orang yang sangat ahli."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "队友太坑了！",
+              "pinyin": "duìyǒu tài kēng le!",
+              "arti": "Teman satu tim terlalu buruk!",
+              "catatan": "Konteks gaming."
+            },
+            {
+              "hanzi": "对面很强",
+              "pinyin": "duìmiàn hěn qiáng",
+              "arti": "Lawan sangat kuat.",
+              "catatan": "Konteks gaming."
+            },
+            {
+              "hanzi": "大佬带带我！",
+              "pinyin": "dàlǎo dài dai wǒ!",
+              "arti": "Master, bawa/ajari saya!",
+              "catatan": "Permintaan bantuan dari pemain yang dianggap ahli."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "15. Kode Angka Internet (数字谐音)",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Kode angka internet memanfaatkan kemiripan bunyi antara angka dan frasa Mandarin. Kode seperti ini merupakan bahasa informal dan tidak boleh disamakan dengan kosakata Mandarin standar."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kode",
+            "Pelafalan angka",
+            "Frasa yang dimaksud",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "520",
+              "<span class=\"py\">wǔ èr líng</span>",
+              "<span class=\"hz\">我爱你</span> (<span class=\"py\">wǒ ài nǐ</span>)",
+              "Aku cinta kamu."
+            ],
+            [
+              "521",
+              "<span class=\"py\">wǔ èr yī</span>",
+              "<span class=\"hz\">我爱你</span> (<span class=\"py\">wǒ ài nǐ</span>)",
+              "Aku cinta kamu; varian."
+            ],
+            [
+              "1314",
+              "<span class=\"py\">yī sān yī sì</span>",
+              "<span class=\"hz\">一生一世</span> (<span class=\"py\">yīshēng yīshì</span>)",
+              "Seumur hidup/selamanya."
+            ],
+            [
+              "88",
+              "<span class=\"py\">bā bā</span>",
+              "<span class=\"hz\">拜拜</span> (<span class=\"py\">bàibài</span>)",
+              "Bye-bye."
+            ],
+            [
+              "666",
+              "<span class=\"py\">liù liù liù</span>",
+              "<span class=\"hz\">溜</span>/<span class=\"hz\">牛</span>",
+              "Keren/hebat."
+            ],
+            [
+              "999",
+              "<span class=\"py\">jiǔ jiǔ jiǔ</span>",
+              "<span class=\"hz\">久久</span> (<span class=\"py\">jiǔjiǔ</span>)",
+              "Lama/selamanya."
+            ],
+            [
+              "555",
+              "<span class=\"py\">wǔ wǔ wǔ</span>",
+              "<span class=\"hz\">呜呜呜</span> (<span class=\"py\">wū wū wū</span>)",
+              "Suara menangis."
+            ],
+            [
+              "9494",
+              "<span class=\"py\">jiǔ sì jiǔ sì</span>",
+              "<span class=\"hz\">就是就是</span> (<span class=\"py\">jiù shì jiù shì</span>)",
+              "Benar sekali!"
+            ],
+            [
+              "886",
+              "<span class=\"py\">bā bā liù</span>",
+              "<span class=\"hz\">拜拜了</span> (<span class=\"py\">bàibài le</span>)",
+              "Bye-bye ya."
+            ],
+            [
+              "7456",
+              "<span class=\"py\">qī sì wǔ liù</span>",
+              "<span class=\"hz\">气死我了</span> (<span class=\"py\">qì sǐ wǒ le</span>)",
+              "Kesal banget!"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "520",
+              "pinyin": "wǔ èr líng",
+              "arti": "Aku cinta kamu.",
+              "catatan": "Kode angka yang diasosiasikan dengan 我爱你."
+            },
+            {
+              "hanzi": "1314",
+              "pinyin": "yī sān yī sì",
+              "arti": "Seumur hidup.",
+              "catatan": "Kode angka untuk 一生一世."
+            },
+            {
+              "hanzi": "886",
+              "pinyin": "bā bā liù",
+              "arti": "Bye-bye ya.",
+              "catatan": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "16. Kata Tunjuk Gaul",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk",
+            "Pinyin",
+            "Bentuk standar",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">酱紫</span>",
+              "<span class=\"py\">jiàngzǐ</span>",
+              "<span class=\"hz\">这样子</span>",
+              "Begini."
+            ],
+            [
+              "<span class=\"hz\">辣么</span>",
+              "<span class=\"py\">làme</span>",
+              "<span class=\"hz\">那么</span>",
+              "Begitu."
+            ],
+            [
+              "<span class=\"hz\">介个</span>",
+              "<span class=\"py\">jiègè</span>",
+              "<span class=\"hz\">这个</span>",
+              "Ini."
+            ],
+            [
+              "<span class=\"hz\">那啥</span>",
+              "<span class=\"py\">nàshá</span>",
+              "Ungkapan kasual",
+              "\"Itu...\" ketika pembicara lupa atau ragu menyebut sesuatu."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "酱紫做不对！",
+              "pinyin": "jiàngzǐ zuò bú duì!",
+              "arti": "Begini caranya tidak benar!",
+              "catatan": "Bentuk gaul."
+            },
+            {
+              "hanzi": "辣么多",
+              "pinyin": "làme duō",
+              "arti": "Begitu banyak.",
+              "catatan": "Bentuk gaul."
+            },
+            {
+              "hanzi": "介个东西很好",
+              "pinyin": "jiègè dōngxi hěn hǎo",
+              "arti": "Barang ini bagus.",
+              "catatan": "Bentuk dialek/gaul."
+            },
+            {
+              "hanzi": "那啥，我要走了",
+              "pinyin": "nàshá, wǒ yào zǒu le",
+              "arti": "Itu..., saya mau pergi.",
+              "catatan": "Digunakan ketika ragu atau lupa menyebut sesuatu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "17. Variasi Regional: Taiwan, Hong Kong, Beijing, Selatan, Singapura, dan Malaysia",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Mandarin standar tidak digunakan dengan cara yang identik di semua wilayah. Perbedaan dapat muncul dalam aksara, sapaan, kosakata, pengucapan, atau bahkan sistem pronomina ketika berpindah dari Mandarin standar ke bahasa regional seperti Kanton atau Wu."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Standar",
+            "Taiwan",
+            "Arti/keterangan"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">你</span>",
+              "<span class=\"hz\">你</span>/<span class=\"hz\">妳</span>",
+              "Kamu; <span class=\"hz\">妳</span> dapat digunakan untuk perempuan dalam tulisan Taiwan."
+            ],
+            [
+              "<span class=\"hz\">我们</span>",
+              "<span class=\"hz\">我們</span>",
+              "Kami; menggunakan aksara tradisional."
+            ],
+            [
+              "<span class=\"hz\">这里</span>",
+              "<span class=\"hz\">這裡</span>",
+              "Di sini."
+            ],
+            [
+              "<span class=\"hz\">大家</span>",
+              "<span class=\"hz\">大家</span>",
+              "Semua."
+            ],
+            [
+              "<span class=\"hz\">先生</span>",
+              "<span class=\"hz\">先生</span>",
+              "Tuan/Bapak."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Materi sumber mencatat bahwa di Taiwan <span class=\"hz\">帅哥</span>/<span class=\"hz\">美女</span> masih umum digunakan, <span class=\"hz\">同学</span> digunakan untuk pelajar atau mahasiswa, dan <span class=\"hz\">老师</span> sangat umum sebagai sapaan kepada guru."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Mandarin standar",
+            "Kanton",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">我</span>",
+              "<span class=\"hz\">我</span> (<span class=\"py\">ngo5</span>)",
+              "Saya."
+            ],
+            [
+              "<span class=\"hz\">你</span>",
+              "<span class=\"hz\">你</span> (<span class=\"py\">nei5</span>)",
+              "Kamu."
+            ],
+            [
+              "<span class=\"hz\">他</span>",
+              "<span class=\"hz\">佢</span> (<span class=\"py\">keoi5</span>)",
+              "Dia."
+            ],
+            [
+              "<span class=\"hz\">我们</span>",
+              "<span class=\"hz\">我哋</span> (<span class=\"py\">ngo5 dei6</span>)",
+              "Kami."
+            ],
+            [
+              "<span class=\"hz\">你们</span>",
+              "<span class=\"hz\">你哋</span> (<span class=\"py\">nei5 dei6</span>)",
+              "Kalian."
+            ],
+            [
+              "<span class=\"hz\">他们</span>",
+              "<span class=\"hz\">佢哋</span> (<span class=\"py\">keoi5 dei6</span>)",
+              "Mereka."
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Bahasa Kanton memiliki sistem lisan yang berbeda secara signifikan dari Mandarin standar. Jangan menganggap bentuk Kanton dapat dibaca atau dipahami dengan aturan pelafalan Mandarin standar."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Mandarin standar",
+            "Beijing/儿化",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">这里</span>",
+              "<span class=\"hz\">这儿</span> (<span class=\"py\">zhèr</span>)",
+              "Di sini."
+            ],
+            [
+              "<span class=\"hz\">那里</span>",
+              "<span class=\"hz\">那儿</span> (<span class=\"py\">nàr</span>)",
+              "Di sana."
+            ],
+            [
+              "<span class=\"hz\">哪里</span>",
+              "<span class=\"hz\">哪儿</span> (<span class=\"py\">nǎr</span>)",
+              "Di mana?"
+            ],
+            [
+              "<span class=\"hz\">怎么</span>",
+              "<span class=\"hz\">怎么着</span> (<span class=\"py\">zěnmezhe</span>)",
+              "Bagaimana?; kasual."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "您去哪儿？",
+              "pinyin": "nín qù nǎr?",
+              "arti": "Anda pergi ke mana?",
+              "catatan": "Dengan ciri 儿化."
+            },
+            {
+              "hanzi": "这儿没人",
+              "pinyin": "zhèr méi rén",
+              "arti": "Di sini tidak ada orang.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "怎么着？",
+              "pinyin": "zěnmezhe?",
+              "arti": "Bagaimana?",
+              "catatan": "Kasual dan dikaitkan dengan Beijing."
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Standar",
+            "Shanghai/Wu",
+            "Guangdong/Kanton"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">我</span>",
+              "<span class=\"hz\">我</span> (<span class=\"py\">ngu</span>)",
+              "<span class=\"hz\">我</span> (<span class=\"py\">ngo</span>)"
+            ],
+            [
+              "<span class=\"hz\">你</span>",
+              "<span class=\"hz\">侬</span> (<span class=\"py\">nong</span>)",
+              "<span class=\"hz\">你</span> (<span class=\"py\">nei</span>)"
+            ],
+            [
+              "<span class=\"hz\">他</span>",
+              "<span class=\"hz\">伊</span> (<span class=\"py\">yi</span>)",
+              "<span class=\"hz\">佢</span> (<span class=\"py\">keoi</span>)"
+            ],
+            [
+              "<span class=\"hz\">我们</span>",
+              "<span class=\"hz\">阿拉</span> (<span class=\"py\">ala</span>)",
+              "<span class=\"hz\">我哋</span> (<span class=\"py\">ngo dei</span>)"
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Dialek regional seperti Wu dan Kanton sangat berbeda dari Mandarin standar. Bentuk-bentuk tersebut sebaiknya dipelajari sebagai sistem tersendiri jika memang dibutuhkan, bukan dicampurkan ke tata bahasa Mandarin standar."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam konteks Tionghoa di Singapura dan Malaysia, sumber mencatat penggunaan Mandarin yang dapat dipengaruhi bahasa Melayu dan Inggris. <span class=\"hz\">我</span>, <span class=\"hz\">我们</span>, <span class=\"hz\">大家</span>, <span class=\"hz\">先生</span>, dan <span class=\"hz\">女士</span> tetap digunakan, tetapi lingkungan multibahasa dapat memunculkan campuran dengan \"kita\", \"Auntie\", \"Uncle\", dan partikel \"lah\"."
+        }
+      ]
+    },
+    {
+      "judul": "18. Kata Ganti dalam Sejarah dan Sastra Klasik",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Bahasa Mandarin klasik memiliki sejumlah kata ganti yang tidak boleh disamakan dengan pronomina Mandarin modern sehari-hari. Bentuk-bentuk ini penting terutama ketika membaca sastra klasik, sejarah, atau menonton drama berlatar masa lalu."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hanzi",
+            "Pinyin",
+            "Arti",
+            "Konteks"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">吾</span>",
+              "<span class=\"py\">wú</span>",
+              "Saya",
+              "Bahasa klasik/sastra."
+            ],
+            [
+              "<span class=\"hz\">我</span>",
+              "<span class=\"py\">wǒ</span>",
+              "Saya",
+              "Klasik dan modern."
+            ],
+            [
+              "<span class=\"hz\">余</span>",
+              "<span class=\"py\">yú</span>",
+              "Saya",
+              "Bahasa klasik/sastra."
+            ],
+            [
+              "<span class=\"hz\">汝</span>",
+              "<span class=\"py\">rǔ</span>",
+              "Kamu",
+              "Bahasa klasik."
+            ],
+            [
+              "<span class=\"hz\">尔</span>",
+              "<span class=\"py\">ěr</span>",
+              "Kamu",
+              "Bahasa klasik."
+            ],
+            [
+              "<span class=\"hz\">其</span>",
+              "<span class=\"py\">qí</span>",
+              "Dia/mereka",
+              "Bahasa klasik; juga berkaitan dengan kepemilikan."
+            ],
+            [
+              "<span class=\"hz\">之</span>",
+              "<span class=\"py\">zhī</span>",
+              "Dia/itu",
+              "Bahasa klasik; dapat berfungsi sebagai objek."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "吾日三省吾身",
+              "pinyin": "wú rì sān xǐng wú shēn",
+              "arti": "Saya setiap hari merenungkan diri.",
+              "catatan": "Contoh klasik yang dikaitkan dalam sumber dengan Konfusius."
+            },
+            {
+              "hanzi": "汝等",
+              "pinyin": "rǔ děng",
+              "arti": "Kalian semua.",
+              "catatan": "Bentuk kuno."
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hanzi",
+            "Pinyin",
+            "Arti/penggunaan"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">朕</span>",
+              "<span class=\"py\">zhèn</span>",
+              "Saya; bentuk yang digunakan oleh kaisar."
+            ],
+            [
+              "<span class=\"hz\">寡人</span>",
+              "<span class=\"py\">guǎrén</span>",
+              "Saya; bentuk yang digunakan raja."
+            ],
+            [
+              "<span class=\"hz\">孤</span>",
+              "<span class=\"py\">gū</span>",
+              "Saya; bentuk kerajaan dengan nuansa \"yang yatim\"."
+            ],
+            [
+              "<span class=\"hz\">殿下</span>",
+              "<span class=\"py\">diànxià</span>",
+              "Yang Mulia; untuk pangeran/putri."
+            ],
+            [
+              "<span class=\"hz\">陛下</span>",
+              "<span class=\"py\">bìxià</span>",
+              "Yang Mulia; untuk kaisar."
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hanzi",
+            "Pinyin",
+            "Arti",
+            "Konteks"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">在下</span>",
+              "<span class=\"py\">zàixià</span>",
+              "Saya, dengan sikap merendahkan diri",
+              "Wuxia atau drama sejarah."
+            ],
+            [
+              "<span class=\"hz\">小人</span>",
+              "<span class=\"py\">xiǎorén</span>",
+              "Saya, sangat merendahkan diri",
+              "Bawahan/rakyat biasa dalam konteks historis."
+            ],
+            [
+              "<span class=\"hz\">阁下</span>",
+              "<span class=\"py\">géxià</span>",
+              "Anda, dengan hormat",
+              "Untuk pejabat atau orang terhormat dalam gaya lama/formal."
+            ],
+            [
+              "<span class=\"hz\">令尊</span>",
+              "<span class=\"py\">lìngzūn</span>",
+              "Ayah Anda",
+              "Sapaan hormat klasik kepada ayah orang lain."
+            ],
+            [
+              "<span class=\"hz\">令堂</span>",
+              "<span class=\"py\">lìngtáng</span>",
+              "Ibu Anda",
+              "Sapaan hormat klasik kepada ibu orang lain."
+            ],
+            [
+              "<span class=\"hz\">家父</span>",
+              "<span class=\"py\">jiāfù</span>",
+              "Ayah saya",
+              "Bentuk merendahkan diri ketika menyebut ayah sendiri."
+            ],
+            [
+              "<span class=\"hz\">家母</span>",
+              "<span class=\"py\">jiāmǔ</span>",
+              "Ibu saya",
+              "Bentuk merendahkan diri ketika menyebut ibu sendiri."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "在下姓张",
+              "pinyin": "zàixià xìng Zhāng",
+              "arti": "Saya, dengan rendah hati, bermarga Zhang.",
+              "catatan": "Gaya historis/drama."
+            },
+            {
+              "hanzi": "令尊大人身体健康吗？",
+              "pinyin": "lìngzūn dàrén shēntǐ jiànkāng ma?",
+              "arti": "Apakah ayah Anda sehat?",
+              "catatan": "Bentuk hormat klasik."
+            },
+            {
+              "hanzi": "家父最近很好",
+              "pinyin": "jiāfù zuìjìn hěn hǎo",
+              "arti": "Ayah saya akhir-akhir ini baik-baik saja.",
+              "catatan": "Bentuk merendahkan diri."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menggunakan <span class=\"hz\">朕</span>, <span class=\"hz\">在下</span>, <span class=\"hz\">令尊</span>, atau bentuk historis lainnya sebagai pengganti otomatis kata ganti Mandarin modern. Bentuk-bentuk tersebut memiliki konteks sejarah, sastra, atau gaya tertentu."
+        }
+      ]
+    },
+    {
+      "judul": "19. Kata Tunjuk dalam Dokumen Formal dan Bisnis",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hanzi",
+            "Pinyin",
+            "Arti",
+            "Konteks"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">此</span>",
+              "<span class=\"py\">cǐ</span>",
+              "Ini",
+              "Dokumen resmi atau sastra."
+            ],
+            [
+              "<span class=\"hz\">该</span>",
+              "<span class=\"py\">gāi</span>",
+              "Itu/tersebut",
+              "Dokumen hukum dan tulisan formal."
+            ],
+            [
+              "<span class=\"hz\">本</span>",
+              "<span class=\"py\">běn</span>",
+              "Ini",
+              "Dalam konteks institusi seperti \"perusahaan ini/kami\"."
+            ],
+            [
+              "<span class=\"hz\">兹</span>",
+              "<span class=\"py\">zī</span>",
+              "Dengan ini/sekarang ini",
+              "Surat resmi."
+            ],
+            [
+              "<span class=\"hz\">鉴于</span>",
+              "<span class=\"py\">jiànyú</span>",
+              "Mengingat",
+              "Dokumen hukum atau formal."
+            ],
+            [
+              "<span class=\"hz\">以上</span>",
+              "<span class=\"py\">yǐshàng</span>",
+              "Di atas",
+              "Menunjuk pada poin sebelumnya dalam tulisan."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "此致敬礼",
+              "pinyin": "cǐzhì jìnglǐ",
+              "arti": "Hormat saya; formula penutup surat formal.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "该产品",
+              "pinyin": "gāi chǎnpǐn",
+              "arti": "Produk tersebut.",
+              "catatan": "Konteks kontrak/formal."
+            },
+            {
+              "hanzi": "本公司",
+              "pinyin": "běn gōngsī",
+              "arti": "Perusahaan ini/perusahaan kami.",
+              "catatan": "Konteks dokumen resmi."
+            },
+            {
+              "hanzi": "兹通知...",
+              "pinyin": "zī tōngzhī...",
+              "arti": "Dengan ini diberitahukan...",
+              "catatan": "Surat resmi."
+            },
+            {
+              "hanzi": "鉴于上述情况",
+              "pinyin": "jiànyú shàngshù qíngkuàng",
+              "arti": "Mengingat situasi di atas.",
+              "catatan": "Konteks formal/hukum."
+            },
+            {
+              "hanzi": "以上是我的意见",
+              "pinyin": "yǐshàng shì wǒ de yìjiàn",
+              "arti": "Di atas adalah pendapat saya.",
+              "catatan": ""
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Istilah",
+            "Pinyin",
+            "Arti",
+            "Fungsi bisnis"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">贵公司</span>",
+              "<span class=\"py\">guì gōngsī</span>",
+              "Perusahaan Anda",
+              "Bentuk menghormati perusahaan klien."
+            ],
+            [
+              "<span class=\"hz\">敝公司</span>",
+              "<span class=\"py\">bì gōngsī</span>",
+              "Perusahaan kami",
+              "Bentuk merendahkan perusahaan sendiri dalam gaya formal."
+            ],
+            [
+              "<span class=\"hz\">贵姓</span>",
+              "<span class=\"py\">guì xìng</span>",
+              "Siapa nama keluarga Anda?",
+              "Pertanyaan formal."
+            ],
+            [
+              "<span class=\"hz\">免贵</span>",
+              "<span class=\"py\">miǎn guì</span>",
+              "Tidak perlu menyebut \"terhormat\"; biasa saja",
+              "Jawaban tradisional/formal ketika ditanya marga."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "您贵姓？",
+              "pinyin": "nín guìxìng?",
+              "arti": "Siapa nama keluarga Anda?",
+              "catatan": "Gaya formal."
+            },
+            {
+              "hanzi": "免贵，姓王",
+              "pinyin": "miǎn guì, xìng Wáng",
+              "arti": "Tidak perlu menyebut kehormatan, saya bermarga Wang.",
+              "catatan": "Jawaban formal/tradisional."
+            },
+            {
+              "hanzi": "王先生，您好！",
+              "pinyin": "Wáng xiānsheng, nín hǎo!",
+              "arti": "Tuan Wang, halo!",
+              "catatan": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "20. Panggilan Kasih Sayang dan Keakraban",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hanzi",
+            "Pinyin",
+            "Arti",
+            "Penggunaan"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">亲爱的</span>",
+              "<span class=\"py\">qīn'ài de</span>",
+              "Sayang",
+              "Umum dan netral untuk pasangan."
+            ],
+            [
+              "<span class=\"hz\">宝贝</span>",
+              "<span class=\"py\">bǎobèi</span>",
+              "Baby/sayang",
+              "Sangat akrab; juga dapat digunakan kepada anak."
+            ],
+            [
+              "<span class=\"hz\">甜心</span>",
+              "<span class=\"py\">tiánxīn</span>",
+              "Sweetheart",
+              "Dipengaruhi budaya Barat."
+            ],
+            [
+              "<span class=\"hz\">老公</span>",
+              "<span class=\"py\">lǎogōng</span>",
+              "Suami",
+              "Kasual; istri kepada suami."
+            ],
+            [
+              "<span class=\"hz\">老婆</span>",
+              "<span class=\"py\">lǎopó</span>",
+              "Istri",
+              "Kasual; suami kepada istri."
+            ],
+            [
+              "<span class=\"hz\">达令</span>",
+              "<span class=\"py\">dálìng</span>",
+              "Darling",
+              "Serapan dari bahasa Inggris."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "亲爱的，你在哪里？",
+              "pinyin": "qīn'ài de, nǐ zài nǎlǐ?",
+              "arti": "Sayang, kamu di mana?",
+              "catatan": ""
+            },
+            {
+              "hanzi": "宝贝，晚安！",
+              "pinyin": "bǎobèi, wǎn'ān!",
+              "arti": "Sayang, selamat malam!",
+              "catatan": ""
+            },
+            {
+              "hanzi": "老公，帮我拿一下",
+              "pinyin": "lǎogōng, bāng wǒ ná yíxià",
+              "arti": "Suami, tolong ambilkan.",
+              "catatan": ""
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hanzi",
+            "Pinyin",
+            "Arti",
+            "Penggunaan"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">宝宝</span>",
+              "<span class=\"py\">bǎobao</span>",
+              "Bayi/sayang",
+              "Untuk anak kecil."
+            ],
+            [
+              "<span class=\"hz\">宝贝</span>",
+              "<span class=\"py\">bǎobèi</span>",
+              "Sayang",
+              "Untuk anak."
+            ],
+            [
+              "<span class=\"hz\">乖乖</span>",
+              "<span class=\"py\">guāiguai</span>",
+              "Anak baik",
+              "Untuk anak yang manis/baik."
+            ],
+            [
+              "<span class=\"hz\">小宝贝</span>",
+              "<span class=\"py\">xiǎo bǎobèi</span>",
+              "Sayang kecil",
+              "Untuk anak kecil."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "宝宝，吃饭了！",
+              "pinyin": "bǎobao, chīfàn le!",
+              "arti": "Sayang, waktunya makan!",
+              "catatan": ""
+            },
+            {
+              "hanzi": "乖乖，别哭了",
+              "pinyin": "guāiguai, bié kū le",
+              "arti": "Anak baik, jangan menangis lagi.",
+              "catatan": ""
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hanzi",
+            "Pinyin",
+            "Arti",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">哥们儿</span>",
+              "<span class=\"py\">gēmenr</span>",
+              "Bro",
+              "Pria ke pria, akrab."
+            ],
+            [
+              "<span class=\"hz\">姐们儿</span>",
+              "<span class=\"py\">jiěmenr</span>",
+              "Sis",
+              "Wanita ke wanita."
+            ],
+            [
+              "<span class=\"hz\">兄弟</span>",
+              "<span class=\"py\">xiōngdì</span>",
+              "Saudara/bro",
+              "Akrab, terutama antarpria."
+            ],
+            [
+              "<span class=\"hz\">闺蜜</span>",
+              "<span class=\"py\">guīmì</span>",
+              "Sahabat perempuan",
+              "Hubungan perempuan yang sangat dekat."
+            ],
+            [
+              "<span class=\"hz\">死党</span>",
+              "<span class=\"py\">sǐdǎng</span>",
+              "Sahabat karib",
+              "Hubungan sangat dekat."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "哥们儿，帮个忙！",
+              "pinyin": "gēmenr, bāng ge máng!",
+              "arti": "Bro, tolong bantu!",
+              "catatan": ""
+            },
+            {
+              "hanzi": "她是我的闺蜜",
+              "pinyin": "tā shì wǒ de guīmì",
+              "arti": "Dia sahabat perempuan saya.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "我们是最好的死党",
+              "pinyin": "wǒmen shì zuì hǎo de sǐdǎng",
+              "arti": "Kami adalah sahabat karib terbaik.",
+              "catatan": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "21. Latihan Praktis dan Penerapan",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Situasi",
+            "Jawaban yang sesuai"
+          ],
+          "baris": [
+            [
+              "Guru bernama Wang",
+              "<span class=\"hz\">王老师</span> (<span class=\"py\">Wáng lǎoshī</span>)"
+            ],
+            [
+              "Teman sebaya bernama Li",
+              "<span class=\"hz\">小李</span> (<span class=\"py\">Xiǎo Lǐ</span>) atau <span class=\"hz\">李</span> jika sudah akrab"
+            ],
+            [
+              "Atasan yang merupakan manajer",
+              "<span class=\"hz\">经理</span> atau nama + <span class=\"hz\">经理</span>"
+            ],
+            [
+              "Dokter bernama Chen",
+              "<span class=\"hz\">陈医生</span> (<span class=\"py\">Chén yīshēng</span>)"
+            ],
+            [
+              "Kakek dari pihak ayah",
+              "<span class=\"hz\">爷爷</span> (<span class=\"py\">yéye</span>)"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "这是谁的书？",
+              "pinyin": "zhè shì shéi de shū?",
+              "arti": "Buku ini punya siapa?",
+              "catatan": ""
+            },
+            {
+              "hanzi": "桌子上有什么？",
+              "pinyin": "zhuōzi shàng yǒu shénme?",
+              "arti": "Di atas meja ada apa?",
+              "catatan": ""
+            },
+            {
+              "hanzi": "请叫我姐姐",
+              "pinyin": "qǐng jiào wǒ jiějie",
+              "arti": "Tolong panggilkan kakak perempuan saya.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "我的岳父很好",
+              "pinyin": "wǒ de yuèfù hěn hǎo",
+              "arti": "Ayah mertua saya sangat baik.",
+              "catatan": "Dalam sumber digunakan dari sisi istri."
+            },
+            {
+              "hanzi": "我的公公很好",
+              "pinyin": "wǒ de gōnggong hěn hǎo",
+              "arti": "Ayah mertua saya sangat baik.",
+              "catatan": "Dalam sumber digunakan dari sisi suami."
+            }
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk",
+            "Perbaikan",
+            "Alasan"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">你老师好</span>",
+              "<span class=\"hz\">老师好</span> atau <span class=\"hz\">王老师好</span>",
+              "Sapaan kepada guru sebaiknya menggunakan <span class=\"hz\">老师</span>, bukan struktur <span class=\"hz\">你老师</span> dalam contoh sumber."
+            ],
+            [
+              "<span class=\"hz\">他是我爸爸的妹妹</span>",
+              "<span class=\"hz\">她是我姑姑</span>",
+              "Saudara perempuan ayah adalah <span class=\"hz\">姑姑</span>."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Untuk latihan keluarga, ingat bahwa anak dari saudara laki-laki ayah menggunakan unsur <span class=\"hz\">堂</span>, sedangkan anak dari saudara perempuan ayah atau sepupu dari pihak ibu menggunakan unsur <span class=\"hz\">表</span> dalam sistem yang dijelaskan sumber."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我的大伯子在银行工作",
+              "pinyin": "wǒ de dàbózi zài yínháng gōngzuò",
+              "arti": "Kakak laki-laki suami saya bekerja di bank.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "我的小姨子还在上高中",
+              "pinyin": "wǒ de xiǎoyízi hái zài shàng gāozhōng",
+              "arti": "Adik perempuan istri saya masih SMA.",
+              "catatan": ""
+            },
+            {
+              "hanzi": "我的侄子很聪明",
+              "pinyin": "wǒ de zhízi hěn cōngming",
+              "arti": "Keponakan laki-laki saya sangat pintar.",
+              "catatan": "Keponakan dari saudara laki-laki."
+            },
+            {
+              "hanzi": "这么大",
+              "pinyin": "zhème dà",
+              "arti": "Sebesar ini.",
+              "catatan": "Derajat dekat."
+            },
+            {
+              "hanzi": "那么远",
+              "pinyin": "nàme yuǎn",
+              "arti": "Sejauh itu.",
+              "catatan": "Derajat jauh."
+            },
+            {
+              "hanzi": "那么快",
+              "pinyin": "nàme kuài",
+              "arti": "Secepat itu.",
+              "catatan": "Derajat jauh."
+            },
+            {
+              "hanzi": "这么漂亮",
+              "pinyin": "zhème piàoliang",
+              "arti": "Secantik ini.",
+              "catatan": "Derajat dekat."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "22. Ringkasan Pola dan Prinsip Penguasaan",
+      "isi": [
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Area",
+            "Pola/prinsip utama"
+          ],
+          "baris": [
+            [
+              "Kepemilikan",
+              "Kata ganti + <span class=\"hz\">的</span> + kata benda."
+            ],
+            [
+              "Kata tunjuk benda",
+              "<span class=\"hz\">这</span>/<span class=\"hz\">那</span> + kata bantu + kata benda."
+            ],
+            [
+              "Lokasi",
+              "Kata benda + <span class=\"hz\">的</span> + posisi atau kata benda + posisi."
+            ],
+            [
+              "Sapaan profesional",
+              "Nama belakang + jabatan."
+            ],
+            [
+              "Kata ganti hormat",
+              "<span class=\"hz\">您</span> digunakan untuk penghormatan sesuai konteks sosial."
+            ],
+            [
+              "Kita inklusif",
+              "<span class=\"hz\">咱们</span> mencakup pembicara dan lawan bicara."
+            ],
+            [
+              "Kata tunjuk derajat",
+              "<span class=\"hz\">这么</span> dikaitkan dengan \"ini\", <span class=\"hz\">那么</span> dengan \"itu\"."
+            ],
+            [
+              "Kekerabatan",
+              "Pihak ayah/ibu, usia relatif, dan hubungan melalui pernikahan menentukan istilah."
+            ]
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Bedakan <span class=\"hz\">你</span> dan <span class=\"hz\">您</span> berdasarkan hubungan sosial dan tingkat penghormatan.",
+            "Pahami bahwa <span class=\"hz\">我们</span> dapat inklusif atau eksklusif, sedangkan <span class=\"hz\">咱们</span> mencakup lawan bicara.",
+            "Bedakan <span class=\"hz\">他</span>, <span class=\"hz\">她</span>, dan <span class=\"hz\">它</span> dalam tulisan meskipun semuanya dibaca <span class=\"py\">tā</span>.",
+            "Kuasai perbedaan garis keluarga ayah dan ibu.",
+            "Bedakan <span class=\"hz\">堂</span> dan <span class=\"hz\">表</span> dalam sistem sepupu.",
+            "Bedakan <span class=\"hz\">侄</span> dan <span class=\"hz\">外甥</span> untuk keponakan berdasarkan apakah orang tua keponakan adalah saudara laki-laki atau saudara perempuan.",
+            "Gunakan jabatan sebagai sapaan formal ketika sesuai.",
+            "Pahami perbedaan formal, kasual, regional, klasik, dan internet sebelum menggunakan suatu sapaan.",
+            "Bedakan kata waktu seperti <span class=\"hz\">现在</span>, <span class=\"hz\">目前</span>, <span class=\"hz\">如今</span>, <span class=\"hz\">以后</span>, <span class=\"hz\">将来</span>, dan <span class=\"hz\">未来</span> sesuai konteks.",
+            "Kenali bahwa bahasa internet dan dialek regional bukan pengganti otomatis Mandarin standar."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan dalam sapaan dapat berdampak sosial lebih besar daripada kesalahan kosakata biasa. Untuk pembelajar Indonesia, jebakan terpenting adalah menerjemahkan sistem sapaan secara langsung dari bahasa Indonesia, karena Mandarin membedakan hubungan keluarga, usia, status, formalitas, dan kedekatan dengan jauh lebih rinci."
+        }
+      ]
+    },
+    {
+      "judul": "23. Checklist Penguasaan Pilar 8",
+      "isi": [
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Saya dapat membedakan <span class=\"hz\">你</span> dan <span class=\"hz\">您</span> dengan benar.",
+            "Saya memahami perbedaan <span class=\"hz\">我们</span> dan <span class=\"hz\">咱们</span>.",
+            "Saya dapat membedakan <span class=\"hz\">他</span>, <span class=\"hz\">她</span>, dan <span class=\"hz\">它</span> dalam tulisan.",
+            "Saya memahami penggunaan <span class=\"hz\">自己</span>, <span class=\"hz\">亲自</span>, <span class=\"hz\">互相</span>, dan <span class=\"hz\">彼此</span>.",
+            "Saya mengetahui perbedaan <span class=\"hz\">这</span>, <span class=\"hz\">那</span>, <span class=\"hz\">这些</span>, dan <span class=\"hz\">那些</span>.",
+            "Saya memahami <span class=\"hz\">这里</span>, <span class=\"hz\">那里</span>, <span class=\"hz\">哪里</span> dan variasi <span class=\"hz\">这儿</span>, <span class=\"hz\">那儿</span>, <span class=\"hz\">哪儿</span>.",
+            "Saya dapat menunjukkan posisi seperti atas, bawah, kiri, kanan, depan, belakang, dalam, luar, samping, tengah, dan seberang.",
+            "Saya memahami perbedaan sapaan keluarga pihak ayah dan ibu.",
+            "Saya dapat membedakan <span class=\"hz\">伯伯</span> dan <span class=\"hz\">叔叔</span>.",
+            "Saya memahami perbedaan <span class=\"hz\">堂</span> dan <span class=\"hz\">表</span>.",
+            "Saya dapat membedakan <span class=\"hz\">侄子</span>/<span class=\"hz\">侄女</span> dan <span class=\"hz\">外甥</span>/<span class=\"hz\">外甥女</span>.",
+            "Saya memahami istilah ipar utama.",
+            "Saya dapat menggunakan sapaan profesional seperti <span class=\"hz\">老师</span>, <span class=\"hz\">医生</span>, dan <span class=\"hz\">经理</span>.",
+            "Saya memahami kapan menggunakan <span class=\"hz\">先生</span>, <span class=\"hz\">女士</span>, dan dengan hati-hati <span class=\"hz\">小姐</span>.",
+            "Saya memahami perbedaan <span class=\"hz\">这么</span> dan <span class=\"hz\">那么</span>.",
+            "Saya memahami perbedaan <span class=\"hz\">其他</span>, <span class=\"hz\">别的</span>, dan <span class=\"hz\">另外</span>.",
+            "Saya memahami perbedaan <span class=\"hz\">各自</span> dan <span class=\"hz\">分别</span>.",
+            "Saya memahami perbedaan <span class=\"hz\">大家</span>, <span class=\"hz\">各位</span>, dan <span class=\"hz\">所有</span>.",
+            "Saya memahami perbedaan <span class=\"hz\">独自</span> dan <span class=\"hz\">单独</span>.",
+            "Saya mengenali kata tunjuk waktu seperti <span class=\"hz\">现在</span>, <span class=\"hz\">目前</span>, <span class=\"hz\">如今</span>, <span class=\"hz\">以后</span>, <span class=\"hz\">将来</span>, dan <span class=\"hz\">未来</span>.",
+            "Saya mengetahui bahwa bahasa gaul internet, kode angka, dialek regional, dan bahasa klasik memiliki konteks khusus.",
+            "Saya memahami bahwa sapaan mencerminkan hubungan sosial, usia, status, jabatan, keakraban, dan konteks."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "24. Kesimpulan Budaya dan Linguistik",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Pilar 8 menunjukkan bahwa bahasa Mandarin tidak hanya merupakan sistem kosakata dan tata bahasa, tetapi juga sistem identitas sosial. Pemilihan kata ganti dan sapaan dapat mencerminkan hierarki usia, status, jabatan, tingkat keakraban, hubungan keluarga, kesopanan, serta rasa kebersamaan."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Hierarki: usia, status, dan jabatan memengaruhi pilihan sapaan.",
+            "Kekeluargaan: hubungan keluarga dibedakan secara sangat rinci menurut garis keturunan dan usia.",
+            "Kesopanan: bentuk seperti <span class=\"hz\">您</span> dan sapaan jabatan membantu menjaga jarak hormat.",
+            "Kebersamaan: perbedaan antara <span class=\"hz\">我们</span> dan <span class=\"hz\">咱们</span> dapat menunjukkan apakah lawan bicara termasuk dalam kelompok.",
+            "Konteks: bahasa formal, sehari-hari, internet, dialek, dan sastra memiliki pilihan bentuk yang berbeda."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menerapkan semua istilah yang dipelajari sebagai bentuk yang dapat dipertukarkan. Istilah klasik, regional, gaul, internet, dan sapaan keluarga tertentu hanya tepat dalam konteks tertentu. Penguasaan Pilar 8 berarti bukan hanya mengetahui arti kata, tetapi mengetahui kepada siapa, kapan, dan dalam hubungan seperti apa kata tersebut digunakan."
+        }
+      ]
+    }
+  ]
+}
