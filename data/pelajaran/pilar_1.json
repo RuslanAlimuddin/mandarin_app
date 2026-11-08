@@ -1,0 +1,4118 @@
+{
+  "pilar": 1,
+  "judul": "FONETIK & SISTEM PELAFALAN (Fondasi Suara: Nada, Pinyin, dan Perubahan Nada)",
+  "ringkasan": "Sistem bunyi Mandarin merupakan fondasi utama karena Mandarin adalah bahasa tonal: perubahan nada dapat mengubah makna kata secara drastis. Pilar ini mencakup Pinyin, 21 inisial, 36 final dalam kerangka materi sumber, empat nada dan nada netral, sandhi nada, erhua, aturan ejaan, teknik artikulasi, kombinasi inisial-final, suku kata khusus, ritme, intonasi, variasi lisan dan regional, latihan pendengaran, serta strategi khusus bagi penutur bahasa Indonesia. Materi lama tentang latihan 30 menit, peta jalan mingguan, sumber audio/video, pasangan minimal, variasi regional, partikel 啊, dan strategi khusus penutur Indonesia dipertahankan dan diperluas.",
+  "bagian": [
+    {
+      "judul": "1. Pinyin sebagai Sistem Romanisasi dan Aturan Ejaannya",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Pinyin adalah sistem romanisasi resmi untuk bahasa Mandarin yang dikembangkan di Tiongkok pada tahun 1950-an dan berfungsi sebagai jembatan antara aksara Han dan pelafalan. Bagi pembelajar Indonesia, kesalahan paling mendasar adalah menganggap huruf Pinyin mempunyai nilai bunyi yang sama dengan huruf Latin dalam bahasa Indonesia atau bahasa Inggris. Pinyin harus dipahami sebagai sistem ejaan khusus: b bukan b Indonesia yang bersuara, d bukan d Indonesia yang bersuara, g bukan g Indonesia yang bersuara, q bukan kiu, x bukan eks, dan zh bukan z ditambah h. Tujuan belajar Pinyin bukan menghafal nama huruf, melainkan menghubungkan bentuk tertulis dengan bunyi, posisi organ bicara, aspirasi, final, dan nada. Pinyin tidak menggantikan Hanzi; ia adalah alat bantu untuk membaca, mencari kata di kamus, mengetik, dan mempelajari pelafalan. Dalam materi sumber, sistem bunyi dasar dijelaskan melalui 21 inisial, 36 final, empat nada utama, dan satu nada netral."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Komponen",
+            "Istilah",
+            "Fungsi",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "Inisial",
+              "声母 shēngmǔ",
+              "Bunyi awal suku kata",
+              "b, p, m, f; zh, ch, sh"
+            ],
+            [
+              "Final",
+              "韵母 yùnmǔ",
+              "Bagian vokal dan/atau akhir suku kata",
+              "a, ai, an, ang, er"
+            ],
+            [
+              "Nada",
+              "声调 shēngdiào",
+              "Kontur tinggi-rendah yang membedakan makna",
+              "mā, má, mǎ, mà"
+            ],
+            [
+              "Sandhi",
+              "变调 biàndiào",
+              "Perubahan realisasi nada dalam konteks",
+              "nǐ hǎo → ní hǎo"
+            ],
+            [
+              "Ejaan Pinyin",
+              "拼音",
+              "Representasi Latin bunyi Mandarin",
+              "nǐ hǎo, Xī'ān, nǚ"
+            ]
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Setiap karakter Mandarin pada dasarnya mewakili satu suku kata dalam penulisan Pinyin.",
+            "Huruf kapital digunakan pada awal kalimat, nama diri seperti nama orang atau tempat, dan judul sesuai gaya penulisan.",
+            "Suku kata biasanya dipisahkan: 你好 ditulis nǐ hǎo.",
+            "Apostrof dipakai untuk memperjelas batas suku kata ketika pembacaan tanpa apostrof dapat menimbulkan ambiguitas.",
+            "Setelah j, q, x, dan y, ü ditulis sebagai u tanpa dua titik, tetapi bunyinya tetap berkaitan dengan ü.",
+            "Setelah n dan l, ü tetap ditulis dengan dua titik, misalnya nǚ dan lǜ."
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你好",
+              "pinyin": "nǐ hǎo",
+              "arti": "halo",
+              "catatan": "Dua karakter menunjukkan dua suku kata."
+            },
+            {
+              "hanzi": "皮袄",
+              "pinyin": "pí'ǎo",
+              "arti": "jaket bulu",
+              "catatan": "Apostrof memisahkan pí dan ǎo."
+            },
+            {
+              "hanzi": "西安",
+              "pinyin": "Xī'ān",
+              "arti": "Xi'an",
+              "catatan": "Apostrof mempertahankan batas dua suku kata."
+            },
+            {
+              "hanzi": "女",
+              "pinyin": "nǚ",
+              "arti": "perempuan",
+              "catatan": "Setelah n, ü tetap ditulis dengan dua titik."
+            },
+            {
+              "hanzi": "去",
+              "pinyin": "qù",
+              "arti": "pergi",
+              "catatan": "Setelah q, ü ditulis u dalam ejaan Pinyin."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan membaca Pinyin berdasarkan nama huruf Latin. Jika sebuah suku kata terasa aneh, pecahkan menjadi inisial, final, dan nada. Kesalahan ejaan seperti qǜ atau yǘ bukan berarti bunyinya berbeda; itu terutama masalah aturan penulisan ü."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Pinyin perlu dipahami sebagai sistem ejaan yang mempunyai hubungan teratur antara bentuk Latin, struktur suku kata, dan bunyi. Huruf Latin tidak boleh dibaca dengan kebiasaan bahasa Indonesia atau Inggris. Dalam satu suku kata, pembelajar sebaiknya memisahkan tiga lapisan: inisial sebagai bunyi awal bila ada, final sebagai inti dan/atau penutup suku kata, lalu nada sebagai kontur pitch. Misalnya pada hǎo, h adalah inisial, ao adalah final, dan tanda ˇ menunjukkan nada 3. Pada ān tidak ada inisial sehingga suku kata langsung dimulai dengan final an. Cara membongkar suku kata seperti ini membuat Pinyin menjadi sistem yang dapat dianalisis, bukan daftar ejaan yang harus dihafal satu per satu."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bentuk",
+            "Analisis",
+            "Kesalahan yang perlu dihindari"
+          ],
+          "baris": [
+            [
+              "hǎo",
+              "h + ao + nada 3",
+              "mengira hǎo dibaca seperti kata Latin hao"
+            ],
+            [
+              "nǚ",
+              "n + ü + nada 3",
+              "menghapus titik ü setelah n"
+            ],
+            [
+              "qù",
+              "q + ü + nada 4; ditulis qu",
+              "mengira u pada qu adalah u biasa"
+            ],
+            [
+              "Xī'ān",
+              "xī + ' + ān",
+              "menggabungkan dua suku kata menjadi xian"
+            ],
+            [
+              "yī",
+              "y + i + nada 1 secara ejaan",
+              "menganggap y sebagai konsonan leksikal terpisah"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你好",
+              "pinyin": "nǐ hǎo",
+              "arti": "halo",
+              "catatan": "Pinyin membantu memetakan dua karakter menjadi dua suku kata."
+            },
+            {
+              "hanzi": "中国",
+              "pinyin": "Zhōngguó",
+              "arti": "Tiongkok",
+              "catatan": "Nada dan batas suku kata harus dibaca bersama."
+            },
+            {
+              "hanzi": "学习",
+              "pinyin": "xuéxí",
+              "arti": "belajar",
+              "catatan": "Jangan membaca x sebagai eks."
+            },
+            {
+              "hanzi": "女",
+              "pinyin": "nǚ",
+              "arti": "perempuan",
+              "catatan": "ü tetap terdengar meskipun ditulis dengan dua titik."
+            },
+            {
+              "hanzi": "西安",
+              "pinyin": "Xī'ān",
+              "arti": "Xi'an",
+              "catatan": "Apostrof menjaga batas suku kata."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan dasar adalah membaca Pinyin seolah-olah bahasa Indonesia. Jangan menilai pengucapan dari hurufnya saja; selalu cek inisial, final, nada, dan bila perlu audio model."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Gunakan Pinyin untuk menghubungkan Hanzi dengan bunyi, bukan sebagai pengganti Hanzi selamanya.",
+            "Saat menemukan suku kata baru, pecah menjadi inisial-final-nada sebelum menghafalkan kata utuh.",
+            "Latih bentuk bertanda nada dan bentuk tanpa tanda nada agar mampu membaca materi digital yang tidak selalu lengkap tanda nadanya."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "2. Inisial Mandarin: 21 声母, Aspirasi, dan Posisi Artikulasi",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Inisial adalah bunyi konsonan yang muncul di awal suku kata. Materi sumber membagi 21 inisial menjadi bilabial b p m f, alveolar d t n l, velar g k h, palatal j q x, retrofleks zh ch sh r, serta alveolar-palatal z c s. Hal terpenting bukan hanya menghafal daftar tersebut, tetapi memahami kontras aspirasi. b, d, g, j, zh, z tidak beraspirasi, sedangkan p, t, k, q, ch, c beraspirasi. Aspirasi berarti hembusan udara yang menyertai pelepasan konsonan. Ini tidak boleh disamakan begitu saja dengan kontras bersuara dan tidak bersuara dalam bahasa Indonesia. Karena pembelajar Indonesia cenderung membaca b d g sebagai bunyi Indonesia yang bersuara, latihan fisik dengan tangan atau tisu sangat membantu."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kelompok",
+            "Inisial",
+            "Ciri",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "Bilabial",
+              "b p m f",
+              "b tidak beraspirasi, p beraspirasi",
+              "八 bā, 怕 pà"
+            ],
+            [
+              "Alveolar",
+              "d t n l",
+              "d tidak beraspirasi, t beraspirasi",
+              "大 dà, 他 tā"
+            ],
+            [
+              "Velar",
+              "g k h",
+              "g tidak beraspirasi, k beraspirasi, h lebih dalam",
+              "哥 gē, 口 kǒu, 好 hǎo"
+            ],
+            [
+              "Palatal",
+              "j q x",
+              "Lidah bagian depan/tengah mendekati langit-langit keras",
+              "家 jiā, 七 qī, 小 xiǎo"
+            ],
+            [
+              "Retrofleks",
+              "zh ch sh r",
+              "Lidah diarahkan atau digulung ke belakang",
+              "知 zhī, 吃 chī, 十 shí, 日 rì"
+            ],
+            [
+              "Alveolar-palatal",
+              "z c s",
+              "z tidak beraspirasi, c beraspirasi",
+              "字 zì, 次 cì, 四 sì"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "八",
+              "pinyin": "bā",
+              "arti": "delapan",
+              "catatan": "b tidak beraspirasi."
+            },
+            {
+              "hanzi": "怕",
+              "pinyin": "pà",
+              "arti": "takut",
+              "catatan": "p mempunyai hembusan kuat."
+            },
+            {
+              "hanzi": "大",
+              "pinyin": "dà",
+              "arti": "besar",
+              "catatan": "d mendekati t tidak beraspirasi, bukan d Indonesia bersuara."
+            },
+            {
+              "hanzi": "他",
+              "pinyin": "tā",
+              "arti": "dia",
+              "catatan": "t harus menghasilkan aspirasi."
+            },
+            {
+              "hanzi": "家",
+              "pinyin": "jiā",
+              "arti": "rumah",
+              "catatan": "j adalah bunyi palatal."
+            },
+            {
+              "hanzi": "七",
+              "pinyin": "qī",
+              "arti": "tujuh",
+              "catatan": "q adalah palatal beraspirasi."
+            },
+            {
+              "hanzi": "知",
+              "pinyin": "zhī",
+              "arti": "tahu",
+              "catatan": "zh menggunakan posisi lidah retrofleks."
+            },
+            {
+              "hanzi": "字",
+              "pinyin": "zì",
+              "arti": "huruf",
+              "catatan": "z lebih depan daripada zh."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "b/p, d/t, g/k, j/q, zh/ch, dan z/c harus dilatih sebagai pasangan aspirasi.",
+            "j/q/x memakai posisi palatal yang berbeda dari zh/ch/sh.",
+            "zh/ch/sh/r memakai posisi lidah lebih belakang.",
+            "z/c/s lebih depan daripada zh/ch/sh.",
+            "m, f, n, l relatif lebih mudah bagi penutur Indonesia sehingga dapat dijadikan titik awal."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Aspirasi bukan sekadar keras versus lembut. Letakkan tangan di depan mulut: bā menghasilkan hembusan kecil, sedangkan pā menghasilkan hembusan jauh lebih terasa. Jangan menjadikan suara bersuara versus tidak bersuara sebagai satu-satunya patokan."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Sistem 21 inisial paling mudah dikuasai bila dibangun dari pasangan kontras, bukan dihafalkan sebagai alfabet. Kontras utama adalah aspirasi: b/p, d/t, g/k, j/q, zh/ch, z/c. Pada pasangan ini anggota pertama tidak beraspirasi dan anggota kedua beraspirasi. Mandarin tidak memakai kontras bersuara versus tak bersuara dengan cara yang sama seperti bahasa Indonesia. Karena itu b Mandarin dapat terdengar mendekati p Indonesia tanpa hembusan, sementara p Mandarin mempunyai hembusan kuat. Selain aspirasi, ada tiga keluarga artikulasi yang harus dibedakan dengan telinga dan posisi lidah: j q x berada di wilayah palatal, zh ch sh r berada di wilayah retrofleks, sedangkan z c s lebih depan. Perbedaan posisi ini menjelaskan mengapa ji, zhi, dan zi tidak boleh diperlakukan sebagai variasi huruf j-z yang sama."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kontras",
+            "Tidak beraspirasi",
+            "Beraspirasi",
+            "Fokus latihan"
+          ],
+          "baris": [
+            [
+              "Bilabial",
+              "b",
+              "p",
+              "hembusan"
+            ],
+            [
+              "Alveolar",
+              "d",
+              "t",
+              "hembusan"
+            ],
+            [
+              "Velar",
+              "g",
+              "k",
+              "hembusan dan posisi belakang"
+            ],
+            [
+              "Palatal",
+              "j",
+              "q",
+              "lidah palatal + hembusan"
+            ],
+            [
+              "Retrofleks",
+              "zh",
+              "ch",
+              "lidah digulung + hembusan"
+            ],
+            [
+              "Alveolar-palatal",
+              "z",
+              "c",
+              "posisi lebih depan + hembusan"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "八",
+              "pinyin": "bā",
+              "arti": "delapan",
+              "catatan": "Bandingkan dengan 趴 pā untuk merasakan aspirasi."
+            },
+            {
+              "hanzi": "怕",
+              "pinyin": "pà",
+              "arti": "takut",
+              "catatan": "p menghasilkan hembusan lebih jelas."
+            },
+            {
+              "hanzi": "大",
+              "pinyin": "dà",
+              "arti": "besar",
+              "catatan": "d tidak boleh dibaca sebagai d Indonesia bersuara penuh."
+            },
+            {
+              "hanzi": "他",
+              "pinyin": "tā",
+              "arti": "dia",
+              "catatan": "t harus mempunyai hembusan."
+            },
+            {
+              "hanzi": "知",
+              "pinyin": "zhī",
+              "arti": "tahu",
+              "catatan": "Bedakan posisi zh dari z pada 字 zì."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan mengajarkan aspirasi hanya sebagai keras dan lembut. Tes fisik sederhana adalah memegang telapak tangan atau selembar tisu di depan mulut; pasangan beraspirasi harus menggerakkan udara lebih kuat."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Latih bā-pā, dā-tā, gē-kē, jiā-qiā, zhā-chā, zā-cā secara berulang.",
+            "Setelah kontras fisik stabil, pindahkan latihan ke kata nyata dan kalimat pendek.",
+            "Rekam dua versi lalu dengarkan tanpa melihat Pinyin untuk memeriksa apakah telinga sendiri dapat membedakannya."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "3. Final Mandarin: Vokal, Diftong, Nasal, dan Rhotik",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Final adalah bagian vokal dan/atau akhir suku kata setelah inisial. Materi sumber menggunakan kerangka 36 final yang mencakup enam final tunggal a o e i u ü, delapan final majemuk ai ei ao ou ia ie ua uo, final hidung yang berakhir dengan -n atau -ng, serta final rhotik er. Pembelajar Indonesia perlu memberi perhatian khusus pada e, ü, dan perbedaan -n versus -ng. Final e bukan e Indonesia seperti pada enak, melainkan vokal belakang/tengah. Ü membutuhkan lidah berada di depan seperti posisi i, tetapi bibir dibulatkan. Pada -n, penutupan nasal lebih ke depan, sedangkan -ng melibatkan bagian belakang rongga mulut. Daftar dan pengelompokan final dalam materi sumber harus dipahami sebagai sistem fonetik, bukan sekadar urutan huruf."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kelompok",
+            "Final",
+            "Panduan",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "Tunggal",
+              "a o e i u ü",
+              "Vokal dasar; e dan ü paling perlu perhatian",
+              "妈 mā, 哦 ó, 喝 hē, 一 yī, 不 bù, 鱼 yú"
+            ],
+            [
+              "Majemuk",
+              "ai ei ao ou",
+              "Gerakan vokal",
+              "爱 ài, 北 běi, 老 lǎo, 口 kǒu"
+            ],
+            [
+              "Majemuk",
+              "ia ie ua uo",
+              "Unsur i/u diikuti vokal",
+              "家 jiā, 别 bié, 花 huā, 说 shuō"
+            ],
+            [
+              "Nasal -n",
+              "an en in un ün ian uan üan uen",
+              "Akhir nasal depan",
+              "看 kàn, 很 hěn, 新 xīn, 春 chūn, 群 qún"
+            ],
+            [
+              "Nasal -ng",
+              "ang eng ing ong iang uang iong",
+              "Akhir nasal belakang",
+              "上 shàng, 风 fēng, 请 qǐng, 中 zhōng, 两 liǎng"
+            ],
+            [
+              "Rhotik",
+              "er",
+              "Vokal dengan unsur retrofleks",
+              "二 èr"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "喝",
+              "pinyin": "hē",
+              "arti": "minum",
+              "catatan": "e bukan e Indonesia biasa."
+            },
+            {
+              "hanzi": "鱼",
+              "pinyin": "yú",
+              "arti": "ikan",
+              "catatan": "Lidah depan seperti i, bibir dibulatkan."
+            },
+            {
+              "hanzi": "看",
+              "pinyin": "kàn",
+              "arti": "melihat",
+              "catatan": "-n ditutup lebih ke depan."
+            },
+            {
+              "hanzi": "上",
+              "pinyin": "shàng",
+              "arti": "atas",
+              "catatan": "-ng menggunakan resonansi belakang."
+            },
+            {
+              "hanzi": "新",
+              "pinyin": "xīn",
+              "arti": "baru",
+              "catatan": "in berakhir dengan nasal depan."
+            },
+            {
+              "hanzi": "风",
+              "pinyin": "fēng",
+              "arti": "angin",
+              "catatan": "eng berakhir dengan -ng."
+            },
+            {
+              "hanzi": "二",
+              "pinyin": "èr",
+              "arti": "dua",
+              "catatan": "er mempunyai unsur retrofleks."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menyamakan an dengan ang atau in dengan ing. Latih lokasi resonansi, bukan hanya huruf akhir. Kesalahan lain yang sangat umum adalah membaca ü sebagai u biasa."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Final bukan sekadar kumpulan vokal, karena banyak final mempunyai gerakan artikulatoris dan penutup nasal. Perbedaan -n dan -ng sangat penting: pada -n, penutupan nasal terjadi lebih ke depan, sedangkan -ng menggunakan bagian belakang lidah dan resonansi belakang. Diftong juga harus dilatih sebagai gerakan dari satu kualitas vokal ke kualitas berikutnya, bukan dua vokal terpisah. Final ü adalah vokal depan dengan bibir membulat; teknik paling praktis adalah menghasilkan i lalu mempertahankan posisi lidah sambil membulatkan bibir. Final e merupakan titik sulit bagi penutur Indonesia karena tidak sama dengan e pada enak. Final er memiliki unsur retrofleks dan sering muncul sebagai suku kata tersendiri atau sebagai dasar pembentukan erhua."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kontras",
+            "Fokus artikulasi",
+            "Contoh",
+            "Target pendengaran"
+          ],
+          "baris": [
+            [
+              "an vs ang",
+              "nasal depan vs belakang",
+              "安 ān / 昂 áng",
+              "lokasi resonansi"
+            ],
+            [
+              "en vs eng",
+              "nasal depan vs belakang",
+              "门 mén / 风 fēng",
+              "akhir nasal"
+            ],
+            [
+              "in vs ing",
+              "i + nasal depan vs belakang",
+              "因 yīn / 英 yīng",
+              "akhir -n/-ng"
+            ],
+            [
+              "un vs ong",
+              "u/ü dan penutup berbeda",
+              "春 chūn / 中 zhōng",
+              "bentuk final keseluruhan"
+            ],
+            [
+              "ü vs u",
+              "lidah depan + bibir bulat vs lidah belakang",
+              "鱼 yú / 五 wǔ",
+              "kualitas vokal"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "喝",
+              "pinyin": "hē",
+              "arti": "minum",
+              "catatan": "e adalah vokal belakang/tengah, bukan e Indonesia biasa."
+            },
+            {
+              "hanzi": "爱",
+              "pinyin": "ài",
+              "arti": "cinta",
+              "catatan": "ai adalah gerakan vokal."
+            },
+            {
+              "hanzi": "看",
+              "pinyin": "kàn",
+              "arti": "melihat",
+              "catatan": "an berakhir dengan nasal depan."
+            },
+            {
+              "hanzi": "上",
+              "pinyin": "shàng",
+              "arti": "atas",
+              "catatan": "ang berakhir dengan nasal belakang."
+            },
+            {
+              "hanzi": "鱼",
+              "pinyin": "yú",
+              "arti": "ikan",
+              "catatan": "ü membutuhkan lidah depan dan bibir membulat."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan yang sering terjadi adalah membaca semua final berdasarkan huruf terakhir saja. Dengarkan seluruh bentuk final, terutama an-ang, en-eng, in-ing, serta u-ü."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Latih final tanpa inisial terlebih dahulu: a, ai, an, ang, e, en, eng, u, ü.",
+            "Gunakan pasangan minimal final sebelum menambahkan nada yang berbeda.",
+            "Setelah stabil, gabungkan final dengan inisial yang berbeda agar koordinasi artikulasi menjadi otomatis."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "4. Empat Nada dan Nada Netral: Kontur dan Perubahan Makna",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Nada merupakan bagian dari identitas bunyi Mandarin. Nada 1 tinggi dan datar, nada 2 bergerak naik, nada 3 dalam bentuk penuh turun lalu naik, sedangkan nada 4 turun tajam. Nada netral atau 轻声 qīngshēng lebih pendek dan ringan serta tidak mempunyai kontur tetap seperti empat nada utama. Untuk pemula, gerakan tangan dapat membantu mengingat kontur, tetapi target akhirnya adalah mengendalikan pitch secara nyata. Nada 3 perlu mendapat perhatian khusus karena bentuk turun-naik penuh terutama terjadi ketika berdiri relatif terisolasi; dalam ujaran bersambung ia sering menjadi nada 3 setengah. Perubahan nada dapat mengubah makna kata secara drastis walaupun inisial dan final sama."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Nada",
+            "Simbol",
+            "Kontur",
+            "Contoh",
+            "Panduan"
+          ],
+          "baris": [
+            [
+              "1",
+              "ˉ",
+              "Tinggi dan datar",
+              "妈 mā — ibu",
+              "Bayangkan suara tinggi yang dipertahankan."
+            ],
+            [
+              "2",
+              "ˊ",
+              "Naik",
+              "麻 má — rami",
+              "Seperti pertanyaan yang menaik."
+            ],
+            [
+              "3",
+              "ˇ",
+              "Turun lalu naik bila penuh",
+              "马 mǎ — kuda",
+              "Jangan selalu memaksakan kenaikan."
+            ],
+            [
+              "4",
+              "ˋ",
+              "Turun tajam",
+              "骂 mà — memarahi",
+              "Turun cepat dari tinggi ke rendah."
+            ],
+            [
+              "Netral",
+              "—",
+              "Pendek dan ringan",
+              "吗 ma — partikel",
+              "Tidak diberi tekanan penuh."
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pinyin dasar",
+            "Nada 1",
+            "Nada 2",
+            "Nada 3",
+            "Nada 4"
+          ],
+          "baris": [
+            [
+              "ma",
+              "妈 ibu",
+              "麻 rami",
+              "马 kuda",
+              "骂 memarahi"
+            ],
+            [
+              "yi",
+              "衣 baju",
+              "移 pindah",
+              "椅 kursi",
+              "意 makna"
+            ],
+            [
+              "shu",
+              "书 buku",
+              "熟 matang",
+              "属 milik",
+              "数 angka/menghitung"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "妈",
+              "pinyin": "mā",
+              "arti": "ibu",
+              "catatan": "Nada 1."
+            },
+            {
+              "hanzi": "麻",
+              "pinyin": "má",
+              "arti": "rami",
+              "catatan": "Nada 2."
+            },
+            {
+              "hanzi": "马",
+              "pinyin": "mǎ",
+              "arti": "kuda",
+              "catatan": "Nada 3."
+            },
+            {
+              "hanzi": "骂",
+              "pinyin": "mà",
+              "arti": "memarahi",
+              "catatan": "Nada 4."
+            },
+            {
+              "hanzi": "吗",
+              "pinyin": "ma",
+              "arti": "partikel tanya",
+              "catatan": "Nada netral."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Nada bukan pilihan tambahan. Mengabaikannya adalah salah satu kesalahan terbesar pembelajar. Namun jangan pula mengucapkan setiap nada secara berlebihan dan terpisah seperti membaca daftar; setelah nada dasar dikuasai, latihan harus berpindah ke frasa dan kalimat."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Empat nada harus dipahami sebagai kontur relatif, bukan angka tinggi absolut. Nada 1 tinggi-datar, nada 2 naik, nada 3 turun lalu naik dalam realisasi penuh, dan nada 4 turun tajam. Dua penutur dapat menghasilkan tinggi absolut yang berbeda tetapi tetap mempertahankan kontras nada. Nada netral berbeda karena durasi lebih pendek, tekanan lebih ringan, dan pitch dipengaruhi konteks. Untuk pemula, latihan terisolasi berguna untuk membangun kategori, tetapi tujuan akhirnya adalah mengenali nada dalam kata dan kalimat. Nada 3 khususnya tidak boleh selalu dipaksa turun-naik penuh karena dalam ujaran bersambung sering direalisasikan sebagai nada 3 setengah."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pasangan",
+            "Kontras",
+            "Contoh",
+            "Makna"
+          ],
+          "baris": [
+            [
+              "mā vs má",
+              "1 vs 2",
+              "妈 / 麻",
+              "ibu / rami"
+            ],
+            [
+              "má vs mǎ",
+              "2 vs 3",
+              "麻 / 马",
+              "rami / kuda"
+            ],
+            [
+              "mǎ vs mà",
+              "3 vs 4",
+              "马 / 骂",
+              "kuda / memarahi"
+            ],
+            [
+              "shū vs shù",
+              "1 vs 4",
+              "书 / 数",
+              "buku / angka, menghitung"
+            ],
+            [
+              "mǎi vs mài",
+              "3 vs 4",
+              "买 / 卖",
+              "membeli / menjual"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "妈",
+              "pinyin": "mā",
+              "arti": "ibu",
+              "catatan": "Nada 1 tinggi dan stabil."
+            },
+            {
+              "hanzi": "麻",
+              "pinyin": "má",
+              "arti": "rami",
+              "catatan": "Nada 2 bergerak naik."
+            },
+            {
+              "hanzi": "马",
+              "pinyin": "mǎ",
+              "arti": "kuda",
+              "catatan": "Nada 3 penuh turun lalu naik; dalam frasa sering dipendekkan."
+            },
+            {
+              "hanzi": "骂",
+              "pinyin": "mà",
+              "arti": "memarahi",
+              "catatan": "Nada 4 turun tajam."
+            },
+            {
+              "hanzi": "吗",
+              "pinyin": "ma",
+              "arti": "partikel tanya",
+              "catatan": "Tidak memakai tanda nada karena nada netral."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan mengandalkan tinggi suara absolut. Yang penting adalah bentuk gerakan pitch dan kontras antarnada. Jangan pula memaksa nada 3 selalu melakukan gerakan turun-naik panjang dalam setiap kalimat."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Ucapkan mā-má-mǎ-mà dalam satu rangkaian lalu ulangi tanpa melihat tulisan.",
+            "Latih nada dengan suku kata yang sama sebelum menguji kosakata nyata.",
+            "Gunakan angka Mandarin sebagai latihan karena yī, èr, sān, sì, wǔ, liù, qī, bā, jiǔ, shí mencakup beberapa nada utama."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "5. Sandhi Nada: Nada 3, Nada 3 Setengah, serta 一 dan 不",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Sandhi nada atau 变调 biàndiào adalah perubahan realisasi nada karena lingkungan bunyi. Tujuannya menghasilkan ucapan yang lebih alami, bukan mengubah makna dasar kata. Aturan terpenting adalah nada 3 sebelum nada 3 umumnya direalisasikan sebagai nada 2, sehingga nǐ hǎo terdengar ní hǎo. Nada 3 yang diikuti nada 1, 2, atau 4 biasanya menjadi nada 3 setengah: bagian naik tidak diwujudkan penuh dan suara berhenti di wilayah rendah. Tiga nada 3 berturut-turut lebih kompleks karena struktur kata dan jeda dapat memengaruhi pembagian. Selain itu, 一 dan 不 mempunyai sandhi khusus yang harus dikuasai sebagai pola."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Realisasi",
+            "Contoh",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "3 + 3",
+              "2 + 3",
+              "你好 nǐ hǎo → ní hǎo",
+              "Suku kata pertama berubah secara fonetik."
+            ],
+            [
+              "3 + 1",
+              "3 setengah + 1",
+              "老师 lǎo shī",
+              "lǎo rendah tanpa kenaikan penuh."
+            ],
+            [
+              "3 + 2",
+              "3 setengah + 2",
+              "很忙 hěn máng",
+              "hěn tidak perlu naik penuh."
+            ],
+            [
+              "3 + 4",
+              "3 setengah + 4",
+              "好看 hǎo kàn",
+              "hǎo berhenti rendah."
+            ],
+            [
+              "3 + 3 + 3",
+              "Bergantung struktur",
+              "我很好 wǒ hěn hǎo",
+              "Jeda dan struktur prosodi ikut berpengaruh."
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Kondisi",
+            "Perubahan",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "一",
+              "Terisolasi/posisi tertentu",
+              "yī",
+              "第一 dì-yī"
+            ],
+            [
+              "一",
+              "Sebelum nada 4",
+              "yí",
+              "一个 yí gè"
+            ],
+            [
+              "一",
+              "Sebelum nada 1, 2, 3",
+              "yì",
+              "一天 yì tiān"
+            ],
+            [
+              "一",
+              "Reduplikasi 一...一...",
+              "yí dalam pola sumber",
+              "看一看 yí kàn yí kàn"
+            ],
+            [
+              "不",
+              "Terisolasi/posisi tertentu",
+              "bù",
+              "不 bù"
+            ],
+            [
+              "不",
+              "Sebelum nada 4",
+              "bú",
+              "不是 bú shì"
+            ],
+            [
+              "不",
+              "Sebelum nada 1, 2, 3",
+              "bù",
+              "不吃 bù chī"
+            ],
+            [
+              "不",
+              "Di antara verba dalam A不A",
+              "bu netral",
+              "去不去 qù bu qù"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你好",
+              "pinyin": "ní hǎo",
+              "arti": "halo",
+              "catatan": "Bentuk leksikal ditulis nǐ hǎo, tetapi realisasi 3+3 menjadi ní hǎo."
+            },
+            {
+              "hanzi": "很好",
+              "pinyin": "hén hǎo",
+              "arti": "sangat baik",
+              "catatan": "hěn berubah secara fonetik."
+            },
+            {
+              "hanzi": "可以",
+              "pinyin": "ké yǐ",
+              "arti": "boleh",
+              "catatan": "kě menjadi ké."
+            },
+            {
+              "hanzi": "老师",
+              "pinyin": "lǎo shī",
+              "arti": "guru",
+              "catatan": "lǎo direalisasikan sebagai nada 3 setengah."
+            },
+            {
+              "hanzi": "一个",
+              "pinyin": "yí gè",
+              "arti": "satu buah",
+              "catatan": "gè bernada 4 sehingga 一 menjadi yí."
+            },
+            {
+              "hanzi": "不是",
+              "pinyin": "bú shì",
+              "arti": "bukan",
+              "catatan": "shì bernada 4 sehingga 不 menjadi bú."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Bedakan bentuk Pinyin dasar dan realisasi sandhi. Jangan menghafal ní hǎo sebagai ejaan kamus baru; ia adalah cara pelafalan kontekstual dari nǐ hǎo. Kesalahan lain adalah memaksakan nada 3 penuh pada semua posisi."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Sandhi adalah perbedaan antara nada yang tercatat dalam bentuk leksikal dan realisasi fonetik ketika kata masuk ke dalam rangkaian ujaran. Aturan paling penting pada tahap awal adalah 3 + 3 yang menjadi 2 + 3 secara pelafalan. Nada 3 sebelum nada 1, 2, atau 4 biasanya menjadi nada 3 setengah, yaitu turun ke wilayah rendah tanpa kenaikan penuh. Untuk tiga nada 3 berturut-turut, pembagian prosodi dan struktur kata dapat memengaruhi realisasi sehingga pembelajar tidak sebaiknya menghafal satu formula mekanis untuk semua kalimat. 一 dan 不 mempunyai sandhi khusus: 一 menjadi yí sebelum nada 4 dan yì sebelum nada 1, 2, atau 3 dalam pola sumber; 不 menjadi bú sebelum nada 4 dan tetap bù sebelum nada 1, 2, atau 3. Bentuk tulisan biasanya mempertahankan bentuk dasar, sedangkan perubahan tampak pada pelafalan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Bentuk dasar",
+            "Realisasi latihan",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "3+3",
+              "nǐ hǎo",
+              "ní hǎo",
+              "你好"
+            ],
+            [
+              "3+1",
+              "lǎo shī",
+              "lǎo rendah",
+              "老师"
+            ],
+            [
+              "3+2",
+              "hěn máng",
+              "hěn rendah",
+              "很忙"
+            ],
+            [
+              "3+4",
+              "hǎo kàn",
+              "hǎo rendah",
+              "好看"
+            ],
+            [
+              "一 + 4",
+              "yī + gè",
+              "yí gè",
+              "一个"
+            ],
+            [
+              "一 + 1/2/3",
+              "yī + tiān",
+              "yì tiān",
+              "一天"
+            ],
+            [
+              "不 + 4",
+              "bù + shì",
+              "bú shì",
+              "不是"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你好",
+              "pinyin": "ní hǎo",
+              "arti": "halo",
+              "catatan": "Ejaan kamus biasanya nǐ hǎo; realisasi 3+3 menjadi ní hǎo."
+            },
+            {
+              "hanzi": "很好",
+              "pinyin": "hén hǎo",
+              "arti": "sangat baik",
+              "catatan": "hěn mengalami sandhi."
+            },
+            {
+              "hanzi": "可以",
+              "pinyin": "ké yǐ",
+              "arti": "boleh",
+              "catatan": "kě menjadi ké."
+            },
+            {
+              "hanzi": "一个",
+              "pinyin": "yí gè",
+              "arti": "satu buah",
+              "catatan": "gè adalah nada 4."
+            },
+            {
+              "hanzi": "不是",
+              "pinyin": "bú shì",
+              "arti": "bukan",
+              "catatan": "shì adalah nada 4."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menulis semua sandhi sebagai ejaan baru yang harus dihafal. Bedakan representasi leksikal dengan realisasi ucapan. Kesalahan lain adalah membuat semua nada 3 menjadi nada 2; aturan 3+3 berbeda dari nada 3 setengah."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Tandai bentuk kamus dan bentuk ucapan pada catatan belajar, misalnya nǐ hǎo → ní hǎo.",
+            "Latih sandhi dalam frasa sebelum memasukkannya ke kalimat panjang.",
+            "Dengarkan model asli dan perhatikan apakah perubahan terjadi pada suku kata tertentu atau hanya pada kontur intonasi kalimat."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "6. Nada Netral: Pitch, Durasi, Fungsi, dan Ritme",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Nada netral atau 轻声 tidak mempunyai tinggi nada tetap. Pitch relatifnya dipengaruhi oleh nada sebelumnya, sementara durasinya biasanya lebih pendek dan tekanannya lebih ringan. Dalam materi sumber, setelah nada 1 pitch netral cenderung berada pada tingkat sedang, setelah nada 2 pada tingkat sedang-tinggi, setelah nada 3 relatif tinggi, dan setelah nada 4 relatif rendah. Nada netral banyak ditemukan pada sufiks 子 dan 头, unsur 们 dalam kata ganti jamak, partikel 吗 呢 吧 啊, partikel struktural 的 得 地 dalam penggunaan tertentu, reduplikasi verba, serta istilah keluarga seperti 爸爸 dan 妈妈. Namun status netral tidak boleh diperlakukan sebagai hukum mekanis bahwa setiap karakter tersebut selalu netral dalam semua konteks."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Nada sebelumnya",
+            "Pitch relatif",
+            "Contoh",
+            "Kesan"
+          ],
+          "baris": [
+            [
+              "1",
+              "Sedang",
+              "爸爸 bàba, 哥哥 gēge",
+              "Suku kedua lebih ringan."
+            ],
+            [
+              "2",
+              "Sedang-tinggi",
+              "爷爷 yéye, 石头 shítou",
+              "Mengikuti titik awal yang lebih tinggi."
+            ],
+            [
+              "3",
+              "Tinggi",
+              "姐姐 jiějie, 我们 wǒmen",
+              "Dapat terdengar relatif tinggi."
+            ],
+            [
+              "4",
+              "Rendah",
+              "弟弟 dìdi, 谢谢 xièxie",
+              "Cenderung berada rendah."
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kategori",
+            "Contoh",
+            "Pinyin",
+            "Fungsi"
+          ],
+          "baris": [
+            [
+              "Sufiks",
+              "子, 头",
+              "zi, tou",
+              "Pembentuk kata benda tertentu."
+            ],
+            [
+              "Penanda jamak",
+              "们",
+              "men",
+              "Unsur ringan pada kata ganti."
+            ],
+            [
+              "Partikel akhir",
+              "吗, 呢, 吧, 啊",
+              "ma, ne, ba, a",
+              "Fungsi pragmatis."
+            ],
+            [
+              "Partikel struktural",
+              "的, 得, 地",
+              "de",
+              "Hubungan gramatikal."
+            ],
+            [
+              "Reduplikasi",
+              "看看, 听听",
+              "kànkan, tīngting",
+              "Suku kedua sering ringan."
+            ],
+            [
+              "Keluarga",
+              "爸爸, 妈妈, 哥哥",
+              "bàba, māma, gēge",
+              "Suku kedua lazimnya ringan."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "爸爸",
+              "pinyin": "bàba",
+              "arti": "ayah",
+              "catatan": "ba kedua biasanya ringan."
+            },
+            {
+              "hanzi": "妈妈",
+              "pinyin": "māma",
+              "arti": "ibu",
+              "catatan": "ma kedua biasanya ringan."
+            },
+            {
+              "hanzi": "我们",
+              "pinyin": "wǒmen",
+              "arti": "kami/kita",
+              "catatan": "men sering ringan."
+            },
+            {
+              "hanzi": "看看",
+              "pinyin": "kànkan",
+              "arti": "melihat-lihat",
+              "catatan": "Suku kedua sering ringan."
+            },
+            {
+              "hanzi": "谢谢",
+              "pinyin": "xièxie",
+              "arti": "terima kasih",
+              "catatan": "Suku kedua biasanya lebih ringan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan mengucapkan semua suku kata dengan tekanan dan panjang yang sama. Namun jangan pula menganggap semua 子, 头, 了, 吗, 呢, 吧, 啊, 的, 得, 地 selalu wajib netral. Fungsi kata, struktur, konteks, dan pilihan penutur dapat memengaruhi realisasi."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Nada netral atau 轻声 qīngshēng adalah salah satu kunci ritme Mandarin. Ia tidak memiliki pitch tetap seperti empat nada utama. Tinggi relatifnya bergantung pada nada sebelumnya dan konteks, sementara durasinya biasanya lebih pendek serta tekanan artikulatorisnya lebih ringan. Dalam materi sumber, setelah nada 1 pitch nada netral cenderung sedang, setelah nada 2 sedang-tinggi, setelah nada 3 lebih tinggi, dan setelah nada 4 lebih rendah. Angka tersebut adalah panduan relatif, bukan target pitch absolut untuk semua penutur. Nada netral muncul dalam banyak partikel, sufiks, kata ganti berakhiran 们, reduplikasi, dan istilah keluarga. Namun tidak setiap kemunculan karakter yang sama wajib selalu netral; fungsi, struktur kata, gaya bicara, dan penekanan dapat memengaruhi realisasi."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Nada sebelumnya",
+            "Kecenderungan pitch netral",
+            "Contoh",
+            "Fokus"
+          ],
+          "baris": [
+            [
+              "1",
+              "sedang",
+              "妈妈 māma",
+              "ringan dan pendek"
+            ],
+            [
+              "2",
+              "sedang-tinggi",
+              "爷爷 yéye",
+              "jangan menekan suku kedua"
+            ],
+            [
+              "3",
+              "lebih tinggi",
+              "姐姐 jiějie",
+              "jaga suku kedua tetap ringan"
+            ],
+            [
+              "4",
+              "rendah",
+              "弟弟 dìdi",
+              "hindari tekanan penuh pada suku kedua"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "爸爸",
+              "pinyin": "bàba",
+              "arti": "ayah",
+              "catatan": "ba kedua biasanya ringan."
+            },
+            {
+              "hanzi": "妈妈",
+              "pinyin": "māma",
+              "arti": "ibu",
+              "catatan": "ma kedua sering netral."
+            },
+            {
+              "hanzi": "我们",
+              "pinyin": "wǒmen",
+              "arti": "kami/kita",
+              "catatan": "men dapat sangat ringan."
+            },
+            {
+              "hanzi": "看看",
+              "pinyin": "kànkan",
+              "arti": "lihat-lihat",
+              "catatan": "kan kedua sering netral dalam pola reduplikasi."
+            },
+            {
+              "hanzi": "怎么样",
+              "pinyin": "zěnmeyàng",
+              "arti": "bagaimana",
+              "catatan": "me biasanya ringan dalam percakapan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan umum adalah memberi tekanan sama panjang pada semua suku kata atau mengira nada netral berarti tidak bernada sama sekali. Nada netral tetap mempunyai pitch relatif, hanya tidak memiliki kontur leksikal penuh yang tetap."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Ucapkan bà-bà dengan dua nada penuh, lalu bàba dengan suku kedua ringan untuk merasakan perbedaan ritme.",
+            "Latih 们, 子, 头, 吧, 吗, 呢, 了, 的, 得, 地 dalam kata dan kalimat, bukan sebagai suku kata terisolasi saja.",
+            "Bandingkan rekaman lambat dan cepat untuk melihat bagaimana durasi suku kata netral berubah."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "7. Erhua atau 儿化 dan Variasi Penggunaannya",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Erhua atau 儿化 adalah proses ketika unsur retrofleks -r menyatu dengan suku kata sebelumnya. Fenomena ini sangat khas dalam banyak varietas Mandarin Utara, terutama Beijing, dan lebih umum dalam bahasa lisan daripada tulisan. 儿 pada 哪儿 nǎr bukan sekadar suku kata terpisah seperti er pada 二 èr; ia memodifikasi suku kata sebelumnya. Erhua dapat menjadi ciri regional, bagian dari kebiasaan kata tertentu, atau memberi warna percakapan. Tidak semua penutur menggunakannya secara konsisten. Taiwan dan banyak varietas Selatan menggunakan jauh lebih sedikit erhua dibandingkan Beijing. Karena itu pembelajar tidak perlu memaksakan erhua pada semua kata."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Erhua",
+            "Tanpa erhua",
+            "Arti",
+            "Nuansa"
+          ],
+          "baris": [
+            [
+              "哪儿 nǎr",
+              "哪里 nǎlǐ",
+              "di mana",
+              "nǎr lazim dalam banyak konteks Utara."
+            ],
+            [
+              "这儿 zhèr",
+              "这里 zhèlǐ",
+              "di sini",
+              "zhèr sangat umum dalam lisan Utara."
+            ],
+            [
+              "一点儿 yīdiǎnr",
+              "一点 yīdiǎn",
+              "sedikit",
+              "Erhua memberi warna regional/lisan."
+            ],
+            [
+              "好玩儿 hǎowánr",
+              "好玩 hǎowán",
+              "menyenangkan",
+              "Varian erhua."
+            ],
+            [
+              "画儿 huàr",
+              "画 huà",
+              "gambar/lukisan",
+              "Materi sumber memberi nuansa lebih informal."
+            ],
+            [
+              "头儿 tóur",
+              "头 tóu",
+              "bos/pemimpin vs kepala",
+              "Erhua dapat membedakan bentuk leksikal."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "哪儿",
+              "pinyin": "nǎr",
+              "arti": "di mana",
+              "catatan": "Bentuk erhua yang lazim dalam banyak konteks Mandarin Utara."
+            },
+            {
+              "hanzi": "这儿",
+              "pinyin": "zhèr",
+              "arti": "di sini",
+              "catatan": "Bandingkan dengan 这里 zhèlǐ."
+            },
+            {
+              "hanzi": "一点儿",
+              "pinyin": "yīdiǎnr",
+              "arti": "sedikit",
+              "catatan": "Unsur -r menyatu dengan diǎn."
+            },
+            {
+              "hanzi": "好玩儿",
+              "pinyin": "hǎowánr",
+              "arti": "menyenangkan",
+              "catatan": "Varian erhua yang umum di sebagian wilayah."
+            },
+            {
+              "hanzi": "头儿",
+              "pinyin": "tóur",
+              "arti": "pemimpin/bos",
+              "catatan": "Berbeda dari 头 tóu yang berarti kepala."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Erhua lebih kuat di Beijing dan banyak konteks Mandarin Utara.",
+            "Taiwan dan Shanghai menggunakan erhua jauh lebih sedikit dibandingkan Beijing menurut materi sumber.",
+            "Erhua lebih umum dalam bahasa lisan daripada tulisan.",
+            "Penggunaan harus disesuaikan dengan wilayah, lawan bicara, dan tingkat formalitas.",
+            "Bentuk tanpa erhua bukan berarti salah; ia sering menjadi bentuk yang lebih netral lintas wilayah."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap erhua sebagai standar yang lebih benar. Ini adalah variasi pengucapan. Target pembelajar adalah mampu mengenali bentuk erhua dan non-erhua serta memilih bentuk yang sesuai dengan lingkungan."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Erhua atau 儿化 adalah proses ketika unsur r menyatu dengan suku kata sebelumnya sehingga tidak selalu terdengar sebagai suku kata 儿 yang berdiri sendiri. Erhua sangat khas pada banyak varietas Mandarin Utara, terutama Beijing, dan secara umum lebih kuat dalam percakapan daripada tulisan formal. Erhua dapat menjadi ciri regional, gaya, atau bagian dari bentuk leksikal tertentu. Karena itu, pembelajar tidak perlu menambahkan r ke semua kata agar terdengar seperti Beijing. Yang lebih penting adalah mampu mengenali pasangan seperti 哪儿 nǎr dan 哪里 nǎlǐ ketika mendengarkan. Penggunaan erhua juga dapat memberi kesan regional atau kasual, sehingga pilihan bentuk perlu disesuaikan dengan lawan bicara dan konteks."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pasangan",
+            "Bentuk erhua",
+            "Bentuk tanpa erhua",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "di mana",
+              "哪儿 nǎr",
+              "哪里 nǎlǐ",
+              "variasi regional"
+            ],
+            [
+              "di sini",
+              "这儿 zhèr",
+              "这里 zhèlǐ",
+              "keduanya luas"
+            ],
+            [
+              "sedikit",
+              "一点儿 yīdiǎnr",
+              "一点 yīdiǎn",
+              "gaya/regional"
+            ],
+            [
+              "menyenangkan",
+              "好玩儿 hǎowánr",
+              "好玩 hǎowán",
+              "bentuk lisan"
+            ],
+            [
+              "gambar",
+              "画儿 huàr",
+              "画 huà",
+              "materi sumber memberi nuansa informal pada bentuk erhua"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "哪儿",
+              "pinyin": "nǎr",
+              "arti": "di mana",
+              "catatan": "Erhua jelas; umum dalam banyak varietas Utara."
+            },
+            {
+              "hanzi": "哪里",
+              "pinyin": "nǎlǐ",
+              "arti": "di mana",
+              "catatan": "Bentuk tanpa erhua yang sangat luas."
+            },
+            {
+              "hanzi": "这儿",
+              "pinyin": "zhèr",
+              "arti": "di sini",
+              "catatan": "Bandingkan dengan 这里."
+            },
+            {
+              "hanzi": "一点儿",
+              "pinyin": "yīdiǎnr",
+              "arti": "sedikit",
+              "catatan": "Erhua pada akhir frasa."
+            },
+            {
+              "hanzi": "好玩儿",
+              "pinyin": "hǎowánr",
+              "arti": "menyenangkan",
+              "catatan": "Bentuk percakapan dengan erhua."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menyamakan 儿 sebagai kata yang selalu dibaca ér. Dalam erhua, unsur r menyatu dengan suku kata sebelumnya. Kesalahan lain adalah menganggap bentuk tanpa erhua kurang benar; variasi regional membuat kedua pola dapat sah."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Dengarkan pasangan erhua dan non-erhua tanpa melihat teks.",
+            "Tiru satu model regional secara konsisten sebelum membandingkan variasi lain.",
+            "Untuk Mandarin Standar lintas wilayah, utamakan kemampuan memahami kedua bentuk daripada memaksakan salah satunya."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "8. Suku Kata Khusus dan Aturan y, w, serta i Khusus",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Beberapa ejaan Pinyin mudah menyesatkan karena huruf i tidak selalu mewakili vokal i seperti pada 一 yī. Pada zhi, chi, shi, ri, zi, ci, si, i merupakan bagian dari kategori vokal khusus. Kelompok zhi chi shi ri berkaitan dengan artikulasi retrofleks, sedangkan zi ci si berkaitan dengan z c s. Selain itu, ketika suku kata secara struktur dimulai dengan i, u, atau ü tetapi tidak mempunyai inisial konsonan, Pinyin menggunakan y atau w sebagai bagian dari ejaan: yi, ya, ye, yao, you, wu, wa, wo, wai, wei, wan, wen, wang, weng. Untuk ü pada awal digunakan yu, yue, yuan, yun. Ini adalah aturan ejaan dan struktur suku kata, bukan penambahan konsonan biasa yang harus dibaca seperti huruf Latin Indonesia."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Contoh",
+            "Cara memahami"
+          ],
+          "baris": [
+            [
+              "zhi",
+              "知 zhī, 直 zhí",
+              "i khusus setelah zh."
+            ],
+            [
+              "chi",
+              "吃 chī, 池 chí",
+              "i khusus setelah ch dan ch beraspirasi."
+            ],
+            [
+              "shi",
+              "是 shì, 十 shí",
+              "i khusus setelah sh."
+            ],
+            [
+              "ri",
+              "日 rì",
+              "i khusus setelah r retrofleks bersuara."
+            ],
+            [
+              "zi",
+              "字 zì, 子 zǐ",
+              "i khusus setelah z."
+            ],
+            [
+              "ci",
+              "次 cì, 此 cǐ",
+              "i khusus setelah c beraspirasi."
+            ],
+            [
+              "si",
+              "四 sì, 死 sǐ",
+              "i khusus setelah s."
+            ],
+            [
+              "yi",
+              "一 yī, 衣 yī",
+              "i awal ditulis dengan y."
+            ],
+            [
+              "wu",
+              "我 wǒ",
+              "u awal ditulis dengan w."
+            ],
+            [
+              "yu",
+              "鱼 yú, 月 yuè",
+              "ü awal ditulis yu/yue tanpa dua titik."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "知",
+              "pinyin": "zhī",
+              "arti": "tahu",
+              "catatan": "Jangan membaca i seperti i pada yi."
+            },
+            {
+              "hanzi": "吃",
+              "pinyin": "chī",
+              "arti": "makan",
+              "catatan": "ch beraspirasi dan i termasuk kategori khusus."
+            },
+            {
+              "hanzi": "是",
+              "pinyin": "shì",
+              "arti": "adalah",
+              "catatan": "sh memakai posisi retrofleks."
+            },
+            {
+              "hanzi": "四",
+              "pinyin": "sì",
+              "arti": "empat",
+              "catatan": "Jangan membaca seperti si Indonesia."
+            },
+            {
+              "hanzi": "一",
+              "pinyin": "yī",
+              "arti": "satu",
+              "catatan": "i awal direpresentasikan dengan y."
+            },
+            {
+              "hanzi": "我",
+              "pinyin": "wǒ",
+              "arti": "saya",
+              "catatan": "u awal direpresentasikan dengan w."
+            },
+            {
+              "hanzi": "鱼",
+              "pinyin": "yú",
+              "arti": "ikan",
+              "catatan": "ü awal ditulis yu."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan klasik adalah membaca zhi sebagai zee, si sebagai si Indonesia, q sebagai kiu, dan x sebagai eks. Perlakukan seluruh suku kata sebagai unit bunyi dan jangan memberikan nilai bunyi Indonesia kepada setiap huruf."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Kelompok zhi, chi, shi, ri, zi, ci, si merupakan jebakan utama karena huruf i di dalamnya tidak mewakili i seperti pada yi. Dalam analisis fonetik, bagian tersebut sering disebut vokal apikal atau vokal khusus yang terkait dengan posisi artikulasi konsonan sebelumnya. Untuk pemula, penjelasan praktis yang paling aman adalah: jangan membaca zhi seperti zi atau ji, dan jangan membaca si seperti si Indonesia dalam silakan. Selain itu, y dan w pada awal suku kata terutama merupakan konvensi ejaan untuk menunjukkan bahwa suku kata vokal dimulai dengan unsur i, u, atau ü. Karena itu yi, wu, yu perlu dipelajari sebagai pola ejaan, bukan tiga konsonan biasa."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Fungsi ejaan",
+            "Contoh",
+            "Peringatan"
+          ],
+          "baris": [
+            [
+              "zhi",
+              "i khusus setelah zh",
+              "知 zhī",
+              "bukan i seperti yī"
+            ],
+            [
+              "chi",
+              "i khusus setelah ch",
+              "吃 chī",
+              "ch beraspirasi"
+            ],
+            [
+              "shi",
+              "i khusus setelah sh",
+              "是 shì",
+              "sh retrofleks"
+            ],
+            [
+              "ri",
+              "i khusus setelah r",
+              "日 rì",
+              "r bersuara"
+            ],
+            [
+              "zi",
+              "i khusus setelah z",
+              "字 zì",
+              "bukan zi Indonesia"
+            ],
+            [
+              "ci",
+              "i khusus setelah c",
+              "次 cì",
+              "c beraspirasi"
+            ],
+            [
+              "si",
+              "i khusus setelah s",
+              "四 sì",
+              "bukan si Indonesia"
+            ],
+            [
+              "yi/wu/yu",
+              "konvensi awal i/u/ü",
+              "一 yī, 我 wǒ, 鱼 yú",
+              "yu mempertahankan bunyi ü"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "知",
+              "pinyin": "zhī",
+              "arti": "tahu",
+              "catatan": "i termasuk vokal khusus."
+            },
+            {
+              "hanzi": "吃",
+              "pinyin": "chī",
+              "arti": "makan",
+              "catatan": "ch beraspirasi dan i khusus."
+            },
+            {
+              "hanzi": "是",
+              "pinyin": "shì",
+              "arti": "adalah",
+              "catatan": "sh memakai posisi retrofleks."
+            },
+            {
+              "hanzi": "四",
+              "pinyin": "sì",
+              "arti": "empat",
+              "catatan": "Jangan dibaca seperti si Indonesia."
+            },
+            {
+              "hanzi": "鱼",
+              "pinyin": "yú",
+              "arti": "ikan",
+              "catatan": "yu mewakili ü pada awal suku kata."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan membuat transkripsi Indonesia seperti zhi = ji atau si = si sebagai target final. Perbandingan seperti itu hanya boleh menjadi jembatan sementara; target akhirnya adalah bunyi Mandarin yang benar."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Latih zhi-zi, chi-ci, shi-si dengan nada yang sama agar fokus hanya pada artikulasi.",
+            "Latih yi-wu-yu setelah memahami i-u-ü tanpa inisial.",
+            "Gunakan kata nyata seperti 知道, 吃饭, 时候, 四, 鱼 agar pola tidak tetap sebagai latihan abstrak."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "9. Kombinasi Inisial dan Final yang Diizinkan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Tidak semua inisial dapat digabungkan dengan semua final. Sistem bunyi Mandarin mempunyai batas fonotaktik, yaitu aturan mengenai kombinasi bunyi yang dapat membentuk suku kata. Materi sumber menekankan bahwa pembelajar dapat membuat kombinasi teoretis seperti ja atau qa yang tidak digunakan sebagai suku kata Mandarin Standar. Dalam kerangka sumber, matriks keseluruhan diperkirakan menghasilkan sekitar 400+ suku kata valid dari lebih dari 1.600 kombinasi teoretis. Kelompok j q x sangat khas karena terutama bertemu i, ü, dan turunannya. n dan l dapat bertemu ü, sedangkan d dan t tidak. zh ch sh r mempunyai distribusi yang berbeda dari j q x. Memahami fonotaktik membuat pembelajar lebih mudah mengenali mengapa bentuk tertentu terdengar asing."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Inisial",
+            "Final yang dicantumkan dalam sumber",
+            "Contoh",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "b p m f",
+              "a o e i u ai ei ao ou an en ang eng ong",
+              "bā, bǐ, bù",
+              "Tidak mengikuti semua final kompleks."
+            ],
+            [
+              "d t n l",
+              "a o e i u ü ai ei ao ou an en ang eng ong ia iao ie iu ian in iang ing ua uo uai uan un uang üe üan ün",
+              "dà, nǚ, lǜ",
+              "n/l dapat bertemu ü."
+            ],
+            [
+              "g k h",
+              "a o e u ai ei ao ou an en ang eng ong ua uo uai uan un uang",
+              "gē, kǒu, hǎo",
+              "Tidak memakai kelompok i/ü dalam matriks sumber."
+            ],
+            [
+              "j q x",
+              "i ü ia iao ie iu ian in iang ing iong üe üan ün",
+              "jiā, qǐng, xué",
+              "Kelompok palatal khas."
+            ],
+            [
+              "zh ch sh r",
+              "a o e u ai ei ao ou an en ang eng ong ua uo uai uan un uang",
+              "zhōng, chī, shí",
+              "Distribusi berbeda dari j q x."
+            ],
+            [
+              "z c s",
+              "a o e u ai ei ao ou an en ang eng ong",
+              "zì, cóng, sì",
+              "i pada zi/ci/si merupakan vokal khusus."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "八",
+              "pinyin": "bā",
+              "arti": "delapan",
+              "catatan": "b + a valid."
+            },
+            {
+              "hanzi": "比",
+              "pinyin": "bǐ",
+              "arti": "membandingkan",
+              "catatan": "b + i valid."
+            },
+            {
+              "hanzi": "女",
+              "pinyin": "nǚ",
+              "arti": "perempuan",
+              "catatan": "n + ü valid."
+            },
+            {
+              "hanzi": "绿",
+              "pinyin": "lǜ",
+              "arti": "hijau",
+              "catatan": "l + ü valid."
+            },
+            {
+              "hanzi": "家",
+              "pinyin": "jiā",
+              "arti": "rumah",
+              "catatan": "j + ia valid."
+            },
+            {
+              "hanzi": "请",
+              "pinyin": "qǐng",
+              "arti": "silakan",
+              "catatan": "q + ing valid."
+            },
+            {
+              "hanzi": "学",
+              "pinyin": "xué",
+              "arti": "belajar",
+              "catatan": "x + üe valid."
+            },
+            {
+              "hanzi": "中",
+              "pinyin": "zhōng",
+              "arti": "tengah",
+              "catatan": "zh + ong valid."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan membuat suku kata dengan menempelkan setiap inisial pada setiap final. Jika sebuah kombinasi tidak ditemukan dalam kosakata Mandarin Standar, kemungkinan besar masalahnya adalah fonotaktik, bukan kekurangan kosakata."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Kombinasi inisial-final dibatasi oleh fonotaktik Mandarin, yaitu aturan tentang bunyi mana yang boleh berdampingan dalam satu suku kata. Karena itu, tidak semua kombinasi teoritis dari 21 inisial dan kelompok final menghasilkan suku kata Mandarin Standar. Kelompok j q x terutama muncul dengan final yang mempunyai unsur i atau ü, sedangkan zh ch sh r dan z c s memiliki pola final yang berbeda. n dan l dapat bertemu ü, sementara d dan t tidak. Pemahaman ini membantu pembelajar memahami mengapa bentuk seperti ja atau qa bukan pola standar yang perlu diciptakan. Tabel sumber merupakan matriks pedagogis; tujuan belajar bukan menghafal ratusan kotak, melainkan mengenali keluarga kombinasi yang mungkin dan mengembangkan intuisi fonotaktik melalui kosakata nyata."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kelompok inisial",
+            "Final yang sering menjadi keluarga kombinasi",
+            "Contoh",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "b p m f",
+              "a, o, e, i, u, ai, ei, ao, ou, an, en, ang, eng, ong",
+              "bā, pǎo, méi, fēi",
+              "kelompok labial"
+            ],
+            [
+              "d t n l",
+              "a, e, i, u, ü dan banyak final majemuk",
+              "dà, tiān, nǚ, lǜ",
+              "n/l dapat ü"
+            ],
+            [
+              "g k h",
+              "a, o, e, u dan final terkait",
+              "gē, kǒu, hǎo",
+              "tidak mengikuti keluarga j/q/x"
+            ],
+            [
+              "j q x",
+              "i, ü dan turunannya",
+              "jiā, qǐng, xué",
+              "j/q/x tidak bertemu a atau u biasa"
+            ],
+            [
+              "zh ch sh r",
+              "a, o, e, u dan banyak final terkait",
+              "zhōng, chī, shàng, rén",
+              "berbeda dari j/q/x"
+            ],
+            [
+              "z c s",
+              "a, o, e, u dan final terkait",
+              "zài, cóng, sān",
+              "lebih depan daripada zh/ch/sh"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "八",
+              "pinyin": "bā",
+              "arti": "delapan",
+              "catatan": "b+a adalah kombinasi valid."
+            },
+            {
+              "hanzi": "女",
+              "pinyin": "nǚ",
+              "arti": "perempuan",
+              "catatan": "n+ü valid."
+            },
+            {
+              "hanzi": "家",
+              "pinyin": "jiā",
+              "arti": "rumah",
+              "catatan": "j+ia valid."
+            },
+            {
+              "hanzi": "请",
+              "pinyin": "qǐng",
+              "arti": "silakan",
+              "catatan": "q+ing valid."
+            },
+            {
+              "hanzi": "学",
+              "pinyin": "xué",
+              "arti": "belajar",
+              "catatan": "x+üe valid."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menghafal contoh tidak valid sebagai kosakata. Tujuan bagian ini adalah membangun intuisi bahwa sistem Pinyin memiliki batas kombinasi. Jika menemukan bentuk seperti ja atau qa dalam latihan buatan sendiri, periksa kembali apakah suku kata itu memang ada dalam Mandarin Standar."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Pilih satu inisial lalu sebutkan final yang benar-benar Anda kenal, bukan semua final secara teoretis.",
+            "Gunakan peta Pinyin atau kamus audio untuk memverifikasi kombinasi yang diragukan.",
+            "Setelah memahami keluarga, latihan terbaik adalah memperbanyak kosakata nyata daripada menghafal matriks secara mekanis."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "10. Teknik Fisik Menghasilkan Bunyi Mandarin",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Teori fonetik harus disertai pengaturan fisik lidah, bibir, dan rongga mulut. Untuk j q x, ujung lidah berada di belakang gigi bawah, bagian depan/tengah lidah dinaikkan ke arah langit-langit keras, dan bibir cenderung sedikit meregang. j tidak beraspirasi, q beraspirasi, sedangkan x merupakan desis palatal. Untuk zh ch sh r, lidah bergerak lebih ke belakang dan mempunyai kualitas retrofleks. Untuk ü, posisi lidah dipertahankan di depan seperti i sambil membulatkan bibir. Untuk r, lidah diarahkan ke belakang dan bunyi dibuat bersuara. Final e menggunakan wilayah vokal tengah-belakang dan tidak boleh disamakan dengan e Indonesia. Teknik ini adalah titik awal untuk menemukan sensasi artikulatoris; setiap penutur tetap dapat memiliki variasi kecil."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bunyi",
+            "Posisi",
+            "Kontras",
+            "Latihan"
+          ],
+          "baris": [
+            [
+              "j",
+              "Lidah depan mendekati langit-langit; tanpa aspirasi",
+              "vs q",
+              "ji → qi"
+            ],
+            [
+              "q",
+              "Posisi seperti j + aspirasi",
+              "vs j",
+              "Gunakan tisu untuk merasakan hembusan."
+            ],
+            [
+              "x",
+              "Desis palatal; lidah lebih datar",
+              "vs s",
+              "xī vs sī"
+            ],
+            [
+              "zh",
+              "Lidah diarahkan ke belakang",
+              "vs z",
+              "zhī vs zī"
+            ],
+            [
+              "ch",
+              "Retrofleks + aspirasi",
+              "vs zh",
+              "chī vs zhī"
+            ],
+            [
+              "sh",
+              "Desis retrofleks",
+              "vs x/s",
+              "shí vs xí"
+            ],
+            [
+              "r",
+              "Retrofleks bersuara",
+              "vs r Indonesia",
+              "Pertahankan suara tanpa sentuhan kuat."
+            ],
+            [
+              "ü",
+              "Lidah depan + bibir membulat",
+              "vs u",
+              "i → ü"
+            ],
+            [
+              "e",
+              "Vokal tengah-belakang",
+              "vs e Indonesia",
+              "hē dibandingkan e Indonesia."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "西",
+              "pinyin": "xī",
+              "arti": "barat",
+              "catatan": "Desis palatal, bukan s biasa."
+            },
+            {
+              "hanzi": "七",
+              "pinyin": "qī",
+              "arti": "tujuh",
+              "catatan": "q membutuhkan hembusan."
+            },
+            {
+              "hanzi": "知",
+              "pinyin": "zhī",
+              "arti": "tahu",
+              "catatan": "Lidah lebih belakang."
+            },
+            {
+              "hanzi": "吃",
+              "pinyin": "chī",
+              "arti": "makan",
+              "catatan": "Retrofleks dan aspirasi."
+            },
+            {
+              "hanzi": "鱼",
+              "pinyin": "yú",
+              "arti": "ikan",
+              "catatan": "Pertahankan lidah seperti i sambil membulatkan bibir."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan membuat lidah terlalu tegang. Tujuannya menemukan posisi stabil yang dapat dipertahankan ketika bicara cepat. Jika posisi benar hanya dapat dibuat secara lambat, latihan harus dilanjutkan sampai gerakan menjadi otomatis."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Artikulasi adalah koordinasi fisik lidah, bibir, rahang, aliran udara, dan suara. Bagi pembelajar Indonesia, tiga kelompok paling penting adalah j q x, zh ch sh r, dan z c s. j q x menggunakan bagian depan/tengah lidah dan bibir cenderung lebih meregang; zh ch sh menggunakan posisi lebih belakang dengan karakter retrofleks; z c s lebih depan. ü merupakan latihan berbeda karena posisi lidah dan bibir harus dipisahkan: lidah seperti i, bibir seperti u. Aspirasi juga harus dilatih sebagai aliran udara, bukan sebagai perubahan nada. Latihan cermin membantu melihat bibir, sementara tangan atau tisu membantu merasakan hembusan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Target",
+            "Posisi utama",
+            "Tes fisik",
+            "Kesalahan umum"
+          ],
+          "baris": [
+            [
+              "j q x",
+              "lidah palatal, bibir relatif meregang",
+              "q harus terasa berhembus",
+              "disamakan dengan j/c/s Indonesia"
+            ],
+            [
+              "zh ch sh",
+              "lidah diarahkan/gulung ke belakang",
+              "bandingkan dengan z/c/s",
+              "dibaca z+c+s tanpa retrofleks"
+            ],
+            [
+              "r",
+              "retrofleks bersuara",
+              "rasakan suara sambil mempertahankan posisi belakang",
+              "r Indonesia langsung"
+            ],
+            [
+              "ü",
+              "lidah depan, bibir membulat",
+              "ucapkan i lalu bulatkan bibir",
+              "berubah menjadi u"
+            ],
+            [
+              "e",
+              "vokal tengah-belakang",
+              "bandingkan dengan a/u",
+              "dibaca e Indonesia"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "家",
+              "pinyin": "jiā",
+              "arti": "rumah",
+              "catatan": "j palatal, tidak beraspirasi."
+            },
+            {
+              "hanzi": "七",
+              "pinyin": "qī",
+              "arti": "tujuh",
+              "catatan": "q palatal dan beraspirasi."
+            },
+            {
+              "hanzi": "小",
+              "pinyin": "xiǎo",
+              "arti": "kecil",
+              "catatan": "x berupa desis palatal lembut."
+            },
+            {
+              "hanzi": "日",
+              "pinyin": "rì",
+              "arti": "hari",
+              "catatan": "r retrofleks bersuara."
+            },
+            {
+              "hanzi": "鱼",
+              "pinyin": "yú",
+              "arti": "ikan",
+              "catatan": "ü dilatih dengan lidah i dan bibir bulat."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan memperbaiki semua bunyi dengan menggulung lidah. j/q/x justru perlu dibedakan dari zh/ch/sh. Jika posisi lidah sama untuk semua bunyi, kontras penting akan hilang."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Gunakan cermin untuk memeriksa pembulatan bibir pada ü.",
+            "Gunakan tisu untuk memeriksa aspirasi q, ch, c, p, t, k.",
+            "Latih urutan sī-xī, zì-zhī, jiā-zhā, qī-chī dengan tempo lambat lalu cepat."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "11. Irama, Penekanan Kata, dan Prosodi",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Walaupun setiap suku kata Mandarin mempunyai nada, semua suku kata tidak selalu diberi tekanan, panjang, atau energi yang sama. Prosodi membuat ucapan terdengar seperti bahasa alami, bukan deretan karakter yang dibaca satu per satu. Materi sumber memberi sejumlah kecenderungan pada kata dua suku kata: beberapa pasangan relatif seimbang, sebagian lebih menonjolkan suku pertama, dan sebagian suku kedua. Pada kata tiga suku kata juga terdapat kecenderungan penonjolan tertentu. Namun pola ini bukan hukum mutlak karena fokus informasi, emosi, kontras, dan konteks dapat menggeser tekanan. Nada dan tekanan juga berbeda: sebuah suku kata dapat tetap memiliki nada 4 walaupun tidak menjadi pusat informasi."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Kecenderungan sumber",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "1+1",
+              "Sama/sedang",
+              "今天 jīntiān"
+            ],
+            [
+              "1+4",
+              "Suku kedua lebih menonjol",
+              "高兴 gāoxìng"
+            ],
+            [
+              "2+1",
+              "Suku kedua lebih menonjol",
+              "明天 míngtiān"
+            ],
+            [
+              "2+4",
+              "Suku kedua lebih menonjol",
+              "奇怪 qíguài"
+            ],
+            [
+              "3+1",
+              "Suku pertama lebih menonjol",
+              "老师 lǎoshī"
+            ],
+            [
+              "3+2",
+              "Suku pertama lebih menonjol",
+              "可能 kěnéng"
+            ],
+            [
+              "3+4",
+              "Suku pertama lebih menonjol",
+              "好看 hǎokàn"
+            ],
+            [
+              "4+1",
+              "Suku kedua lebih menonjol",
+              "大家 dàjiā"
+            ],
+            [
+              "4+2",
+              "Suku kedua lebih menonjol",
+              "未来 wèilái"
+            ],
+            [
+              "4+3",
+              "Suku kedua lebih menonjol",
+              "汉语 hànyǔ"
+            ],
+            [
+              "4+4",
+              "Suku kedua lebih menonjol",
+              "现在 xiànzài"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola tiga suku kata",
+            "Kecenderungan",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "1+1+1",
+              "Sama/sedang",
+              "星期一 xīngqīyī"
+            ],
+            [
+              "1+1+4",
+              "Suku ketiga",
+              "计算机 jìsuànjī"
+            ],
+            [
+              "2+1+1",
+              "Suku kedua dan ketiga",
+              "人民币 rénmínbì"
+            ],
+            [
+              "3+1+1",
+              "Suku pertama",
+              "好朋友 hǎopéngyou"
+            ],
+            [
+              "4+1+1",
+              "Suku kedua dan ketiga",
+              "大学生 dàxuéshēng"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "老师",
+              "pinyin": "lǎoshī",
+              "arti": "guru",
+              "catatan": "Suku pertama menonjol dalam kecenderungan sumber; lǎo juga mengalami nada 3 setengah."
+            },
+            {
+              "hanzi": "喜欢",
+              "pinyin": "xǐhuan",
+              "arti": "suka",
+              "catatan": "Suku kedua dapat terasa lebih menonjol."
+            },
+            {
+              "hanzi": "漂亮",
+              "pinyin": "piàoliang",
+              "arti": "cantik",
+              "catatan": "Sumber memberi kecenderungan penonjolan pada bagian awal."
+            },
+            {
+              "hanzi": "火车",
+              "pinyin": "huǒchē",
+              "arti": "kereta api",
+              "catatan": "Bagian akhir menjadi bagian yang menonjol dalam contoh sumber."
+            },
+            {
+              "hanzi": "大学生",
+              "pinyin": "dàxuéshēng",
+              "arti": "mahasiswa",
+              "catatan": "Latih sebagai satu unit tiga suku kata."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan mengubah kecenderungan stress menjadi aturan absolut. Mandarin tidak harus memiliki tekanan tetap seperti bahasa Inggris. Fokus utama adalah menghindari semua suku kata terdengar sama panjang, sama kuat, dan sama berat."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Ritme Mandarin tidak hanya ditentukan oleh jumlah suku kata. Setiap suku kata membawa nada, tetapi durasi, tekanan, dan pengelompokan prosodik membuat sebagian suku kata lebih menonjol daripada yang lain. Dalam materi sumber terdapat pola dua suku kata dan tiga suku kata yang membantu pembelajar menghindari ucapan datar seperti membaca daftar. Pola tersebut adalah kecenderungan pedagogis, bukan hukum absolut untuk semua kata. Makna, struktur kata, fokus informasi, dan konteks dapat memindahkan tekanan. Nada netral juga berfungsi sebagai alat ritmis karena suku kata ringan memendekkan kata dan membuat aliran ujaran lebih alami."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Kecenderungan",
+            "Contoh",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "1+1",
+              "sama/sedang",
+              "今天 jīntiān",
+              "jangan menekan satu suku kata berlebihan"
+            ],
+            [
+              "1+4",
+              "kedua lebih menonjol",
+              "高兴 gāoxìng",
+              "contoh sumber"
+            ],
+            [
+              "2+1",
+              "kedua lebih menonjol",
+              "明天 míngtiān",
+              "prosodi frasa"
+            ],
+            [
+              "3+1",
+              "pertama lebih menonjol",
+              "老师 lǎoshī",
+              "lǎo juga mengalami 3 setengah"
+            ],
+            [
+              "4+4",
+              "kedua lebih menonjol",
+              "现在 xiànzài",
+              "jaga aliran, bukan dua hentakan terpisah"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "今天",
+              "pinyin": "jīntiān",
+              "arti": "hari ini",
+              "catatan": "Latih sebagai satu unit ritmis."
+            },
+            {
+              "hanzi": "高兴",
+              "pinyin": "gāoxìng",
+              "arti": "senang",
+              "catatan": "Suku kedua dapat lebih menonjol."
+            },
+            {
+              "hanzi": "老师",
+              "pinyin": "lǎoshī",
+              "arti": "guru",
+              "catatan": "Suku pertama kuat dan kedua ringan."
+            },
+            {
+              "hanzi": "喜欢",
+              "pinyin": "xǐhuān",
+              "arti": "suka",
+              "catatan": "Perhatikan keseimbangan dua suku kata."
+            },
+            {
+              "hanzi": "大学生",
+              "pinyin": "dàxuéshēng",
+              "arti": "mahasiswa",
+              "catatan": "Pola tiga suku kata memerlukan pengelompokan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap tabel tekanan sebagai aturan tetap seperti tata bahasa. Tekanan dapat berubah karena fokus. Misalnya satu kata yang biasanya ringan dapat menjadi lebih menonjol jika pembicara sedang mengontraskannya dengan kata lain."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Baca kata dua suku kata sebagai satu unit sebelum membaca setiap karakter terpisah.",
+            "Tandai suku kata yang menjadi fokus informasi dalam kalimat.",
+            "Bandingkan pembacaan robotik dengan rekaman penutur asli dan perhatikan durasi serta jeda, bukan nada saja."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "12. Intonasi Kalimat versus Nada Kata",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Nada leksikal dan intonasi kalimat merupakan dua lapisan yang berbeda. Nada leksikal adalah bagian dari identitas suku kata, sedangkan intonasi memberikan bentuk keseluruhan pada kalimat untuk menyampaikan fungsi seperti pertanyaan, pernyataan, perintah, kejutan, atau sikap. Dalam pertanyaan ya/tidak dengan 吗, pitch akhir cenderung naik, tetapi nada leksikal kata terakhir tidak otomatis berubah. Pertanyaan dengan kata tanya seperti 谁 dan 哪里 tidak harus memiliki kenaikan akhir seperti pertanyaan ya/tidak. Kalimat perintah dapat turun dan terdengar tegas. Pembelajar harus mampu mempertahankan nada kata sambil membiarkan intonasi memberikan bentuk pada keseluruhan ujaran."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Jenis kalimat",
+            "Intonasi",
+            "Contoh",
+            "Yang harus dijaga"
+          ],
+          "baris": [
+            [
+              "Pernyataan",
+              "Datar atau turun perlahan",
+              "他是老师。Tā shì lǎoshī.",
+              "Nada leksikal tetap."
+            ],
+            [
+              "Ya/tidak dengan 吗",
+              "Cenderung naik di akhir",
+              "他是老师吗？",
+              "shī tetap nada 1."
+            ],
+            [
+              "Pertanyaan kata tanya",
+              "Datar atau dapat turun",
+              "你是谁？",
+              "Nada kata tetap."
+            ],
+            [
+              "Perintah",
+              "Turun/tegas",
+              "快走！Kuài zǒu!",
+              "Nada tidak dihapus."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "他是老师。",
+              "pinyin": "Tā shì lǎoshī.",
+              "arti": "Dia guru.",
+              "catatan": "Pernyataan; akhir dapat turun."
+            },
+            {
+              "hanzi": "他是老师吗？",
+              "pinyin": "Tā shì lǎoshī ma?",
+              "arti": "Apakah dia guru?",
+              "catatan": "Pitch akhir dapat naik karena intonasi, tetapi shī tetap nada 1."
+            },
+            {
+              "hanzi": "你是谁？",
+              "pinyin": "Nǐ shì shéi?",
+              "arti": "Kamu siapa?",
+              "catatan": "Pertanyaan dengan kata tanya tidak harus naik."
+            },
+            {
+              "hanzi": "你去哪里？",
+              "pinyin": "Nǐ qù nǎlǐ?",
+              "arti": "Kamu pergi ke mana?",
+              "catatan": "Fokus dapat berada pada kata tanya."
+            },
+            {
+              "hanzi": "快走！",
+              "pinyin": "Kuài zǒu!",
+              "arti": "Cepat pergi!",
+              "catatan": "Intonasi tegas berjalan bersama nada leksikal."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Ucapkan 妈 mā secara terisolasi dengan nada 1.",
+            "Masukkan mā ke kalimat pernyataan dan amati pola akhir.",
+            "Masukkan kata yang sama ke kalimat tanya tanpa mengubah nada leksikalnya.",
+            "Bandingkan pitch keseluruhan kalimat dengan kontur nada setiap suku kata.",
+            "Dengarkan apakah perubahan pitch berasal dari nada kata atau dari intonasi kalimat."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap intonasi naik pada pertanyaan berarti nada 1 otomatis menjadi nada 2. Pada 他是老师吗？, shī tetap merupakan suku kata bernada 1; yang berubah adalah kontur intonasi keseluruhan."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Nada leksikal adalah properti bunyi suku kata, sedangkan intonasi adalah kontur pitch pada tingkat frasa atau kalimat. Keduanya dapat muncul bersamaan. Kalimat tanya dengan 吗 cenderung memiliki kenaikan pada bagian akhir, tetapi nada leksikal suku kata terakhir tidak otomatis berubah menjadi nada lain. Pertanyaan dengan kata tanya seperti 谁, 什么, 哪里 tidak harus mempunyai kenaikan akhir seperti pertanyaan ya/tidak; secara prosodik dapat terdengar mirip pernyataan, dengan kata tanya mendapat penekanan. Perintah sering memiliki akhir yang lebih tegas dan turun. Karena itu, pembelajar harus belajar mendengar dua lapisan: identitas nada setiap suku kata dan gerakan intonasi keseluruhan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Jenis",
+            "Nada leksikal",
+            "Intonasi umum",
+            "Contoh"
+          ],
+          "baris": [
+            [
+              "Pernyataan",
+              "tetap",
+              "datar/turun",
+              "他是老师。"
+            ],
+            [
+              "Ya/tidak + 吗",
+              "tetap",
+              "cenderung naik di akhir",
+              "他是老师吗？"
+            ],
+            [
+              "Kata tanya",
+              "tetap",
+              "sering datar/turun",
+              "你是谁？"
+            ],
+            [
+              "Perintah",
+              "tetap",
+              "turun/tegas",
+              "快走！"
+            ],
+            [
+              "Kontras/fokus",
+              "tetap tetapi dapat diberi tekanan",
+              "pitch dan durasi menonjol pada fokus",
+              "是他，不是我。"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "他是老师。",
+              "pinyin": "Tā shì lǎoshī.",
+              "arti": "Dia guru.",
+              "catatan": "Kalimat pernyataan."
+            },
+            {
+              "hanzi": "他是老师吗？",
+              "pinyin": "Tā shì lǎoshī ma?",
+              "arti": "Apakah dia guru?",
+              "catatan": "Pitch akhir dapat naik tanpa mengubah shī menjadi nada lain."
+            },
+            {
+              "hanzi": "你是谁？",
+              "pinyin": "Nǐ shì shéi?",
+              "arti": "Kamu siapa?",
+              "catatan": "Kata tanya shéi menjadi fokus."
+            },
+            {
+              "hanzi": "你去哪里？",
+              "pinyin": "Nǐ qù nǎlǐ?",
+              "arti": "Kamu pergi ke mana?",
+              "catatan": "Tidak harus memakai kenaikan akhir seperti pertanyaan 吗."
+            },
+            {
+              "hanzi": "快走！",
+              "pinyin": "Kuài zǒu!",
+              "arti": "Cepat pergi!",
+              "catatan": "Akhir lebih tegas dan turun."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan klasik adalah mengubah nada leksikal hanya karena intonasi naik atau turun. Jika shī adalah nada 1, ia tetap memiliki identitas nada 1 meskipun pitch akhir kalimat mendapat gerakan intonasi."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Rekam mā sebagai kata tunggal, lalu dalam pernyataan, pertanyaan, dan perintah.",
+            "Tandai pada rekaman mana perubahan berasal dari nada kata dan mana berasal dari intonasi.",
+            "Dengarkan pertanyaan dengan 吗 dan pertanyaan kata tanya untuk membandingkan pola akhir."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "13. Pelafalan Pinyin yang Sering Salah bagi Penutur Bahasa Indonesia",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Penutur Indonesia memiliki beberapa keuntungan karena m, n, l, f dan sejumlah vokal relatif mudah, tetapi terdapat jebakan besar pada aspirasi, bunyi palatal, retrofleks, ü, final e, final -n/-ng, serta nada. Bahasa Indonesia tidak menggunakan kontras aspirasi Mandarin secara sistematis, sehingga b/p, d/t, g/k sering dianggap sebagai pasangan biasa. Huruf x, q, z, c, zh, ch, sh, dan r juga tidak boleh dibaca berdasarkan nama atau kebiasaan huruf Latin Indonesia. Strategi perbaikan terbaik adalah membuat pasangan kontras, mendengar lebih dulu, lalu menirukan dan merekam. Jangan memperbaiki semua ciri sekaligus; fokus satu dimensi bunyi dalam satu sesi."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pinyin",
+            "Kesalahan umum",
+            "Target",
+            "Tips"
+          ],
+          "baris": [
+            [
+              "x",
+              "eks/s biasa",
+              "Desis palatal lembut",
+              "Latih xī vs sī."
+            ],
+            [
+              "q",
+              "kiu/c Indonesia",
+              "Palatal beraspirasi",
+              "Rasakan hembusan."
+            ],
+            [
+              "j",
+              "j Indonesia secara mentah",
+              "Palatal tidak beraspirasi",
+              "Jaga posisi lidah."
+            ],
+            [
+              "zh",
+              "z + h",
+              "Retrofleks",
+              "Tarik lidah ke belakang."
+            ],
+            [
+              "ch",
+              "c + h",
+              "Retrofleks beraspirasi",
+              "Tambahkan hembusan."
+            ],
+            [
+              "sh",
+              "s + h",
+              "Desis retrofleks",
+              "Gulung posisi lidah."
+            ],
+            [
+              "r",
+              "r Indonesia",
+              "r retrofleks bersuara",
+              "Lidah lebih belakang."
+            ],
+            [
+              "z",
+              "nama huruf zet",
+              "Afrikat depan",
+              "Latih zī/zì."
+            ],
+            [
+              "c",
+              "si",
+              "ts beraspirasi",
+              "Rasakan ts + hembusan."
+            ],
+            [
+              "b",
+              "b Indonesia bersuara",
+              "Tidak beraspirasi",
+              "Bandingkan bā dan pā."
+            ],
+            [
+              "d",
+              "d Indonesia bersuara",
+              "Tidak beraspirasi",
+              "Bandingkan dà dan tā."
+            ],
+            [
+              "g",
+              "g Indonesia bersuara",
+              "Tidak beraspirasi",
+              "Bandingkan gē dan kē."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "谢谢",
+              "pinyin": "xièxie",
+              "arti": "terima kasih",
+              "catatan": "Jangan mengucapkan x sebagai eks atau s biasa."
+            },
+            {
+              "hanzi": "去",
+              "pinyin": "qù",
+              "arti": "pergi",
+              "catatan": "q adalah bunyi palatal beraspirasi."
+            },
+            {
+              "hanzi": "知道",
+              "pinyin": "zhīdào",
+              "arti": "tahu",
+              "catatan": "zh berbeda dari z karena posisi lidah."
+            },
+            {
+              "hanzi": "爸",
+              "pinyin": "bà",
+              "arti": "ayah",
+              "catatan": "Bandingkan dengan 怕 pà untuk aspirasi."
+            },
+            {
+              "hanzi": "鱼",
+              "pinyin": "yú",
+              "arti": "ikan",
+              "catatan": "Ü bukan u biasa."
+            },
+            {
+              "hanzi": "四",
+              "pinyin": "sì",
+              "arti": "empat",
+              "catatan": "s bukan nama huruf es dan i bukan i Indonesia biasa."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan paling sering adalah mengucapkan x seperti s, q seperti c Indonesia, zh/ch/sh seperti z/c/s biasa, menyamakan b dan p, membaca e seperti e Indonesia, dan membaca ü seperti u. Pinyin harus dipelajari sebagai sistem bunyi baru."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Penutur Indonesia sering membawa kebiasaan fonologi bahasa Indonesia ke Pinyin. Kesalahan bukan hanya pada bunyi sulit seperti x, q, zh, ch, sh, r, tetapi juga pada aspirasi b/p, d/t, g/k, final e, ü, dan suku kata khusus. Karena itu strategi perbaikan harus berbasis kontras. Jangan hanya mencari satu padanan Indonesia; gunakan padanan itu sebagai jembatan awal lalu lepaskan ketika target bunyi sudah dipahami. Untuk x, misalnya, pendekatan s lembut dapat membantu posisi awal, tetapi targetnya adalah desis palatal. Untuk q, pendekatan ch beraspirasi dapat membantu, tetapi lidah tetap berada pada posisi palatal. Pendekatan semacam ini lebih aman daripada menulis transkripsi Indonesia yang terlalu sederhana."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pinyin",
+            "Salah yang sering muncul",
+            "Target",
+            "Strategi"
+          ],
+          "baris": [
+            [
+              "x",
+              "eks/s biasa",
+              "desis palatal lembut",
+              "sambil menjaga lidah palatal"
+            ],
+            [
+              "q",
+              "kiu/c",
+              "palatal beraspirasi",
+              "uji hembusan"
+            ],
+            [
+              "j",
+              "j Indonesia/d",
+              "palatal tak beraspirasi",
+              "bedakan dari zh"
+            ],
+            [
+              "zh",
+              "z+h",
+              "retrofleks tak beraspirasi",
+              "gulung lidah"
+            ],
+            [
+              "ch",
+              "c+h",
+              "retrofleks beraspirasi",
+              "gulung + hembusan"
+            ],
+            [
+              "sh",
+              "s+h",
+              "desis retrofleks",
+              "lidah lebih belakang"
+            ],
+            [
+              "r",
+              "r Indonesia langsung",
+              "r retrofleks bersuara",
+              "ubah posisi lidah"
+            ],
+            [
+              "z",
+              "zet",
+              "ts/dz tanpa aspirasi",
+              "jangan menambahkan vokal"
+            ],
+            [
+              "c",
+              "si",
+              "ts beraspirasi",
+              "hembusan jelas"
+            ],
+            [
+              "s",
+              "es",
+              "s tanpa vokal awal",
+              "langsung ke s"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "谢谢",
+              "pinyin": "xièxie",
+              "arti": "terima kasih",
+              "catatan": "Jangan membaca x sebagai eks atau s Indonesia biasa."
+            },
+            {
+              "hanzi": "去",
+              "pinyin": "qù",
+              "arti": "pergi",
+              "catatan": "q adalah palatal beraspirasi."
+            },
+            {
+              "hanzi": "知道",
+              "pinyin": "zhīdào",
+              "arti": "tahu",
+              "catatan": "zh retrofleks."
+            },
+            {
+              "hanzi": "爸爸",
+              "pinyin": "bàba",
+              "arti": "ayah",
+              "catatan": "b tidak sama dengan b Indonesia bersuara penuh."
+            },
+            {
+              "hanzi": "鱼",
+              "pinyin": "yú",
+              "arti": "ikan",
+              "catatan": "ü tidak boleh berubah menjadi u."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan gunakan ejaan seperti siesie, kiu, atau z-h sebagai tujuan akhir. Bentuk tersebut hanya dapat menjadi catatan sementara untuk mengingat arah artikulasi, bukan representasi bunyi Mandarin yang akurat."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Buat daftar tiga bunyi pribadi yang paling sulit dan latih sebagai pasangan minimal.",
+            "Gunakan rekaman guru/penutur asli sebagai model, bukan hanya tulisan Pinyin.",
+            "Uji kembali setelah 24 jam tanpa melihat catatan untuk memastikan perubahan sudah menjadi kebiasaan motorik."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "14. Kontras Fonetik dan Latihan Minimal Pairs",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Pasangan minimal adalah dua bentuk yang berbeda terutama pada satu ciri bunyi dan sangat berguna untuk melatih persepsi maupun produksi. Latihan harus dimulai dari mendengar tanpa melihat teks, kemudian mengidentifikasi perbedaan, baru menirukan. Kontras nada dapat dilatih dengan mā-má-mǎ-mà; aspirasi dengan bā-pā, dà-tā, gē-kē; posisi artikulasi dengan zī-zhī dan sī-xī; serta final dengan ān-áng, yīn-yīng, wén-wēng. Jika pembelajar hanya membaca Pinyin dari layar, ia melatih memori visual dan produksi, tetapi belum tentu telinganya mampu mengenali perbedaan ketika audio datang dari penutur lain."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kontras",
+            "Pasangan",
+            "Yang dibedakan",
+            "Tugas"
+          ],
+          "baris": [
+            [
+              "Nada",
+              "妈 mā vs 马 mǎ",
+              "1 vs 3",
+              "Identifikasi secara acak."
+            ],
+            [
+              "Nada",
+              "书 shū vs 数 shù",
+              "1 vs 4",
+              "Dengar tanpa melihat Hanzi."
+            ],
+            [
+              "Nada",
+              "买 mǎi vs 卖 mài",
+              "3 vs 4",
+              "Ucapkan dengan durasi seimbang."
+            ],
+            [
+              "Nada",
+              "吃 chī vs 迟 chí",
+              "1 vs 2",
+              "Fokus pada kontur pitch."
+            ],
+            [
+              "Aspirasi",
+              "八 bā vs 趴 pā",
+              "b vs p",
+              "Rasakan hembusan."
+            ],
+            [
+              "Aspirasi",
+              "大 dà vs 他 tā",
+              "d vs t",
+              "Bandingkan aliran udara."
+            ],
+            [
+              "Aspirasi",
+              "哥 gē vs 科 kē",
+              "g vs k",
+              "Gunakan tangan/tisu."
+            ],
+            [
+              "Artikulasi",
+              "字 zì vs 知 zhī",
+              "z vs zh",
+              "Depan vs retrofleks."
+            ],
+            [
+              "Artikulasi",
+              "思 sī vs 西 xī",
+              "s vs x",
+              "Depan vs palatal."
+            ],
+            [
+              "Final",
+              "安 ān vs 昂 áng",
+              "-n vs -ng",
+              "Depan vs belakang."
+            ],
+            [
+              "Final",
+              "因 yīn vs 英 yīng",
+              "-n vs -ng",
+              "Dengarkan resonansi."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "妈",
+              "pinyin": "mā",
+              "arti": "ibu",
+              "catatan": "Nada 1."
+            },
+            {
+              "hanzi": "马",
+              "pinyin": "mǎ",
+              "arti": "kuda",
+              "catatan": "Nada 3."
+            },
+            {
+              "hanzi": "买",
+              "pinyin": "mǎi",
+              "arti": "membeli",
+              "catatan": "Nada 3."
+            },
+            {
+              "hanzi": "卖",
+              "pinyin": "mài",
+              "arti": "menjual",
+              "catatan": "Nada 4."
+            },
+            {
+              "hanzi": "八",
+              "pinyin": "bā",
+              "arti": "delapan",
+              "catatan": "b tidak beraspirasi."
+            },
+            {
+              "hanzi": "趴",
+              "pinyin": "pā",
+              "arti": "telungkup",
+              "catatan": "p beraspirasi."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Tutup mata saat melakukan latihan pendengaran.",
+            "Minta pasangan atau audio mengucapkan salah satu anggota secara acak.",
+            "Tulis apa yang terdengar sebelum melihat jawaban.",
+            "Rekam produksi sendiri dan bandingkan dengan model.",
+            "Latih pasangan yang sama selama beberapa hari agar kontras menjadi otomatis."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan hanya mengandalkan Pinyin tertulis. Kemampuan membaca tidak menjamin kemampuan membedakan audio. Persepsi harus dilatih secara mandiri."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Minimal pair adalah dua bentuk yang berbeda pada satu kontras bunyi penting dan menghasilkan perbedaan makna. Dalam fonetik Mandarin, latihan minimal pair harus mencakup nada, aspirasi, tempat artikulasi, dan final. Telinga sebaiknya dilatih sebelum produksi karena pembelajar yang belum dapat mendengar perbedaan sering akan mengulang kesalahan yang sama. Latihan efektif dilakukan secara acak: dengarkan satu anggota, identifikasi, baru kemudian lihat teks. Untuk nada, pasangan seperti mā/mǎ atau mǎi/mài melatih pitch; untuk aspirasi, bā/pā atau dà/tā melatih hembusan; untuk artikulasi, zì/zhī atau sī/xī melatih posisi lidah; untuk final, ān/áng atau yīn/yīng melatih resonansi nasal."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Jenis kontras",
+            "Pasangan",
+            "Apa yang didengar",
+            "Latihan"
+          ],
+          "baris": [
+            [
+              "Nada",
+              "妈 mā / 马 mǎ",
+              "kontur pitch",
+              "identifikasi 1 atau 3"
+            ],
+            [
+              "Nada",
+              "买 mǎi / 卖 mài",
+              "3 vs 4",
+              "identifikasi sebelum melihat"
+            ],
+            [
+              "Aspirasi",
+              "八 bā / 趴 pā",
+              "hembusan",
+              "tangan di depan mulut"
+            ],
+            [
+              "Aspirasi",
+              "大 dà / 他 tā",
+              "d vs t",
+              "udara"
+            ],
+            [
+              "Artikulasi",
+              "字 zì / 知 zhī",
+              "depan vs retrofleks",
+              "posisi lidah"
+            ],
+            [
+              "Artikulasi",
+              "思 sī / 西 xī",
+              "s vs x",
+              "posisi palatal"
+            ],
+            [
+              "Final",
+              "安 ān / 昂 áng",
+              "-n vs -ng",
+              "resonansi"
+            ],
+            [
+              "Final",
+              "因 yīn / 英 yīng",
+              "-n vs -ng",
+              "akhir suku kata"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "妈",
+              "pinyin": "mā",
+              "arti": "ibu",
+              "catatan": "Nada 1."
+            },
+            {
+              "hanzi": "马",
+              "pinyin": "mǎ",
+              "arti": "kuda",
+              "catatan": "Nada 3."
+            },
+            {
+              "hanzi": "八",
+              "pinyin": "bā",
+              "arti": "delapan",
+              "catatan": "b tidak beraspirasi."
+            },
+            {
+              "hanzi": "趴",
+              "pinyin": "pā",
+              "arti": "telungkup",
+              "catatan": "p beraspirasi."
+            },
+            {
+              "hanzi": "安",
+              "pinyin": "ān",
+              "arti": "tenang",
+              "catatan": "-n depan; bandingkan 昂 áng."
+            },
+            {
+              "hanzi": "昂",
+              "pinyin": "áng",
+              "arti": "mengangkat/tinggi",
+              "catatan": "-ng belakang."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan melakukan minimal-pair hanya dengan membaca dua kata keras-keras. Bagian listening harus acak dan tanpa bantuan tulisan, jika tidak latihan hanya menguji kemampuan membaca."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Dengarkan pasangan secara acak dan tulis anggota yang terdengar.",
+            "Ulangi sampai akurasi tinggi sebelum mempercepat tempo.",
+            "Setelah mampu membedakan, produksi pasangan secara acak agar persepsi dan artikulasi saling menguatkan."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "15. Bahasa Lisan, Tulisan, Kecepatan Bicara, dan Reduksi",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Bentuk Mandarin yang tertulis tidak selalu terdengar sama ketika diucapkan cepat. Dalam percakapan, nada netral dapat menjadi sangat ringan, partikel seperti 了 dan 的 dapat hampir tidak terdengar, dan unsur seperti 们 pada 我们 dapat direalisasikan sangat singkat. Semakin cepat tempo, semakin banyak reduksi fonetik yang muncul. Namun reduksi tidak berarti semua kontras bunyi hilang. Penutur tetap mempertahankan perbedaan yang penting bagi pemahaman. Pembelajar harus menguasai dua lapisan: bentuk standar yang jelas untuk membaca dan berbicara secara terkontrol, kemudian bentuk lisan yang lebih cepat melalui shadowing. Jangan meniru reduksi ekstrem sebelum dasar pelafalan stabil."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Situasi",
+            "Bentuk",
+            "Realisasi lisan yang mungkin",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "Formal",
+              "我们 wǒmen",
+              "men sangat ringan",
+              "Bentuk lengkap tetap dipahami."
+            ],
+            [
+              "Cepat",
+              "了 le",
+              "Sangat ringan",
+              "Fungsi tetap ada."
+            ],
+            [
+              "Cepat",
+              "的 de",
+              "Hampir tidak terdengar",
+              "Konteks membantu."
+            ],
+            [
+              "Kata keluarga",
+              "爸爸 bàba",
+              "ba kedua ringan",
+              "Nada netral berperan dalam ritme."
+            ],
+            [
+              "Reduplikasi",
+              "看看 kànkan",
+              "kan kedua ringan",
+              "Bukan berarti karakter kedua hilang."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我们",
+              "pinyin": "wǒmen",
+              "arti": "kami/kita",
+              "catatan": "men dapat terdengar sangat singkat dalam percakapan kasual."
+            },
+            {
+              "hanzi": "我知道了",
+              "pinyin": "Wǒ zhīdào le.",
+              "arti": "Saya sudah tahu.",
+              "catatan": "le sering sangat ringan."
+            },
+            {
+              "hanzi": "我的书",
+              "pinyin": "wǒ de shū",
+              "arti": "buku saya",
+              "catatan": "de dapat sangat pendek dalam ucapan cepat."
+            },
+            {
+              "hanzi": "看看",
+              "pinyin": "kànkan",
+              "arti": "lihat-lihat",
+              "catatan": "Suku kedua sering ringan."
+            },
+            {
+              "hanzi": "姐姐",
+              "pinyin": "jiějie",
+              "arti": "kakak perempuan",
+              "catatan": "Suku kedua biasanya ringan dan suku pertama dapat menjadi nada 3 setengah."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Mulai dari bentuk lambat dan jelas.",
+            "Naikkan kecepatan secara bertahap.",
+            "Gunakan shadowing untuk meniru durasi dan ritme, bukan hanya nada.",
+            "Dengarkan reduksi tanpa mencoba menirunya sebelum memahami bentuk lengkap.",
+            "Bandingkan ucapan formal dengan percakapan sehari-hari."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan meniru penghilangan bunyi ekstrem sebagai kebiasaan sejak awal. Pembelajar pemula sebaiknya menguasai bentuk standar terlebih dahulu, kemudian belajar mengenali dan menggunakan reduksi sesuai konteks."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Bahasa lisan dan tulisan mempunyai perbedaan terutama pada durasi, tekanan, dan reduksi. Dalam tulisan, semua karakter terlihat jelas, sedangkan dalam percakapan cepat beberapa suku kata menjadi sangat ringan. Partikel seperti 了 dan 的 dapat terdengar pendek; 们 dalam 我们 dapat direduksi durasinya; reduplikasi seperti 看看 dapat memberi suku kedua yang ringan. Namun reduksi tidak boleh dipahami sebagai aturan bahwa karakter hilang. Pembelajar sebaiknya menguasai bentuk penuh terlebih dahulu, kemudian mempelajari bentuk cepat melalui shadowing. Gaya formal cenderung memberi artikulasi lebih jelas, sedangkan percakapan santai memungkinkan lebih banyak pengurangan durasi. Kecepatan bukan satu-satunya faktor; fokus informasi, hubungan sosial, dan kebiasaan penutur juga memengaruhi prosodi."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Konteks",
+            "Bentuk jelas",
+            "Bentuk lisan mungkin",
+            "Strategi"
+          ],
+          "baris": [
+            [
+              "formal",
+              "我们 wǒmen",
+              "men lebih ringan",
+              "kenali tanpa meniru ekstrem"
+            ],
+            [
+              "percakapan cepat",
+              "我知道了",
+              "le sangat ringan",
+              "dengarkan fungsi partikel"
+            ],
+            [
+              "posesif",
+              "我的书",
+              "de pendek",
+              "jaga batas kata"
+            ],
+            [
+              "reduplikasi",
+              "看看 kànkan",
+              "suku kedua ringan",
+              "jangan menghapusnya"
+            ],
+            [
+              "keluarga",
+              "姐姐 jiějie",
+              "jie kedua ringan",
+              "gabungkan dengan 3 setengah"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我们",
+              "pinyin": "wǒmen",
+              "arti": "kami/kita",
+              "catatan": "men dapat sangat singkat."
+            },
+            {
+              "hanzi": "我知道了",
+              "pinyin": "Wǒ zhīdào le.",
+              "arti": "Saya sudah tahu.",
+              "catatan": "le sering ringan."
+            },
+            {
+              "hanzi": "我的书",
+              "pinyin": "wǒ de shū",
+              "arti": "buku saya",
+              "catatan": "de dapat pendek."
+            },
+            {
+              "hanzi": "看看",
+              "pinyin": "kànkan",
+              "arti": "lihat-lihat",
+              "catatan": "kan kedua ringan."
+            },
+            {
+              "hanzi": "姐姐",
+              "pinyin": "jiějie",
+              "arti": "kakak perempuan",
+              "catatan": "suku kedua sering ringan."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan meniru pengucapan cepat sebelum fondasi stabil. Jika pembelajar menghapus bunyi terlalu banyak, masalah yang seharusnya merupakan reduksi prosodik dapat berubah menjadi kehilangan informasi."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Mulai dari rekaman lambat dan jelas.",
+            "Naikkan kecepatan secara bertahap sambil mempertahankan batas kata dan kontras nada.",
+            "Bandingkan versi formal dan kasual dari frasa yang sama untuk mengenali reduksi tanpa menganggapnya sebagai ejaan baru."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "16. Variasi Regional: Beijing, Taiwan, Utara-Selatan, Singapura-Malaysia, dan Hong Kong",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Mandarin mempunyai variasi regional sehingga penutur tidak selalu terdengar identik. Materi sumber menyoroti Beijing, Taiwan, dan Singapura-Malaysia. Beijing terkenal dengan penggunaan erhua yang kuat dan beberapa realisasi nada yang lebih ekstrem. Taiwan menggunakan jauh lebih sedikit erhua dan dalam kerangka sumber nada 3 digambarkan terasa lebih naik dibandingkan beberapa varietas lain. Mandarin Singapura dan Malaysia dapat menunjukkan pengaruh varietas atau dialek Selatan dan kecenderungan kontur yang lebih datar. Untuk Hong Kong, Mandarin digunakan berdampingan dengan Kantonis, sehingga latar bahasa penutur dapat memengaruhi aksen Mandarin mereka. Variasi tersebut tidak boleh diperlakukan sebagai kesalahan otomatis. Pembelajar sebaiknya mempunyai satu model Mandarin Standar sebagai dasar, lalu memperluas kemampuan mendengar."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Wilayah/lingkungan",
+            "Ciri relevan",
+            "Implikasi"
+          ],
+          "baris": [
+            [
+              "Beijing",
+              "Erhua kuat; beberapa kontur terdengar lebih ekstrem",
+              "Kenali nǎr, zhèr, tetapi jangan memaksakan erhua."
+            ],
+            [
+              "Taiwan",
+              "Erhua jauh lebih sedikit; nada 3 dapat terasa lebih naik",
+              "Biasakan mendengar bentuk tanpa erhua."
+            ],
+            [
+              "Tiongkok Utara",
+              "Erhua dapat hadir dengan kadar berbeda",
+              "Variasi antarpenutur tetap besar."
+            ],
+            [
+              "Tiongkok Selatan",
+              "Erhua umumnya lebih sedikit; pengaruh bahasa lokal dapat muncul",
+              "Gunakan Mandarin Standar sebagai dasar lintas wilayah."
+            ],
+            [
+              "Singapura-Malaysia",
+              "Dapat menunjukkan pengaruh varietas Selatan dan kontur lebih datar",
+              "Jangan menggeneralisasi semua penutur."
+            ],
+            [
+              "Hong Kong",
+              "Mandarin berdampingan dengan Kantonis",
+              "Aksen Mandarin dapat dipengaruhi latar Kantonis."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "哪儿",
+              "pinyin": "nǎr",
+              "arti": "di mana",
+              "catatan": "Contoh bentuk erhua yang kuat dalam banyak konteks Utara."
+            },
+            {
+              "hanzi": "哪里",
+              "pinyin": "nǎlǐ",
+              "arti": "di mana",
+              "catatan": "Bentuk tanpa erhua yang luas."
+            },
+            {
+              "hanzi": "这儿",
+              "pinyin": "zhèr",
+              "arti": "di sini",
+              "catatan": "Bentuk erhua."
+            },
+            {
+              "hanzi": "这里",
+              "pinyin": "zhèlǐ",
+              "arti": "di sini",
+              "catatan": "Bentuk tanpa erhua."
+            },
+            {
+              "hanzi": "一点儿",
+              "pinyin": "yīdiǎnr",
+              "arti": "sedikit",
+              "catatan": "Varian erhua."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Pertahankan Mandarin Standar sebagai model dasar.",
+            "Jangan menilai aksen hanya dari satu ciri.",
+            "Belajar mengenali erhua walaupun Anda sendiri jarang menggunakannya.",
+            "Dengarkan penutur dari beberapa wilayah.",
+            "Variasi regional terutama penting untuk listening tingkat lanjut."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kesalahan umum adalah menganggap Beijing selalu lebih benar atau bentuk Selatan selalu salah. Variasi regional merupakan bagian normal bahasa. Target pembelajar adalah memahami perbedaan dan tetap dapat mempertahankan kontras bunyi yang penting."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Variasi regional perlu dipelajari sebagai variasi dalam satu bahasa, bukan daftar aksen yang benar dan salah. Materi sumber menyoroti Beijing, Taiwan, Tiongkok Utara-Selatan, Singapura-Malaysia, dan Hong Kong. Beijing dikenal dengan erhua yang lebih kuat. Taiwan cenderung jauh lebih sedikit menggunakan erhua dan dalam kerangka sumber nada 3 dapat terasa lebih naik. Singapura dan Malaysia dapat menunjukkan pengaruh varietas Selatan serta kontur yang terasa lebih datar. Hong Kong menggunakan Mandarin berdampingan dengan Kantonis sehingga latar bahasa dapat memengaruhi aksen Mandarin. Semua pernyataan ini adalah kecenderungan, bukan aturan untuk setiap individu. Pembelajar sebaiknya menggunakan Mandarin Standar sebagai model produksi awal, lalu melatih listening lintas wilayah agar tidak menganggap perbedaan aksen sebagai kesalahan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Wilayah",
+            "Kecenderungan dalam materi",
+            "Apa yang perlu dilakukan pembelajar"
+          ],
+          "baris": [
+            [
+              "Beijing",
+              "erhua kuat; kontur dapat terasa lebih ekstrem",
+              "kenali erhua tanpa memaksakannya"
+            ],
+            [
+              "Taiwan",
+              "erhua lebih sedikit; nada 3 dapat terasa lebih naik",
+              "dengarkan bentuk non-erhua"
+            ],
+            [
+              "Utara",
+              "erhua dapat lebih sering daripada Selatan",
+              "kenali variasi antarpenutur"
+            ],
+            [
+              "Selatan",
+              "erhua umumnya lebih sedikit; pengaruh bahasa lokal mungkin muncul",
+              "pertahankan model Standar"
+            ],
+            [
+              "Singapura-Malaysia",
+              "pengaruh varietas Selatan dan kontur lebih datar dapat terdengar",
+              "hindari generalisasi"
+            ],
+            [
+              "Hong Kong",
+              "Mandarin berdampingan dengan Kantonis",
+              "sadari pengaruh latar Kantonis"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "哪儿",
+              "pinyin": "nǎr",
+              "arti": "di mana",
+              "catatan": "Contoh erhua Utara."
+            },
+            {
+              "hanzi": "哪里",
+              "pinyin": "nǎlǐ",
+              "arti": "di mana",
+              "catatan": "Bentuk tanpa erhua yang luas."
+            },
+            {
+              "hanzi": "这儿",
+              "pinyin": "zhèr",
+              "arti": "di sini",
+              "catatan": "Erhua."
+            },
+            {
+              "hanzi": "这里",
+              "pinyin": "zhèlǐ",
+              "arti": "di sini",
+              "catatan": "Tanpa erhua."
+            },
+            {
+              "hanzi": "一点儿",
+              "pinyin": "yīdiǎnr",
+              "arti": "sedikit",
+              "catatan": "Varian erhua."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan mengatakan bahwa satu aksen regional selalu lebih benar. Untuk pembelajar, model Standar berguna sebagai titik acuan, tetapi kemampuan memahami variasi adalah keterampilan listening tingkat lanjut."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Dengarkan minimal tiga penutur dari latar berbeda sebelum menyimpulkan bahwa satu realisasi adalah kesalahan.",
+            "Pisahkan ciri regional dari kesalahan fonetik yang benar-benar menghilangkan kontras makna.",
+            "Jika tujuan komunikasi lintas wilayah, prioritaskan kejelasan nada, inisial, final, dan batas kata."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "17. Partikel 啊 dan Perubahan Bunyi dalam Ujaran",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Partikel akhir kalimat 啊 a dapat berubah bentuk bunyinya agar lebih mudah disambungkan dengan bunyi sebelumnya. Materi sumber mencantumkan pola ya setelah a, o, e, i, ü; wa setelah u, ao, ou; na setelah -n; nga setelah -ng; ra setelah i khusus pada zhi, chi, shi, ri; dan za setelah i khusus pada zi, ci, si. Fenomena ini terutama bersifat fonologis, bukan berarti terdapat banyak partikel dengan fungsi berbeda. Selain perubahan bunyi, 啊 mempunyai fungsi pragmatis yang sangat bergantung pada intonasi dan konteks, misalnya terkejut, meminta klarifikasi, ragu, setuju, atau memahami sesuatu. Karena itu, bentuk bunyi dan fungsi komunikatif harus dipelajari bersama."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bunyi sebelumnya",
+            "Realisasi",
+            "Contoh",
+            "Fokus"
+          ],
+          "baris": [
+            [
+              "a, o, e, i, ü",
+              "ya",
+              "是啊 shì ya",
+              "Sambungan bunyi."
+            ],
+            [
+              "u, ao, ou",
+              "wa",
+              "好啊 hǎo wa",
+              "Transisi vokal."
+            ],
+            [
+              "-n",
+              "na",
+              "看啊 kàn na",
+              "n dipertahankan."
+            ],
+            [
+              "-ng",
+              "nga",
+              "听啊 tīng nga",
+              "Resonansi belakang berlanjut."
+            ],
+            [
+              "i khusus zhi/chi/shi/ri",
+              "ra",
+              "是啊 shì ra",
+              "Kategori i khusus."
+            ],
+            [
+              "i khusus zi/ci/si",
+              "za",
+              "字啊 zì za",
+              "Transisi bunyi."
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Nuansa",
+            "Contoh",
+            "Fungsi"
+          ],
+          "baris": [
+            [
+              "Terkejut",
+              "啊！真的吗？",
+              "Seruan spontan."
+            ],
+            [
+              "Klarifikasi",
+              "啊？你说什么？",
+              "Meminta pengulangan."
+            ],
+            [
+              "Ragu/heran",
+              "啊？是这样吗？",
+              "Menunjukkan ketidakpastian."
+            ],
+            [
+              "Setuju/paham",
+              "啊！我知道了！",
+              "Respons atau pemahaman."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "是啊",
+              "pinyin": "shì ya",
+              "arti": "iya, memang",
+              "catatan": "啊 dapat terdengar seperti ya setelah bunyi sebelumnya."
+            },
+            {
+              "hanzi": "好啊",
+              "pinyin": "hǎo wa",
+              "arti": "baiklah/oke",
+              "catatan": "Setelah ao, realisasi wa dapat muncul."
+            },
+            {
+              "hanzi": "看啊",
+              "pinyin": "kàn na",
+              "arti": "lihatlah",
+              "catatan": "Setelah -n, realisasi na."
+            },
+            {
+              "hanzi": "听啊",
+              "pinyin": "tīng nga",
+              "arti": "dengarkan",
+              "catatan": "Setelah -ng, realisasi nga."
+            },
+            {
+              "hanzi": "啊！我知道了！",
+              "pinyin": "A! Wǒ zhīdào le!",
+              "arti": "Ah! Saya mengerti!",
+              "catatan": "Nuansa ditentukan oleh konteks dan intonasi."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menghafal ya, wa, na, nga, ra, za sebagai partikel berbeda. Itu adalah variasi bunyi 啊 yang dipengaruhi lingkungan fonologis dalam materi sumber."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "啊 adalah contoh jelas bahwa bunyi dalam ujaran dapat menyesuaikan diri dengan lingkungan fonologis. Dalam materi sumber, 啊 pada akhir kalimat dapat terdengar sebagai ya setelah a/o/e/i/ü, wa setelah u/ao/ou, na setelah -n, nga setelah -ng, ra setelah i khusus zhi/chi/shi/ri, dan za setelah i khusus zi/ci/si. Pola tersebut membantu sambungan artikulasi menjadi lebih alami. Selain itu, 啊 sebagai seruan dapat mempunyai nilai pragmatis berbeda bergantung pada intonasi: ā dapat menandai kaget, á dapat meminta klarifikasi, ǎ dapat menyatakan heran atau ragu, dan à dapat menunjukkan paham atau respons tegas dalam contoh sumber. Pembelajar harus membedakan perubahan bunyi karena lingkungan dari perubahan fungsi karena konteks."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bunyi sebelumnya",
+            "Realisasi",
+            "Contoh",
+            "Makna umum"
+          ],
+          "baris": [
+            [
+              "a/o/e/i/ü",
+              "ya",
+              "是啊 shì ya",
+              "iya/memang"
+            ],
+            [
+              "u/ao/ou",
+              "wa",
+              "好啊 hǎo wa",
+              "baiklah/oke"
+            ],
+            [
+              "-n",
+              "na",
+              "看啊 kàn na",
+              "lihatlah"
+            ],
+            [
+              "-ng",
+              "nga",
+              "听啊 tīng nga",
+              "dengarkan"
+            ],
+            [
+              "i khusus zhi/chi/shi/ri",
+              "ra",
+              "是啊 shì ra",
+              "variasi sambungan"
+            ],
+            [
+              "i khusus zi/ci/si",
+              "za",
+              "字啊 zì za",
+              "variasi sambungan"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "是啊",
+              "pinyin": "shì ya",
+              "arti": "iya, memang",
+              "catatan": "啊 menyesuaikan bunyi sebelumnya."
+            },
+            {
+              "hanzi": "好啊",
+              "pinyin": "hǎo wa",
+              "arti": "baiklah",
+              "catatan": "wa mengikuti ao."
+            },
+            {
+              "hanzi": "看啊",
+              "pinyin": "kàn na",
+              "arti": "lihatlah",
+              "catatan": "na mengikuti -n."
+            },
+            {
+              "hanzi": "听啊",
+              "pinyin": "tīng nga",
+              "arti": "dengarkan",
+              "catatan": "nga mengikuti -ng."
+            },
+            {
+              "hanzi": "啊？你说什么？",
+              "pinyin": "Á? Nǐ shuō shénme?",
+              "arti": "Hah? Kamu bilang apa?",
+              "catatan": "Nada dan konteks menunjukkan permintaan klarifikasi."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menghafal ya, wa, na, nga, ra, za sebagai partikel terpisah. Dalam materi ini semuanya adalah realisasi fonologis yang berkaitan dengan 啊. Nuansa pragmatis tetap bergantung pada konteks dan intonasi."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Dengarkan 是啊 dan 好啊 lalu perhatikan perubahan transisi vokalnya.",
+            "Latih 啊 sebagai partikel akhir dan sebagai seruan terpisah.",
+            "Buat empat versi respons dengan intonasi berbeda dan jelaskan nuansa yang terdengar."
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "18. Latihan Pendengaran, Sumber Audio, Kesalahan Umum, dan Peta Jalan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Penguasaan fonetik membutuhkan persepsi, produksi, dan prosodi secara bersamaan. Latihan tidak boleh hanya membaca Pinyin karena pembelajar harus mampu mengenali nada, aspirasi, final, sandhi, nada netral, ritme, dan intonasi ketika mendengar penutur lain. Materi sumber menyarankan video pendek sekitar 1–3 menit, dialog tingkat awal, Slow Chinese, audiobook 小王子, podcast ChinesePod, dan materi percakapan lain sebagai bahan shadowing. Sumber audio dan latihan yang disebut antara lain Yoyo Chinese, ChineseFor.Us, Mandarin Blueprint, Pleco, Forvo, Chinese Pronunciation Trainer, Tone Pair Drills, Grace Mandarin Chinese, Bilibili, Pimsleur Mandarin, Skritter, iTalki, HelloChinese, Duolingo, SuperChinese, Tone Trainer, Yoyo Chinese Pinyin Chart, ChinesePod, dan sumber lain. Tujuan utamanya bukan mengoleksi aplikasi, tetapi memperoleh audio yang dapat diulang dan dibandingkan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Latihan",
+            "Tugas",
+            "Target"
+          ],
+          "baris": [
+            [
+              "Identifikasi nada",
+              "Dengar 妈 麻 马 骂 吗",
+              "1, 2, 3, 4, netral"
+            ],
+            [
+              "Sandhi",
+              "Dengar 你好, 很好, 可以",
+              "ní hǎo, hén hǎo, ké yǐ"
+            ],
+            [
+              "Aspirasi",
+              "Dengar 八/趴, 大/他, 哥/科",
+              "Bedakan hembusan."
+            ],
+            [
+              "Artikulasi",
+              "Dengar 字/知, 思/西",
+              "Bedakan posisi lidah."
+            ],
+            [
+              "Final",
+              "Dengar 安/昂, 因/英",
+              "Bedakan -n dan -ng."
+            ],
+            [
+              "Erhua",
+              "Dengar 哪儿/哪里",
+              "Kenali bentuk erhua dan non-erhua."
+            ],
+            [
+              "Intonasi",
+              "Bandingkan 他是老师。 dan 他是老师吗？",
+              "Nada kata tetap, intonasi berubah."
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Sumber",
+            "Jenis",
+            "Kegunaan"
+          ],
+          "baris": [
+            [
+              "Yoyo Chinese / Pinyin Chart",
+              "Video/audio/kursus",
+              "Pinyin, visual, dan audio."
+            ],
+            [
+              "Pleco",
+              "Kamus",
+              "Audio kata dan document reader."
+            ],
+            [
+              "Forvo",
+              "Situs audio",
+              "Rekaman penutur asli."
+            ],
+            [
+              "Chinese Pronunciation Trainer",
+              "Latihan",
+              "Pasangan bunyi interaktif."
+            ],
+            [
+              "Tone Pair Drills",
+              "Audio",
+              "Kombinasi dua nada."
+            ],
+            [
+              "Grace Mandarin Chinese",
+              "Video",
+              "Diagram mulut dan pengucapan."
+            ],
+            [
+              "Bilibili",
+              "Video",
+              "Materi 拼音教学 dari penutur asli."
+            ],
+            [
+              "Pimsleur Mandarin",
+              "Kursus",
+              "Listening dan speaking."
+            ],
+            [
+              "Skritter",
+              "Aplikasi",
+              "Karakter dengan dukungan audio."
+            ],
+            [
+              "iTalki",
+              "Tutor",
+              "Koreksi langsung."
+            ],
+            [
+              "HelloChinese / SuperChinese",
+              "Aplikasi",
+              "Latihan interaktif dan pengenalan suara."
+            ],
+            [
+              "Duolingo",
+              "Aplikasi",
+              "Listening dan speaking."
+            ],
+            [
+              "Tone Trainer",
+              "Aplikasi",
+              "Latihan khusus nada."
+            ],
+            [
+              "ChinesePod",
+              "Podcast/kursus",
+              "Percakapan dengan transkrip."
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Hari",
+            "Latihan",
+            "Durasi"
+          ],
+          "baris": [
+            [
+              "Senin",
+              "Video Pinyin + minimal pairs nada",
+              "15 + 15 menit"
+            ],
+            [
+              "Selasa",
+              "Inisial/final dengan cermin + tone-pair drills",
+              "15 + 15 menit"
+            ],
+            [
+              "Rabu",
+              "Shadowing + rekam diri",
+              "20 + 10 menit"
+            ],
+            [
+              "Kamis",
+              "Sandhi + listening",
+              "20 + 10 menit"
+            ],
+            [
+              "Jumat",
+              "Teks pendek + evaluasi rekaman",
+              "20 + 10 menit"
+            ],
+            [
+              "Sabtu",
+              "Aplikasi interaktif + speaking",
+              "20 + 10 menit"
+            ],
+            [
+              "Minggu",
+              "Review",
+              "30 menit"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Tahap",
+            "Fokus",
+            "Indikator"
+          ],
+          "baris": [
+            [
+              "Minggu 1–2",
+              "21 inisial + 36 final dalam kerangka materi",
+              "Aspirasi dan artikulasi mulai stabil."
+            ],
+            [
+              "Minggu 3–4",
+              "4 nada + nada netral",
+              "Dapat membedakan dan memproduksi kontras."
+            ],
+            [
+              "Minggu 5–6",
+              "Sandhi nada",
+              "3+3 dan 3 setengah mulai otomatis."
+            ],
+            [
+              "Minggu 7",
+              "一 dan 不",
+              "Sandhi khusus diterapkan dalam pola umum."
+            ],
+            [
+              "Minggu 8",
+              "Erhua, lisan/tulisan, ritme, intonasi",
+              "Ucapan lebih alami."
+            ],
+            [
+              "Lanjutan",
+              "Persepsi + shadowing + variasi regional",
+              "Memahami penutur dengan model berbeda."
+            ]
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Rekam diri sendiri dan bandingkan dengan audio penutur asli.",
+            "Gunakan gerakan tangan untuk kontur nada.",
+            "Gunakan angka yī, èr, sān, sì, wǔ, liù, qī, bā, jiǔ, shí sebagai latihan empat nada.",
+            "Pelajari mā-má-mǎ-mà sebagai satu kelompok kontras.",
+            "Gunakan shadowing untuk meniru kecepatan, ritme, nada, dan intonasi.",
+            "Tutup mata ketika melakukan listening agar tidak bergantung pada tulisan.",
+            "Target produksi adalah mampu mengucapkan ratusan suku kata dengan nada yang dapat dikenali.",
+            "Target persepsi adalah mampu mengidentifikasi nada, aspirasi, artikulasi, dan final dari audio yang belum dilihat.",
+            "Target komunikasi adalah penutur asli dapat memahami ucapan tanpa terus menebak."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan mengandalkan aplikasi pengenalan suara sebagai hakim absolut karena mikrofon, noise, aksen, dan konteks dapat memengaruhi hasil. Gunakan teknologi sebagai umpan balik tambahan dan bandingkan dengan audio penutur asli atau guru. Jangan mengukur kemajuan hanya dari jumlah kosakata; ukur apakah telinga mampu membedakan bunyi dan apakah ucapan dapat dipahami."
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Latihan Pilar 1 harus bergerak dari produksi terkontrol menuju persepsi dan komunikasi. Urutan yang efektif adalah: inisial/final, nada, sandhi, nada netral, ritme, intonasi, lalu variasi regional. Listening harus dilakukan tanpa melihat Pinyin karena tulisan sering membuat otak menebak jawaban sebelum telinga bekerja. Sumber latihan yang tercantum dalam materi meliputi Yoyo Chinese, ChineseFor.Us, Mandarin Blueprint, Pleco, Forvo, Chinese Pronunciation Trainer, Tone Pair Drills, Grace Mandarin Chinese, Bilibili, Pimsleur Mandarin, Skritter, iTalki, HelloChinese, Duolingo, SuperChinese, Tone Trainer, ChinesePod, serta materi seperti video 1–3 menit, Slow Chinese, dialog HSK awal, audiobook 小王子, Learning Chinese through Stories, 家有儿女, dan 非诚勿扰. Sumber tidak harus dipakai semuanya; pilih sedikit bahan yang memiliki audio jelas dan dapat diulang."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Tahap latihan",
+            "Tugas",
+            "Indikator lulus"
+          ],
+          "baris": [
+            [
+              "1. Persepsi nada",
+              "identifikasi mā/má/mǎ/mà/ma",
+              "akurasi konsisten tanpa teks"
+            ],
+            [
+              "2. Aspirasi",
+              "bā/pā, dà/tā, gē/kē",
+              "hembusan dapat dibedakan"
+            ],
+            [
+              "3. Artikulasi",
+              "sī/xī, zì/zhī",
+              "posisi lidah terdengar berbeda"
+            ],
+            [
+              "4. Final",
+              "ān/áng, yīn/yīng",
+              "-n/-ng dikenali"
+            ],
+            [
+              "5. Sandhi",
+              "你好, 很好, 可以",
+              "realisasi kontekstual benar"
+            ],
+            [
+              "6. Prosodi",
+              "pernyataan vs pertanyaan",
+              "nada kata dan intonasi tidak tertukar"
+            ],
+            [
+              "7. Variasi",
+              "哪儿/哪里",
+              "mampu memahami dua bentuk"
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "你好",
+              "pinyin": "nǐ hǎo",
+              "arti": "halo",
+              "catatan": "Latih bentuk dasar dan realisasi ní hǎo."
+            },
+            {
+              "hanzi": "老师",
+              "pinyin": "lǎo shī",
+              "arti": "guru",
+              "catatan": "Latih nada 3 setengah."
+            },
+            {
+              "hanzi": "一个",
+              "pinyin": "yí gè",
+              "arti": "satu buah",
+              "catatan": "Latih sandhi 一."
+            },
+            {
+              "hanzi": "哪儿",
+              "pinyin": "nǎr",
+              "arti": "di mana",
+              "catatan": "Latih erhua."
+            },
+            {
+              "hanzi": "他是老师吗？",
+              "pinyin": "Tā shì lǎoshī ma?",
+              "arti": "Apakah dia guru?",
+              "catatan": "Latih intonasi tanpa mengubah nada leksikal."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Latihan 30 menit: 15 menit produksi dan 15 menit listening pada hari awal.",
+            "Senin: Pinyin + minimal pair nada. Selasa: inisial/final + tone pairs. Rabu: shadowing + rekam. Kamis: sandhi + listening. Jumat: teks + evaluasi. Sabtu: aplikasi/tutor + speaking. Minggu: review 30 menit.",
+            "Setiap minggu simpan satu rekaman standar agar kemajuan dapat dibandingkan secara objektif.",
+            "Untuk listening, tutup mata atau jangan melihat transkrip, jawab dulu, lalu cek teks."
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Ringkasan subtopik",
+            "Kunci utama",
+            "Kesalahan yang harus dihindari"
+          ],
+          "baris": [
+            [
+              "Pinyin",
+              "ejaan bunyi, bukan huruf Latin biasa",
+              "membaca huruf seperti Indonesia"
+            ],
+            [
+              "Inisial",
+              "aspirasi + posisi lidah",
+              "b/p dianggap bersuara/tidak bersuara"
+            ],
+            [
+              "Final",
+              "vokal + nasal + ü",
+              "an=ang, u=ü"
+            ],
+            [
+              "Nada",
+              "kontur relatif",
+              "mengabaikan nada"
+            ],
+            [
+              "Sandhi",
+              "3+3, 3 setengah, 一/不",
+              "mengubah semua nada 3 menjadi 2"
+            ],
+            [
+              "Nada netral",
+              "pendek, ringan, pitch relatif",
+              "menganggap tanpa pitch sama sekali"
+            ],
+            [
+              "Erhua",
+              "variasi regional/lisan",
+              "memaksakan r ke semua kata"
+            ],
+            [
+              "Suku kata khusus",
+              "i pada zhi/chi/shi/ri/zi/ci/si",
+              "membaca i seperti yī"
+            ],
+            [
+              "Artikulasi",
+              "lidah, bibir, aspirasi",
+              "menyamakan semua kelompok"
+            ],
+            [
+              "Ritme",
+              "durasi dan penekanan",
+              "semua suku kata sama berat"
+            ],
+            [
+              "Intonasi",
+              "kontur kalimat di atas nada kata",
+              "intonasi naik dianggap perubahan nada"
+            ],
+            [
+              "Regional",
+              "variasi normal",
+              "menganggap aksen tertentu salah"
+            ],
+            [
+              "Listening",
+              "telinga sebelum teks",
+              "bergantung pada Pinyin"
+            ],
+            [
+              "Produksi",
+              "jelas dulu, cepat kemudian",
+              "meniru reduksi ekstrem terlalu dini"
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Kemajuan tidak cukup diukur dari kemampuan membaca Pinyin. Pilar 1 dianggap kuat jika pembelajar dapat mendengar dan menghasilkan kontras nada, aspirasi, final, sandhi, nada netral, ritme, dan intonasi dengan cukup konsisten sehingga penutur lain dapat memahami ucapan tanpa terus menebak."
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Soal 1 — Identifikasi: dengar mā, má, mǎ, mà secara acak. Tulis nomor nada yang terdengar.",
+            "Soal 2 — Sandhi: bagaimana 你好, 很好, 一个, 不是 biasanya direalisasikan dalam ucapan alami berdasarkan aturan yang dipelajari?",
+            "Soal 3 — Kontras: jelaskan perbedaan utama antara b/p, z/zh, an/ang, dan u/ü secara artikulatoris.",
+            "Soal 4 — Intonasi: mengapa 他是老师吗？ tidak berarti shī berubah dari nada 1 menjadi nada 2?",
+            "Soal 5 — Variasi: kapan 哪儿 dan 哪里 dapat muncul sebagai variasi regional/gaya?"
+          ]
+        }
+      ]
+    }
+  ]
+}
