@@ -37,7 +37,21 @@
   function total(e) {
     var seen = {};
     POS.forEach(function (p) { (e.posisi[p] || []).forEach(function (c) { seen[c] = 1; }); });
+    (e.lg || []).forEach(function (c) { seen[c] = 1; });
     return Object.keys(seen).length;
+  }
+
+  var legDone = {};
+  function ensureLegacy(type) {
+    if (legDone[type] || !IDX) return;
+    var src = type === 'phonetic' ? IDX.komponen : IDX.radikal;
+    var w = type === 'phonetic' ? STATE.dataPhonetic : STATE.dataRadical;
+    if (!w) return;
+    legDone[type] = 1;
+    Object.keys(w).forEach(function (k) {
+      if (src[k]) return;
+      src[k] = { kecil: 0, leg: 1, posisi: {}, label: '', lg: w[k].filter(function (i) { return String(i).length === 1; }) };
+    });
   }
 
   /* ── daftar komponen / radikal di panel ── */
@@ -48,6 +62,7 @@
     grid.innerHTML = '<span style="color:var(--text-muted);font-size:0.8rem">Memuat…</span>';
     panel.classList.remove('hidden');
     loadIdx().then(function () {
+      ensureLegacy(type);
       var src = type === 'phonetic' ? IDX.komponen : IDX.radikal;
       var list = Object.keys(src).map(function (k) { return { k: k, e: src[k], n: total(src[k]) }; })
         .sort(function (a, b) { return b.n - a.n; });
@@ -68,11 +83,13 @@
           grid.appendChild(c);
         });
       }
-      var big = list.filter(function (x) { return !x.e.kecil; });
+      var big = list.filter(function (x) { return !x.e.kecil && !x.e.leg; });
+      var leg = list.filter(function (x) { return x.e.leg; });
       var small = list.filter(function (x) { return x.e.kecil; });
       head(type === 'phonetic' ? 'Komponen' : 'Radikal');
       chips(big);
       if (small.length) { head('Komponen Kecil (kurang dari 3 goresan)'); chips(small); }
+      if (leg.length) { head('Lainnya (data posisi belum tersedia)'); chips(leg); }
     }).catch(function (err) {
       grid.innerHTML = '<span style="color:var(--text-muted);font-size:0.8rem">Gagal memuat data/index_komponen_posisi.json: ' + escHtml(err.message) + '</span>';
     });
@@ -98,6 +115,7 @@
     POS.forEach(function (p) {
       if (S.pos === 'semua' || S.pos === p) (e.posisi[p] || []).forEach(function (c) { if (chars.indexOf(c) < 0) chars.push(c); });
     });
+    if (S.pos === 'semua') (e.lg || []).forEach(function (c) { if (chars.indexOf(c) < 0) chars.push(c); });
     var inHsk = [], other = [];
     chars.forEach(function (c) {
       var h = hskMap.get(c);
@@ -157,6 +175,82 @@
 
   function hideBar() { var b = $('kp-bar'); if (b) b.style.display = 'none'; }
 
+  /* ── menu Kelompok > Karakter Mirip: baca pasangan baru (per karakter) ── */
+  var MP = null, M = { c: '', tier: 'semua', agreed: false };
+  function loadMP() {
+    if (MP) return Promise.resolve(MP);
+    function J(u, fb) { return fetch(u).then(function (r) { return r.json(); }).catch(function () { return fb; }); }
+    return Promise.all([J('data/confusion_groups.json', { groups: [] }), J('data/karakter_mirip_pasangan.json', { pasangan: {} })]).then(function (r) {
+      MP = {};
+      (r[0].groups || []).forEach(function (g) {
+        var all = [g.character].concat(g.confusable_with || []);
+        all.forEach(function (c) { all.forEach(function (o) { if (o !== c) (MP[c] = MP[c] || []).push([o, 'T1', '', 'l']); }); });
+      });
+      var P = r[1].pasangan || {};
+      Object.keys(P).forEach(function (c) {
+        MP[c] = MP[c] || [];
+        P[c].forEach(function (p) { if (!MP[c].some(function (x) { return x[0] === p[0]; })) MP[c].push(p); });
+      });
+      return MP;
+    });
+  }
+  function openMirip() {
+    STATE.groupType = 'mirip';
+    var grid = $('group-panel-grid');
+    $('group-panel-title').textContent = 'Pilih Karakter (menampilkan karakter-karakter yang mirip dengannya)';
+    grid.innerHTML = '<span style="color:var(--text-muted);font-size:0.8rem">Memuat…</span>';
+    $('group-panel').classList.remove('hidden');
+    loadMP().then(function () {
+      grid.innerHTML = '';
+      Object.keys(MP).sort(function (a, b) { return MP[b].length - MP[a].length; }).forEach(function (c) {
+        var ch = document.createElement('div');
+        ch.className = 'group-chip';
+        ch.innerHTML = '<span style="font-size:1.05rem">' + escHtml(c) + '</span><span class="gc-count">' + MP[c].length + '</span>';
+        ch.addEventListener('click', function () { M = { c: c, tier: 'semua', agreed: false }; closeGroupPanel(); renderMirip(); });
+        grid.appendChild(ch);
+      });
+    });
+  }
+  async function renderMirip() {
+    var all = MP[M.c] || [];
+    var list = all.filter(function (p) { return (M.tier === 'semua' || p[1] === M.tier) && (!M.agreed || p[3] === 's' || p[3] === 'l'); });
+    if (!STATE.dataCidict) { showToast('Memuat data tambahan untuk karakter yang jarang dipakai…'); await loadCidict(); }
+    buildMaps();
+    var out = [];
+    [M.c].concat(list.map(function (p) { return p[0]; })).forEach(function (c) {
+      var h = hskMap.get(c) || (cidMap && cidMap.get(c));
+      if (h) { if (!hskMap.get(c)) h._cidictFallback = true; out.push(h); }
+    });
+    keep = true;
+    renderGroupResultsFromWords(out, 'Karakter Mirip: ' + M.c + ' (' + list.length + ' pasangan)');
+    var bar = $('kp-bar');
+    if (!bar) { drawBar({ posisi: {} }, 0); bar = $('kp-bar'); }
+    bar.style.display = 'flex'; bar.innerHTML = '';
+    function btn(t, on, fn) { var b = document.createElement('button'); b.className = 'card-sort-btn' + (on ? ' active' : ''); b.textContent = t; b.onclick = fn; bar.appendChild(b); }
+    btn('Semua tingkat (' + all.length + ')', M.tier === 'semua', function () { M.tier = 'semua'; renderMirip(); });
+    ['T1', 'T2', 'T3'].forEach(function (t) {
+      var n = all.filter(function (p) { return p[1] === t; }).length;
+      if (n) btn(t + ' (' + n + ')', M.tier === t, function () { M.tier = t; renderMirip(); });
+    });
+    btn(M.agreed ? 'Tampilkan semua asal' : 'Hanya yang disepakati', M.agreed, function () { M.agreed = !M.agreed; renderMirip(); });
+  }
+
+  /* ── badge jumlah di sidebar ── */
+  function setBadge(filter, n) {
+    var it = document.querySelector('[data-filter="' + filter + '"]');
+    if (!it) return;
+    var b = it.querySelector('.item-count');
+    if (!b) { b = document.createElement('span'); b.className = 'item-count'; it.appendChild(b); }
+    b.textContent = n.toLocaleString('id');
+  }
+  function badges(tries) {
+    if (!IDX || !STATE.dataPhonetic || !STATE.dataRadical) { if (tries < 40) setTimeout(function () { badges(tries + 1); }, 500); return; }
+    ensureLegacy('phonetic'); ensureLegacy('radical');
+    setBadge('group-phonetic', Object.keys(IDX.komponen).length);
+    setBadge('group-radical', Object.keys(IDX.radikal).length);
+    loadMP().then(function () { setBadge('group-mirip', Object.keys(MP).length); });
+  }
+
   /* ── pasang ke fungsi Kamus yang sudah ada (dibungkus, bukan diganti) ── */
   var origRender = window.renderGroupResultsFromWords;
   window.renderGroupResultsFromWords = function (w, l) {
@@ -167,6 +261,7 @@
   var origOpen = window.openGroupPanel;
   window.openGroupPanel = function (type) {
     if (type === 'phonetic' || type === 'radical') { openKP(type); return; }
+    if (type === 'mirip') { openMirip(); return; }
     origOpen(type);
   };
   var origSearch = window.doSearch;
@@ -175,5 +270,6 @@
   document.addEventListener('DOMContentLoaded', function () {
     var s = document.querySelector('[data-filter="group-phonetic"] span');
     if (s) s.textContent = 'Per Komponen';
+    loadIdx().then(function () { badges(0); }).catch(function () {});
   });
 })();
