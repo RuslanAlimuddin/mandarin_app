@@ -10,7 +10,7 @@
    "id": 2,
    "character": "大",
    "confusable_with": ["太", "犬"],
-   "note": "太 menambahkan satu titik di bawah (di antara kedua kaki 大); 犬 menambahkan satu titik di kanan atas."
+   "note": "太 menambahkan satu goresan pendek di bawah (di antara kedua kaki 大); 犬 menambahkan satu goresan pendek di kanan atas."
   },
   {
    "id": 3,
@@ -28,7 +28,7 @@
    "id": 5,
    "character": "兔",
    "confusable_with": ["免"],
-   "note": "Perbedaan pada titik ekor — 兔 memiliki titik di bawah"
+   "note": "Perbedaan pada goresan pendek di ekor — 兔 memiliki goresan pendek di bawah"
   },
   {
    "id": 6,
@@ -40,7 +40,7 @@
    "id": 7,
    "character": "王",
    "confusable_with": ["玉"],
-   "note": "Perbedaan pada titik di bawah — 玉 = 王 + titik"
+   "note": "Perbedaan pada goresan pendek di bawah — 玉 = 王 + satu goresan pendek"
   },
   {
    "id": 8,
@@ -70,7 +70,7 @@
    "id": 12,
    "character": "又",
    "confusable_with": ["叉", "义"],
-   "note": "Perbedaan garis bawah -- 叉 punya titik/garis tambahan, 义 beda struktur atas"
+   "note": "Perbedaan garis bawah -- 叉 punya goresan pendek/garis tambahan, 义 beda struktur atas"
   },
   {
    "id": 13,
@@ -136,7 +136,7 @@
    "id": 23,
    "character": "今",
    "confusable_with": ["令"],
-   "note": "Perbedaan pada titik bawah — 令 memiliki titik di bawah"
+   "note": "Perbedaan pada bagian bawah — 令 memiliki goresan pendek di bawah"
   },
   {
    "id": 24,
@@ -148,7 +148,7 @@
    "id": 25,
    "character": "贝",
    "confusable_with": ["见"],
-   "note": "Kerangka 冂 dan goresan miring kiri di bawahnya sama; goresan terakhir berbeda — 贝 berupa titik, 见 berupa 竖弯钩 (kait)."
+   "note": "Kerangka 冂 dan goresan miring kiri di bawahnya sama; goresan terakhir berbeda — 贝 berupa goresan pendek, 见 berupa 竖弯钩 (kait)."
   },
   {
    "id": 26,
@@ -172,7 +172,7 @@
    "id": 29,
    "character": "乌",
    "confusable_with": ["鸟"],
-   "note": "Perbedaan pada titik — 鸟 memiliki titik di atas, 乌 tidak"
+   "note": "Perbedaan pada goresan pendek — 鸟 memiliki goresan pendek di atas, 乌 tidak"
   },
   {
    "id": 30,
@@ -184,13 +184,13 @@
    "id": 31,
    "character": "方",
    "confusable_with": ["万"],
-   "note": "Perbedaan pada titik — 方 memiliki titik di atas, 万 tidak"
+   "note": "Perbedaan pada goresan pendek — 方 memiliki goresan pendek di atas, 万 tidak"
   },
   {
    "id": 32,
    "character": "主",
    "confusable_with": ["王"],
-   "note": "Perbedaan pada titik di atas — 主 = 王 + titik di atas"
+   "note": "Perbedaan pada goresan pendek di atas — 主 = 王 + goresan pendek di atas"
   },
   {
    "id": 33,
@@ -304,7 +304,7 @@
    "id": 51,
    "character": "工",
    "confusable_with": ["王", "玉"],
-   "note": "Perbedaan garis/titik — 工 (kerja), 王 (raja), 玉 (giok)"
+   "note": "Perbedaan garis/goresan pendek — 工 (kerja), 王 (raja), 玉 (giok)"
   },
   {
    "id": 52,
@@ -322,7 +322,7 @@
    "id": 54,
    "character": "木",
    "confusable_with": ["术", "本"],
-   "note": "术 = 木 + titik miring; 本 = 木 + garis bawah (akar)"
+   "note": "术 = 木 + goresan pendek miring; 本 = 木 + garis bawah (akar)"
   },
   {
    "id": 55,
@@ -352,7 +352,7 @@
    "id": 59,
    "character": "戊",
    "confusable_with": ["戌", "戍", "戎"],
-   "note": "Posisi titik/garis kecil di dalam bingkai berbeda pada tiap karakter"
+   "note": "Posisi goresan pendek/garis kecil di dalam bingkai berbeda pada tiap karakter"
   },
   {
    "id": 60,
@@ -382,13 +382,13 @@
    "id": 64,
    "character": "瓜",
    "confusable_with": ["爪"],
-   "note": "Perbedaan posisi titik kecil di dalam bentuk"
+   "note": "Perbedaan posisi goresan pendek kecil di dalam bentuk"
   },
   {
    "id": 65,
    "character": "治",
    "confusable_with": ["冶"],
-   "note": "Radikal kiri berbeda — 治 (氵 air, tiga titik) vs 冶 (冫 es, dua titik)"
+   "note": "Radikal kiri berbeda — 治 (氵 air, tiga goresan pendek) vs 冶 (冫 es, dua goresan pendek)"
   },
   {
    "id": 66,
@@ -436,7 +436,7 @@
    "id": 73,
    "character": "厂",
    "confusable_with": ["广"],
-   "note": "Keduanya memiliki kerangka 厂; 广 menambahkan satu titik di bagian kiri atas, sedangkan 厂 tidak memiliki titik tersebut."
+   "note": "Keduanya memiliki kerangka 厂; 广 menambahkan satu goresan pendek di bagian kiri atas, sedangkan 厂 tidak memiliki goresan pendek tersebut."
   },
   {
    "id": 74,
@@ -550,7 +550,7 @@
    "id": 92,
    "character": "纸",
    "confusable_with": ["低"],
-   "note": "纸 = 纟+氏, sedangkan 低 = 亻+氐; bagian kanan 氏 pada 纸 berbeda dari 氐 pada 低 karena 氐 memiliki tambahan satu titik."
+   "note": "纸 = 纟+氏, sedangkan 低 = 亻+氐; bagian kanan 氏 pada 纸 berbeda dari 氐 pada 低 karena 氐 memiliki tambahan satu goresan pendek."
   },
   {
    "id": 93,
@@ -610,7 +610,7 @@
    "id": 102,
    "character": "庄",
    "confusable_with": ["床", "压"],
-   "note": "庄 = 广+土, 床 = 广+木, sedangkan 压 = 厂+土+丶; perbedaannya terletak pada komponen bawah serta ada atau tidaknya titik pada bagian atas."
+   "note": "庄 = 广+土, 床 = 广+木, sedangkan 压 = 厂+土 dengan satu goresan pendek di samping 土; perbedaannya terletak pada komponen bawah serta ada atau tidaknya goresan pendek pada bagian atas (广 punya, 厂 tidak)."
   },
   {
    "id": 103,
@@ -664,7 +664,7 @@
    "id": 111,
    "character": "玉",
    "confusable_with": ["主"],
-   "note": "Letak titik berbeda: 玉 memiliki titik di kanan bawah bentuk 王, sedangkan 主 memiliki titik di atas."
+   "note": "Letak goresan pendek berbeda: 玉 memiliki goresan pendek di kanan bawah bentuk 王, sedangkan 主 memiliki goresan pendek di atas."
   },
   {
    "id": 112,
@@ -676,13 +676,13 @@
    "id": 113,
    "character": "户",
    "confusable_with": ["尸"],
-   "note": "Perbedaan terdapat pada titik pendek di kiri atas: 户 memiliki titik tambahan, sedangkan 尸 tidak."
+   "note": "Perbedaan terdapat pada goresan pendek di kiri atas: 户 memiliki goresan pendek tambahan, sedangkan 尸 tidak."
   },
   {
    "id": 114,
    "character": "寸",
    "confusable_with": ["才"],
-   "note": "Goresan tambahannya berbeda: 寸 memiliki titik di kanan, sedangkan 才 memiliki goresan miring ke kiri bawah."
+   "note": "Goresan tambahannya berbeda: 寸 memiliki goresan pendek di kanan, sedangkan 才 memiliki goresan miring ke kiri bawah."
   },
   {
    "id": 115,
@@ -730,19 +730,19 @@
    "id": 122,
    "character": "兵",
    "confusable_with": ["乒", "乓"],
-   "note": "Goresan bagian bawah berbeda: 兵 memiliki goresan miring kiri dan titik kanan, 乒 hanya memiliki goresan miring kiri, sedangkan 乓 hanya memiliki titik kanan."
+   "note": "Goresan bagian bawah berbeda: 兵 memiliki goresan miring kiri dan goresan pendek kanan, 乒 hanya memiliki goresan miring kiri, sedangkan 乓 hanya memiliki goresan pendek kanan."
   },
   {
    "id": 123,
    "character": "丸",
    "confusable_with": ["九"],
-   "note": "丸 pada dasarnya adalah 九 dengan satu titik tambahan."
+   "note": "丸 pada dasarnya adalah 九 dengan satu goresan pendek tambahan."
   },
   {
    "id": 124,
    "character": "凡",
    "confusable_with": ["几"],
-   "note": "凡 memiliki satu titik tambahan di bagian dalam bentuk lengkung yang tidak terdapat pada 几."
+   "note": "凡 memiliki satu goresan pendek tambahan di bagian dalam bentuk lengkung yang tidak terdapat pada 几."
   },
   {
    "id": 125,
@@ -790,7 +790,7 @@
    "id": 132,
    "character": "刀",
    "confusable_with": ["刃"],
-   "note": "刃 pada dasarnya adalah 刀 dengan satu titik tambahan (menandai bagian yang tajam)."
+   "note": "刃 pada dasarnya adalah 刀 dengan satu goresan pendek tambahan (menandai bagian yang tajam)."
   },
   {
    "id": 133,
@@ -892,7 +892,7 @@
    "id": 149,
    "character": "勿",
    "confusable_with": ["匆"],
-   "note": "匆 memiliki satu titik tambahan di bagian dalam, sedangkan 勿 tidak memilikinya."
+   "note": "匆 memiliki satu goresan pendek tambahan di bagian dalam, sedangkan 勿 tidak memilikinya."
   },
   {
    "id": 150,
@@ -934,7 +934,7 @@
    "id": 156,
    "character": "斤",
    "confusable_with": ["斥"],
-   "note": "斥 pada dasarnya adalah 斤 dengan satu titik tambahan."
+   "note": "斥 pada dasarnya adalah 斤 dengan satu goresan pendek tambahan."
   },
   {
    "id": 157,
