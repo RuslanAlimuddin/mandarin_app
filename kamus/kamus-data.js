@@ -198,7 +198,7 @@ async function loadIndexFiles() {
 
 async function loadCidict() {
   if (STATE.dataCidict) return; // sudah dimuat
-  showToast('Memuat Cidict (16 MB)…');
+  showToast('Memuat Cidict (±26 MB)…');
   try {
     const res = await fetch('data/cidict_index.json');
     if (!res.ok) throw new Error('Gagal memuat cidict_index.json');
