@@ -1216,7 +1216,7 @@ function checkSynonymsData() {
 
 
 /* ── E.0.3: Load data Karakter Mirip (kemiripan bentuk tulisan) ─────
-   Datanya file terpisah data/confusion_groups.json (53 grup, BUKAN
+   Datanya file terpisah data/confusion_groups.json (160 grup, BUKAN
    turunan field app_words.json) -- file yang sama dipakai panel
    "👀 Karakter Mirip" di kamus-karakter-mirip.js (Kamus). Lazy-fetch
    sekali di sini, dipanggil dari flashcard-init.js sejajar checkAntonymsData(). */
