@@ -5,7 +5,7 @@
    Filter: Semua | Karakter | Kata, lalu posisi (Kiri/Kanan/Atas/Bawah/Luar/Dalam).
    Posisi hanya berlaku untuk karakter tunggal. Karakter di luar HSK memakai Cidict. */
 (function () {
-  var IDX = null, keep = false, S = { t: 'phonetic', k: '', tipe: 'semua', pos: 'semua' };
+  var IDX = null, keep = false, S = { t: 'phonetic', k: '', tipe: 'semua', pos: 'semua', peran: 'semua' };
   var POS = ['kiri', 'kanan', 'atas', 'bawah', 'luar', 'dalam'];
   var hskMap = null, idMap = null, cidMap = null;
 
@@ -96,7 +96,7 @@
   }
 
   function pick(type, key) {
-    S = { t: type, k: key, tipe: 'semua', pos: 'semua' };
+    S = { t: type, k: key, tipe: 'semua', pos: 'semua', peran: 'semua' };
     closeGroupPanel();
     render();
   }
@@ -116,6 +116,11 @@
       if (S.pos === 'semua' || S.pos === p) (e.posisi[p] || []).forEach(function (c) { if (chars.indexOf(c) < 0) chars.push(c); });
     });
     if (S.pos === 'semua') (e.lg || []).forEach(function (c) { if (chars.indexOf(c) < 0) chars.push(c); });
+    /* saring menurut peran komponen: hanya karakter yang memakainya sebagai penanda bunyi / makna */
+    if (S.peran && S.peran !== 'semua') {
+      var okList = e[S.peran] || [];
+      chars = chars.filter(function (c) { return okList.indexOf(c) >= 0; });
+    }
     var inHsk = [], other = [];
     chars.forEach(function (c) {
       var h = hskMap.get(c);
@@ -128,9 +133,10 @@
     var wIdx = S.t === 'phonetic' ? STATE.dataPhonetic : STATE.dataRadical;
     var words = ((wIdx && wIdx[S.k]) || []).filter(function (id) { return String(id).length > 1; })
       .map(function (id) { return idMap.get(id); }).filter(Boolean);
-    if (S.tipe !== 'kar' && S.pos === 'semua') out = out.concat(words);
+    if (S.tipe !== 'kar' && S.pos === 'semua' && (!S.peran || S.peran === 'semua')) out = out.concat(words);
     var label = (S.t === 'phonetic' ? 'Komponen: ' : 'Radikal: ') + S.k +
-      (e.label ? ' · umumnya penanda ' + e.label : '') + (S.pos !== 'semua' ? ' · ' + S.k + ' di ' + S.pos : '');
+      (e.label ? ' · umumnya penanda ' + e.label : '') + (S.pos !== 'semua' ? ' · ' + S.k + ' di ' + S.pos : '') +
+      (S.peran && S.peran !== 'semua' ? ' · hanya penanda ' + S.peran : '');
     keep = true;
     renderGroupResultsFromWords(out, label);
     drawBar(e, words.length);
@@ -152,10 +158,11 @@
       b.textContent = txt;
       b.onclick = fn;
       bar.appendChild(b);
+      return b;
     }
     btn('Semua', S.tipe === 'semua', function () { S.tipe = 'semua'; render(); });
     btn('Karakter (' + total(e) + ')', S.tipe === 'kar', function () { S.tipe = 'kar'; render(); });
-    btn('Kata (' + nWords + ')', S.tipe === 'kata', function () { S.tipe = 'kata'; S.pos = 'semua'; render(); });
+    btn('Kata (' + nWords + ')', S.tipe === 'kata', function () { S.tipe = 'kata'; S.pos = 'semua'; S.peran = 'semua'; render(); });
     if (S.tipe !== 'kata') {
       var sp = document.createElement('span');
       sp.textContent = 'Posisi ' + S.k + ':';
@@ -170,6 +177,21 @@
           render();
         });
       });
+      /* Peran komponen: penanda bunyi (petunjuk cara baca) / penanda makna (petunjuk arti) */
+      var nB = (e.bunyi || []).length, nM = (e.makna || []).length;
+      if (nB || nM) {
+        var sp2 = document.createElement('span');
+        sp2.textContent = 'Peran ' + S.k + ':';
+        sp2.style.cssText = 'color:var(--text-muted);font-size:.78rem;margin-left:10px';
+        bar.appendChild(sp2);
+        btn('Semua', !S.peran || S.peran === 'semua', function () { S.peran = 'semua'; render(); });
+        if (nB) btn('Bunyi (' + nB + ')', S.peran === 'bunyi', function () {
+          S.peran = 'bunyi'; if (S.tipe === 'kata') S.tipe = 'kar'; render();
+        }).title = 'Karakter yang memakai ' + S.k + ' sebagai petunjuk cara baca';
+        if (nM) btn('Makna (' + nM + ')', S.peran === 'makna', function () {
+          S.peran = 'makna'; if (S.tipe === 'kata') S.tipe = 'kar'; render();
+        }).title = 'Karakter yang memakai ' + S.k + ' sebagai petunjuk arti';
+      }
     }
   }
 
