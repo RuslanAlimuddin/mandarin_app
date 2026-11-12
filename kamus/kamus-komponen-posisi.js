@@ -8,6 +8,32 @@
   var IDX = null, keep = false, S = { t: 'phonetic', k: '', tipe: 'semua', pos: 'semua', peran: 'semua' };
   var POS = ['kiri', 'kanan', 'atas', 'bawah', 'luar', 'dalam'];
   var hskMap = null, idMap = null, cidMap = null;
+  var roleOn = false; /* true hanya saat hasil Komponen/Radikal sedang tampil */
+
+  /* gaya tanda 音 (bunyi) dan 义 (makna) di ujung kartu */
+  (function () {
+    var st = document.createElement('style');
+    st.textContent = '.kp-role{flex:none;font-size:.72rem;font-weight:600;line-height:1;padding:2px 6px;border-radius:4px;margin-left:4px;cursor:help}' +
+      '.kp-yin{background:rgba(59,130,246,.16);color:#3b82f6}.kp-yi{background:rgba(34,197,94,.16);color:#22a05a}';
+    document.head.appendChild(st);
+  })();
+
+  /* tambahkan tanda kecil ke satu kartu (hanya karakter tunggal yang tercatat bunyi/maknanya) */
+  function addRoleBadge(card, word) {
+    if (!roleOn || !IDX) return;
+    var ch = word && word.simplified;
+    if (!ch || ch.length !== 1) return;
+    var e = (S.t === 'phonetic' ? IDX.komponen : IDX.radikal)[S.k];
+    if (!e) return;
+    var yin = (e.bunyi || []).indexOf(ch) >= 0, yi = !yin && (e.makna || []).indexOf(ch) >= 0;
+    if (!yin && !yi) return; /* belum tercatat: tidak diberi tanda */
+    var b = document.createElement('span');
+    b.className = 'kp-role ' + (yin ? 'kp-yin' : 'kp-yi');
+    b.textContent = yin ? '音' : '义';
+    b.title = yin ? '音 yīn · bunyi: ' + S.k + ' memberi petunjuk cara baca ' + ch
+                  : '义 yì · makna: ' + S.k + ' memberi petunjuk arti ' + ch;
+    card.appendChild(b);
+  }
 
   function loadIdx() {
     if (IDX) return Promise.resolve(IDX);
@@ -138,6 +164,7 @@
       (e.label ? ' · umumnya penanda ' + e.label : '') + (S.pos !== 'semua' ? ' · ' + S.k + ' di ' + S.pos : '') +
       (S.peran && S.peran !== 'semua' ? ' · hanya penanda ' + S.peran : '');
     keep = true;
+    roleOn = true;
     renderGroupResultsFromWords(out, label);
     drawBar(e, words.length);
   }
@@ -191,6 +218,10 @@
         if (nM) btn('Makna (' + nM + ')', S.peran === 'makna', function () {
           S.peran = 'makna'; if (S.tipe === 'kata') S.tipe = 'kar'; render();
         }).title = 'Karakter yang memakai ' + S.k + ' sebagai petunjuk arti';
+        var lg = document.createElement('span');
+        lg.innerHTML = '<span class="kp-role kp-yin">音</span> yīn = bunyi · <span class="kp-role kp-yi">义</span> yì = makna';
+        lg.style.cssText = 'color:var(--text-muted);font-size:.74rem;margin-left:10px';
+        bar.appendChild(lg);
       }
     }
   }
@@ -244,6 +275,7 @@
       if (h) { if (!hskMap.get(c)) h._cidictFallback = true; out.push(h); }
     });
     keep = true;
+    roleOn = false;
     renderGroupResultsFromWords(out, 'Karakter Mirip: ' + M.c + ' (' + list.length + ' pasangan)');
     var bar = $('kp-bar');
     if (!bar) { drawBar({ posisi: {} }, 0); bar = $('kp-bar'); }
@@ -276,7 +308,7 @@
   /* ── pasang ke fungsi Kamus yang sudah ada (dibungkus, bukan diganti) ── */
   var origRender = window.renderGroupResultsFromWords;
   window.renderGroupResultsFromWords = function (w, l) {
-    if (!keep) hideBar();
+    if (!keep) { hideBar(); roleOn = false; }
     keep = false;
     return origRender(w, l);
   };
@@ -287,7 +319,15 @@
     origOpen(type);
   };
   var origSearch = window.doSearch;
-  window.doSearch = function (q) { hideBar(); return origSearch(q); };
+  window.doSearch = function (q) { hideBar(); roleOn = false; return origSearch(q); };
+  var origSel = window.selectGroupItem;
+  if (origSel) window.selectGroupItem = function () { roleOn = false; return origSel.apply(this, arguments); };
+  var origCard = window.buildResultCard;
+  if (origCard) window.buildResultCard = function (word, idx) {
+    var c = origCard(word, idx);
+    try { addRoleBadge(c, word); } catch (err) { /* tanda gagal: kartu tetap tampil */ }
+    return c;
+  };
 
   document.addEventListener('DOMContentLoaded', function () {
     var s = document.querySelector('[data-filter="group-phonetic"] span');
