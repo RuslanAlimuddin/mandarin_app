@@ -670,7 +670,7 @@
    "id": 112,
    "character": "天",
    "confusable_with": ["夫"],
-   "note": "Keduanya terdiri atas dua garis mendatar di atas 人; bedanya terletak pada perbandingan panjang kedua garis mendatar itu."
+   "note": "天 dan 夫 sama-sama berbentuk 大 dengan satu garis mendatar di atasnya; bedanya pada panjang kedua garis mendatar: pada 天 garis atas lebih panjang daripada garis di bawahnya, pada 夫 garis atas lebih pendek daripada garis di bawahnya."
   },
   {
    "id": 113,
@@ -946,7 +946,7 @@
    "id": 158,
    "character": "木",
    "confusable_with": ["未", "末"],
-   "note": "未 dan 末 masing-masing adalah 木 dengan satu garis mendatar tambahan di atasnya; bedanya terletak pada panjang relatif kedua garis mendatar (garis atas dan garis bawah)."
+   "note": "未 dan 末 sama-sama 木 dengan satu garis mendatar tambahan di atasnya; bedanya pada panjang kedua garis mendatar: pada 未 garis atas lebih pendek daripada garis di bawahnya, pada 末 garis atas lebih panjang daripada garis di bawahnya. 木 sendiri tidak punya garis tambahan itu."
   },
   {
    "id": 159,
