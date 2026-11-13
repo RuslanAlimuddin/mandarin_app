@@ -1145,7 +1145,7 @@
       }
     ],
     "bukan": [],
-    "catatan": "Bacaan yang dipakai pada contoh ini adalah chǎng; karakter 场 juga dapat mempunyai bacaan lain pada konteks berbeda. Pada 场景, 场 berada di awal kata dan berarti tempat atau suasana suatu kejadian; ini bukan awalan pembentuk nama tempat."
+    "catatan": "Bacaan yang dipakai pada contoh ini adalah chǎng; karakter 场 juga dapat mempunyai bacaan lain pada konteks berbeda. Pada 场景, 场 berada di awal kata dan berarti tempat atau suasana suatu kejadian; ini bukan awalan pembentuk nama tempat. Pada 场面 (chǎngmiàn), 场 berada di awal dan berarti suasana atau keadaan suatu peristiwa; ini bagian kata utuh, bukan awalan yang menambahkan makna baru."
   },
   {
     "id": "AFK-030",
@@ -1589,11 +1589,11 @@
     "kelompok": "G",
     "kelompok_nama": "Pelengkap kata benda",
     "posisi": "akhiran",
-    "arti_dasar": "akhiran erhua atau penanda bentuk lisan tertentu",
+    "arti_dasar": "akhiran bunyi r di akhir suku kata atau penanda bentuk lisan tertentu",
     "bagian": [
       {
         "sebagai": "akhiran",
-        "fungsi": "Diletakkan di akhir kata untuk membentuk bentuk erhua, termasuk kata penunjuk tempat, kata kerja, dan ungkapan jumlah/waktu.",
+        "fungsi": "Diletakkan di akhir kata untuk membentuk bentuk bunyi r di akhir suku kata, termasuk kata penunjuk tempat, kata kerja, dan ungkapan jumlah/waktu.",
         "arti": "akhiran erhua atau penanda bentuk lisan tertentu",
         "contoh": [
           {
