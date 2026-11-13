@@ -3,6 +3,10 @@
 Tanggal: 13 November 2026
 
 ## Perubahan
+## Perbaikan Kamus (Tahap 1)
+- Entri 场: ditambahkan catatan pembeda “mirip tetapi bukan” memakai 场所, yang juga tercantum sebagai contoh pada entri 所 dan sudah termasuk kata yang diperiksa dalam daftar proyek.
+- Entri 儿: arti_dasar dan fungsi diubah menjadi uraian sehari-hari tentang bunyi r di akhir suku kata. Tidak ada lagi sisa istilah “erhua”.
+
 - AFX.01 dan AFX.02: terjemahan dibedakan. 作者 dijelaskan sebagai penulis suatu karya; 作家 sebagai penulis/sastrawan profesional.
 - AFX.17: pinyin kalimat 每个人都有优点 diperbaiki menjadi `Měi gè rén dōu yǒu yōu diǎn.`
 - AFX.20: kalimat 人类有很多种类 diganti dengan kalimat yang lebih wajar: 人类需要不同种类的食物。
