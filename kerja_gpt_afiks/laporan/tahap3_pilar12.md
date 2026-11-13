@@ -42,7 +42,7 @@ Mohon periksa khususnya:
 6. **Pinyin serta kewajaran semua contoh tambahan Pilar 12:** periksa ulang terutama kalimat tentang 校长、漫长、效率、坦率、手机、非常, serta pemenggalan suku kata pada pinyin.
 7. **Kecocokan kosakata Pilar 12 dengan app_words.json:** data kamus utama terlalu besar untuk diambil utuh melalui pembacaan repositori pada sesi ini. Daftar 60 contoh pokok sebelumnya telah lolos pencocokan Tahap 1; pemeriksa lokal Claude sebaiknya memeriksa semua kata tambahan pada Pilar 12.
 
-Tanda `⚠️ perlu dicek` sudah dipakai pada bagian yang memerlukan perhatian khusus, terutama klasifikasi 非常.
+Catatan pemeriksaan manusia tentang 非常 tetap dipertahankan di laporan: 非常 adalah kata utuh yang berarti “sangat”, tetapi tetap dicantumkan sebagai contoh 非 sesuai daftar yang disetujui.
 
 ## 5. Berkas dibuat atau diperbarui
 - `kerja_gpt_afiks/hasil/pilar_12.json` (baru; final enam bagian).
@@ -53,3 +53,22 @@ Tanda `⚠️ perlu dicek` sudah dipakai pada bagian yang memerlukan perhatian k
 Tahap 3 selesai. Tidak mengubah Pilar 1–11, data aplikasi asli, HTML, JavaScript, CSS, atau berkas di luar `kerja_gpt_afiks/`. Materi lanjutan yang belum disetujui tidak dikerjakan.
 
 Menunggu perintah LANJUT dari Ruslan.
+
+
+## 7. Perbaikan akhir
+Sesuai pemeriksaan akhir Tahap 3:
+1. Menghapus seluruh tanda `⚠️ perlu dicek` dari isi pelajaran. Kalimat arahan di bagian 3 dan 6 diganti dengan anjuran membandingkan kata utuh di Kamus.
+2. Pada tabel bagian 3, contoh makna lain untuk 点 kini berisi 点头 dan 点心; pengulangan 点头 dihapus. 点心 ditemukan dalam `data/app_words.json`.
+3. Kalimat tentang 未 diperjelas: 未 berarti “belum” atau “belum tentu”, bukan “tidak” yang berlaku selamanya.
+4. Nama “Kamus Pembentukan Kata” pada bagian 2 dan 6 diganti menjadi “menu Awalan & Akhiran di Kamus”.
+5. Kalimat yang menyebut Ruslan atau menunggu keputusan di teks pelajar diubah menjadi “Materi lain akan ditambahkan pada tahap berikutnya.”
+6. Keterangan 非常 ditulis sebagai penjelasan biasa di bagian 5. Isu pengelompokan 非非常 tetap dicatat di laporan ini untuk perhatian pemeriksa, bukan sebagai tanda keraguan di materi pelajar.
+
+### Pemeriksaan ulang
+- JSON berhasil diparse.
+- Struktur tetap 4 kunci utama dan 6 bagian.
+- Tanda `⚠️ perlu dicek`, nama Ruslan, dan frasa “menunggu keputusan” tidak tersisa di isi pelajaran.
+- Peta tetap 10 kelompok dan 60 entri.
+- Pemeriksaan kosakata terhadap 11.983 rekaman `data/app_words.json`: semua rangkaian Hanzi di isi pelajaran dapat dicocokkan/dipecah menjadi kata yang tersedia; satu rangkaian `构词法` pada judul adalah istilah judul pelajaran, bukan contoh kosakata yang dimaksud untuk daftar kata. Contoh baru `点心` terdaftar.
+- Tidak ada bagian atau blok lain yang sengaja diubah di luar lima perbaikan yang diminta.
+
