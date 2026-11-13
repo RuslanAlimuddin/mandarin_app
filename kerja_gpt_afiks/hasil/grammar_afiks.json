@@ -1044,25 +1044,596 @@
           "kamus_nama": "费"
         }
       ]
+    },
+    {
+      "name": "G. Pelengkap kata benda",
+      "points": [
+        {
+          "id": "AFX.40",
+          "number": "AFX.40",
+          "title": "Akhiran —们 (men)",
+          "fungsi": "Menandai bentuk jamak pada sebutan orang; biasanya tidak digabungkan dengan bilangan tertentu.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata + 们",
+              "contoh": "我们是学生。",
+              "pinyin": "wǒ men shì xué sheng.",
+              "terjemahan": "Kami adalah murid."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata + 们",
+              "contoh": "他们在学校学习。",
+              "pinyin": "tā men zài xué xiào xué xí.",
+              "terjemahan": "Mereka belajar di sekolah."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 1",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-040",
+          "kamus_nama": "们",
+          "pendalaman": true,
+          "rujukan_lama": "HSK 1 poin 57"
+        },
+        {
+          "id": "AFX.41",
+          "number": "AFX.41",
+          "title": "Akhiran —子 (zi)",
+          "fungsi": "Sering ditambahkan pada kata benda untuk membentuk nama benda sehari-hari; pada contoh ini biasanya dibaca ringan tanpa nada.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata + 子",
+              "contoh": "桌子在房间里。",
+              "pinyin": "zhuō zi zài fáng jiān lǐ.",
+              "terjemahan": "Meja berada di dalam kamar."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata + 子",
+              "contoh": "杯子里有水。",
+              "pinyin": "bēi zi lǐ yǒu shuǐ.",
+              "terjemahan": "Di dalam gelas ada air."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 1",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-041",
+          "kamus_nama": "子",
+          "pendalaman": true,
+          "rujukan_lama": "HSK 3 poin 16.3"
+        },
+        {
+          "id": "AFX.42",
+          "number": "AFX.42",
+          "title": "Akhiran —儿 (ér)",
+          "fungsi": "Pada beberapa kata, 儿 menambahkan bunyi r di akhir suku kata dan tidak selalu dibaca sebagai suku kata terpisah.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata + 儿",
+              "contoh": "我在这儿。",
+              "pinyin": "wǒ zài zhè r.",
+              "terjemahan": "Saya berada di sini."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata + 儿",
+              "contoh": "你等我一会儿。",
+              "pinyin": "nǐ děng wǒ yī huì r.",
+              "terjemahan": "Tunggu saya sebentar."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 1",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-042",
+          "kamus_nama": "儿"
+        },
+        {
+          "id": "AFX.43",
+          "number": "AFX.43",
+          "title": "Akhiran —头 (tóu)",
+          "fungsi": "Pada kata benda tertentu, 头 membantu membentuk nama benda atau bagian benda.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata + 头",
+              "contoh": "石头很重。",
+              "pinyin": "shí tou hěn zhòng.",
+              "terjemahan": "Batu itu berat."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata + 头",
+              "contoh": "木头很重。",
+              "pinyin": "mù tou hěn zhòng.",
+              "terjemahan": "Kayu itu berat."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 3",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-043",
+          "kamus_nama": "头"
+        }
+      ]
+    },
+    {
+      "name": "H. Penanda awal kata",
+      "points": [
+        {
+          "id": "AFX.44",
+          "number": "AFX.44",
+          "title": "Awalan 老 (lǎo)",
+          "fungsi": "Dipakai di depan kata tertentu untuk membentuk sebutan orang yang akrab atau nama panggilan.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "老 + kata",
+              "contoh": "老师在学校。",
+              "pinyin": "lǎo shī zài xué xiào.",
+              "terjemahan": "Guru berada di sekolah."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "老 + kata",
+              "contoh": "老板今天很忙。",
+              "pinyin": "lǎo bǎn jīn tiān hěn máng.",
+              "terjemahan": "Bos hari ini sangat sibuk."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 1",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-044",
+          "kamus_nama": "老"
+        },
+        {
+          "id": "AFX.45",
+          "number": "AFX.45",
+          "title": "Awalan 第 (dì)",
+          "fungsi": "Diletakkan sebelum angka untuk menunjukkan urutan, seperti pertama atau kedua.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "第 + kata",
+              "contoh": "这是第一名。",
+              "pinyin": "zhè shì dì yī míng.",
+              "terjemahan": "Ini adalah juara pertama."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "第 + kata",
+              "contoh": "他是第二名。",
+              "pinyin": "tā shì dì èr míng.",
+              "terjemahan": "Dia berada di urutan kedua."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 1",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-045",
+          "kamus_nama": "第",
+          "pendalaman": true,
+          "rujukan_lama": "HSK 1 poin 56"
+        },
+        {
+          "id": "AFX.46",
+          "number": "AFX.46",
+          "title": "Awalan 初 (chū)",
+          "fungsi": "Menunjukkan tahap awal atau tingkat permulaan.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "初 + kata",
+              "contoh": "我在初中学习。",
+              "pinyin": "wǒ zài chū zhōng xué xí.",
+              "terjemahan": "Saya belajar di sekolah menengah pertama."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "初 + kata",
+              "contoh": "这是初次见面。",
+              "pinyin": "zhè shì chū cì jiàn miàn.",
+              "terjemahan": "Ini adalah pertemuan pertama."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 3",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-046",
+          "kamus_nama": "初"
+        },
+        {
+          "id": "AFX.47",
+          "number": "AFX.47",
+          "title": "Awalan 可 (kě)",
+          "fungsi": "Pada kata tertentu, memberi arti dapat, layak, atau menimbulkan kesan tertentu; maknanya perlu dilihat dari kata utuh.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "可 + kata",
+              "contoh": "这个孩子很可爱。",
+              "pinyin": "zhè gě hái zi hěn kě ài.",
+              "terjemahan": "Anak ini sangat menggemaskan."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "可 + kata",
+              "contoh": "这个故事不可怕。",
+              "pinyin": "zhè gě gù shì bù kě pà.",
+              "terjemahan": "Cerita ini tidak menakutkan."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 2",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-047",
+          "kamus_nama": "可"
+        }
+      ]
+    },
+    {
+      "name": "I. Menolak/meniadakan",
+      "points": [
+        {
+          "id": "AFX.48",
+          "number": "AFX.48",
+          "title": "Awalan 不 (bù)",
+          "fungsi": "Menyatakan penyangkalan atau kebalikan dari makna kata yang mengikutinya.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "不 + kata",
+              "contoh": "这个办法不错。",
+              "pinyin": "zhè gě bàn fǎ bù cuò.",
+              "terjemahan": "Cara ini cukup baik."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "不 + kata",
+              "contoh": "我们有不同的想法。",
+              "pinyin": "wǒ men yǒu bù tóng de xiǎng fǎ.",
+              "terjemahan": "Kami mempunyai pemikiran yang berbeda."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 2",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-048",
+          "kamus_nama": "不"
+        },
+        {
+          "id": "AFX.49",
+          "number": "AFX.49",
+          "title": "Awalan 无 (wú)",
+          "fungsi": "Memberi arti tidak ada, tanpa, atau tidak memiliki sesuatu.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "无 + kata",
+              "contoh": "这个问题无法解决。",
+              "pinyin": "zhè gě wèn tí wú fǎ jiě jué.",
+              "terjemahan": "Masalah ini tidak dapat diselesaikan."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "无 + kata",
+              "contoh": "他今天很无聊。",
+              "pinyin": "tā jīn tiān hěn wú liáo.",
+              "terjemahan": "Dia sangat bosan hari ini."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 4",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-049",
+          "kamus_nama": "无"
+        },
+        {
+          "id": "AFX.50",
+          "number": "AFX.50",
+          "title": "Awalan 非 (fēi)",
+          "fungsi": "Memberi arti bukan, tidak sah, atau sangat kuat pada kata tertentu.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "非 + kata",
+              "contoh": "这里非常安静。",
+              "pinyin": "zhè lǐ fēi cháng ān jìng.",
+              "terjemahan": "Di sini sangat tenang."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "非 + kata",
+              "contoh": "这是非法行为。",
+              "pinyin": "zhè shì fēi fǎ xíng wéi.",
+              "terjemahan": "Ini adalah tindakan ilegal."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 1",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-050",
+          "kamus_nama": "非"
+        },
+        {
+          "id": "AFX.51",
+          "number": "AFX.51",
+          "title": "Awalan 未 (wèi)",
+          "fungsi": "Menunjukkan bahwa sesuatu belum terjadi atau belum tentu benar.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "未 + kata",
+              "contoh": "未来很重要。",
+              "pinyin": "wèi lái hěn zhòng yào.",
+              "terjemahan": "Masa depan sangat penting."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "未 + kata",
+              "contoh": "他未必知道这个消息。",
+              "pinyin": "tā wèi bì zhī dào zhè gě xiāo xi.",
+              "terjemahan": "Dia belum tentu mengetahui berita ini."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 4",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-051",
+          "kamus_nama": "未"
+        },
+        {
+          "id": "AFX.52",
+          "number": "AFX.52",
+          "title": "Awalan 反 (fǎn)",
+          "fungsi": "Memberi arti berlawanan, menolak, atau membalas suatu tindakan.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "反 + kata",
+              "contoh": "我反对这个办法。",
+              "pinyin": "wǒ fǎn duì zhè gě bàn fǎ.",
+              "terjemahan": "Saya menentang cara ini."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "反 + kata",
+              "contoh": "他的反应很快。",
+              "pinyin": "tā de fǎn yìng hěn kuài.",
+              "terjemahan": "Reaksinya sangat cepat."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 3",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-052",
+          "kamus_nama": "反"
+        }
+      ]
+    },
+    {
+      "name": "J. Tingkat dan keseluruhan",
+      "points": [
+        {
+          "id": "AFX.53",
+          "number": "AFX.53",
+          "title": "Awalan 超 (chāo)",
+          "fungsi": "Memberi arti melewati batas biasa atau berada di atas tingkat tertentu.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "超 + kata",
+              "contoh": "速度超过以前。",
+              "pinyin": "sù dù chāo guò yǐ qián.",
+              "terjemahan": "Kecepatannya melebihi sebelumnya."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "超 + kata",
+              "contoh": "我在超市买东西。",
+              "pinyin": "wǒ zài chāo shì mǎi dōng xī.",
+              "terjemahan": "Saya membeli barang di supermarket."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 2",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-053",
+          "kamus_nama": "超"
+        },
+        {
+          "id": "AFX.54",
+          "number": "AFX.54",
+          "title": "Awalan 准 (zhǔn)",
+          "fungsi": "Pada kata-kata ini, 准 terutama berkaitan dengan persiapan, ketepatan, atau izin; jangan dimaknai sebagai “calon”.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "准 + kata",
+              "contoh": "我准备好了。",
+              "pinyin": "wǒ zhǔn bèi hǎo le.",
+              "terjemahan": "Saya sudah siap."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "准 + kata",
+              "contoh": "他准时到学校。",
+              "pinyin": "tā zhǔn shí dào xué xiào.",
+              "terjemahan": "Dia tiba di sekolah tepat waktu."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 1",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-054",
+          "kamus_nama": "准"
+        },
+        {
+          "id": "AFX.55",
+          "number": "AFX.55",
+          "title": "Awalan 总 (zǒng)",
+          "fungsi": "Membawa arti keseluruhan, selalu, atau merangkum sesuatu, sesuai kata yang dibentuk.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "总 + kata",
+              "contoh": "他总是很忙。",
+              "pinyin": "tā zǒng shì hěn máng.",
+              "terjemahan": "Dia selalu sibuk."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "总 + kata",
+              "contoh": "我们总结今天的工作。",
+              "pinyin": "wǒ men zǒng jié jīn tiān de gōng zuò.",
+              "terjemahan": "Kami merangkum pekerjaan hari ini."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 3",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-055",
+          "kamus_nama": "总"
+        },
+        {
+          "id": "AFX.56",
+          "number": "AFX.56",
+          "title": "Awalan 半 (bàn)",
+          "fungsi": "Menunjukkan setengah atau bagian waktu/ukuran yang belum penuh.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "半 + kata",
+              "contoh": "我等了半天。",
+              "pinyin": "wǒ děng le bàn tiān.",
+              "terjemahan": "Saya menunggu setengah hari."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "半 + kata",
+              "contoh": "他在这里住了半年。",
+              "pinyin": "tā zài zhè lǐ zhù le bàn nián.",
+              "terjemahan": "Dia tinggal di sini selama setengah tahun."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 1",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-056",
+          "kamus_nama": "半"
+        },
+        {
+          "id": "AFX.57",
+          "number": "AFX.57",
+          "title": "Awalan 自 (zì)",
+          "fungsi": "Menunjukkan diri sendiri atau sesuatu yang berlangsung dengan sendirinya.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "自 + kata",
+              "contoh": "我自己做饭。",
+              "pinyin": "wǒ zì jǐ zuò fàn.",
+              "terjemahan": "Saya memasak sendiri."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "自 + kata",
+              "contoh": "她很自信。",
+              "pinyin": "tā hěn zì xìn.",
+              "terjemahan": "Dia sangat percaya diri."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 2",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-057",
+          "kamus_nama": "自"
+        },
+        {
+          "id": "AFX.58",
+          "number": "AFX.58",
+          "title": "Awalan 全 (quán)",
+          "fungsi": "Menunjukkan keseluruhan atau semua bagian.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "全 + kata",
+              "contoh": "全国人民都很忙。",
+              "pinyin": "quán guó rén mín dōu hěn máng.",
+              "terjemahan": "Seluruh rakyat di negara itu sibuk."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "全 + kata",
+              "contoh": "全家一起吃饭。",
+              "pinyin": "quán jiā yī qǐ chī fàn.",
+              "terjemahan": "Seluruh keluarga makan bersama."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 2",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-058",
+          "kamus_nama": "全"
+        },
+        {
+          "id": "AFX.59",
+          "number": "AFX.59",
+          "title": "Awalan 同 (tóng)",
+          "fungsi": "Menunjukkan kesamaan, kebersamaan, atau hubungan dengan pihak lain.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "同 + kata",
+              "contoh": "我们是同学。",
+              "pinyin": "wǒ men shì tóng xué.",
+              "terjemahan": "Kami adalah teman sekelas."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "同 + kata",
+              "contoh": "我同意你的想法。",
+              "pinyin": "wǒ tóng yì nǐ de xiǎng fǎ.",
+              "terjemahan": "Saya setuju dengan pendapatmu."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 1",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-059",
+          "kamus_nama": "同"
+        },
+        {
+          "id": "AFX.60",
+          "number": "AFX.60",
+          "title": "Awalan 共 (gòng)",
+          "fungsi": "Menunjukkan sesuatu yang dilakukan atau dimiliki bersama.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "共 + kata",
+              "contoh": "我们共同学习。",
+              "pinyin": "wǒ men gòng tóng xué xí.",
+              "terjemahan": "Kami belajar bersama."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "共 + kata",
+              "contoh": "这两个国家共有一个问题。",
+              "pinyin": "zhè liǎng gě guó jiā gòng yǒu yī gě wèn tí.",
+              "terjemahan": "Kedua negara ini mempunyai satu masalah yang sama."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 3",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-060",
+          "kamus_nama": "共"
+        }
+      ]
     }
   ],
   "kesalahan_umum": [],
   "metadata": {
-    "total_points": 39,
-    "stage": "Tahap 2 — sementara",
+    "total_points": 60,
+    "stage": "Tahap 2 — selesai",
     "groups_completed": [
       "A",
       "B",
       "C",
       "D",
       "E",
-      "F"
-    ],
-    "groups_pending": [
+      "F",
       "G",
       "H",
       "I",
       "J"
-    ]
+    ],
+    "groups_pending": []
   }
 }
