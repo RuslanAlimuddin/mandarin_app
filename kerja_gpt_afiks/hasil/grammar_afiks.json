@@ -357,7 +357,7 @@
               "jenis": "Afirmatif",
               "pola": "Kata/bidang + 量",
               "contoh": "这个数量不多。",
-              "pinyin": "Zhè gě shù liàng bù duō.",
+              "pinyin": "Zhè gè shù liàng bù duō.",
               "terjemahan": "Jumlah ini tidak banyak."
             },
             {
@@ -383,7 +383,7 @@
               "jenis": "Afirmatif",
               "pola": "Kata/bidang + 法",
               "contoh": "这个方法很好。",
-              "pinyin": "Zhè gě fāng fǎ hěn hǎo.",
+              "pinyin": "Zhè gè fāng fǎ hěn hǎo.",
               "terjemahan": "Cara ini sangat baik."
             },
             {
@@ -435,7 +435,7 @@
               "jenis": "Afirmatif",
               "pola": "Kata/bidang + 点",
               "contoh": "这个地点很安静。",
-              "pinyin": "Zhè gě dì diǎn hěn ān jìng.",
+              "pinyin": "Zhè gè dì diǎn hěn ān jìng.",
               "terjemahan": "Tempat ini sangat tenang."
             },
             {
@@ -582,7 +582,7 @@
               "jenis": "Afirmatif",
               "pola": "Kata/bidang + 论",
               "contoh": "这个理论很重要。",
-              "pinyin": "Zhè gě lǐ lùn hěn zhòng yào.",
+              "pinyin": "Zhè gè lǐ lùn hěn zhòng yào.",
               "terjemahan": "Teori ini sangat penting."
             }
           ],
@@ -866,7 +866,7 @@
               "jenis": "Afirmatif",
               "pola": "Kata/bidang + 区",
               "contoh": "这个地区很安静。",
-              "pinyin": "Zhè gě dì qū hěn ān jìng.",
+              "pinyin": "Zhè gè dì qū hěn ān jìng.",
               "terjemahan": "Wilayah ini sangat tenang."
             },
             {
@@ -982,7 +982,7 @@
               "jenis": "Afirmatif",
               "pola": "Kata/bidang + 品",
               "contoh": "这个产品很好。",
-              "pinyin": "Zhè gě chǎn pǐn hěn hǎo.",
+              "pinyin": "Zhè gè chǎn pǐn hěn hǎo.",
               "terjemahan": "Produk ini sangat baik."
             }
           ],
@@ -1251,14 +1251,14 @@
               "jenis": "Afirmatif",
               "pola": "可 + kata",
               "contoh": "这个孩子很可爱。",
-              "pinyin": "Zhè gě hái zi hěn kě ài.",
+              "pinyin": "Zhè gè hái zi hěn kě ài.",
               "terjemahan": "Anak ini sangat menggemaskan."
             },
             {
               "jenis": "Afirmatif",
               "pola": "可 + kata",
               "contoh": "这个故事不可怕。",
-              "pinyin": "Zhè gě gù shì bù kě pà.",
+              "pinyin": "Zhè gè gù shì bù kě pà.",
               "terjemahan": "Cerita ini tidak menakutkan."
             }
           ],
@@ -1282,7 +1282,7 @@
               "jenis": "Afirmatif",
               "pola": "不 + kata",
               "contoh": "这个办法不错。",
-              "pinyin": "Zhè gě bàn fǎ bù cuò.",
+              "pinyin": "Zhè gè bàn fǎ bù cuò.",
               "terjemahan": "Cara ini cukup baik."
             },
             {
@@ -1308,7 +1308,7 @@
               "jenis": "Afirmatif",
               "pola": "无 + kata",
               "contoh": "这个问题无法解决。",
-              "pinyin": "Zhè gě wèn tí wú fǎ jiě jué.",
+              "pinyin": "Zhè gè wèn tí wú fǎ jiě jué.",
               "terjemahan": "Masalah ini tidak dapat diselesaikan."
             },
             {
@@ -1367,7 +1367,7 @@
               "jenis": "Afirmatif",
               "pola": "未 + kata",
               "contoh": "他未必知道这个消息。",
-              "pinyin": "Tā wèi bì zhī dào zhè gě xiāo xi.",
+              "pinyin": "Tā wèi bì zhī dào zhè gè xiāo xi.",
               "terjemahan": "Dia belum tentu mengetahui berita ini."
             }
           ],
@@ -1386,7 +1386,7 @@
               "jenis": "Afirmatif",
               "pola": "反 + kata",
               "contoh": "我反对这个办法。",
-              "pinyin": "Wǒ fǎn duì zhè gě bàn fǎ.",
+              "pinyin": "Wǒ fǎn duì zhè gè bàn fǎ.",
               "terjemahan": "Saya menentang cara ini."
             },
             {
@@ -1606,7 +1606,7 @@
               "jenis": "Afirmatif",
               "pola": "共 + kata",
               "contoh": "这两个国家共有一个问题。",
-              "pinyin": "Zhè liǎng gě guó jiā gòng yǒu yī gě wèn tí.",
+              "pinyin": "Zhè liǎng gè guó jiā gòng yǒu yī gè wèn tí.",
               "terjemahan": "Kedua negara ini mempunyai satu masalah yang sama."
             }
           ],
