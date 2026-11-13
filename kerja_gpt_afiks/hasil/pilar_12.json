@@ -260,6 +260,228 @@
           "teks": "Penjelasan ini adalah peta awal, bukan aturan bahwa satu karakter selalu mempunyai satu arti tetap. Beberapa kata sudah menjadi kata utuh dan maknanya harus dipelajari sebagai satu kesatuan. Jika fungsi suatu contoh belum jelas, tandai ⚠️ perlu dicek sebelum dijadikan bahan hafalan."
         }
       ]
+    },
+    {
+      "judul": "4. Perbandingan Akhiran yang Menyebut Orang atau Pelaku",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Tujuh akhiran berikut sama-sama dapat muncul pada kata yang menyebut orang, tetapi maknanya tidak sama. Pilih berdasarkan hubungan orang itu dengan kegiatan, bidang, pekerjaan, keanggotaan, keterampilan, atau jabatan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Akhiran",
+            "Makna yang paling mudah diingat",
+            "Contoh dari Kamus",
+            "Pembeda sederhana"
+          ],
+          "baris": [
+            [
+              "者 zhě",
+              "Orang yang melakukan atau berkaitan dengan kegiatan.",
+              "记者、作者、读者、学者、消费者",
+              "Menyoroti orang berdasarkan kegiatan atau hubungannya dengan sesuatu."
+            ],
+            [
+              "家 jiā",
+              "Ahli atau orang yang menekuni suatu bidang.",
+              "作家、画家、科学家、专家、行家",
+              "Menekankan keahlian atau bidang yang ditekuni."
+            ],
+            [
+              "员 yuán",
+              "Anggota, petugas, atau orang yang menjalankan tugas.",
+              "演员、服务员、公务员、运动员、成员",
+              "Sering menunjukkan keanggotaan atau tugas dalam kelompok/pekerjaan."
+            ],
+            [
+              "师 shī",
+              "Orang dengan keahlian atau profesi tertentu.",
+              "老师、工程师、律师、厨师、设计师",
+              "Menekankan profesi atau keahlian khusus."
+            ],
+            [
+              "生 shēng",
+              "Orang dengan status atau peran tertentu.",
+              "学生、大学生、留学生、毕业生、医生",
+              "Sering menunjukkan status; tidak terbatas pada pelajar."
+            ],
+            [
+              "手 shǒu",
+              "Orang yang melakukan kegiatan atau terampil dalam hal itu.",
+              "歌手、选手、助手、高手、新手",
+              "Menyoroti pelaku, kemampuan, atau tingkat pengalaman."
+            ],
+            [
+              "长 zhǎng",
+              "Pemimpin atau orang yang mengepalai kelompok/lembaga.",
+              "校长、市长、班长、部长、船长",
+              "Menunjukkan jabatan kepala/pemimpin."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Cara cepat membedakannya: 者 berpusat pada kegiatan atau hubungan seseorang; 家 pada keahlian; 员 pada tugas atau keanggotaan; 师 pada profesi/keahlian; 生 pada status; 手 pada keterampilan atau peran pelaku; dan 长 pada jabatan pemimpin. Batas makna ini adalah petunjuk, bukan rumus yang bisa dipaksakan ke semua kata."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "记者采访老师。",
+              "pinyin": "Jì zhě cǎi fǎng lǎo shī.",
+              "arti": "Wartawan mewawancarai guru.",
+              "catatan": "者 menamai orang berdasarkan kegiatan jurnalistik."
+            },
+            {
+              "hanzi": "作家写书。",
+              "pinyin": "Zuò jiā xiě shū.",
+              "arti": "Seorang penulis/sastrawan menulis buku.",
+              "catatan": "家 menekankan orang yang menekuni bidang menulis."
+            },
+            {
+              "hanzi": "服务员给客人送水。",
+              "pinyin": "Fú wù yuán gěi kè rén sòng shuǐ.",
+              "arti": "Pelayan mengantarkan air kepada tamu.",
+              "catatan": "员 menunjukkan petugas yang menjalankan tugas pelayanan."
+            },
+            {
+              "hanzi": "工程师在公司工作。",
+              "pinyin": "Gōng chéng shī zài gōng sī gōng zuò.",
+              "arti": "Insinyur bekerja di perusahaan.",
+              "catatan": "师 menunjukkan profesi/keahlian."
+            },
+            {
+              "hanzi": "学生在学校学习。",
+              "pinyin": "Xué shēng zài xué xiào xué xí.",
+              "arti": "Murid belajar di sekolah.",
+              "catatan": "生 menunjukkan status pelajar."
+            },
+            {
+              "hanzi": "歌手喜欢唱歌。",
+              "pinyin": "Gē shǒu xǐ huan chàng gē.",
+              "arti": "Penyanyi suka bernyanyi.",
+              "catatan": "手 menamai orang yang melakukan kegiatan bernyanyi."
+            },
+            {
+              "hanzi": "校长在学校。",
+              "pinyin": "Xiào zhǎng zài xué xiào.",
+              "arti": "Kepala sekolah berada di sekolah.",
+              "catatan": "长 menunjukkan jabatan pemimpin."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap tujuh akhiran ini dapat saling menggantikan. Misalnya, 作家 dan 作者 sama-sama dapat diterjemahkan penulis, tetapi 作家 biasanya menekankan orang yang menekuni bidang menulis, sedangkan 作者 menunjuk orang yang membuat suatu karya. Pilihan kata bergantung pada maksud kalimat."
+        }
+      ]
+    },
+    {
+      "judul": "5. Awalan yang Menolak atau Meniadakan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Lima bentuk ini sering berada di depan kata dan memberi makna penolakan, ketiadaan, belum terjadi, atau kebalikan. Walaupun terjemahan Indonesianya kadang sama-sama memakai tidak atau bukan, nuansanya berbeda. Pelajari kata utuhnya, bukan hanya menghafal satu arti untuk setiap karakter."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Awalan",
+            "Makna utama",
+            "Contoh kata",
+            "Petunjuk pemakaian"
+          ],
+          "baris": [
+            [
+              "不 bù",
+              "Tidak, berbeda, atau tidak memenuhi keadaan tertentu.",
+              "不同、不错、不少、不够、不如",
+              "Sangat sering dipakai. Pada 不错, maknanya justru “cukup baik/tidak buruk”."
+            ],
+            [
+              "无 wú",
+              "Tidak ada, tanpa, atau tidak memiliki.",
+              "无法、无聊、无限、无奈、无效",
+              "Sering memberi kesan tidak adanya sesuatu atau tidak tersedianya kemampuan/hasil."
+            ],
+            [
+              "非 fēi",
+              "Bukan, tidak termasuk, atau menyatakan sesuatu yang menyimpang dari keadaan biasa.",
+              "非法、非凡、非金属、非常",
+              "Perhatikan kata utuh: 非常 berarti “sangat” dan tidak boleh diterjemahkan secara harfiah sebagai “bukan biasa” dalam setiap kalimat."
+            ],
+            [
+              "未 wèi",
+              "Belum terjadi atau belum dipastikan.",
+              "未来、未必、未经、未免、未成年人",
+              "Menunjukkan sesuatu belum terjadi atau belum tentu benar; lihat kata lengkapnya."
+            ],
+            [
+              "反 fǎn",
+              "Berlawanan, menentang, atau memberi tanggapan balik.",
+              "反对、反应、反问、反感、反馈",
+              "Maknanya berhubungan dengan arah balik atau tanggapan; tidak semua kata berawalan 反 berarti menolak."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我们有不同的想法。",
+              "pinyin": "Wǒ men yǒu bù tóng de xiǎng fǎ.",
+              "arti": "Kami mempunyai pemikiran yang berbeda.",
+              "catatan": "不 pada 不同 menyatakan perbedaan."
+            },
+            {
+              "hanzi": "这个办法不错。",
+              "pinyin": "Zhè gè bàn fǎ bù cuò.",
+              "arti": "Cara ini cukup baik.",
+              "catatan": "不错 secara utuh bermakna tidak buruk/cukup baik."
+            },
+            {
+              "hanzi": "这个问题无法解决。",
+              "pinyin": "Zhè gè wèn tí wú fǎ jiě jué.",
+              "arti": "Masalah ini tidak dapat diselesaikan.",
+              "catatan": "无法 menunjukkan tidak ada cara atau kemampuan untuk menyelesaikan."
+            },
+            {
+              "hanzi": "这里非常安静。",
+              "pinyin": "Zhè lǐ fēi cháng ān jìng.",
+              "arti": "Di sini sangat tenang.",
+              "catatan": "非常 adalah kata utuh yang berarti sangat; jangan memecahnya menjadi terjemahan harfiah."
+            },
+            {
+              "hanzi": "未来很重要。",
+              "pinyin": "Wèi lái hěn zhòng yào.",
+              "arti": "Masa depan sangat penting.",
+              "catatan": "未 memberi nuansa belum/yang akan datang pada kata 未来."
+            },
+            {
+              "hanzi": "我反对这个办法。",
+              "pinyin": "Wǒ fǎn duì zhè gè bàn fǎ.",
+              "arti": "Saya menentang cara ini.",
+              "catatan": "反对 secara utuh berarti menentang."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "不 sering menyatakan penyangkalan atau perbedaan dalam kata sehari-hari.",
+            "无 menekankan ketiadaan atau tidak tersedianya sesuatu.",
+            "非 dapat berarti bukan/tidak termasuk; tetapi kata seperti 非常 harus dipahami sebagai satu kata utuh.",
+            "未 dekat dengan makna belum, bukan selalu tidak selamanya.",
+            "反 berhubungan dengan arah berlawanan atau tanggapan balik; arti tepatnya bergantung pada kata."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Arti karakter di depan tidak selalu dapat diterjemahkan satu per satu. 非常 dan 反应 adalah contoh kata yang harus dipahami sebagai satu kesatuan. ⚠️ perlu dicek: pengelompokan 非 sebagai awalan penolak pada 非常 perlu dipastikan lagi oleh pemeriksa bahasa, karena 非常 sudah memiliki makna utuh “sangat”."
+        }
+      ]
     }
   ]
 }
