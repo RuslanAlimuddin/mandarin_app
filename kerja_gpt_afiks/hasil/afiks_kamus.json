@@ -922,7 +922,7 @@
       }
     ],
     "bukan": [],
-    "catatan": "Daftar kamus yang disetujui hanya menyediakan empat contoh untuk bentuk 主义. Daftar kamus yang disetujui hanya menyediakan empat contoh untuk bentuk 主义."
+    "catatan": "Daftar kamus yang disetujui hanya menyediakan empat contoh untuk bentuk 主义."
   },
   {
     "id": "AFK-024",
@@ -1545,7 +1545,7 @@
       }
     ],
     "bukan": [],
-    "catatan": "Jangan gabungkan 们 dengan bilangan untuk menyatakan jumlah tertentu. Lihat juga Tata Bahasa HSK 1 poin 57 (—们 dan —边). Jangan gabungkan 们 dengan bilangan untuk menyatakan jumlah tertentu. Lihat juga Tata Bahasa HSK 1 poin 57 (—们 dan —边)."
+    "catatan": "Jangan gabungkan 们 dengan bilangan untuk menyatakan jumlah tertentu. Lihat juga Tata Bahasa HSK 1 poin 57 (—们 dan —边)."
   },
   {
     "id": "AFK-041",
@@ -1580,7 +1580,7 @@
       }
     ],
     "bukan": [],
-    "catatan": "Pendalaman dari Tata Bahasa HSK 3 poin 16.3. Dalam fungsi akhiran pada contoh ini, 子 umumnya dibaca netral (zi), bukan nada ketiga. Pendalaman dari Tata Bahasa HSK 3 poin 16.3. Dalam fungsi akhiran pada contoh ini, 子 umumnya dibaca netral (zi), bukan nada ketiga."
+    "catatan": "Pendalaman dari Tata Bahasa HSK 3 poin 16.3. Dalam fungsi akhiran pada contoh ini, 子 umumnya dibaca netral (zi), bukan nada ketiga."
   },
   {
     "id": "AFK-042",
@@ -1620,7 +1620,7 @@
         "alasan": "女儿 berarti “anak perempuan”; 儿 berarti anak, bukan bunyi r pada akhir kata."
       }
     ],
-    "catatan": "Dalam bentuk erhua, 儿 melekat pada bunyi sebelumnya sebagai akhiran r; tidak selalu dibaca sebagai suku kata terpisah ér. Dalam bentuk erhua, 儿 melekat pada bunyi sebelumnya sebagai akhiran r; tidak selalu dibaca sebagai suku kata terpisah ér. Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia."
+    "catatan": "Pada beberapa kata, 儿 menambahkan bunyi r di akhir suku kata; tidak selalu dibaca sebagai suku kata terpisah. Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia."
   },
   {
     "id": "AFK-043",
@@ -1731,7 +1731,7 @@
       }
     ],
     "bukan": [],
-    "catatan": "Lihat juga Tata Bahasa HSK 1 poin 56 (小— dan 第—). Lihat juga Tata Bahasa HSK 1 poin 56 (小— dan 第—)."
+    "catatan": "Lihat juga Tata Bahasa HSK 1 poin 56 (小— dan 第—)."
   },
   {
     "id": "AFK-046",
@@ -2059,7 +2059,7 @@
       }
     ],
     "bukan": [],
-    "catatan": "Awalan paling lemah dalam daftar ini. Di kamus, 准 pada contoh yang dipilih bermakna tepat/akurat/tepat waktu/izin, bukan 'calon'. 准妈妈 tidak dipakai sebagai kata contoh. Awalan paling lemah dalam daftar ini. Di kamus, 准 pada contoh yang dipilih bermakna tepat/akurat/tepat waktu/izin, bukan 'calon'. 准妈妈 tidak dipakai sebagai kata contoh."
+    "catatan": "Awalan paling lemah dalam daftar ini. Di kamus, 准 pada contoh yang dipilih bermakna tepat/akurat/tepat waktu/izin, bukan 'calon'. 准妈妈 tidak dipakai sebagai kata contoh."
   },
   {
     "id": "AFK-055",
