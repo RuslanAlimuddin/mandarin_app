@@ -199,8 +199,8 @@
             [
               "点 diǎn",
               "优点、缺点、特点: sisi atau ciri tertentu.",
-              "点头: menganggukkan kepala; 点头: menganggukkan kepala.",
-              "点 di akhir kata seperti 优点 menyebut sisi/ciri; pada 点头 menjadi bagian kata kerja."
+              "点头: menganggukkan kepala; 点心: kudapan.",
+              "点 di akhir kata seperti 优点 menyebut sisi/ciri; pada 点头 dan 点心 menjadi bagian dari kata utuh."
             ],
             [
               "化 huà",
@@ -257,7 +257,7 @@
         },
         {
           "tipe": "peringatan",
-          "teks": "Penjelasan ini adalah peta awal, bukan aturan bahwa satu karakter selalu mempunyai satu arti tetap. Beberapa kata sudah menjadi kata utuh dan maknanya harus dipelajari sebagai satu kesatuan. Jika fungsi suatu contoh belum jelas, tandai ⚠️ perlu dicek sebelum dijadikan bahan hafalan."
+          "teks": "Penjelasan ini adalah peta awal, bukan aturan bahwa satu karakter selalu mempunyai satu arti tetap. Beberapa kata sudah menjadi kata utuh dan maknanya harus dipelajari sebagai satu kesatuan. Jika ragu, bandingkan dengan kata utuhnya di Kamus."
         }
       ]
     },
@@ -473,13 +473,13 @@
             "不 sering menyatakan penyangkalan atau perbedaan dalam kata sehari-hari.",
             "无 menekankan ketiadaan atau tidak tersedianya sesuatu.",
             "非 dapat berarti bukan/tidak termasuk; tetapi kata seperti 非常 harus dipahami sebagai satu kata utuh.",
-            "未 dekat dengan makna belum, bukan selalu tidak selamanya.",
+            "未 berarti “belum” atau “belum tentu”, bukan “tidak” yang berlaku selamanya.",
             "反 berhubungan dengan arah berlawanan atau tanggapan balik; arti tepatnya bergantung pada kata."
           ]
         },
         {
           "tipe": "peringatan",
-          "teks": "Arti karakter di depan tidak selalu dapat diterjemahkan satu per satu. 非常 dan 反应 adalah contoh kata yang harus dipahami sebagai satu kesatuan. ⚠️ perlu dicek: pengelompokan 非 sebagai awalan penolak pada 非常 perlu dipastikan lagi oleh pemeriksa bahasa, karena 非常 sudah memiliki makna utuh “sangat”."
+          "teks": "Arti karakter di depan tidak selalu dapat diterjemahkan satu per satu. 非常 adalah kata utuh yang berarti “sangat”; kata ini tetap dicantumkan sebagai contoh untuk 非 karena sudah ada dalam daftar contoh yang disetujui. Pahami 非常 sebagai satu kesatuan, bukan sebagai terjemahan harfiah per karakter. 反应 juga harus dipahami sebagai satu kata utuh."
         }
       ]
     },
@@ -488,7 +488,7 @@
       "isi": [
         {
           "tipe": "paragraf",
-          "teks": "Kamus Pembentukan Kata berisi 60 entri yang dibagi menjadi sepuluh kelompok. Jumlahnya terdiri dari 43 entri akhiran dan 17 entri awalan. Peta ini membantu pelajar melihat wilayah materi tanpa harus menghafal semuanya sekaligus."
+          "teks": "menu Awalan & Akhiran di Kamus berisi 60 entri yang dibagi menjadi sepuluh kelompok. Jumlahnya terdiri dari 43 entri akhiran dan 17 entri awalan. Peta ini membantu pelajar melihat wilayah materi tanpa harus menghafal semuanya sekaligus."
         },
         {
           "tipe": "tabel",
@@ -601,11 +601,11 @@
         },
         {
           "tipe": "paragraf",
-          "teks": "Daftar 60 ini adalah tahap sekarang, bukan seluruh cara pembentukan kata Mandarin. Bentuk 小 dan 边 sudah dibahas dalam Tata Bahasa lama dan belum ditambahkan sebagai entri baru. Karakter 副 juga sengaja tidak dimasukkan karena jumlah contoh yang memenuhi syarat belum cukup. Penambahan materi lain menunggu keputusan Ruslan."
+          "teks": "Daftar 60 ini adalah tahap sekarang, bukan seluruh cara pembentukan kata Mandarin. Bentuk 小 dan 边 sudah dibahas dalam Tata Bahasa lama dan belum ditambahkan sebagai entri baru. Karakter 副 juga sengaja tidak dimasukkan karena jumlah contoh yang memenuhi syarat belum cukup. Materi lain akan ditambahkan pada tahap berikutnya."
         },
         {
           "tipe": "peringatan",
-          "teks": "Jangan menyimpulkan bahwa semua kata yang mengandung salah satu dari 60 karakter pasti memakai awalan atau akhiran. Periksa fungsi dan makna kata utuh. Jika contoh atau penjelasan terasa meragukan, beri tanda ⚠️ perlu dicek dan jangan menjadikannya aturan mutlak."
+          "teks": "Jangan menyimpulkan bahwa semua kata yang mengandung salah satu dari 60 karakter pasti memakai awalan atau akhiran. Periksa fungsi dan makna kata utuh. Jika ragu, bandingkan dengan kata utuhnya di Kamus."
         }
       ]
     }
