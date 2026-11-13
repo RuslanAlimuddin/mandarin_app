@@ -1,0 +1,2274 @@
+[
+  {
+    "id": "AFK-001",
+    "karakter": "者",
+    "pinyin": "zhě",
+    "kelompok": "A",
+    "kelompok_nama": "Orang/pelaku",
+    "posisi": "akhiran",
+    "arti_dasar": "orang yang melakukan atau berkaitan dengan suatu kegiatan",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menerangkan kegiatan, bidang, atau peran untuk membentuk sebutan orang.",
+        "arti": "orang yang melakukan atau berkaitan dengan suatu kegiatan",
+        "contoh": [
+          {
+            "kata": "记者"
+          },
+          {
+            "kata": "作者"
+          },
+          {
+            "kata": "读者"
+          },
+          {
+            "kata": "学者"
+          },
+          {
+            "kata": "消费者"
+          }
+        ]
+      }
+    ],
+    "bukan": [
+      {
+        "kata": "或者",
+        "alasan": "或者 berarti “atau”; 者 di sini menjadi bagian dari kata penghubung, bukan penanda orang."
+      },
+      {
+        "kata": "前者",
+        "alasan": "前者 berarti “yang disebut pertama”; 者 menunjuk urutan pilihan, bukan orang berdasarkan kegiatan."
+      },
+      {
+        "kata": "后者",
+        "alasan": "后者 berarti “yang disebut belakangan”; 者 menunjuk urutan pilihan, bukan orang berdasarkan kegiatan."
+      }
+    ],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-002",
+    "karakter": "家",
+    "pinyin": "jiā",
+    "kelompok": "A",
+    "kelompok_nama": "Orang/pelaku",
+    "posisi": "akhiran",
+    "arti_dasar": "ahli atau orang yang menekuni suatu bidang",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir nama bidang atau kegiatan untuk menyebut orang yang ahli atau bekerja di bidang tersebut.",
+        "arti": "ahli atau orang yang menekuni suatu bidang",
+        "contoh": [
+          {
+            "kata": "作家"
+          },
+          {
+            "kata": "画家"
+          },
+          {
+            "kata": "科学家"
+          },
+          {
+            "kata": "专家"
+          },
+          {
+            "kata": "行家"
+          }
+        ]
+      }
+    ],
+    "bukan": [
+      {
+        "kata": "国家",
+        "alasan": "国家 berarti “negara”; 家 menjadi bagian kata yang bermakna negara, bukan nama orang ahli."
+      },
+      {
+        "kata": "回家",
+        "alasan": "回家 berarti “pulang ke rumah”; 家 menunjukkan rumah yang dituju, bukan profesi."
+      },
+      {
+        "kata": "大家",
+        "alasan": "大家 berarti “semua orang”; 家 tidak menamai ahli dalam suatu bidang."
+      },
+      {
+        "kata": "全家",
+        "alasan": "全家 berarti “seluruh keluarga”; 家 menunjukkan keluarga, bukan nama profesi."
+      }
+    ],
+    "catatan": "Pada 家庭, 家 berada di awal kata dan berarti rumah atau keluarga; ini bukan awalan pembentuk makna ahli."
+  },
+  {
+    "id": "AFK-003",
+    "karakter": "员",
+    "pinyin": "yuán",
+    "kelompok": "A",
+    "kelompok_nama": "Orang/pelaku",
+    "posisi": "akhiran",
+    "arti_dasar": "anggota, petugas, atau orang yang menjalankan tugas",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menyebut tugas atau kelompok untuk menamai orang yang menjadi anggota atau petugas.",
+        "arti": "anggota, petugas, atau orang yang menjalankan tugas",
+        "contoh": [
+          {
+            "kata": "演员"
+          },
+          {
+            "kata": "服务员"
+          },
+          {
+            "kata": "公务员"
+          },
+          {
+            "kata": "运动员"
+          },
+          {
+            "kata": "成员"
+          }
+        ]
+      }
+    ],
+    "bukan": [
+      {
+        "kata": "动员",
+        "alasan": "动员 adalah kata kerja yang berarti mengerahkan atau menggerakkan orang; 员 tidak membentuk nama orang."
+      }
+    ],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-004",
+    "karakter": "师",
+    "pinyin": "shī",
+    "kelompok": "A",
+    "kelompok_nama": "Orang/pelaku",
+    "posisi": "akhiran",
+    "arti_dasar": "orang yang memiliki keahlian atau profesi tertentu",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir nama keahlian atau pekerjaan untuk menyebut orang yang menjalankan profesi tersebut.",
+        "arti": "orang yang memiliki keahlian atau profesi tertentu",
+        "contoh": [
+          {
+            "kata": "老师"
+          },
+          {
+            "kata": "工程师"
+          },
+          {
+            "kata": "律师"
+          },
+          {
+            "kata": "厨师"
+          },
+          {
+            "kata": "设计师"
+          }
+        ]
+      }
+    ],
+    "bukan": [
+      {
+        "kata": "师生",
+        "alasan": "师生 menyebut dua kelompok, guru dan murid, bukan nama profesi dengan 师 sebagai akhiran."
+      }
+    ],
+    "catatan": "Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia."
+  },
+  {
+    "id": "AFK-005",
+    "karakter": "生",
+    "pinyin": "shēng",
+    "kelompok": "A",
+    "kelompok_nama": "Orang/pelaku",
+    "posisi": "akhiran",
+    "arti_dasar": "orang dengan status atau peran tertentu, terutama pelajar",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menunjukkan status atau peran seseorang, misalnya pelajar atau lulusan.",
+        "arti": "orang dengan status atau peran tertentu, terutama pelajar",
+        "contoh": [
+          {
+            "kata": "学生"
+          },
+          {
+            "kata": "大学生"
+          },
+          {
+            "kata": "留学生"
+          },
+          {
+            "kata": "毕业生"
+          },
+          {
+            "kata": "医生"
+          }
+        ]
+      }
+    ],
+    "bukan": [
+      {
+        "kata": "发生",
+        "alasan": "发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang."
+      },
+      {
+        "kata": "出生",
+        "alasan": "出生 berarti “lahir”; 生 menyatakan kelahiran, bukan orang dengan status tertentu."
+      },
+      {
+        "kata": "产生",
+        "alasan": "产生 berarti “muncul atau menghasilkan”; 生 menjadi bagian kata kerja, bukan penanda orang."
+      },
+      {
+        "kata": "人生",
+        "alasan": "人生 berarti “kehidupan manusia”; 生 membentuk kata utuh tentang kehidupan, bukan sebutan orang."
+      },
+      {
+        "kata": "陌生",
+        "alasan": "陌生 berarti “asing/tidak dikenal”; 生 menjadi bagian kata sifat, bukan penanda orang."
+      },
+      {
+        "kata": "花生",
+        "alasan": "花生 berarti “kacang tanah”; 生 menjadi bagian nama benda, bukan penanda orang."
+      }
+    ],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-006",
+    "karakter": "手",
+    "pinyin": "shǒu",
+    "kelompok": "A",
+    "kelompok_nama": "Orang/pelaku",
+    "posisi": "akhiran",
+    "arti_dasar": "orang yang melakukan kegiatan atau memiliki keterampilan",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir kegiatan atau kemampuan untuk menyebut orang yang melakukannya atau terampil dalam hal itu.",
+        "arti": "orang yang melakukan kegiatan atau memiliki keterampilan",
+        "contoh": [
+          {
+            "kata": "歌手"
+          },
+          {
+            "kata": "选手"
+          },
+          {
+            "kata": "助手"
+          },
+          {
+            "kata": "高手"
+          },
+          {
+            "kata": "新手"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "手 pada awal 手机 dan 手套 berarti 'tangan' secara langsung, bukan awalan pembentuk kata. Contoh terpilih di entri ini memakai 手 sebagai akhiran penanda orang berketerampilan."
+  },
+  {
+    "id": "AFK-007",
+    "karakter": "长",
+    "pinyin": "zhǎng",
+    "kelompok": "A",
+    "kelompok_nama": "Orang/pelaku",
+    "posisi": "akhiran",
+    "arti_dasar": "pemimpin atau orang yang mengepalai suatu kelompok/lembaga",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir nama lembaga atau kelompok untuk menyebut orang yang memimpin atau mengepalainya.",
+        "arti": "pemimpin atau orang yang mengepalai suatu kelompok/lembaga",
+        "contoh": [
+          {
+            "kata": "校长"
+          },
+          {
+            "kata": "市长"
+          },
+          {
+            "kata": "班长"
+          },
+          {
+            "kata": "部长"
+          },
+          {
+            "kata": "船长"
+          }
+        ]
+      }
+    ],
+    "bukan": [
+      {
+        "kata": "成长",
+        "alasan": "成长 berarti “bertumbuh”; 长 dibaca zhǎng sebagai bagian kata kerja, bukan nama pemimpin."
+      },
+      {
+        "kata": "增长",
+        "alasan": "增长 berarti “bertambah/meningkat”; 长 dibaca zhǎng dalam kata kerja, bukan akhiran jabatan."
+      },
+      {
+        "kata": "擅长",
+        "alasan": "擅长 berarti “mahir”; 长 dibaca cháng dan menjadi bagian kata sifat, bukan nama pemimpin."
+      },
+      {
+        "kata": "漫长",
+        "alasan": "漫长 berarti “panjang dan lama”; 长 dibaca cháng sebagai makna panjang, bukan pemimpin."
+      }
+    ],
+    "catatan": "Bacaan yang dipakai di sini adalah zhǎng (pemimpin/kepala). Karakter 长 juga memiliki bacaan cháng pada makna 'panjang'; lihat daftar 'bukan'."
+  },
+  {
+    "id": "AFK-008",
+    "karakter": "化",
+    "pinyin": "huà",
+    "kelompok": "B",
+    "kelompok_nama": "Sifat dan konsep abstrak",
+    "posisi": "akhiran",
+    "arti_dasar": "proses atau perubahan menjadi suatu keadaan",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir sifat atau keadaan untuk menyatakan proses menjadikan sesuatu memiliki sifat tersebut.",
+        "arti": "proses atau perubahan menjadi suatu keadaan",
+        "contoh": [
+          {
+            "kata": "现代化"
+          },
+          {
+            "kata": "绿化"
+          },
+          {
+            "kata": "美化"
+          },
+          {
+            "kata": "简化"
+          },
+          {
+            "kata": "老化"
+          }
+        ]
+      }
+    ],
+    "bukan": [
+      {
+        "kata": "文化",
+        "alasan": "文化 berarti “budaya”; 化 merupakan bagian dari kata utuh, bukan penanda proses menjadi."
+      },
+      {
+        "kata": "变化",
+        "alasan": "变化 berarti “perubahan/berubah”; 化 tidak membentuk kata baru dengan arti proses seperti pada contoh akhiran."
+      }
+    ],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-009",
+    "karakter": "性",
+    "pinyin": "xìng",
+    "kelompok": "B",
+    "kelompok_nama": "Sifat dan konsep abstrak",
+    "posisi": "akhiran",
+    "arti_dasar": "sifat, keadaan, atau karakteristik",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menerangkan hal tertentu untuk membentuk kata yang menyatakan sifat atau karakteristik.",
+        "arti": "sifat, keadaan, atau karakteristik",
+        "contoh": [
+          {
+            "kata": "个性"
+          },
+          {
+            "kata": "积极性"
+          },
+          {
+            "kata": "弹性"
+          },
+          {
+            "kata": "慢性"
+          },
+          {
+            "kata": "女性"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-010",
+    "karakter": "度",
+    "pinyin": "dù",
+    "kelompok": "B",
+    "kelompok_nama": "Sifat dan konsep abstrak",
+    "posisi": "akhiran",
+    "arti_dasar": "tingkat, ukuran, atau derajat",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang diukur untuk menyatakan tingkat atau ukuran suatu keadaan.",
+        "arti": "tingkat, ukuran, atau derajat",
+        "contoh": [
+          {
+            "kata": "温度"
+          },
+          {
+            "kata": "速度"
+          },
+          {
+            "kata": "难度"
+          },
+          {
+            "kata": "角度"
+          },
+          {
+            "kata": "程度"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-011",
+    "karakter": "率",
+    "pinyin": "lǜ",
+    "kelompok": "B",
+    "kelompok_nama": "Sifat dan konsep abstrak",
+    "posisi": "akhiran",
+    "arti_dasar": "rasio, tingkat, atau persentase",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang dihitung untuk menyatakan rasio atau tingkat perbandingan.",
+        "arti": "rasio, tingkat, atau persentase",
+        "contoh": [
+          {
+            "kata": "效率"
+          },
+          {
+            "kata": "汇率"
+          },
+          {
+            "kata": "频率"
+          },
+          {
+            "kata": "概率"
+          },
+          {
+            "kata": "利率"
+          }
+        ]
+      }
+    ],
+    "bukan": [
+      {
+        "kata": "坦率",
+        "alasan": "坦率 berarti “terus terang”; 率 dibaca shuài, bukan lǜ yang menyatakan rasio atau tingkat."
+      },
+      {
+        "kata": "草率",
+        "alasan": "草率 berarti “gegabah/tidak cermat”; 率 dibaca shuài, bukan akhiran bermakna rasio."
+      }
+    ],
+    "catatan": "Bacaan yang dipakai pada contoh ini adalah lǜ (rasio/tingkat); bacaan shuài muncul pada 坦率 dan 草率."
+  },
+  {
+    "id": "AFK-012",
+    "karakter": "感",
+    "pinyin": "gǎn",
+    "kelompok": "B",
+    "kelompok_nama": "Sifat dan konsep abstrak",
+    "posisi": "akhiran",
+    "arti_dasar": "perasaan atau kesan terhadap sesuatu",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menjadi sumber atau objek pengalaman untuk menyatakan perasaan atau kesan.",
+        "arti": "perasaan atau kesan terhadap sesuatu",
+        "contoh": [
+          {
+            "kata": "情感"
+          },
+          {
+            "kata": "灵感"
+          },
+          {
+            "kata": "好感"
+          },
+          {
+            "kata": "责任感"
+          },
+          {
+            "kata": "口感"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-013",
+    "karakter": "力",
+    "pinyin": "lì",
+    "kelompok": "B",
+    "kelompok_nama": "Sifat dan konsep abstrak",
+    "posisi": "akhiran",
+    "arti_dasar": "tenaga, kemampuan, atau daya",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menunjukkan kegiatan atau keadaan untuk menyatakan daya atau kemampuan yang diperlukan.",
+        "arti": "tenaga, kemampuan, atau daya",
+        "contoh": [
+          {
+            "kata": "能力"
+          },
+          {
+            "kata": "压力"
+          },
+          {
+            "kata": "听力"
+          },
+          {
+            "kata": "体力"
+          },
+          {
+            "kata": "活力"
+          }
+        ]
+      }
+    ],
+    "bukan": [
+      {
+        "kata": "力量",
+        "alasan": "力量 berarti “kekuatan”; 力 membentuk kata benda utuh, bukan akhiran setelah kata yang menjelaskan kemampuan."
+      }
+    ],
+    "catatan": "Pada 力量, 力 berada di awal kata dan berarti tenaga atau kekuatan; ini bagian kata utuh, bukan awalan."
+  },
+  {
+    "id": "AFK-014",
+    "karakter": "量",
+    "pinyin": "liàng",
+    "kelompok": "B",
+    "kelompok_nama": "Sifat dan konsep abstrak",
+    "posisi": "akhiran",
+    "arti_dasar": "jumlah, ukuran, atau banyaknya sesuatu",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang diukur untuk membentuk istilah tentang jumlah atau ukuran.",
+        "arti": "jumlah, ukuran, atau banyaknya sesuatu",
+        "contoh": [
+          {
+            "kata": "数量"
+          },
+          {
+            "kata": "质量"
+          },
+          {
+            "kata": "重量"
+          },
+          {
+            "kata": "能量"
+          },
+          {
+            "kata": "音量"
+          }
+        ]
+      }
+    ],
+    "bukan": [
+      {
+        "kata": "商量",
+        "alasan": "商量 berarti “berunding”; 量 dibaca netral pada kata kerja ini, bukan akhiran liàng bermakna jumlah."
+      },
+      {
+        "kata": "测量",
+        "alasan": "测量 berarti “mengukur”; 量 dibaca liáng sebagai kata kerja, bukan akhiran liàng bermakna ukuran."
+      }
+    ],
+    "catatan": "Bacaan yang dipakai pada contoh akhiran ini adalah liàng (jumlah/ukuran); jangan tertukar dengan liáng pada kata kerja tertentu."
+  },
+  {
+    "id": "AFK-015",
+    "karakter": "法",
+    "pinyin": "fǎ",
+    "kelompok": "B",
+    "kelompok_nama": "Sifat dan konsep abstrak",
+    "posisi": "akhiran",
+    "arti_dasar": "cara, metode, atau pendekatan",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menyebut tindakan atau pemikiran untuk membentuk kata yang berarti cara melakukannya.",
+        "arti": "cara, metode, atau pendekatan",
+        "contoh": [
+          {
+            "kata": "方法"
+          },
+          {
+            "kata": "办法"
+          },
+          {
+            "kata": "想法"
+          },
+          {
+            "kata": "看法"
+          },
+          {
+            "kata": "做法"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "法 juga dapat berarti 'hukum' pada 合法 dan 违法; di sana ia bukan akhiran bermakna 'cara'."
+  },
+  {
+    "id": "AFK-016",
+    "karakter": "观",
+    "pinyin": "guān",
+    "kelompok": "B",
+    "kelompok_nama": "Sifat dan konsep abstrak",
+    "posisi": "akhiran",
+    "arti_dasar": "pandangan, cara melihat, atau sikap terhadap sesuatu",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menjadi pokok pandangan untuk membentuk kata tentang cara seseorang memandang sesuatu.",
+        "arti": "pandangan, cara melihat, atau sikap terhadap sesuatu",
+        "contoh": [
+          {
+            "kata": "乐观"
+          },
+          {
+            "kata": "悲观"
+          },
+          {
+            "kata": "客观"
+          },
+          {
+            "kata": "主观"
+          },
+          {
+            "kata": "价值观"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia. Pada 观察, 观 berada di awal kata dan berarti mengamati; ini kata kerja, bukan awalan pembentuk pandangan."
+  },
+  {
+    "id": "AFK-017",
+    "karakter": "点",
+    "pinyin": "diǎn",
+    "kelompok": "B",
+    "kelompok_nama": "Sifat dan konsep abstrak",
+    "posisi": "akhiran",
+    "arti_dasar": "titik, sisi, atau hal tertentu",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang dinilai atau dibahas untuk menyebut sisi, ciri, atau titik tertentu.",
+        "arti": "titik, sisi, atau hal tertentu",
+        "contoh": [
+          {
+            "kata": "优点"
+          },
+          {
+            "kata": "缺点"
+          },
+          {
+            "kata": "特点"
+          },
+          {
+            "kata": "观点"
+          },
+          {
+            "kata": "地点"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-018",
+    "karakter": "型",
+    "pinyin": "xíng",
+    "kelompok": "C",
+    "kelompok_nama": "Jenis dan gaya",
+    "posisi": "akhiran",
+    "arti_dasar": "jenis, tipe, atau model",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menjelaskan bentuk atau ukuran untuk menyatakan tipe atau model.",
+        "arti": "jenis, tipe, atau model",
+        "contoh": [
+          {
+            "kata": "大型"
+          },
+          {
+            "kata": "小型"
+          },
+          {
+            "kata": "新型"
+          },
+          {
+            "kata": "发型"
+          },
+          {
+            "kata": "转型"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-019",
+    "karakter": "式",
+    "pinyin": "shì",
+    "kelompok": "C",
+    "kelompok_nama": "Jenis dan gaya",
+    "posisi": "akhiran",
+    "arti_dasar": "bentuk, cara, atau gaya",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menerangkan cara atau bentuk untuk menyatakan gaya atau model tertentu.",
+        "arti": "bentuk, cara, atau gaya",
+        "contoh": [
+          {
+            "kata": "方式"
+          },
+          {
+            "kata": "正式"
+          },
+          {
+            "kata": "公式"
+          },
+          {
+            "kata": "仪式"
+          },
+          {
+            "kata": "美式"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-020",
+    "karakter": "类",
+    "pinyin": "lèi",
+    "kelompok": "C",
+    "kelompok_nama": "Jenis dan gaya",
+    "posisi": "akhiran",
+    "arti_dasar": "jenis atau kelompok",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang dikelompokkan untuk membentuk kata yang menyatakan jenis atau golongan.",
+        "arti": "jenis atau kelompok",
+        "contoh": [
+          {
+            "kata": "人类"
+          },
+          {
+            "kata": "种类"
+          },
+          {
+            "kata": "分类"
+          },
+          {
+            "kata": "之类"
+          },
+          {
+            "kata": "同类"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-021",
+    "karakter": "学",
+    "pinyin": "xué",
+    "kelompok": "D",
+    "kelompok_nama": "Bidang dan ilmu",
+    "posisi": "akhiran",
+    "arti_dasar": "bidang ilmu atau cabang pengetahuan",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menjadi pokok kajian untuk membentuk nama bidang ilmu.",
+        "arti": "bidang ilmu atau cabang pengetahuan",
+        "contoh": [
+          {
+            "kata": "科学"
+          },
+          {
+            "kata": "文学"
+          },
+          {
+            "kata": "医学"
+          },
+          {
+            "kata": "哲学"
+          },
+          {
+            "kata": "大学"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "Pada 学生 dan 学校, 学 bermakna 'belajar' sebagai unsur kata biasa, bukan akhiran bidang ilmu."
+  },
+  {
+    "id": "AFK-022",
+    "karakter": "论",
+    "pinyin": "lùn",
+    "kelompok": "D",
+    "kelompok_nama": "Bidang dan ilmu",
+    "posisi": "akhiran",
+    "arti_dasar": "teori, pembahasan, atau pendapat",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menjadi pokok bahasan untuk membentuk istilah teori, kesimpulan, atau perdebatan.",
+        "arti": "teori, pembahasan, atau pendapat",
+        "contoh": [
+          {
+            "kata": "理论"
+          },
+          {
+            "kata": "结论"
+          },
+          {
+            "kata": "讨论"
+          },
+          {
+            "kata": "评论"
+          },
+          {
+            "kata": "辩论"
+          }
+        ]
+      }
+    ],
+    "bukan": [
+      {
+        "kata": "无论",
+        "alasan": "无论 berarti “bagaimanapun/tidak peduli”; 论 menjadi bagian ungkapan utuh, bukan akhiran pembentuk teori atau pendapat."
+      },
+      {
+        "kata": "不论",
+        "alasan": "不论 berarti “terlepas dari/tidak peduli”; 论 menjadi bagian kata utuh, bukan akhiran bidang pemikiran."
+      }
+    ],
+    "catatan": "Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia."
+  },
+  {
+    "id": "AFK-023",
+    "karakter": "主义",
+    "pinyin": "zhǔ yì",
+    "kelompok": "D",
+    "kelompok_nama": "Bidang dan ilmu",
+    "posisi": "akhiran",
+    "arti_dasar": "paham, aliran, atau ideologi",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir nama gagasan atau sistem sosial untuk membentuk nama paham atau ideologi.",
+        "arti": "paham, aliran, atau ideologi",
+        "contoh": [
+          {
+            "kata": "社会主义"
+          },
+          {
+            "kata": "资本主义"
+          },
+          {
+            "kata": "帝国主义"
+          },
+          {
+            "kata": "官僚主义"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "Daftar kamus yang disetujui hanya menyediakan empat contoh untuk bentuk 主义."
+  },
+  {
+    "id": "AFK-024",
+    "karakter": "业",
+    "pinyin": "yè",
+    "kelompok": "D",
+    "kelompok_nama": "Bidang dan ilmu",
+    "posisi": "akhiran",
+    "arti_dasar": "bidang pekerjaan, profesi, atau industri",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur bidang atau kegiatan untuk membentuk nama profesi, sektor, atau industri.",
+        "arti": "bidang pekerjaan, profesi, atau industri",
+        "contoh": [
+          {
+            "kata": "专业"
+          },
+          {
+            "kata": "职业"
+          },
+          {
+            "kata": "工业"
+          },
+          {
+            "kata": "农业"
+          },
+          {
+            "kata": "企业"
+          }
+        ]
+      }
+    ],
+    "bukan": [
+      {
+        "kata": "毕业",
+        "alasan": "毕业 berarti “lulus”; 业 menjadi bagian kata kerja, bukan akhiran yang menamai bidang atau pekerjaan."
+      },
+      {
+        "kata": "失业",
+        "alasan": "失业 berarti “kehilangan pekerjaan”; 业 menjadi bagian kata kerja, bukan akhiran nama bidang."
+      },
+      {
+        "kata": "创业",
+        "alasan": "创业 berarti “memulai usaha”; 业 menjadi bagian kata kerja, bukan akhiran yang menamai bidang usaha."
+      }
+    ],
+    "catatan": "Pada 业务, 业 berada di awal kata dan berarti urusan atau kegiatan usaha; ini bagian kata utuh, bukan awalan."
+  },
+  {
+    "id": "AFK-025",
+    "karakter": "界",
+    "pinyin": "jiè",
+    "kelompok": "D",
+    "kelompok_nama": "Bidang dan ilmu",
+    "posisi": "akhiran",
+    "arti_dasar": "lingkungan, ranah, atau kelompok bidang",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menunjukkan bidang atau kelompok untuk menyebut lingkungan atau ranah tersebut.",
+        "arti": "lingkungan, ranah, atau kelompok bidang",
+        "contoh": [
+          {
+            "kata": "外界"
+          },
+          {
+            "kata": "自然界"
+          },
+          {
+            "kata": "工商界"
+          },
+          {
+            "kata": "边界"
+          },
+          {
+            "kata": "眼界"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-026",
+    "karakter": "馆",
+    "pinyin": "guǎn",
+    "kelompok": "E",
+    "kelompok_nama": "Tempat dan lembaga",
+    "posisi": "akhiran",
+    "arti_dasar": "gedung atau tempat layanan/kegiatan",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menjelaskan layanan atau kegiatan untuk menamai tempat yang menyediakan layanan atau kegiatan itu.",
+        "arti": "gedung atau tempat layanan/kegiatan",
+        "contoh": [
+          {
+            "kata": "图书馆"
+          },
+          {
+            "kata": "博物馆"
+          },
+          {
+            "kata": "饭馆"
+          },
+          {
+            "kata": "旅馆"
+          },
+          {
+            "kata": "大使馆"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia."
+  },
+  {
+    "id": "AFK-027",
+    "karakter": "室",
+    "pinyin": "shì",
+    "kelompok": "E",
+    "kelompok_nama": "Tempat dan lembaga",
+    "posisi": "akhiran",
+    "arti_dasar": "ruang atau kamar untuk fungsi tertentu",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menjelaskan kegiatan atau pemakaian untuk menamai ruangan.",
+        "arti": "ruang atau kamar untuk fungsi tertentu",
+        "contoh": [
+          {
+            "kata": "办公室"
+          },
+          {
+            "kata": "教室"
+          },
+          {
+            "kata": "实验室"
+          },
+          {
+            "kata": "卧室"
+          },
+          {
+            "kata": "浴室"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-028",
+    "karakter": "站",
+    "pinyin": "zhàn",
+    "kelompok": "E",
+    "kelompok_nama": "Tempat dan lembaga",
+    "posisi": "akhiran",
+    "arti_dasar": "stasiun, pos, atau tempat layanan",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menjelaskan layanan atau fasilitas untuk menamai tempat pemberhentian atau pelayanan.",
+        "arti": "stasiun, pos, atau tempat layanan",
+        "contoh": [
+          {
+            "kata": "车站"
+          },
+          {
+            "kata": "地铁站"
+          },
+          {
+            "kata": "加油站"
+          },
+          {
+            "kata": "网站"
+          },
+          {
+            "kata": "核电站"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "Pada 站立, 站 berada di awal kata dan berarti berdiri; ini kata kerja, bukan awalan pembentuk nama tempat."
+  },
+  {
+    "id": "AFK-029",
+    "karakter": "场",
+    "pinyin": "chǎng",
+    "kelompok": "E",
+    "kelompok_nama": "Tempat dan lembaga",
+    "posisi": "akhiran",
+    "arti_dasar": "tempat atau area untuk kegiatan tertentu",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menjelaskan kegiatan untuk menamai tempat atau area kegiatan itu.",
+        "arti": "tempat atau area untuk kegiatan tertentu",
+        "contoh": [
+          {
+            "kata": "机场"
+          },
+          {
+            "kata": "商场"
+          },
+          {
+            "kata": "广场"
+          },
+          {
+            "kata": "球场"
+          },
+          {
+            "kata": "停车场"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "Bacaan yang dipakai pada contoh ini adalah chǎng; karakter 场 juga dapat mempunyai bacaan lain pada konteks berbeda. Ini contoh “mirip tetapi bukan”: pada 场所 (chǎng suǒ), 场 berada di awal dan berarti tempat/lokasi; ini bagian kata utuh, bukan awalan yang menambahkan makna baru."
+  },
+  {
+    "id": "AFK-030",
+    "karakter": "院",
+    "pinyin": "yuàn",
+    "kelompok": "E",
+    "kelompok_nama": "Tempat dan lembaga",
+    "posisi": "akhiran",
+    "arti_dasar": "lembaga, gedung, atau kompleks tertentu",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menjelaskan bidang atau fungsi untuk menamai lembaga atau gedung.",
+        "arti": "lembaga, gedung, atau kompleks tertentu",
+        "contoh": [
+          {
+            "kata": "医院"
+          },
+          {
+            "kata": "学院"
+          },
+          {
+            "kata": "电影院"
+          },
+          {
+            "kata": "法院"
+          },
+          {
+            "kata": "剧院"
+          }
+        ]
+      }
+    ],
+    "bukan": [
+      {
+        "kata": "住院",
+        "alasan": "住院 berarti “dirawat/menginap di rumah sakit”; 院 menjadi bagian kata kerja, bukan penanda nama tempat."
+      }
+    ],
+    "catatan": "Pada 院子, 院 berada di awal kata dan berarti halaman/pekarangan; ini bukan awalan pembentuk nama lembaga."
+  },
+  {
+    "id": "AFK-031",
+    "karakter": "店",
+    "pinyin": "diàn",
+    "kelompok": "E",
+    "kelompok_nama": "Tempat dan lembaga",
+    "posisi": "akhiran",
+    "arti_dasar": "toko atau tempat usaha",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menjelaskan barang atau layanan untuk menamai tempat usaha.",
+        "arti": "toko atau tempat usaha",
+        "contoh": [
+          {
+            "kata": "商店"
+          },
+          {
+            "kata": "书店"
+          },
+          {
+            "kata": "药店"
+          },
+          {
+            "kata": "酒店"
+          },
+          {
+            "kata": "便利店"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-032",
+    "karakter": "所",
+    "pinyin": "suǒ",
+    "kelompok": "E",
+    "kelompok_nama": "Tempat dan lembaga",
+    "posisi": "akhiran",
+    "arti_dasar": "tempat atau lembaga untuk kegiatan tertentu",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menjelaskan kegiatan atau layanan untuk menamai tempat/lembaga.",
+        "arti": "tempat atau lembaga untuk kegiatan tertentu",
+        "contoh": [
+          {
+            "kata": "场所"
+          },
+          {
+            "kata": "研究所"
+          },
+          {
+            "kata": "厕所"
+          },
+          {
+            "kata": "诊所"
+          },
+          {
+            "kata": "事务所"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-033",
+    "karakter": "区",
+    "pinyin": "qū",
+    "kelompok": "E",
+    "kelompok_nama": "Tempat dan lembaga",
+    "posisi": "akhiran",
+    "arti_dasar": "wilayah atau kawasan",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menjelaskan ciri atau letak untuk menamai wilayah atau kawasan.",
+        "arti": "wilayah atau kawasan",
+        "contoh": [
+          {
+            "kata": "地区"
+          },
+          {
+            "kata": "社区"
+          },
+          {
+            "kata": "郊区"
+          },
+          {
+            "kata": "小区"
+          },
+          {
+            "kata": "景区"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-034",
+    "karakter": "部",
+    "pinyin": "bù",
+    "kelompok": "E",
+    "kelompok_nama": "Tempat dan lembaga",
+    "posisi": "akhiran",
+    "arti_dasar": "bagian, kawasan, atau unit organisasi",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menunjukkan letak atau organisasi untuk menyebut bagian atau unit tersebut.",
+        "arti": "bagian, kawasan, atau unit organisasi",
+        "contoh": [
+          {
+            "kata": "东部"
+          },
+          {
+            "kata": "内部"
+          },
+          {
+            "kata": "总部"
+          },
+          {
+            "kata": "俱乐部"
+          },
+          {
+            "kata": "头部"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "Pada 部分, 部 berada di awal kata dan berarti bagian; ini kata utuh, bukan awalan penanda tempat."
+  },
+  {
+    "id": "AFK-035",
+    "karakter": "器",
+    "pinyin": "qì",
+    "kelompok": "F",
+    "kelompok_nama": "Alat, barang, biaya",
+    "posisi": "akhiran",
+    "arti_dasar": "alat, perangkat, atau instrumen",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menjelaskan fungsi untuk menamai alat atau perangkat.",
+        "arti": "alat, perangkat, atau instrumen",
+        "contoh": [
+          {
+            "kata": "机器"
+          },
+          {
+            "kata": "武器"
+          },
+          {
+            "kata": "电器"
+          },
+          {
+            "kata": "乐器"
+          },
+          {
+            "kata": "浏览器"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia."
+  },
+  {
+    "id": "AFK-036",
+    "karakter": "机",
+    "pinyin": "jī",
+    "kelompok": "F",
+    "kelompok_nama": "Alat, barang, biaya",
+    "posisi": "akhiran",
+    "arti_dasar": "mesin atau perangkat",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menjelaskan fungsi untuk menamai mesin atau perangkat.",
+        "arti": "mesin atau perangkat",
+        "contoh": [
+          {
+            "kata": "手机"
+          },
+          {
+            "kata": "飞机"
+          },
+          {
+            "kata": "相机"
+          },
+          {
+            "kata": "电视机"
+          },
+          {
+            "kata": "洗衣机"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "Pada 机场 dan 机器, 机 adalah bagian kata yang membawa makna sendiri yang berarti pesawat/mesin, bukan awalan. Pada 时机 dan 危机, 机 berkaitan dengan kesempatan/krisis. Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia."
+  },
+  {
+    "id": "AFK-037",
+    "karakter": "品",
+    "pinyin": "pǐn",
+    "kelompok": "F",
+    "kelompok_nama": "Alat, barang, biaya",
+    "posisi": "akhiran",
+    "arti_dasar": "barang, produk, atau hasil karya",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menjelaskan bahan, tujuan, atau hasil untuk membentuk nama barang/produk.",
+        "arti": "barang, produk, atau hasil karya",
+        "contoh": [
+          {
+            "kata": "食品"
+          },
+          {
+            "kata": "商品"
+          },
+          {
+            "kata": "产品"
+          },
+          {
+            "kata": "作品"
+          },
+          {
+            "kata": "用品"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-038",
+    "karakter": "物",
+    "pinyin": "wù",
+    "kelompok": "F",
+    "kelompok_nama": "Alat, barang, biaya",
+    "posisi": "akhiran",
+    "arti_dasar": "benda, makhluk, atau sesuatu",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menjelaskan jenis untuk membentuk nama benda, makhluk, atau bahan.",
+        "arti": "benda, makhluk, atau sesuatu",
+        "contoh": [
+          {
+            "kata": "动物"
+          },
+          {
+            "kata": "植物"
+          },
+          {
+            "kata": "食物"
+          },
+          {
+            "kata": "礼物"
+          },
+          {
+            "kata": "宠物"
+          }
+        ]
+      }
+    ],
+    "bukan": [
+      {
+        "kata": "购物",
+        "alasan": "购物 berarti “berbelanja”; 物 menjadi bagian kata kerja, bukan akhiran yang berarti benda."
+      }
+    ],
+    "catatan": "Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia. Pada 物品, 物 berada di awal kata dan berarti benda/barang; ini bagian kata utuh, bukan awalan."
+  },
+  {
+    "id": "AFK-039",
+    "karakter": "费",
+    "pinyin": "fèi",
+    "kelompok": "F",
+    "kelompok_nama": "Alat, barang, biaya",
+    "posisi": "akhiran",
+    "arti_dasar": "biaya atau pengeluaran",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur yang menjelaskan kegiatan atau layanan untuk membentuk nama biaya.",
+        "arti": "biaya atau pengeluaran",
+        "contoh": [
+          {
+            "kata": "学费"
+          },
+          {
+            "kata": "消费"
+          },
+          {
+            "kata": "免费"
+          },
+          {
+            "kata": "小费"
+          },
+          {
+            "kata": "生活费"
+          }
+        ]
+      }
+    ],
+    "bukan": [
+      {
+        "kata": "浪费",
+        "alasan": "浪费 berarti “membuang-buang”; 费 menjadi bagian kata kerja, bukan akhiran yang menamai biaya."
+      }
+    ],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-040",
+    "karakter": "们",
+    "pinyin": "men",
+    "kelompok": "G",
+    "kelompok_nama": "Pelengkap kata benda",
+    "posisi": "akhiran",
+    "arti_dasar": "penanda jamak untuk orang atau kata ganti orang",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir kata ganti atau sebutan orang untuk menunjukkan kelompok/jamak.",
+        "arti": "penanda jamak untuk orang atau kata ganti orang",
+        "contoh": [
+          {
+            "kata": "我们"
+          },
+          {
+            "kata": "你们"
+          },
+          {
+            "kata": "他们"
+          },
+          {
+            "kata": "人们"
+          },
+          {
+            "kata": "咱们"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "Jangan gabungkan 们 dengan bilangan untuk menyatakan jumlah tertentu. Lihat juga Tata Bahasa HSK 1 poin 57 (—们 dan —边)."
+  },
+  {
+    "id": "AFK-041",
+    "karakter": "子",
+    "pinyin": "zi",
+    "kelompok": "G",
+    "kelompok_nama": "Pelengkap kata benda",
+    "posisi": "akhiran",
+    "arti_dasar": "akhiran pembentuk kata benda",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur tertentu untuk membentuk atau menandai kata benda; pada banyak kata, 子 tidak membawa arti 'anak' secara mandiri.",
+        "arti": "akhiran pembentuk kata benda",
+        "contoh": [
+          {
+            "kata": "桌子"
+          },
+          {
+            "kata": "椅子"
+          },
+          {
+            "kata": "房子"
+          },
+          {
+            "kata": "杯子"
+          },
+          {
+            "kata": "筷子"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "Pendalaman dari Tata Bahasa HSK 3 poin 16.3. Dalam fungsi akhiran pada contoh ini, 子 umumnya dibaca netral (zi), bukan nada ketiga."
+  },
+  {
+    "id": "AFK-042",
+    "karakter": "儿",
+    "pinyin": "ér",
+    "kelompok": "G",
+    "kelompok_nama": "Pelengkap kata benda",
+    "posisi": "akhiran",
+    "arti_dasar": "bunyi r yang muncul di akhir suku kata pada beberapa kata lisan",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Pada beberapa kata, 儿 ditambahkan di akhir dan membuat bunyi r di akhir suku kata; bunyinya sering menyatu dengan suku kata sebelumnya.",
+        "arti": "akhiran erhua atau penanda bentuk lisan tertentu",
+        "contoh": [
+          {
+            "kata": "这儿"
+          },
+          {
+            "kata": "哪儿"
+          },
+          {
+            "kata": "玩儿"
+          },
+          {
+            "kata": "一会儿"
+          },
+          {
+            "kata": "一点儿"
+          }
+        ]
+      }
+    ],
+    "bukan": [
+      {
+        "kata": "女儿",
+        "alasan": "女儿 berarti “anak perempuan”; 儿 berarti anak, bukan bunyi r pada akhir kata."
+      }
+    ],
+    "catatan": "Pada beberapa kata, 儿 menambahkan bunyi r di akhir suku kata; tidak selalu dibaca sebagai suku kata terpisah. Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia."
+  },
+  {
+    "id": "AFK-043",
+    "karakter": "头",
+    "pinyin": "tóu",
+    "kelompok": "G",
+    "kelompok_nama": "Pelengkap kata benda",
+    "posisi": "akhiran",
+    "arti_dasar": "akhiran kata benda atau penanda posisi/ujung",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir unsur tertentu untuk membentuk kata benda atau kata penunjuk posisi; maknanya bergantung pada kata yang dibentuk.",
+        "arti": "akhiran kata benda atau penanda posisi/ujung",
+        "contoh": [
+          {
+            "kata": "石头"
+          },
+          {
+            "kata": "木头"
+          },
+          {
+            "kata": "骨头"
+          },
+          {
+            "kata": "里头"
+          },
+          {
+            "kata": "舌头"
+          }
+        ]
+      }
+    ],
+    "bukan": [
+      {
+        "kata": "点头",
+        "alasan": "点头 berarti “mengangguk”; 头 berarti kepala secara langsung, bukan akhiran pembentuk nama benda."
+      },
+      {
+        "kata": "回头",
+        "alasan": "回头 berarti “menoleh/kembali”; 头 menjadi bagian kata kerja, bukan akhiran kata benda."
+      }
+    ],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-044",
+    "karakter": "老",
+    "pinyin": "lǎo",
+    "kelompok": "H",
+    "kelompok_nama": "Penanda awal kata",
+    "posisi": "awalan",
+    "arti_dasar": "penanda orang yang lebih tua, akrab, atau sebutan sosial",
+    "bagian": [
+      {
+        "sebagai": "awalan",
+        "fungsi": "Diletakkan di awal kata tertentu, terutama sebutan orang dan hubungan sosial, untuk membentuk panggilan atau sebutan yang lazim.",
+        "arti": "penanda orang yang lebih tua, akrab, atau sebutan sosial",
+        "contoh": [
+          {
+            "kata": "老师"
+          },
+          {
+            "kata": "老板"
+          },
+          {
+            "kata": "老乡"
+          },
+          {
+            "kata": "老公"
+          },
+          {
+            "kata": "老百姓"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-045",
+    "karakter": "第",
+    "pinyin": "dì",
+    "kelompok": "H",
+    "kelompok_nama": "Penanda awal kata",
+    "posisi": "awalan",
+    "arti_dasar": "penanda urutan atau nomor tingkat",
+    "bagian": [
+      {
+        "sebagai": "awalan",
+        "fungsi": "Diletakkan di awal bilangan untuk membentuk bilangan bertingkat/urutan, seperti pertama dan kedua.",
+        "arti": "penanda urutan atau nomor tingkat",
+        "contoh": [
+          {
+            "kata": "第一"
+          },
+          {
+            "kata": "第二"
+          },
+          {
+            "kata": "第一手"
+          },
+          {
+            "kata": "第一线"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "Lihat juga Tata Bahasa HSK 1 poin 56 (小— dan 第—)."
+  },
+  {
+    "id": "AFK-046",
+    "karakter": "初",
+    "pinyin": "chū",
+    "kelompok": "H",
+    "kelompok_nama": "Penanda awal kata",
+    "posisi": "awalan",
+    "arti_dasar": "awal atau tahap permulaan",
+    "bagian": [
+      {
+        "sebagai": "awalan",
+        "fungsi": "Diletakkan di awal unsur waktu, tingkat, atau keadaan untuk menunjukkan tahap awal atau permulaan.",
+        "arti": "awal atau tahap permulaan",
+        "contoh": [
+          {
+            "kata": "初中"
+          },
+          {
+            "kata": "初级"
+          },
+          {
+            "kata": "初步"
+          },
+          {
+            "kata": "初期"
+          },
+          {
+            "kata": "初次"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-047",
+    "karakter": "可",
+    "pinyin": "kě",
+    "kelompok": "H",
+    "kelompok_nama": "Penanda awal kata",
+    "posisi": "awalan",
+    "arti_dasar": "dapat menimbulkan atau memiliki sifat tertentu",
+    "bagian": [
+      {
+        "sebagai": "awalan",
+        "fungsi": "Diletakkan di awal unsur tertentu untuk membentuk kata sifat yang menyatakan sesuatu dapat dirasakan, dinilai, atau dilakukan.",
+        "arti": "dapat menimbulkan atau memiliki sifat tertentu",
+        "contoh": [
+          {
+            "kata": "可爱"
+          },
+          {
+            "kata": "可怕"
+          },
+          {
+            "kata": "可靠"
+          },
+          {
+            "kata": "可惜"
+          },
+          {
+            "kata": "可笑"
+          }
+        ]
+      }
+    ],
+    "bukan": [
+      {
+        "kata": "可以",
+        "alasan": "可以 berarti “bisa/dapat”; 可 di sini bagian dari kata utuh yang menyatakan kemampuan atau izin, bukan awalan pembentuk sifat."
+      },
+      {
+        "kata": "可能",
+        "alasan": "可能 berarti “mungkin”; 可 menjadi bagian kata utuh yang menyatakan kemungkinan, bukan awalan bermakna “layak/dapat”."
+      },
+      {
+        "kata": "可是",
+        "alasan": "可是 berarti “tetapi”; 可 menjadi bagian kata penghubung, bukan awalan pembentuk kata sifat."
+      }
+    ],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-048",
+    "karakter": "不",
+    "pinyin": "bù",
+    "kelompok": "I",
+    "kelompok_nama": "Menolak/meniadakan",
+    "posisi": "awalan",
+    "arti_dasar": "tidak atau bukan",
+    "bagian": [
+      {
+        "sebagai": "awalan",
+        "fungsi": "Diletakkan di awal kata untuk memberi makna penyangkalan atau kebalikan.",
+        "arti": "tidak atau bukan",
+        "contoh": [
+          {
+            "kata": "不同"
+          },
+          {
+            "kata": "不错"
+          },
+          {
+            "kata": "不少"
+          },
+          {
+            "kata": "不够"
+          },
+          {
+            "kata": "不如"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-049",
+    "karakter": "无",
+    "pinyin": "wú",
+    "kelompok": "I",
+    "kelompok_nama": "Menolak/meniadakan",
+    "posisi": "awalan",
+    "arti_dasar": "tanpa atau tidak memiliki",
+    "bagian": [
+      {
+        "sebagai": "awalan",
+        "fungsi": "Diletakkan di awal unsur untuk menyatakan ketiadaan atau tidak adanya sesuatu.",
+        "arti": "tanpa atau tidak memiliki",
+        "contoh": [
+          {
+            "kata": "无法"
+          },
+          {
+            "kata": "无聊"
+          },
+          {
+            "kata": "无限"
+          },
+          {
+            "kata": "无奈"
+          },
+          {
+            "kata": "无效"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-050",
+    "karakter": "非",
+    "pinyin": "fēi",
+    "kelompok": "I",
+    "kelompok_nama": "Menolak/meniadakan",
+    "posisi": "awalan",
+    "arti_dasar": "bukan, tidak, atau bersifat berlawanan",
+    "bagian": [
+      {
+        "sebagai": "awalan",
+        "fungsi": "Diletakkan di awal unsur untuk menyatakan penyangkalan, ketidaknormalan, atau pertentangan.",
+        "arti": "bukan, tidak, atau bersifat berlawanan",
+        "contoh": [
+          {
+            "kata": "非常"
+          },
+          {
+            "kata": "非法"
+          },
+          {
+            "kata": "非凡"
+          },
+          {
+            "kata": "非得"
+          },
+          {
+            "kata": "非金属"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-051",
+    "karakter": "未",
+    "pinyin": "wèi",
+    "kelompok": "I",
+    "kelompok_nama": "Menolak/meniadakan",
+    "posisi": "awalan",
+    "arti_dasar": "belum atau belum terjadi",
+    "bagian": [
+      {
+        "sebagai": "awalan",
+        "fungsi": "Diletakkan di awal unsur untuk menyatakan sesuatu belum terjadi atau belum terpenuhi.",
+        "arti": "belum atau belum terjadi",
+        "contoh": [
+          {
+            "kata": "未来"
+          },
+          {
+            "kata": "未必"
+          },
+          {
+            "kata": "未经"
+          },
+          {
+            "kata": "未免"
+          },
+          {
+            "kata": "未成年人"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-052",
+    "karakter": "反",
+    "pinyin": "fǎn",
+    "kelompok": "I",
+    "kelompok_nama": "Menolak/meniadakan",
+    "posisi": "awalan",
+    "arti_dasar": "melawan, anti-, atau kebalikan",
+    "bagian": [
+      {
+        "sebagai": "awalan",
+        "fungsi": "Diletakkan di awal unsur untuk menyatakan penentangan, perlawanan, atau arah yang berlawanan.",
+        "arti": "melawan, anti-, atau kebalikan",
+        "contoh": [
+          {
+            "kata": "反对"
+          },
+          {
+            "kata": "反应"
+          },
+          {
+            "kata": "反问"
+          },
+          {
+            "kata": "反感"
+          },
+          {
+            "kata": "反馈"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-053",
+    "karakter": "超",
+    "pinyin": "chāo",
+    "kelompok": "J",
+    "kelompok_nama": "Tingkat dan keseluruhan",
+    "posisi": "awalan",
+    "arti_dasar": "melebihi atau melampaui batas",
+    "bagian": [
+      {
+        "sebagai": "awalan",
+        "fungsi": "Diletakkan di awal unsur untuk menyatakan sesuatu melampaui ukuran, batas, atau standar biasa.",
+        "arti": "melebihi atau melampaui batas",
+        "contoh": [
+          {
+            "kata": "超过"
+          },
+          {
+            "kata": "超级"
+          },
+          {
+            "kata": "超市"
+          },
+          {
+            "kata": "超速"
+          },
+          {
+            "kata": "超标"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-054",
+    "karakter": "准",
+    "pinyin": "zhǔn",
+    "kelompok": "J",
+    "kelompok_nama": "Tingkat dan keseluruhan",
+    "posisi": "awalan",
+    "arti_dasar": "tepat, standar, atau mendekati suatu kategori (fungsi awalan sangat lemah)",
+    "bagian": [
+      {
+        "sebagai": "awalan",
+        "fungsi": "Pada kelompok kata ini 准 muncul di awal dan membawa nuansa ketepatan, standar, atau izin; statusnya sebagai awalan produktif lemah dan tidak boleh disamakan dengan makna 'calon'.",
+        "arti": "tepat, standar, atau mendekati suatu kategori (fungsi awalan sangat lemah)",
+        "contoh": [
+          {
+            "kata": "准备"
+          },
+          {
+            "kata": "准确"
+          },
+          {
+            "kata": "准时"
+          },
+          {
+            "kata": "准则"
+          },
+          {
+            "kata": "准许"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "Awalan paling lemah dalam daftar ini. Di kamus, 准 pada contoh yang dipilih bermakna tepat/akurat/tepat waktu/izin, bukan 'calon'. 准妈妈 tidak dipakai sebagai kata contoh."
+  },
+  {
+    "id": "AFK-055",
+    "karakter": "总",
+    "pinyin": "zǒng",
+    "kelompok": "J",
+    "kelompok_nama": "Tingkat dan keseluruhan",
+    "posisi": "awalan",
+    "arti_dasar": "keseluruhan, umum, atau total",
+    "bagian": [
+      {
+        "sebagai": "awalan",
+        "fungsi": "Diletakkan di awal unsur untuk memberi makna menyeluruh, umum, atau mencakup keseluruhan.",
+        "arti": "keseluruhan, umum, atau total",
+        "contoh": [
+          {
+            "kata": "总是"
+          },
+          {
+            "kata": "总共"
+          },
+          {
+            "kata": "总结"
+          },
+          {
+            "kata": "总部"
+          },
+          {
+            "kata": "总经理"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "Pada 总是, 总 berada di awal kata dan berarti selalu; ini kata keterangan utuh, bukan awalan yang menambah arti pada kata benda."
+  },
+  {
+    "id": "AFK-056",
+    "karakter": "半",
+    "pinyin": "bàn",
+    "kelompok": "J",
+    "kelompok_nama": "Tingkat dan keseluruhan",
+    "posisi": "awalan",
+    "arti_dasar": "setengah atau sebagian",
+    "bagian": [
+      {
+        "sebagai": "awalan",
+        "fungsi": "Diletakkan di awal unsur untuk menyatakan setengah atau bagian dari satuan/waktu/tempat.",
+        "arti": "setengah atau sebagian",
+        "contoh": [
+          {
+            "kata": "半天"
+          },
+          {
+            "kata": "半年"
+          },
+          {
+            "kata": "半夜"
+          },
+          {
+            "kata": "半路"
+          },
+          {
+            "kata": "半岛"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-057",
+    "karakter": "自",
+    "pinyin": "zì",
+    "kelompok": "J",
+    "kelompok_nama": "Tingkat dan keseluruhan",
+    "posisi": "awalan",
+    "arti_dasar": "diri sendiri atau secara mandiri",
+    "bagian": [
+      {
+        "sebagai": "awalan",
+        "fungsi": "Diletakkan di awal unsur untuk memberi makna diri sendiri, dilakukan sendiri, atau berlangsung dengan sendirinya.",
+        "arti": "diri sendiri atau secara mandiri",
+        "contoh": [
+          {
+            "kata": "自己"
+          },
+          {
+            "kata": "自由"
+          },
+          {
+            "kata": "自然"
+          },
+          {
+            "kata": "自动"
+          },
+          {
+            "kata": "自信"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-058",
+    "karakter": "全",
+    "pinyin": "quán",
+    "kelompok": "J",
+    "kelompok_nama": "Tingkat dan keseluruhan",
+    "posisi": "awalan",
+    "arti_dasar": "seluruh atau lengkap",
+    "bagian": [
+      {
+        "sebagai": "awalan",
+        "fungsi": "Diletakkan di awal unsur untuk menyatakan keseluruhan atau kelengkapan.",
+        "arti": "seluruh atau lengkap",
+        "contoh": [
+          {
+            "kata": "全国"
+          },
+          {
+            "kata": "全家"
+          },
+          {
+            "kata": "全球"
+          },
+          {
+            "kata": "全面"
+          },
+          {
+            "kata": "全新"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  },
+  {
+    "id": "AFK-059",
+    "karakter": "同",
+    "pinyin": "tóng",
+    "kelompok": "J",
+    "kelompok_nama": "Tingkat dan keseluruhan",
+    "posisi": "awalan",
+    "arti_dasar": "sama, bersama, atau sejenis",
+    "bagian": [
+      {
+        "sebagai": "awalan",
+        "fungsi": "Diletakkan di awal unsur untuk menyatakan kesamaan, kebersamaan, atau hubungan yang sama.",
+        "arti": "sama, bersama, atau sejenis",
+        "contoh": [
+          {
+            "kata": "同学"
+          },
+          {
+            "kata": "同事"
+          },
+          {
+            "kata": "同意"
+          },
+          {
+            "kata": "同时"
+          },
+          {
+            "kata": "同样"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "Pada 同意, 同 berada di awal kata dan berarti setuju bersama; ini bagian kata utuh, bukan awalan imbuhan."
+  },
+  {
+    "id": "AFK-060",
+    "karakter": "共",
+    "pinyin": "gòng",
+    "kelompok": "J",
+    "kelompok_nama": "Tingkat dan keseluruhan",
+    "posisi": "awalan",
+    "arti_dasar": "bersama atau dimiliki/dilakukan bersama",
+    "bagian": [
+      {
+        "sebagai": "awalan",
+        "fungsi": "Diletakkan di awal unsur untuk menyatakan kebersamaan atau kepemilikan/pelaksanaan bersama.",
+        "arti": "bersama atau dimiliki/dilakukan bersama",
+        "contoh": [
+          {
+            "kata": "共同"
+          },
+          {
+            "kata": "共有"
+          },
+          {
+            "kata": "共享"
+          },
+          {
+            "kata": "共计"
+          },
+          {
+            "kata": "共识"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": ""
+  }
+]
