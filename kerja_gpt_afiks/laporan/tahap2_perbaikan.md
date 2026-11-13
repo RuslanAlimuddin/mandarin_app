@@ -15,7 +15,8 @@ Tanggal: 13 November 2026
 - Pada data/app_words.json, 个 tercatat dengan pinyin `gě`, padahal pada kalimat AFX.17 harus dibaca `gè`.
 - Pada data/app_words.json, 便宜 tercatat `biàn yí`, padahal pada kalimat AFX.39 harus dibaca `pián yi`.
 - Kedua nilai sumber tidak diubah karena berada di luar folder kerja.
-- Pinyin lain pada 120 kalimat ditinjau kembali; tidak ditemukan bacaan tambahan yang jelas salah yang dapat dipastikan dari konteks data yang tersedia. Nilai pinyin sumber lain yang meragukan perlu diperiksa terpisah.
+- Pemeriksaan seluruh 120 kalimat juga menemukan 13 pemakaian `gě` yang keliru untuk 个 (misalnya 这个, 两个, 一个); semuanya diperbaiki menjadi `gè`. Bentuk `gěi` pada 给 dalam AFX.03 tetap dipertahankan karena memang benar.
+- Selain dua masalah sumber yang telah disebut dan pemakaian 个, tidak ditemukan bacaan lain yang jelas salah pada kalimat yang diperiksa.
 
 ## Pemeriksaan ulang
 - JSON Kamus dan Tata Bahasa berhasil diparse.
