@@ -482,6 +482,132 @@
           "teks": "Arti karakter di depan tidak selalu dapat diterjemahkan satu per satu. 非常 dan 反应 adalah contoh kata yang harus dipahami sebagai satu kesatuan. ⚠️ perlu dicek: pengelompokan 非 sebagai awalan penolak pada 非常 perlu dipastikan lagi oleh pemeriksa bahasa, karena 非常 sudah memiliki makna utuh “sangat”."
         }
       ]
+    },
+    {
+      "judul": "6. Peta Cepat 60 Entri dan Materi yang Menyusul",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Kamus Pembentukan Kata berisi 60 entri yang dibagi menjadi sepuluh kelompok. Jumlahnya terdiri dari 43 entri akhiran dan 17 entri awalan. Peta ini membantu pelajar melihat wilayah materi tanpa harus menghafal semuanya sekaligus."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kelompok",
+            "Isi kelompok",
+            "Jumlah",
+            "Arah belajar"
+          ],
+          "baris": [
+            [
+              "A",
+              "Orang/pelaku: 者、家、员、师、生、手、长",
+              "7",
+              "Menyebut pelaku, ahli, petugas, orang berstatus tertentu, dan pemimpin."
+            ],
+            [
+              "B",
+              "Sifat dan konsep abstrak: 化、性、度、率、感、力、量、法、观、点",
+              "10",
+              "Membentuk istilah tentang perubahan, sifat, ukuran, perasaan, kemampuan, cara, pandangan, dan ciri."
+            ],
+            [
+              "C",
+              "Jenis dan gaya: 型、式、类",
+              "3",
+              "Menyatakan tipe, bentuk, atau kelompok."
+            ],
+            [
+              "D",
+              "Bidang dan ilmu: 学、论、主义、业、界",
+              "5",
+              "Membentuk istilah bidang, pemikiran, pekerjaan, dan lingkungan bidang."
+            ],
+            [
+              "E",
+              "Tempat dan lembaga: 馆、室、站、场、院、店、所、区、部",
+              "9",
+              "Mengenali nama tempat, ruang, lembaga, kawasan, dan bagian."
+            ],
+            [
+              "F",
+              "Alat, barang, biaya: 器、机、品、物、费",
+              "5",
+              "Mengenali alat, mesin, barang, benda, dan biaya."
+            ],
+            [
+              "G",
+              "Pelengkap kata benda: 们、子、儿、头",
+              "4",
+              "Mengenali bentuk yang sering muncul pada kata benda dan penanda jamak."
+            ],
+            [
+              "H",
+              "Penanda awal kata: 老、第、初、可",
+              "4",
+              "Mengenali panggilan, urutan, tahap awal, dan makna tertentu pada kata."
+            ],
+            [
+              "I",
+              "Menolak/meniadakan: 不、无、非、未、反",
+              "5",
+              "Membedakan tidak, tanpa, bukan, belum, dan berlawanan."
+            ],
+            [
+              "J",
+              "Tingkat dan keseluruhan: 超、准、总、半、自、全、同、共",
+              "8",
+              "Mengenali makna melewati batas, persiapan/ketepatan, keseluruhan, setengah, diri, semua, sama, dan bersama."
+            ]
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Mulailah dari kelompok A dan I karena kata-katanya sering muncul dalam bacaan sehari-hari.",
+            "Gunakan kartu Kamus untuk memeriksa contoh dan kata “bukan”; jangan menghafal karakter secara terpisah dari kata utuh.",
+            "Gunakan Tata Bahasa untuk melihat karakter itu dalam kalimat, lalu buat kalimat sendiri dengan kosakata yang sudah dipelajari.",
+            "Poin lama tentang 第、们、子 tetap menjadi dasar; entri baru memberi pendalaman dan tidak mengganti materi lama."
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Materi lanjutan yang belum dikerjakan",
+            "Keterangan"
+          ],
+          "baris": [
+            [
+              "族、迷、热、控、症、剂、炎、盲",
+              "Bentuk yang mungkin menjadi entri tambahan pada tingkat berikutnya."
+            ],
+            [
+              "上、下、里、外、中、间",
+              "Kata penunjuk posisi; perlu pembahasan tersendiri."
+            ],
+            [
+              "客、友、体、心、气",
+              "Karakter lain yang belum termasuk 60 entri saat ini."
+            ],
+            [
+              "阿、小、大 sebagai awalan",
+              "Bentuk awal kata yang belum dimasukkan ke daftar 60."
+            ],
+            [
+              "Pola kata majemuk, kata berulang, perubahan kelas kata, dan partikel",
+              "Topik lanjutan yang memerlukan bahan dan batas pembahasan tersendiri."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Daftar 60 ini adalah tahap sekarang, bukan seluruh cara pembentukan kata Mandarin. Bentuk 小 dan 边 sudah dibahas dalam Tata Bahasa lama dan belum ditambahkan sebagai entri baru. Karakter 副 juga sengaja tidak dimasukkan karena jumlah contoh yang memenuhi syarat belum cukup. Penambahan materi lain menunggu keputusan Ruslan."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menyimpulkan bahwa semua kata yang mengandung salah satu dari 60 karakter pasti memakai awalan atau akhiran. Periksa fungsi dan makna kata utuh. Jika contoh atau penjelasan terasa meragukan, beri tanda ⚠️ perlu dicek dan jangan menjadikannya aturan mutlak."
+        }
+      ]
     }
   ]
 }
