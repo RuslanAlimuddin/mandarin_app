@@ -34,15 +34,15 @@
     "bukan": [
       {
         "kata": "或者",
-        "alasan": "Di sini 者 bukan penanda orang yang melakukan sesuatu; kata tersebut merupakan bentuk utuh dengan fungsi penghubung atau pembeda."
+        "alasan": "或者 berarti “atau”; 者 di sini menjadi bagian dari kata penghubung, bukan penanda orang."
       },
       {
         "kata": "前者",
-        "alasan": "Di sini 者 bukan penanda orang yang melakukan sesuatu; kata tersebut merupakan bentuk utuh dengan fungsi penghubung atau pembeda."
+        "alasan": "前者 berarti “yang disebut pertama”; 者 menunjuk urutan pilihan, bukan orang berdasarkan kegiatan."
       },
       {
         "kata": "后者",
-        "alasan": "Di sini 者 bukan penanda orang yang melakukan sesuatu; kata tersebut merupakan bentuk utuh dengan fungsi penghubung atau pembeda."
+        "alasan": "后者 berarti “yang disebut belakangan”; 者 menunjuk urutan pilihan, bukan orang berdasarkan kegiatan."
       }
     ],
     "catatan": ""
@@ -82,22 +82,22 @@
     "bukan": [
       {
         "kata": "国家",
-        "alasan": "家 pada kata ini berarti rumah, keluarga, negara, atau semua orang, bukan akhiran nama ahli/profesi."
+        "alasan": "国家 berarti “negara”; 家 menjadi bagian kata yang bermakna negara, bukan nama orang ahli."
       },
       {
         "kata": "回家",
-        "alasan": "家 pada kata ini berarti rumah, keluarga, negara, atau semua orang, bukan akhiran nama ahli/profesi."
+        "alasan": "回家 berarti “pulang ke rumah”; 家 menunjukkan rumah yang dituju, bukan profesi."
       },
       {
         "kata": "大家",
-        "alasan": "家 pada kata ini berarti rumah, keluarga, negara, atau semua orang, bukan akhiran nama ahli/profesi."
+        "alasan": "大家 berarti “semua orang”; 家 tidak menamai ahli dalam suatu bidang."
       },
       {
         "kata": "全家",
-        "alasan": "家 pada kata ini berarti rumah, keluarga, negara, atau semua orang, bukan akhiran nama ahli/profesi."
+        "alasan": "全家 berarti “seluruh keluarga”; 家 menunjukkan keluarga, bukan nama profesi."
       }
     ],
-    "catatan": ""
+    "catatan": "Pada 家庭, 家 berada di awal kata dan berarti rumah atau keluarga; ini bukan awalan pembentuk makna ahli."
   },
   {
     "id": "AFK-003",
@@ -214,27 +214,27 @@
     "bukan": [
       {
         "kata": "发生",
-        "alasan": "生 pada kata ini menjadi bagian kata kerja atau kata benda utuh, bukan penanda status orang."
+        "alasan": "发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang."
       },
       {
         "kata": "出生",
-        "alasan": "生 pada kata ini menjadi bagian kata kerja atau kata benda utuh, bukan penanda status orang."
+        "alasan": "出生 berarti “lahir”; 生 menyatakan kelahiran, bukan orang dengan status tertentu."
       },
       {
         "kata": "产生",
-        "alasan": "生 pada kata ini menjadi bagian kata kerja atau kata benda utuh, bukan penanda status orang."
+        "alasan": "产生 berarti “muncul atau menghasilkan”; 生 menjadi bagian kata kerja, bukan penanda orang."
       },
       {
         "kata": "人生",
-        "alasan": "生 pada kata ini menjadi bagian kata kerja atau kata benda utuh, bukan penanda status orang."
+        "alasan": "人生 berarti “kehidupan manusia”; 生 membentuk kata utuh tentang kehidupan, bukan sebutan orang."
       },
       {
         "kata": "陌生",
-        "alasan": "生 pada kata ini menjadi bagian kata kerja atau kata benda utuh, bukan penanda status orang."
+        "alasan": "陌生 berarti “asing/tidak dikenal”; 生 menjadi bagian kata sifat, bukan penanda orang."
       },
       {
         "kata": "花生",
-        "alasan": "生 pada kata ini menjadi bagian kata kerja atau kata benda utuh, bukan penanda status orang."
+        "alasan": "花生 berarti “kacang tanah”; 生 menjadi bagian nama benda, bukan penanda orang."
       }
     ],
     "catatan": ""
@@ -309,19 +309,19 @@
     "bukan": [
       {
         "kata": "成长",
-        "alasan": "长 pada kata ini berarti tumbuh, bertambah, pandai, atau panjang; bukan akhiran yang berarti pemimpin."
+        "alasan": "成长 berarti “bertumbuh”; 长 dibaca zhǎng sebagai bagian kata kerja, bukan nama pemimpin."
       },
       {
         "kata": "增长",
-        "alasan": "长 pada kata ini berarti tumbuh, bertambah, pandai, atau panjang; bukan akhiran yang berarti pemimpin."
+        "alasan": "增长 berarti “bertambah/meningkat”; 长 dibaca zhǎng dalam kata kerja, bukan akhiran jabatan."
       },
       {
         "kata": "擅长",
-        "alasan": "长 pada kata ini berarti tumbuh, bertambah, pandai, atau panjang; bukan akhiran yang berarti pemimpin."
+        "alasan": "擅长 berarti “mahir”; 长 dibaca cháng dan menjadi bagian kata sifat, bukan nama pemimpin."
       },
       {
         "kata": "漫长",
-        "alasan": "长 pada kata ini berarti tumbuh, bertambah, pandai, atau panjang; bukan akhiran yang berarti pemimpin."
+        "alasan": "漫长 berarti “panjang dan lama”; 长 dibaca cháng sebagai makna panjang, bukan pemimpin."
       }
     ],
     "catatan": "Bacaan yang dipakai di sini adalah zhǎng (pemimpin/kepala). Karakter 长 juga memiliki bacaan cháng pada makna 'panjang'; lihat daftar 'bukan'."
@@ -361,11 +361,11 @@
     "bukan": [
       {
         "kata": "文化",
-        "alasan": "化 pada kata ini bagian dari kata utuh, bukan akhiran yang menyatakan proses perubahan."
+        "alasan": "文化 berarti “budaya”; 化 merupakan bagian dari kata utuh, bukan penanda proses menjadi."
       },
       {
         "kata": "变化",
-        "alasan": "化 pada kata ini bagian dari kata utuh, bukan akhiran yang menyatakan proses perubahan."
+        "alasan": "变化 berarti “perubahan/berubah”; 化 tidak membentuk kata baru dengan arti proses seperti pada contoh akhiran."
       }
     ],
     "catatan": ""
@@ -475,11 +475,11 @@
     "bukan": [
       {
         "kata": "坦率",
-        "alasan": "率 pada kata ini dibaca shuài dan berarti terus terang/ceroboh, bukan rasio yang dibaca lǜ."
+        "alasan": "坦率 berarti “terus terang”; 率 dibaca shuài, bukan lǜ yang menyatakan rasio atau tingkat."
       },
       {
         "kata": "草率",
-        "alasan": "率 pada kata ini dibaca shuài dan berarti terus terang/ceroboh, bukan rasio yang dibaca lǜ."
+        "alasan": "草率 berarti “gegabah/tidak cermat”; 率 dibaca shuài, bukan akhiran bermakna rasio."
       }
     ],
     "catatan": "Bacaan yang dipakai pada contoh ini adalah lǜ (rasio/tingkat); bacaan shuài muncul pada 坦率 dan 草率."
@@ -554,10 +554,10 @@
     "bukan": [
       {
         "kata": "力量",
-        "alasan": "力量 adalah kata utuh yang berarti kekuatan; 力 di sini bukan akhiran."
+        "alasan": "力量 berarti “kekuatan”; 力 membentuk kata benda utuh, bukan akhiran setelah kata yang menjelaskan kemampuan."
       }
     ],
-    "catatan": ""
+    "catatan": "Pada 力量, 力 berada di awal kata dan berarti tenaga atau kekuatan; ini bagian kata utuh, bukan awalan."
   },
   {
     "id": "AFK-014",
@@ -594,11 +594,11 @@
     "bukan": [
       {
         "kata": "商量",
-        "alasan": "量 pada kata ini menjadi bagian kata kerja 'membahas' atau 'mengukur', bukan akhiran jumlah."
+        "alasan": "商量 berarti “berunding”; 量 dibaca netral pada kata kerja ini, bukan akhiran liàng bermakna jumlah."
       },
       {
         "kata": "测量",
-        "alasan": "量 pada kata ini menjadi bagian kata kerja 'membahas' atau 'mengukur', bukan akhiran jumlah."
+        "alasan": "测量 berarti “mengukur”; 量 dibaca liáng sebagai kata kerja, bukan akhiran liàng bermakna ukuran."
       }
     ],
     "catatan": "Bacaan yang dipakai pada contoh akhiran ini adalah liàng (jumlah/ukuran); jangan tertukar dengan liáng pada kata kerja tertentu."
@@ -671,7 +671,7 @@
       }
     ],
     "bukan": [],
-    "catatan": "Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia."
+    "catatan": "Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia. Pada 观察, 观 berada di awal kata dan berarti mengamati; ini kata kerja, bukan awalan pembentuk pandangan."
   },
   {
     "id": "AFK-017",
@@ -883,11 +883,11 @@
     "bukan": [
       {
         "kata": "无论",
-        "alasan": "无论 dan 不论 merupakan bentuk tetap yang berarti terlepas dari/apapun, bukan akhiran istilah teori atau pembahasan."
+        "alasan": "无论 berarti “bagaimanapun/tidak peduli”; 论 menjadi bagian ungkapan utuh, bukan akhiran pembentuk teori atau pendapat."
       },
       {
         "kata": "不论",
-        "alasan": "无论 dan 不论 merupakan bentuk tetap yang berarti terlepas dari/apapun, bukan akhiran istilah teori atau pembahasan."
+        "alasan": "不论 berarti “terlepas dari/tidak peduli”; 论 menjadi bagian kata utuh, bukan akhiran bidang pemikiran."
       }
     ],
     "catatan": "Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia."
@@ -959,18 +959,18 @@
     "bukan": [
       {
         "kata": "毕业",
-        "alasan": "业 pada kata ini bagian dari kata kerja, bukan akhiran yang menamai bidang pekerjaan."
+        "alasan": "毕业 berarti “lulus”; 业 menjadi bagian kata kerja, bukan akhiran yang menamai bidang atau pekerjaan."
       },
       {
         "kata": "失业",
-        "alasan": "业 pada kata ini bagian dari kata kerja, bukan akhiran yang menamai bidang pekerjaan."
+        "alasan": "失业 berarti “kehilangan pekerjaan”; 业 menjadi bagian kata kerja, bukan akhiran nama bidang."
       },
       {
         "kata": "创业",
-        "alasan": "业 pada kata ini bagian dari kata kerja, bukan akhiran yang menamai bidang pekerjaan."
+        "alasan": "创业 berarti “memulai usaha”; 业 menjadi bagian kata kerja, bukan akhiran yang menamai bidang usaha."
       }
     ],
-    "catatan": ""
+    "catatan": "Pada 业务, 业 berada di awal kata dan berarti urusan atau kegiatan usaha; ini bagian kata utuh, bukan awalan."
   },
   {
     "id": "AFK-025",
@@ -1110,7 +1110,7 @@
       }
     ],
     "bukan": [],
-    "catatan": ""
+    "catatan": "Pada 站立, 站 berada di awal kata dan berarti berdiri; ini kata kerja, bukan awalan pembentuk nama tempat."
   },
   {
     "id": "AFK-029",
@@ -1145,7 +1145,7 @@
       }
     ],
     "bukan": [],
-    "catatan": "Bacaan yang dipakai pada contoh ini adalah chǎng; karakter 场 juga dapat mempunyai bacaan lain pada konteks berbeda."
+    "catatan": "Bacaan yang dipakai pada contoh ini adalah chǎng; karakter 场 juga dapat mempunyai bacaan lain pada konteks berbeda. Pada 场景, 场 berada di awal kata dan berarti tempat atau suasana suatu kejadian; ini bukan awalan pembentuk nama tempat."
   },
   {
     "id": "AFK-030",
@@ -1182,10 +1182,10 @@
     "bukan": [
       {
         "kata": "住院",
-        "alasan": "住院 adalah kata kerja yang berarti dirawat/menginap di rumah sakit, bukan nama lembaga dengan 院 sebagai akhiran."
+        "alasan": "住院 berarti “dirawat/menginap di rumah sakit”; 院 menjadi bagian kata kerja, bukan penanda nama tempat."
       }
     ],
-    "catatan": ""
+    "catatan": "Pada 院子, 院 berada di awal kata dan berarti halaman/pekarangan; ini bukan awalan pembentuk nama lembaga."
   },
   {
     "id": "AFK-031",
@@ -1325,7 +1325,7 @@
       }
     ],
     "bukan": [],
-    "catatan": ""
+    "catatan": "Pada 部分, 部 berada di awal kata dan berarti bagian; ini kata utuh, bukan awalan penanda tempat."
   },
   {
     "id": "AFK-035",
@@ -1395,7 +1395,7 @@
       }
     ],
     "bukan": [],
-    "catatan": "Pada 机场 dan 机器, 机 adalah unsur leksikal yang berarti pesawat/mesin, bukan awalan. Pada 时机 dan 危机, 机 berkaitan dengan kesempatan/krisis. Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia."
+    "catatan": "Pada 机场 dan 机器, 机 adalah bagian kata yang membawa makna sendiri yang berarti pesawat/mesin, bukan awalan. Pada 时机 dan 危机, 机 berkaitan dengan kesempatan/krisis. Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia."
   },
   {
     "id": "AFK-037",
@@ -1467,10 +1467,10 @@
     "bukan": [
       {
         "kata": "购物",
-        "alasan": "购物 adalah kata kerja yang berarti berbelanja, bukan kata benda yang memakai 物 sebagai akhiran."
+        "alasan": "购物 berarti “berbelanja”; 物 menjadi bagian kata kerja, bukan akhiran yang berarti benda."
       }
     ],
-    "catatan": "Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia."
+    "catatan": "Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia. Pada 物品, 物 berada di awal kata dan berarti benda/barang; ini bagian kata utuh, bukan awalan."
   },
   {
     "id": "AFK-039",
@@ -1507,7 +1507,7 @@
     "bukan": [
       {
         "kata": "浪费",
-        "alasan": "浪费 adalah kata kerja yang berarti memboroskan, bukan nama biaya."
+        "alasan": "浪费 berarti “membuang-buang”; 费 menjadi bagian kata kerja, bukan akhiran yang menamai biaya."
       }
     ],
     "catatan": ""
@@ -1617,7 +1617,7 @@
     "bukan": [
       {
         "kata": "女儿",
-        "alasan": "女儿 memakai 儿 dengan arti anak perempuan, bukan akhiran erhua."
+        "alasan": "女儿 berarti “anak perempuan”; 儿 berarti anak, bukan bunyi r pada akhir kata."
       }
     ],
     "catatan": "Dalam bentuk erhua, 儿 melekat pada bunyi sebelumnya sebagai akhiran r; tidak selalu dibaca sebagai suku kata terpisah ér. Dalam bentuk erhua, 儿 melekat pada bunyi sebelumnya sebagai akhiran r; tidak selalu dibaca sebagai suku kata terpisah ér. Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia."
@@ -1657,11 +1657,11 @@
     "bukan": [
       {
         "kata": "点头",
-        "alasan": "点头 dan 回头 memakai 头 dengan arti kepala/gerakan kepala, bukan akhiran kata benda."
+        "alasan": "点头 berarti “mengangguk”; 头 berarti kepala secara langsung, bukan akhiran pembentuk nama benda."
       },
       {
         "kata": "回头",
-        "alasan": "点头 dan 回头 memakai 头 dengan arti kepala/gerakan kepala, bukan akhiran kata benda."
+        "alasan": "回头 berarti “menoleh/kembali”; 头 menjadi bagian kata kerja, bukan akhiran kata benda."
       }
     ],
     "catatan": ""
@@ -2094,7 +2094,7 @@
       }
     ],
     "bukan": [],
-    "catatan": ""
+    "catatan": "Pada 总是, 总 berada di awal kata dan berarti selalu; ini kata keterangan utuh, bukan awalan yang menambah arti pada kata benda."
   },
   {
     "id": "AFK-056",
@@ -2234,7 +2234,7 @@
       }
     ],
     "bukan": [],
-    "catatan": ""
+    "catatan": "Pada 同意, 同 berada di awal kata dan berarti setuju bersama; ini bagian kata utuh, bukan awalan imbuhan."
   },
   {
     "id": "AFK-060",
