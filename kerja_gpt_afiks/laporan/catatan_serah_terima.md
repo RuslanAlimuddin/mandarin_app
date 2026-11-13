@@ -22,10 +22,13 @@ Mengikuti struktur grammar_hsk3.json dan grammar_hsk4.json: level, categories, k
 Menunggu perintah LANJUT dari Ruslan.
 
 
-## Status Tahap 3 — penyimpanan sementara (bagian 1–3)
-- Selesai: bagian 1 (pengertian awalan/akhiran dan perbandingan dengan imbuhan Indonesia), bagian 2 (cara membaca kartu entri), bagian 3 (karakter bermakna ganda: 家、生、长、率、手、点、化、头).
-- Belum selesai: bagian 4 (perbandingan akhiran pelaku), bagian 5 (awalan penolak), bagian 6 (peta cepat 60 entri dan rencana lanjutan).
-- Berkas sementara: `kerja_gpt_afiks/hasil/pilar_12.json` — baru memuat tiga bagian pertama dan akan dilengkapi, bukan hasil final.
-- Skema yang ditiru: persis struktur tingkat atas `pilar`, `judul`, `ringkasan`, `bagian`; setiap bagian berisi `judul` dan `isi`; blok isi memakai `tipe` dan pasangan kolom sesuai tipe, yaitu `paragraf/teks`, `poin/daftar`, `tabel/kolom/baris`, `contoh/daftar`, dan `peringatan/teks`. Acuan yang dibaca: `data/pelajaran/pilar_4.json` dan `data/pelajaran/pilar_9.json`.
-- Keraguan sementara: contoh tambahan dalam Pilar 12 perlu pemeriksaan manusia atas ketepatan pinyin, kewajaran kalimat, dan keberadaan semua kata di `data/app_words.json`; berkas kamus utama terlalu besar untuk diambil utuh melalui pembacaan repo pada sesi ini.
-- Perintah yang ditunggu: belum ada; lanjutkan bagian 4–6 dalam pekerjaan ini, lalu susun laporan Tahap 3 final.
+
+## Status Tahap 3 — selesai
+- Selesai: seluruh bagian 1–6 Pilar 12.
+- Berkas final: `kerja_gpt_afiks/hasil/pilar_12.json`.
+- Laporan final: `kerja_gpt_afiks/laporan/tahap3_pilar12.md`.
+- Skema meniru `data/pelajaran/pilar_4.json` dan `data/pelajaran/pilar_9.json`: tingkat atas `pilar/judul/ringkasan/bagian`, bagian `judul/isi`, dan blok paragraf, poin, tabel, contoh, peringatan.
+- Pemeriksaan dasar: JSON valid, 6 bagian, 10 kelompok A–J, 60 entri (43 akhiran + 17 awalan), tidak ada `[citation:n]` dan tidak ada `准妈妈`.
+- Hal yang perlu diperiksa manusia: klasifikasi 非常 di kelompok 非; nuansa 作者/作家; bacaan 长 dan 率; pembatasan fungsi 化 dan 头; pembedaan tujuh akhiran pelaku; pinyin dan kewajaran contoh tambahan; keberadaan semua kata tambahan di app_words.json.
+- Kelompok/bagian belum selesai: tidak ada.
+- Perintah yang ditunggu: menunggu pemeriksaan Ruslan/Claude dan perintah berikutnya.
