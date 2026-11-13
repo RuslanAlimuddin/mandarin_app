@@ -1,6 +1,6 @@
 {
   "pilar": 12,
-  "judul": "PEMBENTUKAN KATA (构词法)",
+  "judul": "Pembentukan Kata (构词法)",
   "ringkasan": "Pilar ini mengenalkan cara kata Mandarin dibentuk dengan unsur yang muncul di depan atau di belakang kata. Pelajar akan belajar membedakan awalan dan akhiran, membaca kartu entri, memahami karakter yang memiliki beberapa makna, membandingkan penanda orang/pelaku, mengenali awalan yang menolak atau meniadakan, serta melihat peta 60 entri yang tersedia.",
   "bagian": [
     {
@@ -199,7 +199,7 @@
             [
               "点 diǎn",
               "优点、缺点、特点: sisi atau ciri tertentu.",
-              "点头: menganggukkan kepala; 点钟: penunjuk waktu.",
+              "点头: menganggukkan kepala; 点头: menganggukkan kepala.",
               "点 di akhir kata seperti 优点 menyebut sisi/ciri; pada 点头 menjadi bagian kata kerja."
             ],
             [
@@ -237,7 +237,7 @@
             },
             {
               "hanzi": "这个公司的效率很高。",
-              "pinyin": "Zhè ge gōng sī de xiào lǜ hěn gāo.",
+              "pinyin": "Zhè gè gōng sī de xiào lǜ hěn gāo.",
               "arti": "Efisiensi perusahaan ini tinggi.",
               "catatan": "率 dibaca lǜ dalam arti tingkat/rasio."
             },
