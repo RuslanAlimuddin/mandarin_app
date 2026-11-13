@@ -1,0 +1,559 @@
+{
+  "level": "Pembentukan Kata (构词法)",
+  "categories": [
+    {
+      "name": "A. Orang/pelaku",
+      "points": [
+        {
+          "id": "AFX.01",
+          "number": "AFX.01",
+          "title": "Akhiran —者 (zhě)",
+          "fungsi": "Menerangkan orang yang melakukan atau berkaitan dengan kegiatan tertentu.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 者",
+              "contoh": "记者采访老师。",
+              "pinyin": "jì zhě cǎi fǎng lǎo shī.",
+              "terjemahan": "Wartawan mewawancarai guru."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 者",
+              "contoh": "作者写书。",
+              "pinyin": "zuò zhě xiě shū.",
+              "terjemahan": "Penulis menulis buku."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 3",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-001",
+          "kamus_nama": "者"
+        },
+        {
+          "id": "AFX.02",
+          "number": "AFX.02",
+          "title": "Akhiran —家 (jiā)",
+          "fungsi": "Menyebut orang yang ahli atau menekuni bidang tertentu.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 家",
+              "contoh": "作家写书。",
+              "pinyin": "zuò jiā xiě shū.",
+              "terjemahan": "Penulis menulis buku."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 家",
+              "contoh": "画家喜欢画。",
+              "pinyin": "huà jiā xǐ huan huà.",
+              "terjemahan": "Pelukis suka melukis."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 2",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-002",
+          "kamus_nama": "家"
+        },
+        {
+          "id": "AFX.03",
+          "number": "AFX.03",
+          "title": "Akhiran —员 (yuán)",
+          "fungsi": "Menyebut anggota, petugas, atau orang yang menjalankan tugas tertentu.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 员",
+              "contoh": "演员正在表演。",
+              "pinyin": "yǎn yuán zhèng zài biǎo yǎn.",
+              "terjemahan": "Aktor sedang tampil."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 员",
+              "contoh": "服务员给客人送水。",
+              "pinyin": "fú wù yuán gěi kè rén sòng shuǐ.",
+              "terjemahan": "Pelayan mengantarkan air kepada tamu."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 3",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-003",
+          "kamus_nama": "员"
+        },
+        {
+          "id": "AFX.04",
+          "number": "AFX.04",
+          "title": "Akhiran —师 (shī)",
+          "fungsi": "Menyebut orang yang mempunyai keahlian atau pekerjaan khusus.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 师",
+              "contoh": "老师教学生。",
+              "pinyin": "lǎo shī jiāo xué sheng.",
+              "terjemahan": "Guru mengajar murid."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 师",
+              "contoh": "工程师研究机器。",
+              "pinyin": "gōng chéng shī yán jiū jī qì.",
+              "terjemahan": "Insinyur meneliti mesin."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 1",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-004",
+          "kamus_nama": "师"
+        },
+        {
+          "id": "AFX.05",
+          "number": "AFX.05",
+          "title": "Akhiran —生 (shēng)",
+          "fungsi": "Menyebut orang berdasarkan status, tahap hidup, atau kedudukannya.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 生",
+              "contoh": "学生在学校学习。",
+              "pinyin": "xué sheng zài xué xiào xué xí.",
+              "terjemahan": "Murid belajar di sekolah."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 生",
+              "contoh": "医生在医院工作。",
+              "pinyin": "yī shēng zài yī yuàn gōng zuò.",
+              "terjemahan": "Dokter bekerja di rumah sakit."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 1",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-005",
+          "kamus_nama": "生"
+        },
+        {
+          "id": "AFX.06",
+          "number": "AFX.06",
+          "title": "Akhiran —手 (shǒu)",
+          "fungsi": "Menyebut orang yang melakukan kegiatan atau mempunyai keterampilan tertentu.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 手",
+              "contoh": "歌手在舞台上唱歌。",
+              "pinyin": "gē shǒu zài wǔ tái shàng chàng gē.",
+              "terjemahan": "Penyanyi sedang bernyanyi di panggung."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 手",
+              "contoh": "选手正在比赛。",
+              "pinyin": "xuǎn shǒu zhèng zài bǐ sài.",
+              "terjemahan": "Peserta sedang bertanding."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 3",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-006",
+          "kamus_nama": "手"
+        },
+        {
+          "id": "AFX.07",
+          "number": "AFX.07",
+          "title": "Akhiran —长 (zhǎng)",
+          "fungsi": "Menyebut orang yang memimpin atau menjadi kepala suatu kelompok atau lembaga.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 长",
+              "contoh": "校长在学校工作。",
+              "pinyin": "xiào zhǎng zài xué xiào gōng zuò.",
+              "terjemahan": "Kepala sekolah bekerja di sekolah."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 长",
+              "contoh": "市长关心城市。",
+              "pinyin": "shì zhǎng guān xīn chéng shì.",
+              "terjemahan": "Wali kota peduli terhadap kota."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 2",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-007",
+          "kamus_nama": "长"
+        }
+      ]
+    },
+    {
+      "name": "B. Sifat dan konsep abstrak",
+      "points": [
+        {
+          "id": "AFX.08",
+          "number": "AFX.08",
+          "title": "Akhiran —化 (huà)",
+          "fungsi": "Menunjukkan proses atau perubahan menjadi keadaan tertentu.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 化",
+              "contoh": "城市正在现代化。",
+              "pinyin": "chéng shì zhèng zài xiàn dài huà.",
+              "terjemahan": "Kota sedang mengalami modernisasi."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 化",
+              "contoh": "绿化让城市更漂亮。",
+              "pinyin": "lǜ huà ràng chéng shì gèng piào liang.",
+              "terjemahan": "Penghijauan membuat kota lebih indah."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 3",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-008",
+          "kamus_nama": "化"
+        },
+        {
+          "id": "AFX.09",
+          "number": "AFX.09",
+          "title": "Akhiran —性 (xìng)",
+          "fungsi": "Membentuk kata yang menyatakan sifat, keadaan, atau kecenderungan.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 性",
+              "contoh": "个性很重要。",
+              "pinyin": "gè xìng hěn zhòng yào.",
+              "terjemahan": "Kepribadian itu penting."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 性",
+              "contoh": "女性有自己的选择。",
+              "pinyin": "nǚ xìng yǒu zì jǐ de xuǎn zé.",
+              "terjemahan": "Perempuan mempunyai pilihan sendiri."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 3",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-009",
+          "kamus_nama": "性"
+        },
+        {
+          "id": "AFX.10",
+          "number": "AFX.10",
+          "title": "Akhiran —度 (dù)",
+          "fungsi": "Menyatakan ukuran, tingkat, atau kadar suatu keadaan.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 度",
+              "contoh": "今天的温度很高。",
+              "pinyin": "jīn tiān de wēn dù hěn gāo.",
+              "terjemahan": "Suhu hari ini tinggi."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 度",
+              "contoh": "工作速度很快。",
+              "pinyin": "gōng zuò sù dù hěn kuài.",
+              "terjemahan": "Kecepatan kerja sangat tinggi."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 2",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-010",
+          "kamus_nama": "度"
+        },
+        {
+          "id": "AFX.11",
+          "number": "AFX.11",
+          "title": "Akhiran —率 (lǜ)",
+          "fungsi": "Menyatakan perbandingan, rasio, atau tingkat dalam angka.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 率",
+              "contoh": "工作效率很重要。",
+              "pinyin": "gōng zuò xiào lǜ hěn zhòng yào.",
+              "terjemahan": "Efisiensi kerja sangat penting."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 率",
+              "contoh": "银行调整利率。",
+              "pinyin": "yín háng tiáo zhěng lì lǜ.",
+              "terjemahan": "Bank menyesuaikan suku bunga."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 4",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-011",
+          "kamus_nama": "率"
+        },
+        {
+          "id": "AFX.12",
+          "number": "AFX.12",
+          "title": "Akhiran —感 (gǎn)",
+          "fungsi": "Menyatakan perasaan, kesan, atau pengalaman batin.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 感",
+              "contoh": "我对他有好感。",
+              "pinyin": "wǒ duì tā yǒu hǎo gǎn.",
+              "terjemahan": "Saya mempunyai kesan baik terhadapnya."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 感",
+              "contoh": "这首歌表达情感。",
+              "pinyin": "zhè shǒu gē biǎo dá qíng gǎn.",
+              "terjemahan": "Lagu ini mengungkapkan perasaan."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 3",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-012",
+          "kamus_nama": "感"
+        },
+        {
+          "id": "AFX.13",
+          "number": "AFX.13",
+          "title": "Akhiran —力 (lì)",
+          "fungsi": "Menyatakan tenaga, kemampuan, atau daya untuk melakukan sesuatu.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 力",
+              "contoh": "他有很强的能力。",
+              "pinyin": "tā yǒu hěn qiáng de néng lì.",
+              "terjemahan": "Dia mempunyai kemampuan yang kuat."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 力",
+              "contoh": "他有很强的体力。",
+              "pinyin": "tā yǒu hěn qiáng de tǐ lì.",
+              "terjemahan": "Dia mempunyai tenaga fisik yang kuat."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 3",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-013",
+          "kamus_nama": "力"
+        },
+        {
+          "id": "AFX.14",
+          "number": "AFX.14",
+          "title": "Akhiran —量 (liàng)",
+          "fungsi": "Menyatakan jumlah, ukuran, atau banyaknya sesuatu.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 量",
+              "contoh": "这个数量不多。",
+              "pinyin": "zhè gě shù liàng bù duō.",
+              "terjemahan": "Jumlah ini tidak banyak."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 量",
+              "contoh": "请调整音量。",
+              "pinyin": "qǐng tiáo zhěng yīn liàng.",
+              "terjemahan": "Silakan atur volume suara."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 3",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-014",
+          "kamus_nama": "量"
+        },
+        {
+          "id": "AFX.15",
+          "number": "AFX.15",
+          "title": "Akhiran —法 (fǎ)",
+          "fungsi": "Menyatakan cara atau metode untuk melakukan sesuatu.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 法",
+              "contoh": "这个方法很好。",
+              "pinyin": "zhè gě fāng fǎ hěn hǎo.",
+              "terjemahan": "Cara ini sangat baik."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 法",
+              "contoh": "我有自己的想法。",
+              "pinyin": "wǒ yǒu zì jǐ de xiǎng fǎ.",
+              "terjemahan": "Saya mempunyai pemikiran sendiri."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 2",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-015",
+          "kamus_nama": "法"
+        },
+        {
+          "id": "AFX.16",
+          "number": "AFX.16",
+          "title": "Akhiran —观 (guān)",
+          "fungsi": "Membentuk kata tentang cara memandang atau menilai sesuatu.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 观",
+              "contoh": "他很乐观。",
+              "pinyin": "tā hěn lè guān.",
+              "terjemahan": "Dia sangat optimistis."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 观",
+              "contoh": "我们要有正确的价值观。",
+              "pinyin": "wǒ men yào yǒu zhèng què de jià zhí guān.",
+              "terjemahan": "Kita harus mempunyai nilai-nilai yang benar."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 3",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-016",
+          "kamus_nama": "观"
+        },
+        {
+          "id": "AFX.17",
+          "number": "AFX.17",
+          "title": "Akhiran —点 (diǎn)",
+          "fungsi": "Menunjukkan sisi, ciri, tempat, atau bagian tertentu.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 点",
+              "contoh": "这个地点很安静。",
+              "pinyin": "zhè gě dì diǎn hěn ān jìng.",
+              "terjemahan": "Tempat ini sangat tenang."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 点",
+              "contoh": "每个人都有优点。",
+              "pinyin": "měi gě rén dōu yǒu yōu diǎn.",
+              "terjemahan": "Setiap orang mempunyai kelebihan."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 1",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-017",
+          "kamus_nama": "点"
+        }
+      ]
+    },
+    {
+      "name": "C. Jenis dan gaya",
+      "points": [
+        {
+          "id": "AFX.18",
+          "number": "AFX.18",
+          "title": "Akhiran —型 (xíng)",
+          "fungsi": "Menunjukkan jenis, ukuran, atau model suatu benda.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 型",
+              "contoh": "这是大型机器。",
+              "pinyin": "zhè shì dà xíng jī qì.",
+              "terjemahan": "Ini mesin berukuran besar."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 型",
+              "contoh": "这种新型手机很好用。",
+              "pinyin": "zhè zhǒng xīn xíng shǒu jī hěn hǎo yòng.",
+              "terjemahan": "Model ponsel baru ini sangat mudah digunakan."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 4",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-018",
+          "kamus_nama": "型"
+        },
+        {
+          "id": "AFX.19",
+          "number": "AFX.19",
+          "title": "Akhiran —式 (shì)",
+          "fungsi": "Menunjukkan bentuk, cara, atau gaya tertentu.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 式",
+              "contoh": "我们用这种方式学习。",
+              "pinyin": "wǒ men yòng zhè zhǒng fāng shì xué xí.",
+              "terjemahan": "Kami belajar dengan cara ini."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 式",
+              "contoh": "这是正式会议。",
+              "pinyin": "zhè shì zhèng shì huì yì.",
+              "terjemahan": "Ini adalah rapat resmi."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 3",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-019",
+          "kamus_nama": "式"
+        },
+        {
+          "id": "AFX.20",
+          "number": "AFX.20",
+          "title": "Akhiran —类 (lèi)",
+          "fungsi": "Menunjukkan jenis atau kelompok sesuatu.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 类",
+              "contoh": "人类有很多种类。",
+              "pinyin": "rén lèi yǒu ⚠️ perlu dicek zhǒng lèi.",
+              "terjemahan": "Manusia memiliki banyak jenis/kelompok."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata/bidang + 类",
+              "contoh": "人类需要保护环境。",
+              "pinyin": "rén lèi xū yào bǎo hù huán jìng.",
+              "terjemahan": "Manusia perlu melindungi lingkungan."
+            }
+          ],
+          "tingkat_hsk_terendah": "HSK 3",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk",
+          "kamus_id": "AFK-020",
+          "kamus_nama": "类"
+        }
+      ]
+    }
+  ],
+  "kesalahan_umum": [],
+  "metadata": {
+    "total_points": 20,
+    "stage": "Tahap 2 — sementara",
+    "groups_completed": [
+      "A",
+      "B",
+      "C"
+    ],
+    "groups_pending": [
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J"
+    ]
+  }
+}
