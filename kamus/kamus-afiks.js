@@ -167,7 +167,8 @@
     /* tautan ke poin Tata Bahasa yang sesuai: AFK-001 -> AFX.01 */
     var nn = parseInt(String(e.id).replace(/\D/g, ''), 10), afx = 'AFX.' + (nn < 10 ? '0' : '') + nn;
     h += '<div class="afx-row" id="afx-links"><a class="card-sort-btn" href="tatabahasa.html#point=' + afx +
-         '" title="Buka poin ' + afx + ' di Tata Bahasa">📘 Tata Bahasa: ' + afx + '</a></div>';
+         '" title="Buka poin ' + afx + ' di Tata Bahasa">📘 Tata Bahasa: ' + afx + '</a>' +
+         '<a class="card-sort-btn" href="peta-bahasa.html#pilar-12" title="Buka Pelajaran Pilar 12 di Peta Bahasa">📖 Pelajaran: Pilar 12</a></div>';
     var bk = e.bukan || [];
     if (bk.length) {
       h += '<div class="afx-bk-box"><div class="afx-bk-title">Mirip tetapi bukan (' + bk.length + ') · klik kata untuk mencarinya</div>';
