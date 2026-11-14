@@ -329,7 +329,45 @@
    dimuat lazy saat level itu dibuka pertama kali).
 ═══════════════════════════════════════════════════════════════ */
 
-const TB_LEVELS = [1,2,3,4,5,6,7,8,9];
+const TB_LEVELS = [1,2,3,4,5,6,7,8,9,10];
+/* Level 10 = "Awalan & Akhiran" (60 poin AFX, data/grammar_afiks.json) */
+const TB_AFX_LEVEL = 10;
+function tbLvl(l) { return l === TB_AFX_LEVEL ? 'Awalan & Akhiran' : 'HSK ' + l; }
+function tbLvlShort(l) { return l === TB_AFX_LEVEL ? 'AFX' : 'HSK' + l; }
+/* poin lama di Tata Bahasa yang diperdalam oleh poin AFX */
+const TB_AFX_LAMA = {
+  'AFX.40': { id: 'hsk1-57', t: 'HSK 1 · poin 57 (—们 —边)' },
+  'AFX.41': { id: 'hsk3-16.3', t: 'HSK 3 · poin 16.3 (—子)' },
+  'AFX.45': { id: 'hsk1-56', t: 'HSK 1 · poin 56 (小— 第—)' }
+};
+/* buka satu poin lewat id-nya (AFX.nn atau hskN-xx), dipakai tautan #point=... dan tombol "poin lama" */
+async function tbOpenPointById(id) {
+  const m = /^hsk(\d+)-/.exec(id);
+  const lvl = m ? parseInt(m[1], 10) : (/^AFX\./.test(id) ? TB_AFX_LEVEL : null);
+  if (lvl === null) throw new Error('id poin tidak dikenal: ' + id);
+  await loadLevelData(lvl);
+  const data = TB_STATE.cache[lvl];
+  for (let ci = 0; ci < data.categories.length; ci++) {
+    if (data.categories[ci].points.some(p => p.id === id)) {
+      TB_STATE.level = lvl; TB_STATE.catIndex = ci;
+      goToDetailScreen(id);
+      return;
+    }
+  }
+  throw new Error('poin tidak ditemukan: ' + id);
+}
+/* tambahan di rincian poin AFX: tingkat HSK terendah + tombol ke Kamus (+ poin lama) */
+function tbAfxExtra(point) {
+  if (!point || !point.kamus_id) return '';
+  let h = '';
+  if (point.tingkat_hsk_terendah) {
+    h += `<div class="tb-detail-fungsi"><strong>Tingkat HSK terendah:</strong> ${escHtml(point.tingkat_hsk_terendah)}</div>`;
+  }
+  const links = [`<a class="tb-back-btn" style="text-decoration:none" href="kamus.html#group=afiks:${encodeURIComponent(point.kamus_nama)}">📖 Lihat di Kamus: ${escHtml(point.kamus_nama)}</a>`];
+  const lama = TB_AFX_LAMA[point.number];
+  if (lama) links.push(`<button class="tb-back-btn" onclick="tbOpenPointById('${lama.id}')">↩ Poin lama: ${escHtml(lama.t)}</button>`);
+  return h + `<div class="tb-detail-fungsi" style="display:flex;flex-wrap:wrap;gap:8px">${links.join('')}</div>`;
+}
 
 /* Cross-link ke Word Builder: poin gramatika id -> kunci pola Word Builder
    (lihat PATTERNS di wordbuilder.html). Dipetakan manual dengan cek satu-
@@ -431,7 +469,7 @@ function restoreTbLastState() {
 /* ── MUAT DATA LEVEL (lazy, di-cache) ──────────────────────── */
 async function loadLevelData(level) {
   if (TB_STATE.cache[level]) return TB_STATE.cache[level];
-  const res = await fetch(`data/grammar_hsk${level}.json`);
+  const res = await fetch(level === TB_AFX_LEVEL ? 'data/grammar_afiks.json' : `data/grammar_hsk${level}.json`);
   if (!res.ok) throw new Error('HTTP ' + res.status);
   const data = await res.json();
   TB_STATE.cache[level] = data;
@@ -452,7 +490,7 @@ function renderBreadcrumb() {
   }
   if (TB_STATE.level) {
     parts.push(`<span class="tb-sep">›</span>`);
-    parts.push(`<span class="tb-crumb-link" onclick="goToCategoryScreen(${TB_STATE.level})">HSK ${TB_STATE.level}</span>`);
+    parts.push(`<span class="tb-crumb-link" onclick="goToCategoryScreen(${TB_STATE.level})">${tbLvl(TB_STATE.level)}</span>`);
   }
   if (TB_STATE.screen === 'points' && TB_STATE.catIndex !== null) {
     const cat = TB_STATE.cache[TB_STATE.level].categories[TB_STATE.catIndex];
@@ -497,8 +535,8 @@ async function goToLevelScreen() {
     <button class="tb-toc-cta" onclick="goToTocScreen()">📑 Lihat Daftar Isi — semua topik, semua level HSK</button>
     <div class="tb-level-grid">
       ${TB_LEVELS.map(lvl => `
-        <div class="tb-level-card" onclick="goToCategoryScreen(${lvl})">
-          <div class="tb-level-num">HSK ${lvl}</div>
+        <div class="tb-level-card" onclick="goToCategoryScreen(${lvl})"${lvl === TB_AFX_LEVEL ? ' style="grid-column:1/-1"' : ''}>
+          <div class="tb-level-num">${lvl === TB_AFX_LEVEL ? '🧩 Awalan & Akhiran' : 'HSK ' + lvl}</div>
           <div class="tb-level-count">${counts[lvl] === null ? 'data belum ada' : counts[lvl] + ' poin'}</div>
         </div>
       `).join('')}
@@ -513,13 +551,13 @@ async function goToCategoryScreen(level) {
   saveTbLastState();
 
   const area = $('tb-main-area');
-  area.innerHTML = `<div class="tb-empty">Memuat kategori HSK ${level}…</div>`;
+  area.innerHTML = `<div class="tb-empty">Memuat kategori ${tbLvl(level)}…</div>`;
 
   let data;
   try {
     data = await loadLevelData(level);
   } catch (e) {
-    area.innerHTML = `<div class="tb-empty">⚠ Gagal memuat data HSK ${level}.<br>Pastikan <code>data/grammar_hsk${level}.json</code> ada di folder <code>data/</code>.</div>`;
+    area.innerHTML = `<div class="tb-empty">⚠ Gagal memuat data ${tbLvl(level)}.<br>Pastikan <code>data/${level === TB_AFX_LEVEL ? 'grammar_afiks' : 'grammar_hsk' + level}.json</code> ada di folder <code>data/</code>.</div>`;
     return;
   }
   renderBreadcrumb();
@@ -616,6 +654,7 @@ function goToDetailScreen(pointId) {
     <button class="tb-back-btn" onclick="goToPointsScreen(${TB_STATE.level}, ${TB_STATE.catIndex})">◀ ${escHtml(cat.name)}</button>
     <div class="tb-detail-title">${escHtml(point.title)}</div>
     ${point.fungsi ? `<div class="tb-detail-fungsi"><strong>Fungsi:</strong> ${escHtml(point.fungsi)}</div>` : ''}
+    ${tbAfxExtra(point)}
     ${patternKey ? `
       <button onclick="goToWordBuilderPattern('${patternKey}')"
         style="align-self:flex-start;margin:8px 0 0;padding:8px 16px;border-radius:var(--radius);border:1px solid var(--gold-dim);background:var(--bg-card2);color:var(--gold);font-size:0.85rem;font-weight:600;cursor:pointer">
@@ -733,6 +772,16 @@ const CATEGORY_TOPIC_MAP = {
   "Prefix & Suffix": "Prefix & Suffix (Imbuhan)",
   "准前缀 (Quasi-Prefixes) dan 准后缀 (Quasi-Suffixes)": "Prefix & Suffix (Imbuhan)",
   "准词缀 (Quasi-Affixes)": "Prefix & Suffix (Imbuhan)",
+  "A. Orang/pelaku": "Prefix & Suffix (Imbuhan)",
+  "B. Sifat dan konsep abstrak": "Prefix & Suffix (Imbuhan)",
+  "C. Jenis dan gaya": "Prefix & Suffix (Imbuhan)",
+  "D. Bidang dan ilmu": "Prefix & Suffix (Imbuhan)",
+  "E. Tempat dan lembaga": "Prefix & Suffix (Imbuhan)",
+  "F. Alat, barang, biaya": "Prefix & Suffix (Imbuhan)",
+  "G. Pelengkap kata benda": "Prefix & Suffix (Imbuhan)",
+  "H. Penanda awal kata": "Prefix & Suffix (Imbuhan)",
+  "I. Menolak/meniadakan": "Prefix & Suffix (Imbuhan)",
+  "J. Tingkat dan keseluruhan": "Prefix & Suffix (Imbuhan)",
   "KATA KERJA TERPISAH (Separable Verbs / 离合词)": "Kata Kerja Terpisah (Separable Verbs / 离合词)",
   "KATA KERJA TERPISAH (Separable Verbs / 离合词) HSK2": "Kata Kerja Terpisah (Separable Verbs / 离合词)",
   "KATA KERJA TERPISAH & AKHIRAN (HSK3)": "Kata Kerja Terpisah (Separable Verbs / 离合词)",
@@ -853,14 +902,14 @@ function renderTocList() {
         <div class="tb-toc-group-header" onclick="toggleTocGroup(${idx})">
           <span class="tb-toc-group-name">${escHtml(group.name)}</span>
           <span class="tb-toc-group-meta">
-            ${items.length} poin · HSK ${levelsSet.join(',')}
+            ${items.length} poin · ${levelsSet.map(tbLvlShort).join(', ')}
             <span class="tb-toc-arrow">▶</span>
           </span>
         </div>
         <div class="tb-toc-sub-list">
           ${items.map(it => `
             <div class="tb-toc-sub-item" onclick="jumpToTocPoint(${it.level}, ${it.catIndex}, '${it.point.id}')">
-              <span class="tb-toc-sub-title"><span class="tb-toc-sub-level">HSK${it.level}</span>${escHtml(it.point.title)}</span>
+              <span class="tb-toc-sub-title"><span class="tb-toc-sub-level">${tbLvlShort(it.level)}</span>${escHtml(it.point.title)}</span>
               <span class="tb-point-arrow">▶</span>
             </div>
           `).join('')}
@@ -955,7 +1004,7 @@ async function renderGlobalSearchScreen(rawQuery) {
       ${results.map(r => `
         <div class="tb-point-card" onclick="openSearchResult(${r.level}, ${r.catIndex}, '${r.point.id}')">
           <span class="tb-point-title">
-            <span class="tb-point-num">HSK${r.level}</span>${escHtml(r.catName)} — ${escHtml(r.point.title)}
+            <span class="tb-point-num">${tbLvlShort(r.level)}</span>${escHtml(r.catName)} — ${escHtml(r.point.title)}
           </span>
           <span class="tb-point-arrow">▶</span>
         </div>
@@ -976,6 +1025,12 @@ async function initTataBahasa() {
   // Daftar Isi), bukan cuma grid HSK kosong.
   if (location.hash === '#toc') {
     try { await goToTocScreen(); } catch (e) { console.error('Gagal buka Daftar Isi:', e); goToLevelScreen(); }
+    return;
+  }
+  const ptMatch = location.hash.match(/^#point=(.+)$/);
+  if (ptMatch) {
+    try { await tbOpenPointById(decodeURIComponent(ptMatch[1])); }
+    catch (e) { console.error('Gagal membuka poin:', e); goToLevelScreen(); }
     return;
   }
   const hashMatch = location.hash.match(/^#search=(.+)$/);
