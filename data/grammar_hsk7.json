@@ -37,7 +37,7 @@
      "id": "hsk7-1.2",
      "number": "1.2",
      "title": "粒 (lì) - Untuk Benda Kecil Bulat",
-     "fungsi": "Untuk benda kecil berbentuk bulat (butiran) [citation:5].",
+     "fungsi": "Untuk benda kecil berbentuk bulat (butiran).",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -73,7 +73,7 @@
      "id": "hsk7-1.3",
      "number": "1.3",
      "title": "枚 (méi) - Untuk Benda Kecil/Pipih",
-     "fungsi": "Untuk benda kecil yang pipih atau berbentuk koin [citation:5].",
+     "fungsi": "Untuk benda kecil yang pipih atau berbentuk koin.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -102,7 +102,7 @@
      "id": "hsk7-1.4",
      "number": "1.4",
      "title": "则 (zé) - Untuk Berita/Cerita",
-     "fungsi": "Untuk berita, cerita pendek, atau pengumuman [citation:5].",
+     "fungsi": "Untuk berita, cerita pendek, atau pengumuman.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -160,7 +160,7 @@
      "id": "hsk7-1.6",
      "number": "1.6",
      "title": "幢 (zhuàng) - Untuk Bangunan Besar",
-     "fungsi": "Untuk bangunan besar [citation:5].",
+     "fungsi": "Untuk bangunan besar.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -189,7 +189,7 @@
      "id": "hsk7-1.7",
      "number": "1.7",
      "title": "宗 (zōng) - Untuk Kasus/Urusan",
-     "fungsi": "Untuk kasus, urusan, atau transaksi [citation:5].",
+     "fungsi": "Untuk kasus, urusan, atau transaksi.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -218,7 +218,7 @@
      "id": "hsk7-1.8",
      "number": "1.8",
      "title": "人次 (réncì) - Orang-Kali (Compound Measure Word)",
-     "fungsi": "Kata penggolong gabungan untuk menghitung jumlah orang dikali jumlah kejadian [citation:5].",
+     "fungsi": "Kata penggolong gabungan untuk menghitung jumlah orang dikali jumlah kejadian.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -252,7 +252,7 @@
      "id": "hsk7-2.1",
      "number": "2.1",
      "title": "大为 (dàwéi) - Sangat (Formal)",
-     "fungsi": "Menyatakan \"sangat\" atau \"besar\" untuk perubahan/perasaan [citation:5].",
+     "fungsi": "Menyatakan \"sangat\" atau \"besar\" untuk perubahan/perasaan.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -281,7 +281,7 @@
      "id": "hsk7-2.2",
      "number": "2.2",
      "title": "分外 (fènwài) - Sangat (Luar Biasa)",
-     "fungsi": "Menyatakan \"luar biasa\" atau \"sangat\" [citation:5].",
+     "fungsi": "Menyatakan \"luar biasa\" atau \"sangat\".",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -397,7 +397,7 @@
      "id": "hsk7-2.6",
      "number": "2.6",
      "title": "越发 / 愈加 (yuèfā / yùjiā) - Semakin",
-     "fungsi": "Menyatakan \"semakin\" untuk perubahan [citation:5].",
+     "fungsi": "Menyatakan \"semakin\" untuk perubahan.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -411,7 +411,7 @@
        "pola": "愈加 + Adj",
        "contoh": "愈加严重",
        "pinyin": "Yùjiā yánzhòng",
-       "terjemahan": "Semakin serius [citation:5]"
+       "terjemahan": "Semakin serius"
       },
       {
        "jenis": "Deklaratif",
@@ -426,7 +426,7 @@
      "id": "hsk7-2.7",
      "number": "2.7",
      "title": "屡屡 (lǚlǚ) - Berulang Kali",
-     "fungsi": "Menyatakan \"berulang kali\" [citation:5].",
+     "fungsi": "Menyatakan \"berulang kali\".",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -447,7 +447,7 @@
        "pola": "Subjek + 屡屡 + Verb",
        "contoh": "他屡次犯同样的错误。",
        "pinyin": "Tā lǚcì fàn tóngyàng de cuòwù.",
-       "terjemahan": "Dia berulang kali membuat kesalahan yang sama. [citation:5]"
+       "terjemahan": "Dia berulang kali membuat kesalahan yang sama."
       }
      ]
     },
@@ -455,7 +455,7 @@
      "id": "hsk7-2.8",
      "number": "2.8",
      "title": "始终 (shǐzhōng) - Sepanjang Waktu",
-     "fungsi": "Menyatakan konsistensi dari awal hingga akhir [citation:5].",
+     "fungsi": "Menyatakan konsistensi dari awal hingga akhir.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -484,21 +484,21 @@
      "id": "hsk7-2.9",
      "number": "2.9",
      "title": "一连 (yīlián) - Berturut-turut",
-     "fungsi": "Menyatakan \"berturut-turut\" [citation:5].",
+     "fungsi": "Menyatakan \"berturut-turut\".",
      "table": [
       {
        "jenis": "Afirmatif",
        "pola": "一连 + 数量 + 时间 + Verb",
        "contoh": "一连三天下雨",
        "pinyin": "Yīlián sān tiān xiàyǔ",
-       "terjemahan": "Hujan tiga hari berturut-turut [citation:5]"
+       "terjemahan": "Hujan tiga hari berturut-turut"
       },
       {
        "jenis": "Afirmatif",
        "pola": "一连 + 数量 + Verb",
        "contoh": "一连问了三个问题",
        "pinyin": "Yīlián wèn le sān gè wèntí",
-       "terjemahan": "Bertanya tiga pertanyaan berturut-turut [citation:5]"
+       "terjemahan": "Bertanya tiga pertanyaan berturut-turut"
       },
       {
        "jenis": "Deklaratif",
@@ -601,14 +601,14 @@
      "id": "hsk7-2.14",
      "number": "2.14",
      "title": "索性 (suǒxìng) - Begitu Saja",
-     "fungsi": "Menyatakan \"begitu saja\" atau \"mending\" [citation:5].",
+     "fungsi": "Menyatakan \"begitu saja\" atau \"mending\".",
      "table": [
       {
        "jenis": "Afirmatif",
        "pola": "索性 + Verb",
        "contoh": "索性直接说清楚",
        "pinyin": "Suǒxìng zhíjiē shuō qīngchu",
-       "terjemahan": "Mending langsung bilang jelas [citation:5]"
+       "terjemahan": "Mending langsung bilang jelas"
       },
       {
        "jenis": "Afirmatif",
@@ -694,7 +694,7 @@
      "id": "hsk7-3.2",
      "number": "3.2",
      "title": "当着 (dāng zhe) - Di Hadapan",
-     "fungsi": "Menunjukkan \"di hadapan\" seseorang [citation:5].",
+     "fungsi": "Menunjukkan \"di hadapan\" seseorang.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -716,7 +716,7 @@
      "id": "hsk7-3.3",
      "number": "3.3",
      "title": "就 (jiù) - Mengenai (Formal)",
-     "fungsi": "Preposisi formal yang berarti \"mengenai\" [citation:5].",
+     "fungsi": "Preposisi formal yang berarti \"mengenai\".",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -738,14 +738,14 @@
      "id": "hsk7-3.4",
      "number": "3.4",
      "title": "基于 (jīyú) - Berdasarkan (Formal)",
-     "fungsi": "Menunjukkan dasar atau landasan dalam konteks formal [citation:5].",
+     "fungsi": "Menunjukkan dasar atau landasan dalam konteks formal.",
      "table": [
       {
        "jenis": "Afirmatif",
        "pola": "基于 + Dasar + Verb",
        "contoh": "基于以上分析，……",
        "pinyin": "Jīyú yǐshàng fēnxī, ...",
-       "terjemahan": "Berdasarkan analisis di atas... [citation:5]"
+       "terjemahan": "Berdasarkan analisis di atas..."
       },
       {
        "jenis": "Afirmatif",
@@ -760,7 +760,7 @@
      "id": "hsk7-3.5",
      "number": "3.5",
      "title": "依 (yī) - Menurut (Formal)",
-     "fungsi": "Bentuk formal dari 按照 [citation:5].",
+     "fungsi": "Bentuk formal dari 按照.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -809,7 +809,7 @@
      "id": "hsk7-4.1",
      "number": "4.1",
      "title": "及 (jí) - Dan (Formal)",
-     "fungsi": "Konjungsi formal yang berarti \"dan\" [citation:9].",
+     "fungsi": "Konjungsi formal yang berarti \"dan\".",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -875,7 +875,7 @@
      "id": "hsk7-4.4",
      "number": "4.4",
      "title": "之所以...是因为... (zhīsuǒyǐ...shì yīnwèi...) - Alasan...adalah karena...",
-     "fungsi": "Menyatakan efek sebelum penyebab [citation:5].",
+     "fungsi": "Menyatakan efek sebelum penyebab.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1018,7 +1018,7 @@
      "id": "hsk7-6.1",
      "number": "6.1",
      "title": "总而言之 (zǒng'éryánzhī) - Singkatnya",
-     "fungsi": "Menyimpulkan [citation:2][citation:5].",
+     "fungsi": "Menyimpulkan.",
      "table": [
       {
        "jenis": "Deklaratif",
@@ -1033,7 +1033,7 @@
      "id": "hsk7-6.2",
      "number": "6.2",
      "title": "说到底 (shuōdàodǐ) - Pada Dasarnya",
-     "fungsi": "Menyatakan inti/intisari [citation:5].",
+     "fungsi": "Menyatakan inti/intisari.",
      "table": [
       {
        "jenis": "Deklaratif",
@@ -1048,7 +1048,7 @@
      "id": "hsk7-6.3",
      "number": "6.3",
      "title": "那倒是 (nà dàoshi) - Benar Juga",
-     "fungsi": "Mengakui sudut pandang lawan bicara [citation:2][citation:5].",
+     "fungsi": "Mengakui sudut pandang lawan bicara.",
      "table": [
       {
        "jenis": "Deklaratif",
@@ -1063,7 +1063,7 @@
      "id": "hsk7-6.4",
      "number": "6.4",
      "title": "不管三七二十一 (bùguǎn sānqī èrshíyī) - Tidak Peduli Apa Pun",
-     "fungsi": "Menyatakan \"tidak peduli apa pun\" dengan konotasi impulsif [citation:2][citation:5].",
+     "fungsi": "Menyatakan \"tidak peduli apa pun\" dengan konotasi impulsif.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1078,7 +1078,7 @@
      "id": "hsk7-6.5",
      "number": "6.5",
      "title": "何...为 (hé...wéi) - Untuk Apa (Retoris)",
-     "fungsi": "Pertanyaan retoris \"untuk apa\" dalam bahasa sastra [citation:2].",
+     "fungsi": "Pertanyaan retoris \"untuk apa\" dalam bahasa sastra.",
      "table": [
       {
        "jenis": "Interogatif",
@@ -1093,7 +1093,7 @@
      "id": "hsk7-6.6",
      "number": "6.6",
      "title": "非...不可 (fēi...bùkě) - Harus (Formal)",
-     "fungsi": "Menyatakan keharusan yang kuat dalam konteks formal [citation:2].",
+     "fungsi": "Menyatakan keharusan yang kuat dalam konteks formal.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1115,7 +1115,7 @@
      "id": "hsk7-6.7",
      "number": "6.7",
      "title": "如此一来 (yīcǐ yīlái) - Dengan Demikian",
-     "fungsi": "Menyatakan \"dengan demikian\" untuk kesimpulan logis [citation:5].",
+     "fungsi": "Menyatakan \"dengan demikian\" untuk kesimpulan logis.",
      "table": [
       {
        "jenis": "Deklaratif",
@@ -1130,7 +1130,7 @@
      "id": "hsk7-6.8",
      "number": "6.8",
      "title": "一言以蔽之 (yīyán yǐ bì zhī) - Singkatnya",
-     "fungsi": "Menyatakan \"singkatnya\" untuk menyimpulkan [citation:2].",
+     "fungsi": "Menyatakan \"singkatnya\" untuk menyimpulkan.",
      "table": [
       {
        "jenis": "Deklaratif",
@@ -1193,7 +1193,7 @@
      "id": "hsk7-7.3",
      "number": "7.3",
      "title": "非...不可 (fēi...bùkě) - Harus (Formal)",
-     "fungsi": "Menyatakan keharusan yang kuat [citation:2].",
+     "fungsi": "Menyatakan keharusan yang kuat.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1215,7 +1215,7 @@
      "id": "hsk7-7.4",
      "number": "7.4",
      "title": "何不... (hébù...) - Mengapa Tidak...?",
-     "fungsi": "Saran retoris [citation:5].",
+     "fungsi": "Saran retoris.",
      "table": [
       {
        "jenis": "Interogatif",
@@ -1230,7 +1230,7 @@
      "id": "hsk7-7.5",
      "number": "7.5",
      "title": "岂... (qǐ...) - Bukankah... (Retoris Formal)",
-     "fungsi": "Pertanyaan retoris \"bukankah\" [citation:2][citation:5].",
+     "fungsi": "Pertanyaan retoris \"bukankah\".",
      "table": [
       {
        "jenis": "Interogatif",
@@ -1252,7 +1252,7 @@
      "id": "hsk7-7.6",
      "number": "7.6",
      "title": "不堪 (bùkān) - Sangat/Tidak Tahan",
-     "fungsi": "Komplemen derajat yang menyatakan \"tidak tahan\" atau \"sangat\" [citation:2].",
+     "fungsi": "Komplemen derajat yang menyatakan \"tidak tahan\" atau \"sangat\".",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1274,7 +1274,7 @@
      "id": "hsk7-7.7",
      "number": "7.7",
      "title": "莫过于 (mòguòyú) - Tidak Ada yang...dari...",
-     "fungsi": "Menyatakan \"tidak ada yang lebih...\" [citation:2].",
+     "fungsi": "Menyatakan \"tidak ada yang lebih...\".",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1289,7 +1289,7 @@
      "id": "hsk7-7.8",
      "number": "7.8",
      "title": "之多 (zhīduō) - Sebanyak",
-     "fungsi": "Menyatakan \"sebanyak\" untuk menekankan jumlah [citation:5].",
+     "fungsi": "Menyatakan \"sebanyak\" untuk menekankan jumlah.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1893,7 +1893,7 @@
    "kategori": "",
    "salah": "他不同意，以及后来同意了。",
    "benar": "他不同意，继而同意了。",
-   "penjelasan": "继而 untuk urutan waktu; 以及 untuk daftar [citation:9]"
+   "penjelasan": "继而 untuk urutan waktu; 以及 untuk daftar"
   },
   {
    "kategori": "",
@@ -1929,7 +1929,7 @@
    "kategori": "",
    "salah": "我想休息休息一下。",
    "benar": "我想休息休息。",
-   "penjelasan": "Jangan gabungkan dua bentuk pengulangan [citation:12]"
+   "penjelasan": "Jangan gabungkan dua bentuk pengulangan"
   }
  ]
 }
