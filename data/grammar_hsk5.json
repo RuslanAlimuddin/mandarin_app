@@ -8,7 +8,7 @@
      "id": "hsk5-1.1",
      "number": "1.1",
      "title": "不得不 (bùdébù) - Terpaksa / Harus (Doubel Negasi)",
-     "fungsi": "Menggunakan negasi ganda untuk menekankan bahwa tidak ada pilihan lain selain melakukan tindakan[citation:6].",
+     "fungsi": "Menggunakan negasi ganda untuk menekankan bahwa tidak ada pilihan lain selain melakukan tindakan.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -51,7 +51,7 @@
      "id": "hsk5-1.2",
      "number": "1.2",
      "title": "难免 (nánmiǎn) - Tidak Terhindarkan / Mau Tidak Mau",
-     "fungsi": "Menyatakan bahwa suatu tindakan atau hasil sulit dihindari[citation:10].",
+     "fungsi": "Menyatakan bahwa suatu tindakan atau hasil sulit dihindari.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -271,7 +271,7 @@
      "id": "hsk5-3.1",
      "number": "3.1",
      "title": "嘛 (ma) - Partikel Penanda Topik",
-     "fungsi": "Menandai topik atau melembutkan nada, sering digunakan dalam percakapan informal[citation:7][citation:10].",
+     "fungsi": "Menandai topik atau melembutkan nada, sering digunakan dalam percakapan informal.",
      "table": [
       {
        "jenis": "Deklaratif",
@@ -300,7 +300,7 @@
      "id": "hsk5-3.2",
      "number": "3.2",
      "title": "得 (de) - Komplemen (Lanjutan)",
-     "fungsi": "Menghubungkan kata kerja dengan komplemen keadaan (tingkat lanjut)[citation:7][citation:10].",
+     "fungsi": "Menghubungkan kata kerja dengan komplemen keadaan (tingkat lanjut).",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -356,7 +356,7 @@
      "id": "hsk5-4.1",
      "number": "4.1",
      "title": "曾经 (céngjīng) - Pernah (Formal)",
-     "fungsi": "Menyatakan pengalaman di masa lalu (lebih formal dari 过)[citation:6][citation:7][citation:10].",
+     "fungsi": "Menyatakan pengalaman di masa lalu (lebih formal dari 过).",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -392,7 +392,7 @@
      "id": "hsk5-4.2",
      "number": "4.2",
      "title": "终于 (zhōngyú) - Akhirnya",
-     "fungsi": "Menyatakan \"akhirnya\" setelah menunggu lama[citation:6].",
+     "fungsi": "Menyatakan \"akhirnya\" setelah menunggu lama.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -428,7 +428,7 @@
      "id": "hsk5-4.3",
      "number": "4.3",
      "title": "到底 (dàodǐ) - Akhirnya / Sebenarnya",
-     "fungsi": "Menekankan pertanyaan atau menunjukkan bahwa sesuatu akhirnya terjadi[citation:7][citation:10].",
+     "fungsi": "Menekankan pertanyaan atau menunjukkan bahwa sesuatu akhirnya terjadi.",
      "table": [
       {
        "jenis": "Interogatif",
@@ -457,7 +457,7 @@
      "id": "hsk5-4.4",
      "number": "4.4",
      "title": "究竟 (jiūjìng) - Sebenarnya",
-     "fungsi": "Menekankan pertanyaan (serupa dengan 到底, lebih formal)[citation:7][citation:10].",
+     "fungsi": "Menekankan pertanyaan (serupa dengan 到底, lebih formal).",
      "table": [
       {
        "jenis": "Interogatif",
@@ -479,7 +479,7 @@
      "id": "hsk5-4.5",
      "number": "4.5",
      "title": "反正 (fǎnzhèng) - Bagaimanapun / Pokoknya",
-     "fungsi": "Menyatakan \"bagaimanapun\" atau \"pokoknya\", menekankan bahwa hasil tetap sama[citation:6][citation:7][citation:10].",
+     "fungsi": "Menyatakan \"bagaimanapun\" atau \"pokoknya\", menekankan bahwa hasil tetap sama.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -501,7 +501,7 @@
      "id": "hsk5-4.6",
      "number": "4.6",
      "title": "毕竟 (bìjìng) - Bagaimanapun / Setelah semua",
-     "fungsi": "Menyatakan \"setelah semua\" atau \"bagaimanapun\", sering digunakan untuk memberikan alasan[citation:6][citation:7][citation:10].",
+     "fungsi": "Menyatakan \"setelah semua\" atau \"bagaimanapun\", sering digunakan untuk memberikan alasan.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -523,7 +523,7 @@
      "id": "hsk5-4.7",
      "number": "4.7",
      "title": "简直 (jiǎnzhí) - Sungguh / Benar-benar",
-     "fungsi": "Menyatakan \"sungguh\" atau \"benar-benar\" untuk penekanan[citation:7][citation:10].",
+     "fungsi": "Menyatakan \"sungguh\" atau \"benar-benar\" untuk penekanan.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -552,7 +552,7 @@
      "id": "hsk5-4.8",
      "number": "4.8",
      "title": "再三 (zàisān) - Berulang Kali",
-     "fungsi": "Menyatakan \"berulang kali\" untuk tindakan yang diulang dengan penekanan[citation:7][citation:10].",
+     "fungsi": "Menyatakan \"berulang kali\" untuk tindakan yang diulang dengan penekanan.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -581,7 +581,7 @@
      "id": "hsk5-4.9",
      "number": "4.9",
      "title": "顺便 (shùnbiàn) - Sekalian / Sambil",
-     "fungsi": "Menyatakan melakukan sesuatu sekalian saat melakukan hal lain[citation:7][citation:10].",
+     "fungsi": "Menyatakan melakukan sesuatu sekalian saat melakukan hal lain.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -603,7 +603,7 @@
      "id": "hsk5-4.10",
      "number": "4.10",
      "title": "白 (bái) - Sia-sia",
-     "fungsi": "Menyatakan upaya sia-sia atau hasil yang tidak berguna[citation:7][citation:10].",
+     "fungsi": "Menyatakan upaya sia-sia atau hasil yang tidak berguna.",
      "table": [
       {
        "jenis": "Negatif",
@@ -632,7 +632,7 @@
      "id": "hsk5-4.11",
      "number": "4.11",
      "title": "尽量 (jǐnliàng) - Sebisanya / Seoptimal mungkin",
-     "fungsi": "Menyatakan \"sebisanya\" atau \"seoptimal mungkin\"[citation:7][citation:10].",
+     "fungsi": "Menyatakan \"sebisanya\" atau \"seoptimal mungkin\".",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -654,7 +654,7 @@
      "id": "hsk5-4.12",
      "number": "4.12",
      "title": "好不容易 (hǎobù róngyì) - Dengan susah payah / Hampir tidak",
-     "fungsi": "Menyatakan bahwa sesuatu dilakukan dengan susah payah atau hampir tidak terjadi[citation:7][citation:10].",
+     "fungsi": "Menyatakan bahwa sesuatu dilakukan dengan susah payah atau hampir tidak terjadi.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -683,7 +683,7 @@
      "id": "hsk5-4.13",
      "number": "4.13",
      "title": "差一点 (chà yìdiǎn) / 差点儿 (chàdiǎnr) - Hampir",
-     "fungsi": "Menyatakan \"hampir\" (tindakan hampir terjadi tetapi tidak)[citation:6][citation:7][citation:10].",
+     "fungsi": "Menyatakan \"hampir\" (tindakan hampir terjadi tetapi tidak).",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -712,7 +712,7 @@
      "id": "hsk5-4.14",
      "number": "4.14",
      "title": "再也不 (zài yě bù) - Tidak akan lagi",
-     "fungsi": "Menyatakan \"tidak akan pernah lagi\"[citation:7][citation:10].",
+     "fungsi": "Menyatakan \"tidak akan pernah lagi\".",
      "table": [
       {
        "jenis": "Negatif",
@@ -741,7 +741,7 @@
      "id": "hsk5-4.15",
      "number": "4.15",
      "title": "反正 (fǎnzhèng) - Bagaimanapun juga",
-     "fungsi": "Menyatakan \"bagaimanapun juga\" untuk menunjukkan bahwa hasil tetap sama[citation:6][citation:7][citation:10].",
+     "fungsi": "Menyatakan \"bagaimanapun juga\" untuk menunjukkan bahwa hasil tetap sama.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -763,7 +763,7 @@
      "id": "hsk5-4.16",
      "number": "4.16",
      "title": "尽量 (jǐnliàng) - Sebisanya",
-     "fungsi": "Menyatakan \"sebisanya\" atau \"seoptimal mungkin\"[citation:7][citation:10].",
+     "fungsi": "Menyatakan \"sebisanya\" atau \"seoptimal mungkin\".",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -790,7 +790,7 @@
      "id": "hsk5-5.1",
      "number": "5.1",
      "title": "对于 (duìyú) - Mengenai",
-     "fungsi": "Menunjukkan topik (formal, untuk memperkenalkan subjek pembicaraan)[citation:7][citation:10].",
+     "fungsi": "Menunjukkan topik (formal, untuk memperkenalkan subjek pembicaraan).",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -812,7 +812,7 @@
      "id": "hsk5-5.2",
      "number": "5.2",
      "title": "关于 (guānyú) - Tentang",
-     "fungsi": "Menunjukkan topik (serupa dengan 对于)[citation:7][citation:10].",
+     "fungsi": "Menunjukkan topik (serupa dengan 对于).",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -827,7 +827,7 @@
      "id": "hsk5-5.3",
      "number": "5.3",
      "title": "根据 (gēnjù) - Berdasarkan",
-     "fungsi": "Menunjukkan dasar atau landasan[citation:7][citation:10].",
+     "fungsi": "Menunjukkan dasar atau landasan.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -849,7 +849,7 @@
      "id": "hsk5-5.4",
      "number": "5.4",
      "title": "通过 (tōngguò) - Melalui",
-     "fungsi": "Menunjukkan cara atau metode[citation:7][citation:10].",
+     "fungsi": "Menunjukkan cara atau metode.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -864,7 +864,7 @@
      "id": "hsk5-5.5",
      "number": "5.5",
      "title": "按照 (ànzhào) - Sesuai dengan",
-     "fungsi": "Menunjukkan kepatuhan terhadap aturan[citation:7][citation:10].",
+     "fungsi": "Menunjukkan kepatuhan terhadap aturan.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -886,7 +886,7 @@
      "id": "hsk5-5.6",
      "number": "5.6",
      "title": "当...的时候 (dāng...de shíhou) - Ketika",
-     "fungsi": "Menyatakan waktu ketika sesuatu terjadi[citation:7][citation:10].",
+     "fungsi": "Menyatakan waktu ketika sesuatu terjadi.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -908,7 +908,7 @@
      "id": "hsk5-5.7",
      "number": "5.7",
      "title": "至于 (zhìyú) - Mengenai / Sejauh menyangkut",
-     "fungsi": "Menunjukkan topik, sering untuk mengalihkan topik ke hal lain[citation:7][citation:10].",
+     "fungsi": "Menunjukkan topik, sering untuk mengalihkan topik ke hal lain.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -930,7 +930,7 @@
      "id": "hsk5-5.8",
      "number": "5.8",
      "title": "凭 (píng) - Berdasarkan / Mengandalkan",
-     "fungsi": "Menunjukkan dasar atau landasan, sering untuk keterampilan atau usaha[citation:7][citation:10].",
+     "fungsi": "Menunjukkan dasar atau landasan, sering untuk keterampilan atau usaha.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -952,7 +952,7 @@
      "id": "hsk5-5.9",
      "number": "5.9",
      "title": "趁着 (chèn zhe) - Selagi / Memanfaatkan",
-     "fungsi": "Menunjukkan memanfaatkan kesempatan atau kondisi[citation:7][citation:10].",
+     "fungsi": "Menunjukkan memanfaatkan kesempatan atau kondisi.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -979,7 +979,7 @@
      "id": "hsk5-6.1",
      "number": "6.1",
      "title": "既然...就... (jìrán...jiù...) - Karena...maka...",
-     "fungsi": "Menyatakan sebab-akibat dengan alasan yang jelas[citation:2][citation:9][citation:10].",
+     "fungsi": "Menyatakan sebab-akibat dengan alasan yang jelas.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1015,7 +1015,7 @@
      "id": "hsk5-6.2",
      "number": "6.2",
      "title": "即使...也... (jíshǐ...yě...) - Bahkan jika...tetap...",
-     "fungsi": "Menyatakan kondisi hipotetis yang kuat (meskipun kondisi ekstrem, hasil tetap sama)[citation:2][citation:10].",
+     "fungsi": "Menyatakan kondisi hipotetis yang kuat (meskipun kondisi ekstrem, hasil tetap sama).",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1044,7 +1044,7 @@
      "id": "hsk5-6.3",
      "number": "6.3",
      "title": "无论...都/也... (wúlùn...dōu/yě...) - Tidak peduli...tetap...",
-     "fungsi": "Menyatakan tidak peduli dengan kondisi, hasil tetap sama[citation:2][citation:10].",
+     "fungsi": "Menyatakan tidak peduli dengan kondisi, hasil tetap sama.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1073,7 +1073,7 @@
      "id": "hsk5-6.4",
      "number": "6.4",
      "title": "不管...都... (bùguǎn...dōu...) - Tidak peduli...tetap...",
-     "fungsi": "Serupa dengan 无论, lebih kolokial[citation:2][citation:10].",
+     "fungsi": "Serupa dengan 无论, lebih kolokial.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1095,7 +1095,7 @@
      "id": "hsk5-6.5",
      "number": "6.5",
      "title": "不仅...而且... (bùjǐn...érqiě...) - Tidak hanya...tetapi juga...",
-     "fungsi": "Menyatakan penambahan informasi (lebih formal daripada 不但...而且...)[citation:2][citation:9][citation:10].",
+     "fungsi": "Menyatakan penambahan informasi (lebih formal daripada 不但...而且...).",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1124,7 +1124,7 @@
      "id": "hsk5-6.6",
      "number": "6.6",
      "title": "要么...要么... (yàome...yàome...) - Entah...atau...",
-     "fungsi": "Menyatakan pilihan eksklusif[citation:10].",
+     "fungsi": "Menyatakan pilihan eksklusif.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1146,7 +1146,7 @@
      "id": "hsk5-6.7",
      "number": "6.7",
      "title": "要是...就... (yàoshi...jiù...) - Seandainya...maka...",
-     "fungsi": "Menyatakan kondisi hipotetis (kolokial untuk 如果)[citation:10].",
+     "fungsi": "Menyatakan kondisi hipotetis (kolokial untuk 如果).",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1168,7 +1168,7 @@
      "id": "hsk5-6.8",
      "number": "6.8",
      "title": "之所以...是因为... (zhīsuǒyǐ...shì yīnwèi...) - Alasan...adalah karena...",
-     "fungsi": "Menyatakan efek sebelum penyebab (penekanan pada alasan)[citation:10].",
+     "fungsi": "Menyatakan efek sebelum penyebab (penekanan pada alasan).",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1190,7 +1190,7 @@
      "id": "hsk5-6.9",
      "number": "6.9",
      "title": "由此可见 (yóucǐ kějiàn) - Dari sini dapat dilihat",
-     "fungsi": "Menyimpulkan dari bukti sebelumnya, sering digunakan dalam tulisan formal[citation:9].",
+     "fungsi": "Menyimpulkan dari bukti sebelumnya, sering digunakan dalam tulisan formal.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1217,7 +1217,7 @@
      "id": "hsk5-7.1",
      "number": "7.1",
      "title": "得不得了 (de bùdéliǎo) - Sangat (Sekali)",
-     "fungsi": "Komplemen derajat yang menyatakan tingkat yang sangat tinggi[citation:7][citation:10].",
+     "fungsi": "Komplemen derajat yang menyatakan tingkat yang sangat tinggi.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1246,7 +1246,7 @@
      "id": "hsk5-7.2",
      "number": "7.2",
      "title": "得很 (de hěn) - Sangat (Formal)",
-     "fungsi": "Komplemen derajat yang menyatakan tingkat yang tinggi (lebih formal dari 极了)[citation:6][citation:7][citation:10].",
+     "fungsi": "Komplemen derajat yang menyatakan tingkat yang tinggi (lebih formal dari 极了).",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1275,7 +1275,7 @@
      "id": "hsk5-7.3",
      "number": "7.3",
      "title": "坏了 (huài le) - Sangat (Sekali)",
-     "fungsi": "Komplemen derajat yang menyatakan tingkat yang ekstrem[citation:10].",
+     "fungsi": "Komplemen derajat yang menyatakan tingkat yang ekstrem.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1297,7 +1297,7 @@
      "id": "hsk5-7.4",
      "number": "7.4",
      "title": "不住 (bù zhù) - Tidak bisa mempertahankan",
-     "fungsi": "Komplemen potensial negatif untuk \"tidak bisa mempertahankan\"[citation:10].",
+     "fungsi": "Komplemen potensial negatif untuk \"tidak bisa mempertahankan\".",
      "table": [
       {
        "jenis": "Negatif",
@@ -1319,7 +1319,7 @@
      "id": "hsk5-7.5",
      "number": "7.5",
      "title": "不着 (bù zháo) - Tidak bisa mencapai/tercapai",
-     "fungsi": "Komplemen potensial negatif untuk \"tidak bisa mencapai/tercapai\"[citation:10].",
+     "fungsi": "Komplemen potensial negatif untuk \"tidak bisa mencapai/tercapai\".",
      "table": [
       {
        "jenis": "Negatif",
@@ -1341,7 +1341,7 @@
      "id": "hsk5-7.6",
      "number": "7.6",
      "title": "不了 (bù liǎo) - Tidak bisa (Selesai)",
-     "fungsi": "Komplemen potensial negatif untuk \"tidak bisa menyelesaikan\"[citation:6][citation:7][citation:10].",
+     "fungsi": "Komplemen potensial negatif untuk \"tidak bisa menyelesaikan\".",
      "table": [
       {
        "jenis": "Negatif",
@@ -1375,7 +1375,7 @@
      "id": "hsk5-8.1",
      "number": "8.1",
      "title": "把字句 - Lanjutan (Formal dengan 将)",
-     "fungsi": "Menempatkan objek sebelum kata kerja untuk menunjukkan dampak terhadap objek, bentuk formal menggunakan 将[citation:7][citation:10].",
+     "fungsi": "Menempatkan objek sebelum kata kerja untuk menunjukkan dampak terhadap objek, bentuk formal menggunakan 将.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1404,7 +1404,7 @@
      "id": "hsk5-8.2",
      "number": "8.2",
      "title": "被字句 - Lanjutan (Pasif dengan 被/叫/让/给)",
-     "fungsi": "Kalimat pasif dengan berbagai penanda pasif[citation:2][citation:7][citation:9].",
+     "fungsi": "Kalimat pasif dengan berbagai penanda pasif.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1447,7 +1447,7 @@
      "id": "hsk5-8.3",
      "number": "8.3",
      "title": "除了...以外... - Selain...",
-     "fungsi": "Mengecualikan satu bagian dari kelompok[citation:2][citation:10].",
+     "fungsi": "Mengecualikan satu bagian dari kelompok.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1483,7 +1483,7 @@
      "id": "hsk5-8.4",
      "number": "8.4",
      "title": "一...也/都+不/没... - Tidak satupun...",
-     "fungsi": "Menyatakan negasi total[citation:2][citation:10].",
+     "fungsi": "Menyatakan negasi total.",
      "table": [
       {
        "jenis": "Negatif",
@@ -1512,7 +1512,7 @@
      "id": "hsk5-8.5",
      "number": "8.5",
      "title": "越来越... - Semakin...",
-     "fungsi": "Menyatakan perubahan bertahap[citation:2][citation:9][citation:10].",
+     "fungsi": "Menyatakan perubahan bertahap.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1541,7 +1541,7 @@
      "id": "hsk5-8.6",
      "number": "8.6",
      "title": "越...越... - Semakin...semakin...",
-     "fungsi": "Menyatakan hubungan kausal antara dua perubahan[citation:2][citation:9][citation:10].",
+     "fungsi": "Menyatakan hubungan kausal antara dua perubahan.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1570,7 +1570,7 @@
      "id": "hsk5-8.7",
      "number": "8.7",
      "title": "要是...的话... - Seandainya...",
-     "fungsi": "Menyatakan kondisi hipotetis[citation:10].",
+     "fungsi": "Menyatakan kondisi hipotetis.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1592,7 +1592,7 @@
      "id": "hsk5-8.8",
      "number": "8.8",
      "title": "连...都... - Bahkan...",
-     "fungsi": "Menyatakan \"bahkan\" untuk penekanan[citation:2][citation:10].",
+     "fungsi": "Menyatakan \"bahkan\" untuk penekanan.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1621,7 +1621,7 @@
      "id": "hsk5-8.9",
      "number": "8.9",
      "title": "对...来说 (duì...lái shuō) - Bagi... / Menurut...",
-     "fungsi": "Menyatakan perspektif atau sudut pandang[citation:10].",
+     "fungsi": "Menyatakan perspektif atau sudut pandang.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1643,7 +1643,7 @@
      "id": "hsk5-8.10",
      "number": "8.10",
      "title": "从...到... (cóng...dào...) - Dari...sampai...",
-     "fungsi": "Menyatakan rentang waktu atau tempat[citation:10].",
+     "fungsi": "Menyatakan rentang waktu atau tempat.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1665,7 +1665,7 @@
      "id": "hsk5-8.11",
      "number": "8.11",
      "title": "一方面...另一方面... - Di satu sisi...di sisi lain...",
-     "fungsi": "Menyatakan dua aspek dari suatu hal[citation:6][citation:10].",
+     "fungsi": "Menyatakan dua aspek dari suatu hal.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1680,7 +1680,7 @@
      "id": "hsk5-8.12",
      "number": "8.12",
      "title": "要不是...的话... (yàobushi...dehuà...) - Seandainya tidak...",
-     "fungsi": "Menyatakan kondisi kontrafaktual (seandainya tidak terjadi A, maka B)[citation:7][citation:10].",
+     "fungsi": "Menyatakan kondisi kontrafaktual (seandainya tidak terjadi A, maka B).",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1702,7 +1702,7 @@
      "id": "hsk5-8.13",
      "number": "8.13",
      "title": "多亏 (duōkuī) - Berkat",
-     "fungsi": "Menyatakan rasa syukur atas keberuntungan atau bantuan[citation:7][citation:10].",
+     "fungsi": "Menyatakan rasa syukur atas keberuntungan atau bantuan.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1731,7 +1731,7 @@
      "id": "hsk5-8.14",
      "number": "8.14",
      "title": "一旦...就... (yīdàn...jiù...) - Begitu...langsung...",
-     "fungsi": "Menyatakan bahwa begitu kondisi A terpenuhi, hasil B akan segera terjadi[citation:10].",
+     "fungsi": "Menyatakan bahwa begitu kondisi A terpenuhi, hasil B akan segera terjadi.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1753,7 +1753,7 @@
      "id": "hsk5-8.15",
      "number": "8.15",
      "title": "与其...不如... (yǔqí...bùrú...) - Lebih baik...daripada...",
-     "fungsi": "Menyatakan preferensi (lebih baik A daripada B)[citation:10].",
+     "fungsi": "Menyatakan preferensi (lebih baik A daripada B).",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1768,7 +1768,7 @@
      "id": "hsk5-8.16",
      "number": "8.16",
      "title": "宁可...也不... (nìngkě...yěbù...) - Lebih suka...daripada...",
-     "fungsi": "Menyatakan preferensi yang kuat (lebih suka A daripada B)[citation:10].",
+     "fungsi": "Menyatakan preferensi yang kuat (lebih suka A daripada B).",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1783,7 +1783,7 @@
      "id": "hsk5-8.17",
      "number": "8.17",
      "title": "不然的话 (bùrán dehuà) - Kalau tidak...",
-     "fungsi": "Menyatakan konsekuensi jika tidak dilakukan[citation:10].",
+     "fungsi": "Menyatakan konsekuensi jika tidak dilakukan.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1810,7 +1810,7 @@
      "id": "hsk5-9.1",
      "number": "9.1",
      "title": "来...去 (lái...qù) - Bolak-balik / Berulang kali",
-     "fungsi": "Menyatakan tindakan yang dilakukan bolak-balik atau berulang kali[citation:10].",
+     "fungsi": "Menyatakan tindakan yang dilakukan bolak-balik atau berulang kali.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1832,7 +1832,7 @@
      "id": "hsk5-9.2",
      "number": "9.2",
      "title": "又...又 (yòu...yòu) - Lagi...lagi (Pengulangan Masa Lalu)",
-     "fungsi": "Menyatakan tindakan yang terjadi berulang kali di masa lalu[citation:7][citation:10].",
+     "fungsi": "Menyatakan tindakan yang terjadi berulang kali di masa lalu.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1859,7 +1859,7 @@
      "id": "hsk5-10.1",
      "number": "10.1",
      "title": "疑问代词 + 都/也 - Siapa pun/Apa pun",
-     "fungsi": "Menyatakan \"siapa pun\", \"apa pun\", \"di mana pun\"[citation:2][citation:10].",
+     "fungsi": "Menyatakan \"siapa pun\", \"apa pun\", \"di mana pun\".",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1888,7 +1888,7 @@
      "id": "hsk5-10.2",
      "number": "10.2",
      "title": "疑问代词 + 疑问代词 - Suka-suka",
-     "fungsi": "Menyatakan \"suka-suka\" atau \"apa pun\"[citation:10].",
+     "fungsi": "Menyatakan \"suka-suka\" atau \"apa pun\".",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1915,7 +1915,7 @@
      "id": "hsk5-11.1",
      "number": "11.1",
      "title": "化 (huà) - -isasi / Menjadi",
-     "fungsi": "Mengubah kata menjadi \"menjadi\" atau \"proses menjadi\"[citation:1][citation:7][citation:10].",
+     "fungsi": "Mengubah kata menjadi \"menjadi\" atau \"proses menjadi\".",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1937,7 +1937,7 @@
      "id": "hsk5-11.2",
      "number": "11.2",
      "title": "性 (xìng) - -itas / -isme",
-     "fungsi": "Mengubah kata sifat menjadi kata benda abstrak[citation:1].",
+     "fungsi": "Mengubah kata sifat menjadi kata benda abstrak.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1959,7 +1959,7 @@
      "id": "hsk5-11.3",
      "number": "11.3",
      "title": "度 (dù) - -derajat / -tingkat",
-     "fungsi": "Menyatakan tingkat atau derajat[citation:1].",
+     "fungsi": "Menyatakan tingkat atau derajat.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -1981,7 +1981,7 @@
      "id": "hsk5-11.4",
      "number": "11.4",
      "title": "老 (lǎo) - (Awalan Akrab)",
-     "fungsi": "Untuk orang, binatang, dan istilah akrab[citation:1][citation:10].",
+     "fungsi": "Untuk orang, binatang, dan istilah akrab.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -2003,7 +2003,7 @@
      "id": "hsk5-11.5",
      "number": "11.5",
      "title": "阿 (ā) - (Awalan Akrab)",
-     "fungsi": "Awalan untuk nama panggilan akrab[citation:1].",
+     "fungsi": "Awalan untuk nama panggilan akrab.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -2023,7 +2023,7 @@
      "id": "hsk5-12.1",
      "number": "12.1",
      "title": "被动句 dengan 受 (shòu) - Menerima",
-     "fungsi": "Menyatakan menerima tindakan pasif, sering digunakan dalam konteks formal[citation:10].",
+     "fungsi": "Menyatakan menerima tindakan pasif, sering digunakan dalam konteks formal.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -2052,7 +2052,7 @@
      "id": "hsk5-12.2",
      "number": "12.2",
      "title": "被动句 dengan 给 (gěi) - (Pasif Informal)",
-     "fungsi": "Penanda pasif informal dalam percakapan sehari-hari[citation:7][citation:10].",
+     "fungsi": "Penanda pasif informal dalam percakapan sehari-hari.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -2108,7 +2108,7 @@
      "id": "hsk5-13.2",
      "number": "13.2",
      "title": "使 (shǐ) - Menyebabkan (Formal)",
-     "fungsi": "Menyatakan sebab-akibat, digunakan dalam konteks formal[citation:10].",
+     "fungsi": "Menyatakan sebab-akibat, digunakan dalam konteks formal.",
      "table": [
       {
        "jenis": "Afirmatif",
@@ -2157,7 +2157,7 @@
      "id": "hsk5-14.1",
      "number": "14.1",
      "title": "进行 (jìnxíng) - Melaksanakan (Kata Kerja Bentuk)",
-     "fungsi": "Kata kerja bentuk yang digunakan untuk menyatakan tindakan formal[citation:11].",
+     "fungsi": "Kata kerja bentuk yang digunakan untuk menyatakan tindakan formal.",
      "table": [
       {
        "jenis": "Afirmatif",
