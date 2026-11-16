@@ -74,10 +74,10 @@
     },
     {
       "cn": "个",
-      "py": "gě",
-      "id": "digunakan dalam 自個兒|自个儿[zi4 ge3 r5]",
+      "py": "gè",
+      "id": "(kata penggolong yang digunakan sebelum kata benda yang tidak memiliki kata penggolong spesifik)",
       "hsk": 1,
-      "tone": 3,
+      "tone": 4,
       "base": "ge"
     },
     {
@@ -249,14 +249,6 @@
       "base": "neng"
     },
     {
-      "cn": "啊",
-      "py": "ā",
-      "id": "kata seru terkejut",
-      "hsk": 2,
-      "tone": 1,
-      "base": "a"
-    },
-    {
       "cn": "那",
       "py": "Nā",
       "id": "marga Na",
@@ -314,19 +306,11 @@
     },
     {
       "cn": "为",
-      "py": "wéi",
-      "id": "sebagai (dalam kapasitas)",
+      "py": "wèi",
+      "id": "karena",
       "hsk": 2,
-      "tone": 2,
+      "tone": 4,
       "base": "wei"
-    },
-    {
-      "cn": "吧",
-      "py": "bā",
-      "id": "bar (kata serapan) (menyajikan minuman, atau menyediakan akses Internet, dll)",
-      "hsk": 1,
-      "tone": 1,
-      "base": "ba"
     },
     {
       "cn": "得",
@@ -447,14 +431,6 @@
       "hsk": 1,
       "tone": 3,
       "base": "liang"
-    },
-    {
-      "cn": "吗",
-      "py": "má",
-      "id": "(slang) apa?",
-      "hsk": 1,
-      "tone": 2,
-      "base": "ma"
     },
     {
       "cn": "天",
@@ -714,16 +690,16 @@
     },
     {
       "cn": "打",
-      "py": "dá",
-      "id": "(kata serapan) lusin",
+      "py": "dǎ",
+      "id": "memukul; menyerang",
       "hsk": 1,
-      "tone": 2,
+      "tone": 3,
       "base": "da"
     },
     {
       "cn": "当",
       "py": "dāng",
-      "id": "(tiruan bunyi) dong",
+      "id": "menjadi",
       "hsk": 2,
       "tone": 1,
       "base": "dang"
@@ -818,10 +794,10 @@
     },
     {
       "cn": "几",
-      "py": "jī",
-      "id": "meja kecil",
+      "py": "jǐ",
+      "id": "berapa banyak",
       "hsk": 1,
-      "tone": 1,
+      "tone": 3,
       "base": "ji"
     },
     {
@@ -842,11 +818,11 @@
     },
     {
       "cn": "哦",
-      "py": "é",
-      "id": "partikel di akhir kalimat yang menyampaikan informalitas, kehangatan, keramahan atau keintiman",
+      "py": "ò",
+      "id": "oh (kata seru yang menunjukkan bahwa seseorang baru saja mempelajari sesuatu)",
       "hsk": 7,
-      "tone": 2,
-      "base": "e"
+      "tone": 4,
+      "base": "o"
     },
     {
       "cn": "车",
@@ -858,11 +834,11 @@
     },
     {
       "cn": "听",
-      "py": "yǐn",
-      "id": "tersenyum (kuno)",
+      "py": "tīng",
+      "id": "mendengarkan; mendengar",
       "hsk": 1,
-      "tone": 3,
-      "base": "yin"
+      "tone": 1,
+      "base": "ting"
     },
     {
       "cn": "手",
@@ -977,14 +953,6 @@
       "base": "yu"
     },
     {
-      "cn": "啦",
-      "py": "lā",
-      "id": "(tiruan bunyi) suara nyanyian, sorakan, dll",
-      "hsk": 6,
-      "tone": 1,
-      "base": "la"
-    },
-    {
       "cn": "长",
       "py": "cháng",
       "id": "panjang",
@@ -1058,10 +1026,10 @@
     },
     {
       "cn": "场",
-      "py": "cháng",
-      "id": "tempat penjemuran; penggolong untuk peristiwa dan kejadian: periode, episode, pertandingan",
+      "py": "chǎng",
+      "id": "tempat besar yang digunakan untuk tujuan tertentu; panggung; adegan (drama); penggolong untuk kegiatan olahraga atau rekreasi; penggolong jumlah ujian",
       "hsk": 2,
-      "tone": 2,
+      "tone": 3,
       "base": "chang"
     },
     {
@@ -1098,10 +1066,10 @@
     },
     {
       "cn": "正",
-      "py": "zhēng",
-      "id": "bulan pertama tahun lunar",
+      "py": "zhèng",
+      "id": "lurus",
       "hsk": 1,
-      "tone": 1,
+      "tone": 4,
       "base": "zheng"
     },
     {
@@ -1562,19 +1530,19 @@
     },
     {
       "cn": "处",
-      "py": "chǔ",
-      "id": "bertempat tinggal",
+      "py": "chù",
+      "id": "tempat; lokalitas",
       "hsk": 4,
-      "tone": 3,
+      "tone": 4,
       "base": "chu"
     },
     {
       "cn": "转",
-      "py": "zhuǎi",
-      "id": "lihat 轉文|转文[zhuai3 wen2]",
+      "py": "zhuǎn",
+      "id": "berputar",
       "hsk": 3,
       "tone": 3,
-      "base": "zhuai"
+      "base": "zhuan"
     },
     {
       "cn": "妈",
@@ -1690,10 +1658,10 @@
     },
     {
       "cn": "跑",
-      "py": "páo",
-      "id": "(hewan) menghentak-hentakkan (tanah)",
+      "py": "pǎo",
+      "id": "berlari",
       "hsk": 1,
-      "tone": 2,
+      "tone": 3,
       "base": "pao"
     },
     {
@@ -1714,11 +1682,11 @@
     },
     {
       "cn": "万",
-      "py": "mò",
-      "id": "digunakan dalam 万俟[Mo4 qi2]",
+      "py": "wàn",
+      "id": "sepuluh ribu",
       "hsk": 2,
       "tone": 4,
-      "base": "mo"
+      "base": "wan"
     },
     {
       "cn": "杀",
@@ -1754,10 +1722,10 @@
     },
     {
       "cn": "片",
-      "py": "piān",
-      "id": "disk",
+      "py": "piàn",
+      "id": "potongan tipis",
       "hsk": 2,
-      "tone": 1,
+      "tone": 4,
       "base": "pian"
     },
     {
@@ -1895,14 +1863,6 @@
       "hsk": 4,
       "tone": 1,
       "base": "xie"
-    },
-    {
-      "cn": "嘛",
-      "py": "má",
-      "id": "digunakan dalam 唵嘛呢叭咪吽[an3 ma2 ni2 ba1 mi1 hong1]",
-      "hsk": 6,
-      "tone": 2,
-      "base": "ma"
     },
     {
       "cn": "换",
@@ -2354,10 +2314,10 @@
     },
     {
       "cn": "令",
-      "py": "líng",
-      "id": "digunakan dalam 脊令[ji2 ling2]",
+      "py": "lìng",
+      "id": "memerintah",
       "hsk": 5,
-      "tone": 2,
+      "tone": 4,
       "base": "ling"
     },
     {
@@ -2410,11 +2370,11 @@
     },
     {
       "cn": "约",
-      "py": "yāo",
-      "id": "menimbang di timbangan",
+      "py": "yuē",
+      "id": "membuat janji",
       "hsk": 3,
       "tone": 1,
-      "base": "yao"
+      "base": "yue"
     },
     {
       "cn": "光",
@@ -2497,6 +2457,14 @@
       "base": "xiang"
     },
     {
+      "cn": "底",
+      "py": "dǐ",
+      "id": "bawah; dasar",
+      "hsk": 4,
+      "tone": 3,
+      "base": "di"
+    },
+    {
       "cn": "力",
       "py": "Lì",
       "id": "marga Li",
@@ -2570,11 +2538,11 @@
     },
     {
       "cn": "离",
-      "py": "chī",
-      "id": "makhluk mitologis (kuno)",
+      "py": "lí",
+      "id": "meninggalkan",
       "hsk": 2,
-      "tone": 1,
-      "base": "chi"
+      "tone": 2,
+      "base": "li"
     },
     {
       "cn": "字",
@@ -2618,11 +2586,11 @@
     },
     {
       "cn": "提",
-      "py": "dī",
-      "id": "digunakan dalam 提防[di1 fang5] dan 提溜[di1 liu5]",
+      "py": "tí",
+      "id": "membawa (tergantung dari tangan)",
       "hsk": 2,
-      "tone": 1,
-      "base": "di"
+      "tone": 2,
+      "base": "ti"
     },
     {
       "cn": "度",
@@ -2698,11 +2666,11 @@
     },
     {
       "cn": "弄",
-      "py": "lòng",
-      "id": "gang",
+      "py": "nòng",
+      "id": "melakukan",
       "hsk": 2,
       "tone": 4,
-      "base": "long"
+      "base": "nong"
     },
     {
       "cn": "赢",
@@ -2778,10 +2746,10 @@
     },
     {
       "cn": "差",
-      "py": "chā",
-      "id": "perbedaan; kesenjangan",
+      "py": "chà",
+      "id": "berbeda",
       "hsk": 1,
-      "tone": 1,
+      "tone": 4,
       "base": "cha"
     },
     {
@@ -2842,11 +2810,11 @@
     },
     {
       "cn": "读",
-      "py": "dòu",
-      "id": "koma",
+      "py": "dú",
+      "id": "membaca nyaring; membaca keras",
       "hsk": 1,
-      "tone": 4,
-      "base": "dou"
+      "tone": 2,
+      "base": "du"
     },
     {
       "cn": "深",
@@ -3066,11 +3034,11 @@
     },
     {
       "cn": "称",
-      "py": "chèn",
-      "id": "cocok; sesuai",
+      "py": "chēng",
+      "id": "menimbang",
       "hsk": 2,
-      "tone": 4,
-      "base": "chen"
+      "tone": 1,
+      "base": "cheng"
     },
     {
       "cn": "久",
@@ -3258,10 +3226,10 @@
     },
     {
       "cn": "节",
-      "py": "jiē",
-      "id": "lihat 節骨眼|节骨眼[jie1 gu5 yan3]",
+      "py": "jié",
+      "id": "sendi; ruas",
       "hsk": 2,
-      "tone": 1,
+      "tone": 2,
       "base": "jie"
     },
     {
@@ -3282,10 +3250,10 @@
     },
     {
       "cn": "累",
-      "py": "lěi",
-      "id": "mengakumulasi",
+      "py": "lèi",
+      "id": "lelah",
       "hsk": 1,
-      "tone": 3,
+      "tone": 4,
       "base": "lei"
     },
     {
@@ -3322,10 +3290,10 @@
     },
     {
       "cn": "待",
-      "py": "dāi",
-      "id": "untuk tinggal; untuk tetap",
+      "py": "dài",
+      "id": "menunggu",
       "hsk": 5,
-      "tone": 1,
+      "tone": 4,
       "base": "dai"
     },
     {
@@ -3450,11 +3418,11 @@
     },
     {
       "cn": "追",
-      "py": "duī",
-      "id": "memahat; mengukir; alat musik (kuno)",
+      "py": "zhuī",
+      "id": "mengejar; memburu; menyelidiki; menengok ke belakang; mengenang; merayu (kekasih); binge-watch (drama TV); retrospektif; anumerta",
       "hsk": 3,
       "tone": 1,
-      "base": "dui"
+      "base": "zhui"
     },
     {
       "cn": "破",
@@ -3514,10 +3482,10 @@
     },
     {
       "cn": "喂",
-      "py": "wéi",
-      "id": "halo (saat menjawab telepon)",
+      "py": "wèi",
+      "id": "hei",
       "hsk": 2,
-      "tone": 2,
+      "tone": 4,
       "base": "wei"
     },
     {
@@ -3619,7 +3587,7 @@
     {
       "cn": "若",
       "py": "ruò",
-      "id": "digunakan dalam 般若[bo1 re3]",
+      "id": "tampak",
       "hsk": 6,
       "tone": 4,
       "base": "ruo"
@@ -4226,10 +4194,10 @@
     },
     {
       "cn": "背",
-      "py": "bēi",
-      "id": "membawa beban",
+      "py": "bèi",
+      "id": "punggung badan atau objek",
       "hsk": 2,
-      "tone": 1,
+      "tone": 4,
       "base": "bei"
     },
     {
@@ -4282,11 +4250,11 @@
     },
     {
       "cn": "合",
-      "py": "gě",
-      "id": "100 ml",
+      "py": "hé",
+      "id": "menutup",
       "hsk": 3,
-      "tone": 3,
-      "base": "ge"
+      "tone": 2,
+      "base": "he"
     },
     {
       "cn": "罗",
@@ -4331,7 +4299,7 @@
     {
       "cn": "格",
       "py": "gé",
-      "id": "digunakan dalam 格登[ge1 deng1]",
+      "id": "persegi",
       "hsk": 7,
       "tone": 2,
       "base": "ge"
@@ -4650,11 +4618,11 @@
     },
     {
       "cn": "吓",
-      "py": "hè",
-      "id": "menakut-nakuti",
+      "py": "xià",
+      "id": "menakutkan",
       "hsk": 5,
       "tone": 4,
-      "base": "he"
+      "base": "xia"
     },
     {
       "cn": "升",
@@ -4802,11 +4770,11 @@
     },
     {
       "cn": "解",
-      "py": "Xiè",
-      "id": "pertunjukan akrobatik (terutama di atas kuda) (kuno)",
+      "py": "jiě",
+      "id": "memecah",
       "hsk": 6,
-      "tone": 4,
-      "base": "xie"
+      "tone": 3,
+      "base": "jie"
     },
     {
       "cn": "贴",
@@ -4834,11 +4802,11 @@
     },
     {
       "cn": "觉",
-      "py": "jiào",
-      "id": "tidur siang; tidur; KP:場|场[chang2]",
+      "py": "jué",
+      "id": "merasa; menemukan bahwa; berpikir; bangun; sadar",
       "hsk": 6,
-      "tone": 4,
-      "base": "jiao"
+      "tone": 2,
+      "base": "jue"
     },
     {
       "cn": "屋",
@@ -5154,10 +5122,10 @@
     },
     {
       "cn": "量",
-      "py": "liáng",
-      "id": "mengukur",
+      "py": "liàng",
+      "id": "kapasitas",
       "hsk": 4,
-      "tone": 2,
+      "tone": 4,
       "base": "liang"
     },
     {
@@ -5282,11 +5250,11 @@
     },
     {
       "cn": "骑",
-      "py": "jì",
-      "id": "(Tw) kuda pelana",
+      "py": "qí",
+      "id": "duduk melintang",
       "hsk": 2,
-      "tone": 4,
-      "base": "ji"
+      "tone": 2,
+      "base": "qi"
     },
     {
       "cn": "响",
@@ -5362,10 +5330,10 @@
     },
     {
       "cn": "泡",
-      "py": "pāo",
-      "id": "menggelembung; bengkak; seperti spons",
+      "py": "pào",
+      "id": "gelembung; busa",
       "hsk": 6,
-      "tone": 1,
+      "tone": 4,
       "base": "pao"
     },
     {
@@ -5466,11 +5434,11 @@
     },
     {
       "cn": "厂",
-      "py": "hǎn",
-      "id": "radikal \"tebing\" dalam karakter Tiongkok (radikal Kangxi 27), muncul dalam 原, 历, 压 dll",
+      "py": "chǎng",
+      "id": "pabrik",
       "hsk": 3,
       "tone": 3,
-      "base": "han"
+      "base": "chang"
     },
     {
       "cn": "踢",
@@ -5522,11 +5490,11 @@
     },
     {
       "cn": "角",
-      "py": "Jué",
-      "id": "peran (teater); bersaing; bejana anggur kuno berkaki tiga; nada ketiga dari skala pentatonik",
+      "py": "jiǎo",
+      "id": "sudut; pojok; tanduk; berbentuk tanduk; unit uang senilai 0,1 yuan, atau 10 sen (satu dime); KP:個|个[ge4]",
       "hsk": 2,
-      "tone": 2,
-      "base": "jue"
+      "tone": 3,
+      "base": "jiao"
     },
     {
       "cn": "躲",
@@ -5554,11 +5522,11 @@
     },
     {
       "cn": "胖",
-      "py": "pán",
-      "id": "sehat",
+      "py": "pàng",
+      "id": "gemuk",
       "hsk": 3,
-      "tone": 2,
-      "base": "pan"
+      "tone": 4,
+      "base": "pang"
     },
     {
       "cn": "批",
@@ -5602,11 +5570,11 @@
     },
     {
       "cn": "页",
-      "py": "xié",
-      "id": "kepala",
+      "py": "yè",
+      "id": "halaman",
       "hsk": 1,
-      "tone": 2,
-      "base": "xie"
+      "tone": 4,
+      "base": "ye"
     },
     {
       "cn": "扔",
@@ -5810,11 +5778,11 @@
     },
     {
       "cn": "足",
-      "py": "jù",
-      "id": "berlebihan",
+      "py": "zú",
+      "id": "kaki; tungkai",
       "hsk": 6,
-      "tone": 4,
-      "base": "ju"
+      "tone": 2,
+      "base": "zu"
     },
     {
       "cn": "曲",
@@ -5850,11 +5818,11 @@
     },
     {
       "cn": "弹",
-      "py": "dàn",
-      "id": "bola kecil",
+      "py": "tán",
+      "id": "memetik (senar)",
       "hsk": 5,
-      "tone": 4,
-      "base": "dan"
+      "tone": 2,
+      "base": "tan"
     },
     {
       "cn": "必",
@@ -5922,10 +5890,10 @@
     },
     {
       "cn": "刺",
-      "py": "cī",
-      "id": "(tiruan bunyi) wuush",
+      "py": "cì",
+      "id": "duri",
       "hsk": 4,
-      "tone": 1,
+      "tone": 4,
       "base": "ci"
     },
     {
@@ -6186,10 +6154,10 @@
     },
     {
       "cn": "答",
-      "py": "dā",
-      "id": "bentuk terikat yang memiliki arti sama dengan kata bebas 答[da2], digunakan dalam 答應|答应[da1 ying5], 答理[da1 li5] dll",
+      "py": "dá",
+      "id": "menjawab",
       "hsk": 5,
-      "tone": 1,
+      "tone": 2,
       "base": "da"
     },
     {
@@ -6546,10 +6514,10 @@
     },
     {
       "cn": "斗",
-      "py": "Dǒu",
-      "id": "alat ukur kering untuk biji-bijian setara sepuluh 升[sheng1] atau sepersepuluh 升[dan4]",
+      "py": "dòu",
+      "id": "berkelahi",
       "hsk": 7,
-      "tone": 3,
+      "tone": 4,
       "base": "dou"
     },
     {
@@ -6746,10 +6714,10 @@
     },
     {
       "cn": "炸",
-      "py": "zhá",
-      "id": "menggoreng",
+      "py": "zhà",
+      "id": "meledak; untuk meledak",
       "hsk": 6,
-      "tone": 2,
+      "tone": 4,
       "base": "zha"
     },
     {
@@ -6802,10 +6770,10 @@
     },
     {
       "cn": "档",
-      "py": "dǎng",
-      "id": "(Tw) gigi persneling (varian dari 擋|挡[dang3])",
+      "py": "dàng",
+      "id": "rak (untuk arsip); loket",
       "hsk": 6,
-      "tone": 3,
+      "tone": 4,
       "base": "dang"
     },
     {
@@ -6858,10 +6826,10 @@
     },
     {
       "cn": "趟",
-      "py": "tāng",
-      "id": "menyeberang",
+      "py": "tàng",
+      "id": "klasifikasi untuk kali, perjalanan pulang pergi atau baris",
       "hsk": 6,
-      "tone": 1,
+      "tone": 4,
       "base": "tang"
     },
     {
@@ -7154,11 +7122,11 @@
     },
     {
       "cn": "折",
-      "py": "shé",
+      "py": "zhé",
       "id": "mematahkan",
       "hsk": 4,
       "tone": 2,
-      "base": "she"
+      "base": "zhe"
     },
     {
       "cn": "砍",
@@ -7186,10 +7154,10 @@
     },
     {
       "cn": "踏",
-      "py": "tā",
-      "id": "lihat 踏實|踏实[ta1 shi5]",
+      "py": "tà",
+      "id": "menginjak",
       "hsk": 6,
-      "tone": 1,
+      "tone": 4,
       "base": "ta"
     },
     {
@@ -7290,10 +7258,10 @@
     },
     {
       "cn": "恶",
-      "py": "ě",
-      "id": "digunakan dalam 惡心|恶心[e3 xin1]",
+      "py": "è",
+      "id": "jahat",
       "hsk": 7,
-      "tone": 3,
+      "tone": 4,
       "base": "e"
     },
     {
@@ -7450,10 +7418,10 @@
     },
     {
       "cn": "钻",
-      "py": "zuàn",
+      "py": "zuān",
       "id": "mengebor",
       "hsk": 6,
-      "tone": 4,
+      "tone": 1,
       "base": "zuan"
     },
     {
@@ -7610,10 +7578,10 @@
     },
     {
       "cn": "扇",
-      "py": "shān",
-      "id": "mengipasi",
+      "py": "shàn",
+      "id": "kipas",
       "hsk": 5,
-      "tone": 1,
+      "tone": 4,
       "base": "shan"
     },
     {
@@ -7626,10 +7594,10 @@
     },
     {
       "cn": "匹",
-      "py": "pī",
+      "py": "pǐ",
       "id": "cocok; sebanding dengan",
       "hsk": 5,
-      "tone": 1,
+      "tone": 3,
       "base": "pi"
     },
     {
@@ -7683,7 +7651,7 @@
     {
       "cn": "蹲",
       "py": "dūn",
-      "id": "(dialek) keseleo kaki atau tungkai karena benturan atau pendaratan tiba-tiba",
+      "id": "jongkok",
       "hsk": 6,
       "tone": 1,
       "base": "dun"
@@ -7842,11 +7810,11 @@
     },
     {
       "cn": "广",
-      "py": "yǎn",
-      "id": "radikal \"rumah di tebing\" dalam aksara Tionghoa (radikal Kangxi ke-53), muncul di 店, 序, 底 dll.",
+      "py": "guǎng",
+      "id": "luas",
       "hsk": 5,
       "tone": 3,
-      "base": "yan"
+      "base": "guang"
     },
     {
       "cn": "趁",
@@ -7922,11 +7890,11 @@
     },
     {
       "cn": "薄",
-      "py": "Bó",
-      "id": "sedikit",
+      "py": "báo",
+      "id": "ringan",
       "hsk": 4,
       "tone": 2,
-      "base": "bo"
+      "base": "bao"
     },
     {
       "cn": "填",
@@ -8050,18 +8018,18 @@
     },
     {
       "cn": "尺",
-      "py": "chě",
-      "id": "salah satu karakter yang digunakan untuk mewakili not musik dalam notasi gongche, 工尺譜|工尺谱[gong1 che3 pu3]",
+      "py": "chǐ",
+      "id": "satu kaki Tiongkok",
       "hsk": 4,
       "tone": 3,
-      "base": "che"
+      "base": "chi"
     },
     {
       "cn": "汗",
-      "py": "hán",
-      "id": "lihat 可汗[ke4 han2], 汗國|汗国[han2 guo2]",
+      "py": "hàn",
+      "id": "keringat",
       "hsk": 5,
-      "tone": 2,
+      "tone": 4,
       "base": "han"
     },
     {
@@ -8154,10 +8122,10 @@
     },
     {
       "cn": "熬",
-      "py": "āo",
-      "id": "merebus; mendidihkan perlahan",
+      "py": "áo",
+      "id": "memasak dengan api kecil; mengekstrak dengan pemanasan; menyeduh",
       "hsk": 7,
-      "tone": 1,
+      "tone": 2,
       "base": "ao"
     },
     {
@@ -8218,10 +8186,10 @@
     },
     {
       "cn": "挣",
-      "py": "zhēng",
-      "id": "digunakan dalam 掙扎|挣扎[zheng1 zha2]",
+      "py": "zhèng",
+      "id": "berjuang untuk bebas",
       "hsk": 5,
-      "tone": 1,
+      "tone": 4,
       "base": "zheng"
     },
     {
@@ -8274,11 +8242,11 @@
     },
     {
       "cn": "抹",
-      "py": "mā",
+      "py": "mǒ",
       "id": "menyeka",
       "hsk": 7,
-      "tone": 1,
-      "base": "ma"
+      "tone": 3,
+      "base": "mo"
     },
     {
       "cn": "捐",
@@ -8290,10 +8258,10 @@
     },
     {
       "cn": "脏",
-      "py": "zàng",
-      "id": "organ dalam",
+      "py": "zāng",
+      "id": "kotor",
       "hsk": 2,
-      "tone": 4,
+      "tone": 1,
       "base": "zang"
     },
     {
@@ -8698,11 +8666,11 @@
     },
     {
       "cn": "浅",
-      "py": "jiān",
-      "id": "suara air mengalir",
+      "py": "qiǎn",
+      "id": "dangkal",
       "hsk": 4,
-      "tone": 1,
-      "base": "jian"
+      "tone": 3,
+      "base": "qian"
     },
     {
       "cn": "琴",
@@ -8714,18 +8682,18 @@
     },
     {
       "cn": "晃",
-      "py": "huǎng",
-      "id": "mempesona",
+      "py": "huàng",
+      "id": "bergoyang",
       "hsk": 7,
-      "tone": 3,
+      "tone": 4,
       "base": "huang"
     },
     {
       "cn": "闷",
-      "py": "mēn",
-      "id": "pengap",
+      "py": "mèn",
+      "id": "bosan",
       "hsk": 7,
-      "tone": 1,
+      "tone": 4,
       "base": "men"
     },
     {
@@ -8914,11 +8882,11 @@
     },
     {
       "cn": "幢",
-      "py": "chuáng",
-      "id": "panji; panji-panji (di Tiongkok kuno)",
+      "py": "zhuàng",
+      "id": "kata penggolong untuk bangunan (Taiwan dibaca [chuang2])",
       "hsk": 7,
-      "tone": 2,
-      "base": "chuang"
+      "tone": 4,
+      "base": "zhuang"
     },
     {
       "cn": "担",
@@ -8938,18 +8906,18 @@
     },
     {
       "cn": "虾",
-      "py": "há",
-      "id": "digunakan dalam 蝦蟆|虾蟆[ha2 ma5]",
+      "py": "xiā",
+      "id": "udang",
       "hsk": 7,
-      "tone": 2,
-      "base": "ha"
+      "tone": 1,
+      "base": "xia"
     },
     {
       "cn": "翘",
-      "py": "qiáo",
-      "id": "luar biasa",
+      "py": "qiào",
+      "id": "menegakkan",
       "hsk": 7,
-      "tone": 2,
+      "tone": 4,
       "base": "qiao"
     },
     {
@@ -9082,11 +9050,11 @@
     },
     {
       "cn": "炮",
-      "py": "bāo",
-      "id": "menumis",
+      "py": "pào",
+      "id": "meriam",
       "hsk": 6,
-      "tone": 1,
-      "base": "bao"
+      "tone": 4,
+      "base": "pao"
     },
     {
       "cn": "氧",
@@ -9154,11 +9122,11 @@
     },
     {
       "cn": "番",
-      "py": "Pān",
-      "id": "marga Pan",
+      "py": "fān",
+      "id": "asing (non-Tiongkok); barbar",
       "hsk": 6,
       "tone": 1,
-      "base": "pan"
+      "base": "fan"
     },
     {
       "cn": "泪",
@@ -9434,10 +9402,10 @@
     },
     {
       "cn": "鲜",
-      "py": "xiǎn",
+      "py": "xiān",
       "id": "segar",
       "hsk": 4,
-      "tone": 3,
+      "tone": 1,
       "base": "xian"
     },
     {
@@ -9706,11 +9674,11 @@
     },
     {
       "cn": "拽",
-      "py": "yè",
-      "id": "melempar",
+      "py": "zhuài",
+      "id": "menarik",
       "hsk": 7,
       "tone": 4,
-      "base": "ye"
+      "base": "zhuai"
     },
     {
       "cn": "墓",
@@ -9882,10 +9850,10 @@
     },
     {
       "cn": "哄",
-      "py": "hōng",
-      "id": "derai tawa (tiruan bunyi)",
+      "py": "hǒng",
+      "id": "menipu",
       "hsk": 7,
-      "tone": 1,
+      "tone": 3,
       "base": "hong"
     },
     {
@@ -9914,11 +9882,11 @@
     },
     {
       "cn": "谜",
-      "py": "mèi",
-      "id": "lihat 謎兒|谜儿[mei4 r5], teka-teki",
+      "py": "mí",
+      "id": "teka-teki",
       "hsk": 7,
-      "tone": 4,
-      "base": "mei"
+      "tone": 2,
+      "base": "mi"
     },
     {
       "cn": "充",
@@ -9970,11 +9938,11 @@
     },
     {
       "cn": "粥",
-      "py": "yù",
-      "id": "digunakan dalam 葷粥|荤粥[Xun1 yu4]",
+      "py": "zhōu",
+      "id": "bubur",
       "hsk": 6,
-      "tone": 4,
-      "base": "yu"
+      "tone": 1,
+      "base": "zhou"
     },
     {
       "cn": "账",
@@ -10186,11 +10154,11 @@
     },
     {
       "cn": "咳",
-      "py": "hāi",
-      "id": "suara mendesah",
+      "py": "ké",
+      "id": "batuk",
       "hsk": 5,
-      "tone": 1,
-      "base": "hai"
+      "tone": 2,
+      "base": "ke"
     },
     {
       "cn": "舔",
@@ -10226,19 +10194,19 @@
     },
     {
       "cn": "拾",
-      "py": "shè",
-      "id": "mendaki dengan langkah ringan",
+      "py": "shí",
+      "id": "memungut",
       "hsk": 5,
-      "tone": 4,
-      "base": "she"
+      "tone": 2,
+      "base": "shi"
     },
     {
       "cn": "涌",
-      "py": "chōng",
-      "id": "(digunakan dalam nama tempat)",
+      "py": "yǒng",
+      "id": "menggelegak",
       "hsk": 7,
-      "tone": 1,
-      "base": "chong"
+      "tone": 3,
+      "base": "yong"
     },
     {
       "cn": "淋",
@@ -10354,11 +10322,11 @@
     },
     {
       "cn": "仇",
-      "py": "Qiú",
-      "id": "pasangan",
+      "py": "chóu",
+      "id": "kebencian",
       "hsk": 7,
       "tone": 2,
-      "base": "qiu"
+      "base": "chou"
     },
     {
       "cn": "斜",
@@ -10418,11 +10386,11 @@
     },
     {
       "cn": "扛",
-      "py": "gāng",
-      "id": "mengangkat tinggi dengan kedua tangan",
+      "py": "káng",
+      "id": "memikul di bahu",
       "hsk": 7,
-      "tone": 1,
-      "base": "gang"
+      "tone": 2,
+      "base": "kang"
     },
     {
       "cn": "验",
@@ -11362,11 +11330,11 @@
     },
     {
       "cn": "攒",
-      "py": "cuán",
+      "py": "zǎn",
       "id": "mengumpulkan",
       "hsk": 7,
-      "tone": 2,
-      "base": "cuan"
+      "tone": 3,
+      "base": "zan"
     },
     {
       "cn": "销",
@@ -11386,10 +11354,10 @@
     },
     {
       "cn": "撇",
-      "py": "piē",
+      "py": "piě",
       "id": "membuang",
       "hsk": 7,
-      "tone": 1,
+      "tone": 3,
       "base": "pie"
     },
     {
@@ -11450,10 +11418,10 @@
     },
     {
       "cn": "呛",
-      "py": "qiāng",
-      "id": "tersedak (karena salah menelan)",
+      "py": "qiàng",
+      "id": "membuat hidung teriritasi",
       "hsk": 7,
-      "tone": 1,
+      "tone": 4,
       "base": "qiang"
     },
     {
@@ -11594,10 +11562,10 @@
     },
     {
       "cn": "哑",
-      "py": "yā",
-      "id": "(tiruan bunyi) suara gagak",
+      "py": "yǎ",
+      "id": "bisu; bodoh; tidak mampu berbicara",
       "hsk": 7,
-      "tone": 1,
+      "tone": 3,
       "base": "ya"
     },
     {
@@ -12122,11 +12090,11 @@
     },
     {
       "cn": "豁",
-      "py": "huá",
-      "id": "memainkan permainan tebak jari Tiongkok",
+      "py": "huò",
+      "id": "terbuka; jelas; berjiwa besar; murah hati",
       "hsk": 7,
-      "tone": 2,
-      "base": "hua"
+      "tone": 4,
+      "base": "huo"
     },
     {
       "cn": "沏",
@@ -12164,12 +12132,6 @@
         "py": "de",
         "id": "partikel struktural: digunakan sebelum kata kerja atau kata sifat untuk menghubungkan keterangan yang mendahuluinya (setara dengan akhiran “-ly” dalam bahasa Inggris)",
         "hsk": 1
-      },
-      {
-        "cn": "底",
-        "py": "de",
-        "id": "partikel posesif (setara dengan 的)",
-        "hsk": 4
       },
       {
         "cn": "德",
@@ -12290,6 +12252,12 @@
         "py": "Shī",
         "id": "puisi",
         "hsk": 4
+      },
+      {
+        "cn": "拾",
+        "py": "shí",
+        "id": "memungut",
+        "hsk": 5
       },
       {
         "cn": "识",
@@ -12465,8 +12433,8 @@
       },
       {
         "cn": "踏",
-        "py": "tā",
-        "id": "lihat 踏實|踏实[ta1 shi5]",
+        "py": "tà",
+        "id": "menginjak",
         "hsk": 6
       },
       {
@@ -12488,6 +12456,12 @@
         "py": "zhě",
         "id": "(setelah kata kerja atau kata sifat) orang yang (adalah)...",
         "hsk": 3
+      },
+      {
+        "cn": "折",
+        "py": "zhé",
+        "id": "mematahkan",
+        "hsk": 4
       },
       {
         "cn": "遮",
@@ -12543,8 +12517,8 @@
     "ge": [
       {
         "cn": "个",
-        "py": "gě",
-        "id": "digunakan dalam 自個兒|自个儿[zi4 ge3 r5]",
+        "py": "gè",
+        "id": "(kata penggolong yang digunakan sebelum kata benda yang tidak memiliki kata penggolong spesifik)",
         "hsk": 1
       },
       {
@@ -12566,15 +12540,9 @@
         "hsk": 1
       },
       {
-        "cn": "合",
-        "py": "gě",
-        "id": "100 ml",
-        "hsk": 3
-      },
-      {
         "cn": "格",
         "py": "gé",
-        "id": "digunakan dalam 格登[ge1 deng1]",
+        "id": "persegi",
         "hsk": 7
       },
       {
@@ -12642,10 +12610,10 @@
         "hsk": 1
       },
       {
-        "cn": "吓",
-        "py": "hè",
-        "id": "menakut-nakuti",
-        "hsk": 5
+        "cn": "合",
+        "py": "hé",
+        "id": "menutup",
+        "hsk": 3
       },
       {
         "cn": "河",
@@ -12678,12 +12646,6 @@
         "py": "yào",
         "id": "daun iris",
         "hsk": 2
-      },
-      {
-        "cn": "约",
-        "py": "yāo",
-        "id": "menimbang di timbangan",
-        "hsk": 3
       },
       {
         "cn": "咬",
@@ -12862,6 +12824,12 @@
         "hsk": 2
       },
       {
+        "cn": "页",
+        "py": "yè",
+        "id": "halaman",
+        "hsk": 1
+      },
+      {
         "cn": "野",
         "py": "yě",
         "id": "padang rumput",
@@ -12871,12 +12839,6 @@
         "cn": "业",
         "py": "Yè",
         "id": "marga Ye",
-        "hsk": 7
-      },
-      {
-        "cn": "拽",
-        "py": "yè",
-        "id": "melempar",
         "hsk": 7
       }
     ],
@@ -12932,6 +12894,12 @@
         "hsk": 2
       },
       {
+        "cn": "读",
+        "py": "dú",
+        "id": "membaca nyaring; membaca keras",
+        "hsk": 1
+      },
+      {
         "cn": "毒",
         "py": "dú",
         "id": "racun",
@@ -12974,12 +12942,6 @@
         "py": "duì",
         "id": "skuadron",
         "hsk": 2
-      },
-      {
-        "cn": "追",
-        "py": "duī",
-        "id": "memahat; mengukir; alat musik (kuno)",
-        "hsk": 3
       },
       {
         "cn": "堆",
@@ -13301,8 +13263,8 @@
       },
       {
         "cn": "吧",
-        "py": "bā",
-        "id": "bar (kata serapan) (menyajikan minuman, atau menyediakan akses Internet, dll)",
+        "py": "ba",
+        "id": "(partikel modal yang menunjukkan saran atau dugaan)",
         "hsk": 1
       },
       {
@@ -13403,8 +13365,8 @@
       },
       {
         "cn": "背",
-        "py": "bēi",
-        "id": "membawa beban",
+        "py": "bèi",
+        "id": "punggung badan atau objek",
         "hsk": 2
       },
       {
@@ -13454,12 +13416,6 @@
         "hsk": 2
       },
       {
-        "cn": "弹",
-        "py": "dàn",
-        "id": "bola kecil",
-        "hsk": 5
-      },
-      {
         "cn": "淡",
         "py": "dàn",
         "id": "hambar",
@@ -13495,8 +13451,8 @@
     "wei": [
       {
         "cn": "为",
-        "py": "wéi",
-        "id": "sebagai (dalam kapasitas)",
+        "py": "wèi",
+        "id": "karena",
         "hsk": 2
       },
       {
@@ -13513,8 +13469,8 @@
       },
       {
         "cn": "喂",
-        "py": "wéi",
-        "id": "halo (saat menjawab telepon)",
+        "py": "wèi",
+        "id": "hei",
         "hsk": 2
       },
       {
@@ -13640,12 +13596,6 @@
         "hsk": 7
       },
       {
-        "cn": "谜",
-        "py": "mèi",
-        "id": "lihat 謎兒|谜儿[mei4 r5], teka-teki",
-        "hsk": 7
-      },
-      {
         "cn": "煤",
         "py": "méi",
         "id": "batu bara",
@@ -13661,8 +13611,8 @@
       },
       {
         "cn": "打",
-        "py": "dá",
-        "id": "(kata serapan) lusin",
+        "py": "dǎ",
+        "id": "memukul; menyerang",
         "hsk": 1
       },
       {
@@ -13673,8 +13623,8 @@
       },
       {
         "cn": "答",
-        "py": "dā",
-        "id": "bentuk terikat yang memiliki arti sama dengan kata bebas 答[da2], digunakan dalam 答應|答应[da1 ying5], 答理[da1 li5] dll",
+        "py": "dá",
+        "id": "menjawab",
         "hsk": 5
       }
     ],
@@ -13686,9 +13636,21 @@
         "hsk": 1
       },
       {
+        "cn": "吓",
+        "py": "xià",
+        "id": "menakutkan",
+        "hsk": 5
+      },
+      {
         "cn": "瞎",
         "py": "xiā",
         "id": "buta",
+        "hsk": 7
+      },
+      {
+        "cn": "虾",
+        "py": "xiā",
+        "id": "udang",
         "hsk": 7
       }
     ],
@@ -13758,6 +13720,12 @@
         "py": "Lì",
         "id": "marga Li",
         "hsk": 3
+      },
+      {
+        "cn": "离",
+        "py": "lí",
+        "id": "meninggalkan",
+        "hsk": 2
       },
       {
         "cn": "利",
@@ -13901,8 +13869,8 @@
       },
       {
         "cn": "量",
-        "py": "liáng",
-        "id": "mengukur",
+        "py": "liàng",
+        "id": "kapasitas",
         "hsk": 4
       },
       {
@@ -13921,8 +13889,8 @@
     "ma": [
       {
         "cn": "吗",
-        "py": "má",
-        "id": "(slang) apa?",
+        "py": "ma",
+        "id": "(partikel pertanyaan untuk pertanyaan \"ya-tidak\")",
         "hsk": 1
       },
       {
@@ -13939,8 +13907,8 @@
       },
       {
         "cn": "嘛",
-        "py": "má",
-        "id": "digunakan dalam 唵嘛呢叭咪吽[an3 ma2 ni2 ba1 mi1 hong1]",
+        "py": "ma",
+        "id": "partikel modal yang mengindikasikan sesuatu yang jelas",
         "hsk": 6
       },
       {
@@ -13953,12 +13921,6 @@
         "cn": "码",
         "py": "mǎ",
         "id": "(kuno) batu akik",
-        "hsk": 7
-      },
-      {
-        "cn": "抹",
-        "py": "mā",
-        "id": "menyeka",
         "hsk": 7
       },
       {
@@ -14047,8 +14009,8 @@
       },
       {
         "cn": "处",
-        "py": "chǔ",
-        "id": "bertempat tinggal",
+        "py": "chù",
+        "id": "tempat; lokalitas",
         "hsk": 4
       },
       {
@@ -14172,6 +14134,12 @@
         "py": "kē",
         "id": "klasifier untuk pohon, kubis, tanaman, dll",
         "hsk": 4
+      },
+      {
+        "cn": "咳",
+        "py": "ké",
+        "id": "batuk",
+        "hsk": 5
       },
       {
         "cn": "渴",
@@ -14305,8 +14273,8 @@
       },
       {
         "cn": "刺",
-        "py": "cī",
-        "id": "(tiruan bunyi) wuush",
+        "py": "cì",
+        "id": "duri",
         "hsk": 4
       },
       {
@@ -14604,6 +14572,12 @@
         "hsk": 6
       },
       {
+        "cn": "浅",
+        "py": "qiǎn",
+        "id": "dangkal",
+        "hsk": 4
+      },
+      {
         "cn": "铅",
         "py": "qiān",
         "id": "timbal (kimia)",
@@ -14734,12 +14708,6 @@
         "hsk": 1
       },
       {
-        "cn": "离",
-        "py": "chī",
-        "id": "makhluk mitologis (kuno)",
-        "hsk": 2
-      },
-      {
         "cn": "持",
         "py": "chí",
         "id": "memegang",
@@ -14750,6 +14718,12 @@
         "py": "Chí",
         "id": "terlambat",
         "hsk": 5
+      },
+      {
+        "cn": "尺",
+        "py": "chǐ",
+        "id": "satu kaki Tiongkok",
+        "hsk": 4
       }
     ],
     "yu": [
@@ -14788,12 +14762,6 @@
         "py": "yù",
         "id": "giok",
         "hsk": 4
-      },
-      {
-        "cn": "粥",
-        "py": "yù",
-        "id": "digunakan dalam 葷粥|荤粥[Xun1 yu4]",
-        "hsk": 6
       },
       {
         "cn": "余",
@@ -14878,7 +14846,7 @@
       {
         "cn": "当",
         "py": "dāng",
-        "id": "(tiruan bunyi) dong",
+        "id": "menjadi",
         "hsk": 2
       },
       {
@@ -14889,8 +14857,8 @@
       },
       {
         "cn": "档",
-        "py": "dǎng",
-        "id": "(Tw) gigi persneling (varian dari 擋|挡[dang3])",
+        "py": "dàng",
+        "id": "rak (untuk arsip); loket",
         "hsk": 6
       },
       {
@@ -14974,12 +14942,6 @@
         "py": "huá",
         "id": "mendayung",
         "hsk": 4
-      },
-      {
-        "cn": "豁",
-        "py": "huá",
-        "id": "memainkan permainan tebak jari Tiongkok",
-        "hsk": 7
       }
     ],
     "suo": [
@@ -15014,6 +14976,12 @@
         "py": "Yuè",
         "id": "kata generik untuk orang atau negara di Tiongkok selatan atau Asia selatan pada periode sejarah yang berbeda",
         "hsk": 2
+      },
+      {
+        "cn": "约",
+        "py": "yuē",
+        "id": "membuat janji",
+        "hsk": 3
       },
       {
         "cn": "曰",
@@ -15094,6 +15062,12 @@
         "hsk": 3
       },
       {
+        "cn": "骑",
+        "py": "qí",
+        "id": "duduk melintang",
+        "hsk": 2
+      },
+      {
         "cn": "齐",
         "py": "Qí",
         "id": "(nama negara bagian dan dinasti pada beberapa periode yang berbeda)",
@@ -15127,8 +15101,8 @@
       },
       {
         "cn": "待",
-        "py": "dāi",
-        "id": "untuk tinggal; untuk tetap",
+        "py": "dài",
+        "id": "menunggu",
         "hsk": 5
       },
       {
@@ -15197,8 +15171,8 @@
     "ji": [
       {
         "cn": "几",
-        "py": "jī",
-        "id": "meja kecil",
+        "py": "jǐ",
+        "id": "berapa banyak",
         "hsk": 1
       },
       {
@@ -15260,12 +15234,6 @@
         "py": "jì",
         "id": "sudah",
         "hsk": 4
-      },
-      {
-        "cn": "骑",
-        "py": "jì",
-        "id": "(Tw) kuda pelana",
-        "hsk": 2
       },
       {
         "cn": "剂",
@@ -15390,12 +15358,6 @@
         "hsk": 6
       },
       {
-        "cn": "浅",
-        "py": "jiān",
-        "id": "suara air mengalir",
-        "hsk": 4
-      },
-      {
         "cn": "键",
         "py": "jiàn",
         "id": "tombol (pada piano atau keyboard komputer)",
@@ -15422,12 +15384,6 @@
     ],
     "e": [
       {
-        "cn": "哦",
-        "py": "é",
-        "id": "partikel di akhir kalimat yang menyampaikan informalitas, kehangatan, keramahan atau keintiman",
-        "hsk": 7
-      },
-      {
         "cn": "饿",
         "py": "è",
         "id": "lapar",
@@ -15435,8 +15391,8 @@
       },
       {
         "cn": "恶",
-        "py": "ě",
-        "id": "digunakan dalam 惡心|恶心[e3 xin1]",
+        "py": "è",
+        "id": "jahat",
         "hsk": 7
       },
       {
@@ -15460,12 +15416,6 @@
         "hsk": 7
       },
       {
-        "cn": "尺",
-        "py": "chě",
-        "id": "salah satu karakter yang digunakan untuk mewakili not musik dalam notasi gongche, 工尺譜|工尺谱[gong1 che3 pu3]",
-        "hsk": 4
-      },
-      {
         "cn": "撤",
         "py": "chè",
         "id": "menarik; mengambil",
@@ -15487,12 +15437,6 @@
       }
     ],
     "yin": [
-      {
-        "cn": "听",
-        "py": "yǐn",
-        "id": "tersenyum (kuno)",
-        "hsk": 1
-      },
       {
         "cn": "因",
         "py": "yīn",
@@ -15608,10 +15552,10 @@
         "hsk": 2
       },
       {
-        "cn": "觉",
-        "py": "jiào",
-        "id": "tidur siang; tidur; KP:場|场[chang2]",
-        "hsk": 6
+        "cn": "角",
+        "py": "jiǎo",
+        "id": "sudut; pojok; tanduk; berbentuk tanduk; unit uang senilai 0,1 yuan, atau 10 sen (satu dime); KP:個|个[ge4]",
+        "hsk": 2
       },
       {
         "cn": "较",
@@ -15786,6 +15730,12 @@
         "hsk": 3
       },
       {
+        "cn": "称",
+        "py": "chēng",
+        "id": "menimbang",
+        "hsk": 2
+      },
+      {
         "cn": "乘",
         "py": "Chéng",
         "id": "menaiki",
@@ -15947,8 +15897,8 @@
     "la": [
       {
         "cn": "啦",
-        "py": "lā",
-        "id": "(tiruan bunyi) suara nyanyian, sorakan, dll",
+        "py": "la",
+        "id": "partikel akhir kalimat, kontraksi dari 了啊, menunjukkan seruan",
         "hsk": 6
       },
       {
@@ -15985,8 +15935,8 @@
       },
       {
         "cn": "场",
-        "py": "cháng",
-        "id": "tempat penjemuran; penggolong untuk peristiwa dan kejadian: periode, episode, pertandingan",
+        "py": "chǎng",
+        "id": "tempat besar yang digunakan untuk tujuan tertentu; panggung; adegan (drama); penggolong untuk kegiatan olahraga atau rekreasi; penggolong jumlah ujian",
         "hsk": 2
       },
       {
@@ -16000,6 +15950,12 @@
         "py": "Cháng",
         "id": "selalu",
         "hsk": 1
+      },
+      {
+        "cn": "厂",
+        "py": "chǎng",
+        "id": "pabrik",
+        "hsk": 3
       },
       {
         "cn": "尝",
@@ -16044,34 +16000,6 @@
         "py": "wěn",
         "id": "tenang; kokoh; stabil",
         "hsk": 4
-      }
-    ],
-    "gao su": [
-      {
-        "cn": "告诉",
-        "py": "gào sù",
-        "id": "mengajukan tuntutan; mengajukan keluhan",
-        "hsk": 1
-      },
-      {
-        "cn": "高速",
-        "py": "gāo sù",
-        "id": "kecepatan tinggi",
-        "hsk": 3
-      }
-    ],
-    "di fang": [
-      {
-        "cn": "地方",
-        "py": "dì fāng",
-        "id": "wilayah",
-        "hsk": 1
-      },
-      {
-        "cn": "提防",
-        "py": "dī fang",
-        "id": "menjaga terhadap",
-        "hsk": 7
       }
     ],
     "sui": [
@@ -16291,8 +16219,8 @@
     "zheng": [
       {
         "cn": "正",
-        "py": "zhēng",
-        "id": "bulan pertama tahun lunar",
+        "py": "zhèng",
+        "id": "lurus",
         "hsk": 1
       },
       {
@@ -16315,8 +16243,8 @@
       },
       {
         "cn": "挣",
-        "py": "zhēng",
-        "id": "digunakan dalam 掙扎|挣扎[zheng1 zha2]",
+        "py": "zhèng",
+        "id": "berjuang untuk bebas",
         "hsk": 5
       },
       {
@@ -16409,7 +16337,7 @@
       },
       {
         "cn": "鲜",
-        "py": "xiǎn",
+        "py": "xiān",
         "id": "segar",
         "hsk": 4
       },
@@ -16480,6 +16408,12 @@
         "py": "huǒ",
         "id": "makanan (singkatan dari 伙食[huo3 shi2])",
         "hsk": 4
+      },
+      {
+        "cn": "豁",
+        "py": "huò",
+        "id": "terbuka; jelas; berjiwa besar; murah hati",
+        "hsk": 7
       }
     ],
     "zhang": [
@@ -16716,18 +16650,6 @@
         "hsk": 2
       },
       {
-        "cn": "解",
-        "py": "Xiè",
-        "id": "pertunjukan akrobatik (terutama di atas kuda) (kuno)",
-        "hsk": 6
-      },
-      {
-        "cn": "页",
-        "py": "xié",
-        "id": "kepala",
-        "hsk": 1
-      },
-      {
         "cn": "邪",
         "py": "xié",
         "id": "demonik",
@@ -16770,6 +16692,12 @@
         "py": "Zhōu",
         "id": "marga Zhou",
         "hsk": 2
+      },
+      {
+        "cn": "粥",
+        "py": "zhōu",
+        "id": "bubur",
+        "hsk": 6
       },
       {
         "cn": "皱",
@@ -16863,6 +16791,12 @@
         "cn": "完",
         "py": "wán",
         "id": "selesai",
+        "hsk": 2
+      },
+      {
+        "cn": "万",
+        "py": "wàn",
+        "id": "sepuluh ribu",
         "hsk": 2
       },
       {
@@ -17159,8 +17093,8 @@
       },
       {
         "cn": "闷",
-        "py": "mēn",
-        "id": "pengap",
+        "py": "mèn",
+        "id": "bosan",
         "hsk": 7
       }
     ],
@@ -17173,8 +17107,8 @@
       },
       {
         "cn": "节",
-        "py": "jiē",
-        "id": "lihat 節骨眼|节骨眼[jie1 gu5 yan3]",
+        "py": "jié",
+        "id": "sendi; ruas",
         "hsk": 2
       },
       {
@@ -17188,6 +17122,12 @@
         "py": "jiè",
         "id": "meminjam",
         "hsk": 2
+      },
+      {
+        "cn": "解",
+        "py": "jiě",
+        "id": "memecah",
+        "hsk": 6
       },
       {
         "cn": "结",
@@ -17309,8 +17249,8 @@
       },
       {
         "cn": "哑",
-        "py": "yā",
-        "id": "(tiruan bunyi) suara gagak",
+        "py": "yǎ",
+        "id": "bisu; bodoh; tidak mampu berbicara",
         "hsk": 7
       }
     ],
@@ -17331,12 +17271,6 @@
         "cn": "钢",
         "py": "gāng",
         "id": "baja",
-        "hsk": 7
-      },
-      {
-        "cn": "扛",
-        "py": "gāng",
-        "id": "mengangkat tinggi dengan kedua tangan",
         "hsk": 7
       },
       {
@@ -17622,12 +17556,6 @@
         "py": "qiú",
         "id": "bola yang digunakan untuk bermain game (varian dari 球[qiu2])",
         "hsk": 1
-      },
-      {
-        "cn": "仇",
-        "py": "Qiú",
-        "id": "pasangan",
-        "hsk": 7
       }
     ],
     "bian": [
@@ -17749,8 +17677,8 @@
       },
       {
         "cn": "呛",
-        "py": "qiāng",
-        "id": "tersedak (karena salah menelan)",
+        "py": "qiàng",
+        "id": "membuat hidung teriritasi",
         "hsk": 7
       }
     ],
@@ -17823,8 +17751,8 @@
       },
       {
         "cn": "令",
-        "py": "líng",
-        "id": "digunakan dalam 脊令[ji2 ling2]",
+        "py": "lìng",
+        "id": "memerintah",
         "hsk": 5
       },
       {
@@ -18002,33 +17930,7 @@
         "hsk": 7
       }
     ],
-    "pao": [
-      {
-        "cn": "跑",
-        "py": "páo",
-        "id": "(hewan) menghentak-hentakkan (tanah)",
-        "hsk": 1
-      },
-      {
-        "cn": "泡",
-        "py": "pāo",
-        "id": "menggelembung; bengkak; seperti spons",
-        "hsk": 6
-      },
-      {
-        "cn": "抛",
-        "py": "pāo",
-        "id": "melempar",
-        "hsk": 7
-      }
-    ],
     "mo": [
-      {
-        "cn": "万",
-        "py": "mò",
-        "id": "digunakan dalam 万俟[Mo4 qi2]",
-        "hsk": 2
-      },
       {
         "cn": "摸",
         "py": "mō",
@@ -18046,6 +17948,12 @@
         "py": "mó",
         "id": "selaput",
         "hsk": 6
+      },
+      {
+        "cn": "抹",
+        "py": "mǒ",
+        "id": "menyeka",
+        "hsk": 7
       },
       {
         "cn": "磨",
@@ -18195,8 +18103,8 @@
     "pian": [
       {
         "cn": "片",
-        "py": "piān",
-        "id": "disk",
+        "py": "piàn",
+        "id": "potongan tipis",
         "hsk": 2
       },
       {
@@ -18322,6 +18230,12 @@
         "py": "zū",
         "id": "menyewa",
         "hsk": 2
+      },
+      {
+        "cn": "足",
+        "py": "zú",
+        "id": "kaki; tungkai",
+        "hsk": 6
       },
       {
         "cn": "族",
@@ -18575,12 +18489,6 @@
         "cn": "充",
         "py": "chōng",
         "id": "cukup; penuh",
-        "hsk": 7
-      },
-      {
-        "cn": "涌",
-        "py": "chōng",
-        "id": "(digunakan dalam nama tempat)",
         "hsk": 7
       },
       {
@@ -18906,6 +18814,12 @@
         "py": "mì",
         "id": "madu",
         "hsk": 7
+      },
+      {
+        "cn": "谜",
+        "py": "mí",
+        "id": "teka-teki",
+        "hsk": 7
       }
     ],
     "ren wu": [
@@ -19182,12 +19096,6 @@
         "hsk": 2
       },
       {
-        "cn": "足",
-        "py": "jù",
-        "id": "berlebihan",
-        "hsk": 6
-      },
-      {
         "cn": "聚",
         "py": "jù",
         "id": "berkumpul; berkumpul (transitif atau intransitif)",
@@ -19207,6 +19115,12 @@
       }
     ],
     "ting": [
+      {
+        "cn": "听",
+        "py": "tīng",
+        "id": "mendengarkan; mendengar",
+        "hsk": 1
+      },
       {
         "cn": "挺",
         "py": "tǐng",
@@ -19243,6 +19157,12 @@
         "cn": "桩",
         "py": "zhuāng",
         "id": "tunggul; pancang; tumpukan",
+        "hsk": 7
+      },
+      {
+        "cn": "幢",
+        "py": "zhuàng",
+        "id": "kata penggolong untuk bangunan (Taiwan dibaca [chuang2])",
         "hsk": 7
       },
       {
@@ -19318,16 +19238,16 @@
         "hsk": 6
       },
       {
+        "cn": "薄",
+        "py": "báo",
+        "id": "ringan",
+        "hsk": 4
+      },
+      {
         "cn": "饱",
         "py": "bǎo",
         "id": "makan sampai kenyang",
         "hsk": 2
-      },
-      {
-        "cn": "炮",
-        "py": "bāo",
-        "id": "menumis",
-        "hsk": 6
       },
       {
         "cn": "豹",
@@ -19438,12 +19358,6 @@
         "hsk": 4
       },
       {
-        "cn": "广",
-        "py": "yǎn",
-        "id": "radikal \"rumah di tebing\" dalam aksara Tionghoa (radikal Kangxi ke-53), muncul di 店, 序, 底 dll.",
-        "hsk": 5
-      },
-      {
         "cn": "沿",
         "py": "yán",
         "id": "sepanjang",
@@ -19545,20 +19459,6 @@
         "cn": "清除",
         "py": "qīng chú",
         "id": "membersihkan",
-        "hsk": 7
-      }
-    ],
-    "gu shi": [
-      {
-        "cn": "故事",
-        "py": "gù shì",
-        "id": "kebiasaan lama",
-        "hsk": 2
-      },
-      {
-        "cn": "股市",
-        "py": "gǔ shì",
-        "id": "pasar saham",
         "hsk": 7
       }
     ],
@@ -19719,8 +19619,8 @@
       },
       {
         "cn": "哄",
-        "py": "hōng",
-        "id": "derai tawa (tiruan bunyi)",
+        "py": "hǒng",
+        "id": "menipu",
         "hsk": 7
       }
     ],
@@ -19778,6 +19678,12 @@
         "py": "guāng",
         "id": "cahaya; sinar (KP:道[dao4])",
         "hsk": 3
+      },
+      {
+        "cn": "广",
+        "py": "guǎng",
+        "id": "luas",
+        "hsk": 5
       },
       {
         "cn": "逛",
@@ -19896,6 +19802,12 @@
         "hsk": 7
       },
       {
+        "cn": "弹",
+        "py": "tán",
+        "id": "memetik (senar)",
+        "hsk": 5
+      },
+      {
         "cn": "摊",
         "py": "tān",
         "id": "membentangkan",
@@ -19959,8 +19871,8 @@
       },
       {
         "cn": "结实",
-        "py": "jiē shí",
-        "id": "berbuah",
+        "py": "jiē shi",
+        "id": "kokoh; kuat; tahan lama; berotot (fisik)",
         "hsk": 3
       },
       {
@@ -20140,10 +20052,10 @@
     ],
     "di": [
       {
-        "cn": "提",
-        "py": "dī",
-        "id": "digunakan dalam 提防[di1 fang5] dan 提溜[di1 liu5]",
-        "hsk": 2
+        "cn": "底",
+        "py": "dǐ",
+        "id": "bawah; dasar",
+        "hsk": 4
       },
       {
         "cn": "低",
@@ -20261,8 +20173,8 @@
       },
       {
         "cn": "扇",
-        "py": "shān",
-        "id": "mengipasi",
+        "py": "shàn",
+        "id": "kipas",
         "hsk": 5
       },
       {
@@ -20301,12 +20213,6 @@
       }
     ],
     "long": [
-      {
-        "cn": "弄",
-        "py": "lòng",
-        "id": "gang",
-        "hsk": 2
-      },
       {
         "cn": "龙",
         "py": "Lóng",
@@ -20452,12 +20358,6 @@
         "py": "chuǎng",
         "id": "menerjang",
         "hsk": 5
-      },
-      {
-        "cn": "幢",
-        "py": "chuáng",
-        "id": "panji; panji-panji (di Tiongkok kuno)",
-        "hsk": 7
       }
     ],
     "man": [
@@ -20495,8 +20395,8 @@
     "cha": [
       {
         "cn": "差",
-        "py": "chā",
-        "id": "perbedaan; kesenjangan",
+        "py": "chà",
+        "id": "berbeda",
         "hsk": 1
       },
       {
@@ -20607,8 +20507,8 @@
       },
       {
         "cn": "炸",
-        "py": "zhá",
-        "id": "menggoreng",
+        "py": "zhà",
+        "id": "meledak; untuk meledak",
         "hsk": 6
       },
       {
@@ -20632,15 +20532,9 @@
     ],
     "dou": [
       {
-        "cn": "读",
-        "py": "dòu",
-        "id": "koma",
-        "hsk": 1
-      },
-      {
         "cn": "斗",
-        "py": "Dǒu",
-        "id": "alat ukur kering untuk biji-bijian setara sepuluh 升[sheng1] atau sepersepuluh 升[dan4]",
+        "py": "dòu",
+        "id": "berkelahi",
         "hsk": 7
       },
       {
@@ -20850,12 +20744,6 @@
         "py": "hài",
         "id": "membahayakan",
         "hsk": 5
-      },
-      {
-        "cn": "咳",
-        "py": "hāi",
-        "id": "suara mendesah",
-        "hsk": 5
       }
     ],
     "pei": [
@@ -20945,8 +20833,8 @@
       },
       {
         "cn": "累",
-        "py": "lěi",
-        "id": "mengakumulasi",
+        "py": "lèi",
+        "id": "lelah",
         "hsk": 1
       },
       {
@@ -20957,12 +20845,6 @@
       }
     ],
     "chen": [
-      {
-        "cn": "称",
-        "py": "chèn",
-        "id": "cocok; sesuai",
-        "hsk": 2
-      },
       {
         "cn": "趁",
         "py": "chèn",
@@ -21204,20 +21086,6 @@
         "py": "jiǎn lì",
         "id": "curriculum vitae (CV)",
         "hsk": 4
-      }
-    ],
-    "qi zi": [
-      {
-        "cn": "妻子",
-        "py": "qī zǐ",
-        "id": "istri dan anak-anak",
-        "hsk": 4
-      },
-      {
-        "cn": "棋子",
-        "py": "qí zǐ",
-        "id": "bidak catur",
-        "hsk": 7
       }
     ],
     "shi chang": [
@@ -21632,6 +21500,12 @@
         "hsk": 7
       },
       {
+        "cn": "番",
+        "py": "fān",
+        "id": "asing (non-Tiongkok); barbar",
+        "hsk": 6
+      },
+      {
         "cn": "帆",
         "py": "fān",
         "id": "layar",
@@ -21912,20 +21786,6 @@
         "hsk": 6
       }
     ],
-    "ruo": [
-      {
-        "cn": "若",
-        "py": "ruò",
-        "id": "digunakan dalam 般若[bo1 re3]",
-        "hsk": 6
-      },
-      {
-        "cn": "弱",
-        "py": "ruò",
-        "id": "lemah; lemah lembut",
-        "hsk": 4
-      }
-    ],
     "pan": [
       {
         "cn": "盘",
@@ -21934,21 +21794,9 @@
         "hsk": 4
       },
       {
-        "cn": "胖",
-        "py": "pán",
-        "id": "sehat",
-        "hsk": 3
-      },
-      {
         "cn": "判",
         "py": "pàn",
         "id": "untuk membedakan; memilah",
-        "hsk": 6
-      },
-      {
-        "cn": "番",
-        "py": "Pān",
-        "id": "marga Pan",
         "hsk": 6
       },
       {
@@ -22010,20 +21858,6 @@
         "hsk": 7
       }
     ],
-    "chong dian": [
-      {
-        "cn": "重点",
-        "py": "chóng diǎn",
-        "id": "menghitung ulang (mis. hasil pemilihan)",
-        "hsk": 2
-      },
-      {
-        "cn": "充电",
-        "py": "chōng diàn",
-        "id": "mengisi ulang (baterai)",
-        "hsk": 4
-      }
-    ],
     "shi dai": [
       {
         "cn": "时代",
@@ -22053,7 +21887,7 @@
       },
       {
         "cn": "匹",
-        "py": "pī",
+        "py": "pǐ",
         "id": "cocok; sebanding dengan",
         "hsk": 5
       },
@@ -22375,8 +22209,8 @@
       },
       {
         "cn": "脏",
-        "py": "zàng",
-        "id": "organ dalam",
+        "py": "zāng",
+        "id": "kotor",
         "hsk": 2
       },
       {
@@ -22524,6 +22358,12 @@
         "hsk": 5
       },
       {
+        "cn": "仇",
+        "py": "chóu",
+        "id": "kebencian",
+        "hsk": 7
+      },
+      {
         "cn": "瞅",
         "py": "chǒu",
         "id": "(dialek) melihat",
@@ -22618,7 +22458,7 @@
       {
         "cn": "蹲",
         "py": "dūn",
-        "id": "(dialek) keseleo kaki atau tungkai karena benturan atau pendaratan tiba-tiba",
+        "id": "jongkok",
         "hsk": 6
       },
       {
@@ -22888,12 +22728,6 @@
         "hsk": 7
       },
       {
-        "cn": "折",
-        "py": "shé",
-        "id": "mematahkan",
-        "hsk": 4
-      },
-      {
         "cn": "蛇",
         "py": "shé",
         "id": "ular",
@@ -22903,12 +22737,6 @@
         "cn": "社",
         "py": "shè",
         "id": "masyarakat; organisasi; badan",
-        "hsk": 5
-      },
-      {
-        "cn": "拾",
-        "py": "shè",
-        "id": "mendaki dengan langkah ringan",
         "hsk": 5
       }
     ],
@@ -23149,8 +22977,8 @@
       },
       {
         "cn": "晃",
-        "py": "huǎng",
-        "id": "mempesona",
+        "py": "huàng",
+        "id": "bergoyang",
         "hsk": 7
       },
       {
@@ -23181,6 +23009,12 @@
       }
     ],
     "ti": [
+      {
+        "cn": "提",
+        "py": "tí",
+        "id": "membawa (tergantung dari tangan)",
+        "hsk": 2
+      },
       {
         "cn": "替",
         "py": "tì",
@@ -23419,8 +23253,8 @@
       },
       {
         "cn": "趟",
-        "py": "tāng",
-        "id": "menyeberang",
+        "py": "tàng",
+        "id": "klasifikasi untuk kali, perjalanan pulang pergi atau baris",
         "hsk": 6
       },
       {
@@ -23658,12 +23492,6 @@
         "hsk": 2
       },
       {
-        "cn": "厂",
-        "py": "hǎn",
-        "id": "radikal \"tebing\" dalam karakter Tiongkok (radikal Kangxi 27), muncul dalam 原, 历, 压 dll",
-        "hsk": 3
-      },
-      {
         "cn": "含",
         "py": "hán",
         "id": "menjaga di dalam mulut",
@@ -23671,8 +23499,8 @@
       },
       {
         "cn": "汗",
-        "py": "hán",
-        "id": "lihat 可汗[ke4 han2], 汗國|汗国[han2 guo2]",
+        "py": "hàn",
+        "id": "keringat",
         "hsk": 5
       },
       {
@@ -23899,8 +23727,8 @@
       },
       {
         "cn": "翘",
-        "py": "qiáo",
-        "id": "luar biasa",
+        "py": "qiào",
+        "id": "menegakkan",
         "hsk": 7
       },
       {
@@ -24019,6 +23847,12 @@
       }
     ],
     "zhuan": [
+      {
+        "cn": "转",
+        "py": "zhuǎn",
+        "id": "berputar",
+        "hsk": 3
+      },
       {
         "cn": "赚",
         "py": "zhuàn",
@@ -24300,10 +24134,10 @@
     ],
     "jue": [
       {
-        "cn": "角",
-        "py": "Jué",
-        "id": "peran (teater); bersaing; bejana anggur kuno berkaki tiga; nada ketiga dari skala pentatonik",
-        "hsk": 2
+        "cn": "觉",
+        "py": "jué",
+        "id": "merasa; menemukan bahwa; berpikir; bangun; sadar",
+        "hsk": 6
       },
       {
         "cn": "绝",
@@ -24676,12 +24510,6 @@
         "py": "bō",
         "id": "menabur (benih); menyebarkan (ide, rumor, dll); menyiarkan (sinyal radio, dll)",
         "hsk": 6
-      },
-      {
-        "cn": "薄",
-        "py": "Bó",
-        "id": "sedikit",
-        "hsk": 4
       }
     ],
     "sou": [
@@ -25204,20 +25032,6 @@
         "hsk": 7
       }
     ],
-    "bian yi": [
-      {
-        "cn": "便宜",
-        "py": "biàn yí",
-        "id": "nyaman",
-        "hsk": 2
-      },
-      {
-        "cn": "变异",
-        "py": "biàn yì",
-        "id": "variasi",
-        "hsk": 7
-      }
-    ],
     "peng": [
       {
         "cn": "碰",
@@ -25521,6 +25335,12 @@
         "cn": "暂",
         "py": "zàn",
         "id": "sementara",
+        "hsk": 7
+      },
+      {
+        "cn": "攒",
+        "py": "zǎn",
+        "id": "mengumpulkan",
         "hsk": 7
       }
     ],
@@ -26316,20 +26136,6 @@
         "hsk": 4
       }
     ],
-    "gong fu": [
-      {
-        "cn": "功夫",
-        "py": "gōng fu",
-        "id": "keterampilan",
-        "hsk": 3
-      },
-      {
-        "cn": "工夫",
-        "py": "gōng fū",
-        "id": "(dulu) buruh",
-        "hsk": 3
-      }
-    ],
     "shai": [
       {
         "cn": "晒",
@@ -27093,8 +26899,8 @@
     "shi zi": [
       {
         "cn": "狮子",
-        "py": "Shī zǐ",
-        "id": "Leo (zodiak)",
+        "py": "shī zi",
+        "id": "singa",
         "hsk": 7
       },
       {
@@ -27283,8 +27089,8 @@
     "ao": [
       {
         "cn": "熬",
-        "py": "āo",
-        "id": "merebus; mendidihkan perlahan",
+        "py": "áo",
+        "id": "memasak dengan api kecil; mengekstrak dengan pemanasan; menyeduh",
         "hsk": 7
       },
       {
@@ -28636,20 +28442,6 @@
         "hsk": 7
       }
     ],
-    "da yi": [
-      {
-        "cn": "大衣",
-        "py": "dà yī",
-        "id": "mantel",
-        "hsk": 2
-      },
-      {
-        "cn": "大意",
-        "py": "dà yì",
-        "id": "ide umum",
-        "hsk": 7
-      }
-    ],
     "quan chang": [
       {
         "cn": "全场",
@@ -28940,20 +28732,6 @@
         "py": "fáng jià",
         "id": "harga rumah",
         "hsk": 6
-      }
-    ],
-    "da fu": [
-      {
-        "cn": "大夫",
-        "py": "dà fū",
-        "id": "pejabat tinggi (di Tiongkok kekaisaran)",
-        "hsk": 3
-      },
-      {
-        "cn": "答复",
-        "py": "dá fù",
-        "id": "menjawab",
-        "hsk": 5
       }
     ],
     "he zi": [
@@ -30659,20 +30437,6 @@
         "cn": "争气",
         "py": "zhēng qì",
         "id": "bekerja keras untuk sesuatu",
-        "hsk": 7
-      }
-    ],
-    "cuan": [
-      {
-        "cn": "窜",
-        "py": "cuàn",
-        "id": "melarikan diri",
-        "hsk": 7
-      },
-      {
-        "cn": "攒",
-        "py": "cuán",
-        "id": "mengumpulkan",
         "hsk": 7
       }
     ],
@@ -32526,6 +32290,200 @@
         "py": "lián zhèng",
         "id": "lurus dan jujur",
         "hsk": 7
+      }
+    ],
+    "di fang": [
+      {
+        "cn": "地方",
+        "py": "dì fang",
+        "id": "tempat",
+        "hsk": 1
+      },
+      {
+        "cn": "提防",
+        "py": "dī fang",
+        "id": "menjaga terhadap",
+        "hsk": 7
+      }
+    ],
+    "pao": [
+      {
+        "cn": "跑",
+        "py": "pǎo",
+        "id": "berlari",
+        "hsk": 1
+      },
+      {
+        "cn": "泡",
+        "py": "pào",
+        "id": "gelembung; busa",
+        "hsk": 6
+      },
+      {
+        "cn": "抛",
+        "py": "pāo",
+        "id": "melempar",
+        "hsk": 7
+      },
+      {
+        "cn": "炮",
+        "py": "pào",
+        "id": "meriam",
+        "hsk": 6
+      }
+    ],
+    "gu shi": [
+      {
+        "cn": "故事",
+        "py": "gù shi",
+        "id": "narasi; cerita; kisah",
+        "hsk": 2
+      },
+      {
+        "cn": "股市",
+        "py": "gǔ shì",
+        "id": "pasar saham",
+        "hsk": 7
+      }
+    ],
+    "nong": [
+      {
+        "cn": "弄",
+        "py": "nòng",
+        "id": "melakukan",
+        "hsk": 2
+      },
+      {
+        "cn": "浓",
+        "py": "nóng",
+        "id": "pekat",
+        "hsk": 4
+      }
+    ],
+    "zhui": [
+      {
+        "cn": "追",
+        "py": "zhuī",
+        "id": "mengejar; memburu; menyelidiki; menengok ke belakang; mengenang; merayu (kekasih); binge-watch (drama TV); retrospektif; anumerta",
+        "hsk": 3
+      },
+      {
+        "cn": "坠",
+        "py": "zhuì",
+        "id": "jatuh",
+        "hsk": 7
+      }
+    ],
+    "zhong dian": [
+      {
+        "cn": "重点",
+        "py": "zhòng diǎn",
+        "id": "poin penting; poin utama; fokus",
+        "hsk": 2
+      },
+      {
+        "cn": "终点",
+        "py": "zhōng diǎn",
+        "id": "akhir; titik akhir; garis finis (dalam perlombaan); tujuan; terminus",
+        "hsk": 5
+      }
+    ],
+    "gong fu": [
+      {
+        "cn": "功夫",
+        "py": "gōng fu",
+        "id": "keterampilan",
+        "hsk": 3
+      },
+      {
+        "cn": "工夫",
+        "py": "gōng fu",
+        "id": "jangka waktu (bisa berbulan-bulan, atau hanya beberapa detik)",
+        "hsk": 3
+      }
+    ],
+    "gao su": [
+      {
+        "cn": "告诉",
+        "py": "gào su",
+        "id": "memberitahu; menginformasikan; memberitahukan",
+        "hsk": 1
+      },
+      {
+        "cn": "高速",
+        "py": "gāo sù",
+        "id": "kecepatan tinggi",
+        "hsk": 3
+      }
+    ],
+    "qi zi": [
+      {
+        "cn": "妻子",
+        "py": "qī zi",
+        "id": "istri",
+        "hsk": 4
+      },
+      {
+        "cn": "棋子",
+        "py": "qí zǐ",
+        "id": "bidak catur",
+        "hsk": 7
+      }
+    ],
+    "pang": [
+      {
+        "cn": "胖",
+        "py": "pàng",
+        "id": "gemuk",
+        "hsk": 3
+      },
+      {
+        "cn": "旁",
+        "py": "páng",
+        "id": "satu sisi",
+        "hsk": 5
+      }
+    ],
+    "yong": [
+      {
+        "cn": "用",
+        "py": "yòng",
+        "id": "menggunakan; memanfaatkan; mempekerjakan",
+        "hsk": 1
+      },
+      {
+        "cn": "涌",
+        "py": "yǒng",
+        "id": "menggelegak",
+        "hsk": 7
+      }
+    ],
+    "da yi": [
+      {
+        "cn": "大衣",
+        "py": "dà yī",
+        "id": "mantel",
+        "hsk": 2
+      },
+      {
+        "cn": "大意",
+        "py": "dà yi",
+        "id": "ceroboh",
+        "hsk": 7
+      }
+    ],
+    "ruo": [
+      {
+        "cn": "若",
+        "py": "ruò",
+        "id": "tampak",
+        "hsk": 6
+      },
+      {
+        "cn": "弱",
+        "py": "ruò",
+        "id": "lemah; lemah lembut",
+        "hsk": 4
       }
     ]
   }
