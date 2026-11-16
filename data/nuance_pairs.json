@@ -953,7 +953,7 @@
       "comparison": [
         {
           "word": "多少",
-          "pinyin": "duō shǎo",
+          "pinyin": "duō shao",
           "hsk": 1,
           "usage_id": "menanyakan jumlah atau harga, tidak terbatas pada angka kecil",
           "quantity": null,
@@ -971,7 +971,7 @@
         },
         {
           "word": "几",
-          "pinyin": "jī",
+          "pinyin": "jǐ",
           "hsk": 1,
           "usage_id": "menanyakan jumlah kecil (biasanya 1-10) atau waktu jam",
           "quantity": null,
@@ -2363,7 +2363,7 @@
         },
         {
           "word": "累",
-          "pinyin": "lěi",
+          "pinyin": "lèi",
           "hsk": 1,
           "usage_id": "kehabisan energi, perlu istirahat",
           "quantity": null,
@@ -3324,7 +3324,7 @@
         },
         {
           "word": "跑",
-          "pinyin": "páo",
+          "pinyin": "pǎo",
           "hsk": 1,
           "usage_id": "Berlari atau lari cepat.",
           "quantity": null,
@@ -5349,7 +5349,7 @@
       "comparison": [
         {
           "word": "听",
-          "pinyin": "yǐn",
+          "pinyin": "tīng",
           "hsk": 1,
           "usage_id": "mendengarkan suara",
           "quantity": null,
@@ -5664,7 +5664,7 @@
         },
         {
           "word": "称",
-          "pinyin": "chèn",
+          "pinyin": "chēng",
           "hsk": 2,
           "usage_id": "Menyebut atau menamai secara formal, sering dalam tulisan atau situasi resmi.",
           "quantity": null,
@@ -5710,7 +5710,7 @@
         },
         {
           "word": "打",
-          "pinyin": "dá",
+          "pinyin": "dǎ",
           "hsk": 1,
           "usage_id": "Memukul dengan kepalan, benda, atau alat.",
           "quantity": null,
@@ -5831,7 +5831,7 @@
       "comparison": [
         {
           "word": "便宜",
-          "pinyin": "biàn yí",
+          "pinyin": "pián yi",
           "hsk": 2,
           "usage_id": "Murah atau terjangkau.",
           "quantity": null,
@@ -5894,7 +5894,7 @@
         },
         {
           "word": "脏",
-          "pinyin": "zàng",
+          "pinyin": "zāng",
           "hsk": 2,
           "usage_id": "Kotor atau jorok.",
           "quantity": null,
@@ -6729,7 +6729,7 @@
         },
         {
           "word": "为",
-          "pinyin": "wéi",
+          "pinyin": "wèi",
           "hsk": 2,
           "usage_id": "menyatakan tujuan, manfaat, atau pihak yang diuntungkan",
           "quantity": null,
@@ -7017,7 +7017,7 @@
         },
         {
           "word": "教学",
-          "pinyin": "jiāo xué",
+          "pinyin": "jiào xué",
           "hsk": 2,
           "usage_id": "proses belajar-mengajar di kelas",
           "quantity": null,
@@ -7815,7 +7815,7 @@
       "comparison": [
         {
           "word": "重点",
-          "pinyin": "chóng diǎn",
+          "pinyin": "zhòng diǎn",
           "hsk": 2,
           "usage_id": "prioritas atau fokus utama",
           "quantity": null,
@@ -9503,7 +9503,7 @@
       "comparison": [
         {
           "word": "地方",
-          "pinyin": "dì fāng",
+          "pinyin": "dì fang",
           "hsk": 1,
           "usage_id": "menyatakan tempat atau lokasi spesifik",
           "quantity": null,
@@ -10169,7 +10169,7 @@
       "comparison": [
         {
           "word": "个",
-          "pinyin": "gě",
+          "pinyin": "gè",
           "hsk": 1,
           "usage_id": "Individu, pribadi, atau sendiri.",
           "quantity": null,
@@ -11823,7 +11823,7 @@
       "comparison": [
         {
           "word": "结果",
-          "pinyin": "jiē guǒ",
+          "pinyin": "jié guǒ",
           "hsk": 2,
           "usage_id": "hasil dari suatu tindakan atau proses",
           "quantity": null,
@@ -12644,7 +12644,7 @@
         },
         {
           "word": "背",
-          "pinyin": "bēi",
+          "pinyin": "bèi",
           "hsk": 2,
           "usage_id": "Menghafal atau mengucapkan dari ingatan (tanpa melihat teks).",
           "quantity": null,
@@ -19991,7 +19991,7 @@
       "comparison": [
         {
           "word": "胖",
-          "pinyin": "pán",
+          "pinyin": "pàng",
           "hsk": 3,
           "usage_id": "Gemuk atau berisi, untuk orang atau hewan (netral atau deskriptif).",
           "quantity": null,
@@ -20083,7 +20083,7 @@
       "comparison": [
         {
           "word": "鲜",
-          "pinyin": "xiǎn",
+          "pinyin": "xiān",
           "hsk": 4,
           "usage_id": "Segar, baru, atau enak.",
           "quantity": null,
@@ -21834,7 +21834,7 @@
         },
         {
           "word": "薄",
-          "pinyin": "bó",
+          "pinyin": "báo",
           "hsk": 4,
           "usage_id": "Tipis, untuk kertas, kain, atau dinding.",
           "quantity": null,
@@ -21880,7 +21880,7 @@
         },
         {
           "word": "折",
-          "pinyin": "shé",
+          "pinyin": "zhé",
           "hsk": 4,
           "usage_id": "Melipat atau membengkokkan (kertas, kain, selimut) hingga berlipat atau patah.",
           "quantity": null,
@@ -22207,7 +22207,7 @@
         },
         {
           "word": "妻子",
-          "pinyin": "qī zǐ",
+          "pinyin": "qī zi",
           "hsk": 4,
           "usage_id": "Istri (pasangan perempuan dalam pernikahan).",
           "quantity": null,
@@ -23150,7 +23150,7 @@
         },
         {
           "word": "扇",
-          "pinyin": "shān",
+          "pinyin": "shàn",
           "hsk": 5,
           "usage_id": "Mengipasi dengan kipas atau benda datar untuk membuat angin.",
           "quantity": null,
@@ -25919,7 +25919,7 @@
       "comparison": [
         {
           "word": "刺",
-          "pinyin": "cī",
+          "pinyin": "cì",
           "hsk": 4,
           "usage_id": "Menusuk dengan benda tajam (jarum, pisau, duri).",
           "quantity": null,
@@ -26011,7 +26011,7 @@
       "comparison": [
         {
           "word": "答",
-          "pinyin": "dā",
+          "pinyin": "dá",
           "hsk": 5,
           "usage_id": "Menjawab pertanyaan atau permintaan informasi.",
           "quantity": null,
@@ -27612,7 +27612,7 @@
         },
         {
           "word": "解",
-          "pinyin": "xiè",
+          "pinyin": "jiě",
           "hsk": 6,
           "usage_id": "Membubarkan, menguraikan, atau memecahkan.",
           "quantity": null,
@@ -28083,7 +28083,7 @@
         },
         {
           "word": "粥",
-          "pinyin": "yù",
+          "pinyin": "zhōu",
           "hsk": 6,
           "usage_id": "bubur dari beras yang dimasak hingga kental",
           "quantity": null,
@@ -28495,7 +28495,7 @@
       "comparison": [
         {
           "word": "转",
-          "pinyin": "zhuǎi",
+          "pinyin": "zhuǎn",
           "hsk": 3,
           "usage_id": "Memutar atau berputar, untuk roda, kepala, atau tubuh.",
           "quantity": null,
@@ -28558,7 +28558,7 @@
         },
         {
           "word": "合",
-          "pinyin": "gě",
+          "pinyin": "hé",
           "hsk": 3,
           "usage_id": "Bersatu atau bergabung menjadi satu.",
           "quantity": null,
@@ -30470,7 +30470,7 @@
         },
         {
           "word": "炸",
-          "pinyin": "zhá",
+          "pinyin": "zhà",
           "hsk": 6,
           "usage_id": "Menggoreng dalam minyak panas, sering untuk makanan seperti ayam goreng, pisang goreng.",
           "quantity": null,
@@ -38794,7 +38794,7 @@
         },
         {
           "word": "恶",
-          "pinyin": "ě",
+          "pinyin": "è",
           "hsk": 7,
           "usage_id": "Jahat, buruk, atau kejam.",
           "quantity": null,
@@ -39949,7 +39949,7 @@
       "comparison": [
         {
           "word": "读",
-          "pinyin": "dòu",
+          "pinyin": "dú",
           "hsk": 1,
           "usage_id": "Membaca buku, artikel, atau teks secara umum, baik nyaring atau dalam hati.",
           "quantity": null,
@@ -39995,7 +39995,7 @@
       "comparison": [
         {
           "word": "正",
-          "pinyin": "zhēng",
+          "pinyin": "zhèng",
           "hsk": 1,
           "usage_id": "Lurus, benar, atau tepat.",
           "quantity": null,
@@ -41741,7 +41741,7 @@
       "comparison": [
         {
           "word": "追",
-          "pinyin": "duī",
+          "pinyin": "zhuī",
           "hsk": 3,
           "usage_id": "Mengejar (orang, kendaraan, tujuan, impian).",
           "quantity": null,
@@ -43442,7 +43442,7 @@
         },
         {
           "word": "量",
-          "pinyin": "liáng",
+          "pinyin": "liàng",
           "hsk": 4,
           "usage_id": "Kuantitas, jumlah, atau takaran.",
           "quantity": null,
@@ -43939,7 +43939,7 @@
       "comparison": [
         {
           "word": "孙子",
-          "pinyin": "sūn zǐ",
+          "pinyin": "sūn zi",
           "hsk": 4,
           "usage_id": "Cucu laki-laki (dari anak laki-laki).",
           "quantity": null,
@@ -44558,7 +44558,7 @@
         },
         {
           "word": "广",
-          "pinyin": "yǎn",
+          "pinyin": "guǎng",
           "hsk": 5,
           "usage_id": "Luas, meluas, atau meluas.",
           "quantity": null,
@@ -45099,7 +45099,7 @@
       "comparison": [
         {
           "word": "裁缝",
-          "pinyin": "cái féng",
+          "pinyin": "cái feng",
           "hsk": 4,
           "usage_id": "Penjahit (membuat/pakaian).",
           "quantity": null,
@@ -45335,7 +45335,7 @@
       "comparison": [
         {
           "word": "足",
-          "pinyin": "jù",
+          "pinyin": "zú",
           "hsk": 6,
           "usage_id": "Cukup, memadai, atau cukup banyak.",
           "quantity": null,
@@ -46806,7 +46806,7 @@
         },
         {
           "word": "闷",
-          "pinyin": "mēn",
+          "pinyin": "mèn",
           "hsk": 7,
           "usage_id": "Gerah, pengap, atau sumpek.",
           "quantity": null,
@@ -52949,7 +52949,7 @@
       "comparison": [
         {
           "word": "浅",
-          "pinyin": "jiān",
+          "pinyin": "qiǎn",
           "hsk": 4,
           "usage_id": "dangkal (air/warna/derajat)",
           "quantity": null,
