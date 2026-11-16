@@ -490,9 +490,9 @@
     "id": "个",
     "simplified": "个",
     "traditional": "個",
-    "pinyin": "gě",
-    "pinyin_numeric": "ge3",
-    "bopomofo": "ㄍㄜˇ",
+    "pinyin": "gè",
+    "pinyin_numeric": "ge4",
+    "bopomofo": "ㄍㄜˋ",
     "hsk": "1",
     "hsk2": "1",
     "frequency": 19,
@@ -505,16 +505,14 @@
       "g"
     ],
     "meanings_id": [
-      "digunakan dalam 自個兒|自个儿[zi4 ge3 r5]",
       "(kata penggolong yang digunakan sebelum kata benda yang tidak memiliki kata penggolong spesifik)",
       "(bentuk terikat) individu",
-      "varian dari 個|个[ge4]"
+      "varian dari 個|个[ge4]",
+      "[gě] digunakan dalam 自個兒|自个儿[zi4 ge3 r5]"
     ],
     "meanings_en": [
-      "used in 自个儿",
-      "(classifier used before a noun that has no specific classifier)",
-      "(bound form) individual",
-      "variant of 个"
+      "classifier for people or objects in general",
+      "individual"
     ],
     "radical": "丨",
     "radical_number": 2,
@@ -692,7 +690,7 @@
     "traditional": "要",
     "pinyin": "yào",
     "pinyin_numeric": "yao4",
-    "bopomofo": "ㄧㄠ",
+    "bopomofo": "ㄧㄠˋ",
     "hsk": "1",
     "hsk2": "2",
     "frequency": 19,
@@ -1070,7 +1068,7 @@
     "traditional": "都",
     "pinyin": "dōu",
     "pinyin_numeric": "dou1",
-    "bopomofo": "ㄉㄨ",
+    "bopomofo": "ㄉㄡ",
     "hsk": "1",
     "hsk2": "1",
     "frequency": 25,
@@ -1393,7 +1391,7 @@
     "traditional": "還",
     "pinyin": "hái",
     "pinyin_numeric": "hai2",
-    "bopomofo": "ㄏㄨㄢˊ",
+    "bopomofo": "ㄏㄞˊ",
     "hsk": "1",
     "hsk2": "2",
     "frequency": 37,
@@ -1565,7 +1563,7 @@
     "traditional": "著",
     "pinyin": "zhe",
     "pinyin_numeric": "zhe5",
-    "bopomofo": "ㄓㄠ",
+    "bopomofo": "ㄓㄜ˙",
     "hsk": "1",
     "hsk2": "2",
     "frequency": 38,
@@ -1889,9 +1887,9 @@
     "id": "啊",
     "simplified": "啊",
     "traditional": "啊",
-    "pinyin": "ā",
-    "pinyin_numeric": "a1",
-    "bopomofo": "ㄚ",
+    "pinyin": "a",
+    "pinyin_numeric": "a5",
+    "bopomofo": "ㄚ˙",
     "hsk": "2",
     "hsk2": "3",
     "frequency": 47,
@@ -1904,38 +1902,25 @@
       "seruan"
     ],
     "meanings_id": [
-      "kata seru terkejut",
-      "Ah!",
-      "Oh!",
-      "kata seru yang mengungkapkan keraguan atau memerlukan jawaban",
-      "Eh?",
-      "apa?",
-      "kata seru terkejut atau ragu",
-      "Ya ampun!",
-      "ada apa?",
-      "kata seru atau gerutuan persetujuan",
-      "uhm",
-      "Ah, OK",
-      "ekspresi pengakuan",
-      "Oh, itu kamu!",
-      "partikel modal yang mengakhiri kalimat, menunjukkan penegasan, persetujuan, atau izin"
+      "partikel modal yang mengakhiri kalimat, menunjukkan penegasan, persetujuan, atau izin",
+      "[ā] kata seru terkejut",
+      "[ā] Ah!",
+      "[ā] Oh!",
+      "[á] kata seru yang mengungkapkan keraguan atau memerlukan jawaban",
+      "[á / ǎ] Eh?",
+      "[á] apa?",
+      "[ǎ] kata seru terkejut atau ragu",
+      "[ǎ] Ya ampun!",
+      "[ǎ] ada apa?",
+      "[à] kata seru atau gerutuan persetujuan",
+      "[à] uhm",
+      "[à] Ah, OK",
+      "[à] ekspresi pengakuan",
+      "[à] Oh, itu kamu!"
     ],
     "meanings_en": [
-      "interjection of surprise",
-      "Ah!",
-      "Oh!",
-      "interjection expressing doubt or requiring answer",
-      "Eh?",
-      "what?",
-      "interjection of surprise or doubt",
-      "My!",
-      "what's up?",
-      "interjection or grunt of agreement",
-      "uhm",
-      "Ah, OK",
-      "expression of recognition",
-      "Oh, it's you!",
-      "modal particle ending sentence, showing affirmation, approval, or consent"
+      "particle that softens statements, questions or exclamations",
+      "[ā] interjection of surprise or admiration"
     ],
     "radical": "口",
     "radical_number": 30,
@@ -1956,7 +1941,7 @@
     "traditional": "那",
     "pinyin": "nà",
     "pinyin_numeric": "na4",
-    "bopomofo": "ㄋㄚ",
+    "bopomofo": "ㄋㄚˋ",
     "hsk": "1",
     "hsk2": "1",
     "frequency": 48,
@@ -2460,9 +2445,9 @@
     "id": "为",
     "simplified": "为",
     "traditional": "為",
-    "pinyin": "wéi",
-    "pinyin_numeric": "wei2",
-    "bopomofo": "ㄨㄟˊ",
+    "pinyin": "wèi",
+    "pinyin_numeric": "wei4",
+    "bopomofo": "ㄨㄟˋ",
     "hsk": "2",
     "hsk2": "2",
     "frequency": 58,
@@ -2475,34 +2460,24 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "sebagai (dalam kapasitas)",
-      "menganggap sesuatu sebagai",
-      "bertindak sebagai",
-      "berfungsi sebagai",
-      "berperilaku sebagai",
-      "menjadi",
-      "adalah",
-      "oleh (dalam kalimat pasif)",
       "karena",
       "untuk",
       "kepada",
-      "varian dari 為|为[wei2]",
-      "varian dari 為|为[wei4]"
+      "varian dari 為|为[wei4]",
+      "[wéi] sebagai (dalam kapasitas)",
+      "[wéi] menganggap sesuatu sebagai",
+      "[wéi] bertindak sebagai",
+      "[wéi] berfungsi sebagai",
+      "[wéi] berperilaku sebagai",
+      "[wéi] menjadi",
+      "[wéi] adalah",
+      "[wéi] oleh (dalam kalimat pasif)",
+      "[wéi] varian dari 為|为[wei2]"
     ],
     "meanings_en": [
-      "as (in the capacity of)",
-      "to take sth as",
-      "to act as",
-      "to serve as",
-      "to behave as",
-      "to become",
-      "to be",
-      "to do",
-      "by (in the passive voice)",
+      "for; for the sake of",
       "because of",
-      "for",
-      "to",
-      "variant of 为"
+      "[wéi] to act as; to be; to do"
     ],
     "radical": "丶",
     "radical_number": 3,
@@ -2566,9 +2541,9 @@
     "id": "吧",
     "simplified": "吧",
     "traditional": "吧",
-    "pinyin": "bā",
-    "pinyin_numeric": "ba1",
-    "bopomofo": "ㄅㄚ",
+    "pinyin": "ba",
+    "pinyin_numeric": "ba5",
+    "bopomofo": "ㄅㄚ˙",
     "hsk": "1",
     "hsk2": "2",
     "frequency": 58,
@@ -2579,26 +2554,19 @@
       "partikel"
     ],
     "meanings_id": [
-      "bar (kata serapan) (menyajikan minuman, atau menyediakan akses Internet, dll)",
-      "menghisap (pipa, dll)",
-      "(tiruan bunyi) bang",
-      "singkatan dari 貼吧|贴吧[tie1 ba1]",
       "(partikel modal yang menunjukkan saran atau dugaan)",
       "...kan?",
       "...oke?",
       "...Saya kira.",
-      "(tiruan bunyi) kecup!"
+      "[bā] bar (kata serapan) (menyajikan minuman, atau menyediakan akses Internet, dll)",
+      "[bā] menghisap (pipa, dll)",
+      "[bā] (tiruan bunyi) bang",
+      "[bā] singkatan dari 貼吧|贴吧[tie1 ba1]",
+      "[biā] (tiruan bunyi) kecup!"
     ],
     "meanings_en": [
-      "bar (loanword) (serving drinks, or providing Internet access etc)",
-      "to puff (on a pipe etc)",
-      "(onom.) bang",
-      "abbr. for 贴吧",
-      "(modal particle indicating suggestion or surmise)",
-      "...right?",
-      "...OK?",
-      "...I presume.",
-      "(onom.) smack!"
+      "particle for suggestions or requests",
+      "particle for assumptions"
     ],
     "radical": "口",
     "radical_number": 30,
@@ -2619,7 +2587,7 @@
     "traditional": "得",
     "pinyin": "de",
     "pinyin_numeric": "de5",
-    "bopomofo": "ㄉㄜˊ",
+    "bopomofo": "ㄉㄜ˙",
     "hsk": "2",
     "hsk2": "2",
     "frequency": 58,
@@ -2764,7 +2732,7 @@
     "traditional": "過",
     "pinyin": "guò",
     "pinyin_numeric": "guo4",
-    "bopomofo": "ㄍㄨㄛ",
+    "bopomofo": "ㄍㄨㄛˋ",
     "hsk": "1",
     "hsk2": "4",
     "frequency": 60,
@@ -3569,9 +3537,9 @@
     "id": "吗",
     "simplified": "吗",
     "traditional": "嗎",
-    "pinyin": "má",
-    "pinyin_numeric": "ma2",
-    "bopomofo": "ㄇㄚˊ",
+    "pinyin": "ma",
+    "pinyin_numeric": "ma5",
+    "bopomofo": "ㄇㄚ˙",
     "hsk": "1",
     "hsk2": "1",
     "frequency": 83,
@@ -3582,14 +3550,12 @@
       "partikel"
     ],
     "meanings_id": [
-      "(slang) apa?",
-      "digunakan dalam 嗎啡|吗啡[ma3 fei1]",
-      "(partikel pertanyaan untuk pertanyaan \"ya-tidak\")"
+      "(partikel pertanyaan untuk pertanyaan \"ya-tidak\")",
+      "[má] (slang) apa?",
+      "[mǎ] digunakan dalam 嗎啡|吗啡[ma3 fei1]"
     ],
     "meanings_en": [
-      "(coll.) what?",
-      "used in 吗啡",
-      "(question particle for \"yes-no\" questions)"
+      "question particle for yes/no questions"
     ],
     "radical": "口",
     "radical_number": 30,
@@ -5437,7 +5403,7 @@
     "traditional": "更",
     "pinyin": "gèng",
     "pinyin_numeric": "geng4",
-    "bopomofo": "ㄍㄥ",
+    "bopomofo": "ㄍㄥˋ",
     "hsk": "2",
     "hsk2": "3",
     "frequency": 127,
@@ -6133,7 +6099,7 @@
     "traditional": "與",
     "pinyin": "yǔ",
     "pinyin_numeric": "yu3",
-    "bopomofo": "ㄩˊ",
+    "bopomofo": "ㄩˇ",
     "hsk": "6",
     "hsk2": "4",
     "frequency": 147,
@@ -6502,9 +6468,9 @@
     "id": "打",
     "simplified": "打",
     "traditional": "打",
-    "pinyin": "dá",
-    "pinyin_numeric": "da2",
-    "bopomofo": "ㄉㄚˊ",
+    "pinyin": "dǎ",
+    "pinyin_numeric": "da3",
+    "bopomofo": "ㄉㄚˇ",
     "hsk": "1",
     "hsk2": null,
     "frequency": 153,
@@ -6515,32 +6481,17 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "(kata serapan) lusin",
-      "Taiwan dibaca [da3]",
-      "kata kerja transitif ringan secara semantik yang digabungkan dengan berbagai objek gramatikal untuk membentuk kata kerja majemuk dan frasa kata kerja-objek dengan berbagai makna (misalnya, 打傘|打伞[da3 san3] \"memegang payung\", 打電話|打电话[da3 dian4 hua4] \"menelepon\", 打針|打针[da3 zhen1] \"mendapatkan suntikan\", 打手套[da3 shou3 tao4] \"merajut sarung tangan\", 打氣|打气[da3 qi4] \"memompa\")",
       "memukul; menyerang",
       "berkelahi",
-      "(pengucapan) dari; sejak (seperti dalam 打那以後|打那以后[da3 na4 yi3 hou4] \"sejak saat itu\")"
+      "(pengucapan) dari; sejak (seperti dalam 打那以後|打那以后[da3 na4 yi3 hou4] \"sejak saat itu\")",
+      "kata kerja transitif ringan secara semantik yang digabungkan dengan berbagai objek gramatikal untuk membentuk kata kerja majemuk dan frasa kata kerja-objek dengan berbagai makna (misalnya, 打傘|打伞[da3 san3] \"memegang payung\", 打電話|打电话[da3 dian4 hua4] \"menelepon\", 打針|打针[da3 zhen1] \"mendapatkan suntikan\", 打手套[da3 shou3 tao4] \"merajut sarung tangan\", 打氣|打气[da3 qi4] \"memompa\")",
+      "[dá] (kata serapan) lusin",
+      "[dá] Taiwan dibaca [da3]"
     ],
     "meanings_en": [
-      "dozen (loanword)",
-      "to beat",
-      "to strike",
-      "to hit",
-      "to break",
-      "to type",
-      "to mix up",
-      "to build",
-      "to fight",
-      "to fetch",
-      "to make",
-      "to tie up",
-      "to issue",
-      "to shoot",
-      "to calculate",
+      "to hit; to strike; to beat",
       "to play (a game)",
-      "since",
-      "from"
+      "to make (a phone call)"
     ],
     "radical": "扌",
     "radical_number": 64,
@@ -6683,8 +6634,6 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "(tiruan bunyi) dong",
-      "ding dong (bel)",
       "menjadi",
       "bertindak sebagai",
       "mengelola",
@@ -6700,44 +6649,23 @@
       "di tempat",
       "tepat",
       "hanya di",
-      "pada atau di...yang sama",
-      "sesuai",
-      "memadai",
-      "mengganti",
-      "menganggap sebagai",
-      "berpikir",
-      "menggadaikan",
-      "(percakapan) untuk gagal (seorang siswa)"
+      "(tiruan bunyi) dong",
+      "ding dong (bel)",
+      "[dàng] pada atau di...yang sama",
+      "[dàng] sesuai",
+      "[dàng] memadai",
+      "[dàng] mengganti",
+      "[dàng] menganggap sebagai",
+      "[dàng] berpikir",
+      "[dàng] menggadaikan",
+      "[dàng] (percakapan) untuk gagal (seorang siswa)"
     ],
     "meanings_en": [
-      "(onom.) dong",
-      "ding dong (bell)",
-      "to be",
-      "to act as",
-      "manage",
-      "withstand",
-      "when",
-      "during",
-      "ought",
-      "should",
-      "match equally",
-      "equal",
-      "same",
-      "obstruct",
-      "just at (a time or place)",
-      "on the spot",
-      "right",
-      "just at",
-      "at or in the very same...",
-      "suitable",
-      "adequate",
-      "fitting",
-      "proper",
-      "to replace",
-      "to regard as",
-      "to think",
-      "to pawn",
-      "(coll.) to fail (a student)"
+      "to be; to act as",
+      "to manage; to be in charge of",
+      "ought to; should",
+      "when; at the time of",
+      "to withstand"
     ],
     "radical": "⺌",
     "radical_number": null,
@@ -7855,9 +7783,9 @@
     "id": "几",
     "simplified": "几",
     "traditional": "幾",
-    "pinyin": "jī",
-    "pinyin_numeric": "ji1",
-    "bopomofo": "ㄐㄧ",
+    "pinyin": "jǐ",
+    "pinyin_numeric": "ji3",
+    "bopomofo": "ㄐㄧˇ",
     "hsk": "1",
     "hsk2": "1",
     "frequency": 178,
@@ -7870,19 +7798,15 @@
       "kata keterangan"
     ],
     "meanings_id": [
-      "meja kecil",
-      "hampir",
       "berapa banyak",
       "beberapa",
-      "sedikit"
+      "sedikit",
+      "[jī] meja kecil",
+      "[jī] hampir"
     ],
     "meanings_en": [
-      "small table",
-      "almost",
-      "how much",
       "how many",
-      "several",
-      "a few"
+      "several; a few"
     ],
     "radical": "几",
     "radical_number": 16,
@@ -8062,9 +7986,9 @@
     "id": "哦",
     "simplified": "哦",
     "traditional": "哦",
-    "pinyin": "é",
-    "pinyin_numeric": "e2",
-    "bopomofo": "ㄜˊ",
+    "pinyin": "ò",
+    "pinyin_numeric": "o4",
+    "bopomofo": "ㄛˋ",
     "hsk": "7",
     "hsk2": "6",
     "frequency": 186,
@@ -8077,18 +8001,14 @@
       "seruan"
     ],
     "meanings_id": [
-      "partikel di akhir kalimat yang menyampaikan informalitas, kehangatan, keramahan atau keintiman",
-      "juga dapat menunjukkan bahwa seseorang menyatakan fakta yang tidak disadari oleh orang lain",
-      "melantunkan",
-      "oh (kata seru yang menunjukkan keraguan atau kejutan)",
-      "oh (kata seru yang menunjukkan bahwa seseorang baru saja mempelajari sesuatu)"
+      "oh (kata seru yang menunjukkan bahwa seseorang baru saja mempelajari sesuatu)",
+      "[o] partikel di akhir kalimat yang menyampaikan informalitas, kehangatan, keramahan atau keintiman",
+      "[o] juga dapat menunjukkan bahwa seseorang menyatakan fakta yang tidak disadari oleh orang lain",
+      "[é] melantunkan",
+      "[ó] oh (kata seru yang menunjukkan keraguan atau kejutan)"
     ],
     "meanings_en": [
-      "to chant",
-      "oh (interjection indicating doubt or surprise)",
-      "oh (interjection indicating that one has just learned sth)",
-      "sentence-final particle that conveys informality, warmth, friendliness or intimacy",
-      "may also indicate that one is stating a fact that the other person is not aware of"
+      "oh (interjection indicating understanding)"
     ],
     "radical": "口",
     "radical_number": 30,
@@ -8365,9 +8285,9 @@
     "id": "听",
     "simplified": "听",
     "traditional": "聽",
-    "pinyin": "yǐn",
-    "pinyin_numeric": "yin3",
-    "bopomofo": "ㄧㄣˇ",
+    "pinyin": "tīng",
+    "pinyin_numeric": "ting1",
+    "bopomofo": "ㄊㄧㄥ",
     "hsk": "1",
     "hsk2": "1",
     "frequency": 190,
@@ -8378,22 +8298,17 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "tersenyum (kuno)",
       "mendengarkan; mendengar",
       "mematuhi",
       "kaleng (kata pinjaman dari bahasa Inggris \"tin\")",
       "klasifikasi untuk minuman kaleng",
       "membiarkan; mengizinkan (Taiwan dibaca [ting4])",
-      "(sastra) mengelola; menangani (Taiwan dibaca [ting4])"
+      "(sastra) mengelola; menangani (Taiwan dibaca [ting4])",
+      "[yǐn] tersenyum (kuno)"
     ],
     "meanings_en": [
-      "smile (archaic)",
       "to listen to; to hear",
-      "to heed; to obey",
-      "a can (loanword from English \"tin\")",
-      "classifier for canned beverages",
-      "to let be; to allow (Taiwan pr. [tìng])",
-      "(literary) to administer; to deal with (Taiwan pr. [tìng])"
+      "to heed; to obey"
     ],
     "radical": "口",
     "radical_number": 30,
@@ -9392,9 +9307,9 @@
     "id": "东西",
     "simplified": "东西",
     "traditional": "東西",
-    "pinyin": "dōng xī",
-    "pinyin_numeric": "dong1 xi1",
-    "bopomofo": "ㄉㄨㄥ ㄒㄧ",
+    "pinyin": "dōng xi",
+    "pinyin_numeric": "dong1 xi5",
+    "bopomofo": "ㄉㄨㄥ ㄒㄧ˙",
     "hsk": "1",
     "hsk2": "1",
     "frequency": 226,
@@ -9409,17 +9324,15 @@
       "nr"
     ],
     "meanings_id": [
-      "timur dan barat",
       "barang",
       "benda",
       "orang",
-      "KP:個|个[ge4],件[jian4]"
+      "KP:個|个[ge4],件[jian4]",
+      "[dōng xī] timur dan barat"
     ],
     "meanings_en": [
-      "east and west",
-      "thing",
-      "stuff",
-      "person"
+      "thing; stuff; object",
+      "(derog.) creature"
     ],
     "radical": "一",
     "radical_number": 1,
@@ -10139,9 +10052,9 @@
     "id": "啦",
     "simplified": "啦",
     "traditional": "啦",
-    "pinyin": "lā",
-    "pinyin_numeric": "la1",
-    "bopomofo": "ㄌㄚ",
+    "pinyin": "la",
+    "pinyin_numeric": "la5",
+    "bopomofo": "ㄌㄚ˙",
     "hsk": "6",
     "hsk2": "6",
     "frequency": 246,
@@ -10152,18 +10065,14 @@
       "partikel"
     ],
     "meanings_id": [
-      "(tiruan bunyi) suara nyanyian, sorakan, dll",
-      "(fonetis)",
-      "(dialek) untuk mengobrol",
       "partikel akhir kalimat, kontraksi dari 了啊, menunjukkan seruan",
-      "partikel ditempatkan setelah setiap item dalam daftar contoh"
+      "partikel ditempatkan setelah setiap item dalam daftar contoh",
+      "[lā] (tiruan bunyi) suara nyanyian, sorakan, dll",
+      "[lā] (fonetis)",
+      "[lā] (dialek) untuk mengobrol"
     ],
     "meanings_en": [
-      "(onom.) sound of singing, cheering etc",
-      "(phonetic)",
-      "(dialect) to chat",
-      "sentence-final particle, contraction of 了啊, indicating exclamation",
-      "particle placed after each item in a list of examples"
+      "particle combining 了 and 啊 (exclamation or statement)"
     ],
     "radical": "口",
     "radical_number": 30,
@@ -10304,9 +10213,9 @@
     "id": "告诉",
     "simplified": "告诉",
     "traditional": "告訴",
-    "pinyin": "gào sù",
-    "pinyin_numeric": "gao4 su4",
-    "bopomofo": "ㄍㄠˋ ㄙㄨˋ",
+    "pinyin": "gào su",
+    "pinyin_numeric": "gao4 su5",
+    "bopomofo": "ㄍㄠˋ ㄙㄨ˙",
     "hsk": "1",
     "hsk2": "2",
     "frequency": 252,
@@ -10317,12 +10226,11 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "mengajukan tuntutan; mengajukan keluhan",
-      "memberitahu; menginformasikan; memberitahukan"
+      "memberitahu; menginformasikan; memberitahukan",
+      "[gào sù] mengajukan tuntutan; mengajukan keluhan"
     ],
     "meanings_en": [
-      "to press charges; to file a complaint",
-      "to tell; to inform; to let know"
+      "to tell; to inform"
     ],
     "radical": "口",
     "radical_number": 30,
@@ -10400,9 +10308,9 @@
     "id": "地方",
     "simplified": "地方",
     "traditional": "地方",
-    "pinyin": "dì fāng",
-    "pinyin_numeric": "di4 fang1",
-    "bopomofo": "ㄉㄧˋ ㄈㄤ",
+    "pinyin": "dì fang",
+    "pinyin_numeric": "di4 fang5",
+    "bopomofo": "ㄉㄧˋ ㄈㄤ˙",
     "hsk": "1",
     "hsk2": "3",
     "frequency": 254,
@@ -10413,24 +10321,18 @@
       "kata benda"
     ],
     "meanings_id": [
-      "wilayah",
-      "regional (jauh dari administrasi pusat)",
-      "lokal",
-      "area",
       "tempat",
+      "wilayah",
+      "area",
       "ruang",
       "kamar",
-      "KP:處|处[chu4],個|个[ge4],塊|块[kuai4]"
+      "KP:處|处[chu4],個|个[ge4],塊|块[kuai4]",
+      "[dì fāng] regional (jauh dari administrasi pusat)",
+      "[dì fāng] lokal"
     ],
     "meanings_en": [
-      "region",
-      "regional (away from the central administration)",
-      "local",
-      "area",
-      "place",
-      "space",
-      "room",
-      "territory"
+      "place; location",
+      "room (for sth)"
     ],
     "radical": "土",
     "radical_number": 32,
@@ -10725,7 +10627,7 @@
     "traditional": "行",
     "pinyin": "xíng",
     "pinyin_numeric": "xing2",
-    "bopomofo": "ㄏㄤˊ",
+    "bopomofo": "ㄒㄧㄥˊ",
     "hsk": "1",
     "hsk2": "4",
     "frequency": 272,
@@ -11282,9 +11184,9 @@
     "id": "场",
     "simplified": "场",
     "traditional": "場",
-    "pinyin": "cháng",
-    "pinyin_numeric": "chang2",
-    "bopomofo": "ㄔㄤˊ",
+    "pinyin": "chǎng",
+    "pinyin_numeric": "chang3",
+    "bopomofo": "ㄔㄤˇ",
     "hsk": "2",
     "hsk2": "4",
     "frequency": 286,
@@ -11297,20 +11199,14 @@
       "g"
     ],
     "meanings_id": [
-      "tempat penjemuran; penggolong untuk peristiwa dan kejadian: periode, episode, pertandingan",
       "tempat besar yang digunakan untuk tujuan tertentu; panggung; adegan (drama); penggolong untuk kegiatan olahraga atau rekreasi; penggolong jumlah ujian",
-      "varian dari 場|场[chang2]",
-      "varian dari 場|场[chang3]"
+      "varian dari 場|场[chang3]",
+      "[cháng] tempat penjemuran; penggolong untuk peristiwa dan kejadian: periode, episode, pertandingan",
+      "[cháng] varian dari 場|场[chang2]"
     ],
     "meanings_en": [
-      "threshing floor",
-      "classifier for events and happenings: spell, episode, bout",
-      "large place used for a specific purpose",
-      "stage",
-      "scene (of a play)",
-      "classifier for sporting or recreational activities",
-      "classifier for number of exams",
-      "variant of 场"
+      "place; venue; field",
+      "classifier for events (spell, episode, bout)"
     ],
     "radical": "土",
     "radical_number": 32,
@@ -11531,9 +11427,9 @@
     "id": "正",
     "simplified": "正",
     "traditional": "正",
-    "pinyin": "zhēng",
-    "pinyin_numeric": "zheng1",
-    "bopomofo": "ㄓㄥ",
+    "pinyin": "zhèng",
+    "pinyin_numeric": "zheng4",
+    "bopomofo": "ㄓㄥˋ",
     "hsk": "1",
     "hsk2": "5",
     "frequency": 294,
@@ -11550,7 +11446,6 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "bulan pertama tahun lunar",
       "lurus",
       "tegak",
       "benar",
@@ -11561,21 +11456,13 @@
       "tepat",
       "baru saja (saat itu)",
       "tepat (di tempat itu)",
-      "(matematika) positif"
+      "(matematika) positif",
+      "[zhēng] bulan pertama tahun lunar"
     ],
     "meanings_en": [
-      "first month of the lunar year",
-      "straight",
-      "upright",
-      "proper",
-      "main",
-      "principal",
-      "to correct",
-      "to rectify",
-      "exactly",
-      "just (at that time)",
-      "right (in that place)",
-      "(math.) positive"
+      "straight; upright",
+      "correct; main",
+      "just; precisely"
     ],
     "radical": "止",
     "radical_number": 77,
@@ -13434,9 +13321,9 @@
     "id": "结果",
     "simplified": "结果",
     "traditional": "結果",
-    "pinyin": "jiē guǒ",
-    "pinyin_numeric": "jie1 guo3",
-    "bopomofo": "ㄐㄧㄝ ㄍㄨㄛˇ",
+    "pinyin": "jié guǒ",
+    "pinyin_numeric": "jie2 guo3",
+    "bopomofo": "ㄐㄧㄝˊ ㄍㄨㄛˇ",
     "hsk": "2",
     "hsk2": "4",
     "frequency": 364,
@@ -13449,20 +13336,14 @@
       "kata keterangan"
     ],
     "meanings_id": [
-      "berbuah",
       "hasil; akibat; konsekuensi",
       "pada akhirnya; sebagai akibatnya",
-      "membunuh; mengirim"
+      "membunuh; mengirim",
+      "[jiē guǒ] berbuah"
     ],
     "meanings_en": [
-      "to bear fruit",
-      "outcome",
-      "result",
-      "conclusion",
-      "in the end",
-      "as a result",
-      "to kill",
-      "to dispatch"
+      "result; outcome",
+      "in the end; finally"
     ],
     "radical": "纟",
     "radical_number": 120,
@@ -17804,7 +17685,7 @@
     "traditional": "作",
     "pinyin": "zuò",
     "pinyin_numeric": "zuo4",
-    "bopomofo": "ㄗㄨㄛ",
+    "bopomofo": "ㄗㄨㄛˋ",
     "hsk": "6",
     "hsk2": null,
     "frequency": 483,
@@ -18650,9 +18531,9 @@
     "id": "处",
     "simplified": "处",
     "traditional": "處",
-    "pinyin": "chǔ",
-    "pinyin_numeric": "chu3",
-    "bopomofo": "ㄔㄨˇ",
+    "pinyin": "chù",
+    "pinyin_numeric": "chu4",
+    "bopomofo": "ㄔㄨˋ",
     "hsk": "4",
     "hsk2": null,
     "frequency": 505,
@@ -18667,41 +18548,24 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "bertempat tinggal",
-      "tinggal",
-      "berdiam",
-      "berada di",
-      "bergaul dengan",
-      "berada di posisi",
-      "berurusan dengan",
-      "mendisiplinkan",
-      "menghukum",
       "(bentuk terikat) tempat; lokalitas",
       "(bentuk terikat) bagian; aspek",
       "(bentuk terikat) kantor; departemen; biro",
-      "penggolong untuk lokasi: tempat, titik"
+      "penggolong untuk lokasi: tempat, titik",
+      "[chǔ] bertempat tinggal",
+      "[chǔ] tinggal",
+      "[chǔ] berdiam",
+      "[chǔ] berada di",
+      "[chǔ] bergaul dengan",
+      "[chǔ] berada di posisi",
+      "[chǔ] berurusan dengan",
+      "[chǔ] mendisiplinkan",
+      "[chǔ] menghukum"
     ],
     "meanings_en": [
-      "to reside",
-      "to live",
-      "to dwell",
-      "to be in",
-      "to be situated at",
-      "to stay",
-      "to get along with",
-      "to be in a position of",
-      "to deal with",
-      "to discipline",
-      "to punish",
-      "place",
-      "location",
-      "spot",
-      "point",
-      "office",
-      "department",
-      "bureau",
-      "respect",
-      "classifier for locations or items of damage: spot, point"
+      "place; location",
+      "department; office",
+      "[chǔ] to reside; to handle; to be in a position"
     ],
     "radical": "夂",
     "radical_number": 34,
@@ -18858,9 +18722,9 @@
     "id": "转",
     "simplified": "转",
     "traditional": "轉",
-    "pinyin": "zhuǎi",
-    "pinyin_numeric": "zhuai3",
-    "bopomofo": "ㄓㄨㄞˇ",
+    "pinyin": "zhuǎn",
+    "pinyin_numeric": "zhuan3",
+    "bopomofo": "ㄓㄨㄢˇ",
     "hsk": "3",
     "hsk2": null,
     "frequency": 508,
@@ -18871,28 +18735,19 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "lihat 轉文|转文[zhuai3 wen2]",
       "berputar",
       "berubah arah",
       "mentransfer",
       "meneruskan (surat)",
-      "berkeliling",
-      "berjalan kesana kemari",
-      "klasifikator untuk putaran (per menit dll): putaran, rpm",
-      "klasifikator untuk tindakan berulang"
+      "[zhuǎi] lihat 轉文|转文[zhuai3 wen2]",
+      "[zhuàn] berkeliling",
+      "[zhuàn] berjalan kesana kemari",
+      "[zhuàn] klasifikator untuk putaran (per menit dll): putaran, rpm",
+      "[zhuàn] klasifikator untuk tindakan berulang"
     ],
     "meanings_en": [
-      "see 转文",
-      "to turn",
-      "to change direction",
-      "to transfer",
-      "to forward (mail)",
-      "(Internet) to share (sb else's content)",
-      "to revolve",
-      "to circle about",
-      "to walk about",
-      "classifier for revolutions (per minute etc): revs, rpm",
-      "classifier for repeated actions"
+      "to turn; to change direction",
+      "to transfer; to forward"
     ],
     "radical": "车",
     "radical_number": 159,
@@ -19362,9 +19217,9 @@
     "id": "多少",
     "simplified": "多少",
     "traditional": "多少",
-    "pinyin": "duō shǎo",
-    "pinyin_numeric": "duo1 shao3",
-    "bopomofo": "ㄉㄨㄛ ㄕㄠˇ",
+    "pinyin": "duō shao",
+    "pinyin_numeric": "duo1 shao5",
+    "bopomofo": "ㄉㄨㄛ ㄕㄠ˙",
     "hsk": "1",
     "hsk2": "1",
     "frequency": 526,
@@ -19375,18 +19230,14 @@
       "kata ganti"
     ],
     "meanings_id": [
-      "jumlah; kuantitas",
-      "agak",
       "berapa banyak?; berapa?",
-      "(nomor telepon, ID siswa, dll.) nomor berapa?"
+      "(nomor telepon, ID siswa, dll.) nomor berapa?",
+      "[duō shǎo] jumlah; kuantitas",
+      "[duō shǎo] agak"
     ],
     "meanings_en": [
-      "number",
-      "amount",
-      "somewhat",
-      "how much?",
-      "how many?",
-      "(phone number, student ID etc) what number?"
+      "how many; how much",
+      "number; amount"
     ],
     "radical": "夕",
     "radical_number": 36,
@@ -20229,7 +20080,7 @@
     "traditional": "曾",
     "pinyin": "céng",
     "pinyin_numeric": "ceng2",
-    "bopomofo": "ㄗㄥ",
+    "bopomofo": "ㄘㄥˊ",
     "hsk": "4",
     "hsk2": null,
     "frequency": 545,
@@ -20842,9 +20693,9 @@
     "id": "跑",
     "simplified": "跑",
     "traditional": "跑",
-    "pinyin": "páo",
-    "pinyin_numeric": "pao2",
-    "bopomofo": "ㄆㄠˊ",
+    "pinyin": "pǎo",
+    "pinyin_numeric": "pao3",
+    "bopomofo": "ㄆㄠˇ",
     "hsk": "1",
     "hsk2": null,
     "frequency": 553,
@@ -20855,24 +20706,18 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "(hewan) menghentak-hentakkan (tanah)",
       "berlari",
       "melarikan diri",
       "kabur",
       "berlari kesana kemari (untuk tugas dll)",
       "(gas atau cairan) bocor atau menguap",
       "(pelengkap kata kerja) pergi",
-      "hilang"
+      "hilang",
+      "[páo] (hewan) menghentak-hentakkan (tanah)"
     ],
     "meanings_en": [
-      "(of an animal) to paw (the ground)",
       "to run",
-      "to run away",
-      "to escape",
-      "to run around (on errands etc)",
-      "(of a gas or liquid) to leak or evaporate",
-      "(verb complement) away",
-      "off"
+      "to flee; to leak"
     ],
     "radical": "足",
     "radical_number": 157,
@@ -21045,9 +20890,9 @@
     "id": "万",
     "simplified": "万",
     "traditional": "萬",
-    "pinyin": "mò",
-    "pinyin_numeric": "mo4",
-    "bopomofo": "ㄇㄛˋ",
+    "pinyin": "wàn",
+    "pinyin_numeric": "wan4",
+    "bopomofo": "ㄨㄢˋ",
     "hsk": "2",
     "hsk2": "3",
     "frequency": 557,
@@ -21060,16 +20905,13 @@
       "kata waktu"
     ],
     "meanings_id": [
-      "digunakan dalam 万俟[Mo4 qi2]",
-      "marga Wan",
       "sepuluh ribu",
-      "sejumlah besar"
+      "sejumlah besar",
+      "marga Wan",
+      "[mò] digunakan dalam 万俟[Mo4 qi2]"
     ],
     "meanings_en": [
-      "used in 俟",
-      "surname Wan",
-      "ten thousand",
-      "a great number"
+      "ten thousand"
     ],
     "radical": "一",
     "radical_number": 1,
@@ -21460,9 +21302,9 @@
     "id": "片",
     "simplified": "片",
     "traditional": "片",
-    "pinyin": "piān",
-    "pinyin_numeric": "pian1",
-    "bopomofo": "ㄆㄧㄢ",
+    "pinyin": "piàn",
+    "pinyin_numeric": "pian4",
+    "bopomofo": "ㄆㄧㄢˋ",
     "hsk": "2",
     "hsk2": "5",
     "frequency": 560,
@@ -21475,8 +21317,6 @@
       "g"
     ],
     "meanings_id": [
-      "disk",
-      "lembaran",
       "potongan tipis",
       "serpihan",
       "irisan",
@@ -21490,25 +21330,13 @@
       "klasifier untuk irisan, tablet, petak tanah, area air",
       "klasifier untuk CD, film, DVD dll",
       "digunakan dengan angka 一[yi1]: klasifier untuk skenario, adegan, perasaan, suasana, suara dll",
-      "radikal Kangxi 91"
+      "radikal Kangxi 91",
+      "[piān] disk",
+      "[piān] lembaran"
     ],
     "meanings_en": [
-      "disk",
-      "sheet",
-      "thin piece",
-      "flake",
-      "a slice",
-      "film",
-      "TV play",
-      "to slice",
-      "to carve thin",
-      "partial",
-      "incomplete",
-      "one-sided",
-      "classifier for slices, tablets, tract of land, area of water",
-      "classifier for CDs, movies, DVDs etc",
-      "used with numeral 一: classifier for scenario, scene, feeling, atmosphere, sound etc",
-      "Kangxi radical 91"
+      "slice; flake; thin piece",
+      "classifier for flat, thin things"
     ],
     "radical": "片",
     "radical_number": 91,
@@ -22671,7 +22499,7 @@
     "traditional": "句",
     "pinyin": "jù",
     "pinyin_numeric": "ju4",
-    "bopomofo": "ㄍㄡ",
+    "bopomofo": "ㄐㄩˋ",
     "hsk": "2",
     "hsk2": null,
     "frequency": 598,
@@ -23338,7 +23166,7 @@
     "traditional": "重",
     "pinyin": "zhòng",
     "pinyin_numeric": "zhong4",
-    "bopomofo": "ㄔㄨㄥˊ",
+    "bopomofo": "ㄓㄨㄥˋ",
     "hsk": "1",
     "hsk2": "5",
     "frequency": 608,
@@ -23522,9 +23350,9 @@
     "id": "嘛",
     "simplified": "嘛",
     "traditional": "嘛",
-    "pinyin": "má",
-    "pinyin_numeric": "ma2",
-    "bopomofo": "ㄇㄚˊ",
+    "pinyin": "ma",
+    "pinyin_numeric": "ma5",
+    "bopomofo": "ㄇㄚ˙",
     "hsk": "6",
     "hsk2": "6",
     "frequency": 614,
@@ -23535,16 +23363,13 @@
       "partikel"
     ],
     "meanings_id": [
-      "digunakan dalam 唵嘛呢叭咪吽[an3 ma2 ni2 ba1 mi1 hong1]",
-      "(Tw) (pengucapan) apa?",
       "partikel modal yang mengindikasikan sesuatu yang jelas",
-      "partikel yang mengindikasikan jeda untuk penekanan"
+      "partikel yang mengindikasikan jeda untuk penekanan",
+      "[má] digunakan dalam 唵嘛呢叭咪吽[an3 ma2 ni2 ba1 mi1 hong1]",
+      "[má] (Tw) (pengucapan) apa?"
     ],
     "meanings_en": [
-      "used in 吽",
-      "(Tw) (coll.) what?",
-      "modal particle indicating that sth is obvious",
-      "particle indicating a pause for emphasis"
+      "particle expressing obviousness or persuasion"
     ],
     "radical": "口",
     "radical_number": 30,
@@ -23730,7 +23555,7 @@
     "traditional": "真的",
     "pinyin": "zhēn de",
     "pinyin_numeric": "zhen1 de",
-    "bopomofo": "ㄓㄣ ㄉㄜ˙",
+    "bopomofo": "ㄓㄣ de",
     "hsk": "1",
     "hsk2": null,
     "frequency": 622,
@@ -24279,7 +24104,7 @@
     "traditional": "區",
     "pinyin": "qū",
     "pinyin_numeric": "qu1",
-    "bopomofo": "ㄡ",
+    "bopomofo": "ㄑㄩ",
     "hsk": "3",
     "hsk2": null,
     "frequency": 638,
@@ -30013,9 +29838,9 @@
     "id": "故事",
     "simplified": "故事",
     "traditional": "故事",
-    "pinyin": "gù shì",
-    "pinyin_numeric": "gu4 shi4",
-    "bopomofo": "ㄍㄨˋ ㄕˋ",
+    "pinyin": "gù shi",
+    "pinyin_numeric": "gu4 shi5",
+    "bopomofo": "ㄍㄨˋ ㄕ˙",
     "hsk": "2",
     "hsk2": "3",
     "frequency": 772,
@@ -30026,12 +29851,11 @@
       "kata benda"
     ],
     "meanings_id": [
-      "kebiasaan lama",
-      "narasi; cerita; kisah"
+      "narasi; cerita; kisah",
+      "[gù shì] kebiasaan lama"
     ],
     "meanings_en": [
-      "old practice",
-      "narrative; story; tale"
+      "story; tale; narrative"
     ],
     "radical": "攵",
     "radical_number": 66,
@@ -30248,9 +30072,9 @@
     "id": "令",
     "simplified": "令",
     "traditional": "令",
-    "pinyin": "líng",
-    "pinyin_numeric": "ling2",
-    "bopomofo": "ㄌㄧㄥˊ",
+    "pinyin": "lìng",
+    "pinyin_numeric": "ling4",
+    "bopomofo": "ㄌㄧㄥˋ",
     "hsk": "5",
     "hsk2": null,
     "frequency": 776,
@@ -30263,9 +30087,6 @@
       "g"
     ],
     "meanings_id": [
-      "digunakan dalam 脊令[ji2 ling2]",
-      "digunakan dalam 令狐[Ling2 hu2] (Taiwan dibaca [ling4])",
-      "kata penggolong untuk rim kertas",
       "memerintah",
       "memberi perintah",
       "perintah",
@@ -30276,24 +30097,14 @@
       "gelar kehormatan",
       "musim",
       "jabatan pemerintahan (kuno)",
-      "jenis lagu atau puisi pendek"
+      "jenis lagu atau puisi pendek",
+      "[líng] digunakan dalam 脊令[ji2 ling2]",
+      "[líng] digunakan dalam 令狐[Ling2 hu2] (Taiwan dibaca [ling4])",
+      "[lǐng] kata penggolong untuk rim kertas"
     ],
     "meanings_en": [
-      "used in 令",
-      "used in 狐 (Taiwan pr. [lìng])",
-      "classifier for a ream of paper",
-      "to order",
-      "to command",
-      "an order",
-      "warrant",
-      "writ",
-      "to cause",
-      "to make sth happen",
-      "virtuous",
-      "honorific title",
-      "season",
-      "government position (old)",
-      "type of short song or poem"
+      "to order; to command",
+      "to cause; to make"
     ],
     "radical": "人",
     "radical_number": 9,
@@ -30442,7 +30253,7 @@
     "traditional": "倒",
     "pinyin": "dào",
     "pinyin_numeric": "dao4",
-    "bopomofo": "ㄉㄠˇ",
+    "bopomofo": "ㄉㄠˋ",
     "hsk": "2",
     "hsk2": "5",
     "frequency": 780,
@@ -31235,9 +31046,9 @@
     "id": "约",
     "simplified": "约",
     "traditional": "約",
-    "pinyin": "yāo",
-    "pinyin_numeric": "yao1",
-    "bopomofo": "ㄧㄠ",
+    "pinyin": "yuē",
+    "pinyin_numeric": "yue1",
+    "bopomofo": "ㄩㄝ",
     "hsk": "3",
     "hsk2": null,
     "frequency": 797,
@@ -31254,7 +31065,6 @@
       "g"
     ],
     "meanings_id": [
-      "menimbang di timbangan",
       "membuat janji",
       "mengundang",
       "sekitar",
@@ -31263,19 +31073,13 @@
       "berhemat",
       "membatasi",
       "mengurangi (pecahan)",
-      "ringkas"
+      "ringkas",
+      "[yāo] menimbang di timbangan"
     ],
     "meanings_en": [
-      "to weigh in a balance or on a scale",
       "to make an appointment",
-      "to invite",
-      "approximately",
-      "pact",
-      "treaty",
-      "to economize",
-      "to restrict",
-      "to reduce (a fraction)",
-      "concise"
+      "about; approximately",
+      "to restrict"
     ],
     "radical": "纟",
     "radical_number": 120,
@@ -32825,9 +32629,9 @@
     "id": "底",
     "simplified": "底",
     "traditional": "底",
-    "pinyin": "de",
-    "pinyin_numeric": "de5",
-    "bopomofo": "ㄉㄜ˙",
+    "pinyin": "dǐ",
+    "pinyin_numeric": "di3",
+    "bopomofo": "ㄉㄧˇ",
     "hsk": "4",
     "hsk2": "4",
     "frequency": 849,
@@ -32840,21 +32644,17 @@
       "kata benda"
     ],
     "meanings_id": [
-      "partikel posesif (setara dengan 的)",
       "bawah; dasar",
       "latar belakang; fondasi",
       "salinan (manuskrip atau kuitansi, dll.) disimpan sebagai catatan",
       "(akhiran) akhir tahun atau bulan",
-      "(matematika) radiks; basis (singkatan dari 底數|底数[di3 shu4])"
+      "(matematika) radiks; basis (singkatan dari 底數|底数[di3 shu4])",
+      "[de] partikel posesif (setara dengan 的)"
     ],
     "meanings_en": [
-      "(equivalent to 的 as possessive particle)",
+      "bottom; base",
       "background",
-      "bottom",
-      "base",
-      "end (of the month, year etc)",
-      "remnants",
-      "(math.) radix"
+      "end (of a period)"
     ],
     "radical": "广",
     "radical_number": 53,
@@ -33055,7 +32855,7 @@
     "traditional": "數",
     "pinyin": "shù",
     "pinyin_numeric": "shu4",
-    "bopomofo": "ㄕㄨˇ",
+    "bopomofo": "ㄕㄨˋ",
     "hsk": "2",
     "hsk2": "6",
     "frequency": 852,
@@ -34732,9 +34532,9 @@
     "id": "离",
     "simplified": "离",
     "traditional": "離",
-    "pinyin": "chī",
-    "pinyin_numeric": "chi1",
-    "bopomofo": "ㄔ",
+    "pinyin": "lí",
+    "pinyin_numeric": "li2",
+    "bopomofo": "ㄌㄧˊ",
     "hsk": "2",
     "hsk2": "2",
     "frequency": 912,
@@ -34747,8 +34547,6 @@
       "kata depan"
     ],
     "meanings_id": [
-      "makhluk mitologis (kuno)",
-      "marga Li",
       "meninggalkan",
       "berpisah dari",
       "berada jauh dari",
@@ -34756,19 +34554,13 @@
       "tanpa (sesuatu)",
       "terlepas dari",
       "salah satu dari Delapan Trigram 八卦[ba1 gua4], melambangkan api",
-      "☲"
+      "☲",
+      "marga Li",
+      "[chī] makhluk mitologis (kuno)"
     ],
     "meanings_en": [
-      "mythical beast (archaic)",
-      "surname Li",
-      "to leave",
-      "to part from",
-      "to be away from",
-      "(in giving distances) from",
-      "without (sth)",
-      "independent of",
-      "one of the Eight Trigrams 卦, symbolizing fire",
-      "☲"
+      "to leave; to part from",
+      "to be away from (in distance or time)"
     ],
     "radical": "禸",
     "radical_number": 114,
@@ -35146,9 +34938,9 @@
     "id": "提",
     "simplified": "提",
     "traditional": "提",
-    "pinyin": "dī",
-    "pinyin_numeric": "di1",
-    "bopomofo": "ㄉㄧ",
+    "pinyin": "tí",
+    "pinyin_numeric": "ti2",
+    "bopomofo": "ㄊㄧˊ",
     "hsk": "2",
     "hsk2": "5",
     "frequency": 919,
@@ -35159,7 +34951,6 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "digunakan dalam 提防[di1 fang5] dan 提溜[di1 liu5]",
       "membawa (tergantung dari tangan)",
       "mengangkat",
       "mengajukan",
@@ -35167,18 +34958,13 @@
       "menaikkan (isu)",
       "karakter goresan ke atas",
       "goresan kuas pengangkat (dalam melukis)",
-      "sendok untuk mengukur cairan"
+      "sendok untuk mengukur cairan",
+      "[dī] digunakan dalam 提防[di1 fang5] dan 提溜[di1 liu5]"
     ],
     "meanings_en": [
-      "used in 防 and 溜",
       "to carry (hanging down from the hand)",
-      "to lift",
-      "to put forward",
-      "to mention",
-      "to raise (an issue)",
-      "upwards character stroke",
-      "lifting brush stroke (in painting)",
-      "scoop for measuring liquid"
+      "to lift; to raise",
+      "to bring up; to mention"
     ],
     "radical": "扌",
     "radical_number": 64,
@@ -36659,9 +36445,9 @@
     "id": "弄",
     "simplified": "弄",
     "traditional": "挵",
-    "pinyin": "lòng",
-    "pinyin_numeric": "long4",
-    "bopomofo": "ㄌㄨㄥˋ",
+    "pinyin": "nòng",
+    "pinyin_numeric": "nong4",
+    "bopomofo": "ㄋㄨㄥˋ",
     "hsk": "2",
     "hsk2": "4",
     "frequency": 952,
@@ -36672,8 +36458,6 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "gang",
-      "lorong",
       "melakukan",
       "mengurus",
       "menangani",
@@ -36682,21 +36466,13 @@
       "mengacaukan",
       "memperbaiki",
       "varian lama dari 弄[nong4]",
-      "varian dari 弄[long4]"
+      "[lòng] gang",
+      "[lòng] lorong",
+      "[lòng] varian dari 弄[long4]"
     ],
     "meanings_en": [
-      "lane",
-      "alley",
-      "to do",
-      "to manage",
-      "to handle",
-      "to play with",
-      "to fool with",
-      "to mess with",
-      "to fix",
-      "to toy with",
-      "old variant of 弄",
-      "variant of 弄"
+      "to do; to make; to get",
+      "to handle; to play with"
     ],
     "radical": "廾",
     "radical_number": 55,
@@ -37390,9 +37166,9 @@
     "id": "差",
     "simplified": "差",
     "traditional": "差",
-    "pinyin": "chā",
-    "pinyin_numeric": "cha1",
-    "bopomofo": "ㄔㄚ",
+    "pinyin": "chà",
+    "pinyin_numeric": "cha4",
+    "bopomofo": "ㄔㄚˋ",
     "hsk": "1",
     "hsk2": "3",
     "frequency": 968,
@@ -37407,32 +37183,23 @@
       "g"
     ],
     "meanings_id": [
-      "perbedaan; kesenjangan",
-      "(matematika) selisih (jumlah sisa setelah pengurangan)",
-      "(bentuk sastra) sedikit; agak; sedikit",
       "berbeda",
       "salah; keliru",
       "kurang; tidak memiliki",
       "tidak sesuai standar; lebih rendah",
       "Taiwan dibaca [cha1]",
-      "mengirim (dalam tugas)",
-      "(kuno) orang yang dikirim dalam tugas semacam itu",
-      "pekerjaan; jabatan resmi",
-      "digunakan dalam 參差|参差[cen1 ci1]"
+      "[chā] perbedaan; kesenjangan",
+      "[chā] (matematika) selisih (jumlah sisa setelah pengurangan)",
+      "[chā] (bentuk sastra) sedikit; agak; sedikit",
+      "[chāi] mengirim (dalam tugas)",
+      "[chāi] (kuno) orang yang dikirim dalam tugas semacam itu",
+      "[chāi] pekerjaan; jabatan resmi",
+      "[cī] digunakan dalam 參差|参差[cen1 ci1]"
     ],
     "meanings_en": [
-      "difference; discrepancy",
-      "(math.) difference (amount remaining after a subtraction)",
-      "(literary) a little; somewhat; slightly",
-      "different",
-      "wrong; mistaken",
-      "to fall short; to lack",
-      "not up to standard; inferior",
-      "Taiwan pr. [chā]",
-      "to send (on an errand)",
-      "(archaic) person sent on such an errand",
-      "job; official post",
-      "used in 参差"
+      "to be lacking; to fall short",
+      "poor; bad",
+      "[chā] difference; discrepancy"
     ],
     "radical": "工",
     "radical_number": 48,
@@ -38475,7 +38242,7 @@
     "traditional": "教",
     "pinyin": "jiāo",
     "pinyin_numeric": "jiao1",
-    "bopomofo": "ㄐㄧㄠˋ",
+    "bopomofo": "ㄐㄧㄠ",
     "hsk": "1",
     "hsk2": "3",
     "frequency": 988,
@@ -39142,7 +38909,7 @@
     "traditional": "查",
     "pinyin": "chá",
     "pinyin_numeric": "cha2",
-    "bopomofo": "ㄓㄚ",
+    "bopomofo": "ㄔㄚˊ",
     "hsk": "2",
     "hsk2": null,
     "frequency": 1010,
@@ -39338,9 +39105,9 @@
     "id": "读",
     "simplified": "读",
     "traditional": "讀",
-    "pinyin": "dòu",
-    "pinyin_numeric": "dou4",
-    "bopomofo": "ㄉㄡˋ",
+    "pinyin": "dú",
+    "pinyin_numeric": "du2",
+    "bopomofo": "ㄉㄨˊ",
     "hsk": "1",
     "hsk2": "1",
     "frequency": 1013,
@@ -39351,19 +39118,15 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "koma",
-      "frasa yang ditandai dengan jeda",
       "membaca nyaring; membaca keras",
       "membaca",
       "menghadiri (sekolah); belajar (mata pelajaran di sekolah)",
-      "mengucapkan"
+      "mengucapkan",
+      "[dòu] koma",
+      "[dòu] frasa yang ditandai dengan jeda"
     ],
     "meanings_en": [
-      "comma",
-      "phrase marked by pause",
-      "to read out; to read aloud",
-      "to read",
-      "to attend (school); to study (a subject in school)",
+      "to read; to study",
       "to pronounce"
     ],
     "radical": "讠",
@@ -42731,9 +42494,9 @@
     "id": "称",
     "simplified": "称",
     "traditional": "稱",
-    "pinyin": "chèn",
-    "pinyin_numeric": "chen4",
-    "bopomofo": "ㄔㄣˋ",
+    "pinyin": "chēng",
+    "pinyin_numeric": "cheng1",
+    "bopomofo": "ㄔㄥ",
     "hsk": "2",
     "hsk2": null,
     "frequency": 1100,
@@ -42748,29 +42511,22 @@
       "kata kerja-benda"
     ],
     "meanings_id": [
-      "cocok; sesuai",
-      "(pengucapan) memiliki; memiliki",
-      "Taiwan dibaca [cheng4]",
       "menimbang",
       "menyatakan",
       "memberi nama",
       "nama",
       "sebutan",
       "memuji",
-      "varian lama dari 秤[cheng4]"
+      "[chèn] cocok; sesuai",
+      "[chèn] (pengucapan) memiliki; memiliki",
+      "[chèn] Taiwan dibaca [cheng4]",
+      "[chèng] varian lama dari 秤[cheng4]"
     ],
     "meanings_en": [
-      "to fit",
-      "balanced",
-      "suitable",
+      "to call; to name",
+      "to say",
       "to weigh",
-      "to state",
-      "to name",
-      "name",
-      "appellation",
-      "to praise",
-      "variant of 秤",
-      "steelyard"
+      "to praise"
     ],
     "radical": "禾",
     "radical_number": 115,
@@ -45990,9 +45746,9 @@
     "id": "妻子",
     "simplified": "妻子",
     "traditional": "妻子",
-    "pinyin": "qī zǐ",
-    "pinyin_numeric": "qi1 zi3",
-    "bopomofo": "ㄑㄧ ㄗˇ",
+    "pinyin": "qī zi",
+    "pinyin_numeric": "qi1 zi5",
+    "bopomofo": "ㄑㄧ ㄗ˙",
     "hsk": "4",
     "hsk2": "2",
     "frequency": 1187,
@@ -46003,11 +45759,10 @@
       "kata benda"
     ],
     "meanings_id": [
-      "istri dan anak-anak",
-      "istri"
+      "istri",
+      "[qī zǐ] istri dan anak-anak"
     ],
     "meanings_en": [
-      "wife and children",
       "wife"
     ],
     "radical": "女",
@@ -46336,7 +46091,7 @@
     "traditional": "搶",
     "pinyin": "qiǎng",
     "pinyin_numeric": "qiang3",
-    "bopomofo": "ㄑㄧㄤ",
+    "bopomofo": "ㄑㄧㄤˇ",
     "hsk": "5",
     "hsk2": "5",
     "frequency": 1191,
@@ -46457,9 +46212,9 @@
     "id": "节",
     "simplified": "节",
     "traditional": "節",
-    "pinyin": "jiē",
-    "pinyin_numeric": "jie1",
-    "bopomofo": "ㄐㄧㄝ",
+    "pinyin": "jié",
+    "pinyin_numeric": "jie2",
+    "bopomofo": "ㄐㄧㄝˊ",
     "hsk": "2",
     "hsk2": "5",
     "frequency": 1196,
@@ -46476,7 +46231,6 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "lihat 節骨眼|节骨眼[jie1 gu5 yan3]",
       "sendi; ruas",
       "(bentuk terikat) bagian; segmen",
       "periode solar (salah satu dari 24 pembagian tahun dalam kalender Tiongkok tradisional)",
@@ -46484,18 +46238,13 @@
       "(bentuk terikat) menghemat; menyimpan",
       "(bentuk terikat) integritas moral; kesucian",
       "penggolong untuk segmen: pelajaran, gerbong kereta, ayat Alkitab, dll.",
-      "knot (mil per jam)"
+      "knot (mil per jam)",
+      "[jiē] lihat 節骨眼|节骨眼[jie1 gu5 yan3]"
     ],
     "meanings_en": [
-      "see 节骨眼",
-      "joint; node",
-      "(bound form) section; segment",
-      "solar term (one of the 24 divisions of the year in the traditional Chinese calendar)",
-      "seasonal festival",
-      "(bound form) to economize; to save",
-      "(bound form) moral integrity; chastity",
-      "classifier for segments: lessons, train wagons, biblical verses etc",
-      "knot (nautical miles per hour)"
+      "festival; holiday",
+      "joint; section; segment",
+      "classifier for segments (class, battery)"
     ],
     "radical": "艹",
     "radical_number": 140,
@@ -46716,9 +46465,9 @@
     "id": "累",
     "simplified": "累",
     "traditional": "纍",
-    "pinyin": "lěi",
-    "pinyin_numeric": "lei3",
-    "bopomofo": "ㄌㄟˇ",
+    "pinyin": "lèi",
+    "pinyin_numeric": "lei4",
+    "bopomofo": "ㄌㄟˋ",
     "hsk": "1",
     "hsk2": "2",
     "frequency": 1197,
@@ -46733,31 +46482,20 @@
       "an"
     ],
     "meanings_id": [
-      "mengakumulasi",
-      "melibatkan atau memperumit (Taiwan dibaca [lei4])",
-      "terus menerus",
-      "berulang",
       "lelah",
       "letih",
       "melelahkan",
       "menguras tenaga",
       "bekerja keras",
-      "tali; mengikat bersama; melilit"
+      "[lěi] mengakumulasi",
+      "[lěi] melibatkan atau memperumit (Taiwan dibaca [lei4])",
+      "[lěi] terus menerus",
+      "[lěi] berulang",
+      "[léi] tali; mengikat bersama; melilit"
     ],
     "meanings_en": [
-      "to accumulate",
-      "to involve or implicate (Taiwan pr. [lèi])",
-      "continuous",
-      "repeated",
-      "tired",
-      "weary",
-      "to strain",
-      "to wear out",
-      "to work hard",
-      "surname Lei",
-      "rope",
-      "to bind together",
-      "to twist around"
+      "tired; weary",
+      "to strain; to tire out"
     ],
     "radical": "糸",
     "radical_number": 120,
@@ -47239,9 +46977,9 @@
     "id": "待",
     "simplified": "待",
     "traditional": "待",
-    "pinyin": "dāi",
-    "pinyin_numeric": "dai1",
-    "bopomofo": "ㄉㄞ",
+    "pinyin": "dài",
+    "pinyin_numeric": "dai4",
+    "bopomofo": "ㄉㄞˋ",
     "hsk": "5",
     "hsk2": null,
     "frequency": 1207,
@@ -47254,24 +46992,18 @@
       "kata depan"
     ],
     "meanings_id": [
-      "untuk tinggal; untuk tetap",
       "menunggu",
       "memperlakukan",
       "menangani",
       "membutuhkan",
       "akan (melakukan sesuatu)",
       "hampir",
-      "berniat untuk"
+      "berniat untuk",
+      "[dāi] untuk tinggal; untuk tetap"
     ],
     "meanings_en": [
-      "to stay",
-      "to wait",
-      "to treat",
-      "to deal with",
-      "to need",
-      "going to (do sth)",
-      "about to",
-      "intending to"
+      "to treat; to wait for",
+      "[dāi] to stay; to remain"
     ],
     "radical": "彳",
     "radical_number": 60,
@@ -49674,9 +49406,9 @@
     "id": "追",
     "simplified": "追",
     "traditional": "追",
-    "pinyin": "duī",
-    "pinyin_numeric": "dui1",
-    "bopomofo": "ㄉㄨㄟ",
+    "pinyin": "zhuī",
+    "pinyin_numeric": "zhui1",
+    "bopomofo": "ㄓㄨㄟ",
     "hsk": "3",
     "hsk2": null,
     "frequency": 1265,
@@ -49687,23 +49419,13 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "memahat; mengukir; alat musik (kuno)",
-      "mengejar; memburu; menyelidiki; menengok ke belakang; mengenang; merayu (kekasih); binge-watch (drama TV); retrospektif; anumerta"
+      "mengejar; memburu; menyelidiki; menengok ke belakang; mengenang; merayu (kekasih); binge-watch (drama TV); retrospektif; anumerta",
+      "[duī] memahat; mengukir; alat musik (kuno)"
     ],
     "meanings_en": [
-      "to sculpt",
-      "to carve",
-      "musical instrument (old)",
-      "to chase",
-      "to pursue",
-      "to look into",
-      "to investigate",
-      "to reminisce",
-      "to recall",
-      "to court (one's beloved)",
-      "to binge-watch (a TV drama)",
-      "retroactively",
-      "posthumously"
+      "to chase; to pursue",
+      "to trace; to investigate",
+      "to court"
     ],
     "radical": "辶",
     "radical_number": 162,
@@ -51003,9 +50725,9 @@
     "id": "喂",
     "simplified": "喂",
     "traditional": "餧",
-    "pinyin": "wéi",
-    "pinyin_numeric": "wei2",
-    "bopomofo": "ㄨㄟˊ",
+    "pinyin": "wèi",
+    "pinyin_numeric": "wei4",
+    "bopomofo": "ㄨㄟˋ",
     "hsk": "2",
     "hsk2": "1",
     "frequency": 1301,
@@ -51018,17 +50740,14 @@
       "seruan"
     ],
     "meanings_id": [
-      "halo (saat menjawab telepon)",
       "hei",
       "memberi makan (binatang, bayi, orang sakit, dll)",
+      "memberi makan",
       "varian dari 餵|喂[wei4]",
-      "memberi makan"
+      "[wéi] halo (saat menjawab telepon)"
     ],
     "meanings_en": [
-      "hello (when answering the phone)",
-      "hey",
-      "to feed (an animal, baby, invalid etc)",
-      "variant of 喂",
+      "hello; hey",
       "to feed"
     ],
     "radical": "口",
@@ -52934,18 +52653,17 @@
       "g"
     ],
     "meanings_id": [
-      "digunakan dalam 般若[bo1 re3]",
-      "digunakan dalam 蘭若|兰若[lan2 re3]",
       "tampak",
       "seperti",
       "bagai",
-      "jika"
+      "jika",
+      "[rě] digunakan dalam 般若[bo1 re3]",
+      "[rě] digunakan dalam 蘭若|兰若[lan2 re3]"
     ],
     "meanings_en": [
-      "to seem",
-      "like",
-      "as",
-      "if"
+      "if; supposing",
+      "like; as",
+      "to seem"
     ],
     "radical": "艹",
     "radical_number": 140,
@@ -54389,9 +54107,9 @@
     "id": "重点",
     "simplified": "重点",
     "traditional": "重點",
-    "pinyin": "chóng diǎn",
-    "pinyin_numeric": "chong2 dian3",
-    "bopomofo": "ㄔㄨㄥˊ ㄉㄧㄢˇ",
+    "pinyin": "zhòng diǎn",
+    "pinyin_numeric": "zhong4 dian3",
+    "bopomofo": "ㄓㄨㄥˋ ㄉㄧㄢˇ",
     "hsk": "2",
     "hsk2": "4",
     "frequency": 1381,
@@ -54404,18 +54122,15 @@
       "kata keterangan"
     ],
     "meanings_id": [
-      "menghitung ulang (mis. hasil pemilihan)",
-      "mengevaluasi ulang",
       "poin penting; poin utama; fokus",
       "kunci (proyek dll.)",
-      "fokus pada; menekankan"
+      "fokus pada; menekankan",
+      "[chóng diǎn] menghitung ulang (mis. hasil pemilihan)",
+      "[chóng diǎn] mengevaluasi ulang"
     ],
     "meanings_en": [
-      "to recount (e.g. results of election)",
-      "to re-evaluate",
-      "important point; main point; focus",
-      "key (project etc)",
-      "to focus on; to put the emphasis on"
+      "key point; emphasis",
+      "focus"
     ],
     "radical": "里",
     "radical_number": 166,
@@ -62231,7 +61946,7 @@
     "traditional": "鳥",
     "pinyin": "niǎo",
     "pinyin_numeric": "niao3",
-    "bopomofo": "ㄉㄧㄠˇ",
+    "bopomofo": "ㄋㄧㄠˇ",
     "hsk": "2",
     "hsk2": "3",
     "frequency": 1593,
@@ -63895,9 +63610,9 @@
     "id": "背",
     "simplified": "背",
     "traditional": "揹",
-    "pinyin": "bēi",
-    "pinyin_numeric": "bei1",
-    "bopomofo": "ㄅㄟ",
+    "pinyin": "bèi",
+    "pinyin_numeric": "bei4",
+    "bopomofo": "ㄅㄟˋ",
     "hsk": "2",
     "hsk2": "5",
     "frequency": 1623,
@@ -63910,28 +63625,21 @@
       "kata benda"
     ],
     "meanings_id": [
-      "membawa beban",
-      "menggendong di punggung atau bahu",
-      "varian dari 背[bei1]",
       "punggung badan atau objek",
       "untuk memunggungi",
       "untuk menyembunyikan sesuatu dari",
       "belajar dengan menghafal",
       "untuk membaca dari ingatan",
       "(slang) tidak beruntung",
-      "tuli"
+      "tuli",
+      "[bēi] membawa beban",
+      "[bēi] menggendong di punggung atau bahu",
+      "[bēi] varian dari 背[bei1]"
     ],
     "meanings_en": [
-      "variant of 背",
-      "to be burdened",
-      "to carry on the back or shoulder",
-      "the back of a body or object",
-      "to turn one's back",
-      "to hide something from",
-      "to learn by heart",
-      "to recite from memory",
-      "unlucky (slang)",
-      "hard of hearing"
+      "back (of the body)",
+      "to turn away from",
+      "[bēi] to carry on the back; to bear (a burden)"
     ],
     "radical": "⺼",
     "radical_number": null,
@@ -64778,9 +64486,9 @@
     "id": "合",
     "simplified": "合",
     "traditional": "閤",
-    "pinyin": "gě",
-    "pinyin_numeric": "ge3",
-    "bopomofo": "ㄍㄜˇ",
+    "pinyin": "hé",
+    "pinyin_numeric": "he2",
+    "bopomofo": "ㄏㄜˊ",
     "hsk": "3",
     "hsk2": null,
     "frequency": 1643,
@@ -64791,9 +64499,6 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "100 ml",
-      "sepersepuluh peck",
-      "ukuran untuk biji-bijian kering setara dengan sepersepuluh sheng 升 atau liter, atau seperseratus dou 斗",
       "menutup",
       "bergabung",
       "sesuai",
@@ -64804,23 +64509,15 @@
       "konjungsi (astronomi)",
       "not pertama dari skala pentatonik",
       "varian lama dari 盒[he2]",
-      "varian dari 合[he2]"
+      "varian dari 合[he2]",
+      "[gě] 100 ml",
+      "[gě] sepersepuluh peck",
+      "[gě] ukuran untuk biji-bijian kering setara dengan sepersepuluh sheng 升 atau liter, atau seperseratus dou 斗"
     ],
     "meanings_en": [
-      "100 ml",
-      "one-tenth of a peck",
-      "measure for dry grain equal to one-tenth of sheng 升 or liter, or one-hundredth dou 斗",
-      "to close",
-      "to join",
-      "to fit",
-      "to be equal to",
-      "whole",
-      "together",
-      "round (in battle)",
-      "conjunction (astronomy)",
-      "1st note of pentatonic scale",
-      "old variant of 盒",
-      "variant of 合"
+      "to close; to shut",
+      "to combine; to join",
+      "to suit"
     ],
     "radical": "口",
     "radical_number": 30,
@@ -66131,8 +65828,6 @@
       "g"
     ],
     "meanings_id": [
-      "digunakan dalam 格登[ge1 deng1]",
-      "digunakan dalam 格格[ge1 ge1]",
       "persegi",
       "bingkai",
       "aturan",
@@ -66147,24 +65842,15 @@
       "(klasik) tiba",
       "datang",
       "(klasik) menyelidiki",
-      "mempelajari secara menyeluruh"
+      "mempelajari secara menyeluruh",
+      "[gē] digunakan dalam 格登[ge1 deng1]",
+      "[gē] digunakan dalam 格格[ge1 ge1]"
     ],
     "meanings_en": [
-      "square",
-      "frame",
-      "rule",
-      "(legal) case",
-      "style",
-      "character",
-      "standard",
-      "pattern",
-      "(grammar) case",
-      "(classical) to obstruct",
-      "to hinder",
-      "(classical) to arrive",
-      "to come",
-      "(classical) to investigate",
-      "to study exhaustively"
+      "square; grid; frame",
+      "rule; standard",
+      "style; pattern",
+      "(grammar) case"
     ],
     "radical": "木",
     "radical_number": 75,
@@ -72658,7 +72344,7 @@
     "traditional": "混",
     "pinyin": "hùn",
     "pinyin_numeric": "hun4",
-    "bopomofo": "ㄏㄨㄣˊ",
+    "bopomofo": "ㄏㄨㄣˋ",
     "hsk": "6",
     "hsk2": null,
     "frequency": 1849,
@@ -72718,9 +72404,9 @@
     "id": "人家",
     "simplified": "人家",
     "traditional": "人家",
-    "pinyin": "rén jiā",
-    "pinyin_numeric": "ren2 jia1",
-    "bopomofo": "ㄖㄣˊ ㄐㄧㄚ",
+    "pinyin": "rén jia",
+    "pinyin_numeric": "ren2 jia5",
+    "bopomofo": "ㄖㄣˊ ㄐㄧㄚ˙",
     "hsk": "4",
     "hsk2": "6",
     "frequency": 1850,
@@ -72733,28 +72419,21 @@
       "kata benda"
     ],
     "meanings_id": [
-      "rumah tangga",
-      "tempat tinggal",
-      "keluarga",
-      "rumah orang lain",
-      "urusan rumah tangga",
-      "rumah calon suami wanita",
-      "kelas: 戶|户[hu4],家[jia1]",
       "orang lain",
       "dia, dia atau mereka",
-      "saya, aku (mengacu pada diri sendiri sebagai \"seseorang\" atau \"orang\")"
+      "saya, aku (mengacu pada diri sendiri sebagai \"seseorang\" atau \"orang\")",
+      "[rén jiā] rumah tangga",
+      "[rén jiā] tempat tinggal",
+      "[rén jiā] keluarga",
+      "[rén jiā] rumah orang lain",
+      "[rén jiā] urusan rumah tangga",
+      "[rén jiā] rumah calon suami wanita",
+      "[rén jiā] kelas: 戶|户[hu4],家[jia1]"
     ],
     "meanings_en": [
-      "household",
-      "dwelling",
-      "family",
-      "sb else's house",
-      "household business",
-      "house of woman's husband-to-be",
       "other people",
-      "sb else",
-      "he, she or they",
-      "I, me (referring to oneself as \"one\" or \"people\")"
+      "he/she/they",
+      "I; me (playful or coy)"
     ],
     "radical": "人",
     "radical_number": 9,
@@ -73007,9 +72686,9 @@
     "id": "吓",
     "simplified": "吓",
     "traditional": "嚇",
-    "pinyin": "hè",
-    "pinyin_numeric": "he4",
-    "bopomofo": "ㄏㄜˋ",
+    "pinyin": "xià",
+    "pinyin_numeric": "xia4",
+    "bopomofo": "ㄒㄧㄚˋ",
     "hsk": "5",
     "hsk2": "5",
     "frequency": 1856,
@@ -73020,21 +72699,16 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "menakut-nakuti",
-      "mengintimidasi",
-      "mengancam",
-      "(kata seru menunjukkan ketidaksetujuan) ck-ck",
-      "(kata seru menunjukkan keheranan)",
       "menakutkan",
-      "mengejutkan"
+      "mengejutkan",
+      "[hè] menakut-nakuti",
+      "[hè] mengintimidasi",
+      "[hè] mengancam",
+      "[hè] (kata seru menunjukkan ketidaksetujuan) ck-ck",
+      "[hè] (kata seru menunjukkan keheranan)"
     ],
     "meanings_en": [
-      "to scare",
-      "to intimidate",
-      "to threaten",
-      "(interjection showing disapproval) tut-tut",
-      "(interjection showing astonishment)",
-      "to frighten"
+      "to frighten; to scare"
     ],
     "radical": "口",
     "radical_number": 30,
@@ -76257,7 +75931,7 @@
     "traditional": "任",
     "pinyin": "rèn",
     "pinyin_numeric": "ren4",
-    "bopomofo": "ㄖㄣˊ",
+    "bopomofo": "ㄖㄣˋ",
     "hsk": "3",
     "hsk2": null,
     "frequency": 1943,
@@ -77512,9 +77186,9 @@
     "id": "解",
     "simplified": "解",
     "traditional": "解",
-    "pinyin": "xiè",
-    "pinyin_numeric": "Xie4",
-    "bopomofo": "ㄒㄧㄝˋ",
+    "pinyin": "jiě",
+    "pinyin_numeric": "jie3",
+    "bopomofo": "ㄐㄧㄝˇ",
     "hsk": "6",
     "hsk2": null,
     "frequency": 1971,
@@ -77525,8 +77199,6 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "pertunjukan akrobatik (terutama di atas kuda) (kuno)",
-      "varian dari 懈[xie4] dan 邂[xie4] (kuno)",
       "memecah",
       "menguraikan",
       "membagi",
@@ -77544,31 +77216,15 @@
       "mengetahui",
       "solusi",
       "diseksi",
-      "mengangkut di bawah penjagaan",
-      "marga Xie"
+      "[xiè] pertunjukan akrobatik (terutama di atas kuda) (kuno)",
+      "[xiè] varian dari 懈[xie4] dan 邂[xie4] (kuno)",
+      "[jiè] mengangkut di bawah penjagaan",
+      "[xiè] marga Xie"
     ],
     "meanings_en": [
-      "surname Xie",
-      "to divide",
-      "to break up",
-      "to split",
-      "to separate",
-      "to dissolve",
-      "to solve",
-      "to melt",
-      "to remove",
-      "to untie",
-      "to loosen",
-      "to open",
-      "to emancipate",
-      "to explain",
-      "to understand",
-      "to know",
-      "a solution",
-      "a dissection",
-      "to transport under guard",
-      "acrobatic display (esp. on horseback) (old)",
-      "variant of 懈 and 邂 (old)"
+      "to divide; to separate",
+      "to untie; to solve",
+      "to understand"
     ],
     "radical": "角",
     "radical_number": 148,
@@ -78110,9 +77766,9 @@
     "id": "觉",
     "simplified": "觉",
     "traditional": "覺",
-    "pinyin": "jiào",
-    "pinyin_numeric": "jiao4",
-    "bopomofo": "ㄐㄧㄠˋ",
+    "pinyin": "jué",
+    "pinyin_numeric": "jue2",
+    "bopomofo": "ㄐㄩㄝˊ",
     "hsk": "6",
     "hsk2": null,
     "frequency": 1983,
@@ -78127,17 +77783,12 @@
       "kata ukuran"
     ],
     "meanings_id": [
-      "tidur siang; tidur; KP:場|场[chang2]",
-      "merasa; menemukan bahwa; berpikir; bangun; sadar"
+      "merasa; menemukan bahwa; berpikir; bangun; sadar",
+      "[jiào] tidur siang; tidur; KP:場|场[chang2]"
     ],
     "meanings_en": [
-      "a nap",
-      "a sleep",
-      "to feel",
-      "to find that",
-      "thinking",
-      "awake",
-      "aware"
+      "to feel; to find that",
+      "to be aware of"
     ],
     "radical": "见",
     "radical_number": 147,
@@ -79681,7 +79332,7 @@
     "traditional": "化",
     "pinyin": "huà",
     "pinyin_numeric": "hua4",
-    "bopomofo": "ㄏㄨㄚ",
+    "bopomofo": "ㄏㄨㄚˋ",
     "hsk": "3",
     "hsk2": null,
     "frequency": 2027,
@@ -83285,9 +82936,9 @@
     "id": "生意",
     "simplified": "生意",
     "traditional": "生意",
-    "pinyin": "shēng yì",
-    "pinyin_numeric": "sheng1 yi4",
-    "bopomofo": "ㄕㄥ ㄧˋ",
+    "pinyin": "shēng yi",
+    "pinyin_numeric": "sheng1 yi5",
+    "bopomofo": "ㄕㄥ ㄧ˙",
     "hsk": "3",
     "hsk2": null,
     "frequency": 2112,
@@ -83298,15 +82949,14 @@
       "kata benda"
     ],
     "meanings_id": [
-      "kekuatan hidup",
-      "vitalitas",
       "bisnis",
-      "KP:筆|笔[bi3]"
+      "KP:筆|笔[bi3]",
+      "[shēng yì] kekuatan hidup",
+      "[shēng yì] vitalitas"
     ],
     "meanings_en": [
-      "life force",
-      "vitality",
-      "business"
+      "business; trade",
+      "deal"
     ],
     "radical": "生",
     "radical_number": 100,
@@ -84953,9 +84603,9 @@
     "id": "量",
     "simplified": "量",
     "traditional": "量",
-    "pinyin": "liáng",
-    "pinyin_numeric": "liang2",
-    "bopomofo": "ㄌㄧㄤˊ",
+    "pinyin": "liàng",
+    "pinyin_numeric": "liang4",
+    "bopomofo": "ㄌㄧㄤˋ",
     "hsk": "4",
     "hsk2": null,
     "frequency": 2147,
@@ -84968,22 +84618,18 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "mengukur",
       "kapasitas",
       "kuantitas",
       "jumlah",
       "memperkirakan",
       "singkatan dari 量詞|量词[liang4 ci2], klasifikator (dalam tata bahasa Tiongkok)",
-      "kata penggolong"
+      "kata penggolong",
+      "[liáng] mengukur"
     ],
     "meanings_en": [
-      "to measure",
+      "quantity; amount",
       "capacity",
-      "quantity",
-      "amount",
-      "to estimate",
-      "abbr. for 量词, classifier (in Chinese grammar)",
-      "measure word"
+      "[liáng] to measure"
     ],
     "radical": "里",
     "radical_number": 166,
@@ -86234,7 +85880,7 @@
     "traditional": "蓋",
     "pinyin": "gài",
     "pinyin_numeric": "gai4",
-    "bopomofo": "ㄍㄜˇ",
+    "bopomofo": "ㄍㄞˋ",
     "hsk": "4",
     "hsk2": "5",
     "frequency": 2188,
@@ -88043,9 +87689,9 @@
     "id": "骑",
     "simplified": "骑",
     "traditional": "騎",
-    "pinyin": "jì",
-    "pinyin_numeric": "ji4",
-    "bopomofo": "ㄐㄧˋ",
+    "pinyin": "qí",
+    "pinyin_numeric": "qi2",
+    "bopomofo": "ㄑㄧˊ",
     "hsk": "2",
     "hsk2": "3",
     "frequency": 2231,
@@ -88056,18 +87702,15 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "(Tw) kuda pelana",
-      "prajurit berkuda",
       "duduk melintang",
       "menunggangi (kuda, sepeda, dll)",
-      "klasifikator untuk kuda pelana"
+      "klasifikator untuk kuda pelana",
+      "[jì] (Tw) kuda pelana",
+      "[jì] prajurit berkuda"
     ],
     "meanings_en": [
-      "(Tw) saddle horse",
-      "mounted soldier",
-      "to sit astride",
-      "to ride (a horse, bike etc)",
-      "classifier for saddle horses"
+      "to ride (a horse, bicycle)",
+      "to sit astride"
     ],
     "radical": "马",
     "radical_number": 187,
@@ -88847,9 +88490,9 @@
     "id": "泡",
     "simplified": "泡",
     "traditional": "泡",
-    "pinyin": "pāo",
-    "pinyin_numeric": "pao1",
-    "bopomofo": "ㄆㄠ",
+    "pinyin": "pào",
+    "pinyin_numeric": "pao4",
+    "bopomofo": "ㄆㄠˋ",
     "hsk": "6",
     "hsk2": null,
     "frequency": 2258,
@@ -88864,9 +88507,6 @@
       "kata ukuran"
     ],
     "meanings_id": [
-      "menggelembung; bengkak; seperti spons",
-      "danau kecil (terutama dalam nama tempat)",
-      "penggolong untuk urin atau tinja",
       "gelembung; busa",
       "lepuh",
       "merendam; menyeduh; menginfus",
@@ -88874,20 +88514,14 @@
       "menjemput (perempuan)",
       "bergaul (dengan pasangan seksual)",
       "penggolong untuk kejadian suatu tindakan",
-      "penggolong untuk jumlah infus"
+      "penggolong untuk jumlah infus",
+      "[pāo] menggelembung; bengkak; seperti spons",
+      "[pāo] danau kecil (terutama dalam nama tempat)",
+      "[pāo] penggolong untuk urin atau tinja"
     ],
     "meanings_en": [
-      "puffed; swollen; spongy",
-      "small lake (esp. in place names)",
-      "classifier for urine or feces",
-      "bubble; foam",
-      "blister",
-      "to soak; to steep; to infuse",
-      "to dawdle; to loiter",
-      "to pick up (a girl)",
-      "to get off with (a sexual partner)",
-      "classifier for occurrences of an action",
-      "classifier for number of infusions"
+      "to soak; to steep",
+      "bubble; foam"
     ],
     "radical": "氵",
     "radical_number": 85,
@@ -91439,9 +91073,9 @@
     "id": "厂",
     "simplified": "厂",
     "traditional": "廠",
-    "pinyin": "hǎn",
-    "pinyin_numeric": "han3",
-    "bopomofo": "ㄏㄢˇ",
+    "pinyin": "chǎng",
+    "pinyin_numeric": "chang3",
+    "bopomofo": "ㄔㄤˇ",
     "hsk": "3",
     "hsk2": null,
     "frequency": 2329,
@@ -91452,22 +91086,16 @@
       "kata benda"
     ],
     "meanings_id": [
-      "radikal \"tebing\" dalam karakter Tiongkok (radikal Kangxi 27), muncul dalam 原, 历, 压 dll",
       "pabrik",
       "halaman",
       "depot",
       "tempat kerja",
       "kilang",
-      "(industri) pabrik"
+      "(industri) pabrik",
+      "[hǎn] radikal \"tebing\" dalam karakter Tiongkok (radikal Kangxi 27), muncul dalam 原, 历, 压 dll"
     ],
     "meanings_en": [
-      "\"cliff\" radical in Chinese characters (Kangxi radical 27), occurring in 原, 历, 压 etc",
-      "factory",
-      "yard",
-      "depot",
-      "workhouse",
-      "works",
-      "(industrial) plant"
+      "factory; plant; works"
     ],
     "radical": "厂",
     "radical_number": 27,
@@ -92552,9 +92180,9 @@
     "id": "说法",
     "simplified": "说法",
     "traditional": "說法",
-    "pinyin": "shuō fǎ",
-    "pinyin_numeric": "shuo1 fa3",
-    "bopomofo": "ㄕㄨㄛ ㄈㄚˇ",
+    "pinyin": "shuō fa",
+    "pinyin_numeric": "shuo1 fa5",
+    "bopomofo": "ㄕㄨㄛ ㄈㄚ˙",
     "hsk": "5",
     "hsk2": null,
     "frequency": 2350,
@@ -92565,7 +92193,6 @@
       "kata benda"
     ],
     "meanings_id": [
-      "menguraikan ajaran Buddha",
       "cara berbicara",
       "kata-kata",
       "rumusan",
@@ -92573,18 +92200,12 @@
       "pernyataan",
       "teori",
       "hipotesis",
-      "interpretasi"
+      "interpretasi",
+      "[shuō fǎ] menguraikan ajaran Buddha"
     ],
     "meanings_en": [
-      "to expound Buddhist teachings",
-      "way of speaking",
-      "wording",
-      "formulation",
-      "one's version (of events)",
-      "statement",
-      "theory",
-      "hypothesis",
-      "interpretation"
+      "way of saying; statement",
+      "version; theory"
     ],
     "radical": "讠",
     "radical_number": 149,
@@ -93565,9 +93186,9 @@
     "id": "角",
     "simplified": "角",
     "traditional": "角",
-    "pinyin": "jué",
-    "pinyin_numeric": "Jue2",
-    "bopomofo": "ㄐㄩㄝˊ",
+    "pinyin": "jiǎo",
+    "pinyin_numeric": "jiao3",
+    "bopomofo": "ㄐㄧㄠˇ",
     "hsk": "2",
     "hsk2": "3",
     "frequency": 2370,
@@ -93582,21 +93203,14 @@
       "g"
     ],
     "meanings_id": [
-      "peran (teater); bersaing; bejana anggur kuno berkaki tiga; nada ketiga dari skala pentatonik",
       "sudut; pojok; tanduk; berbentuk tanduk; unit uang senilai 0,1 yuan, atau 10 sen (satu dime); KP:個|个[ge4]",
-      "marga Jue"
+      "[jué] peran (teater); bersaing; bejana anggur kuno berkaki tiga; nada ketiga dari skala pentatonik",
+      "[jué] marga Jue"
     ],
     "meanings_en": [
-      "surname Jue",
-      "angle",
-      "corner",
+      "angle; corner",
       "horn",
-      "horn-shaped",
-      "unit of money equal to 0.1 yuan, or 10 cents (a dime)",
-      "role (theater)",
-      "to compete",
-      "ancient three legged wine vessel",
-      "third note of pentatonic scale"
+      "unit of money (0.1 yuan)"
     ],
     "radical": "角",
     "radical_number": 148,
@@ -94612,9 +94226,9 @@
     "id": "胖",
     "simplified": "胖",
     "traditional": "胖",
-    "pinyin": "pán",
-    "pinyin_numeric": "pan2",
-    "bopomofo": "ㄆㄢˊ",
+    "pinyin": "pàng",
+    "pinyin_numeric": "pang4",
+    "bopomofo": "ㄆㄤˋ",
     "hsk": "3",
     "hsk2": "3",
     "frequency": 2396,
@@ -94625,16 +94239,13 @@
       "kata sifat"
     ],
     "meanings_id": [
-      "sehat",
-      "tenang",
       "gemuk",
-      "montok"
+      "montok",
+      "[pán] sehat",
+      "[pán] tenang"
     ],
     "meanings_en": [
-      "healthy",
-      "at ease",
-      "fat",
-      "plump"
+      "fat; plump"
     ],
     "radical": "⺼",
     "radical_number": null,
@@ -95249,9 +94860,9 @@
     "id": "页",
     "simplified": "页",
     "traditional": "頁",
-    "pinyin": "xié",
-    "pinyin_numeric": "xie2",
-    "bopomofo": "ㄒㄧㄝˊ",
+    "pinyin": "yè",
+    "pinyin_numeric": "ye4",
+    "bopomofo": "ㄧㄝˋ",
     "hsk": "1",
     "hsk2": "4",
     "frequency": 2404,
@@ -95264,14 +94875,13 @@
       "g"
     ],
     "meanings_id": [
-      "kepala",
       "halaman",
-      "lembar"
+      "lembar",
+      "[xié] kepala"
     ],
     "meanings_en": [
-      "head",
       "page",
-      "leaf"
+      "leaf (of paper)"
     ],
     "radical": "页",
     "radical_number": 181,
@@ -99849,9 +99459,9 @@
     "id": "足",
     "simplified": "足",
     "traditional": "足",
-    "pinyin": "jù",
-    "pinyin_numeric": "ju4",
-    "bopomofo": "ㄐㄩˋ",
+    "pinyin": "zú",
+    "pinyin_numeric": "zu2",
+    "bopomofo": "ㄗㄨˊ",
     "hsk": "6",
     "hsk2": null,
     "frequency": 2507,
@@ -99866,16 +99476,15 @@
       "g"
     ],
     "meanings_id": [
-      "berlebihan",
       "(bentuk terikat) kaki; tungkai",
       "cukup; berlimpah",
-      "sebanyak; sepenuhnya"
+      "sebanyak; sepenuhnya",
+      "[jù] berlebihan"
     ],
     "meanings_en": [
-      "excessive",
-      "foot",
-      "to be sufficient",
-      "ample"
+      "foot; leg",
+      "sufficient; ample",
+      "fully; as much as"
     ],
     "radical": "足",
     "radical_number": 157,
@@ -100349,9 +99958,9 @@
     "id": "弹",
     "simplified": "弹",
     "traditional": "彈",
-    "pinyin": "dàn",
-    "pinyin_numeric": "dan4",
-    "bopomofo": "ㄉㄢˋ",
+    "pinyin": "tán",
+    "pinyin_numeric": "tan2",
+    "bopomofo": "ㄊㄢˊ",
     "hsk": "5",
     "hsk2": "4",
     "frequency": 2520,
@@ -100366,11 +99975,6 @@
       "kata kerja-benda"
     ],
     "meanings_id": [
-      "bola kecil",
-      "peluru",
-      "tembakan",
-      "ranjau",
-      "bola",
       "memetik (senar)",
       "memainkan (alat musik gesek)",
       "melompat atau melesat",
@@ -100380,24 +99984,17 @@
       "membalik",
       "menuduh",
       "memecat",
-      "elastis (bahan)"
+      "elastis (bahan)",
+      "[dàn] bola kecil",
+      "[dàn] peluru",
+      "[dàn] tembakan",
+      "[dàn] ranjau",
+      "[dàn] bola"
     ],
     "meanings_en": [
-      "crossball",
-      "bullet",
-      "shot",
-      "shell",
-      "ball",
-      "to pluck (a string)",
-      "to play (a string instrument)",
-      "to spring or leap",
-      "to shoot (e.g. with a catapult)",
-      "(of cotton) to fluff or tease",
-      "to flick",
-      "to flip",
-      "to accuse",
-      "to impeach",
-      "elastic (of materials)"
+      "to pluck; to play (a string instrument)",
+      "to bounce; to spring",
+      "elastic"
     ],
     "radical": "弓",
     "radical_number": 57,
@@ -100979,9 +100576,9 @@
     "id": "好处",
     "simplified": "好处",
     "traditional": "好處",
-    "pinyin": "hǎo chǔ",
-    "pinyin_numeric": "hao3 chu3",
-    "bopomofo": "ㄏㄠˇ ㄔㄨˇ",
+    "pinyin": "hǎo chu",
+    "pinyin_numeric": "hao3 chu5",
+    "bopomofo": "ㄏㄠˇ ㄔㄨ˙",
     "hsk": "2",
     "hsk2": "4",
     "frequency": 2534,
@@ -100992,16 +100589,14 @@
       "kata benda"
     ],
     "meanings_id": [
-      "mudah diajak berteman",
       "manfaat; keuntungan; kelebihan",
       "laba",
-      "juga diucapkan [hao3chu4]"
+      "juga diucapkan [hao3chu4]",
+      "[hǎo chǔ] mudah diajak berteman"
     ],
     "meanings_en": [
-      "easy to get along with",
-      "benefit; advantage; merit",
-      "gain; profit",
-      "also pr. [hǎo chù]"
+      "benefit; advantage",
+      "merit"
     ],
     "radical": "女",
     "radical_number": 38,
@@ -102418,9 +102013,9 @@
     "id": "刺",
     "simplified": "刺",
     "traditional": "刺",
-    "pinyin": "cī",
-    "pinyin_numeric": "ci1",
-    "bopomofo": "ㄘ",
+    "pinyin": "cì",
+    "pinyin_numeric": "ci4",
+    "bopomofo": "ㄘˋ",
     "hsk": "4",
     "hsk2": "6",
     "frequency": 2566,
@@ -102433,24 +102028,18 @@
       "kata benda"
     ],
     "meanings_id": [
-      "(tiruan bunyi) wuush",
       "duri",
       "sengatan",
       "dorongan",
       "menusuk",
       "menindik",
-      "membunuh"
+      "membunuh",
+      "[cī] (tiruan bunyi) wuush"
     ],
     "meanings_en": [
-      "(onom.) whoosh",
-      "thorn",
-      "sting",
-      "thrust",
-      "to prick",
-      "to pierce",
-      "to stab",
-      "to assassinate",
-      "to murder"
+      "thorn; splinter",
+      "to prick; to stab",
+      "to irritate"
     ],
     "radical": "刂",
     "radical_number": 18,
@@ -109314,9 +108903,9 @@
     "id": "答",
     "simplified": "答",
     "traditional": "答",
-    "pinyin": "dā",
-    "pinyin_numeric": "da1",
-    "bopomofo": "ㄉㄚ",
+    "pinyin": "dá",
+    "pinyin_numeric": "da2",
+    "bopomofo": "ㄉㄚˊ",
     "hsk": "5",
     "hsk2": null,
     "frequency": 2744,
@@ -109327,16 +108916,13 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "bentuk terikat yang memiliki arti sama dengan kata bebas 答[da2], digunakan dalam 答應|答应[da1 ying5], 答理[da1 li5] dll",
       "menjawab",
       "membalas",
-      "merespons"
+      "merespons",
+      "[dā] bentuk terikat yang memiliki arti sama dengan kata bebas 答[da2], digunakan dalam 答應|答应[da1 ying5], 答理[da1 li5] dll"
     ],
     "meanings_en": [
-      "bound form having the same meaning as the free word 答, used in 答应, 理 etc",
-      "to answer",
-      "to reply",
-      "to respond"
+      "to answer; to reply"
     ],
     "radical": "⺮",
     "radical_number": null,
@@ -112036,9 +111622,9 @@
     "id": "便宜",
     "simplified": "便宜",
     "traditional": "便宜",
-    "pinyin": "biàn yí",
-    "pinyin_numeric": "bian4 yi2",
-    "bopomofo": "ㄅㄧㄢˋ ㄧˊ",
+    "pinyin": "pián yi",
+    "pinyin_numeric": "pian2 yi5",
+    "bopomofo": "ㄆㄧㄢˊ ㄧ˙",
     "hsk": "2",
     "hsk2": "2",
     "frequency": 2814,
@@ -112053,15 +111639,13 @@
       "an"
     ],
     "meanings_id": [
-      "nyaman",
       "murah; tidak mahal",
       "keuntungan kecil",
-      "meringankan hukuman seseorang"
+      "meringankan hukuman seseorang",
+      "[biàn yí] nyaman"
     ],
     "meanings_en": [
-      "convenient",
-      "cheap",
-      "inexpensive",
+      "cheap; inexpensive",
       "small advantages",
       "to let sb off lightly"
     ],
@@ -117292,9 +116876,9 @@
     "id": "斗",
     "simplified": "斗",
     "traditional": "鬥",
-    "pinyin": "dǒu",
-    "pinyin_numeric": "Dou3",
-    "bopomofo": "ㄉㄡˇ",
+    "pinyin": "dòu",
+    "pinyin_numeric": "dou4",
+    "bopomofo": "ㄉㄡˋ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 2960,
@@ -117309,12 +116893,6 @@
       "kata ukuran"
     ],
     "meanings_id": [
-      "alat ukur kering untuk biji-bijian setara sepuluh 升[sheng1] atau sepersepuluh 升[dan4]",
-      "dekaliter",
-      "peck",
-      "benda berbentuk cangkir atau gayung",
-      "varian lama dari 陡[dou3]",
-      "singkatan dari rasi bintang Biduk 北斗星[Bei3 dou3 xing1]",
       "berkelahi",
       "berjuang",
       "mengutuk",
@@ -117323,23 +116901,17 @@
       "menyatukan",
       "bersama-sama",
       "varian dari 鬰|郁[yu4]",
-      "varian dari 鬥|斗[dou4]"
+      "varian dari 鬥|斗[dou4]",
+      "[dǒu] alat ukur kering untuk biji-bijian setara sepuluh 升[sheng1] atau sepersepuluh 升[dan4]",
+      "[dǒu] dekaliter",
+      "[dǒu] peck",
+      "[dǒu] benda berbentuk cangkir atau gayung",
+      "[dǒu] varian lama dari 陡[dou3]",
+      "[dǒu] singkatan dari rasi bintang Biduk 北斗星[Bei3 dou3 xing1]"
     ],
     "meanings_en": [
-      "abbr. for the Big Dipper constellation 星",
-      "dry measure for grain equal to ten 升 or one-tenth of a 石",
-      "decaliter",
-      "peck",
-      "cup or dipper shaped object",
-      "old variant of 陡",
-      "to fight",
-      "to struggle",
-      "to condemn",
-      "to censure",
-      "to contend",
-      "to put together",
-      "coming together",
-      "variant of 斗"
+      "to fight; to struggle",
+      "to contend with"
     ],
     "radical": "斗",
     "radical_number": 68,
@@ -122154,9 +121726,9 @@
     "id": "炸",
     "simplified": "炸",
     "traditional": "炸",
-    "pinyin": "zhá",
-    "pinyin_numeric": "zha2",
-    "bopomofo": "ㄓㄚˊ",
+    "pinyin": "zhà",
+    "pinyin_numeric": "zha4",
+    "bopomofo": "ㄓㄚˋ",
     "hsk": "6",
     "hsk2": null,
     "frequency": 3064,
@@ -122167,21 +121739,17 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "menggoreng",
-      "(pengucapan) untuk memblansir (sayuran)",
-      "Taiwan dibaca [zha4]",
       "meledak; untuk meledak",
       "meledakkan; untuk mengebom",
       "(pengucapan) menjadi sangat marah",
-      "(pengucapan) untuk bergegas pergi; untuk menyebar"
+      "(pengucapan) untuk bergegas pergi; untuk menyebar",
+      "[zhá] menggoreng",
+      "[zhá] (pengucapan) untuk memblansir (sayuran)",
+      "[zhá] Taiwan dibaca [zha4]"
     ],
     "meanings_en": [
-      "to deep fry",
-      "Taiwan pr. [zhà]",
-      "to burst",
-      "to explode",
-      "to blow up",
-      "(fig.) to fly into a rage"
+      "to explode; to blow up",
+      "[zhá] to deep-fry"
     ],
     "radical": "火",
     "radical_number": 86,
@@ -123405,7 +122973,7 @@
     "id": "策略",
     "simplified": "策略",
     "traditional": "策略",
-    "pinyin": "cè lu:è",
+    "pinyin": "cè lüè",
     "pinyin_numeric": "ce4 lüe4",
     "bopomofo": "ㄘㄜˋ ㄌㄩㄝˋ",
     "hsk": "6",
@@ -123966,9 +123534,9 @@
     "id": "档",
     "simplified": "档",
     "traditional": "檔",
-    "pinyin": "dǎng",
-    "pinyin_numeric": "dang3",
-    "bopomofo": "ㄉㄤˇ",
+    "pinyin": "dàng",
+    "pinyin_numeric": "dang4",
+    "bopomofo": "ㄉㄤˋ",
     "hsk": "6",
     "hsk2": null,
     "frequency": 3110,
@@ -123983,7 +123551,6 @@
       "kata benda"
     ],
     "meanings_id": [
-      "(Tw) gigi persneling (varian dari 擋|挡[dang3])",
       "(bentuk terikat) rak (untuk arsip); loket",
       "(bentuk terikat) arsip",
       "palang (meja dll)",
@@ -123992,21 +123559,13 @@
       "(Tw) slot waktu untuk acara atau program",
       "klasifier untuk acara",
       "klasifier untuk kejadian, urusan dll",
-      "Taiwan dibaca [dang3]"
+      "Taiwan dibaca [dang3]",
+      "[dǎng] (Tw) gigi persneling (varian dari 擋|挡[dang3])"
     ],
     "meanings_en": [
-      "(Tw) variant of 挡, gear",
-      "official records",
-      "grade (of goods)",
-      "file",
-      "records",
-      "shelves",
-      "slot",
-      "gap",
-      "crosspiece",
-      "classifier for crosspieces",
-      "classifier for events, affairs etc",
-      "Taiwan pr. [dǎng]"
+      "file; archive; shelf",
+      "grade; level",
+      "gear (of a vehicle)"
     ],
     "radical": "木",
     "radical_number": 75,
@@ -126503,9 +126062,9 @@
     "id": "趟",
     "simplified": "趟",
     "traditional": "䠀",
-    "pinyin": "tāng",
-    "pinyin_numeric": "tang1",
-    "bopomofo": "ㄊㄤ",
+    "pinyin": "tàng",
+    "pinyin_numeric": "tang4",
+    "bopomofo": "ㄊㄤˋ",
     "hsk": "6",
     "hsk2": "4",
     "frequency": 3174,
@@ -126518,22 +126077,17 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "menyeberang",
-      "menginjak",
-      "mengolah tanah",
-      "varian lama dari 趟[tang1]",
       "klasifikasi untuk kali, perjalanan pulang pergi atau baris",
       "satu kali",
-      "satu perjalanan"
+      "satu perjalanan",
+      "[tāng] menyeberang",
+      "[tāng] menginjak",
+      "[tāng] mengolah tanah",
+      "[tāng] varian lama dari 趟[tang1]"
     ],
     "meanings_en": [
-      "old variant of 趟",
-      "to wade",
-      "to trample",
-      "to turn the soil",
-      "classifier for times, round trips or rows",
-      "a time",
-      "a trip"
+      "classifier for trips; round trip",
+      "time (for a visit)"
     ],
     "radical": "走",
     "radical_number": 156,
@@ -131169,7 +130723,7 @@
     "id": "战略",
     "simplified": "战略",
     "traditional": "戰略",
-    "pinyin": "zhàn lu:è",
+    "pinyin": "zhàn lüè",
     "pinyin_numeric": "zhan4 lüe4",
     "bopomofo": "ㄓㄢˋ ㄌㄩㄝˋ",
     "hsk": "6",
@@ -136209,9 +135763,9 @@
     "id": "折",
     "simplified": "折",
     "traditional": "摺",
-    "pinyin": "shé",
-    "pinyin_numeric": "she2",
-    "bopomofo": "ㄕㄜˊ",
+    "pinyin": "zhé",
+    "pinyin_numeric": "zhe2",
+    "bopomofo": "ㄓㄜˊ",
     "hsk": "4",
     "hsk2": "6",
     "frequency": 3422,
@@ -136225,11 +135779,6 @@
     ],
     "meanings_id": [
       "mematahkan",
-      "memecah (ranting, tulang dll)",
-      "(bentuk terikat) mengalami kerugian (dalam bisnis)",
-      "membalikkan sesuatu",
-      "memutar balik",
-      "menumpahkan sesuatu (dari wadah)",
       "retak",
       "memecah",
       "mengalami kerugian",
@@ -136244,31 +135793,17 @@
       "klasifikasi untuk adegan teater",
       "melipat",
       "buku rekening",
-      "varian dari 折[zhe2]"
+      "varian dari 折[zhe2]",
+      "[shé] memecah (ranting, tulang dll)",
+      "[shé] (bentuk terikat) mengalami kerugian (dalam bisnis)",
+      "[zhē] membalikkan sesuatu",
+      "[zhē] memutar balik",
+      "[zhē] menumpahkan sesuatu (dari wadah)"
     ],
     "meanings_en": [
-      "to snap",
-      "to break (a stick, a bone etc)",
-      "(bound form) to sustain a loss (in business)",
-      "to turn sth over",
-      "to turn upside down",
-      "to tip sth out (of a container)",
-      "to break",
-      "to fracture",
-      "to suffer loss",
-      "to bend",
-      "to twist",
-      "to turn",
-      "to change direction",
-      "convinced",
-      "to convert into (currency)",
-      "discount",
-      "rebate",
-      "tenth (in price)",
-      "classifier for theatrical scenes",
       "to fold",
-      "accounts book",
-      "variant of 折"
+      "to break; to snap",
+      "discount"
     ],
     "radical": "扌",
     "radical_number": 64,
@@ -136904,9 +136439,9 @@
     "id": "踏",
     "simplified": "踏",
     "traditional": "踏",
-    "pinyin": "tā",
-    "pinyin_numeric": "ta1",
-    "bopomofo": "ㄊㄚ",
+    "pinyin": "tà",
+    "pinyin_numeric": "ta4",
+    "bopomofo": "ㄊㄚˋ",
     "hsk": "6",
     "hsk2": null,
     "frequency": 3442,
@@ -136917,19 +136452,15 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "lihat 踏實|踏实[ta1 shi5]",
       "menginjak",
       "menghentakkan",
       "menekan pedal",
-      "menyelidiki di tempat"
+      "menyelidiki di tempat",
+      "[tā] lihat 踏實|踏实[ta1 shi5]"
     ],
     "meanings_en": [
-      "see 踏实",
-      "to tread",
-      "to stamp",
-      "to step on",
-      "to press a pedal",
-      "to investigate on the spot"
+      "to step on; to tread",
+      "to trample"
     ],
     "radical": "足",
     "radical_number": 157,
@@ -140542,9 +140073,9 @@
     "id": "恶",
     "simplified": "恶",
     "traditional": "惡",
-    "pinyin": "ě",
-    "pinyin_numeric": "e3",
-    "bopomofo": "ㄜˇ",
+    "pinyin": "è",
+    "pinyin_numeric": "e4",
+    "bopomofo": "ㄜˋ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 3536,
@@ -140561,32 +140092,22 @@
       "an"
     ],
     "meanings_id": [
-      "digunakan dalam 惡心|恶心[e3 xin1]",
       "jahat",
       "ganas",
       "keji",
       "jelek",
       "kasar",
       "menyakiti",
-      "membenci",
-      "jijik",
-      "malu",
-      "takut",
-      "memfitnah"
+      "[ě] digunakan dalam 惡心|恶心[e3 xin1]",
+      "[wù] membenci",
+      "[wù] jijik",
+      "[wù] malu",
+      "[wù] takut",
+      "[wù] memfitnah"
     ],
     "meanings_en": [
-      "used in 恶心",
-      "evil",
-      "fierce",
-      "vicious",
-      "ugly",
-      "coarse",
-      "to harm",
-      "to hate",
-      "to loathe",
-      "ashamed",
-      "to fear",
-      "to slander"
+      "evil; vicious",
+      "fierce"
     ],
     "radical": "心",
     "radical_number": 61,
@@ -143863,9 +143384,9 @@
     "id": "当天",
     "simplified": "当天",
     "traditional": "當天",
-    "pinyin": "dāng tiān",
-    "pinyin_numeric": "dang1 tian1",
-    "bopomofo": "ㄉㄤ ㄊㄧㄢ",
+    "pinyin": "dàng tiān",
+    "pinyin_numeric": "dang4 tian1",
+    "bopomofo": "ㄉㄤˋ ㄊㄧㄢ",
     "hsk": "6",
     "hsk2": null,
     "frequency": 3628,
@@ -143876,12 +143397,11 @@
       "kata waktu"
     ],
     "meanings_id": [
-      "pada hari itu",
-      "hari yang sama"
+      "hari yang sama",
+      "[dāng tiān] pada hari itu"
     ],
     "meanings_en": [
-      "on that day",
-      "the same day"
+      "on that day; the same day"
     ],
     "radical": "⺌",
     "radical_number": null,
@@ -144434,7 +143954,7 @@
     "traditional": "粘",
     "pinyin": "zhān",
     "pinyin_numeric": "zhan1",
-    "bopomofo": "ㄋㄧㄢˊ",
+    "bopomofo": "ㄓㄢ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 3640,
@@ -144535,9 +144055,9 @@
     "id": "钻",
     "simplified": "钻",
     "traditional": "鑚",
-    "pinyin": "zuàn",
-    "pinyin_numeric": "zuan4",
-    "bopomofo": "ㄗㄨㄢˋ",
+    "pinyin": "zuān",
+    "pinyin_numeric": "zuan1",
+    "bopomofo": "ㄗㄨㄢ",
     "hsk": "6",
     "hsk2": null,
     "frequency": 3642,
@@ -144548,9 +144068,6 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "bor; auger",
-      "berlian",
-      "varian dari 鑽|钻[zuan4]",
       "mengebor",
       "melubangi",
       "masuk",
@@ -144558,21 +144075,15 @@
       "menyelinap melalui",
       "belajar intensif",
       "menggali",
-      "menjilat untuk keuntungan pribadi"
+      "menjilat untuk keuntungan pribadi",
+      "[zuàn] bor; auger",
+      "[zuàn] berlian",
+      "[zuàn] varian dari 鑽|钻[zuan4]"
     ],
     "meanings_en": [
-      "variant of 钻",
-      "to drill",
-      "to bore",
+      "to drill; to bore",
       "to get into",
-      "to make one's way into",
-      "to enter (a hole)",
-      "to thread one's way through",
-      "to study intensively",
-      "to dig into",
-      "to curry favor for personal gain",
-      "an auger",
-      "diamond"
+      "[zuàn] a drill; diamond"
     ],
     "radical": "钅",
     "radical_number": 167,
@@ -147831,9 +147342,9 @@
     "id": "买卖",
     "simplified": "买卖",
     "traditional": "買賣",
-    "pinyin": "mǎi mài",
-    "pinyin_numeric": "mai3 mai4",
-    "bopomofo": "ㄇㄞˇ ㄇㄞˋ",
+    "pinyin": "mǎi mai",
+    "pinyin_numeric": "mai3 mai5",
+    "bopomofo": "ㄇㄞˇ ㄇㄞ˙",
     "hsk": "5",
     "hsk2": null,
     "frequency": 3721,
@@ -147848,14 +147359,14 @@
       "kata benda"
     ],
     "meanings_id": [
-      "untuk membeli dan menjual",
       "pembelian dan penjualan; transaksi",
-      "toko; warung"
+      "toko; warung",
+      "[mǎi mài] untuk membeli dan menjual"
     ],
     "meanings_en": [
-      "buying and selling",
-      "business",
-      "business transactions"
+      "business; deal",
+      "shop",
+      "[mǎimài] to buy and sell"
     ],
     "radical": "大",
     "radical_number": 37,
@@ -149903,9 +149414,9 @@
     "id": "扇",
     "simplified": "扇",
     "traditional": "扇",
-    "pinyin": "shān",
-    "pinyin_numeric": "shan1",
-    "bopomofo": "ㄕㄢ",
+    "pinyin": "shàn",
+    "pinyin_numeric": "shan4",
+    "bopomofo": "ㄕㄢˋ",
     "hsk": "5",
     "hsk2": null,
     "frequency": 3773,
@@ -149920,18 +149431,16 @@
       "kata benda"
     ],
     "meanings_id": [
-      "mengipasi",
-      "menampar wajah seseorang",
       "kipas",
       "bagian datar yang berengsel atau dapat dilepas dari suatu benda",
-      "klasifier untuk pintu, jendela dll"
+      "klasifier untuk pintu, jendela dll",
+      "[shān] mengipasi",
+      "[shān] menampar wajah seseorang"
     ],
     "meanings_en": [
-      "to fan",
-      "to slap sb on the face",
       "fan",
-      "sliding, hinged or detachable flat part of sth",
-      "classifier for doors, windows etc"
+      "classifier for doors and windows",
+      "[shān] to fan; to flap"
     ],
     "radical": "户",
     "radical_number": 63,
@@ -150516,9 +150025,9 @@
     "id": "匹",
     "simplified": "匹",
     "traditional": "疋",
-    "pinyin": "pī",
-    "pinyin_numeric": "pi1",
-    "bopomofo": "ㄆㄧ",
+    "pinyin": "pǐ",
+    "pinyin_numeric": "pi3",
+    "bopomofo": "ㄆㄧˇ",
     "hsk": "5",
     "hsk2": "5",
     "frequency": 3794,
@@ -150536,18 +150045,11 @@
       "penggolong untuk kuda, bagal, dll (Taiwan dibaca [pi1])",
       "penggolong untuk kain: gulungan",
       "daya kuda",
-      "varian dari 匹[pi3]",
-      "klasifikasi untuk kain: gulungan"
+      "klasifikasi untuk kain: gulungan",
+      "varian dari 匹[pi3]"
     ],
     "meanings_en": [
-      "mate",
-      "one of a pair",
-      "classifier for horses, mules etc",
-      "Taiwan pr. [pī]",
-      "ordinary person",
-      "classifier for cloth: bolt",
-      "horsepower",
-      "variant of 匹"
+      "classifier for horses, mules (and bolts of cloth)"
     ],
     "radical": "匸",
     "radical_number": 23,
@@ -152211,14 +151713,14 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "(dialek) keseleo kaki atau tungkai karena benturan atau pendaratan tiba-tiba",
       "jongkok",
-      "tinggal (di suatu tempat)"
+      "tinggal (di suatu tempat)",
+      "[cún] (dialek) keseleo kaki atau tungkai karena benturan atau pendaratan tiba-tiba"
     ],
     "meanings_en": [
-      "to crouch",
-      "to squat",
-      "to stay (somewhere)"
+      "to crouch; to squat",
+      "to stay (somewhere)",
+      "[cún] (dialect) to sprain (the leg)"
     ],
     "radical": "足",
     "radical_number": 157,
@@ -159725,9 +159227,9 @@
     "id": "广",
     "simplified": "广",
     "traditional": "廣",
-    "pinyin": "yǎn",
-    "pinyin_numeric": "yan3",
-    "bopomofo": "ㄧㄢˇ",
+    "pinyin": "guǎng",
+    "pinyin_numeric": "guang3",
+    "bopomofo": "ㄍㄨㄤˇ",
     "hsk": "5",
     "hsk2": null,
     "frequency": 4029,
@@ -159742,17 +159244,14 @@
       "non-predikatif"
     ],
     "meanings_id": [
-      "radikal \"rumah di tebing\" dalam aksara Tionghoa (radikal Kangxi ke-53), muncul di 店, 序, 底 dll.",
       "luas",
       "banyak",
       "menyebar",
-      "marga Guang"
+      "marga Guang",
+      "[yǎn] radikal \"rumah di tebing\" dalam aksara Tionghoa (radikal Kangxi ke-53), muncul di 店, 序, 底 dll."
     ],
     "meanings_en": [
-      "\"house on a cliff\" radical in Chinese characters (Kangxi radical 53), occurring in 店, 序, 底 etc",
-      "surname Guang",
-      "wide",
-      "numerous",
+      "wide; extensive",
       "to spread"
     ],
     "radical": "广",
@@ -163388,9 +162887,9 @@
     "id": "薄",
     "simplified": "薄",
     "traditional": "薄",
-    "pinyin": "bó",
-    "pinyin_numeric": "Bo2",
-    "bopomofo": "ㄅㄛˊ",
+    "pinyin": "báo",
+    "pinyin_numeric": "bao2",
+    "bopomofo": "ㄅㄠˊ",
     "hsk": "4",
     "hsk2": "5",
     "frequency": 4129,
@@ -163401,39 +162900,26 @@
       "kata sifat"
     ],
     "meanings_id": [
-      "sedikit",
       "ringan",
       "lemah",
-      "tidak murah hati atau tidak baik",
-      "sembrono",
-      "membenci",
-      "meremehkan",
-      "memandang rendah",
-      "mendekati atau dekat",
       "tipis",
       "dingin dalam sikap",
       "acuh tak acuh",
       "mandul",
-      "marga Bo",
-      "lihat 薄荷[bo4 he5]"
+      "[bó] sedikit",
+      "[bó] tidak murah hati atau tidak baik",
+      "[bó] sembrono",
+      "[bó] membenci",
+      "[bó] meremehkan",
+      "[bó] memandang rendah",
+      "[bó] mendekati atau dekat",
+      "[bó] marga Bo",
+      "[bò] lihat 薄荷[bo4 he5]"
     ],
     "meanings_en": [
-      "surname Bo",
-      "thin",
-      "cold in manner",
-      "indifferent",
-      "weak",
-      "light",
-      "infertile",
-      "meager",
-      "slight",
-      "ungenerous or unkind",
-      "frivolous",
-      "to despise",
-      "to belittle",
-      "to look down on",
-      "to approach or near",
-      "see 荷"
+      "thin; flimsy",
+      "light (not rich)",
+      "[bó] thin; meager; to despise"
     ],
     "radical": "艹",
     "radical_number": 140,
@@ -168961,9 +168447,9 @@
     "id": "狮子",
     "simplified": "狮子",
     "traditional": "獅子",
-    "pinyin": "shī zǐ",
-    "pinyin_numeric": "Shi1 zi3",
-    "bopomofo": "ㄕ ㄗˇ",
+    "pinyin": "shī zi",
+    "pinyin_numeric": "shi1 zi5",
+    "bopomofo": "ㄕ ㄗ˙",
     "hsk": "7",
     "hsk2": "4",
     "frequency": 4295,
@@ -168974,14 +168460,12 @@
       "kata benda"
     ],
     "meanings_id": [
-      "Leo (zodiak)",
-      "kawasan Shihtzu di Kabupaten Pingtung 屏東縣|屏东县[Ping2 dong1 Xian4], Taiwan",
       "singa",
-      "KP:隻|只[zhi1],頭|头[tou2]"
+      "KP:隻|只[zhi1],頭|头[tou2]",
+      "[shī zǐ] Leo (zodiak)",
+      "[shī zǐ] kawasan Shihtzu di Kabupaten Pingtung 屏東縣|屏东县[Ping2 dong1 Xian4], Taiwan"
     ],
     "meanings_en": [
-      "Leo (star sign)",
-      "Shihtzu township in Pingtung County 屏东县, Taiwan",
       "lion"
     ],
     "radical": "犭",
@@ -169557,9 +169041,9 @@
     "id": "尺",
     "simplified": "尺",
     "traditional": "尺",
-    "pinyin": "chě",
-    "pinyin_numeric": "che3",
-    "bopomofo": "ㄔㄜˇ",
+    "pinyin": "chǐ",
+    "pinyin_numeric": "chi3",
+    "bopomofo": "ㄔˇ",
     "hsk": "4",
     "hsk2": null,
     "frequency": 4305,
@@ -169572,21 +169056,17 @@
       "g"
     ],
     "meanings_id": [
-      "salah satu karakter yang digunakan untuk mewakili not musik dalam notasi gongche, 工尺譜|工尺谱[gong1 che3 pu3]",
       "satu kaki Tiongkok",
       "sepertiga meter",
       "penggaris",
       "pita ukur",
       "salah satu dari tiga titik akupunktur untuk mengukur denyut nadi dalam pengobatan Tiongkok",
-      "KP:支[zhi1],把[ba3]"
+      "KP:支[zhi1],把[ba3]",
+      "[chě] salah satu karakter yang digunakan untuk mewakili not musik dalam notasi gongche, 工尺譜|工尺谱[gong1 che3 pu3]"
     ],
     "meanings_en": [
-      "one of the characters used to represent a musical note in gongche notation, 工尺谱",
-      "a Chinese foot",
-      "one-third of a meter",
-      "a ruler",
-      "a tape-measure",
-      "one of the three acupoints for measuring pulse in Chinese medicine"
+      "Chinese foot (1/3 meter)",
+      "ruler"
     ],
     "radical": "尸",
     "radical_number": 44,
@@ -169854,9 +169334,9 @@
     "id": "汗",
     "simplified": "汗",
     "traditional": "汗",
-    "pinyin": "hán",
-    "pinyin_numeric": "han2",
-    "bopomofo": "ㄏㄢˊ",
+    "pinyin": "hàn",
+    "pinyin_numeric": "han4",
+    "bopomofo": "ㄏㄢˋ",
     "hsk": "5",
     "hsk2": "4",
     "frequency": 4310,
@@ -169867,16 +169347,13 @@
       "kata benda"
     ],
     "meanings_id": [
-      "lihat 可汗[ke4 han2], 汗國|汗国[han2 guo2]",
       "keringat",
+      "tidak bisa berkata-kata (karena ketidakberdayaan, rasa malu, dll) (slang internet sebagai seruan)",
       "KP:滴[di1],頭|头[tou2],身[shen1]",
-      "tidak bisa berkata-kata (karena ketidakberdayaan, rasa malu, dll) (slang internet sebagai seruan)"
+      "[hán] lihat 可汗[ke4 han2], 汗國|汗国[han2 guo2]"
     ],
     "meanings_en": [
-      "see 汗, 汗国",
-      "perspiration",
-      "sweat",
-      "to be speechless (out of helplessness, embarrassment etc) (Internet slang used as an interjection)"
+      "sweat; perspiration"
     ],
     "radical": "氵",
     "radical_number": 85,
@@ -173368,9 +172845,9 @@
     "id": "熬",
     "simplified": "熬",
     "traditional": "熬",
-    "pinyin": "āo",
-    "pinyin_numeric": "ao1",
-    "bopomofo": "ㄠ",
+    "pinyin": "áo",
+    "pinyin_numeric": "ao2",
+    "bopomofo": "ㄠˊ",
     "hsk": "7",
     "hsk2": "6",
     "frequency": 4418,
@@ -173381,17 +172858,13 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "merebus; mendidihkan perlahan",
       "memasak dengan api kecil; mengekstrak dengan pemanasan; menyeduh",
-      "bertahan"
+      "bertahan",
+      "[āo] merebus; mendidihkan perlahan"
     ],
     "meanings_en": [
-      "to boil",
-      "to simmer",
-      "to cook on a slow fire",
-      "to extract by heating",
-      "to decoct",
-      "to endure"
+      "to simmer; to cook slowly",
+      "to endure; to hold out"
     ],
     "radical": "灬",
     "radical_number": 86,
@@ -175371,9 +174844,9 @@
     "id": "教学",
     "simplified": "教学",
     "traditional": "教學",
-    "pinyin": "jiāo xué",
-    "pinyin_numeric": "jiao1 xue2",
-    "bopomofo": "ㄐㄧㄠ ㄒㄩㄝˊ",
+    "pinyin": "jiào xué",
+    "pinyin_numeric": "jiao4 xue2",
+    "bopomofo": "ㄐㄧㄠˋ ㄒㄩㄝˊ",
     "hsk": "2",
     "hsk2": null,
     "frequency": 4466,
@@ -175388,14 +174861,12 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "mengajar (sebagai profesor)",
       "pengajaran; instruksi",
-      "KP:次[ci4]"
+      "KP:次[ci4]",
+      "[jiāo xué] mengajar (sebagai profesor)"
     ],
     "meanings_en": [
-      "to teach (as a professor)",
-      "teaching",
-      "instruction"
+      "teaching; instruction"
     ],
     "radical": "攵",
     "radical_number": 66,
@@ -178212,9 +177683,9 @@
     "id": "挣",
     "simplified": "挣",
     "traditional": "掙",
-    "pinyin": "zhēng",
-    "pinyin_numeric": "zheng1",
-    "bopomofo": "ㄓㄥ",
+    "pinyin": "zhèng",
+    "pinyin_numeric": "zheng4",
+    "bopomofo": "ㄓㄥˋ",
     "hsk": "5",
     "hsk2": null,
     "frequency": 4542,
@@ -178225,16 +177696,14 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "digunakan dalam 掙扎|挣扎[zheng1 zha2]",
       "berjuang untuk bebas",
       "berusaha untuk mendapatkan",
-      "menghasilkan (uang)"
+      "menghasilkan (uang)",
+      "[zhēng] digunakan dalam 掙扎|挣扎[zheng1 zha2]"
     ],
     "meanings_en": [
-      "used in 挣扎",
-      "to struggle to get free",
-      "to strive to acquire",
-      "to make (money)"
+      "to earn (money)",
+      "to struggle free"
     ],
     "radical": "扌",
     "radical_number": 64,
@@ -179657,9 +179126,9 @@
     "id": "抹",
     "simplified": "抹",
     "traditional": "抹",
-    "pinyin": "mā",
-    "pinyin_numeric": "ma1",
-    "bopomofo": "ㄇㄚ",
+    "pinyin": "mǒ",
+    "pinyin_numeric": "mo3",
+    "bopomofo": "ㄇㄛˇ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 4600,
@@ -179676,18 +179145,14 @@
       "mengoles",
       "menghapus",
       "klasifikasi untuk gumpalan awan, sinar cahaya dll",
-      "mengepel",
-      "berkeliling",
-      "menyusuri"
+      "[mò] mengepel",
+      "[mò] berkeliling",
+      "[mò] menyusuri"
     ],
     "meanings_en": [
+      "to smear; to apply",
       "to wipe",
-      "to smear",
-      "to erase",
-      "classifier for wisps of cloud, light-beams etc",
-      "to plaster",
-      "to go around",
-      "to skirt"
+      "to erase"
     ],
     "radical": "扌",
     "radical_number": 64,
@@ -179706,7 +179171,7 @@
     "id": "忽略",
     "simplified": "忽略",
     "traditional": "忽略",
-    "pinyin": "hū lu:è",
+    "pinyin": "hū lüè",
     "pinyin_numeric": "hu1 lüe4",
     "bopomofo": "ㄏㄨ ㄌㄩㄝˋ",
     "hsk": "6",
@@ -180271,9 +179736,9 @@
     "id": "脏",
     "simplified": "脏",
     "traditional": "臟",
-    "pinyin": "zàng",
-    "pinyin_numeric": "zang4",
-    "bopomofo": "ㄗㄤˋ",
+    "pinyin": "zāng",
+    "pinyin_numeric": "zang1",
+    "bopomofo": "ㄗㄤ",
     "hsk": "2",
     "hsk2": "4",
     "frequency": 4623,
@@ -180286,18 +179751,14 @@
       "g"
     ],
     "meanings_id": [
-      "organ dalam",
-      "(anatomi) organ",
       "kotor",
       "jorok",
-      "mengotori"
+      "mengotori",
+      "[zàng] organ dalam",
+      "[zàng] (anatomi) organ"
     ],
     "meanings_en": [
-      "viscera",
-      "(anatomy) organ",
-      "dirty",
-      "filthy",
-      "to get (sth) dirty"
+      "dirty; filthy"
     ],
     "radical": "⺼",
     "radical_number": null,
@@ -190841,9 +190302,9 @@
     "id": "当晚",
     "simplified": "当晚",
     "traditional": "當晚",
-    "pinyin": "dāng wǎn",
-    "pinyin_numeric": "dang1 wan3",
-    "bopomofo": "ㄉㄤ ㄨㄢˇ",
+    "pinyin": "dàng wǎn",
+    "pinyin_numeric": "dang4 wan3",
+    "bopomofo": "ㄉㄤˋ ㄨㄢˇ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 4902,
@@ -190854,12 +190315,11 @@
       "kata waktu"
     ],
     "meanings_id": [
-      "pada malam itu",
-      "malam yang sama"
+      "malam yang sama",
+      "[dāng wǎn] pada malam itu"
     ],
     "meanings_en": [
-      "on that evening",
-      "the same evening"
+      "on that evening; the same evening"
     ],
     "radical": "⺌",
     "radical_number": null,
@@ -194316,9 +193776,9 @@
     "id": "看好",
     "simplified": "看好",
     "traditional": "看好",
-    "pinyin": "kān hǎo",
-    "pinyin_numeric": "kan1 hao3",
-    "bopomofo": "ㄎㄢ ㄏㄠˇ",
+    "pinyin": "kàn hǎo",
+    "pinyin_numeric": "kan4 hao3",
+    "bopomofo": "ㄎㄢˋ ㄏㄠˇ",
     "hsk": "6",
     "hsk2": null,
     "frequency": 5015,
@@ -194329,12 +193789,12 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "mengawasi",
-      "menganggap memiliki prospek yang baik"
+      "menganggap memiliki prospek yang baik",
+      "[kān hǎo] mengawasi"
     ],
     "meanings_en": [
-      "to keep an eye on",
-      "to regard as having good prospects"
+      "to regard as promising",
+      "to keep an eye on"
     ],
     "radical": "目",
     "radical_number": 109,
@@ -197641,9 +197101,9 @@
     "id": "浅",
     "simplified": "浅",
     "traditional": "淺",
-    "pinyin": "jiān",
-    "pinyin_numeric": "jian1",
-    "bopomofo": "ㄐㄧㄢ",
+    "pinyin": "qiǎn",
+    "pinyin_numeric": "qian3",
+    "bopomofo": "ㄑㄧㄢˇ",
     "hsk": "4",
     "hsk2": "5",
     "frequency": 5099,
@@ -197656,13 +197116,13 @@
       "ad"
     ],
     "meanings_id": [
-      "suara air mengalir",
       "dangkal",
-      "pucat (warna)"
+      "pucat (warna)",
+      "[jiān] suara air mengalir"
     ],
     "meanings_en": [
-      "sound of moving water",
       "shallow",
+      "simple; easy",
       "light (color)"
     ],
     "radical": "氵",
@@ -197723,9 +197183,9 @@
     "id": "晃",
     "simplified": "晃",
     "traditional": "㨪",
-    "pinyin": "huǎng",
-    "pinyin_numeric": "huang3",
-    "bopomofo": "ㄏㄨㄤˇ",
+    "pinyin": "huàng",
+    "pinyin_numeric": "huang4",
+    "bopomofo": "ㄏㄨㄤˋ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 5102,
@@ -197736,20 +197196,16 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "mempesona",
-      "melintas cepat",
-      "varian dari 晃[huang3]",
       "bergoyang",
       "bergetar",
-      "berkeliling"
+      "berkeliling",
+      "[huǎng] mempesona",
+      "[huǎng] melintas cepat",
+      "[huǎng] varian dari 晃[huang3]"
     ],
     "meanings_en": [
-      "variant of 晃",
-      "to dazzle",
-      "to flash past",
-      "to sway",
-      "to shake",
-      "to wander about"
+      "to shake; to sway",
+      "[huǎng] to dazzle; to flash"
     ],
     "radical": "日",
     "radical_number": 72,
@@ -198068,9 +197524,9 @@
     "id": "闷",
     "simplified": "闷",
     "traditional": "悶",
-    "pinyin": "mēn",
-    "pinyin_numeric": "men1",
-    "bopomofo": "ㄇㄣ",
+    "pinyin": "mèn",
+    "pinyin_numeric": "men4",
+    "bopomofo": "ㄇㄣˋ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 5112,
@@ -198083,28 +197539,21 @@
       "kata sifat"
     ],
     "meanings_id": [
-      "pengap",
-      "tertutup di dalam ruangan",
-      "mematikan",
-      "menutup rapat",
       "bosan",
       "depresi",
       "melankolis",
       "tertutup",
       "kedap udara",
-      "tertutup rapat"
+      "tertutup rapat",
+      "[mēn] pengap",
+      "[mēn] tertutup di dalam ruangan",
+      "[mēn] mematikan",
+      "[mēn] menutup rapat"
     ],
     "meanings_en": [
-      "stuffy",
-      "shut indoors",
-      "to smother",
-      "to cover tightly",
-      "bored",
-      "depressed",
-      "melancholy",
-      "sealed",
-      "airtight",
-      "tightly closed"
+      "bored; depressed",
+      "sealed; unclear",
+      "[mēn] stuffy; to cover tightly"
     ],
     "radical": "门",
     "radical_number": 169,
@@ -201720,7 +201169,7 @@
     "id": "略",
     "simplified": "略",
     "traditional": "畧",
-    "pinyin": "lu:è",
+    "pinyin": "lüè",
     "pinyin_numeric": "lüe4",
     "bopomofo": "ㄌㄩㄝˋ",
     "hsk": "7",
@@ -202087,7 +201536,7 @@
     "traditional": "扁",
     "pinyin": "biǎn",
     "pinyin_numeric": "bian3",
-    "bopomofo": "ㄆㄧㄢ",
+    "bopomofo": "ㄅㄧㄢˇ",
     "hsk": "6",
     "hsk2": "6",
     "frequency": 5218,
@@ -202395,9 +201844,9 @@
     "id": "呵",
     "simplified": "呵",
     "traditional": "呵",
-    "pinyin": "ā",
-    "pinyin_numeric": "a1",
-    "bopomofo": "ㄚ",
+    "pinyin": "hē",
+    "pinyin_numeric": "he1",
+    "bopomofo": "ㄏㄜ",
     "hsk": null,
     "hsk2": "6",
     "frequency": 5230,
@@ -202412,16 +201861,15 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "varian dari 啊[a1]",
       "(bentuk terikat) memarahi",
       "mengeluarkan napas",
+      "interjeksi kejutan",
       "(tiruan bunyi) tawa (biasanya direduplikasi)",
-      "interjeksi kejutan"
+      "[ā] varian dari 啊[a1]"
     ],
     "meanings_en": [
-      "variant of 啊",
-      "expel breath",
-      "my goodness"
+      "to exhale; to breathe out",
+      "to scold"
     ],
     "radical": "口",
     "radical_number": 30,
@@ -206247,9 +205695,9 @@
     "id": "本事",
     "simplified": "本事",
     "traditional": "本事",
-    "pinyin": "běn shì",
-    "pinyin_numeric": "ben3 shi4",
-    "bopomofo": "ㄅㄣˇ ㄕˋ",
+    "pinyin": "běn shi",
+    "pinyin_numeric": "ben3 shi5",
+    "bopomofo": "ㄅㄣˇ ㄕ˙",
     "hsk": "3",
     "hsk2": "6",
     "frequency": 5333,
@@ -206260,15 +205708,12 @@
       "kata benda"
     ],
     "meanings_id": [
-      "materi sumber",
-      "cerita asli",
-      "kemampuan; keterampilan"
+      "kemampuan; keterampilan",
+      "[běn shì] materi sumber",
+      "[běn shì] cerita asli"
     ],
     "meanings_en": [
-      "source material",
-      "original story",
-      "ability",
-      "skill"
+      "ability; skill"
     ],
     "radical": "木",
     "radical_number": 75,
@@ -207624,9 +207069,9 @@
     "id": "幢",
     "simplified": "幢",
     "traditional": "幢",
-    "pinyin": "chuáng",
-    "pinyin_numeric": "chuang2",
-    "bopomofo": "ㄔㄨㄤˊ",
+    "pinyin": "zhuàng",
+    "pinyin_numeric": "zhuang4",
+    "bopomofo": "ㄓㄨㄤˋ",
     "hsk": "7",
     "hsk2": "6",
     "frequency": 5366,
@@ -207637,14 +207082,12 @@
       "kata ukuran"
     ],
     "meanings_id": [
-      "panji; panji-panji (di Tiongkok kuno)",
       "kata penggolong untuk bangunan (Taiwan dibaca [chuang2])",
-      "(kuno) tirai yang digantung di jendela perahu atau kereta"
+      "(kuno) tirai yang digantung di jendela perahu atau kereta",
+      "[chuáng] panji; panji-panji (di Tiongkok kuno)"
     ],
     "meanings_en": [
-      "banner",
-      "classifier for buildings",
-      "carriage curtain (old)"
+      "classifier for buildings"
     ],
     "radical": "巾",
     "radical_number": 50,
@@ -208688,9 +208131,9 @@
     "id": "虾",
     "simplified": "虾",
     "traditional": "蝦",
-    "pinyin": "há",
-    "pinyin_numeric": "ha2",
-    "bopomofo": "ㄏㄚˊ",
+    "pinyin": "xiā",
+    "pinyin_numeric": "xia1",
+    "bopomofo": "ㄒㄧㄚ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 5399,
@@ -208701,13 +208144,11 @@
       "kata benda"
     ],
     "meanings_id": [
-      "digunakan dalam 蝦蟆|虾蟆[ha2 ma5]",
-      "udang"
+      "udang",
+      "[há] digunakan dalam 蝦蟆|虾蟆[ha2 ma5]"
     ],
     "meanings_en": [
-      "used in 虾蟆",
-      "shrimp",
-      "prawn"
+      "shrimp; prawn"
     ],
     "radical": "虫",
     "radical_number": 142,
@@ -208729,9 +208170,9 @@
     "id": "翘",
     "simplified": "翘",
     "traditional": "翹",
-    "pinyin": "qiáo",
-    "pinyin_numeric": "qiao2",
-    "bopomofo": "ㄑㄧㄠˊ",
+    "pinyin": "qiào",
+    "pinyin_numeric": "qiao4",
+    "bopomofo": "ㄑㄧㄠˋ",
     "hsk": "7",
     "hsk2": "6",
     "frequency": 5400,
@@ -208742,18 +208183,16 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "luar biasa",
-      "mengangkat",
       "menegakkan",
       "mengangkat satu ujung",
-      "memiringkan"
+      "memiringkan",
+      "[qiáo] luar biasa",
+      "[qiáo] mengangkat"
     ],
     "meanings_en": [
-      "outstanding",
-      "to raise",
       "to stick up",
-      "to rise on one end",
-      "to tilt"
+      "to lift",
+      "[qiáo] to raise; to lift (the head)"
     ],
     "radical": "羽",
     "radical_number": 124,
@@ -215636,9 +215075,9 @@
     "id": "炮",
     "simplified": "炮",
     "traditional": "砲",
-    "pinyin": "bāo",
-    "pinyin_numeric": "bao1",
-    "bopomofo": "ㄅㄠ",
+    "pinyin": "pào",
+    "pinyin_numeric": "pao4",
+    "bopomofo": "ㄆㄠˋ",
     "hsk": "6",
     "hsk2": null,
     "frequency": 5592,
@@ -215651,23 +215090,18 @@
       "kata ukuran"
     ],
     "meanings_id": [
-      "menumis",
-      "menggoreng",
-      "mengeringkan dengan pemanasan",
-      "menyiapkan obat herbal dengan memanggang atau menyangrai (dalam wajan)",
       "meriam",
-      "KP:座[zuo4]",
       "kembang api",
-      "varian dari 炮[pao4]"
+      "KP:座[zuo4]",
+      "varian dari 炮[pao4]",
+      "[bāo] menumis",
+      "[bāo] menggoreng",
+      "[bāo] mengeringkan dengan pemanasan",
+      "[páo] menyiapkan obat herbal dengan memanggang atau menyangrai (dalam wajan)"
     ],
     "meanings_en": [
-      "to sauté",
-      "to fry",
-      "to dry by heating",
-      "to prepare herbal medicine by roasting or parching (in a pan)",
-      "cannon",
-      "firecracker",
-      "variant of 炮"
+      "cannon; gun",
+      "firecracker"
     ],
     "radical": "火",
     "radical_number": 86,
@@ -217131,9 +216565,9 @@
     "id": "孙子",
     "simplified": "孙子",
     "traditional": "孫子",
-    "pinyin": "sūn zǐ",
-    "pinyin_numeric": "Sun1 zi3",
-    "bopomofo": "ㄙㄨㄣ ㄗˇ",
+    "pinyin": "sūn zi",
+    "pinyin_numeric": "sun1 zi5",
+    "bopomofo": "ㄙㄨㄣ ㄗ˙",
     "hsk": "4",
     "hsk2": "4",
     "frequency": 5639,
@@ -217146,14 +216580,12 @@
       "nr"
     ],
     "meanings_id": [
-      "Sun Tzu, juga dikenal sebagai Sun Wu 孫武|孙武[Sun1 Wu3] (sekitar 500 SM, tanggal lahir dan kematian tidak pasti), jenderal, ahli strategi dan filsuf Periode Musim Semi dan Gugur (700-475 SM), dipercaya sebagai penulis \"Seni Perang\" 孫子兵法|孙子兵法[Sun1 zi3 Bing1 fa3], salah satu dari Tujuh Kitab Militer Kuno Tiongkok 武經七書|武经七书[Wu3 jing1 Qi1 shu1]",
       "cucu laki-laki",
-      "putra dari anak laki-laki"
+      "putra dari anak laki-laki",
+      "[sūn zǐ] Sun Tzu, juga dikenal sebagai Sun Wu 孫武|孙武[Sun1 Wu3] (sekitar 500 SM, tanggal lahir dan kematian tidak pasti), jenderal, ahli strategi dan filsuf Periode Musim Semi dan Gugur (700-475 SM), dipercaya sebagai penulis \"Seni Perang\" 孫子兵法|孙子兵法[Sun1 zi3 Bing1 fa3], salah satu dari Tujuh Kitab Militer Kuno Tiongkok 武經七書|武经七书[Wu3 jing1 Qi1 shu1]"
     ],
     "meanings_en": [
-      "Sun Tzu, also known as Sun Wu 孙武 (c. 500 BC, dates of birth and death uncertain), general, strategist and philosopher of the Spring and Autumn Period (700-475 BC), believed to be the author of the “Art of War” 孙子兵法, one of the Seven Military Classics of ancient China 武经七书",
-      "grandson",
-      "son's son"
+      "grandson (son's son)"
     ],
     "radical": "子",
     "radical_number": 39,
@@ -219551,9 +218983,9 @@
     "id": "番",
     "simplified": "番",
     "traditional": "番",
-    "pinyin": "Pān",
-    "pinyin_numeric": "Pan1",
-    "bopomofo": "ㄆㄢ",
+    "pinyin": "fān",
+    "pinyin_numeric": "fan1",
+    "bopomofo": "ㄈㄢ",
     "hsk": "6",
     "hsk2": "6",
     "frequency": 5706,
@@ -219566,19 +218998,16 @@
       "g"
     ],
     "meanings_id": [
-      "marga Pan",
       "(bentuk terikat) asing (non-Tiongkok); barbar",
       "penggolong untuk proses atau tindakan yang membutuhkan waktu dan upaya",
       "(penggolong) sejenis; semacam",
-      "(penggolong) (digunakan setelah kata kerja 翻[fan1] untuk menunjukkan berapa kali suatu kuantitas berlipat ganda, seperti dalam 翻一番[fan1 yi1 fan1] \"untuk menggandakan\")"
+      "(penggolong) (digunakan setelah kata kerja 翻[fan1] untuk menunjukkan berapa kali suatu kuantitas berlipat ganda, seperti dalam 翻一番[fan1 yi1 fan1] \"untuk menggandakan\")",
+      "[pān] marga Pan"
     ],
     "meanings_en": [
-      "surname Pan",
       "foreign (non-Chinese)",
-      "barbarian",
-      "classifier for occurrences (of an event, action or speech utterance)",
-      "classifier for iterations: times, -fold (as in twofold etc)",
-      "classifier for situations: kind, sort"
+      "classifier for occurrences or kinds",
+      "to take turns"
     ],
     "radical": "田",
     "radical_number": 102,
@@ -225760,7 +225189,7 @@
     "traditional": "殼",
     "pinyin": "ké",
     "pinyin_numeric": "ke2",
-    "bopomofo": "ㄑㄧㄠˋ",
+    "bopomofo": "ㄎㄜˊ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 5895,
@@ -227326,9 +226755,9 @@
     "id": "地道",
     "simplified": "地道",
     "traditional": "地道",
-    "pinyin": "dì dào",
-    "pinyin_numeric": "di4 dao4",
-    "bopomofo": "ㄉㄧˋ ㄉㄠˋ",
+    "pinyin": "dì dao",
+    "pinyin_numeric": "di4 dao5",
+    "bopomofo": "ㄉㄧˋ ㄉㄠ˙",
     "hsk": "7",
     "hsk2": "5",
     "frequency": 5958,
@@ -227341,18 +226770,15 @@
       "kata benda"
     ],
     "meanings_id": [
-      "terowongan",
-      "jalan lintas",
       "otentik",
       "asli",
-      "layak"
+      "layak",
+      "[dì dào] terowongan",
+      "[dì dào] jalan lintas"
     ],
     "meanings_en": [
-      "tunnel",
-      "causeway",
-      "authentic",
-      "genuine",
-      "proper"
+      "authentic; genuine",
+      "thorough"
     ],
     "radical": "土",
     "radical_number": 32,
@@ -231016,9 +230442,9 @@
     "id": "鲜",
     "simplified": "鲜",
     "traditional": "尟",
-    "pinyin": "xiǎn",
-    "pinyin_numeric": "xian3",
-    "bopomofo": "ㄒㄧㄢˇ",
+    "pinyin": "xiān",
+    "pinyin_numeric": "xian1",
+    "bopomofo": "ㄒㄧㄢ",
     "hsk": "4",
     "hsk2": null,
     "frequency": 6056,
@@ -231033,10 +230459,6 @@
       "ad"
     ],
     "meanings_id": [
-      "sedikit",
-      "jarang",
-      "varian dari 鮮|鲜[xian3]",
-      "varian dari 尟|鲜[xian3]",
       "segar",
       "cerah (dalam warna)",
       "lezat",
@@ -231045,20 +230467,16 @@
       "makanan laut",
       "ikan",
       "varian lama dari 鮮|鲜[xian1]",
-      "varian lama dari 鮮|鲜[xian3]"
+      "[xiǎn] sedikit",
+      "[xiǎn] jarang",
+      "[xiǎn] varian dari 鮮|鲜[xian3]",
+      "[xiǎn] varian dari 尟|鲜[xian3]",
+      "[xiǎn] varian lama dari 鮮|鲜[xian3]"
     ],
     "meanings_en": [
-      "variant of 鲜",
       "fresh",
-      "bright (in color)",
-      "delicious",
-      "tasty",
-      "delicacy",
-      "aquatic foods",
-      "few",
-      "rare",
-      "fish",
-      "old variant of 鲜"
+      "delicious; tasty",
+      "bright"
     ],
     "radical": "鱼",
     "radical_number": 195,
@@ -237058,9 +236476,9 @@
     "id": "大夫",
     "simplified": "大夫",
     "traditional": "大夫",
-    "pinyin": "dà fū",
-    "pinyin_numeric": "da4 fu1",
-    "bopomofo": "ㄉㄚˋ ㄈㄨ",
+    "pinyin": "dài fu",
+    "pinyin_numeric": "dai4 fu5",
+    "bopomofo": "ㄉㄞˋ ㄈㄨ˙",
     "hsk": "3",
     "hsk2": "4",
     "frequency": 6248,
@@ -237071,13 +236489,11 @@
       "kata benda"
     ],
     "meanings_id": [
-      "pejabat tinggi (di Tiongkok kekaisaran)",
-      "dokter; fisikawan"
+      "dokter; fisikawan",
+      "[dà fū] pejabat tinggi (di Tiongkok kekaisaran)"
     ],
     "meanings_en": [
-      "senior official (in imperial China)",
-      "doctor",
-      "physician"
+      "doctor; physician"
     ],
     "radical": "大",
     "radical_number": 37,
@@ -244397,9 +243813,9 @@
     "id": "拽",
     "simplified": "拽",
     "traditional": "拽",
-    "pinyin": "zhuāi",
-    "pinyin_numeric": "zhuai1",
-    "bopomofo": "ㄧㄝˋ",
+    "pinyin": "zhuài",
+    "pinyin_numeric": "zhuai4",
+    "bopomofo": "ㄓㄨㄞˋ",
     "hsk": "7",
     "hsk2": "6",
     "frequency": 6459,
@@ -244410,21 +243826,15 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "melempar",
-      "membuang",
-      "varian dari 曳[ye4]",
-      "merasa puas diri; sombong (bentuk tulisan alternatif dari 跩[zhuai3])",
       "menarik",
-      "menarik (sesuatu)"
+      "menarik (sesuatu)",
+      "[zhuāi] melempar",
+      "[zhuāi] membuang",
+      "[yè] varian dari 曳[ye4]",
+      "[zhuǎi] merasa puas diri; sombong (bentuk tulisan alternatif dari 跩[zhuai3])"
     ],
     "meanings_en": [
-      "to drag",
-      "to haul",
-      "to throw",
-      "to fling",
-      "alternate writing of 跩",
-      "to pull",
-      "to tug at (sth)"
+      "to pull; to drag; to tug"
     ],
     "radical": "扌",
     "radical_number": 64,
@@ -255178,9 +254588,9 @@
     "id": "哄",
     "simplified": "哄",
     "traditional": "閧",
-    "pinyin": "hōng",
-    "pinyin_numeric": "hong1",
-    "bopomofo": "ㄏㄨㄥ",
+    "pinyin": "hǒng",
+    "pinyin_numeric": "hong3",
+    "bopomofo": "ㄏㄨㄥˇ",
     "hsk": "7",
     "hsk2": "6",
     "frequency": 6776,
@@ -255193,30 +254603,21 @@
       "kata tiruan bunyi"
     ],
     "meanings_id": [
-      "derai tawa (tiruan bunyi)",
-      "keramaian",
-      "meraung (seperti kerumunan)",
       "menipu",
       "membujuk",
       "menghibur (anak kecil)",
-      "varian dari 鬨|哄[hong4]",
-      "keributan",
-      "kegaduhan",
-      "kekacauan",
-      "gangguan"
+      "[hōng] derai tawa (tiruan bunyi)",
+      "[hōng] keramaian",
+      "[hōng] meraung (seperti kerumunan)",
+      "[hòng] varian dari 鬨|哄[hong4]",
+      "[hòng] keributan",
+      "[hòng] kegaduhan",
+      "[hòng] kekacauan",
+      "[hòng] gangguan"
     ],
     "meanings_en": [
-      "roar of laughter (onom.)",
-      "hubbub",
-      "to roar (as a crowd)",
-      "to deceive",
-      "to coax",
-      "to amuse (a child)",
-      "variant of 哄",
-      "tumult",
-      "uproar",
-      "commotion",
-      "disturbance"
+      "to coax; to humor",
+      "to deceive"
     ],
     "radical": "口",
     "radical_number": 30,
@@ -255463,7 +254864,7 @@
     "traditional": "祭",
     "pinyin": "jì",
     "pinyin_numeric": "ji4",
-    "bopomofo": "ㄓㄞˋ",
+    "bopomofo": "ㄐㄧˋ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 6789,
@@ -256906,9 +256307,9 @@
     "id": "谜",
     "simplified": "谜",
     "traditional": "謎",
-    "pinyin": "mèi",
-    "pinyin_numeric": "mei4",
-    "bopomofo": "ㄇㄟˋ",
+    "pinyin": "mí",
+    "pinyin_numeric": "mi2",
+    "bopomofo": "ㄇㄧˊ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 6848,
@@ -256921,12 +256322,11 @@
       "g"
     ],
     "meanings_id": [
-      "lihat 謎兒|谜儿[mei4 r5], teka-teki",
-      "teka-teki"
+      "teka-teki",
+      "[mèi] lihat 謎兒|谜儿[mei4 r5], teka-teki"
     ],
     "meanings_en": [
-      "see 谜儿, riddle",
-      "riddle"
+      "riddle; mystery"
     ],
     "radical": "讠",
     "radical_number": 149,
@@ -261031,7 +260431,7 @@
     "id": "侵略",
     "simplified": "侵略",
     "traditional": "侵略",
-    "pinyin": "qīn lu:è",
+    "pinyin": "qīn lüè",
     "pinyin_numeric": "qin1 lüe4",
     "bopomofo": "ㄑㄧㄣ ㄌㄩㄝˋ",
     "hsk": "7",
@@ -261096,9 +260496,9 @@
     "id": "粥",
     "simplified": "粥",
     "traditional": "粥",
-    "pinyin": "yù",
-    "pinyin_numeric": "yu4",
-    "bopomofo": "ㄩˋ",
+    "pinyin": "zhōu",
+    "pinyin_numeric": "zhou1",
+    "bopomofo": "ㄓㄡ",
     "hsk": "6",
     "hsk2": "6",
     "frequency": 6967,
@@ -261109,15 +260509,12 @@
       "kata benda"
     ],
     "meanings_id": [
-      "digunakan dalam 葷粥|荤粥[Xun1 yu4]",
       "bubur",
-      "KP:碗[wan3]"
+      "KP:碗[wan3]",
+      "[yù] digunakan dalam 葷粥|荤粥[Xun1 yu4]"
     ],
     "meanings_en": [
-      "used in 荤粥",
-      "congee",
-      "gruel",
-      "porridge"
+      "porridge; congee"
     ],
     "radical": "米",
     "radical_number": 119,
@@ -273758,7 +273155,7 @@
     "id": "虐待",
     "simplified": "虐待",
     "traditional": "虐待",
-    "pinyin": "nu:è dài",
+    "pinyin": "nüè dài",
     "pinyin_numeric": "nüe4 dai4",
     "bopomofo": "ㄋㄩㄝˋ ㄉㄞˋ",
     "hsk": "7",
@@ -276259,9 +275656,9 @@
     "id": "咳",
     "simplified": "咳",
     "traditional": "咳",
-    "pinyin": "hāi",
-    "pinyin_numeric": "hai1",
-    "bopomofo": "ㄏㄞ",
+    "pinyin": "ké",
+    "pinyin_numeric": "ke2",
+    "bopomofo": "ㄎㄜˊ",
     "hsk": "5",
     "hsk2": null,
     "frequency": 7383,
@@ -276274,18 +275671,14 @@
       "seruan"
     ],
     "meanings_id": [
-      "suara mendesah",
-      "(kata seru yang mengungkapkan keterkejutan, kesedihan, penyesalan, kekecewaan, dll.) oh",
-      "sial",
-      "wah",
-      "batuk"
+      "batuk",
+      "[hāi] suara mendesah",
+      "[hāi] (kata seru yang mengungkapkan keterkejutan, kesedihan, penyesalan, kekecewaan, dll.) oh",
+      "[hāi] sial",
+      "[hāi] wah"
     ],
     "meanings_en": [
-      "sound of sighing",
-      "(interjection expressing surprise, sorrow, regret, disappointment etc) oh",
-      "damn",
-      "wow",
-      "cough"
+      "to cough"
     ],
     "radical": "口",
     "radical_number": 30,
@@ -277550,9 +276943,9 @@
     "id": "拾",
     "simplified": "拾",
     "traditional": "拾",
-    "pinyin": "shè",
-    "pinyin_numeric": "she4",
-    "bopomofo": "ㄕㄜˋ",
+    "pinyin": "shí",
+    "pinyin_numeric": "shi2",
+    "bopomofo": "ㄕˊ",
     "hsk": "5",
     "hsk2": "6",
     "frequency": 7430,
@@ -277565,16 +276958,13 @@
       "kata waktu"
     ],
     "meanings_id": [
-      "mendaki dengan langkah ringan",
       "memungut",
       "mengumpulkan atau mengatur",
-      "sepuluh (angka anti-penipuan bank)"
+      "sepuluh (angka anti-penipuan bank)",
+      "[shè] mendaki dengan langkah ringan"
     ],
     "meanings_en": [
-      "to ascend in light steps",
-      "to pick up",
-      "to collate or arrange",
-      "ten (banker's anti-fraud numeral)"
+      "to pick up; to collect"
     ],
     "radical": "扌",
     "radical_number": 64,
@@ -277838,9 +277228,9 @@
     "id": "涌",
     "simplified": "涌",
     "traditional": "湧",
-    "pinyin": "chōng",
-    "pinyin_numeric": "chong1",
-    "bopomofo": "ㄔㄨㄥ",
+    "pinyin": "yǒng",
+    "pinyin_numeric": "yong3",
+    "bopomofo": "ㄩㄥˇ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 7443,
@@ -277851,16 +277241,14 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "(digunakan dalam nama tempat)",
-      "varian dari 湧|涌[yong3]",
       "menggelegak",
-      "mencuat"
+      "mencuat",
+      "varian dari 湧|涌[yong3]",
+      "[chōng] (digunakan dalam nama tempat)"
     ],
     "meanings_en": [
-      "(used in place names)",
-      "variant of 涌",
-      "to bubble up",
-      "to rush forth"
+      "to gush; to surge",
+      "to emerge"
     ],
     "radical": "氵",
     "radical_number": 85,
@@ -287584,9 +286972,9 @@
     "id": "仇",
     "simplified": "仇",
     "traditional": "讎",
-    "pinyin": "qiú",
-    "pinyin_numeric": "Qiu2",
-    "bopomofo": "ㄑㄧㄡˊ",
+    "pinyin": "chóu",
+    "pinyin_numeric": "chou2",
+    "bopomofo": "ㄔㄡˊ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 7742,
@@ -287599,28 +286987,20 @@
       "g"
     ],
     "meanings_id": [
-      "pasangan",
-      "teman",
       "kebencian",
       "permusuhan",
       "perseteruan",
       "musuh",
       "lawan",
       "merasa bermusuhan terhadap (orang kaya, orang asing, dll)",
-      "marga Qiu",
-      "varian dari 仇[chou2]"
+      "varian dari 仇[chou2]",
+      "[qiú] pasangan",
+      "[qiú] teman",
+      "[qiú] marga Qiu"
     ],
     "meanings_en": [
-      "surname Qiu",
-      "hatred",
-      "animosity",
-      "enmity",
-      "foe",
-      "enemy",
-      "to feel animosity toward (the wealthy, foreigners etc)",
-      "spouse",
-      "companion",
-      "variant of 仇"
+      "hatred; enmity",
+      "revenge"
     ],
     "radical": "亻",
     "radical_number": 9,
@@ -288187,9 +287567,9 @@
     "id": "大方",
     "simplified": "大方",
     "traditional": "大方",
-    "pinyin": "dà fāng",
-    "pinyin_numeric": "da4 fang1",
-    "bopomofo": "ㄉㄚˋ ㄈㄤ",
+    "pinyin": "dà fang",
+    "pinyin_numeric": "da4 fang5",
+    "bopomofo": "ㄉㄚˋ ㄈㄤ˙",
     "hsk": "4",
     "hsk2": "5",
     "frequency": 7757,
@@ -288200,29 +287580,22 @@
       "kata sifat"
     ],
     "meanings_id": [
-      "lihat 大方縣|大方县[Da4 fang1 Xian4]",
-      "ahli",
-      "sarjana",
-      "bumi ibu",
-      "jenis teh hijau",
       "murah hati",
       "bermurah hati",
       "bergaya",
       "berasa enak",
       "santai",
-      "alami dan rileks"
+      "alami dan rileks",
+      "[dà fāng] lihat 大方縣|大方县[Da4 fang1 Xian4]",
+      "[dà fāng] ahli",
+      "[dà fāng] sarjana",
+      "[dà fāng] bumi ibu",
+      "[dà fāng] jenis teh hijau"
     ],
     "meanings_en": [
-      "expert",
-      "scholar",
-      "mother earth",
-      "a type of green tea",
-      "generous",
-      "magnanimous",
-      "stylish",
-      "in good taste",
-      "easy-mannered",
-      "natural and relaxed"
+      "generous; magnanimous",
+      "natural and relaxed",
+      "tasteful"
     ],
     "radical": "大",
     "radical_number": 37,
@@ -292814,9 +292187,9 @@
     "id": "扛",
     "simplified": "扛",
     "traditional": "摃",
-    "pinyin": "gāng",
-    "pinyin_numeric": "gang1",
-    "bopomofo": "ㄍㄤ",
+    "pinyin": "káng",
+    "pinyin_numeric": "kang2",
+    "bopomofo": "ㄎㄤˊ",
     "hsk": "7",
     "hsk2": "6",
     "frequency": 7902,
@@ -292827,18 +292200,15 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "mengangkat tinggi dengan kedua tangan",
-      "(oleh dua orang atau lebih) membawa bersama",
       "memikul di bahu",
       "(kiasan) memikul (beban, tugas, dll.)",
-      "varian lama dari 扛[gang1]"
+      "[gāng] mengangkat tinggi dengan kedua tangan",
+      "[gāng] (oleh dua orang atau lebih) membawa bersama",
+      "[gāng] varian lama dari 扛[gang1]"
     ],
     "meanings_en": [
-      "to raise aloft with both hands",
-      "(of two or more people) to carry sth together",
-      "to carry on one's shoulder",
-      "(fig.) to take on (a burden, duty etc)",
-      "old variant of 扛"
+      "to carry on the shoulder",
+      "to bear (responsibility)"
     ],
     "radical": "扌",
     "radical_number": 64,
@@ -304523,9 +303893,9 @@
     "id": "把手",
     "simplified": "把手",
     "traditional": "把手",
-    "pinyin": "bǎ shǒu",
-    "pinyin_numeric": "ba3 shou3",
-    "bopomofo": "ㄅㄚˇ ㄕㄡˇ",
+    "pinyin": "bǎ shou",
+    "pinyin_numeric": "ba3 shou5",
+    "bopomofo": "ㄅㄚˇ ㄕㄡ˙",
     "hsk": "7",
     "hsk2": "6",
     "frequency": 8291,
@@ -304536,16 +303906,14 @@
       "kata benda"
     ],
     "meanings_id": [
-      "berjabat tangan",
       "pegangan",
       "genggaman",
-      "kenop"
+      "kenop",
+      "[bǎ shǒu] berjabat tangan"
     ],
     "meanings_en": [
-      "to shake hands",
-      "handle",
-      "grip",
-      "knob"
+      "handle; knob",
+      "[bǎshǒu] to shake hands; to hold hands"
     ],
     "radical": "扌",
     "radical_number": 64,
@@ -313653,9 +313021,9 @@
     "id": "琢磨",
     "simplified": "琢磨",
     "traditional": "琢磨",
-    "pinyin": "zhuó mó",
-    "pinyin_numeric": "zhuo2 mo2",
-    "bopomofo": "ㄓㄨㄛˊ ㄇㄛˊ",
+    "pinyin": "zuó mo",
+    "pinyin_numeric": "zuo2 mo5",
+    "bopomofo": "ㄗㄨㄛˊ ㄇㄛ˙",
     "hsk": "7",
     "hsk2": "6",
     "frequency": 8593,
@@ -313666,20 +313034,15 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "mengukir dan memoles (giok)",
-      "memoles dan memperbaiki karya sastra",
       "merenungkan",
       "memikirkan matang-matang",
       "mencari tahu",
-      "Taiwan dibaca [zhuo2 mo2]"
+      "Taiwan dibaca [zhuo2 mo2]",
+      "[zhuó mó] mengukir dan memoles (giok)",
+      "[zhuó mó] memoles dan memperbaiki karya sastra"
     ],
     "meanings_en": [
-      "to carve and polish (jade)",
-      "to polish and refine a literary work",
-      "to ponder",
-      "to mull over",
-      "to think through",
-      "Taiwan pr. [zhuó mó]"
+      "to ponder; to think over"
     ],
     "radical": "王",
     "radical_number": 96,
@@ -319246,17 +318609,15 @@
       "kata kerja-benda"
     ],
     "meanings_id": [
-      "menganggur; santai",
-      "Taiwan dibaca [shu1san4]",
       "untuk menyebar; untuk membubarkan; untuk mengevakuasi",
-      "tersebar; jarang"
+      "tersebar; jarang",
+      "[shū sǎn] menganggur; santai",
+      "[shū sǎn] Taiwan dibaca [shu1san4]"
     ],
     "meanings_en": [
-      "to scatter",
-      "to disperse",
+      "to scatter; to disperse",
       "to evacuate",
-      "scattered",
-      "to relax"
+      "scattered; sparse"
     ],
     "radical": "疋",
     "radical_number": 103,
@@ -319412,9 +318773,9 @@
     "id": "转动",
     "simplified": "转动",
     "traditional": "轉動",
-    "pinyin": "zhuǎn dòng",
-    "pinyin_numeric": "zhuan3 dong4",
-    "bopomofo": "ㄓㄨㄢˇ ㄉㄨㄥˋ",
+    "pinyin": "zhuàn dòng",
+    "pinyin_numeric": "zhuan4 dong4",
+    "bopomofo": "ㄓㄨㄢˋ ㄉㄨㄥˋ",
     "hsk": "4",
     "hsk2": null,
     "frequency": 8802,
@@ -319427,20 +318788,14 @@
       "kata kerja-benda"
     ],
     "meanings_id": [
-      "memutar sesuatu",
       "berputar",
       "berputar (pada poros)",
       "bergerak dalam lingkaran",
-      "berayun"
+      "berayun",
+      "[zhuǎn dòng] memutar sesuatu"
     ],
     "meanings_en": [
-      "to turn sth around",
-      "to swivel",
-      "to rotate (about an axis)",
-      "to revolve",
-      "to turn",
-      "to move in a circle",
-      "to gyrate"
+      "to turn; to rotate; to revolve"
     ],
     "radical": "车",
     "radical_number": 159,
@@ -322856,9 +322211,9 @@
     "id": "大爷",
     "simplified": "大爷",
     "traditional": "大爺",
-    "pinyin": "dà yé",
-    "pinyin_numeric": "da4 ye2",
-    "bopomofo": "ㄉㄚˋ ㄧㄝˊ",
+    "pinyin": "dà ye",
+    "pinyin_numeric": "da4 ye5",
+    "bopomofo": "ㄉㄚˋ ㄧㄝ˙",
     "hsk": "4",
     "hsk2": null,
     "frequency": 8931,
@@ -322869,15 +322224,12 @@
       "kata benda"
     ],
     "meanings_id": [
-      "pemalas yang angkuh; pamer diri yang egois",
-      "(percakapan) kakak ayah; paman; panggilan hormat untuk pria yang lebih tua"
+      "(percakapan) kakak ayah; paman; panggilan hormat untuk pria yang lebih tua",
+      "[dà yé] pemalas yang angkuh; pamer diri yang egois"
     ],
     "meanings_en": [
-      "arrogant idler",
-      "self-centered show-off",
-      "(coll.) father's older brother",
-      "uncle",
-      "term of respect for older man"
+      "uncle (respectful address for an older man)",
+      "master"
     ],
     "radical": "大",
     "radical_number": 37,
@@ -364691,9 +364043,9 @@
     "id": "结实",
     "simplified": "结实",
     "traditional": "結實",
-    "pinyin": "jiē shí",
-    "pinyin_numeric": "jie1 shi2",
-    "bopomofo": "ㄐㄧㄝ ㄕˊ",
+    "pinyin": "jiē shi",
+    "pinyin_numeric": "jie1 shi5",
+    "bopomofo": "ㄐㄧㄝ ㄕ˙",
     "hsk": "3",
     "hsk2": "5",
     "frequency": 10419,
@@ -364704,16 +364056,12 @@
       "kata sifat"
     ],
     "meanings_id": [
-      "berbuah",
-      "kokoh; kuat; tahan lama; berotot (fisik)"
+      "kokoh; kuat; tahan lama; berotot (fisik)",
+      "[jiē shí] berbuah"
     ],
     "meanings_en": [
-      "to bear fruit",
-      "rugged",
-      "sturdy",
-      "strong",
-      "durable",
-      "buff (physique)"
+      "sturdy; solid",
+      "strong; robust"
     ],
     "radical": "纟",
     "radical_number": 120,
@@ -374284,9 +373632,9 @@
     "id": "工夫",
     "simplified": "工夫",
     "traditional": "工夫",
-    "pinyin": "gōng fū",
-    "pinyin_numeric": "gong1 fu1",
-    "bopomofo": "ㄍㄨㄥ ㄈㄨ",
+    "pinyin": "gōng fu",
+    "pinyin_numeric": "gong1 fu5",
+    "bopomofo": "ㄍㄨㄥ ㄈㄨ˙",
     "hsk": "3",
     "hsk2": "6",
     "frequency": 10723,
@@ -374297,20 +373645,16 @@
       "kata benda"
     ],
     "meanings_id": [
-      "(dulu) buruh",
       "jangka waktu (bisa berbulan-bulan, atau hanya beberapa detik)",
       "waktu luang",
       "keahlian",
       "tenaga",
-      "upaya"
+      "upaya",
+      "[gōng fū] (dulu) buruh"
     ],
     "meanings_en": [
-      "(old) laborer",
-      "period of time (may be months, or mere seconds)",
-      "spare time",
-      "skill",
-      "labor",
-      "effort"
+      "time; free time",
+      "skill (kung fu)"
     ],
     "radical": "工",
     "radical_number": 48,
@@ -376456,7 +375800,7 @@
     "traditional": "金子",
     "pinyin": "jīn zi",
     "pinyin_numeric": "jin1 zi5",
-    "bopomofo": "ㄐㄧㄣ ㄗˇ",
+    "bopomofo": "ㄐㄧㄣ ㄗ˙",
     "hsk": "7",
     "hsk2": null,
     "frequency": 10780,
@@ -379807,7 +379151,7 @@
     "traditional": "鋸",
     "pinyin": "jù",
     "pinyin_numeric": "ju4",
-    "bopomofo": "ㄐㄩ",
+    "bopomofo": "ㄐㄩˋ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 10918,
@@ -388159,9 +387503,9 @@
     "id": "攒",
     "simplified": "攒",
     "traditional": "攢",
-    "pinyin": "cuán",
-    "pinyin_numeric": "cuan2",
-    "bopomofo": "ㄘㄨㄢˊ",
+    "pinyin": "zǎn",
+    "pinyin_numeric": "zan3",
+    "bopomofo": "ㄗㄢˇ",
     "hsk": "7",
     "hsk2": "6",
     "frequency": 11208,
@@ -388178,11 +387522,8 @@
       "menabung"
     ],
     "meanings_en": [
-      "to bring together",
-      "to collect",
-      "to hoard",
-      "to accumulate",
-      "to save"
+      "to save; to accumulate",
+      "to collect"
     ],
     "radical": "扌",
     "radical_number": 64,
@@ -389511,9 +388852,9 @@
     "id": "分量",
     "simplified": "分量",
     "traditional": "分量",
-    "pinyin": "fēn liàng",
-    "pinyin_numeric": "fen1 liang4",
-    "bopomofo": "ㄈㄣ ㄌㄧㄤˋ",
+    "pinyin": "fèn liang",
+    "pinyin_numeric": "fen4 liang5",
+    "bopomofo": "ㄈㄣˋ ㄌㄧㄤ˙",
     "hsk": "7",
     "hsk2": "6",
     "frequency": 11274,
@@ -389524,16 +388865,14 @@
       "kata benda"
     ],
     "meanings_id": [
-      "komponen (vektor)",
-      "(makanan) ukuran porsi",
       "kuantitas; berat; ukuran",
-      "(kiasan) berat (kepentingan, prestise, otoritas, dll); (dari bahan tertulis) kepadatan"
+      "(kiasan) berat (kepentingan, prestise, otoritas, dll); (dari bahan tertulis) kepadatan",
+      "[fēn liàng] komponen (vektor)",
+      "[fèn liàng] (makanan) ukuran porsi"
     ],
     "meanings_en": [
-      "(vector) component",
-      "quantity",
       "weight",
-      "measure"
+      "significance; importance"
     ],
     "radical": "刀",
     "radical_number": 18,
@@ -391498,9 +390837,9 @@
     "id": "空地",
     "simplified": "空地",
     "traditional": "空地",
-    "pinyin": "kōng dì",
-    "pinyin_numeric": "kong1 di4",
-    "bopomofo": "ㄎㄨㄥ ㄉㄧˋ",
+    "pinyin": "kòng dì",
+    "pinyin_numeric": "kong4 di4",
+    "bopomofo": "ㄎㄨㄥˋ ㄉㄧˋ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 11378,
@@ -391511,14 +390850,12 @@
       "kata benda"
     ],
     "meanings_id": [
-      "udara-ke-permukaan (rudal)",
       "tanah kosong",
-      "ruang terbuka"
+      "ruang terbuka",
+      "[kōng dì] udara-ke-permukaan (rudal)"
     ],
     "meanings_en": [
-      "air-to-surface (missile)",
-      "vacant land",
-      "open space"
+      "vacant land; clearing"
     ],
     "radical": "穴",
     "radical_number": 116,
@@ -392465,9 +391802,9 @@
     "id": "撇",
     "simplified": "撇",
     "traditional": "撇",
-    "pinyin": "piē",
-    "pinyin_numeric": "pie1",
-    "bopomofo": "ㄆㄧㄝ",
+    "pinyin": "piě",
+    "pinyin_numeric": "pie3",
+    "bopomofo": "ㄆㄧㄝˇ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 11433,
@@ -392481,16 +391818,14 @@
     ],
     "meanings_id": [
       "membuang",
-      "menyingkirkan",
       "melempar",
-      "goresan ke bawah miring ke kiri (kaligrafi)"
+      "goresan ke bawah miring ke kiri (kaligrafi)",
+      "[piē] menyingkirkan"
     ],
     "meanings_en": [
-      "to cast away",
-      "to fling aside",
-      "to throw",
-      "to cast",
-      "left-slanting downward brush stroke (calligraphy)"
+      "to throw; to cast",
+      "to skim off",
+      "left-falling stroke (丿)"
     ],
     "radical": "扌",
     "radical_number": 64,
@@ -395006,7 +394341,7 @@
     "traditional": "秤",
     "pinyin": "chèng",
     "pinyin_numeric": "cheng4",
-    "bopomofo": "ㄔㄥ",
+    "bopomofo": "ㄔㄥˋ",
     "hsk": "7",
     "hsk2": "6",
     "frequency": 11539,
@@ -397330,9 +396665,9 @@
     "id": "呛",
     "simplified": "呛",
     "traditional": "嗆",
-    "pinyin": "qiāng",
-    "pinyin_numeric": "qiang1",
-    "bopomofo": "ㄑㄧㄤ",
+    "pinyin": "qiàng",
+    "pinyin_numeric": "qiang4",
+    "bopomofo": "ㄑㄧㄤˋ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 11625,
@@ -397343,22 +396678,18 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "tersedak (karena salah menelan)",
       "membuat hidung teriritasi",
       "tercekik (karena asap, bau, dll)",
       "tajam",
       "(slang) (Tw) membentak seseorang",
       "memarahi",
-      "berbicara menentang seseorang"
+      "berbicara menentang seseorang",
+      "[qiāng] tersedak (karena salah menelan)"
     ],
     "meanings_en": [
-      "to choke (because of swallowing the wrong way)",
-      "to irritate the nose",
-      "to choke (of smoke, smell etc)",
+      "to irritate (nose or throat)",
       "pungent",
-      "(coll.) (Tw) to shout at sb",
-      "to scold",
-      "to speak out against sb"
+      "[qiāng] to choke"
     ],
     "radical": "口",
     "radical_number": 30,
@@ -400050,9 +399381,9 @@
     "id": "大都",
     "simplified": "大都",
     "traditional": "大都",
-    "pinyin": "dà dū",
-    "pinyin_numeric": "Da4 du1",
-    "bopomofo": "ㄉㄚˋ ㄉㄨ",
+    "pinyin": "dà dōu",
+    "pinyin_numeric": "da4 dou1",
+    "bopomofo": "ㄉㄚˋ ㄉㄡ",
     "hsk": "5",
     "hsk2": null,
     "frequency": 11743,
@@ -400063,18 +399394,14 @@
       "ns"
     ],
     "meanings_id": [
-      "Dadu, ibu kota Tiongkok selama Dinasti Yuan (1280-1368), Beijing modern",
       "sebagian besar",
       "secara keseluruhan",
       "juga dibaca [da4 du1]",
-      "metropolitan"
+      "[dà dū] Dadu, ibu kota Tiongkok selama Dinasti Yuan (1280-1368), Beijing modern",
+      "[dà dū] metropolitan"
     ],
     "meanings_en": [
-      "Dadu, capital of China during the Yuan Dynasty (1280-1368), modern day Beijing",
-      "for the most part",
-      "on the whole",
-      "also pr. [dà dū]",
-      "metropolitan"
+      "for the most part; mostly"
     ],
     "radical": "大",
     "radical_number": 37,
@@ -422532,9 +421859,9 @@
     "id": "哑",
     "simplified": "哑",
     "traditional": "啞",
-    "pinyin": "yā",
-    "pinyin_numeric": "ya1",
-    "bopomofo": "ㄧㄚ",
+    "pinyin": "yǎ",
+    "pinyin_numeric": "ya3",
+    "bopomofo": "ㄧㄚˇ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 12656,
@@ -422545,20 +421872,16 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "(tiruan bunyi) suara gagak",
-      "suara bayi belajar berbicara",
-      "variasi dari 呀[ya1]",
       "bisu; bodoh; tidak mampu berbicara",
       "(tentang suara) serak; parau",
-      "(bentuk terikat) (dari peluru, bom, dll) gagal meledak"
+      "(bentuk terikat) (dari peluru, bom, dll) gagal meledak",
+      "[yā] (tiruan bunyi) suara gagak",
+      "[yā] suara bayi belajar berbicara",
+      "[yā] variasi dari 呀[ya1]"
     ],
     "meanings_en": [
-      "(onom.) sound of cawing",
-      "sound of infant learning to talk",
-      "variant of 呀",
-      "mute; dumb; incapable of speech",
-      "(of a voice) hoarse; husky",
-      "(of a bullet, bomb etc) dud"
+      "mute; dumb",
+      "hoarse"
     ],
     "radical": "口",
     "radical_number": 30,
@@ -424025,7 +423348,7 @@
     "id": "掠夺",
     "simplified": "掠夺",
     "traditional": "掠奪",
-    "pinyin": "lu:è duó",
+    "pinyin": "lüè duó",
     "pinyin_numeric": "lüe4 duo2",
     "bopomofo": "ㄌㄩㄝˋ ㄉㄨㄛˊ",
     "hsk": "7",
@@ -431513,9 +430836,9 @@
     "id": "管子",
     "simplified": "管子",
     "traditional": "管子",
-    "pinyin": "guǎn zǐ",
-    "pinyin_numeric": "Guan3 zi3",
-    "bopomofo": "ㄍㄨㄢˇ ㄗˇ",
+    "pinyin": "guǎn zi",
+    "pinyin_numeric": "guan3 zi5",
+    "bopomofo": "ㄍㄨㄢˇ ㄗ˙",
     "hsk": "7",
     "hsk2": "5",
     "frequency": 13105,
@@ -431528,19 +430851,15 @@
       "nr"
     ],
     "meanings_id": [
-      "Guanzi atau Guan Zhong 管仲 (-645 SM), politikus terkenal dari Qi 齊國|齐国 pada periode Musim Semi dan Gugur",
-      "Guanzi, buku klasik yang berisi tulisan Guan Zhong dan sekolahnya",
       "tabung",
       "pipa",
       "sedotan minuman",
-      "KP:根[gen1]"
+      "KP:根[gen1]",
+      "[guǎn zǐ] Guanzi atau Guan Zhong 管仲 (-645 SM), politikus terkenal dari Qi 齊國|齐国 pada periode Musim Semi dan Gugur",
+      "[guǎn zǐ] Guanzi, buku klasik yang berisi tulisan Guan Zhong dan sekolahnya"
     ],
     "meanings_en": [
-      "Guanzi or Guan Zhong 管仲 (-645 BC), famous politician of Qi 齐国 of Spring and Autumn period",
-      "Guanzi, classical book containing writings of Guan Zhong and his school",
-      "tube",
-      "pipe",
-      "drinking straw"
+      "tube; pipe"
     ],
     "radical": "⺮",
     "radical_number": null,
@@ -438480,9 +437799,9 @@
     "id": "大意",
     "simplified": "大意",
     "traditional": "大意",
-    "pinyin": "dà yì",
-    "pinyin_numeric": "da4 yi4",
-    "bopomofo": "ㄉㄚˋ ㄧˋ",
+    "pinyin": "dà yi",
+    "pinyin_numeric": "da4 yi5",
+    "bopomofo": "ㄉㄚˋ ㄧ˙",
     "hsk": "7",
     "hsk2": "6",
     "frequency": 13433,
@@ -438495,14 +437814,13 @@
       "kata sifat"
     ],
     "meanings_id": [
-      "ide umum",
-      "gagasan utama",
-      "ceroboh"
+      "ceroboh",
+      "[dà yì] ide umum",
+      "[dà yì] gagasan utama"
     ],
     "meanings_en": [
-      "general idea",
-      "main idea",
-      "careless"
+      "careless; negligent",
+      "[dàyì] general idea; gist"
     ],
     "radical": "大",
     "radical_number": 37,
@@ -440645,9 +439963,9 @@
     "id": "所长",
     "simplified": "所长",
     "traditional": "所長",
-    "pinyin": "suǒ cháng",
-    "pinyin_numeric": "suo3 chang2",
-    "bopomofo": "ㄙㄨㄛˇ ㄔㄤˊ",
+    "pinyin": "suǒ zhǎng",
+    "pinyin_numeric": "suo3 zhang3",
+    "bopomofo": "ㄙㄨㄛˇ ㄓㄤˇ",
     "hsk": "3",
     "hsk2": null,
     "frequency": 13535,
@@ -440658,12 +439976,11 @@
       "kata benda"
     ],
     "meanings_id": [
-      "apa yang menjadi keahlian seseorang",
-      "kepala institut dll"
+      "kepala institut dll",
+      "[suǒ cháng] apa yang menjadi keahlian seseorang"
     ],
     "meanings_en": [
-      "what one is good at",
-      "head of an institute etc"
+      "head of an institute or office"
     ],
     "radical": "户",
     "radical_number": 63,
@@ -444743,9 +444060,9 @@
     "id": "当日",
     "simplified": "当日",
     "traditional": "當日",
-    "pinyin": "dāng rì",
-    "pinyin_numeric": "dang1 ri4",
-    "bopomofo": "ㄉㄤ ㄖˋ",
+    "pinyin": "dàng rì",
+    "pinyin_numeric": "dang4 ri4",
+    "bopomofo": "ㄉㄤˋ ㄖˋ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 13746,
@@ -444756,14 +444073,12 @@
       "kata waktu"
     ],
     "meanings_id": [
-      "pada hari itu",
       "tepat pada hari itu",
-      "pada hari yang sama"
+      "pada hari yang sama",
+      "[dāng rì] pada hari itu"
     ],
     "meanings_en": [
-      "on that day",
-      "that very day",
-      "the same day"
+      "on that day; the same day"
     ],
     "radical": "⺌",
     "radical_number": null,
@@ -459762,9 +459077,9 @@
     "id": "上头",
     "simplified": "上头",
     "traditional": "上頭",
-    "pinyin": "shàng tóu",
-    "pinyin_numeric": "shang4 tou2",
-    "bopomofo": "ㄕㄤˋ ㄊㄡˊ",
+    "pinyin": "shàng tou",
+    "pinyin_numeric": "shang4 tou5",
+    "bopomofo": "ㄕㄤˋ ㄊㄡ˙",
     "hsk": "7",
     "hsk2": null,
     "frequency": 14639,
@@ -459775,18 +459090,14 @@
       "kata tempat"
     ],
     "meanings_id": [
-      "(dari alkohol, cinta, dll) naik ke kepala seseorang; (dari ide, lagu, dll) masuk ke kepala seseorang; menarik perhatian seseorang",
-      "(kuno) (dari seorang gadis pada hari pernikahannya) mulai mengenakan rambutnya dalam sanggul (bukan kepang)",
       "bagian atas; permukaannya",
-      "pihak berwenang; mereka yang bertanggung jawab; atasan"
+      "pihak berwenang; mereka yang bertanggung jawab; atasan",
+      "[shàng tóu] (dari alkohol, cinta, dll) naik ke kepala seseorang; (dari ide, lagu, dll) masuk ke kepala seseorang; menarik perhatian seseorang",
+      "[shàng tóu] (kuno) (dari seorang gadis pada hari pernikahannya) mulai mengenakan rambutnya dalam sanggul (bukan kepang)"
     ],
     "meanings_en": [
-      "(of alcohol) to go to one's head",
-      "(old) (of a bride-to-be) to bind one's hair into a bun",
-      "(of a prostitute) to receive a patron for the first time",
-      "above",
-      "on top of",
-      "on the surface of"
+      "top; above; on top",
+      "superior; authority"
     ],
     "radical": "一",
     "radical_number": 1,
@@ -493712,9 +493023,9 @@
     "id": "倒车",
     "simplified": "倒车",
     "traditional": "倒車",
-    "pinyin": "dǎo chē",
-    "pinyin_numeric": "dao3 che1",
-    "bopomofo": "ㄉㄠˇ ㄔㄜ",
+    "pinyin": "dào chē",
+    "pinyin_numeric": "dao4 che1",
+    "bopomofo": "ㄉㄠˋ ㄔㄜ",
     "hsk": "4",
     "hsk2": null,
     "frequency": 16831,
@@ -493727,14 +493038,12 @@
       "kata kerja-benda"
     ],
     "meanings_id": [
-      "berganti bus, kereta api, dll.",
       "memundurkan (kendaraan)",
-      "mengemudi mundur"
+      "mengemudi mundur",
+      "[dǎo chē] berganti bus, kereta api, dll."
     ],
     "meanings_en": [
-      "to change buses, trains etc",
-      "to reverse (a vehicle)",
-      "to drive backwards"
+      "to reverse (a vehicle)"
     ],
     "radical": "亻",
     "radical_number": 9,
@@ -495139,7 +494448,7 @@
     "id": "领略",
     "simplified": "领略",
     "traditional": "領略",
-    "pinyin": "lǐng lu:è",
+    "pinyin": "lǐng lüè",
     "pinyin_numeric": "ling3 lüe4",
     "bopomofo": "ㄌㄧㄥˇ ㄌㄩㄝˋ",
     "hsk": "7",
@@ -523344,9 +522653,9 @@
     "id": "裁缝",
     "simplified": "裁缝",
     "traditional": "裁縫",
-    "pinyin": "cái féng",
-    "pinyin_numeric": "cai2 feng2",
-    "bopomofo": "ㄘㄞˊ ㄈㄥˊ",
+    "pinyin": "cái feng",
+    "pinyin_numeric": "cai2 feng5",
+    "bopomofo": "ㄘㄞˊ ㄈㄥ˙",
     "hsk": null,
     "hsk2": "6",
     "frequency": 19354,
@@ -523359,16 +522668,14 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "menjahit pakaian",
-      "menjahit",
       "penjahit",
-      "tukang jahit"
+      "tukang jahit",
+      "[cái féng] menjahit pakaian",
+      "[cái féng] menjahit"
     ],
     "meanings_en": [
-      "to make an item of clothing",
-      "to tailor",
-      "tailor",
-      "dressmaker"
+      "tailor; dressmaker",
+      "[cáiféng] to cut and sew"
     ],
     "radical": "衣",
     "radical_number": 145,
@@ -524475,7 +523782,7 @@
     "id": "省略",
     "simplified": "省略",
     "traditional": "省略",
-    "pinyin": "shěng lu:è",
+    "pinyin": "shěng lüè",
     "pinyin_numeric": "sheng3 lüe4",
     "bopomofo": "ㄕㄥˇ ㄌㄩㄝˋ",
     "hsk": "7",
@@ -526371,7 +525678,7 @@
     "id": "闺女",
     "simplified": "闺女",
     "traditional": "閨女",
-    "pinyin": "guī ˙nu:",
+    "pinyin": "guī ˙nü",
     "pinyin_numeric": "gui1 nü5",
     "bopomofo": "ㄍㄨㄟ ㄋㄩ˙",
     "hsk": "7",
@@ -531759,7 +531066,7 @@
     "id": "略微",
     "simplified": "略微",
     "traditional": "略微",
-    "pinyin": "lu:è wēi",
+    "pinyin": "lüè wēi",
     "pinyin_numeric": "lüe4 wei1",
     "bopomofo": "ㄌㄩㄝˋ ㄨㄟ",
     "hsk": "7",
@@ -533738,9 +533045,9 @@
     "id": "卷子",
     "simplified": "卷子",
     "traditional": "卷子",
-    "pinyin": "juǎn zi",
-    "pinyin_numeric": "juan3 zi5",
-    "bopomofo": "ㄐㄩㄢˇ ㄗ˙",
+    "pinyin": "juàn zi",
+    "pinyin_numeric": "juan4 zi5",
+    "bopomofo": "ㄐㄩㄢˋ ㄗ˙",
     "hsk": "7",
     "hsk2": null,
     "frequency": 20510,
@@ -533751,14 +533058,12 @@
       "kata benda"
     ],
     "meanings_id": [
-      "roti kukus",
-      "lumpia",
-      "kertas ujian"
+      "kertas ujian",
+      "[juǎn zi] roti kukus",
+      "[juǎn zi] lumpia"
     ],
     "meanings_en": [
-      "steamed roll",
-      "spring roll",
-      "test paper; examination paper"
+      "test paper; exam paper"
     ],
     "radical": "㔾",
     "radical_number": null,
@@ -536237,7 +535542,7 @@
     "id": "粗略",
     "simplified": "粗略",
     "traditional": "粗略",
-    "pinyin": "cū lu:è",
+    "pinyin": "cū lüè",
     "pinyin_numeric": "cu1 lüe4",
     "bopomofo": "ㄘㄨ ㄌㄩㄝˋ",
     "hsk": "7",
@@ -560168,9 +559473,9 @@
     "id": "照应",
     "simplified": "照应",
     "traditional": "照應",
-    "pinyin": "zhào yìng",
-    "pinyin_numeric": "zhao4 ying4",
-    "bopomofo": "ㄓㄠˋ ㄧㄥˋ",
+    "pinyin": "zhào ying",
+    "pinyin_numeric": "zhao4 ying5",
+    "bopomofo": "ㄓㄠˋ ㄧㄥ˙",
     "hsk": null,
     "hsk2": "6",
     "frequency": 23973,
@@ -560181,18 +559486,15 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "berkorelasi dengan",
-      "sesuai dengan",
       "merawat",
       "menjaga",
-      "melayani"
+      "melayani",
+      "[zhào yìng] berkorelasi dengan",
+      "[zhào yìng] sesuai dengan"
     ],
     "meanings_en": [
-      "to correlate with",
-      "to correspond to",
-      "to look after",
-      "to take care of",
-      "to attend to"
+      "to take care of; to look after",
+      "[zhàoyìng] to correlate; to coordinate"
     ],
     "radical": "灬",
     "radical_number": 86,
@@ -567477,9 +566779,9 @@
     "id": "下调",
     "simplified": "下调",
     "traditional": "下調",
-    "pinyin": "xià diào",
-    "pinyin_numeric": "xia4 diao4",
-    "bopomofo": "ㄒㄧㄚˋ ㄉㄧㄠˋ",
+    "pinyin": "xià tiáo",
+    "pinyin_numeric": "xia4 tiao2",
+    "bopomofo": "ㄒㄧㄚˋ ㄊㄧㄠˊ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 25370,
@@ -567490,16 +566792,13 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "menurunkan pangkat",
-      "menurunkan ke unit yang lebih rendah",
       "menyesuaikan ke bawah",
-      "menurunkan (harga, upah, dll)"
+      "menurunkan (harga, upah, dll)",
+      "[xià diào] menurunkan pangkat",
+      "[xià diào] menurunkan ke unit yang lebih rendah"
     ],
     "meanings_en": [
-      "to demote",
-      "to pass down to a lower unit",
-      "to adjust downwards",
-      "to lower (prices, wages etc)"
+      "to adjust downward; to lower (prices etc.)"
     ],
     "radical": "一",
     "radical_number": 1,
@@ -593045,9 +592344,9 @@
     "id": "豁",
     "simplified": "豁",
     "traditional": "豁",
-    "pinyin": "huá",
-    "pinyin_numeric": "hua2",
-    "bopomofo": "ㄏㄨㄚˊ",
+    "pinyin": "huò",
+    "pinyin_numeric": "huo4",
+    "bopomofo": "ㄏㄨㄛˋ",
     "hsk": "7",
     "hsk2": null,
     "frequency": 31567,
@@ -593058,24 +592357,19 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "memainkan permainan tebak jari Tiongkok",
-      "membuka",
-      "bertaruh semua",
-      "mengorbankan",
-      "retak",
-      "celah",
       "terbuka; jelas; berjiwa besar; murah hati",
-      "membebaskan; menghapus"
+      "membebaskan; menghapus",
+      "[huá] memainkan permainan tebak jari Tiongkok",
+      "[huō] membuka",
+      "[huō] bertaruh semua",
+      "[huō] mengorbankan",
+      "[huō] retak",
+      "[huō] celah"
     ],
     "meanings_en": [
-      "to play Chinese finger-guessing game",
-      "opening",
-      "stake all",
-      "sacrifice",
-      "crack",
-      "slit",
-      "open; clear; liberal-minded; generous",
-      "to exempt; to remit"
+      "open; clear",
+      "generous",
+      "[huō] to split; to sacrifice"
     ],
     "radical": "谷",
     "radical_number": 150,
@@ -618842,9 +618136,9 @@
     "id": "好学",
     "simplified": "好学",
     "traditional": "好學",
-    "pinyin": "hǎo xué",
-    "pinyin_numeric": "hao3 xue2",
-    "bopomofo": "ㄏㄠˇ ㄒㄩㄝˊ",
+    "pinyin": "hào xué",
+    "pinyin_numeric": "hao4 xue2",
+    "bopomofo": "ㄏㄠˋ ㄒㄩㄝˊ",
     "hsk": "6",
     "hsk2": null,
     "frequency": 49415,
@@ -618855,16 +618149,13 @@
       "kata sifat"
     ],
     "meanings_id": [
-      "mudah dipelajari",
       "bersemangat belajar",
       "rajin belajar",
-      "terpelajar"
+      "terpelajar",
+      "[hǎo xué] mudah dipelajari"
     ],
     "meanings_en": [
-      "easy to learn",
-      "eager to study",
-      "studious",
-      "erudite"
+      "eager to learn; studious"
     ],
     "radical": "女",
     "radical_number": 38,
@@ -629599,7 +628890,7 @@
     "traditional": "紐扣兒",
     "pinyin": "niǔ kòu er",
     "pinyin_numeric": "niu3 kou4 er",
-    "bopomofo": "ㄋㄧㄡˇ ㄎㄡˋ ㄦ˙",
+    "bopomofo": "ㄋㄧㄡˇ ㄎㄡˋ er",
     "hsk": null,
     "hsk2": "6",
     "frequency": 1000000,
@@ -634508,9 +633799,9 @@
     "id": "长号",
     "simplified": "长号",
     "traditional": "長號",
-    "pinyin": "cháng háo",
-    "pinyin_numeric": "chang2 hao2",
-    "bopomofo": "ㄔㄤˊ ㄏㄠˊ",
+    "pinyin": "cháng hào",
+    "pinyin_numeric": "chang2 hao4",
+    "bopomofo": "ㄔㄤˊ ㄏㄠˋ",
     "hsk": null,
     "hsk2": null,
     "frequency": null,
@@ -634951,9 +634242,9 @@
     "id": "打雪仗",
     "simplified": "打雪仗",
     "traditional": "打雪仗",
-    "pinyin": "dá xuě zhàng",
-    "pinyin_numeric": "da2 xue3 zhang4",
-    "bopomofo": "ㄉㄚˊ ㄒㄩㄝˇ ㄓㄤˋ",
+    "pinyin": "dǎ xuě zhàng",
+    "pinyin_numeric": "da3 xue3 zhang4",
+    "bopomofo": "ㄉㄚˇ ㄒㄩㄝˇ ㄓㄤˋ",
     "hsk": null,
     "hsk2": null,
     "frequency": null,
@@ -635115,9 +634406,9 @@
     "id": "泡温泉",
     "simplified": "泡温泉",
     "traditional": "泡溫泉",
-    "pinyin": "pāo wēn quán",
-    "pinyin_numeric": "pao1 wen1 quan2",
-    "bopomofo": "ㄆㄠ ㄨㄣ ㄑㄩㄢˊ",
+    "pinyin": "pào wēn quán",
+    "pinyin_numeric": "pao4 wen1 quan2",
+    "bopomofo": "ㄆㄠˋ ㄨㄣ ㄑㄩㄢˊ",
     "hsk": null,
     "hsk2": null,
     "frequency": null,
@@ -635131,7 +634422,7 @@
       "berendam air panas (onsen)"
     ],
     "meanings_en": [
-      "to enjoy hot springs"
+      "to soak in a hot spring"
     ],
     "radical": "氵",
     "radical_number": null,
@@ -636394,9 +635685,9 @@
     "id": "燕麦",
     "simplified": "燕麦",
     "traditional": "燕麥",
-    "pinyin": "yān mài",
-    "pinyin_numeric": "yan1 mai4",
-    "bopomofo": "ㄧㄢ ㄇㄞˋ",
+    "pinyin": "yàn mài",
+    "pinyin_numeric": "yan4 mai4",
+    "bopomofo": "ㄧㄢˋ ㄇㄞˋ",
     "hsk": null,
     "hsk2": null,
     "frequency": null,
@@ -636410,7 +635701,7 @@
       "oat/gandum"
     ],
     "meanings_en": [
-      "oatmeal"
+      "oats"
     ],
     "radical": "灬",
     "radical_number": null,
@@ -636864,9 +636155,9 @@
     "id": "光明节",
     "simplified": "光明节",
     "traditional": "光明節",
-    "pinyin": "guāng míng jiē",
-    "pinyin_numeric": "guang1 ming2 jie1",
-    "bopomofo": "ㄍㄨㄤ ㄇㄧㄥˊ ㄐㄧㄝ",
+    "pinyin": "guāng míng jié",
+    "pinyin_numeric": "guang1 ming2 jie2",
+    "bopomofo": "ㄍㄨㄤ ㄇㄧㄥˊ ㄐㄧㄝˊ",
     "hsk": null,
     "hsk2": null,
     "frequency": null,
@@ -636880,7 +636171,7 @@
       "Hanukkah"
     ],
     "meanings_en": [
-      "Hanukkah"
+      "Hanukkah (Festival of Lights)"
     ],
     "radical": "儿",
     "radical_number": null,
@@ -637327,9 +636618,9 @@
     "id": "东正教",
     "simplified": "东正教",
     "traditional": "東正教",
-    "pinyin": "dōng zhēng jiào",
-    "pinyin_numeric": "dong1 zheng1 jiao4",
-    "bopomofo": "ㄉㄨㄥ ㄓㄥ ㄐㄧㄠˋ",
+    "pinyin": "dōng zhèng jiào",
+    "pinyin_numeric": "dong1 zheng4 jiao4",
+    "bopomofo": "ㄉㄨㄥ ㄓㄥˋ ㄐㄧㄠˋ",
     "hsk": null,
     "hsk2": null,
     "frequency": null,
