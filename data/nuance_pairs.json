@@ -7220,7 +7220,7 @@
             "想到这个问题",
             "想到你"
           ],
-          "example_cn": "我没想过这个办法。",
+          "example_cn": "我没想到这个办法。",
           "example_pinyin": "Wo mei xiangdao zhe ge banfa.",
           "example_id": "Saya tidak terpikir cara ini.",
           "register": "netral"
@@ -11709,7 +11709,7 @@
             "天然食物"
           ],
           "example_cn": "我们需要足够的食物。",
-          "example_pinyin": "Women xuyao zugu de shiwu.",
+          "example_pinyin": "Women xuyao zugou de shiwu.",
           "example_id": "Kita butuh makanan yang cukup.",
           "register": "netral"
         }
@@ -19443,7 +19443,7 @@
             "导致冲突"
           ],
           "example_cn": "懒惰导致了他的失败。",
-          "example_pinyin": "Landai daozhi le ta de shibai.",
+          "example_pinyin": "Landuo daozhi le ta de shibai.",
           "example_id": "Kemalasan menyebabkan kegagalannya.",
           "register": "formal"
         }
@@ -25709,7 +25709,7 @@
             "针对性地"
           ],
           "example_cn": "这是专门针对新手设计的课程。",
-          "example_pinyin": "Zhe shi zhuammen zhendui xinshou sheji de kecheng.",
+          "example_pinyin": "Zhe shi zhuanmen zhendui xinshou sheji de kecheng.",
           "example_id": "Ini dirancang khusus untuk pemula.",
           "register": "formal"
         }
@@ -25901,7 +25901,7 @@
             "登记失业"
           ],
           "example_cn": "请在柜台登记入住。",
-          "example_pinyin": "Qing zai gaitai dengji ruzhu.",
+          "example_pinyin": "Qing zai guitai dengji ruzhu.",
           "example_id": "Tolong daftar check-in di meja depan.",
           "register": "formal"
         }
@@ -31087,7 +31087,7 @@
             "老闺女"
           ],
           "example_cn": "闺女回来了！",
-          "example_pinyin": "Guīniū huílái le!",
+          "example_pinyin": "Guīnü huílái le!",
           "example_id": "Anak perempuan (sayang) sudah pulang!",
           "register": "santai"
         }
@@ -35669,7 +35669,7 @@
             "吩咐别人"
           ],
           "example_cn": "他吩咐秘书准备会议资料。",
-          "example_pinyin": "Ta fenfu mishi zhunbei huiyi ziliao.",
+          "example_pinyin": "Ta fenfu mishu zhunbei huiyi ziliao.",
           "example_id": "Dia memerintahkan sekretaris menyiapkan bahan rapat.",
           "register": "formal"
         }
@@ -46443,8 +46443,8 @@
             "良知体现"
           ],
           "example_cn": "他缺乏基本的良知。",
-          "example_pinyin": "Ta quejia jiben de liangzhi.",
-          "example_id": "Dia kurang akal sehat dasar.",
+          "example_pinyin": "Ta quefa jiben de liangzhi.",
+          "example_id": "Dia kurang memiliki hati nurani dasar.",
           "register": "formal"
         }
       ],
@@ -49728,7 +49728,7 @@
             "羞涩"
           ],
           "example_cn": "她害羞地低下了头。",
-          "example_pinyin": "Tā xiūxiū de dīxiàle tóu.",
+          "example_pinyin": "Tā hàixiū de dīxiàle tóu.",
           "example_id": "Dia menunduk dengan malu.",
           "register": "netral"
         },
@@ -58211,7 +58211,7 @@
             "询问路线",
             "询问进展"
           ],
-          "example_cn": "他向前台询问了会议室的的位置。",
+          "example_cn": "他向前台询问了会议室的位置。",
           "example_pinyin": "Tā xiàng qiántái xúnwèn le huìyìshì de wèizhi.",
           "example_id": "Dia bertanya kepada resepsionis tentang lokasi ruang rapat.",
           "register": "netral"
@@ -58562,7 +58562,7 @@
             "急剧波动"
           ],
           "example_cn": "物价在急剧上涨。",
-          "example_pinyin": "Wùjià zài jùjù shàngzhǎng.",
+          "example_pinyin": "Wùjià zài jíjù shàngzhǎng.",
           "example_id": "Harga barang naik dengan cepat.",
           "register": "netral/resmi"
         },
