@@ -1,0 +1,65 @@
+{
+  "keterangan": "Bentuk varian radikal di menu Kamus > Kelompok > Per Radikal. 'induk' = radikal asalnya; 'catatan' = keterangan untuk varian yang tidak dipasangkan dengan induk. Data index_komponen_posisi.json tidak diubah.",
+  "varian": {
+    "氵": {
+      "induk": "水"
+    },
+    "艹": {
+      "induk": "艸"
+    },
+    "钅": {
+      "induk": "金"
+    },
+    "扌": {
+      "induk": "手"
+    },
+    "亻": {
+      "induk": "人"
+    },
+    "纟": {
+      "induk": "糸"
+    },
+    "忄": {
+      "induk": "心"
+    },
+    "⺮": {
+      "induk": "竹"
+    },
+    "讠": {
+      "induk": "言"
+    },
+    "犭": {
+      "induk": "犬"
+    },
+    "饣": {
+      "induk": "食"
+    },
+    "刂": {
+      "induk": "刀"
+    },
+    "衤": {
+      "induk": "衣"
+    },
+    "礻": {
+      "induk": "示"
+    },
+    "攵": {
+      "induk": "攴"
+    },
+    "灬": {
+      "induk": "火"
+    },
+    "罒": {
+      "induk": "网"
+    },
+    "阝": {
+      "catatan": "阝 dipakai dua radikal berbeda: 阜 (di kiri, mis. 阳) dan 邑 (di kanan, mis. 都)."
+    },
+    "⺀": {
+      "catatan": "Bentuk jarang: hanya ada pada 2 karakter (冬, 枣)."
+    },
+    "⺳": {
+      "catatan": "Bentuk jarang: hanya ada pada 2 karakter (罕, 罙)."
+    }
+  }
+}
