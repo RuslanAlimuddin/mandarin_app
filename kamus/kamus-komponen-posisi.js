@@ -5,7 +5,7 @@
    Filter: Semua | Karakter | Kata, lalu posisi (Kiri/Kanan/Atas/Bawah/Luar/Dalam).
    Posisi hanya berlaku untuk karakter tunggal. Karakter di luar HSK memakai Cidict. */
 (function () {
-  var IDX = null, keep = false, S = { t: 'phonetic', k: '', tipe: 'semua', pos: 'semua', peran: 'semua' };
+  var IDX = null, VAR = {}, VREV = {}, keep = false, S = { t: 'phonetic', k: '', tipe: 'semua', pos: 'semua', peran: 'semua' };
   var POS = ['kiri', 'kanan', 'atas', 'bawah', 'luar', 'dalam'];
   var hskMap = null, idMap = null, cidMap = null;
   var roleOn = false; /* true hanya saat hasil Komponen/Radikal sedang tampil */
@@ -14,7 +14,8 @@
   (function () {
     var st = document.createElement('style');
     st.textContent = '.kp-role{flex:none;font-size:.72rem;font-weight:600;line-height:1;padding:2px 6px;border-radius:4px;margin-left:4px;cursor:help}' +
-      '.kp-yin{background:rgba(59,130,246,.16);color:#3b82f6}.kp-yi{background:rgba(34,197,94,.16);color:#22a05a}';
+      '.kp-yin{background:rgba(59,130,246,.16);color:#3b82f6}.kp-yi{background:rgba(34,197,94,.16);color:#22a05a}' +
+      '.kp-var{font-size:.68rem;color:var(--text-muted);margin-left:3px;white-space:nowrap}';
     document.head.appendChild(st);
   })();
 
@@ -37,10 +38,29 @@
 
   function loadIdx() {
     if (IDX) return Promise.resolve(IDX);
+    var vp = fetch('data/radikal_varian.json').then(function (r) { return r.ok ? r.json() : { varian: {} }; })
+      .catch(function () { return { varian: {} }; }); /* gagal dimuat: menu tetap jalan tanpa tanda varian */
     return fetch('data/index_komponen_posisi.json').then(function (r) {
       if (!r.ok) throw new Error('HTTP ' + r.status);
       return r.json();
-    }).then(function (j) { IDX = j; return j; });
+    }).then(function (j) {
+      IDX = j;
+      return vp.then(function (v) {
+        VAR = (v && v.varian) || {};
+        VREV = {};
+        Object.keys(VAR).forEach(function (k) { /* induk -> daftar varian (hanya induk yang punya data posisi) */
+          var ind = VAR[k].induk;
+          if (ind && IDX.radikal[ind] && IDX.radikal[ind].kecil !== undefined) (VREV[ind] = VREV[ind] || []).push(k);
+        });
+        return j;
+      });
+    });
+  }
+
+  /* induk yang tombolnya ada di daftar dengan data posisi lengkap (bukan bagian "Lainnya") */
+  function indukAda(k) {
+    var v = VAR[k], ind = v && v.induk;
+    return (ind && IDX.radikal[ind] && !IDX.radikal[ind].leg) ? ind : '';
   }
 
   function buildMaps() {
@@ -104,7 +124,12 @@
           var c = document.createElement('div');
           c.className = 'group-chip';
           c.title = x.e.label ? 'Umumnya penanda ' + x.e.label : '';
-          c.innerHTML = '<span style="font-size:1.05rem">' + escHtml(x.k) + '</span><span class="gc-count">' + x.n + '</span>';
+          var vm = '', ind = type === 'phonetic' ? '' : indukAda(x.k);
+          if (ind) {
+            vm = '<span class="kp-var">↔' + escHtml(ind) + '</span>';
+            c.title = (c.title ? c.title + ' · ' : '') + 'Bentuk varian dari ' + ind;
+          }
+          c.innerHTML = '<span style="font-size:1.05rem">' + escHtml(x.k) + '</span>' + vm + '<span class="gc-count">' + x.n + '</span>';
           c.addEventListener('click', function () { pick(type, x.k); });
           grid.appendChild(c);
         });
@@ -187,6 +212,7 @@
       bar.appendChild(b);
       return b;
     }
+    varNote(bar);
     btn('Semua', S.tipe === 'semua', function () { S.tipe = 'semua'; render(); });
     btn('Karakter (' + total(e) + ')', S.tipe === 'kar', function () { S.tipe = 'kar'; render(); });
     btn('Kata (' + nWords + ')', S.tipe === 'kata', function () { S.tipe = 'kata'; S.pos = 'semua'; S.peran = 'semua'; render(); });
@@ -223,6 +249,35 @@
         lg.style.cssText = 'color:var(--text-muted);font-size:.74rem;margin-left:10px';
         bar.appendChild(lg);
       }
+    }
+  }
+
+  /* keterangan varian radikal di atas tombol filter (hanya menu Per Radikal) */
+  function varNote(bar) {
+    if (S.t !== 'radical') return;
+    var v = VAR[S.k], rev = VREV[S.k], row = null;
+    function mk() {
+      row = document.createElement('div');
+      row.style.cssText = 'flex-basis:100%;width:100%;display:flex;flex-wrap:wrap;gap:6px;align-items:center;color:var(--text-muted);font-size:.82rem';
+      bar.appendChild(row);
+    }
+    function go(txt, key) {
+      var b = document.createElement('button');
+      b.className = 'card-sort-btn';
+      b.textContent = txt;
+      b.onclick = function () { S = { t: 'radical', k: key, tipe: 'semua', pos: 'semua', peran: 'semua' }; render(); };
+      row.appendChild(b);
+    }
+    function say(t) { var s = document.createElement('span'); s.textContent = t; row.appendChild(s); }
+    if (v && v.induk) {
+      mk();
+      say(S.k + ' = bentuk varian dari ' + v.induk);
+      if (indukAda(S.k)) go('Lihat ' + v.induk + ' →', v.induk);
+    } else if (v && v.catatan) {
+      mk(); say(v.catatan);
+    } else if (rev && rev.length) {
+      mk(); say('Bentuk varian:');
+      rev.forEach(function (k) { go(k + ' →', k); });
     }
   }
 
