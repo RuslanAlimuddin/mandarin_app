@@ -3078,7 +3078,7 @@
             "回去看看"
           ],
           "example_cn": "我有点累了，想回去休息。",
-          "example_pinyin": "Wǒ yǒudiǎn lèi le, xiǎng huíqù xiūxi.",
+          "example_pinyin": "Wǒ yǒudiǎn lèi le, xiǎng huíqu xiūxi.",
           "example_id": "Aku agak capek, mau pulang (ke tempat lain) istirahat.",
           "register": "netral"
         },
@@ -3097,7 +3097,7 @@
             "回来看看"
           ],
           "example_cn": "你什么时候回来？我们都等你了。",
-          "example_pinyin": "Nǐ shénme shíhou huílái? Wǒmen dōu děng nǐ le.",
+          "example_pinyin": "Nǐ shénme shíhou huílai? Wǒmen dōu děng nǐ le.",
           "example_id": "Kapan kamu kembali ke sini? Kami semua sudah menunggumu.",
           "register": "netral"
         }
@@ -3709,7 +3709,7 @@
             "唱歌好听"
           ],
           "example_cn": "他喜欢唱歌。",
-          "example_pinyin": "Tā xǐhuān chànggē.",
+          "example_pinyin": "Tā xǐhuan chànggē.",
           "example_id": "Dia suka bernyanyi.",
           "register": "netral"
         }
@@ -3883,7 +3883,7 @@
             "左边的人"
           ],
           "example_cn": "学校在左边。",
-          "example_pinyin": "Xuéxiào zài zuǒbiān.",
+          "example_pinyin": "Xuéxiào zài zuǒbian.",
           "example_id": "Sekolah di sebelah kiri.",
           "register": "netral"
         },
@@ -3901,7 +3901,7 @@
             "右边的人"
           ],
           "example_cn": "银行在右边。",
-          "example_pinyin": "Yínháng zài yòubiān.",
+          "example_pinyin": "Yínháng zài yòubian.",
           "example_id": "Bank di sebelah kanan.",
           "register": "netral"
         }
@@ -3931,7 +3931,7 @@
             "东京"
           ],
           "example_cn": "太阳从东方升起。",
-          "example_pinyin": "Tàiyáng cóng dōngfāng shēngqǐ.",
+          "example_pinyin": "Tàiyang cóng dōngfāng shēngqǐ.",
           "example_id": "Matahari terbit dari timur.",
           "register": "netral"
         },
@@ -3949,7 +3949,7 @@
             "西安"
           ],
           "example_cn": "太阳从西方落下。",
-          "example_pinyin": "Tàiyáng cóng xīfāng luòxià.",
+          "example_pinyin": "Tàiyang cóng xīfāng luòxià.",
           "example_id": "Matahari terbenam di barat.",
           "register": "netral"
         }
@@ -5429,7 +5429,7 @@
             "享受生活"
           ],
           "example_cn": "他在乡下生活得很舒服。",
-          "example_pinyin": "Tā zài xiāngxià shēnghuó de hěn shūfu.",
+          "example_pinyin": "Tā zài xiāngxia shēnghuó de hěn shūfu.",
           "example_id": "Dia hidup dengan nyaman di pedesaan.",
           "register": "netral"
         }
@@ -5460,7 +5460,7 @@
             "非常重要"
           ],
           "example_cn": "她是一个非常聪明的学生。",
-          "example_pinyin": "Tā shì yíge fēicháng cōngmíng de xuéshēng.",
+          "example_pinyin": "Tā shì yíge fēicháng cōngming de xuésheng.",
           "example_id": "Dia adalah murid yang sangat pintar.",
           "register": "netral"
         },
@@ -5629,7 +5629,7 @@
             "今天还是明天"
           ],
           "example_cn": "你想喝茶还是咖啡？",
-          "example_pinyin": "Nǐ xiǎng hē chá háishì kāfēi?",
+          "example_pinyin": "Nǐ xiǎng hē chá háishi kāfēi?",
           "example_id": "Kamu mau minum teh atau kopi?",
           "register": "netral"
         }
@@ -6319,7 +6319,7 @@
             "部分时间"
           ],
           "example_cn": "部分学生已经完成了作业。",
-          "example_pinyin": "Bùfen xuéshēng yǐjīng wánchéng le zuòyè.",
+          "example_pinyin": "Bùfen xuésheng yǐjīng wánchéng le zuòyè.",
           "example_id": "Sebagian siswa sudah menyelesaikan PR.",
           "register": "formal"
         }
@@ -6693,7 +6693,7 @@
             "大型车辆"
           ],
           "example_cn": "路上的车辆很多。",
-          "example_pinyin": "Lù shàng de chēliàng hěnduō.",
+          "example_pinyin": "Lù shang de chēliàng hěnduō.",
           "example_id": "Ada banyak kendaraan di jalan.",
           "register": "formal"
         }
@@ -8626,7 +8626,7 @@
             "所有的问题"
           ],
           "example_cn": "所有的学生都来了。",
-          "example_pinyin": "Suǒyǒu de xuéshēng dōu lái le.",
+          "example_pinyin": "Suǒyǒu de xuésheng dōu lái le.",
           "example_id": "Semua siswa datang.",
           "register": "netral"
         },
@@ -8672,7 +8672,7 @@
             "这边"
           ],
           "example_cn": "左边是银行。",
-          "example_pinyin": "Zuǒbiān shì yínháng.",
+          "example_pinyin": "Zuǒbian shì yínháng.",
           "example_id": "Sisi kiri adalah bank.",
           "register": "netral"
         },
@@ -8764,7 +8764,7 @@
             "雪花"
           ],
           "example_cn": "地上有很多雪。",
-          "example_pinyin": "Dì shàng yǒu hěnduō xuě.",
+          "example_pinyin": "Dì shang yǒu hěnduō xuě.",
           "example_id": "Di tanah ada banyak salju.",
           "register": "netral"
         },
@@ -8921,7 +8921,7 @@
             "小声嘀咕"
           ],
           "example_cn": "他小声地告诉了我一个秘密。",
-          "example_pinyin": "Tā xiǎoshēng de gàosùle wǒ yíge mìmì.",
+          "example_pinyin": "Tā xiǎoshēng de gàosule wǒ yíge mìmì.",
           "example_id": "Dia dengan pelan memberi tahu saya sebuah rahasia.",
           "register": "netral"
         }
@@ -9282,7 +9282,7 @@
             "虽然有点贵"
           ],
           "example_cn": "虽然很忙，但他还是来了。",
-          "example_pinyin": "Suīrán hěn máng, dàn tā háishì lái le.",
+          "example_pinyin": "Suīrán hěn máng, dàn tā háishi lái le.",
           "example_id": "Meskipun sibuk, dia tetap datang.",
           "register": "netral"
         },
@@ -9921,7 +9921,7 @@
             "不是熟人"
           ],
           "example_cn": "在街上我遇到了一个熟人，但忘了他的名字。",
-          "example_pinyin": "Zài jiē shang wǒ yùdào le yí ge shúrén, dàn wàng le tā de míngzì.",
+          "example_pinyin": "Zài jiē shang wǒ yùdào le yí ge shúrén, dàn wàng le tā de míngzi.",
           "example_id": "Di jalan saya bertemu seseorang yang saya kenal, tapi lupa namanya.",
           "register": "netral"
         }
@@ -10615,7 +10615,7 @@
             "房屋管理局"
           ],
           "example_cn": "我们需要签订房屋租赁合同。",
-          "example_pinyin": "Wǒmen xūyào qiāndìng fángwū zūlìn hétóng.",
+          "example_pinyin": "Wǒmen xūyào qiāndìng fángwū zūlìn hétong.",
           "example_id": "Kita perlu menandatangani kontrak sewa properti.",
           "register": "formal"
         }
@@ -12868,7 +12868,7 @@
             "确实来了"
           ],
           "example_cn": "确实，他的话很有道理。",
-          "example_pinyin": "Quèshí, tā de huà hěn yǒu dàolǐ.",
+          "example_pinyin": "Quèshí, tā de huà hěn yǒu dàoli.",
           "example_id": "Memang, ucapannya sangat masuk akal.",
           "register": "formal"
         },
@@ -13248,7 +13248,7 @@
             "突然决定"
           ],
           "example_cn": "他突然站了起来。",
-          "example_pinyin": "Tā tūrán zhàn le qǐlái.",
+          "example_pinyin": "Tā tūrán zhàn le qǐlai.",
           "example_id": "Dia tiba-tiba berdiri (membuat orang terkejut).",
           "register": "netral"
         },
@@ -15054,7 +15054,7 @@
             "看起来像"
           ],
           "example_cn": "他看起来不太舒服。",
-          "example_pinyin": "Tā kànqǐlái bù tài shūfu.",
+          "example_pinyin": "Tā kànqǐlai bù tài shūfu.",
           "example_id": "Dia kelihatan tidak terlalu enak badan.",
           "register": "netral"
         },
@@ -15073,7 +15073,7 @@
             "看上去像"
           ],
           "example_cn": "这栋楼看上去很旧。",
-          "example_pinyin": "Zhè dòng lóu kànshàngqù hěn jiù.",
+          "example_pinyin": "Zhè dòng lóu kànshangqu hěn jiù.",
           "example_id": "Gedung ini kelihatan sangat tua.",
           "register": "netral"
         }
@@ -15152,7 +15152,7 @@
             "充满房间"
           ],
           "example_cn": "他的眼睛里充满了希望。",
-          "example_pinyin": "Tā de yǎnjīng lǐ chōngmǎnle xīwàng.",
+          "example_pinyin": "Tā de yǎnjing lǐ chōngmǎnle xīwàng.",
           "example_id": "Matanya penuh harapan.",
           "register": "netral"
         },
@@ -15491,7 +15491,7 @@
             "赶快行动"
           ],
           "example_cn": "赶快起来，要迟到了。",
-          "example_pinyin": "Gǎnkuài qǐlái, yào chídào le.",
+          "example_pinyin": "Gǎnkuài qǐlai, yào chídào le.",
           "example_id": "Cepat bangun, hampir telat.",
           "register": "santai"
         }
@@ -15675,7 +15675,7 @@
             "夏天短裤"
           ],
           "example_cn": "夏天我喜欢穿短裤。",
-          "example_pinyin": "Xiàtiān wǒ xǐhuān chuān duǎnkù.",
+          "example_pinyin": "Xiàtiān wǒ xǐhuan chuān duǎnkù.",
           "example_id": "Musim panas saya suka pakai celana pendek.",
           "register": "netral"
         }
@@ -16103,7 +16103,7 @@
             "现代建筑"
           ],
           "example_cn": "他喜欢现代艺术。",
-          "example_pinyin": "Tā xǐhuān xiàndài yìshù.",
+          "example_pinyin": "Tā xǐhuan xiàndài yìshù.",
           "example_id": "Dia suka seni modern.",
           "register": "netral"
         }
@@ -16425,7 +16425,7 @@
             "农村发展"
           ],
           "example_cn": "他喜欢农村的宁静生活。",
-          "example_pinyin": "Tā xǐhuān nóngcūn de níngjìng shēnghuó.",
+          "example_pinyin": "Tā xǐhuan nóngcūn de níngjìng shēnghuó.",
           "example_id": "Dia suka kehidupan desa yang tenang.",
           "register": "netral"
         }
@@ -16454,7 +16454,7 @@
             "艺术学校"
           ],
           "example_cn": "他喜欢现代艺术。",
-          "example_pinyin": "Tā xǐhuān xiàndài yìshù.",
+          "example_pinyin": "Tā xǐhuan xiàndài yìshù.",
           "example_id": "Dia suka seni modern.",
           "register": "netral"
         },
@@ -16991,7 +16991,7 @@
             "偶遇"
           ],
           "example_cn": "我在街上遇到了他。",
-          "example_pinyin": "Wǒ zài jiē shàng yùdàole tā.",
+          "example_pinyin": "Wǒ zài jiē shang yùdàole tā.",
           "example_id": "Saya bertemu dia di jalan secara kebetulan.",
           "register": "netral"
         }
@@ -18386,7 +18386,7 @@
             "感觉舒服"
           ],
           "example_cn": "这张沙发坐起来很舒服。",
-          "example_pinyin": "Zhè zhāng shāfā zuò qǐlái hěn shūfu.",
+          "example_pinyin": "Zhè zhāng shāfā zuò qǐlai hěn shūfu.",
           "example_id": "Sofa ini sangat nyaman diduduki.",
           "register": "netral"
         },
@@ -18524,7 +18524,7 @@
             "脱外套"
           ],
           "example_cn": "外面冷，穿上外套吧。",
-          "example_pinyin": "Wàimiàn lěng, chuān shàng wàitào ba.",
+          "example_pinyin": "Wàimiàn lěng, chuān shang wàitào ba.",
           "example_id": "Di luar dingin, pakai jaket saja.",
           "register": "netral"
         },
@@ -18571,7 +18571,7 @@
             "什么颜色"
           ],
           "example_cn": "我喜欢蓝色。",
-          "example_pinyin": "Wǒ xǐhuān lánsè.",
+          "example_pinyin": "Wǒ xǐhuan lánsè.",
           "example_id": "Saya suka warna biru.",
           "register": "netral"
         },
@@ -20324,7 +20324,7 @@
             "各种人"
           ],
           "example_cn": "我喜欢各种水果。",
-          "example_pinyin": "Wǒ xǐhuān gèzhǒng shuǐguǒ.",
+          "example_pinyin": "Wǒ xǐhuan gèzhǒng shuǐguǒ.",
           "example_id": "Saya suka berbagai macam buah.",
           "register": "netral"
         },
@@ -20513,7 +20513,7 @@
             "逛夜市"
           ],
           "example_cn": "我周末喜欢逛街。",
-          "example_pinyin": "Wǒ zhōumò xǐhuān guàngjiē.",
+          "example_pinyin": "Wǒ zhōumò xǐhuan guàngjiē.",
           "example_id": "Saya suka jalan-jalan di akhir pekan (melihat toko).",
           "register": "netral"
         },
@@ -21208,7 +21208,7 @@
             "病毒传播"
           ],
           "example_cn": "这条消息在网络上迅速传播。",
-          "example_pinyin": "Zhè tiáo xiāoxī zài wǎngluò shàng xùnsù chuánbō.",
+          "example_pinyin": "Zhè tiáo xiāoxi zài wǎngluò shàng xùnsù chuánbō.",
           "example_id": "Berita ini menyebar dengan cepat di internet.",
           "register": "formal"
         },
@@ -22403,7 +22403,7 @@
             "顺应潮流"
           ],
           "example_cn": "他喜欢追随时尚潮流。",
-          "example_pinyin": "Tā xǐhuān zhuīsuí shíshàng cháoliú.",
+          "example_pinyin": "Tā xǐhuan zhuīsuí shíshàng cháoliú.",
           "example_id": "Dia suka mengikuti tren mode.",
           "register": "netral"
         }
@@ -24909,7 +24909,7 @@
             "否定可能性"
           ],
           "example_cn": "他否定了这个说法。",
-          "example_pinyin": "Tā fǒudìngle zhège shuōfǎ.",
+          "example_pinyin": "Tā fǒudìngle zhège shuōfa.",
           "example_id": "Dia membantah pernyataan ini.",
           "register": "formal"
         }
@@ -26039,7 +26039,7 @@
             "呼应"
           ],
           "example_cn": "他答应了我们的请求。",
-          "example_pinyin": "Tā dāyìngle wǒmen de qǐngqiú.",
+          "example_pinyin": "Tā dāyingle wǒmen de qǐngqiú.",
           "example_id": "Dia menyetujui permintaan kami.",
           "register": "netral"
         }
@@ -27669,7 +27669,7 @@
             "如此"
           ],
           "example_cn": "他的脸像红苹果一样，真是如此。",
-          "example_pinyin": "Tā de liǎn xiàng hóng píngguǒ yíyàng, zhēn shì rúcǐ.",
+          "example_pinyin": "Tā de liǎn xiàng hóng píngguǒ yíyàng, zhēn shi rúcǐ.",
           "example_id": "Wajahnya seperti apel merah, benar-benar begitu.",
           "register": "formal"
         }
@@ -28552,7 +28552,7 @@
             "收集"
           ],
           "example_cn": "学生在操场集合。",
-          "example_pinyin": "Xuéshēng zài cāochǎng jíhé.",
+          "example_pinyin": "Xuésheng zài cāochǎng jíhé.",
           "example_id": "Siswa berkumpul di lapangan.",
           "register": "netral"
         },
@@ -30575,7 +30575,7 @@
             "酱汁"
           ],
           "example_cn": "他喜欢在面包上涂果酱。",
-          "example_pinyin": "Tā xǐhuān zài miànbāo shàng tú guǒjiàng.",
+          "example_pinyin": "Tā xǐhuan zài miànbāo shàng tú guǒjiàng.",
           "example_id": "Dia suka mengoles selai di roti.",
           "register": "netral"
         }
@@ -31021,7 +31021,7 @@
             "山林"
           ],
           "example_cn": "他喜欢爬山。",
-          "example_pinyin": "Tā xǐhuān pá shān.",
+          "example_pinyin": "Tā xǐhuan pá shān.",
           "example_id": "Dia suka mendaki gunung.",
           "register": "netral"
         },
@@ -31087,7 +31087,7 @@
             "老闺女"
           ],
           "example_cn": "闺女回来了！",
-          "example_pinyin": "Guīnü huílái le!",
+          "example_pinyin": "Guīnü huílai le!",
           "example_id": "Anak perempuan (sayang) sudah pulang!",
           "register": "santai"
         }
@@ -31691,7 +31691,7 @@
             "皮靴"
           ],
           "example_cn": "冬天她喜欢穿靴子。",
-          "example_pinyin": "Dōngtiān tā xǐhuān chuān xuēzi.",
+          "example_pinyin": "Dōngtiān tā xǐhuan chuān xuēzi.",
           "example_id": "Di musim dingin dia suka pakai sepatu bot.",
           "register": "netral"
         }
@@ -32476,7 +32476,7 @@
             "绑绳子"
           ],
           "example_cn": "他把犯人绑了起来。",
-          "example_pinyin": "Tā bǎ fànrén bǎngle qǐlái.",
+          "example_pinyin": "Tā bǎ fànrén bǎngle qǐlai.",
           "example_id": "Dia mengikat tahanan itu.",
           "register": "netral"
         },
@@ -35186,7 +35186,7 @@
             "凉风习习"
           ],
           "example_cn": "晚上天气很凉爽。",
-          "example_pinyin": "Wǎnshàng tiānqì hěn liángshuǎng.",
+          "example_pinyin": "Wǎnshang tiānqì hěn liángshuǎng.",
           "example_id": "Cuaca malam sangat sejuk.",
           "register": "netral"
         },
@@ -36285,7 +36285,7 @@
             "保持苗条"
           ],
           "example_cn": "她身材很苗条。",
-          "example_pinyin": "Tā shēncái hěn miáotiáo.",
+          "example_pinyin": "Tā shēncái hěn miáotiao.",
           "example_id": "Tubuhnya sangat langsing.",
           "register": "santai"
         }
@@ -37388,7 +37388,7 @@
             "藏在"
           ],
           "example_cn": "他把钱藏在床底下。",
-          "example_pinyin": "Tā bǎ qián cáng zài chuáng dǐxià.",
+          "example_pinyin": "Tā bǎ qián cáng zài chuáng dǐxia.",
           "example_id": "Dia menyembunyikan uang di bawah tempat tidur.",
           "register": "santai"
         },
@@ -37681,7 +37681,7 @@
             "无法宽恕"
           ],
           "example_cn": "他请求上帝宽恕他的罪过。",
-          "example_pinyin": "Tā qǐngqiú Shàngdì kuānshù tā de zuìguò.",
+          "example_pinyin": "Tā qǐngqiú Shàngdì kuānshù tā de zuìguo.",
           "example_id": "Dia memohon kepada Tuhan untuk mengampuni dosanya.",
           "register": "sastra"
         }
@@ -37756,7 +37756,7 @@
             "戴首饰"
           ],
           "example_cn": "她喜欢戴首饰。",
-          "example_pinyin": "Tā xǐhuān dài shǒushì.",
+          "example_pinyin": "Tā xǐhuan dài shǒushì.",
           "example_id": "Dia suka memakai perhiasan.",
           "register": "netral"
         },
@@ -37898,7 +37898,7 @@
             "孤独一人"
           ],
           "example_cn": "他一个人住在乡下，很孤独。",
-          "example_pinyin": "Tā yígerén zhù zài xiāngxià, hěn gūdú.",
+          "example_pinyin": "Tā yígerén zhù zài xiāngxia, hěn gūdú.",
           "example_id": "Dia tinggal sendirian di desa, sangat kesepian.",
           "register": "netral"
         },
@@ -38237,7 +38237,7 @@
             "终于领悟"
           ],
           "example_cn": "他终于领悟了这个道理。",
-          "example_pinyin": "Tā zhōngyú lǐngwù le zhège dàolǐ.",
+          "example_pinyin": "Tā zhōngyú lǐngwù le zhège dàoli.",
           "example_id": "Akhirnya dia memahami kebenaran ini.",
           "register": "formal"
         }
@@ -38851,7 +38851,7 @@
             "消化"
           ],
           "example_cn": "他的态度很消极。",
-          "example_pinyin": "Tā de tàidù hěn xiāojí.",
+          "example_pinyin": "Tā de tàidu hěn xiāojí.",
           "example_id": "Sikapnya sangat pasif.",
           "register": "formal"
         }
@@ -38897,7 +38897,7 @@
             "僵化"
           ],
           "example_cn": "他的态度很僵硬。",
-          "example_pinyin": "Tā de tàidù hěn jiāngyìng.",
+          "example_pinyin": "Tā de tàidu hěn jiāngyìng.",
           "example_id": "Sikapnya sangat kaku.",
           "register": "formal"
         }
@@ -39455,7 +39455,7 @@
             "冤枉钱"
           ],
           "example_cn": "他被冤枉了，其实他没做错事。",
-          "example_pinyin": "Tā bèi yuānwǎng le, qíshí tā méi zuò cuò shì.",
+          "example_pinyin": "Tā bèi yuānwang le, qíshí tā méi zuò cuò shì.",
           "example_id": "Dia dituduh secara tidak adil, sebenarnya dia tidak salah.",
           "register": "formal"
         }
@@ -39912,7 +39912,7 @@
             "哪个手机"
           ],
           "example_cn": "这两本书，你喜欢哪个？",
-          "example_pinyin": "Zhè liǎng běn shū, nǐ xǐhuān nǎge?",
+          "example_pinyin": "Zhè liǎng běn shū, nǐ xǐhuan nǎge?",
           "example_id": "Dari dua buku ini, kamu suka yang mana?",
           "register": "netral"
         },
@@ -39960,7 +39960,7 @@
             "读小说"
           ],
           "example_cn": "我喜欢读小说。",
-          "example_pinyin": "Wǒ xǐhuān dú xiǎoshuō.",
+          "example_pinyin": "Wǒ xǐhuan dú xiǎoshuō.",
           "example_id": "Saya suka membaca novel.",
           "register": "netral"
         },
@@ -40762,7 +40762,7 @@
             "看月亮"
           ],
           "example_cn": "今晚的月亮很圆。",
-          "example_pinyin": "Jīnwǎn de yuèliàng hěn yuán.",
+          "example_pinyin": "Jīnwǎn de yuèliang hěn yuán.",
           "example_id": "Bulan malam ini sangat bulat.",
           "register": "netral"
         },
@@ -40854,7 +40854,7 @@
             "许多国家"
           ],
           "example_cn": "许多学生参加了比赛。",
-          "example_pinyin": "Xǔduō xuéshēng cānjiā le bǐsài.",
+          "example_pinyin": "Xǔduō xuésheng cānjiā le bǐsài.",
           "example_id": "Banyak siswa mengikuti perlombaan.",
           "register": "formal"
         },
@@ -41041,7 +41041,7 @@
             "眼镜"
           ],
           "example_cn": "他的眼睛很大。",
-          "example_pinyin": "Tā de yǎnjīng hěn dà.",
+          "example_pinyin": "Tā de yǎnjing hěn dà.",
           "example_id": "Matanya besar.",
           "register": "netral"
         },
@@ -41907,7 +41907,7 @@
             "亲近"
           ],
           "example_cn": "他们关系很亲密。",
-          "example_pinyin": "Tāmen guānxì hěn qīnmì.",
+          "example_pinyin": "Tāmen guānxi hěn qīnmì.",
           "example_id": "Hubungan mereka sangat akrab.",
           "register": "netral"
         }
@@ -42355,7 +42355,7 @@
             "电脑"
           ],
           "example_cn": "他的大脑很聪明。",
-          "example_pinyin": "Tā de dànǎo hěn cōngmíng.",
+          "example_pinyin": "Tā de dànǎo hěn cōngming.",
           "example_id": "Otaknya sangat pintar.",
           "register": "netral"
         },
@@ -43545,7 +43545,7 @@
             "重口味电影"
           ],
           "example_cn": "他喜欢吃重口味的菜，比如火锅。",
-          "example_pinyin": "Tā xǐhuān chī zhòng kǒuwèi de cài, bǐrú huǒguō.",
+          "example_pinyin": "Tā xǐhuan chī zhòng kǒuwèi de cài, bǐrú huǒguō.",
           "example_id": "Dia suka makan makanan berasa kuat, seperti hotpot.",
           "register": "santai"
         }
@@ -43683,7 +43683,7 @@
             "开车墨镜"
           ],
           "example_cn": "太阳很大，他戴了墨镜。",
-          "example_pinyin": "Tàiyáng hěn dà, tā dài le mòjìng.",
+          "example_pinyin": "Tàiyang hěn dà, tā dài le mòjìng.",
           "example_id": "Matahari terik, dia pakai kacamata hitam.",
           "register": "netral"
         }
@@ -44615,7 +44615,7 @@
             "明亮的灯光"
           ],
           "example_cn": "她的眼睛很明亮。",
-          "example_pinyin": "Tā de yǎnjīng hěn míngliàng.",
+          "example_pinyin": "Tā de yǎnjing hěn míngliàng.",
           "example_id": "Matanya sangat terang.",
           "register": "formal"
         }
@@ -44707,7 +44707,7 @@
             "双肩背包"
           ],
           "example_cn": "学生背着书包上学。",
-          "example_pinyin": "Xuéshēng bēi zhe shūbāo shàngxué.",
+          "example_pinyin": "Xuésheng bēi zhe shūbāo shàngxué.",
           "example_id": "Siswa membawa ransel ke sekolah.",
           "register": "netral"
         }
@@ -44922,7 +44922,7 @@
             "亲子教育"
           ],
           "example_cn": "亲子关系对孩子的成长很重要。",
-          "example_pinyin": "Qīnzǐ guānxì duì háizi de chéngzhǎng hěn zhòngyào.",
+          "example_pinyin": "Qīnzǐ guānxi duì háizi de chéngzhǎng hěn zhòngyào.",
           "example_id": "Hubungan orang tua-anak sangat penting untuk pertumbuhan anak.",
           "register": "formal"
         },
@@ -47353,7 +47353,7 @@
             "社交网络"
           ],
           "example_cn": "他不喜欢社交活动。",
-          "example_pinyin": "Tā bù xǐhuān shèjiāo huódòng.",
+          "example_pinyin": "Tā bù xǐhuan shèjiāo huódòng.",
           "example_id": "Dia tidak suka kegiatan sosial.",
           "register": "formal"
         },
@@ -47755,7 +47755,7 @@
             "好弟妹"
           ],
           "example_cn": "弟妹正在照顾孩子。",
-          "example_pinyin": "Dìmèi zhèngzài zhàogù háizi.",
+          "example_pinyin": "Dìmèi zhèngzài zhàogu háizi.",
           "example_id": "Ipar (istri adik laki-laki) sedang menjaga anak.",
           "register": "netral"
         }
@@ -47876,7 +47876,7 @@
             "别勉强"
           ],
           "example_cn": "他勉强答应了这件事。",
-          "example_pinyin": "Tā miǎnqiǎng dāyìng le zhè jiàn shì.",
+          "example_pinyin": "Tā miǎnqiǎng dāying le zhè jiàn shì.",
           "example_id": "Dia dengan terpaksa menyetujui hal ini.",
           "register": "netral"
         },
@@ -47985,7 +47985,7 @@
             "阔气排场"
           ],
           "example_cn": "他花钱很大方，显得很阔气。",
-          "example_pinyin": "Tā huāqián hěn dàfāng, xiǎnde hěn kuòqì.",
+          "example_pinyin": "Tā huāqián hěn dàfang, xiǎnde hěn kuòqi.",
           "example_id": "Dia membelanjakan uang dengan royal, terlihat sangat mewah.",
           "register": "santai"
         }
@@ -48269,7 +48269,7 @@
             "把礼物带去"
           ],
           "example_cn": "别忘了把礼物带去参加派对。",
-          "example_pinyin": "Bié wàngle bǎ lǐwù dài qù cānjiā pàiduì.",
+          "example_pinyin": "Bié wàngle bǎ lǐwù dài qu cānjiā pàiduì.",
           "example_id": "Jangan lupa bawa hadiahnya ke pesta.",
           "register": "netral"
         }
@@ -49038,7 +49038,7 @@
             "喧嚣"
           ],
           "example_cn": "街上很喧闹。",
-          "example_pinyin": "Jiē shàng hěn xuānnào.",
+          "example_pinyin": "Jiē shang hěn xuānnào.",
           "example_id": "Di jalan sangat ramai/berisik.",
           "register": "formal"
         },
@@ -49239,7 +49239,7 @@
             "灼伤"
           ],
           "example_cn": "太阳灼热地晒着大地。",
-          "example_pinyin": "Tàiyáng zhuórè de shàizhe dàdì.",
+          "example_pinyin": "Tàiyang zhuórè de shàizhe dàdì.",
           "example_id": "Matahari menyengat membakar bumi.",
           "register": "formal"
         }
@@ -49314,7 +49314,7 @@
             "辉映"
           ],
           "example_cn": "太阳光辉照耀大地。",
-          "example_pinyin": "Tàiyáng guānghuī zhàoyào dàdì.",
+          "example_pinyin": "Tàiyang guānghuī zhàoyào dàdì.",
           "example_id": "Matahari bersinar menerangi bumi.",
           "register": "formal"
         },
@@ -49820,7 +49820,7 @@
             "忧虑"
           ],
           "example_cn": "他看起来很忧愁。",
-          "example_pinyin": "Tā kàn qǐlái hěn yōuchóu.",
+          "example_pinyin": "Tā kàn qǐlai hěn yōuchóu.",
           "example_id": "Dia terlihat sangat sedih/cemas.",
           "register": "formal"
         },
@@ -49883,7 +49883,7 @@
             "暴怒"
           ],
           "example_cn": "他脾气暴躁，容易生气。",
-          "example_pinyin": "Tā píqì bàozào, róngyì shēngqì.",
+          "example_pinyin": "Tā píqi bàozào, róngyì shēngqì.",
           "example_id": "Temperamennya meledak-ledak, mudah marah.",
           "register": "netral"
         }
@@ -51231,7 +51231,7 @@
             "表哥表弟"
           ],
           "example_cn": "他是我妈妈那边的表兄弟。",
-          "example_pinyin": "Tā shì wǒ māma nàbiān de biǎo xiōngdì.",
+          "example_pinyin": "Tā shì wǒ māma nàbian de biǎo xiōngdì.",
           "example_id": "Dia adalah sepupu dari pihak ibu saya.",
           "register": "netral"
         },
@@ -51249,7 +51249,7 @@
             "堂哥堂弟"
           ],
           "example_cn": "他是我爸爸那边的堂兄弟。",
-          "example_pinyin": "Tā shì wǒ bàba nàbiān de táng xiōngdì.",
+          "example_pinyin": "Tā shì wǒ bàba nàbian de táng xiōngdì.",
           "example_id": "Dia adalah sepupu dari pihak ayah saya.",
           "register": "formal"
         }
@@ -51710,7 +51710,7 @@
             "老外朋友"
           ],
           "example_cn": "街上有不少老外。",
-          "example_pinyin": "Jiēshàng yǒu bù shǎo lǎowài.",
+          "example_pinyin": "Jiēshang yǒu bù shǎo lǎowài.",
           "example_id": "Di jalan ada banyak orang asing (bule).",
           "register": "santai"
         },
@@ -51942,7 +51942,7 @@
             "选择方式"
           ],
           "example_cn": "我选择这所大学，因为可以挑选喜欢的专业。",
-          "example_pinyin": "Wǒ xuǎnzé zhè suǒ dàxué, yīnwèi kěyǐ tiāoxuǎn xǐhuān de zhuānyè.",
+          "example_pinyin": "Wǒ xuǎnzé zhè suǒ dàxué, yīnwèi kěyǐ tiāoxuǎn xǐhuan de zhuānyè.",
           "example_id": "Saya memilih universitas ini, karena bisa memilih jurusan yang disukai.",
           "register": "netral"
         },
@@ -52062,7 +52062,7 @@
             "简单明了"
           ],
           "example_cn": "这个工作很简单，做起来也很轻松。",
-          "example_pinyin": "Zhège gōngzuò hěn jiǎndān, zuò qǐlái yě hěn qīngsōng.",
+          "example_pinyin": "Zhège gōngzuò hěn jiǎndān, zuò qǐlai yě hěn qīngsōng.",
           "example_id": "Pekerjaan ini sangat sederhana, melakukannya juga terasa ringan.",
           "register": "netral"
         },
@@ -52081,7 +52081,7 @@
             "轻松音乐"
           ],
           "example_cn": "这个任务很轻松，其实不简单哦。",
-          "example_pinyin": "Zhège rènwù hěn qīngsōng, qíshí bù jiǎndān o.",
+          "example_pinyin": "Zhège rènwu hěn qīngsōng, qíshí bù jiǎndān o.",
           "example_id": "Tugas ini sangat ringan, sebenarnya tidak sederhana lho.",
           "register": "netral"
         }
@@ -52131,7 +52131,7 @@
             "宁静心灵"
           ],
           "example_cn": "我喜欢住在宁静的小村里，那里很安静。",
-          "example_pinyin": "Wǒ xǐhuān zhù zài níngjìng de xiǎo cūn lǐ, nàlǐ hěn ānjìng.",
+          "example_pinyin": "Wǒ xǐhuan zhù zài níngjìng de xiǎo cūn lǐ, nàlǐ hěn ānjìng.",
           "example_id": "Saya suka tinggal di desa kecil yang damai, di sana sangat tenang.",
           "register": "puitis"
         }
@@ -52162,7 +52162,7 @@
             "凑热闹"
           ],
           "example_cn": "街上很热闹，但酒吧里很喧闹。",
-          "example_pinyin": "Jiē shàng hěn rènao, dàn jiǔbā lǐ hěn xuānnào.",
+          "example_pinyin": "Jiē shang hěn rènao, dàn jiǔbā lǐ hěn xuānnào.",
           "example_id": "Jalan sangat ramai, tapi di dalam bar sangat ribut.",
           "register": "netral"
         },
@@ -52181,7 +52181,7 @@
             "喧闹气氛"
           ],
           "example_cn": "这个城市太喧闹了，还是乡村热闹又安静。",
-          "example_pinyin": "Zhège chéngshì tài xuānnào le, háishì xiāngcūn rènao yòu ānjìng.",
+          "example_pinyin": "Zhège chéngshì tài xuānnào le, háishi xiāngcūn rènao yòu ānjìng.",
           "example_id": "Kota ini terlalu bising, lebih baik desa yang ramai tapi tenang.",
           "register": "netral"
         }
@@ -52731,7 +52731,7 @@
             "鲜红嘴唇"
           ],
           "example_cn": "草莓鲜红，吃起来很甜。",
-          "example_pinyin": "Cǎoméi xiānhóng, chī qǐlái hěn tián.",
+          "example_pinyin": "Cǎoméi xiānhóng, chī qǐlai hěn tián.",
           "example_id": "Stroberi merah cerah, rasanya manis.",
           "register": "netral"
         }
@@ -53512,7 +53512,7 @@
             "轻微擦伤"
           ],
           "example_cn": "只有轻微的风，细小的灰尘飘了起来。",
-          "example_pinyin": "Zhǐyǒu qīngwēi de fēng, xìxiǎo de huīchén piāo le qǐlái.",
+          "example_pinyin": "Zhǐyǒu qīngwēi de fēng, xìxiǎo de huīchén piāo le qǐlai.",
           "example_id": "Hanya ada angin sepoi-sepoi, debu yang sangat kecil beterbangan.",
           "register": "netral"
         },
@@ -53631,7 +53631,7 @@
             "代替语言"
           ],
           "example_cn": "他代替经理参加会议，没人能替换他的位置。",
-          "example_pinyin": "Tā dàitì jīnglǐ cānjiā huìyì, méirén néng tìhuàn tā de wèizhì.",
+          "example_pinyin": "Tā dàitì jīnglǐ cānjiā huìyì, méirén néng tìhuàn tā de wèizhi.",
           "example_id": "Dia menggantikan manajer menghadiri rapat, tidak ada yang bisa menggantikan posisinya.",
           "register": "netral"
         }
@@ -53762,7 +53762,7 @@
             "极小差异"
           ],
           "example_cn": "这种病毒极小，肉眼看不见，留下微小的痕迹。",
-          "example_pinyin": "Zhè zhǒng bìngdú jíxiǎo, ròuyǎn kàn bùjiàn, liúxià wēixiǎo de hénjì.",
+          "example_pinyin": "Zhè zhǒng bìngdú jíxiǎo, ròuyǎn kàn bujiàn, liúxià wēixiǎo de hénjì.",
           "example_id": "Virus ini sangat kecil, tidak terlihat mata telanjang, meninggalkan jejak yang sangat kecil.",
           "register": "netral"
         },
@@ -54181,7 +54181,7 @@
             "高雅举止"
           ],
           "example_cn": "她喜欢高雅的音乐，穿着也很典雅。",
-          "example_pinyin": "Tā xǐhuān gāoyǎ de yīnyuè, chuānzhuó yě hěn diǎnyǎ.",
+          "example_pinyin": "Tā xǐhuan gāoyǎ de yīnyuè, chuānzhuó yě hěn diǎnyǎ.",
           "example_id": "Dia suka musik elegan, penampilannya juga anggun.",
           "register": "formal"
         }
@@ -54562,7 +54562,7 @@
             "豪华游轮"
           ],
           "example_cn": "这家酒店很豪华，但我不喜欢奢华的生活。",
-          "example_pinyin": "Zhè jiā jiǔdiàn hěn háohuá, dàn wǒ bù xǐhuān shēhuá de shēnghuó.",
+          "example_pinyin": "Zhè jiā jiǔdiàn hěn háohuá, dàn wǒ bù xǐhuan shēhuá de shēnghuó.",
           "example_id": "Hotel ini sangat mewah, tapi saya tidak suka gaya hidup mewah berlebihan.",
           "register": "netral"
         },
@@ -54862,7 +54862,7 @@
             "活泼气氛"
           ],
           "example_cn": "她性格活泼，说话也很俏皮。",
-          "example_pinyin": "Tā xìnggé huópō, shuōhuà yě hěn qiàopí.",
+          "example_pinyin": "Tā xìnggé huópo, shuōhuà yě hěn qiàopi.",
           "example_id": "Karakter dia lincah, bicaranya juga jenaka.",
           "register": "netral"
         },
@@ -54881,7 +54881,7 @@
             "俏皮模样"
           ],
           "example_cn": "他俏皮地眨了眨眼，显得非常活泼。",
-          "example_pinyin": "Tā qiàopí de zhǎle zhǎ yǎn, xiǎnde fēicháng huópō.",
+          "example_pinyin": "Tā qiàopi de zhǎle zhǎ yǎn, xiǎnde fēicháng huópo.",
           "example_id": "Dia dengan jenaka mengedipkan mata, terlihat sangat lincah.",
           "register": "netral"
         }
@@ -55562,7 +55562,7 @@
             "占有资源"
           ],
           "example_cn": "他占有了大部分股份，占据了重要位置。",
-          "example_pinyin": "Tā zhànyǒule dàbùfèn gǔfèn, zhànjùle zhòngyào wèizhi.",
+          "example_pinyin": "Tā zhànyǒule dàbùfen gǔfèn, zhànjùle zhòngyào wèizhi.",
           "example_id": "Dia memiliki mayoritas saham, menduduki posisi penting.",
           "register": "formal"
         },
@@ -56331,7 +56331,7 @@
             "单纯为了"
           ],
           "example_cn": "她太单纯了，容易相信别人。",
-          "example_pinyin": "Tā tài dānchún le, róngyì xiāngxìn biérén.",
+          "example_pinyin": "Tā tài dānchún le, róngyì xiāngxìn biéren.",
           "example_id": "Dia terlalu polos, mudah percaya orang lain.",
           "register": "netral"
         }
@@ -56362,7 +56362,7 @@
             "忧郁蓝色"
           ],
           "example_cn": "他今天看起来有点忧郁，可能遇到了烦心事。",
-          "example_pinyin": "Tā jīntiān kàn qǐlái yǒudiǎn yōuyù, kěnéng yùdào le fánxīn shì.",
+          "example_pinyin": "Tā jīntiān kàn qǐlai yǒudiǎn yōuyù, kěnéng yùdào le fánxīn shì.",
           "example_id": "Dia hari ini tampak agak sedih, mungkin ada masalah yang mengganggu.",
           "register": "netral"
         },
@@ -56412,7 +56412,7 @@
             "炫目珠宝"
           ],
           "example_cn": "舞台的灯光太炫目，我睁不开眼睛。",
-          "example_pinyin": "Wǔtái de dēngguāng tài xuànmù, wǒ zhēng bù kāi yǎnjīng.",
+          "example_pinyin": "Wǔtái de dēngguāng tài xuànmù, wǒ zhēng bù kāi yǎnjing.",
           "example_id": "Lampu panggung terlalu menyilaukan, saya tidak bisa membuka mata.",
           "register": "netral"
         },
@@ -56662,7 +56662,7 @@
             "引导方向"
           ],
           "example_cn": "老师用问题引导学生思考。",
-          "example_pinyin": "Lǎoshī yòng wèntí yǐndǎo xuéshēng sīkǎo.",
+          "example_pinyin": "Lǎoshī yòng wèntí yǐndǎo xuésheng sīkǎo.",
           "example_id": "Guru menggunakan pertanyaan untuk menuntun siswa berpikir.",
           "register": "netral"
         },
@@ -56862,7 +56862,7 @@
             "解决妥当"
           ],
           "example_cn": "这件事情已经安排妥当了，你不用担心。",
-          "example_pinyin": "Zhè jiàn shìqing yǐjīng ānpái tuǒdàng le, nǐ bùyòng dānxīn.",
+          "example_pinyin": "Zhè jiàn shìqing yǐjīng ānpái tuǒdang le, nǐ bùyòng dānxīn.",
           "example_id": "Urusan ini sudah diatur dengan tepat, kamu tidak usah khawatir.",
           "register": "netral"
         },
@@ -57081,7 +57081,7 @@
             "收集垃圾"
           ],
           "example_cn": "他喜欢收集各种古老的邮票。",
-          "example_pinyin": "Tā xǐhuān shōují gèzhǒng gǔlǎo de yóupiào.",
+          "example_pinyin": "Tā xǐhuan shōují gèzhǒng gǔlǎo de yóupiào.",
           "example_id": "Dia suka mengumpulkan berbagai perangko kuno.",
           "register": "netral"
         }
@@ -57931,7 +57931,7 @@
             "均衡饮食"
           ],
           "example_cn": "学生应该注意均衡饮食，多吃蔬菜水果。",
-          "example_pinyin": "Xuéshēng yīnggāi zhùyì jūnhéng yǐnshí, duō chī shūcài shuǐguǒ.",
+          "example_pinyin": "Xuésheng yīnggāi zhùyì jūnhéng yǐnshí, duō chī shūcài shuǐguǒ.",
           "example_id": "Siswa harus memperhatikan gizi seimbang, banyak makan sayur dan buah.",
           "register": "netral"
         }
@@ -58131,7 +58131,7 @@
             "指明出路"
           ],
           "example_cn": "老师为学生指明了学习的方向。",
-          "example_pinyin": "Lǎoshī wèi xuéshēng zhǐmíng le xuéxí de fāngxiàng.",
+          "example_pinyin": "Lǎoshī wèi xuésheng zhǐmíng le xuéxí de fāngxiàng.",
           "example_id": "Guru menunjukkan arah belajar bagi para siswa.",
           "register": "netral"
         }
@@ -58612,7 +58612,7 @@
             "心破碎"
           ],
           "example_cn": "花瓶掉在地上破碎了。",
-          "example_pinyin": "Huāpíng diào zài dì shàng pòsuì le.",
+          "example_pinyin": "Huāpíng diào zài dì shang pòsuì le.",
           "example_id": "Vas bunga jatuh ke lantai dan pecah.",
           "register": "netral"
         },
@@ -59512,7 +59512,7 @@
             "安置住所"
           ],
           "example_cn": "政府把灾民安置在临时帐篷里。",
-          "example_pinyin": "Zhèngfǔ bǎ zāimín ānzhì zài línshí zhàngpéng lǐ.",
+          "example_pinyin": "Zhèngfǔ bǎ zāimín ānzhì zài línshí zhàngpeng lǐ.",
           "example_id": "Pemerintah menempatkan para korban bencana di tenda-tenda darurat.",
           "register": "resmi"
         },
@@ -59781,7 +59781,7 @@
             "文字平实"
           ],
           "example_cn": "他的散文风格平实，读起来很亲切。",
-          "example_pinyin": "Tā de sǎnwén fēnggé píngshí, dú qǐlái hěn qīnqiè.",
+          "example_pinyin": "Tā de sǎnwén fēnggé píngshí, dú qǐlai hěn qīnqiè.",
           "example_id": "Gaya esainya sederhana, terasa akrab saat dibaca.",
           "register": "sastra"
         }
@@ -60731,7 +60731,7 @@
             "清净雅致"
           ],
           "example_cn": "我喜欢在清净的早晨散步。",
-          "example_pinyin": "Wǒ xǐhuān zài qīngjìng de zǎochén sànbù.",
+          "example_pinyin": "Wǒ xǐhuan zài qīngjìng de zǎochén sànbù.",
           "example_id": "Saya suka berjalan-jalan di pagi hari yang tenang.",
           "register": "netral"
         }
@@ -61112,7 +61112,7 @@
             "皮肉坚韧"
           ],
           "example_cn": "她以坚韧的意志克服了所有困难。",
-          "example_pinyin": "Tā yǐ jiānrèn de yìzhì kèfú le suǒyǒu kùnnán.",
+          "example_pinyin": "Tā yǐ jiānrèn de yìzhì kèfú le suǒyǒu kùnnan.",
           "example_id": "Dia mengatasi semua kesulitan dengan kemauan yang tangguh.",
           "register": "netral"
         },
