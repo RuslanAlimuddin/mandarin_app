@@ -28,7 +28,8 @@ APA YANG DILAKUKAN
      - 一 mengikuti perubahan nada sebenarnya: yī (sendiri/angka/urutan: 第一, 一月, 十一),
        yí sebelum nada 4 (termasuk 个 yang netral: yí ge), yì sebelum nada 1, 2, 3.
      - ü ditulis ü bertanda nada (lǚ, nǚ, lǜ) -- tulisan "nv/lu" tanpa nada ikut terganti.
-     - Nada netral tanpa tanda (zhège, péngyou), mengikuti bacaan di app_words.json.
+     - Nada netral tanpa tanda (xǐhuan, péngyou), mengikuti bacaan di app_words.json.
+     - 个 sebagai penggolong selalu netral "ge" (zhè ge, yí ge, jǐ ge); 个人/个子 tetap gè.
 
   GOLONGAN HASIL
      A  PASTI     : tiap suku kata berasal dari satu bacaan terkurasi; tidak ada karakter berisiko.
@@ -231,7 +232,11 @@ def suku_kata_per_karakter(kalimat, app_idx, cc_idx, larang=frozenset(), longgar
             gagal = "jumlah suku kata %s tidak sama dengan jumlah hanzi (%s)" % (bacaan[0], seg)
             out.extend({"hz": ch, "syl": "?", "seg": seg, "risiko": True, "yakin": False, "ambigu": False} for ch in seg)
             continue
-        for ch, sy in zip(seg, sylls):
+        for k, (ch, sy) in enumerate(zip(seg, sylls)):
+            # 个 sebagai penggolong ditulis netral "ge" (selaras dengan 这个 zhè ge dan 一个 yí ge di data
+            # terkurasi); 个人, 个子, 个性, 个别 (个 di awal kata) tetap gè
+            if ch == "个" and (len(seg) == 1 or (k > 0 and seg[k - 1] in "几两十二三四五六七八九百千万半这那哪每另整某上下")):
+                sy = "ge"
             risiko = (len(seg) == 1 and ch in RISIKO)
             if len(seg) > 1 and ch in RISIKO:
                 # kata terkurasi yang bacaan karakternya beda dari bacaan tunggalnya (都会 dū huì vs 都 dōu + 会 huì)
@@ -239,8 +244,17 @@ def suku_kata_per_karakter(kalimat, app_idx, cc_idx, larang=frozenset(), longgar
                 if tunggal and tanpa_nada_tanda(sy) != tanpa_nada_tanda(tunggal[0]):
                     risiko = True
             out.append({"hz": ch, "syl": sy, "seg": seg, "risiko": risiko, "yakin": False, "ambigu": ambigu})
+    koreksi_ge(out)
     nilai_yakin(out)
     return out, gagal
+
+
+def koreksi_ge(items):
+    """个 di awal kata (个人, 个子) yang didahului angka/penunjuk adalah penggolong: ge netral
+    (几个人, 十个人, 一个人). 个人 biasa (我个人, 个人的) tetap gè."""
+    for i, it in enumerate(items):
+        if it["hz"] == "个" and i > 0 and items[i - 1]["hz"] in "几两十二三四五六七八九百千万半这那哪每另整某一":
+            it["syl"] = "ge"
 
 
 def nilai_yakin(items):
@@ -341,6 +355,55 @@ def pasang_ke_huruf(pinyin_lama, items):
     return "".join(keluar), None
 
 
+def proses_contoh(cn, py, app_idx, cc_idx):
+    """Usulan tanda nada untuk SATU contoh. Kembalikan dict rec:
+    pinyin_usulan (None bila gagal), golongan (A/B1/B2/C), karakter_berisiko, catatan."""
+    rec = {"pinyin_usulan": None, "golongan": "C", "karakter_berisiko": [], "catatan": []}
+    larang = set()
+    longgar = False
+    ada_nama = bool(re.search(r"(?<!^)[A-Z]", py)) and bool(re.search(r"[a-z]\s+[A-Z]|[,;:]\s*[A-Z]", py))
+    items, baru = None, None
+    for _ in range(5):
+        items, gagal = suku_kata_per_karakter(cn, app_idx, cc_idx,
+                                              frozenset(larang), longgar, ada_nama)
+        if gagal:
+            rec["catatan"] = [gagal]
+            break
+        terapkan_yi(items)
+        baru, galat = pasang_ke_huruf(py, items)
+        if galat is None:
+            rec["catatan"] = []
+            break
+        rec["catatan"] = [galat]
+        tambahan = {it["seg"] for it in items if len(it["seg"]) > 1 and it["risiko"]}
+        if tambahan and not tambahan <= larang:
+            larang |= tambahan
+            continue
+        if not longgar:
+            longgar = True
+            continue
+        break
+    if rec["catatan"]:
+        return rec
+    rec["pinyin_usulan"] = baru
+    risiko = [it for it in items if it["risiko"]]
+    ambigu = [it for it in items if it["ambigu"]]
+    if risiko or ambigu:
+        rec["karakter_berisiko"] = sorted({"%s=%s" % (it["hz"], it["syl"]) for it in risiko})
+        semua_yakin = all(it["yakin"] for it in risiko) and not ambigu
+        rec["golongan"] = "B1" if semua_yakin else "B2"
+        if ambigu:
+            rec["catatan"].append("kata punya >1 bacaan di data: " + "".join(sorted({it["seg"] for it in ambigu})))
+        for it in items:
+            if it.get("catatan"):
+                rec["catatan"].append(it["catatan"])
+        if larang:
+            rec["catatan"].append("kata dipecah per karakter: " + ",".join(sorted(larang)))
+    else:
+        rec["golongan"] = "A"
+    return rec
+
+
 def main():
     nuance, app_idx, cc_idx = muat()
     hasil = []
@@ -349,54 +412,8 @@ def main():
             py = c.get("example_pinyin", "")
             if any(ch in py for ch in TONE_MARKS):
                 continue
-            rec = {
-                "id": p["id"], "kata": c["word"], "example_cn": c["example_cn"],
-                "pinyin_lama": py, "pinyin_usulan": None, "golongan": "C",
-                "karakter_berisiko": [], "catatan": [],
-            }
-            larang = set()
-            longgar = False
-            ada_nama = bool(re.search(r"(?<!^)[A-Z]", py)) and bool(re.search(r"[a-z]\s+[A-Z]|[,;:]\s*[A-Z]", py))
-            items, baru = None, None
-            for _ in range(5):
-                items, gagal = suku_kata_per_karakter(c["example_cn"], app_idx, cc_idx,
-                                                      frozenset(larang), longgar, ada_nama)
-                if gagal:
-                    rec["catatan"] = [gagal]
-                    break
-                terapkan_yi(items)
-                baru, galat = pasang_ke_huruf(py, items)
-                if galat is None:
-                    rec["catatan"] = []
-                    break
-                rec["catatan"] = [galat]
-                tambahan = {it["seg"] for it in items if len(it["seg"]) > 1 and it["risiko"]}
-                if tambahan and not tambahan <= larang:
-                    larang |= tambahan
-                    continue
-                if not longgar:
-                    longgar = True
-                    continue
-                break
-            if rec["catatan"]:
-                hasil.append(rec)
-                continue
-            rec["pinyin_usulan"] = baru
-            risiko = [it for it in items if it["risiko"]]
-            ambigu = [it for it in items if it["ambigu"]]
-            if risiko or ambigu:
-                rec["karakter_berisiko"] = sorted({"%s=%s" % (it["hz"], it["syl"]) for it in risiko})
-                semua_yakin = all(it["yakin"] for it in risiko) and not ambigu
-                rec["golongan"] = "B1" if semua_yakin else "B2"
-                if ambigu:
-                    rec["catatan"].append("kata punya >1 bacaan di data: " + "".join(sorted({it["seg"] for it in ambigu})))
-                for it in items:
-                    if it.get("catatan"):
-                        rec["catatan"].append(it["catatan"])
-                if larang:
-                    rec["catatan"].append("kata dipecah per karakter: " + ",".join(sorted(larang)))
-            else:
-                rec["golongan"] = "A"
+            rec = {"id": p["id"], "kata": c["word"], "example_cn": c["example_cn"], "pinyin_lama": py}
+            rec.update(proses_contoh(c["example_cn"], py, app_idx, cc_idx))
             hasil.append(rec)
 
     hitung = collections.Counter(r["golongan"] for r in hasil)
