@@ -1,0 +1,2866 @@
+﻿DAFTAR PERUBAHAN example_pinyin (lama -> baru) -- 716 isian
+
+[A] b1_lai_qu_009 / 来
+   你来我这里吧。
+   lama: Ni lai wo zheli ba.
+   baru: Nǐ lái wǒ zhèlǐ ba.
+[A] b1_lai_qu_009 / 去
+   我去学校。
+   lama: Wo qu xuexiao.
+   baru: Wǒ qù xuéxiào.
+[A] b1_zai_dao_003 / 在
+   他在学校。
+   lama: Ta zai xuexiao.
+   baru: Tā zài xuéxiào.
+[B1] b1_zai_dao_003 / 到
+   他到学校了。
+   lama: Ta dao xuexiao le.
+   baru: Tā dào xuéxiào le.
+[A] b1_xian_zai_zheng_zai_002 / 现在
+   现在我住北京。
+   lama: Xianzai wo zhu Beijing.
+   baru: Xiànzài wǒ zhù Běijīng.
+[A] b1_xian_zai_zheng_zai_002 / 正在
+   我正在吃饭。
+   lama: Wo zhengzai chi fan.
+   baru: Wǒ zhèngzài chī fàn.
+[B1] b1_hui_xiang_011 / 会
+   他会说中文。
+   lama: Ta hui shuo Zhongwen.
+   baru: Tā huì shuō Zhōngwén.
+[A] b1_hui_xiang_011 / 想
+   我想去中国。
+   lama: Wo xiang qu Zhongguo.
+   baru: Wǒ xiǎng qù Zhōngguó.
+[B2] b1_duo_shao_013 / 多少
+   这本书多少钱？
+   lama: Zhe ben shu duoshao qian?
+   baru: Zhè běn shū duōshao qián?
+[A] b1_duo_shao_013 / 几
+   你们有几个人？
+   lama: Nimen you ji ge ren?
+   baru: Nǐmen yǒu jǐ ge rén?
+[B1] b1_hen_tai_016 / 很
+   他很好。
+   lama: Ta hen hao.
+   baru: Tā hěn hǎo.
+[B1] b1_hen_tai_016 / 太
+   这个太贵了。
+   lama: Zhe ge tai gui le.
+   baru: Zhè ge tài guì le.
+[B2] b1_mei_bu_017 / 没
+   他没来学校。
+   lama: Ta mei lai xuexiao.
+   baru: Tā méi lái xuéxiào.
+[A] b1_mei_bu_017 / 不
+   他不吃辣。
+   lama: Ta bu chi la.
+   baru: Tā bù chī là.
+[B1] b1_dou_ye_018 / 都
+   我们都喜欢喝茶。
+   lama: Women dou xihuan he cha.
+   baru: Wǒmen dōu xǐhuan hē chá.
+[A] b1_dou_ye_018 / 也
+   我也喜欢喝茶。
+   lama: Wo ye xihuan he cha.
+   baru: Wǒ yě xǐhuan hē chá.
+[A] b1_de_di_027 / 的
+   她是一个漂亮的女孩。
+   lama: Ta shi yi ge piaoliang de nvhai.
+   baru: Tā shì yí ge piàoliang de nǚhái.
+[B2] b1_de_di_027 / 地
+   她高兴地笑了。
+   lama: Ta gaoxing de xiao le.
+   baru: Tā gāoxìng de xiào le.
+[B2] b1_xiao_de_007 / 小
+   这只狗很小。
+   lama: Zhe zhi gou hen xiao.
+   baru: Zhè zhǐ gǒu hěn xiǎo.
+[B2] b1_xiao_de_007 / 少
+   今天人很少。
+   lama: Jintian ren hen shao.
+   baru: Jīntiān rén hěn shǎo.
+[B1] b1_chu_qu_036 / 出
+   他出房间了。
+   lama: Ta chu fangjian le.
+   baru: Tā chū fángjiān le.
+[B1] b1_chu_qu_036 / 去
+   他去北京了。
+   lama: Ta qu Beijing le.
+   baru: Tā qù Běijīng le.
+[A] b1_yi_you_015 / 有
+   他有一本书。
+   lama: Ta you yi ben shu.
+   baru: Tā yǒu yì běn shū.
+[A] b1_yi_you_015 / 在
+   书在桌子上。
+   lama: Shu zai zhuozi shang.
+   baru: Shū zài zhuōzi shàng.
+[A] b2_zhe_na_014 / 这
+   这是我的书。
+   lama: Zhe shi wo de shu.
+   baru: Zhè shì wǒ de shū.
+[A] b2_zhe_na_014 / 那
+   那是他的车。
+   lama: Na shi ta de che.
+   baru: Nà shi tā de chē.
+[A] b2_dui_gei_021 / 对
+   他对我很友好。
+   lama: Ta dui wo hen youhao.
+   baru: Tā duì wǒ hěn yǒuhǎo.
+[B1] b2_dui_gei_021 / 给
+   我给他打了电话。
+   lama: Wo gei ta da le dianhua.
+   baru: Wǒ gěi tā dǎ le diànhuà.
+[B1] b2_cong_gen_024 / 从
+   我从早上就饿了。
+   lama: Wo cong zaoshang jiu e le.
+   baru: Wǒ cóng zǎoshang jiù è le.
+[A] b2_cong_gen_024 / 跟
+   我跟他一起去。
+   lama: Wo gen ta yiqi qu.
+   baru: Wǒ gēn tā yìqǐ qù.
+[A] b2_shang_xia_041 / 上
+   书在桌子上。
+   lama: Shu zai zhuozi shang.
+   baru: Shū zài zhuōzi shàng.
+[A] b2_shang_xia_041 / 下
+   猫在桌子下面。
+   lama: Mao zai zhuozi xiamian.
+   baru: Māo zài zhuōzi xiàmiàn.
+[A] b2_qian_hou_042 / 前
+   他在我前面。
+   lama: Ta zai wo qianmian.
+   baru: Tā zài wǒ qiánmiàn.
+[A] b2_qian_hou_042 / 后
+   他在我后面。
+   lama: Ta zai wo houmian.
+   baru: Tā zài wǒ hòumian.
+[A] b2_li_wai_043 / 里
+   他在家里。
+   lama: Ta zai jia li.
+   baru: Tā zài jiā lǐ.
+[A] b2_li_wai_043 / 外
+   他在门外。
+   lama: Ta zai men wai.
+   baru: Tā zài mén wài.
+[A] b2_zuo_you_044 / 左
+   他在我的左边。
+   lama: Ta zai wo de zuobian.
+   baru: Tā zài wǒ de zuǒbian.
+[A] b2_zuo_you_044 / 右
+   他在我的右边。
+   lama: Ta zai wo de youbian.
+   baru: Tā zài wǒ de yòubian.
+[B2] b2_zhong_jian_045 / 中
+   他在教室中间。
+   lama: Ta zai jiaoshi zhongjian.
+   baru: Tā zài jiàoshì zhōngjiān.
+[A] b2_zhong_jian_045 / 间
+   两栋楼之间有一条路。
+   lama: Liang dong lou zhijian you yi tiao lu.
+   baru: Liǎng dòng lóu zhījiān yǒu yì tiáo lù.
+[B2] b2_zhen_de_070 / 真
+   这个地方真美！
+   lama: Zhe ge difang zhen mei!
+   baru: Zhè ge dìfang zhēn měi!
+[A] b2_zhen_de_070 / 真的
+   我真的喜欢她。
+   lama: Wo zhende xihuan ta.
+   baru: Wǒ zhēnde xǐhuan tā.
+[B2] b2_xi_huan_072 / 喜欢
+   我喜欢听音乐。
+   lama: Wo xihuan ting yinyue.
+   baru: Wǒ xǐhuan tīng yīnyuè.
+[B2] b2_xi_huan_072 / 爱好
+   我的爱好是摄影。
+   lama: Wo de aihao shi sheying.
+   baru: Wǒ de àihào shì shèyǐng.
+[A] b2_xue_xi_073 / 学
+   我在学中文。
+   lama: Wo zai xue Zhongwen.
+   baru: Wǒ zài xué Zhōngwén.
+[A] b2_xue_xi_073 / 学习
+   他在大学学习经济学。
+   lama: Ta zai daxue xuexi jingjixue.
+   baru: Tā zài dàxué xuéxí jīngjìxué.
+[A] b2_shen_me_087 / 什么
+   这是什么？
+   lama: Zhe shi shenme?
+   baru: Zhè shì shénme?
+[A] b2_shen_me_087 / 怎么
+   这个字怎么写？
+   lama: Zhe ge zi zenme xie?
+   baru: Zhè ge zì zěnme xiě?
+[B2] b2_man_kuai_094 / 慢
+   他走得很慢。
+   lama: Ta zou de hen man.
+   baru: Tā zǒu de hěn màn.
+[B2] b2_man_kuai_094 / 快
+   他跑得很快。
+   lama: Ta pao de hen kuai.
+   baru: Tā pǎo de hěn kuài.
+[B1] b2_shi_jian_096 / 时间
+   我没有时间了。
+   lama: Wo meiyou shijian le.
+   baru: Wǒ méiyǒu shíjiān le.
+[A] b2_shi_jian_096 / 时候
+   你什么时候来？
+   lama: Ni shenme shihou lai?
+   baru: Nǐ shénme shíhou lái?
+[B1] b2_nian_ji_097 / 年
+   我在这里住了两年。
+   lama: Wo zai zheli zhu le liang nian.
+   baru: Wǒ zài zhèlǐ zhù le liǎng nián.
+[A] b2_nian_ji_097 / 岁
+   我今年二十岁。
+   lama: Wo jinnian ershi sui.
+   baru: Wǒ jīnnián èrshí suì.
+[B1] b2_yi_yuan_103 / 医院
+   他去医院了。
+   lama: Ta qu yiyuan le.
+   baru: Tā qù yīyuàn le.
+[A] b2_yi_yuan_103 / 医生
+   他是医生。
+   lama: Ta shi yisheng.
+   baru: Tā shì yīshēng.
+[B2] b2_gong_zuo_104 / 工作
+   我在银行工作。
+   lama: Wo zai yinhang gongzuo.
+   baru: Wǒ zài yínháng gōngzuò.
+[A] b2_gong_zuo_104 / 上班
+   我每天早上八点上班。
+   lama: Wo meitian zaoshang ba dian shangban.
+   baru: Wǒ měitiān zǎoshang bā diǎn shàngbān.
+[B1] b2_xue_xiao_105 / 学校
+   我去学校了。
+   lama: Wo qu xuexiao le.
+   baru: Wǒ qù xuéxiào le.
+[A] b2_xue_xiao_105 / 大学
+   我在北京大学上学。
+   lama: Wo zai Beijing daxue shangxue.
+   baru: Wǒ zài Běijīng dàxué shàngxué.
+[A] b2_tu_shu_107 / 书
+   我在看一本书。
+   lama: Wo zai kan yi ben shu.
+   baru: Wǒ zài kàn yì běn shū.
+[A] b2_tu_shu_107 / 图书馆
+   我去图书馆借书。
+   lama: Wo qu tushuguan jie shu.
+   baru: Wǒ qù túshūguǎn jiè shū.
+[B2] b2_shui_jiao_109 / 睡
+   我睡得很香。
+   lama: Wo shui de hen xiang.
+   baru: Wǒ shuì de hěn xiāng.
+[B2] b2_shui_jiao_109 / 睡觉
+   我该去睡觉了。
+   lama: Wo gai qu shuijiao le.
+   baru: Wǒ gāi qù shuìjiào le.
+[A] b2_kan_dian_ying_110 / 电影
+   我喜欢看中国电影。
+   lama: Wo xihuan kan Zhongguo dianying.
+   baru: Wǒ xǐhuan kàn Zhōngguó diànyǐng.
+[A] b2_kan_dian_ying_110 / 电影院
+   我们去电影院看电影吧。
+   lama: Women qu dianyingyuan kan dianying ba.
+   baru: Wǒmen qù diànyǐngyuàn kàn diànyǐng ba.
+[A] b2_mang_lei_127 / 忙
+   我最近很忙。
+   lama: Wo zuijin hen mang.
+   baru: Wǒ zuìjìn hěn máng.
+[B1] b2_mang_lei_127 / 累
+   我工作了一天，很累。
+   lama: Wo gongzuo le yi tian, hen lei.
+   baru: Wǒ gōngzuò le yì tiān, hěn lèi.
+[A] b2_xia_ke_141 / 下课
+   这节课什么时候下课？
+   lama: Zhe jie ke shenme shihou xiake?
+   baru: Zhè jié kè shénme shíhou xiàkè?
+[A] b2_xia_ke_141 / 放学
+   下午三点放学。
+   lama: Xiawu san dian fangxue.
+   baru: Xiàwǔ sān diǎn fàngxué.
+[A] b2_shang_ke_142 / 上课
+   我们八点开始上课。
+   lama: Women ba dian kaishi shangke.
+   baru: Wǒmen bā diǎn kāishǐ shàngkè.
+[A] b2_shang_ke_142 / 上学
+   他每天七点去上学。
+   lama: Ta meitian qi dian qu shangxue.
+   baru: Tā měitiān qī diǎn qù shàngxué.
+[B1] b2_shou_ji_164 / 手机
+   我忘记带手机了。
+   lama: Wo wangji dai shouji le.
+   baru: Wǒ wàngjì dài shǒujī le.
+[B1] b2_shou_ji_164 / 电话
+   我给他打了一个电话。
+   lama: Wo gei ta da le yi ge dianhua.
+   baru: Wǒ gěi tā dǎ le yí ge diànhuà.
+[A] b2_zhan_173 / 站
+   下一站是天安门。
+   lama: Xia yi zhan shi Tian'anmen.
+   baru: Xià yí zhàn shì Tiān'ānmén.
+[B1] b2_zhan_173 / 车站
+   他已经在车站等你了。
+   lama: Ta yijing zai chezhan deng ni le.
+   baru: Tā yǐjīng zài chēzhàn děng nǐ le.
+[A] b2_men_piao_174 / 票
+   我在网上买票。
+   lama: Wo zai wangshang mai piao.
+   baru: Wǒ zài wǎngshàng mǎi piào.
+[A] b2_men_piao_174 / 门票
+   故宫的门票很贵。
+   lama: Gugong de menpiao hen gui.
+   baru: Gùgōng de ménpiào hěn guì.
+[A] b2_wai_guo_185 / 外国
+   她是一个外国人。
+   lama: Ta shi yi ge waiguoren.
+   baru: Tā shì yí ge wàiguórén.
+[A] b2_wai_guo_185 / 国外
+   他住在国外。
+   lama: Ta zhu zai guowai.
+   baru: Tā zhù zài guówài.
+[A] b2_kai_guan_191 / 开
+   请开门。
+   lama: Qing kai men.
+   baru: Qǐng kāi mén.
+[A] b2_kai_guan_191 / 关
+   请关灯。
+   lama: Qing guan deng.
+   baru: Qǐng guān dēng.
+[B1] b2_ren_shi_220 / 认识
+   我认识他三年了。
+   lama: Wo renshi ta san nian le.
+   baru: Wǒ rènshi tā sān nián le.
+[A] b2_ren_shi_220 / 知道
+   我知道他是老师。
+   lama: Wo zhidao ta shi laoshi.
+   baru: Wǒ zhīdào tā shì lǎoshī.
+[B1] b3_wang_ji_221 / 忘记
+   我忘记带钥匙了。
+   lama: Wo wangji dai yaoshi le.
+   baru: Wǒ wàngjì dài yàoshi le.
+[B1] b3_wang_ji_221 / 忘
+   我忘了他的名字。
+   lama: Wo wang le ta de mingzi.
+   baru: Wǒ wàng le tā de míngzi.
+[B2] b3_ji_de_222 / 记得
+   我还记得那件事。
+   lama: Wo hai jide na jian shi.
+   baru: Wǒ hái jìde nà jiàn shì.
+[B2] b3_ji_de_222 / 记住
+   请你记住这个地址。
+   lama: Qing ni jizhu zhe ge dizhi.
+   baru: Qǐng nǐ jìzhu zhè ge dìzhǐ.
+[B1] b3_er_zi_328 / 儿子
+   我儿子今年十岁了。
+   lama: Wo erzi jinnian shi sui le.
+   baru: Wǒ érzi jīnnián shí suì le.
+[B1] b3_er_zi_328 / 孩子
+   我的孩子在学校学习很好。
+   lama: Wo de haizi zai xuexiao xuexi hen hao.
+   baru: Wǒ de háizi zài xuéxiào xuéxí hěn hǎo.
+[A] b3_nan_ren_332 / 男人
+   那个男人是我爸爸。
+   lama: Na ge nanren shi wo baba.
+   baru: Nà ge nánrén shì wǒ bàba.
+[A] b3_nan_ren_332 / 男生
+   这个班有十个男生。
+   lama: Zhe ge ban you shi ge nansheng.
+   baru: Zhè ge bān yǒu shí ge nánshēng.
+[A] b3_nv_ren_333 / 女人
+   那个女人是我的老师。
+   lama: Na ge nvren shi wo de laoshi.
+   baru: Nà ge nǚrén shì wǒ de lǎoshī.
+[B1] b3_nv_ren_333 / 女生
+   女生们都喜欢他。
+   lama: Nvsheng men dou xihuan ta.
+   baru: Nǚshēng men dōu xǐhuan tā.
+[A] b3_xie_zuo_621 / 写
+   他在写作业。
+   lama: Ta zai xie zuoye.
+   baru: Tā zài xiě zuòyè.
+[A] b3_xie_zuo_621 / 记
+   请把电话号码记下来。
+   lama: Qing ba dianhua haoma ji xialai.
+   baru: Qǐng bǎ diànhuà hàomǎ jì xiàlai.
+[A] b4_bi_bi_034 / 比
+   我比他高。
+   lama: Wo bi ta gao.
+   baru: Wǒ bǐ tā gāo.
+[B1] b4_bi_bi_034 / 笔
+   他买了一支笔。
+   lama: Ta mai le yi zhi bi.
+   baru: Tā mǎi le yì zhī bǐ.
+[A] b4_qian_nian_051 / 前年
+   我前年去过日本。
+   lama: Wo qiannian qu guo Riben.
+   baru: Wǒ qiánnián qù guò Rìběn.
+[A] b4_qian_nian_051 / 去年
+   我去年去过日本。
+   lama: Wo qunian qu guo Riben.
+   baru: Wǒ qùnián qù guò Rìběn.
+[A] b4_duo_me_069 / 多
+   她多漂亮啊！
+   lama: Ta duo piaoliang a!
+   baru: Tā duō piàoliang a!
+[A] b4_duo_me_069 / 多么
+   多么美丽的风景啊！
+   lama: Duome meili de fengjing a!
+   baru: Duōme měilì de fēngjǐng a!
+[A] b4_zuo_ban_077 / 做
+   我在做饭。
+   lama: Wo zai zuo fan.
+   baru: Wǒ zài zuò fàn.
+[A] b4_zuo_ban_077 / 办
+   我要去办签证。
+   lama: Wo yao qu ban qianzheng.
+   baru: Wǒ yào qù bàn qiānzhèng.
+[A] b4_wen_ti_079 / 问题
+   我有一个问题。
+   lama: Wo you yi ge wenti.
+   baru: Wǒ yǒu yí ge wèntí.
+[A] b4_wen_ti_079 / 问
+   我想问你一个问题。
+   lama: Wo xiang wen ni yi ge wenti.
+   baru: Wǒ xiǎng wèn nǐ yí ge wèntí.
+[A] b4_cai_jiu_083 / 才
+   他十点才到。
+   lama: Ta shi dian cai dao.
+   baru: Tā shí diǎn cái dào.
+[B1] b4_cai_jiu_083 / 就
+   他七点就到了。
+   lama: Ta qi dian jiu dao le.
+   baru: Tā qī diǎn jiù dào le.
+[A] b4_jia_ting_099 / 家
+   我在家。
+   lama: Wo zai jia.
+   baru: Wǒ zài jiā.
+[A] b4_jia_ting_099 / 家庭
+   他很重视家庭。
+   lama: Ta hen zhongshi jiating.
+   baru: Tā hěn zhòngshì jiātíng.
+[A] b4_jian_kang_149 / 健康
+   你要注意健康。
+   lama: Ni yao zhuyi jiankang.
+   baru: Nǐ yào zhùyì jiànkāng.
+[B1] b4_jian_kang_149 / 身体
+   他身体很好。
+   lama: Ta shenti hen hao.
+   baru: Tā shēntǐ hěn hǎo.
+[A] b4_dian_nao_163 / 电脑
+   我用电脑工作。
+   lama: Wo yong diannao gongzuo.
+   baru: Wǒ yòng diànnǎo gōngzuò.
+[A] b4_dian_nao_163 / 计算机
+   他在大学学计算机科学。
+   lama: Ta zai daxue xue jisuanji kexue.
+   baru: Tā zài dàxué xué jìsuànjī kēxué.
+[A] b4_fan_180 / 米饭
+   我晚上吃米饭。
+   lama: Wo wanshang chi mifan.
+   baru: Wǒ wǎnshang chī mǐfàn.
+[B1] b4_fan_180 / 米
+   我买了一袋米。
+   lama: Wo mai le yi dai mi.
+   baru: Wǒ mǎi le yí dài mǐ.
+[A] b4_mai_mai_190 / 买
+   我在超市买水果。
+   lama: Wo zai chaoshi mai shuiguo.
+   baru: Wǒ zài chāoshì mǎi shuǐguǒ.
+[A] b4_mai_mai_190 / 卖
+   他在市场卖水果。
+   lama: Ta zai shichang mai shuiguo.
+   baru: Tā zài shìchǎng mài shuǐguǒ.
+[A] b4_lou_193 / 楼
+   他在那栋楼里工作。
+   lama: Ta zai na dong lou li gongzuo.
+   baru: Tā zài nà dòng lóu lǐ gōngzuò.
+[A] b4_lou_193 / 层
+   我的办公室在八层。
+   lama: Wo de bangongshi zai ba ceng.
+   baru: Wǒ de bàngōngshì zài bā céng.
+[A] b4_guang_chang_200 / 广场
+   他在广场上跳舞。
+   lama: Ta zai guangchang shang tiaowu.
+   baru: Tā zài guǎngchǎng shàng tiàowǔ.
+[A] b4_guang_chang_200 / 商场
+   我们去商场买东西吧。
+   lama: Women qu shangchang mai dongxi ba.
+   baru: Wǒmen qù shāngchǎng mǎi dōngxi ba.
+[A] b4_kong_qi_232 / 空气
+   这里的空气很新鲜。
+   lama: Zheli de kongqi hen xinxian.
+   baru: Zhèlǐ de kōngqì hěn xīnxiān.
+[B1] b4_kong_qi_232 / 天气
+   今天天气很好。
+   lama: Jintian tianqi hen hao.
+   baru: Jīntiān tiānqì hěn hǎo.
+[A] b4_hua_duo_234 / 花
+   这朵花很漂亮。
+   lama: Zhe duo hua hen piaoliang.
+   baru: Zhè duǒ huā hěn piàoliang.
+[B2] b4_hua_duo_234 / 草
+   草地上有很多花。
+   lama: Cao di shang you hen duo hua.
+   baru: Cǎo dì shàng yǒu hěn duō huā.
+[B1] b4_zhu_yao_358 / 主要
+   主要问题是太晚了。
+   lama: Zhuyao wenti shi tai wan le.
+   baru: Zhǔyào wèntí shì tài wǎn le.
+[A] b4_zhu_yao_358 / 重要
+   这个决定非常重要。
+   lama: Zhe ge jueding feichang zhongyao.
+   baru: Zhè ge juédìng fēicháng zhòngyào.
+[A] b4_xiang_tong_362 / 相同
+   我们两个有相同的想法。
+   lama: Women liang ge you xiangtong de xiangfa.
+   baru: Wǒmen liǎng ge yǒu xiāngtóng de xiǎngfǎ.
+[A] b4_xiang_tong_362 / 一样
+   这个颜色和那个一样。
+   lama: Zhe ge yanse he na ge yiyang.
+   baru: Zhè ge yánsè hé nà ge yíyàng.
+[A] b4_qi_ta_364 / 其他
+   你有其他问题吗？
+   lama: Ni you qita wenti ma?
+   baru: Nǐ yǒu qítā wèntí ma?
+[A] b4_qi_ta_364 / 别的
+   我想买别的颜色的包。
+   lama: Wo xiang mai biede yanse de bao.
+   baru: Wǒ xiǎng mǎi biéde yánsè de bāo.
+[A] b4_jin_lai_564 / 进来
+   请进来坐。
+   lama: Qing jinlai zuo.
+   baru: Qǐng jìnlái zuò.
+[B1] b4_jin_lai_564 / 进入
+   我们进入了新的发展阶段。
+   lama: Women jinru le xin de fazhan jieduan.
+   baru: Wǒmen jìnrù le xīn de fāzhǎn jiēduàn.
+[B2] b4_qing_jia_619 / 请假
+   他今天生病了，所以请了一天假。
+   lama: Ta jintian shengbing le, suoyi qing le yi tian jia.
+   baru: Tā jīntiān shēngbìng le, suǒyǐ qǐng le yì tiān jiǎ.
+[B2] b4_qing_jia_619 / 休假
+   他下个月要休年假。
+   lama: Ta xia ge yue yao xiu nianjia.
+   baru: Tā xià ge yuè yào xiū niánjiǎ.
+[B2] b4_yin_yue_624 / 听
+   我在听音乐。
+   lama: Wo zai ting yinyue.
+   baru: Wǒ zài tīng yīnyuè.
+[B1] b4_yin_yue_624 / 闻
+   我闻到了花香。
+   lama: Wo wen dao le hua xiang.
+   baru: Wǒ wén dào le huā xiāng.
+[A] b5_yuan_yin_030 / 因为
+   因为下雨，所以我不去。
+   lama: Yinwei xiayu, suoyi wo bu qu.
+   baru: Yīnwèi xiàyǔ, suǒyǐ wǒ bù qù.
+[B2] b5_yuan_yin_030 / 为
+   我为你准备了礼物。
+   lama: Wo wei ni zhunbei le liwu.
+   baru: Wǒ wèi nǐ zhǔnbèi le lǐwù.
+[B1] b5_gang_gang_065 / 刚刚
+   他刚刚走了。
+   lama: Ta ganggang zou le.
+   baru: Tā gānggang zǒu le.
+[B1] b5_gang_gang_065 / 刚才
+   刚才他来找你了。
+   lama: Gangcai ta lai zhao ni le.
+   baru: Gāngcái tā lái zhǎo nǐ le.
+[A] b5_zhe_me_086 / 这么
+   他怎么这么高？
+   lama: Ta zenme zheme gao?
+   baru: Tā zěnme zhème gāo?
+[B1] b5_zhe_me_086 / 那么
+   那边那么远，我不想去了。
+   lama: Na bian name yuan, wo bu xiang qu le.
+   baru: Nà bian nàme yuǎn, wǒ bù xiǎng qù le.
+[B2] b5_jiao_shi_106 / 教室
+   学生都在教室里。
+   lama: Xuesheng dou zai jiaoshi li.
+   baru: Xuésheng dōu zài jiàoshì lǐ.
+[B2] b5_jiao_shi_106 / 教师
+   他是我们学校的教师。
+   lama: Ta shi women xuexiao de jiaoshi.
+   baru: Tā shì wǒmen xuéxiào de jiàoshī.
+[A] b5_ke_neng_117 / 可能
+   他今天可能不来。
+   lama: Ta jintian keneng bu lai.
+   baru: Tā jīntiān kěnéng bù lái.
+[A] b5_ke_neng_117 / 也许
+   他今天也许不来。
+   lama: Ta jintian yexu bu lai.
+   baru: Tā jīntiān yěxǔ bù lái.
+[A] b5_ti_yu_143 / 体育
+   我最喜欢体育课。
+   lama: Wo zui xihuan tiyu ke.
+   baru: Wǒ zuì xǐhuan tǐyù kè.
+[A] b5_ti_yu_143 / 运动
+   我每天做运动。
+   lama: Wo meitian zuo yundong.
+   baru: Wǒ měitiān zuò yùndòng.
+[B2] b5_jiao_yu_159 / 教育
+   教育对国家很重要。
+   lama: Jiaoyu dui guojia hen zhongyao.
+   baru: Jiàoyù duì guójiā hěn zhòngyào.
+[B2] b5_jiao_yu_159 / 教学
+   他的教学方法很好。
+   lama: Ta de jiaoxue fangfa hen hao.
+   baru: Tā de jiàoxué fāngfǎ hěn hǎo.
+[A] b6_zhao_pian_168 / 照片
+   我想看你的照片。
+   lama: Wo xiang kan ni de zhaopian.
+   baru: Wǒ xiǎng kàn nǐ de zhàopiàn.
+[A] b6_zhao_pian_168 / 图片
+   这张图片很漂亮。
+   lama: Zhe zhang tupian hen piaoliang.
+   baru: Zhè zhāng túpiàn hěn piàoliang.
+[B2] b6_lv_xing_169 / 旅游
+   暑假我们去旅游了。
+   lama: Shujia women qu luyou le.
+   baru: Shǔjià wǒmen qù lǚyóu le.
+[A] b6_lv_xing_169 / 旅行
+   我经常去国外旅行。
+   lama: Wo jingchang qu guowai luxing.
+   baru: Wǒ jīngcháng qù guówài lǚxíng.
+[A] b6_gong_yuan_199 / 公园
+   我每天去公园散步。
+   lama: Wo meitian qu gongyuan sanbu.
+   baru: Wǒ měitiān qù gōngyuán sànbù.
+[B2] b6_gong_yuan_199 / 花园
+   我家的花园种了很多花。
+   lama: Wo jia de huayuan zhong le hen duo hua.
+   baru: Wǒ jiā de huāyuán zhǒng le hěn duō huā.
+[B1] b6_xiang_qi_223 / 想起
+   我突然想起了一个好办法。
+   lama: Wo turan xiangqi le yi ge hao banfa.
+   baru: Wǒ tūrán xiǎngqǐ le yí ge hǎo bànfǎ.
+[A] b6_xiang_qi_223 / 想到
+   我没想到这个办法。
+   lama: Wo mei xiangdao zhe ge banfa.
+   baru: Wǒ méi xiǎngdào zhè ge bànfǎ.
+[B1] b6_xiang_fa_227 / 想法
+   我有一个好想法。
+   lama: Wo you yi ge hao xiangfa.
+   baru: Wǒ yǒu yí ge hǎo xiǎngfǎ.
+[A] b6_xiang_fa_227 / 意见
+   你对这件事有什么意见？
+   lama: Ni dui zhe jian shi you shenme yijian?
+   baru: Nǐ duì zhè jiàn shì yǒu shénme yìjiàn?
+[A] b6_hu_238 / 湖
+   这个湖很美。
+   lama: Zhe ge hu hen mei.
+   baru: Zhè ge hú hěn měi.
+[A] b6_hu_238 / 海
+   海比湖大很多。
+   lama: Hai bi hu da hen duo.
+   baru: Hǎi bǐ hú dà hěn duō.
+[B2] b6_niao_240 / 鸟
+   树上有一只鸟。
+   lama: Shu shang you yi zhi niao.
+   baru: Shù shàng yǒu yì zhǐ niǎo.
+[A] b6_niao_240 / 鸡
+   农场里有很多鸡。
+   lama: Nongchang li you hen duo ji.
+   baru: Nóngchǎng lǐ yǒu hěn duō jī.
+[B2] b6_mao_241 / 猫
+   她养了一只白猫。
+   lama: Ta yang le yi zhi bai mao.
+   baru: Tā yǎng le yì zhǐ bái māo.
+[B2] b6_mao_241 / 狗
+   他有一只大狗。
+   lama: Ta you yi zhi da gou.
+   baru: Tā yǒu yì zhǐ dà gǒu.
+[A] b6_ban_fa_246 / 办法
+   我有办法解决这个问题。
+   lama: Wo you banfa jiejue zhe ge wenti.
+   baru: Wǒ yǒu bànfǎ jiějué zhè ge wèntí.
+[A] b6_ban_fa_246 / 方法
+   你用什么方法学习汉语？
+   lama: Ni yong shenme fangfa xuexi Hanyu?
+   baru: Nǐ yòng shénme fāngfǎ xuéxí Hànyǔ?
+[B2] b6_cheng_wei_252 / 成为
+   他努力学习，终于成为了一名医生。
+   lama: Ta nuli xuexi, zhongyu chengwei le yi ming yisheng.
+   baru: Tā nǔlì xuéxí, zhōngyú chéngwéi le yì míng yīshēng.
+[B1] b6_cheng_wei_252 / 变成
+   毛毛虫变成了蝴蝶。
+   lama: Maomaochong biancheng le hudie.
+   baru: Máomaochóng biànchéng le húdié.
+[A] b6_ying_gai_287 / 应该
+   你应该早点休息。
+   lama: Ni yinggai zao dian xiuxi.
+   baru: Nǐ yīnggāi zǎo diǎn xiūxi.
+[A] b6_ying_gai_287 / 愿意
+   你愿意和我一起去吗？
+   lama: Ni yuanyi he wo yiqi qu ma?
+   baru: Nǐ yuànyì hé wǒ yìqǐ qù ma?
+[B2] b6_wen_du_379 / 温度
+   今天的温度是多少？
+   lama: Jintian de wendu shi duoshao?
+   baru: Jīntiān de wēndù shì duōshao?
+[A] b6_wen_du_379 / 气温
+   今年的气温比去年高。
+   lama: Jinnian de qiwen bi qunian gao.
+   baru: Jīnnián de qìwēn bǐ qùnián gāo.
+[A] b6_jie_du_405 / 角度
+   从另一个角度来看这个问题。
+   lama: Cong ling yi ge jiaodu lai kan zhe ge wenti.
+   baru: Cóng lìng yí ge jiǎodù lái kàn zhè ge wèntí.
+[A] b6_jie_du_405 / 观点
+   我想听听你的观点。
+   lama: Wo xiang tingting ni de guandian.
+   baru: Wǒ xiǎng tīngtīng nǐ de guāndiǎn.
+[A] b6_ying_xiang_441 / 影响
+   手机对睡眠有影响。
+   lama: Shouji dui shuimian you yingxiang.
+   baru: Shǒujī duì shuìmián yǒu yǐngxiǎng.
+[B1] b6_ying_xiang_441 / 作用
+   维生素对身体有很好的作用。
+   lama: Weishengsu dui shenti you hen hao de zuoyong.
+   baru: Wéishēngsù duì shēntǐ yǒu hěn hǎo de zuòyòng.
+[A] b6_yao_qiu_451 / 要求
+   老师要求我们准时交作业。
+   lama: Laoshi yaoqiu women zhunshi jiao zuoye.
+   baru: Lǎoshī yāoqiú wǒmen zhǔnshí jiāo zuòyè.
+[A] b6_yao_qiu_451 / 请求
+   他请求我帮他一下。
+   lama: Ta qingqiu wo bang ta yixia.
+   baru: Tā qǐngqiú wǒ bāng tā yíxià.
+[B1] b6_fang_xiang_486 / 方向
+   你走错方向了。
+   lama: Ni zou cuo fangxiang le.
+   baru: Nǐ zǒu cuò fāngxiàng le.
+[B2] b6_fang_xiang_486 / 方面
+   在教育方面，我们还需要努力。
+   lama: Zai jiaoyu fangmian, women hai xuyao nuli.
+   baru: Zài jiàoyù fāngmiàn, wǒmen hái xūyào nǔlì.
+[A] b6_zhong_dian_557 / 重点
+   今天的重点是解决这个问题。
+   lama: Jintian de zhongdian shi jiejue zhe ge wenti.
+   baru: Jīntiān de zhòngdiǎn shì jiějué zhè ge wèntí.
+[A] b6_zhong_dian_557 / 中心
+   他在城市中心工作。
+   lama: Ta zai chengshi zhongxin gongzuo.
+   baru: Tā zài chéngshì zhōngxīn gōngzuò.
+[A] b7_hou_nian_052 / 后年
+   我后年毕业。
+   lama: Wo hounian biye.
+   baru: Wǒ hòunián bìyè.
+[A] b7_hou_nian_052 / 明年
+   我明年毕业。
+   lama: Wo mingnian biye.
+   baru: Wǒ míngnián bìyè.
+[B2] b7_di_fang_098 / 地方
+   这是个好地方。
+   lama: Zhe shi ge hao difang.
+   baru: Zhè shì ge hǎo dìfang.
+[B2] b7_di_fang_098 / 地区
+   这个地区很发达。
+   lama: Zhe ge diqu hen fada.
+   baru: Zhè ge dìqū hěn fādá.
+[A] b7_cha_179 / 茶
+   我每天喝绿茶。
+   lama: Wo meitian he lvcha.
+   baru: Wǒ měitiān hē lǜchá.
+[B1] b7_cha_179 / 咖啡
+   我早上喝了一杯咖啡。
+   lama: Wo zaoshang he le yi bei kafei.
+   baru: Wǒ zǎoshang hē le yì bēi kāfēi.
+[A] b7_fang_jian_192 / 房间
+   我的房间很干净。
+   lama: Wo de fangjian hen ganjing.
+   baru: Wǒ de fángjiān hěn gānjìng.
+[B2] b7_fang_jian_192 / 屋子
+   这间屋子很大。
+   lama: Zhe jian wuzi hen da.
+   baru: Zhè jiān wūzi hěn dà.
+[A] b7_ke_cheng_214 / 课程
+   这学期我有五门课程。
+   lama: Zhe xueqi wo you wu men kecheng.
+   baru: Zhè xuéqī wǒ yǒu wǔ mén kèchéng.
+[A] b7_ke_cheng_214 / 课
+   我今天有两节课。
+   lama: Wo jintian you liang jie ke.
+   baru: Wǒ jīntiān yǒu liǎng jié kè.
+[B2] b7_qian_218 / 钱
+   这本书多少钱？
+   lama: Zhe ben shu duoshao qian?
+   baru: Zhè běn shū duōshao qián?
+[A] b7_qian_218 / 费用
+   这个学校的费用很高。
+   lama: Zhe ge xuexiao de feiyong hen gao.
+   baru: Zhè ge xuéxiào de fèiyòng hěn gāo.
+[A] b7_kai_shi_225 / 开始
+   我们开始上课吧。
+   lama: Women kaishi shangke ba.
+   baru: Wǒmen kāishǐ shàngkè ba.
+[A] b7_kai_shi_225 / 起来
+   他突然笑起来。
+   lama: Ta turan xiao qilai.
+   baru: Tā tūrán xiào qǐlai.
+[A] b7_zui_hou_262 / 最后
+   他是最后一个到的人。
+   lama: Ta shi zuihou yi ge dao de ren.
+   baru: Tā shì zuìhòu yí ge dào de rén.
+[B1] b7_zui_hou_262 / 终于
+   雨终于停了。
+   lama: Yu zhongyu ting le.
+   baru: Yǔ zhōngyú tíng le.
+[B2] b8_di_qiu_151 / 地球
+   地球是圆的。
+   lama: Diqiu shi yuan de.
+   baru: Dìqiú shì yuán de.
+[A] b8_di_qiu_151 / 世界
+   世界上有很多国家。
+   lama: Shijie shang you hen duo guojia.
+   baru: Shìjiè shàng yǒu hěn duō guójiā.
+[B2] b8_ren_lei_152 / 人类
+   人类需要保护地球。
+   lama: Renlei xuyao baohu diqiu.
+   baru: Rénlèi xūyào bǎohù dìqiú.
+[B1] b8_ren_lei_152 / 人们
+   人们都喜欢好天气。
+   lama: Renmen dou xihuan hao tianqi.
+   baru: Rénmen dōu xǐhuan hǎo tiānqì.
+[B1] b8_xiao_xi_161 / 消息
+   我有个好消息告诉你。
+   lama: Wo you ge hao xiaoxi gaosu ni.
+   baru: Wǒ yǒu ge hǎo xiāoxi gàosu nǐ.
+[A] b8_xiao_xi_161 / 新闻
+   我每天晚上看新闻。
+   lama: Wo meitian wanshang kan xinwen.
+   baru: Wǒ měitiān wǎnshang kàn xīnwén.
+[A] b8_bao_zhi_162 / 报纸
+   他每天看报纸。
+   lama: Ta meitian kan baozhi.
+   baru: Tā měitiān kàn bàozhǐ.
+[A] b8_bao_zhi_162 / 杂志
+   我喜欢看时尚杂志。
+   lama: Wo xihuan kan shishang zazhi.
+   baru: Wǒ xǐhuan kàn shíshàng zázhì.
+[B1] b8_guang_196 / 光
+   今天的阳光很好。
+   lama: Jintian de yangguang hen hao.
+   baru: Jīntiān de yángguāng hěn hǎo.
+[A] b8_guang_196 / 灯
+   请把灯打开。
+   lama: Qing ba deng da kai.
+   baru: Qǐng bǎ dēng dǎ kāi.
+[B1] b8_tiao_jian_228 / 条件
+   他的工作条件很好。
+   lama: Ta de gongzuo tiaojian hen hao.
+   baru: Tā de gōngzuò tiáojiàn hěn hǎo.
+[B1] b8_tiao_jian_228 / 状况
+   他的健康状况很好。
+   lama: Ta de jiankang zhuangkuang hen hao.
+   baru: Tā de jiànkāng zhuàngkuàng hěn hǎo.
+[A] b8_mu_biao_245 / 目标
+   我今年的目标是学中文。
+   lama: Wo jinnian de mubiao shi xue Zhongwen.
+   baru: Wǒ jīnnián de mùbiāo shì xué Zhōngwén.
+[A] b8_mu_biao_245 / 目的
+   他这样做的目的是什么？
+   lama: Ta zheyang zuo de mudi shi shenme?
+   baru: Tā zhèyàng zuò de mùdì shì shénme?
+[A] b8_yi_yi_247 / 意思
+   这个词是什么意思？
+   lama: Zhe ge ci shi shenme yisi?
+   baru: Zhè ge cí shì shénme yìsi?
+[A] b8_yi_yi_247 / 意义
+   这次旅行对我很有意义。
+   lama: Zhe ci luxing dui wo hen you yiyi.
+   baru: Zhè cì lǚxíng duì wǒ hěn yǒu yìyì.
+[B1] b9_fa_sheng_253 / 发生
+   昨天发生了一起事故。
+   lama: Zuotian fasheng le yiqi shigu.
+   baru: Zuótiān fāshēng le yìqǐ shìgù.
+[B1] b9_fa_sheng_253 / 出现
+   太阳出来了，出现了彩虹。
+   lama: Taiyang chu lai le, chuxian le caihong.
+   baru: Tàiyang chū lái le, chūxiàn le cǎihóng.
+[A] b9_xiang_xin_275 / 相信
+   我相信他说的是真的。
+   lama: Wo xiangxin ta shuo de shi zhen de.
+   baru: Wǒ xiāngxìn tā shuō de shì zhēn de.
+[A] b9_xiang_xin_275 / 信任
+   我很信任他。
+   lama: Wo hen xinren ta.
+   baru: Wǒ hěn xìnrèn tā.
+[A] b9_bing_qie_277 / 并且
+   他很有能力，并且工作很努力。
+   lama: Ta hen you nengli, bingqie gongzuo hen nuli.
+   baru: Tā hěn yǒu nénglì, bìngqiě gōngzuò hěn nǔlì.
+[A] b9_bing_qie_277 / 而且
+   他很聪明，而且很努力。
+   lama: Ta hen congming, erqie hen nuli.
+   baru: Tā hěn cōngming, érqiě hěn nǔlì.
+[B1] b9_yin_ci_280 / 因此
+   天气不好，因此我们取消了旅行。
+   lama: Tianqi bu hao, yinci women quxiao le luxing.
+   baru: Tiānqì bù hǎo, yīncǐ wǒmen qǔxiāo le lǚxíng.
+[B1] b9_yin_ci_280 / 所以
+   下雨了，所以我们不去了。
+   lama: Xiayu le, suoyi women bu qu le.
+   baru: Xiàyǔ le, suǒyǐ wǒmen bù qù le.
+[A] b9_bu_dan_282 / 不但
+   他不但聪明，而且很努力。
+   lama: Ta budan congming, erqie hen nuli.
+   baru: Tā bùdàn cōngming, érqiě hěn nǔlì.
+[A] b9_bu_dan_282 / 不仅
+   这不仅是一个机会，也是一个挑战。
+   lama: Zhe bujin shi yi ge jihui, ye shi yi ge tiaozhan.
+   baru: Zhè bùjǐn shì yí ge jīhuì, yě shì yí ge tiǎozhàn.
+[B1] b9_zhi_hao_283 / 只好
+   下雨了，我们只好待在家里。
+   lama: Xiayu le, women zhihao dai zai jia li.
+   baru: Xiàyǔ le, wǒmen zhǐhǎo dài zài jiā lǐ.
+[B2] b9_zhi_hao_283 / 只能
+   我只会中文，只能用中文交流。
+   lama: Wo zhi hui Zhongwen, zhineng yong Zhongwen jiaoliu.
+   baru: Wǒ zhǐ huì Zhōngwén, zhǐnéng yòng Zhōngwén jiāoliú.
+[A] b9_zuo_jia_344 / 作家
+   他是一位著名作家。
+   lama: Ta shi yi wei zhuming zuojia.
+   baru: Tā shì yí wèi zhùmíng zuòjiā.
+[A] b9_zuo_jia_344 / 作者
+   这本书的作者是谁？
+   lama: Zhe ben shu de zuozhe shi shei?
+   baru: Zhè běn shū de zuòzhě shì shéi?
+[A] b9_jing_li_349 / 经理
+   他是这家公司的经理。
+   lama: Ta shi zhe jia gongsi de jingli.
+   baru: Tā shì zhè jiā gōngsī de jīnglǐ.
+[A] b9_jing_li_349 / 管理
+   他在管理这个团队。
+   lama: Ta zai guanli zhe ge tuandui.
+   baru: Tā zài guǎnlǐ zhè ge tuánduì.
+[B1] b9_shi_chang_355 / 市场
+   我在市场买了新鲜的水果。
+   lama: Wo zai shichang mai le xinxian de shuiguo.
+   baru: Wǒ zài shìchǎng mǎi le xīnxiān de shuǐguǒ.
+[A] b9_shi_chang_355 / 超市
+   我去超市买一些日用品。
+   lama: Wo qu chaoshi mai yixie riyongpin.
+   baru: Wǒ qù chāoshì mǎi yìxiē rìyòngpǐn.
+[A] b9_shi_pin_357 / 食品
+   超市里有很多冷冻食品。
+   lama: Chaoshi li you hen duo lengdong shipin.
+   baru: Chāoshì lǐ yǒu hěn duō lěngdòng shípǐn.
+[A] b9_shi_pin_357 / 食物
+   我们需要足够的食物。
+   lama: Women xuyao zugou de shiwu.
+   baru: Wǒmen xūyào zúgòu de shíwù.
+[B2] b9_zi_ji_360 / 自己
+   我自己去就行了。
+   lama: Wo ziji qu jiu xing le.
+   baru: Wǒ zìjǐ qù jiù xíng le.
+[A] b9_zi_ji_360 / 自身
+   我们要注意自身的安全。
+   lama: Women yao zhuyi zishen de anquan.
+   baru: Wǒmen yào zhùyì zìshēn de ānquán.
+[B1] b9_qiang_diao_397 / 强调
+   老师强调了这个问题的重要性。
+   lama: Laoshi qiangdiao le zhe ge wenti de zhongyaoxing.
+   baru: Lǎoshī qiángdiào le zhè ge wèntí de zhòngyàoxìng.
+[B2] b9_qiang_diao_397 / 重视
+   政府非常重视教育问题。
+   lama: Zhengfu feichang zhongshi jiaoyu wenti.
+   baru: Zhèngfǔ fēicháng zhòngshì jiàoyù wèntí.
+[B1] b9_jie_guo_401 / 结果
+   实验的结果很好。
+   lama: Shiyan de jieguo hen hao.
+   baru: Shíyàn de jiéguǒ hěn hǎo.
+[B2] b9_jie_guo_401 / 后果
+   你要为自己的行为负责后果。
+   lama: Ni yao wei ziji de xingwei fuze houguo.
+   baru: Nǐ yào wèi zìjǐ de xíngwéi fùzé hòuguǒ.
+[B1] b9_lian_xi_431 / 联系
+   我会和你保持联系。
+   lama: Wo hui he ni baochi lianxi.
+   baru: Wǒ huì hé nǐ bǎochí liánxì.
+[A] b9_lian_xi_431 / 练习
+   我每天练习说中文。
+   lama: Wo meitian lianxi shuo Zhongwen.
+   baru: Wǒ měitiān liànxí shuō Zhōngwén.
+[A] b9_he_ping_462 / 和平
+   世界需要和平。
+   lama: Shijie xuyao heping.
+   baru: Shìjiè xūyào Hépíng.
+[A] b9_he_ping_462 / 平安
+   希望你一路平安。
+   lama: Xiwang ni yilu pingan.
+   baru: Xīwàng nǐ yílù píngān.
+[B1] b9_shi_yong_471 / 使用
+   你会使用这个软件吗？
+   lama: Ni hui shiyong zhe ge ruanjian ma?
+   baru: Nǐ huì shǐyòng zhè ge ruǎnjiàn ma?
+[B2] b9_shi_yong_471 / 应用
+   我们需要把理论应用到实践中。
+   lama: Women xuyao ba lilun yingyong dao shijian zhong.
+   baru: Wǒmen xūyào bǎ lǐlùn yìngyòng dào shíjiàn zhōng.
+[A] b9_fu_du_487 / 程度
+   他的中文程度很高。
+   lama: Ta de Zhongwen chengdu hen gao.
+   baru: Tā de Zhōngwén chéngdù hěn gāo.
+[B1] b9_fu_du_487 / 水平
+   他的中文水平很好。
+   lama: Ta de Zhongwen shuiping hen hao.
+   baru: Tā de Zhōngwén shuǐpíng hěn hǎo.
+[A] b9_xian_shi_497 / 现实
+   你要面对现实。
+   lama: Ni yao miandui xianshi.
+   baru: Nǐ yào miànduì xiànshí.
+[B2] b9_xian_shi_497 / 实际
+   我们要根据实际情况调整计划。
+   lama: Women yao genju shiji qingkuang tiaozheng jihua.
+   baru: Wǒmen yào gēnjù shíjì qíngkuàng tiáozhěng jìhuà.
+[A] b9_zhen_shi_507 / 真实
+   这是一个真实的故事。
+   lama: Zhe shi yi ge zhenshi de gushi.
+   baru: Zhè shì yí ge zhēnshí de gùshi.
+[A] b9_zhen_shi_507 / 真正
+   他是真正的专家。
+   lama: Ta shi zhenzheng de zhuanjia.
+   baru: Tā shì zhēnzhèng de zhuānjiā.
+[B2] b9_xing_fu_523 / 幸福
+   他很幸福地生活着。
+   lama: Ta hen xingfu de shenghuo zhe.
+   baru: Tā hěn xìngfú de shēnghuó zhe.
+[A] b9_xing_fu_523 / 快乐
+   祝你生日快乐。
+   lama: Zhu ni shengri kuaile.
+   baru: Zhù nǐ shēngrì kuàilè.
+[A] b9_fu_yin_586 / 复印
+   请帮我把这份文件复印一下。
+   lama: Qing bang wo ba zhe fen wenjian fuyin yixia.
+   baru: Qǐng bāng wǒ bǎ zhè fèn wénjiàn fùyìn yíxià.
+[A] b9_fu_yin_586 / 打印
+   我想打印这张照片。
+   lama: Wo xiang dayin zhe zhang zhaopian.
+   baru: Wǒ xiǎng dǎyìn zhè zhāng zhàopiàn.
+[A] b10_ba_bai_023 / 把
+   我把书放在桌子上。
+   lama: Wo ba shu fang zai zhuozi shang.
+   baru: Wǒ bǎ shū fàng zài zhuōzi shàng.
+[B1] b10_ba_bai_023 / 被
+   书被他拿走了。
+   lama: Shu bei ta na zou le.
+   baru: Shū bèi tā ná zǒu le.
+[B1] b10_da_gai_059 / 大概
+   大概有十个人来了。
+   lama: Dagai you shi ge ren lai le.
+   baru: Dàgài yǒu shí ge rén lái le.
+[A] b10_da_gai_059 / 大约
+   会议大约在下午两点开始。
+   lama: Huiyi dayue zai xiawu liang dian kaishi.
+   baru: Huìyì dàyuē zài xiàwǔ liǎng diǎn kāishǐ.
+[A] b10_jing_ji_154 / 经济
+   中国经济快速发展。
+   lama: Zhongguo jingji kuaisu fazhan.
+   baru: Zhōngguó jīngjì kuàisù fāzhǎn.
+[A] b10_jing_ji_154 / 商业
+   这条街是商业中心。
+   lama: Zhe tiao jie shi shangye zhongxin.
+   baru: Zhè tiáo jiē shì shāngyè zhōngxīn.
+[A] b10_wen_hua_155 / 文化
+   中国有很丰富的文化。
+   lama: Zhongguo you hen fengfu de wenhua.
+   baru: Zhōngguó yǒu hěn fēngfù de wénhuà.
+[A] b10_wen_hua_155 / 文明
+   埃及有古老的文明。
+   lama: Aiji you gulao de wenming.
+   baru: Āijí yǒu gǔlǎo de wénmíng.
+[A] b10_jia_ge_188 / 价格
+   这个商品的价格很合理。
+   lama: Zhe ge shangpin de jiage hen heli.
+   baru: Zhè ge shāngpǐn de jiàgé hěn hélǐ.
+[B2] b10_jia_ge_188 / 价钱
+   这个苹果的价钱是多少？
+   lama: Zhe ge pingguo de jiaqian shi duoshao?
+   baru: Zhè ge píngguǒ de jiàqian shì duōshao?
+[A] b10_jing_cha_201 / 警察
+   他打电话叫警察。
+   lama: Ta da dianhua jiao jingcha.
+   baru: Tā dǎ diànhuà jiào jǐngchá.
+[A] b10_jing_cha_201 / 保安
+   商场的保安很有礼貌。
+   lama: Shangchang de baoan hen you limao.
+   baru: Shāngchǎng de bǎoān hěn yǒu lǐmào.
+[A] b10_zi_ran_231 / 自然
+   我喜欢接触大自然。
+   lama: Wo xihuan jiechu daziran.
+   baru: Wǒ xǐhuan jiēchù dàzìrán.
+[B1] b10_zi_ran_231 / 环境
+   这个城市的环境很好。
+   lama: Zhe ge chengshi de huanjing hen hao.
+   baru: Zhè ge chéngshì de huánjìng hěn hǎo.
+[A] b10_jing_li_249 / 经历
+   他有很多难忘的经历。
+   lama: Ta you hen duo nanwang de jingli.
+   baru: Tā yǒu hěn duō nánwàng de jīnglì.
+[A] b10_jing_li_249 / 经验
+   他工作经验很丰富。
+   lama: Ta gongzuo jingyan hen fengfu.
+   baru: Tā gōngzuò jīngyàn hěn fēngfù.
+[A] b11_ji_xu_251 / 继续
+   休息一下，然后继续学习。
+   lama: Xiuxi yixia, ranhou jixu xuexi.
+   baru: Xiūxi yíxià, ránhòu jìxù xuéxí.
+[B1] b11_ji_xu_251 / 连续
+   他连续工作了十小时。
+   lama: Ta lianxu gongzuo le shi xiaoshi.
+   baru: Tā liánxù gōngzuò le shí xiǎoshí.
+[A] b11_fa_zhan_255 / 发展
+   中国经济在快速发展。
+   lama: Zhongguo jingji zai kuaisu fazhan.
+   baru: Zhōngguó jīngjì zài kuàisù fāzhǎn.
+[A] b11_fa_zhan_255 / 发达
+   日本是一个发达国家。
+   lama: Riben shi yi ge fada guojia.
+   baru: Rìběn shì yí ge fādá guójiā.
+[A] b11_jue_ding_269 / 决定
+   我决定去北京学习。
+   lama: Wo jueding qu Beijing xuexi.
+   baru: Wǒ juédìng qù Běijīng xuéxí.
+[A] b11_jue_ding_269 / 确定
+   请确定一下会议时间。
+   lama: Qing queding yixia huiyi shijian.
+   baru: Qǐng quèdìng yíxià huìyì shíjiān.
+[B2] b11_ti_yan_273 / 体验
+   我想体验一下当地的文化。
+   lama: Wo xiang tiyan yixia dangdi de wenhua.
+   baru: Wǒ xiǎng tǐyàn yíxià dāngdì de wénhuà.
+[B1] b11_ti_yan_273 / 体会
+   我体会到了学习的快乐。
+   lama: Wo tihui dao le xuexi de kuaile.
+   baru: Wǒ tǐhuì dào le xuéxí de kuàilè.
+[A] b11_fu_za_289 / 复杂
+   这个案件很复杂。
+   lama: Zhe ge anjian hen fuza.
+   baru: Zhè ge ànjiàn hěn fùzá.
+[A] b11_fu_za_289 / 麻烦
+   这件事很麻烦。
+   lama: Zhe jian shi hen mafan.
+   baru: Zhè jiàn shì hěn máfan.
+[B1] b11_jian_li_299 / 建立
+   我们建立了良好的合作关系。
+   lama: Women jianli le lianghao de hezuo guanxi.
+   baru: Wǒmen jiànlì le liánghǎo de hézuò guānxi.
+[B1] b11_jian_li_299 / 设立
+   政府在村里设立了一所学校。
+   lama: Zhengfu zai cun li sheli le yi suo xuexiao.
+   baru: Zhèngfǔ zài cūn lǐ shèlì le yì suǒ xuéxiào.
+[A] b11_xiao_fei_302 / 消费
+   中国人的消费水平越来越高。
+   lama: Zhongguoren de xiaofei shuiping yuelaiyue gao.
+   baru: Zhōngguórén de xiāofèi shuǐpíng yuèláiyuè gāo.
+[B2] b11_xiao_fei_302 / 浪费
+   别浪费时间了。
+   lama: Bie langfei shijian le.
+   baru: Bié làngfèi shíjiān le.
+[A] b11_sheng_chan_303 / 生产
+   这家工厂生产汽车。
+   lama: Zhe jia gongchang shengchan qiche.
+   baru: Zhè jiā gōngchǎng shēngchǎn qìchē.
+[A] b11_sheng_chan_303 / 制造
+   这个公司制造手机。
+   lama: Zhe ge gongsi zhizao shouji.
+   baru: Zhè ge gōngsī zhìzào shǒujī.
+[B2] b11_guan_cha_307 / 观察
+   科学家在观察动物的行为。
+   lama: Kexuejia zai guancha dongwu de xingwei.
+   baru: Kēxuéjiā zài guānchá dòngwù de xíngwéi.
+[A] b11_guan_cha_307 / 观看
+   我们去看观看足球比赛。
+   lama: Women qu kan guankan zuqiu bisai.
+   baru: Wǒmen qù kàn guānkàn zúqiú bǐsài.
+[A] b11_kai_fa_382 / 开发
+   公司正在开发新产品。
+   lama: Gongsi zhengzai kaifa xin chanpin.
+   baru: Gōngsī zhèngzài kāifā xīn chǎnpǐn.
+[A] b11_kai_fa_382 / 开放
+   公园在早上八点开放。
+   lama: Gongyuan zai zaoshang ba dian kaifang.
+   baru: Gōngyuán zài zǎoshang bā diǎn kāifàng.
+[B1] b11_bao_dao_390 / 报道
+   电视台报道了这场火灾。
+   lama: Dianshitai baodao le zhe chang huozai.
+   baru: Diànshìtái bàodào le zhè chǎng huǒzāi.
+[A] b11_bao_dao_390 / 报告
+   他正在写年度报告。
+   lama: Ta zhengzai xie niandu baogao.
+   baru: Tā zhèngzài xiě niándù bàogào.
+[B2] b11_shi_ying_396 / 适应
+   他很快适应了新的生活。
+   lama: Ta hen kuai shiying le xin de shenghuo.
+   baru: Tā hěn kuài shìyìng le xīn de shēnghuó.
+[A] b11_shi_ying_396 / 适合
+   这件衣服很适合你。
+   lama: Zhe jian yifu hen shihe ni.
+   baru: Zhè jiàn yīfu hěn shìhé nǐ.
+[A] b11_jie_he_407 / 结合
+   我们要把理论与实践结合起来。
+   lama: Women yao ba lilun yu shijian jiehe qilai.
+   baru: Wǒmen yào bǎ lǐlùn yǔ shíjiàn jiéhé qǐlai.
+[B1] b11_jie_he_407 / 联合
+   两个公司联合起来了。
+   lama: Liang ge gongsi lianhe qilai le.
+   baru: Liǎng ge gōngsī liánhé qǐlai le.
+[B1] b11_tui_dong_409 / 推动
+   科技推动了社会进步。
+   lama: Keji tuidong le shehui jinbu.
+   baru: Kējì tuīdòng le shèhuì jìnbù.
+[A] b11_tui_dong_409 / 推进
+   我们正在推进这个项目。
+   lama: Women zhengzai tuijin zhe ge xiangmu.
+   baru: Wǒmen zhèngzài tuījìn zhè ge xiàngmù.
+[B2] b11_cheng_zhang_414 / 成长
+   孩子们的成长需要我们的关心。
+   lama: Haizi men de chengzhang xuyao women de guanxin.
+   baru: Háizi men de chéngzhǎng xūyào wǒmen de guānxīn.
+[B2] b11_cheng_zhang_414 / 生长
+   这些植物生长得很好。
+   lama: Zhe xie zhiwu shengzhang de hen hao.
+   baru: Zhè xiē zhíwù shēngzhǎng de hěn hǎo.
+[A] b11_jin_bu_415 / 进步
+   他的中文水平进步很快。
+   lama: Ta de Zhongwen shuiping jinbu hen kuai.
+   baru: Tā de Zhōngwén shuǐpíng jìnbù hěn kuài.
+[A] b11_jin_bu_415 / 进展
+   项目的进展很顺利。
+   lama: Xiangmu de jinzhan hen shunli.
+   baru: Xiàngmù de jìnzhǎn hěn shùnlì.
+[A] b11_you_shi_446 / 优势
+   他们有价格优势。
+   lama: Tamen you jiage youshi.
+   baru: Tāmen yǒu jiàgé yōushì.
+[A] b11_you_shi_446 / 优点
+   她有很多优点。
+   lama: Ta you hen duo youdian.
+   baru: Tā yǒu hěn duō yōudiǎn.
+[B1] b11_jian_chi_478 / 坚持
+   我会坚持每天学习中文。
+   lama: Wo hui jianchi meitian xuexi Zhongwen.
+   baru: Wǒ huì jiānchí měitiān xuéxí Zhōngwén.
+[A] b11_jian_chi_478 / 保持
+   请保持安静。
+   lama: Qing baochi anjing.
+   baru: Qǐng bǎochí ānjìng.
+[A] b11_xing_ge_482 / 性格
+   他的性格很开朗。
+   lama: Ta de xingge hen kailang.
+   baru: Tā de xìnggé hěn kāilǎng.
+[A] b11_xing_ge_482 / 个性
+   她是个很有个性的人。
+   lama: Ta shi ge hen you gexing de ren.
+   baru: Tā shì ge hěn yǒu gèxìng de rén.
+[A] b11_jie_jue_543 / 解决
+   我们需要解决这个问题。
+   lama: Women xuyao jiejue zhe ge wenti.
+   baru: Wǒmen xūyào jiějué zhè ge wèntí.
+[B2] b11_jie_jue_543 / 处理
+   他正在处理这个紧急情况。
+   lama: Ta zhengzai chuli zhe ge jinji qingkuang.
+   baru: Tā zhèngzài chǔlǐ zhè ge jǐnjí qíngkuàng.
+[A] b12_da_an_080 / 回答
+   请你回答这个问题。
+   lama: Qing ni huida zhe ge wenti.
+   baru: Qǐng nǐ huídá zhè ge wèntí.
+[A] b12_da_an_080 / 答案
+   我不知道答案。
+   lama: Wo bu zhidao da'an.
+   baru: Wǒ bù zhīdào dá'àn.
+[B2] b12_han_jia_216 / 寒假
+   寒假我要回家过年。
+   lama: Hanjia wo yao huijia guo nian.
+   baru: Hánjià wǒ yào huíjiā guò nián.
+[A] b12_han_jia_216 / 新年
+   祝大家新年快乐！
+   lama: Zhu dajia xinnian kuaile!
+   baru: Zhù dàjiā xīnnián kuàilè!
+[A] b12_dong_zhi_233 / 树
+   公园里有很多树。
+   lama: Gongyuan li you hen duo shu.
+   baru: Gōngyuán lǐ yǒu hěn duō shù.
+[A] b12_dong_zhi_233 / 植物
+   她喜欢养植物。
+   lama: Ta xihuan yang zhiwu.
+   baru: Tā xǐhuan yǎng zhíwù.
+[A] b12_chang_shi_248 / 常识
+   这是基本常识。
+   lama: Zhe shi jiben changshi.
+   baru: Zhè shì jīběn chángshí.
+[A] b12_chang_shi_248 / 知识
+   他拥有丰富的知识。
+   lama: Ta yongyou fengfu de zhishi.
+   baru: Tā yōngyǒu fēngfù de zhīshi.
+[B2] b12_di_zhi_485 / 地址
+   请告诉我你的地址。
+   lama: Qing gaosu wo ni de dizhi.
+   baru: Qǐng gàosu wǒ nǐ de dìzhǐ.
+[B2] b12_di_zhi_485 / 地点
+   我们在公园见面，地点你定吧。
+   lama: Women zai gongyuan jianmian, didian ni ding ba.
+   baru: Wǒmen zài gōngyuán jiànmiàn, dìdiǎn nǐ dìng ba.
+[A] b13_xin_xi_166 / 信息
+   请给我更多的信息。
+   lama: Qing gei wo geng duo de xinxi.
+   baru: Qǐng gěi wǒ gèng duō de xìnxī.
+[A] b13_xin_xi_166 / 资料
+   我需要一些学习资料。
+   lama: Wo xuyao yixie xuexi ziliao.
+   baru: Wǒ xūyào yìxiē xuéxí zīliào.
+[A] b13_chu_kou_186 / 出口
+   中国出口很多电子产品。
+   lama: Zhongguo chukou hen duo dianzi chanpin.
+   baru: Zhōngguó chūkǒu hěn duō diànzǐ chǎnpǐn.
+[A] b13_chu_kou_186 / 进口
+   这个国家进口石油。
+   lama: Zhe ge guojia jinkou shiyou.
+   baru: Zhè ge guójiā jìnkǒu shíyóu.
+[B1] b13_chun_tian_205 / 春天
+   春天来了，花开了。
+   lama: Chuntian lai le, hua kai le.
+   baru: Chūntiān lái le, huā kāi le.
+[B1] b13_chun_tian_205 / 春季
+   春季是旅游的好季节。
+   lama: Chunji shi luyou de hao jijie.
+   baru: Chūnjì shì lǚyóu de hǎo jìjié.
+[A] b13_dong_tian_206 / 冬天
+   冬天很冷。
+   lama: Dongtian hen leng.
+   baru: Dōngtiān hěn lěng.
+[B2] b13_dong_tian_206 / 冬季
+   冬季奥运会将在北京举行。
+   lama: Dongji Aoyunhui jiang zai Beijing juxing.
+   baru: Dōngjì Àoyùnhuì jiāng zài Běijīng jǔxíng.
+[A] b13_xia_tian_207 / 夏天
+   夏天我喜欢游泳。
+   lama: Xiatian wo xihuan youyong.
+   baru: Xiàtiān wǒ xǐhuan yóuyǒng.
+[A] b13_xia_tian_207 / 夏季
+   夏季是旅游旺季。
+   lama: Xiaji shi luyou wangji.
+   baru: Xiàjì shì lǚyóu wàngjì.
+[B1] b13_qiu_tian_208 / 秋天
+   秋天树叶变黄了。
+   lama: Qiutian shuye bian huang le.
+   baru: Qiūtiān shùyè biàn huáng le.
+[A] b13_qiu_tian_208 / 秋季
+   秋季是一年中最美的季节。
+   lama: Qiuji shi yi nian zhong zui mei de jijie.
+   baru: Qiūjì shì yì nián zhōng zuì měi de jìjié.
+[B2] b13_shu_jia_215 / 暑假
+   暑假我要去旅游。
+   lama: Shujia wo yao qu luyou.
+   baru: Shǔjià wǒ yào qù lǚyóu.
+[B2] b13_shu_jia_215 / 假期
+   假期你去哪里了？
+   lama: Jiaqi ni qu nali le?
+   baru: Jiàqī nǐ qù nǎlǐ le?
+[A] b13_he_237 / 河
+   这条河很宽。
+   lama: Zhe tiao he hen kuan.
+   baru: Zhè tiáo hé hěn kuān.
+[B2] b13_he_237 / 江
+   长江是中国最长的河流。
+   lama: Changjiang shi Zhongguo zui chang de heliu.
+   baru: ChángJiāng shì Zhōngguó zuì cháng de héliú.
+[B2] b13_li_xiang_244 / 理想
+   他的理想是当医生。
+   lama: Ta de lixiang shi dang yisheng.
+   baru: Tā de lǐxiǎng shì dāng yīshēng.
+[A] b13_li_xiang_244 / 梦想
+   她的梦想是环游世界。
+   lama: Ta de mengxiang shi huanyou shijie.
+   baru: Tā de mèngxiǎng shì huányóu shìjiè.
+[A] b13_dan_wei_371 / 单位
+   他在政府单位工作。
+   lama: Ta zai zhengfu danwei gongzuo.
+   baru: Tā zài zhèngfǔ dānwèi gōngzuò.
+[B2] b13_dan_wei_371 / 机构
+   这个机构负责教育管理。
+   lama: Zhe ge jigou fuze jiaoyu guanli.
+   baru: Zhè ge jīgòu fùzé jiàoyù guǎnlǐ.
+[A] b13_shou_ru_394 / 收入
+   他的月收入很高。
+   lama: Ta de yue shouru hen gao.
+   baru: Tā de yuè shōurù hěn gāo.
+[A] b13_shou_ru_394 / 收益
+   这项投资的收益不错。
+   lama: Zhe xiang touzi de shouyi bucuo.
+   baru: Zhè xiàng tóuzī de shōuyì bùcuò.
+[B2] b13_zheng_lun_436 / 争论
+   他们为这个问题争论了很久。
+   lama: Tamen wei zhe ge wenti zhenglun le hen jiu.
+   baru: Tāmen wèi zhè ge wèntí zhēnglùn le hěn jiǔ.
+[A] b13_zheng_lun_436 / 讨论
+   我们来讨论一下这个方案。
+   lama: Women lai taolun yixia zhe ge fangan.
+   baru: Wǒmen lái tǎolùn yíxià zhè ge fāngàn.
+[A] b13_gan_ren_438 / 感动
+   这部电影很感动我。
+   lama: Zhe bu dianying hen gandong wo.
+   baru: Zhè bù diànyǐng hěn gǎndòng wǒ.
+[B2] b13_gan_ren_438 / 激动
+   他很激动地告诉我这个好消息。
+   lama: Ta hen jidong de gaosu wo zhe ge hao xiaoxi.
+   baru: Tā hěn jīdòng de gàosu wǒ zhè ge hǎo xiāoxi.
+[B1] b13_gong_li_514 / 努力
+   他每天都努力学习中文。
+   lama: Ta meitian dou nuli xuexi Zhongwen.
+   baru: Tā měitiān dōu nǔlì xuéxí Zhōngwén.
+[B1] b13_gong_li_514 / 尽力
+   我会尽力帮你的。
+   lama: Wo hui jinli bang ni de.
+   baru: Wǒ huì jìnlì bāng nǐ de.
+[B2] b13_zhao_xiang_623 / 照相
+   我们去照相馆拍证件照。
+   lama: Women qu zhaoxiangguan pai zhengjianzhao.
+   baru: Wǒmen qù zhàoxiàngguǎn pāi zhèngjiànzhào.
+[A] b13_zhao_xiang_623 / 拍照
+   他在公园拍照。
+   lama: Ta zai gongyuan paizhao.
+   baru: Tā zài gōngyuán pāizhào.
+[B1] b14_wei_lai_157 / 未来
+   未来科技会越来越发达。
+   lama: Weilai keji hui yuelaiyue fada.
+   baru: Wèilái kējì huì yuèláiyuè fādá.
+[B2] b14_wei_lai_157 / 将来
+   将来我想当医生。
+   lama: Jianglai wo xiang dang yisheng.
+   baru: Jiānglái wǒ xiǎng dāng yīshēng.
+[A] b14_shang_pin_187 / 商品
+   这家店有很多商品。
+   lama: Zhe jia dian you hen duo shangpin.
+   baru: Zhè jiā diàn yǒu hěn duō shāngpǐn.
+[B1] b14_shang_pin_187 / 产品
+   他们的产品质量很好。
+   lama: Tamen de chanpin zhiliang hen hao.
+   baru: Tāmen de chǎnpǐn zhìliàng hěn hǎo.
+[A] b14_shou_huo_272 / 收获
+   这次旅行我有很多收获。
+   lama: Zhe ci luxing wo you hen duo shouhuo.
+   baru: Zhè cì lǚxíng wǒ yǒu hěn duō shōuhuò.
+[A] b14_shou_huo_272 / 成果
+   这项研究的成果非常显著。
+   lama: Zhe xiang yanjiu de chengguo feichang xianzhu.
+   baru: Zhè xiàng yánjiū de chéngguǒ fēicháng xiǎnzhù.
+[A] b14_jie_yue_290 / 节约
+   我们要节约用水。
+   lama: Women yao jieyue yong shui.
+   baru: Wǒmen yào jiéyuē yòng shuǐ.
+[B2] b14_jie_yue_290 / 节省
+   坐地铁可以节省时间。
+   lama: Zuo ditie keyi jiesheng shijian.
+   baru: Zuò dìtiě kěyǐ jiéshěng shíjiān.
+[A] b14_feng_fu_291 / 丰富
+   中国的文化很丰富。
+   lama: Zhongguo de wenhua hen fengfu.
+   baru: Zhōngguó de wénhuà hěn fēngfù.
+[A] b14_feng_fu_291 / 充分
+   我们有充分的时间做准备。
+   lama: Women you chongfen de shijian zuo zhunbei.
+   baru: Wǒmen yǒu chōngfèn de shíjiān zuò zhǔnbèi.
+[B1] b14_li_yong_309 / 利用
+   我们要好好利用这个机会。
+   lama: Women yao haohao liyong zhe ge jihui.
+   baru: Wǒmen yào hǎohǎo lìyòng zhè ge jīhuì.
+[A] b14_li_yong_309 / 运用
+   他善于运用自己的知识。
+   lama: Ta shanyu yunyong ziji de zhishi.
+   baru: Tā shànyú yùnyòng zìjǐ de zhīshi.
+[A] b14_yun_dong_yuan_347 / 运动员
+   他是一名优秀的运动员。
+   lama: Ta shi yi ming youxiu de yundongyuan.
+   baru: Tā shì yì míng yōuxiù de yùndòngyuán.
+[B1] b14_yun_dong_yuan_347 / 选手
+   所有选手都已经准备好了。
+   lama: Suoyou xuanshou dou yijing zhunbei hao le.
+   baru: Suǒyǒu xuǎnshǒu dōu yǐjīng zhǔnbèi hǎo le.
+[A] b14_cai_fang_388 / 采访
+   记者正在采访那位运动员。
+   lama: Jizhe zhengzai caifang na wei yundongyuan.
+   baru: Jìzhě zhèngzài cǎifǎng nà wèi yùndòngyuán.
+[A] b14_cai_fang_388 / 访问
+   总统正在访问这个国家。
+   lama: Zongtong zhengzai fangwen zhe ge guojia.
+   baru: Zǒngtǒng zhèngzài fǎngwèn zhè ge guójiā.
+[B1] b14_tiao_zhan_402 / 挑战
+   这是一个很好的挑战。
+   lama: Zhe shi yi ge hen hao de tiaozhan.
+   baru: Zhè shì yí ge hěn hǎo de tiǎozhàn.
+[B2] b14_tiao_zhan_402 / 困难
+   他遇到了很多困难。
+   lama: Ta yudao le hen duo kunnan.
+   baru: Tā yùdào le hěn duō kùnnan.
+[A] b14_xing_shi_442 / 形式
+   这是一部新的电影形式。
+   lama: Zhe shi yi bu xin de dianying xingshi.
+   baru: Zhè shì yí bù xīn de diànyǐng xíngshì.
+[B1] b14_xing_shi_442 / 形势
+   当前的经济形势很好。
+   lama: Dangqian de jingji xingshi hen hao.
+   baru: Dāngqián de jīngjì xíngshì hěn hǎo.
+[B1] b14_ji_shi_449 / 及时
+   他及时赶到了火车站。
+   lama: Ta jishi gandao le huoche zhan.
+   baru: Tā jíshí gǎndào le huǒchē zhàn.
+[A] b14_ji_shi_449 / 按时
+   他每天按时上班。
+   lama: Ta meitian anshi shangban.
+   baru: Tā měitiān ànshí shàngbān.
+[B1] b14_zao_cheng_452 / 造成
+   这场雨造成了交通堵塞。
+   lama: Zhe chang yu zaocheng le jiaotong duse.
+   baru: Zhè chǎng yǔ zàochéng le jiāotōng dǔsè.
+[B1] b14_zao_cheng_452 / 导致
+   懒惰导致了他的失败。
+   lama: Landuo daozhi le ta de shibai.
+   baru: Lǎnduò dǎozhì le tā de shībài.
+[B2] b14_yi_wu_460 / 义务
+   教育是国家义务。
+   lama: Jiaoyu shi guojia yiwu.
+   baru: Jiàoyù shì guójiā yìwù.
+[A] b14_yi_wu_460 / 责任
+   我们有责任帮助他人。
+   lama: Women you zeren bangzhu taren.
+   baru: Wǒmen yǒu zérèn bāngzhù tārén.
+[B1] b14_jing_shen_479 / 精神
+   他的精神状态很好。
+   lama: Ta de jingshen zhuangtai hen hao.
+   baru: Tā de jīngshén zhuàngtài hěn hǎo.
+[A] b14_jing_shen_479 / 精力
+   他每天精力充沛。
+   lama: Ta meitian jingli chongpei.
+   baru: Tā měitiān jīnglì chōngpèi.
+[A] b14_fu_ze_508 / 负责
+   他负责这个项目。
+   lama: Ta fuze zhe ge xiangmu.
+   baru: Tā fùzé zhè ge xiàngmù.
+[A] b14_fu_ze_508 / 负担
+   医疗费用是他很大的负担。
+   lama: Yiliao feiyong shi ta hen da de fudan.
+   baru: Yīliáo fèiyòng shì tā hěn dà de fùdān.
+[A] b14_jian_gu_535 / 坚固
+   这座城堡非常坚固。
+   lama: Zhe zuo chengbao feichang jiangu.
+   baru: Zhè zuò chéngbǎo fēicháng jiāngù.
+[A] b14_jian_gu_535 / 坚强
+   她是一个很坚强的人。
+   lama: Ta shi yi ge hen jianqiang de ren.
+   baru: Tā shì yí ge hěn jiānqiáng de rén.
+[B1] b14_pei_yang_559 / 培养
+   父母要培养孩子的好习惯。
+   lama: Fumu yao peiyang haizi de hao xiguan.
+   baru: Fùmǔ yào péiyǎng háizi de hǎo xíguàn.
+[A] b14_pei_yang_559 / 训练
+   他每天训练两个小时。
+   lama: Ta meitian xunlian liang ge xiaoshi.
+   baru: Tā měitiān xùnliàn liǎng ge xiǎoshí.
+[B2] b15_zhao_ji_571 / 着急
+   他找不到车钥匙，很着急。
+   lama: Ta zhaobudao che yaoshi, hen zhaoji.
+   baru: Tā zhǎobudào chē yàoshi, hěn zháojí.
+[A] b15_zhao_ji_571 / 紧张
+   他考试前很紧张。
+   lama: Ta kaoshi qian hen jinzhang.
+   baru: Tā kǎoshì qián hěn jǐnzhāng.
+[B1] b15_jiao_huan_585 / 交换
+   我们交换了礼物。
+   lama: Women jiaohuan le liwu.
+   baru: Wǒmen jiāohuàn le lǐwù.
+[A] b15_jiao_huan_585 / 交流
+   中外学生交流活动很受欢迎。
+   lama: Zhongwai xuesheng jiaoliu huodong hen shou huanying.
+   baru: Zhōngwài xuésheng jiāoliú huódòng hěn shòu huānyíng.
+[B1] b15_fen_pei_596 / 分配
+   老师分配了任务。
+   lama: Laoshi fenpei le renwu.
+   baru: Lǎoshī fēnpèi le rènwu.
+[B2] b15_fen_pei_596 / 分布
+   这个物种分布很广。
+   lama: Zhe ge wuzhong fenbu hen guang.
+   baru: Zhè ge wùzhǒng fēnbù hěn guǎng.
+[B1] b16_li_fa_203 / 律师
+   他请了一位律师。
+   lama: Ta qing le yi wei lvshi.
+   baru: Tā qǐng le yí wèi lǜshī.
+[B1] b16_li_fa_203 / 法官
+   法官宣布了判决。
+   lama: Faguan xuanbu le panjue.
+   baru: Fǎguān xuānbù le pànjué.
+[A] b16_yuan_ze_256 / 原则
+   他有自己的原则。
+   lama: Ta you ziji de yuanze.
+   baru: Tā yǒu zìjǐ de yuánzé.
+[A] b16_yuan_ze_256 / 规则
+   你必须遵守比赛规则。
+   lama: Ni bixu zunshou bisai guize.
+   baru: Nǐ bìxū zūnshǒu bǐsài guīzé.
+[A] b16_ti_gong_268 / 提供
+   酒店提供免费早餐。
+   lama: Jiudian tigong mianfei zaocan.
+   baru: Jiǔdiàn tígōng miǎnfèi zǎocān.
+[B2] b16_ti_gong_268 / 供应
+   这个超市供应新鲜水果。
+   lama: Zhe ge chaoshi gongying xinxian shuiguo.
+   baru: Zhè ge chāoshì gōngyìng xīnxiān shuǐguǒ.
+[B1] b16_tou_ru_305 / 投入
+   他投入了很多时间学习中文。
+   lama: Ta touru le hen duo shijian xuexi Zhongwen.
+   baru: Tā tóurù le hěn duō shíjiān xuéxí Zhōngwén.
+[B2] b16_tou_ru_305 / 投资
+   他在房地产市场投资。
+   lama: Ta zai fangdi chan shichang touzi.
+   baru: Tā zài fángdì chǎn shìchǎng tóuzī.
+[B2] b16_cai_liao_313 / 材料
+   这个材料很结实。
+   lama: Zhe ge cailiao hen jieshi.
+   baru: Zhè ge cáiliào hěn jiēshi.
+[A] b16_cai_liao_313 / 原料
+   这家工厂从国外进口原料。
+   lama: Zhe jia gongchang cong guowai jinkou yuanliao.
+   baru: Zhè jiā gōngchǎng cóng guówài jìnkǒu yuánliào.
+[B1] b16_zhi_liang_315 / 质量
+   这个手机的质量很好。
+   lama: Zhe ge shouji de zhiliang hen hao.
+   baru: Zhè ge shǒujī de zhìliàng hěn hǎo.
+[A] b16_zhi_liang_315 / 品质
+   他具有优秀的品质。
+   lama: Ta juyou youxiu de pinzhi.
+   baru: Tā jùyǒu yōuxiù de pǐnzhì.
+[A] b16_yi_jiang_435 / 演讲
+   他正在准备明天的演讲。
+   lama: Ta zhengzai zhunbei mingtian de yanjiang.
+   baru: Tā zhèngzài zhǔnbèi míngtiān de yǎnjiǎng.
+[B1] b16_yi_jiang_435 / 讲座
+   我们参加了一个关于历史的讲座。
+   lama: Women canjia le yi ge guanyu lishi de jiangzuo.
+   baru: Wǒmen cānjiā le yí ge guānyú lìshǐ de jiǎngzuò.
+[A] b16_liang_hao_475 / 良好
+   他的身体状况良好。
+   lama: Ta de shenti zhuangkuang lianghao.
+   baru: Tā de shēntǐ zhuàngkuàng liánghǎo.
+[A] b16_liang_hao_475 / 优良
+   这家公司的产品质量优良。
+   lama: Zhe jia gongsi de chanpin zhiliang youliang.
+   baru: Zhè jiā gōngsī de chǎnpǐn zhìliàng yōuliáng.
+[B1] b16_kao_lv_578 / 考虑
+   我会考虑你的建议。
+   lama: Wo hui kaolv ni de jianyi.
+   baru: Wǒ huì kǎolǜ nǐ de jiànyì.
+[A] b16_kao_lv_578 / 思考
+   他在思考人生的意义。
+   lama: Ta zai sikao rensheng de yiyi.
+   baru: Tā zài sīkǎo rénshēng de yìyì.
+[A] b17_fan_dian_108 / 饭
+   我在吃饭。
+   lama: Wo zai chi fan.
+   baru: Wǒ zài chī fàn.
+[A] b17_fan_dian_108 / 餐厅
+   我们去餐厅吃饭吧。
+   lama: Women qu canting chi fan ba.
+   baru: Wǒmen qù cāntīng chī fàn ba.
+[B2] b17_shu_guo_147 / 水果
+   苹果是一种水果。
+   lama: Pingguo shi yi zhong shuiguo.
+   baru: Píngguǒ shì yì zhǒng shuǐguǒ.
+[B2] b17_shu_guo_147 / 蔬菜
+   菠菜是一种蔬菜。
+   lama: Bocai shi yi zhong shucai.
+   baru: Bōcài shì yì zhǒng shūcài.
+[A] b17_yin_liao_178 / 饮料
+   你想喝什么饮料？
+   lama: Ni xiang he shenme yinliao?
+   baru: Nǐ xiǎng hē shénme yǐnliào?
+[A] b17_yin_liao_178 / 水
+   我只要一杯水。
+   lama: Wo zhi yao yi bei shui.
+   baru: Wǒ zhǐ yào yì bēi shuǐ.
+[A] b17_zhun_bei_224 / 准备
+   我在准备考试。
+   lama: Wo zai zhunbei kaoshi.
+   baru: Wǒ zài zhǔnbèi kǎoshì.
+[B2] b17_zhun_bei_224 / 预备
+   预备会议将在下周举行。
+   lama: Yubei huiyi jiang zai xia zhou juxing.
+   baru: Yùbèi huìyì jiāng zài xià zhōu jǔxíng.
+[A] b17_hui_jia_565 / 回家
+   他每天晚上六点回家。
+   lama: Ta meitian wanshang liu dian huijia.
+   baru: Tā měitiān wǎnshang liù diǎn huíjiā.
+[B2] b17_hui_jia_565 / 返回
+   代表团明天将返回北京。
+   lama: Daibiao tuan mingtian jiang fanhui Beijing.
+   baru: Dàibiǎo tuán míngtiān jiāng fǎnhuí Běijīng.
+[B2] b17_yin_yue_145 / 音乐
+   我喜欢听音乐。
+   lama: Wo xihuan ting yinyue.
+   baru: Wǒ xǐhuan tīng yīnyuè.
+[A] b17_yin_yue_145 / 歌曲
+   这首歌很好听。
+   lama: Zhe shou ge hen haoting.
+   baru: Zhè shǒu gē hěn hǎotīng.
+[B1] b17_kuai_zi_184 / 筷子
+   我会用筷子吃饭。
+   lama: Wo hui yong kuaizi chi fan.
+   baru: Wǒ huì yòng kuàizi chī fàn.
+[A] b17_kuai_zi_184 / 叉子
+   他用叉子吃意大利面。
+   lama: Ta yong chazi chi Yidali mian.
+   baru: Tā yòng chāzi chī Yìdàlì miàn.
+[A] b17_ke_hu_338 / 客户
+   我们要满足客户的需求。
+   lama: Women yao manzu kehu de xuqiu.
+   baru: Wǒmen yào mǎnzú kèhù de xūqiú.
+[A] b17_ke_hu_338 / 顾客
+   这家店的顾客很多。
+   lama: Zhe jia dian de guke hen duo.
+   baru: Zhè jiā diàn de gùkè hěn duō.
+[A] b17_gong_yun_506 / 公平
+   比赛要公平公正。
+   lama: Bisai yao gongping gongzheng.
+   baru: Bǐsài yào gōngpíng gōngzhèng.
+[A] b17_gong_yun_506 / 公正
+   法院应该做出公正的判决。
+   lama: Fayuan yinggai zuochu gongzheng de panjue.
+   baru: Fǎyuàn yīnggāi zuòchū gōngzhèng de pànjué.
+[A] b17_bi_sai_144 / 比赛
+   我们去看足球比赛。
+   lama: Women qu kan zuqiu bisai.
+   baru: Wǒmen qù kàn zúqiú bǐsài.
+[B1] b17_bi_sai_144 / 竞赛
+   他参加了全国数学竞赛。
+   lama: Ta canjia le quanguo shuxue jingsai.
+   baru: Tā cānjiā le quánguó shùxué jìngsài.
+[A] b17_she_hui_153 / 社会
+   社会在不断变化。
+   lama: Shehui zai buduan bianhua.
+   baru: Shèhuì zài bùduàn biànhuà.
+[A] b17_she_hui_153 / 社区
+   我们社区很安全。
+   lama: Women shequ hen anquan.
+   baru: Wǒmen shèqū hěn ānquán.
+[A] b17_ge_ren_361 / 个人
+   这只是我个人的意见。
+   lama: Zhe zhi shi wo geren de yijian.
+   baru: Zhè zhǐ shì wǒ gèrén de yìjiàn.
+[A] b17_ge_ren_361 / 私人
+   这是他的私人问题。
+   lama: Zhe shi ta de siren wenti.
+   baru: Zhè shì tā de sīrén wèntí.
+[B1] b18_ji_jin_381 / 基金
+   他投资了一个科技基金。
+   lama: Ta touzi le yi ge keji jijin.
+   baru: Tā tóuzī le yí ge kējì jījīn.
+[A] b18_ji_jin_381 / 资金
+   这个项目需要大量资金。
+   lama: Zhe ge xiangmu xuyao daliang zijin.
+   baru: Zhè ge xiàngmù xūyào dàliàng zījīn.
+[B1] b18_ti_li_399 / 体力
+   他花了很多体力完成这项工作。
+   lama: Ta hua le hen duo tili wancheng zhe xiang gongzuo.
+   baru: Tā huā le hěn duō tǐlì wánchéng zhè xiàng gōngzuò.
+[B2] b18_ti_li_399 / 力量
+   他很有力量。
+   lama: Ta hen you liliang.
+   baru: Tā hěn yǒu lìliàng.
+[A] b18_mu_qian_443 / 目前
+   我目前住在上海。
+   lama: Wo muqian zhu zai Shanghai.
+   baru: Wǒ mùqián zhù zài Shànghǎi.
+[A] b18_mu_qian_443 / 当前
+   当前最重要的是提高质量。
+   lama: Dangqian zui zhongyao de shi tigao zhiliang.
+   baru: Dāngqián zuì zhòngyào de shì tígāo zhìliàng.
+[B1] b18_da_cheng_454 / 达成
+   双方终于达成了协议。
+   lama: Shuangfang zhongyu dacheng le xieyi.
+   baru: Shuāngfāng zhōngyú dáchéng le xiéyì.
+[B1] b18_da_cheng_454 / 达到
+   他的中文水平已经达到高级了。
+   lama: Ta de Zhongwen shuiping yijing dadao gaoji le.
+   baru: Tā de Zhōngwén shuǐpíng yǐjīng dádào gāojí le.
+[A] b18_tui_xing_455 / 推行
+   政府正在推行新政策。
+   lama: Zhengfu zhengzai tuixing xin zhengce.
+   baru: Zhèngfǔ zhèngzài tuīxíng xīn zhèngcè.
+[A] b18_tui_xing_455 / 实行
+   他们决定实行新的管理制度。
+   lama: Tamen jueding shixing xin de guanli zhidu.
+   baru: Tāmen juédìng shíxíng xīn de guǎnlǐ zhìdù.
+[B1] b18_jiao_yi_505 / 交易
+   他们完成了一笔大交易。
+   lama: Tamen wancheng le yi bi da jiaoyi.
+   baru: Tāmen wánchéng le yì bǐ dà jiāoyì.
+[A] b18_jiao_yi_505 / 贸易
+   中美贸易关系很重要。
+   lama: Zhong-Mei maoyi guanxi hen zhongyao.
+   baru: Zhōng-Měi màoyì guānxi hěn zhòngyào.
+[B1] b18_zhao_shi_528 / 方式
+   他改变了生活方式。
+   lama: Ta gaibian le shenghuo fangshi.
+   baru: Tā gǎibiàn le shēnghuó fāngshì.
+[B1] b18_zhao_shi_528 / 手段
+   他用了不正当的手段。
+   lama: Ta yong le buzhengdang de shouduan.
+   baru: Tā yòng le bùzhèngdāng de shǒuduàn.
+[A] b18_zhi_yuan_533 / 自愿
+   他是自愿来帮忙的。
+   lama: Ta shi ziyuan lai bangmang de.
+   baru: Tā shì zìyuàn lái bāngmáng de.
+[B1] b18_zhi_yuan_533 / 志愿
+   他填写了大学志愿。
+   lama: Ta tianxie le daxue zhiyuan.
+   baru: Tā tiánxiě le dàxué zhìyuàn.
+[A] b18_yu_ji_552 / 预计
+   我们预计明天下午到达。
+   lama: Women yuji mingtian xiawu daoda.
+   baru: Wǒmen yùjì míngtiān xiàwǔ dàodá.
+[A] b18_yu_ji_552 / 预期
+   结果没有达到预期。
+   lama: Jieguo meiyou dadao yuqi.
+   baru: Jiéguǒ méiyǒu dádào yùqī.
+[A] b18_shu_liang_592 / 数量
+   这次生产的数量很多。
+   lama: Zhe ci shengchan de shuliang hen duo.
+   baru: Zhè cì shēngchǎn de shùliàng hěn duō.
+[B2] b18_shu_liang_592 / 数目
+   准确数目还不确定。
+   lama: Zhunque shumu hai bu queding.
+   baru: Zhǔnquè shùmù hái bù quèdìng.
+[A] b18_ji_zhi_598 / 机制
+   我们要完善市场机制。
+   lama: Women yao wanshan shichang jizhi.
+   baru: Wǒmen yào wánshàn shìchǎng jīzhì.
+[B2] b18_ji_zhi_598 / 制度
+   教育制度需要改革。
+   lama: Jiaoyu zhidu xuyao gaige.
+   baru: Jiàoyù zhìdù xūyào gǎigé.
+[A] b18_ping_gu_602 / 评估
+   公司正在进行风险评估。
+   lama: Gongsi zhengzai jinxing fengxian pinggu.
+   baru: Gōngsī zhèngzài jìnxíng fēngxiǎn pínggū.
+[A] b18_ping_gu_602 / 评价
+   观众对这部电影的评价很高。
+   lama: Guanzhong dui zhe bu dianying de pingjia hen gao.
+   baru: Guānzhòng duì zhè bù diànyǐng de píngjià hěn gāo.
+[B2] b19_jiang_li_314 / 奖励
+   他得到了老师的奖励。
+   lama: Ta dedao le laoshi de jiangli.
+   baru: Tā dédào le lǎoshī de jiǎnglì.
+[B1] b19_jiang_li_314 / 奖金
+   他今年拿到了很多奖金。
+   lama: Ta jinnian na dao le hen duo jiangjin.
+   baru: Tā jīnnián ná dào le hěn duō jiǎngjīn.
+[B1] b19_mi_shu_342 / 秘书
+   秘书帮我安排了会议。
+   lama: Mishu bang wo anpai le huiyi.
+   baru: Mìshū bāng wǒ ānpái le huìyì.
+[A] b19_mi_shu_342 / 助理
+   他是经理的助理。
+   lama: Ta shi jingli de zhuli.
+   baru: Tā shì jīnglǐ de zhùlǐ.
+[A] b19_cai_chan_392 / 财产
+   这是我的私人财产。
+   lama: Zhe shi wo de siren caichan.
+   baru: Zhè shì wǒ de sīrén cáichǎn.
+[A] b19_cai_chan_392 / 资产
+   这家公司的资产很多。
+   lama: Zhe jia gongsi de zichan hen duo.
+   baru: Zhè jiā gōngsī de zīchǎn hěn duō.
+[A] b19_dui_li_464 / 对立
+   他们对这个问题持对立观点。
+   lama: Tamen dui zhe ge wenti chi duili guandian.
+   baru: Tāmen duì zhè ge wèntí chí duìlì guāndiǎn.
+[A] b19_dui_li_464 / 针对
+   这是专门针对新手设计的课程。
+   lama: Zhe shi zhuanmen zhendui xinshou sheji de kecheng.
+   baru: Zhè shì zhuānmén zhēnduì xīnshǒu shèjì de kèchéng.
+[A] b19_cheng_xu_491 / 程序
+   他在编写一个新的程序。
+   lama: Ta zai bianxie yi ge xin de chengxu.
+   baru: Tā zài biānxiě yí ge xīn de chéngxù.
+[B1] b19_cheng_xu_491 / 软件
+   我下载了一个新的软件。
+   lama: Wo xiazai le yi ge xin de ruanjian.
+   baru: Wǒ xiàzǎi le yí ge xīn de ruǎnjiàn.
+[B1] b19_ti_shi_496 / 提示
+   电脑上出现了一个提示。
+   lama: Diannao shang chuxian le yi ge tishi.
+   baru: Diànnǎo shàng chūxiàn le yí ge tíshì.
+[A] b19_ti_shi_496 / 提醒
+   请提醒我明天开会。
+   lama: Qing tixing wo mingtian kaihui.
+   baru: Qǐng tíxǐng wǒ míngtiān kāihuì.
+[B1] b19_fu_li_589 / 福利
+   这家公司的福利很好。
+   lama: Zhe jia gongsi de fuli hen hao.
+   baru: Zhè jiā gōngsī de fúlì hěn hǎo.
+[A] b19_fu_li_589 / 利益
+   我们要保护自己的利益。
+   lama: Women yao baohu ziji de liyi.
+   baru: Wǒmen yào bǎohù zìjǐ de lìyì.
+[B1] b19_zhu_ce_618 / 注册
+   他注册了一个新账号。
+   lama: Ta zhuce le yi ge xin zhanghao.
+   baru: Tā zhùcè le yí ge xīn zhànghào.
+[A] b19_zhu_ce_618 / 登记
+   请在柜台登记入住。
+   lama: Qing zai guitai dengji ruzhu.
+   baru: Qǐng zài guìtái dēngjì rùzhù.
+[A] b19_ren_jian_419 / 人间
+   这里就像人间天堂。
+   lama: Zheli jiu xiang renjian tiantang.
+   baru: Zhèlǐ jiù xiàng rénjiān tiāntáng.
+[A] b19_ren_jian_419 / 世界
+   他环游世界。
+   lama: Ta huanyou shijie.
+   baru: Tā huányóu shìjiè.
+[A] b19_zhan_shi_512 / 展示
+   他在展示他的新作品。
+   lama: Ta zai zhanshi ta de xin zuopin.
+   baru: Tā zài zhǎnshì tā de xīn zuòpǐn.
+[A] b19_zhan_shi_512 / 展览
+   我们去看一个现代艺术展览。
+   lama: Women qu kan yi ge xiandai yishu zhanlan.
+   baru: Wǒmen qù kàn yí ge xiàndài yìshù zhǎnlǎn.
+[A] b20_yi_qi_129 / 一起
+   我们一起去吧。
+   lama: Women yiqi qu ba.
+   baru: Wǒmen yìqǐ qù ba.
+[B2] b20_yi_qi_129 / 一同
+   他们将一同出席本次会议。
+   lama: Tamen jiang yitong chuxi ben ci huiyi.
+   baru: Tāmen jiāng yìtóng chūxí běn cì huìyì.
+[B2] b20_dong_wu_148 / 动物
+   狮子是一种动物。
+   lama: Shizi shi yi zhong dongwu.
+   baru: Shīzi shì yì zhǒng dòngwù.
+[B2] b20_dong_wu_148 / 宠物
+   我养了一只宠物狗。
+   lama: Wo yang le yi zhi chongwu gou.
+   baru: Wǒ yǎng le yì zhǐ chǒngwù gǒu.
+[B2] b20_yin_hang_217 / 银行
+   我去银行取钱。
+   lama: Wo qu yinhang qu qian.
+   baru: Wǒ qù yínháng qǔ qián.
+[B1] b20_yin_hang_217 / 账户
+   我的账户里没有钱了。
+   lama: Wo de zhanghu li meiyou qian le.
+   baru: Wǒ de zhànghù lǐ méiyǒu qián le.
+[A] b20_wang_ye_494 / 网页
+   这个网页打不开。
+   lama: Zhe ge wangye da bu kai.
+   baru: Zhè ge wǎngyè dǎ bù kāi.
+[A] b20_wang_ye_494 / 网站
+   这是京东的官方网站。
+   lama: Zhe shi Jingdong de guanfang wangzhan.
+   baru: Zhè shì Jīngdōng de guānfāng wǎngzhàn.
+[A] b20_cha_630 / 检查
+   医生正在检查病人。
+   lama: Yisheng zhengzai jiancha bingren.
+   baru: Yīshēng zhèngzài jiǎnchá bìngrén.
+[A] b20_cha_630 / 查看
+   他在查看手机消息。
+   lama: Ta zai chakan shouji xiaoxi.
+   baru: Tā zài chákàn shǒujī xiāoxi.
+[A] b21_tang_183 / 汤
+   我喜欢喝鸡汤。
+   lama: Wo xihuan he jitang.
+   baru: Wǒ xǐhuan hē jītāng.
+[A] b21_tang_183 / 粥
+   早上我喝粥。
+   lama: Zaoshang wo he zhou.
+   baru: Zǎoshang wǒ hē zhōu.
+[A] b21_ling_dao_336 / 领导
+   他是我们公司的领导。
+   lama: Ta shi women gongsi de lingdao.
+   baru: Tā shì wǒmen gōngsī de lǐngdǎo.
+[A] b21_ling_dao_336 / 领袖
+   他是伟大的革命领袖。
+   lama: Ta shi weida de geming lingxiu.
+   baru: Tā shì wěidà de gémìng lǐngxiù.
+[A] b21_jia_qiang_408 / 加强
+   我们需要加强团队合作。
+   lama: Women xuyao jiaqiang tuandui hezuo.
+   baru: Wǒmen xūyào jiāqiáng tuánduì hézuò.
+[A] b21_jia_qiang_408 / 强化
+   他需要强化英语学习。
+   lama: Ta xuyao qianghua Yingyu xuexi.
+   baru: Tā xūyào qiánghuà Yīngyǔ xuéxí.
+[A] b21_qing_gan_481 / 情感
+   情感是人类重要的部分。
+   lama: Qinggan shi renlei zhongyao de bufen.
+   baru: Qínggǎn shì rénlèi zhòngyào de bùfen.
+[B1] b21_qing_gan_481 / 情绪
+   他今天情绪不太好。
+   lama: Ta jintian qingxu bu tai hao.
+   baru: Tā jīntiān qíngxù bù tài hǎo.
+[A] b21_chuang_yi_510 / 创意
+   这个广告很有创意。
+   lama: Zhe ge guanggao hen you chuangyi.
+   baru: Zhè ge guǎnggào hěn yǒu chuàngyì.
+[A] b21_chuang_yi_510 / 创作
+   他在创作一首新歌。
+   lama: Ta zai chuangzuo yi shou xin ge.
+   baru: Tā zài chuàngzuò yì shǒu xīn gē.
+[A] b21_dao_da_562 / 到达
+   他下午三点到达北京。
+   lama: Ta xiawu san dian daoda Beijing.
+   baru: Tā xiàwǔ sān diǎn dàodá Běijīng.
+[A] b21_dao_da_562 / 抵达
+   代表团已经抵达机场。
+   lama: Daibiao tuan yijing dida jichang.
+   baru: Dàibiǎo tuán yǐjīng dǐdá jīchǎng.
+[B1] b21_que_dian_593 / 缺点
+   每个人都有缺点。
+   lama: Mei ge ren dou you quedian.
+   baru: Měi ge rén dōu yǒu quēdiǎn.
+[A] b21_que_dian_593 / 缺陷
+   这个产品有设计缺陷。
+   lama: Zhe ge chanpin you sheji quexian.
+   baru: Zhè ge chǎnpǐn yǒu shèjì quēxiàn.
+[B2] b21_gong_zi_615 / 工资
+   他每个月发工资后都会存钱。
+   lama: Ta mei ge yue fa gongzi hou dou hui cun qian.
+   baru: Tā měi ge yuè fā gōngzī hòu dōu huì cún qián.
+[A] b21_gong_zi_615 / 薪水
+   他的薪水很高。
+   lama: Ta de xinshui hen gao.
+   baru: Tā de xīnshuǐ hěn gāo.
+[B1] b21_ji_jie_209 / 季节
+   雨季到了。
+   lama: Yuji dao le.
+   baru: Yǔjì dào le.
+[A] b21_ji_jie_209 / 时期
+   这是一个重要的历史时期。
+   lama: Zhe shi yi ge zhongyao de lishi shiqi.
+   baru: Zhè shì yí ge zhòngyào de lìshǐ shíqī.
+[B2] b21_dui_fu_311 / 对付
+   他很难对付。
+   lama: Ta hen nan duifu.
+   baru: Tā hěn nán duìfu.
+[B2] b21_dui_fu_311 / 应对
+   公司需要制定应对危机的策略。
+   lama: Gongsi xuyao zhiding yingdui weiji de celue.
+   baru: Gōngsī xūyào zhìdìng yìngduì wēijī de cèlüè.
+[B1] b21_quan_li_459 / 权利
+   每个人都有权利表达意见。
+   lama: Mei ge ren dou you quanli biaoda yijian.
+   baru: Měi ge rén dōu yǒu quánlì biǎodá yìjiàn.
+[A] b21_quan_li_459 / 权力
+   他在公司有很大的权力。
+   lama: Ta zai gongsi you hen da de quanli.
+   baru: Tā zài gōngsī yǒu hěn dà de quánlì.
+[B1] b22_jiao_ao_525 / 骄傲
+   他因为成绩好而感到骄傲。
+   lama: Ta yinwei chengji hao er gandao jiaoao.
+   baru: Tā yīnwèi chéngjì hǎo ér gǎndào jiāoào.
+[B2] b22_jiao_ao_525 / 自豪
+   我为我的国家感到自豪。
+   lama: Wo wei wo de guojia gandao zihao.
+   baru: Wǒ wèi wǒ de guójiā gǎndào zìháo.
+[A] b22_cong_ming_536 / 聪明
+   他是一个很聪明的学生。
+   lama: Ta shi yi ge hen congming de xuesheng.
+   baru: Tā shì yí ge hěn cōngming de xuésheng.
+[B1] b22_cong_ming_536 / 智慧
+   他用智慧解决了这个问题。
+   lama: Ta yong zhihui jiejue le zhe ge wenti.
+   baru: Tā yòng zhìhuì jiějué le zhè ge wèntí.
+[A] b22_cheng_shi_351 / 城镇
+   这个城镇不大，但很安静。
+   lama: Zhe ge chengzhen bu da, dan hen anjing.
+   baru: Zhè ge chéngzhèn bù dà, dàn hěn ānjìng.
+[A] b22_cheng_shi_351 / 村庄
+   这个村庄只有一百多人。
+   lama: Zhe ge cunzhuang zhi you yibai duo ren.
+   baru: Zhè ge cūnzhuāng zhǐ yǒu yìbǎi duō rén.
+[A] b22_xi_bao_422 / 细胞
+   人体由亿万个细胞组成。
+   lama: Renti you yiwan ge xibao zucheng.
+   baru: Réntǐ yóu yìwàn ge xìbāo zǔchéng.
+[A] b22_xi_bao_422 / 细菌
+   手上的细菌很多。
+   lama: Shou shang de xijun hen duo.
+   baru: Shǒu shàng de xìjūn hěn duō.
+[A] b23_guan_zhao_366 / 关照
+   谢谢你的关照。
+   lama: Xiexie ni de guanzhao.
+   baru: Xièxie nǐ de guānzhào.
+[A] b23_guan_zhao_366 / 照顾
+   她在家照顾生病的妈妈。
+   lama: Ta zai jia zhaogu sheng bing de mama.
+   baru: Tā zài jiā zhàogu shēng bìng de māma.
+[A] b23_hai_an_374 / 海边
+   我们去海边玩。
+   lama: Women qu haibian wan.
+   baru: Wǒmen qù hǎibiān wán.
+[A] b23_hai_an_374 / 沿岸
+   沿海沿岸有很多城市。
+   lama: Yanhai yan'an you hen duo chengshi.
+   baru: Yánhǎi yán'àn yǒu hěn duō chéngshì.
+[B1] b23_pai_dui_527 / 排队
+   大家都在排队买票。
+   lama: Dajia dou zai paidui mai piao.
+   baru: Dàjiā dōu zài páiduì mǎi piào.
+[A] b23_pai_dui_527 / 轮流
+   我们轮流照顾病人。
+   lama: Women lunliu zhaogu bingren.
+   baru: Wǒmen lúnliú zhàogu bìngrén.
+[A] b23_gao_xiao_292 / 高效
+   我们需要一个高效的解决方案。
+   lama: Women xuyao yi ge gaoxiao de jiejue fangan.
+   baru: Wǒmen xūyào yí ge gāoxiào de jiějué fāngàn.
+[A] b23_gao_xiao_292 / 有效
+   这个药很有效。
+   lama: Zhe ge yao hen youxiao.
+   baru: Zhè ge yào hěn yǒuxiào.
+[A] b23_yun_shu_304 / 运输
+   这家公司负责货物运输。
+   lama: Zhe jia gongsi fuze huowu yunshu.
+   baru: Zhè jiā gōngsī fùzé huòwù yùnshū.
+[A] b23_yun_shu_304 / 运送
+   他们用卡车运送食物到灾区。
+   lama: Tamen yong kache yunsong shiwu dao zaiqu.
+   baru: Tāmen yòng kǎchē yùnsòng shíwù dào zāiqū.
+[B1] b23_bao_xian_369 / 保险
+   他买了一份医疗保险。
+   lama: Ta mai le yi fen yiliao baoxian.
+   baru: Tā mǎi le yí fèn yīliáo bǎoxiǎn.
+[A] b23_bao_xian_369 / 保障
+   政府保障人民的权益。
+   lama: Zhengfu baozhang renmin de quanyi.
+   baru: Zhèngfǔ bǎozhàng rénmín de quányì.
+[A] b23_huan_jing_383 / 环保
+   我们要支持环保。
+   lama: Women yao zhichi huanbao.
+   baru: Wǒmen yào zhīchí huánbǎo.
+[B2] b23_huan_jing_383 / 生态
+   这个地方的生态环境非常好。
+   lama: Zhe ge difang de shengtai huanjing feichang hao.
+   baru: Zhè ge dìfang de shēngtài huánjìng fēicháng hǎo.
+[A] b23_cai_neng_412 / 才能
+   他很有领导才能。
+   lama: Ta hen you lingdao caineng.
+   baru: Tā hěn yǒu lǐngdǎo cáinéng.
+[A] b23_cai_neng_412 / 才华
+   她是一位才华横溢的画家。
+   lama: Ta shi yi wei caihua hengyi de huajia.
+   baru: Tā shì yí wèi cáihuá héngyì de huàjiā.
+[B2] b23_sheng_ling_420 / 生物
+   地球上有很多不同的生物。
+   lama: Diqiu shang you hen duo butong de shengwu.
+   baru: Dìqiú shàng yǒu hěn duō bùtóng de shēngwù.
+[A] b23_sheng_ling_420 / 生命
+   生命很宝贵。
+   lama: Shengming hen baogui.
+   baru: Shēngmìng hěn bǎoguì.
+[B1] b24_xiao_guo_474 / 效果
+   这个药的效果很好。
+   lama: Zhe ge yao de xiaoguo hen hao.
+   baru: Zhè ge yào de xiàoguǒ hěn hǎo.
+[B1] b24_xiao_guo_474 / 效益
+   这个项目带来了很高的经济效益。
+   lama: Zhe ge xiangmu dailai le hen gao de jingji xiaoyi.
+   baru: Zhè ge xiàngmù dàilái le hěn gāo de jīngjì xiàoyì.
+[A] b24_fu_kuan_617 / 付款
+   我选择分期付款。
+   lama: Wo xuanze fenqi fukuan.
+   baru: Wǒ xuǎnzé fēnqī fùkuǎn.
+[B1] b24_fu_kuan_617 / 支付
+   他通过手机支付了账单。
+   lama: Ta tongguo shouji zhifu le zhangdan.
+   baru: Tā tōngguò shǒujī zhīfù le zhàngdān.
+[B1] b25_bi_mian_257 / 避免
+   为了不迟到，我提前出门了。
+   lama: Weile bu chidao, wo tiqian chumen le.
+   baru: Wèile bù chídào, wǒ tíqián chūmén le.
+[A] b25_bi_mian_257 / 逃避
+   他试图逃避责任。
+   lama: Ta shitu taobi zeren.
+   baru: Tā shìtú táobì zérèn.
+[B1] b25_dui_bi_263 / 对比
+   我们对比了一下两个产品的价格。
+   lama: Women duibi le yixia liang ge chanpin de jiage.
+   baru: Wǒmen duìbǐ le yíxià liǎng ge chǎnpǐn de jiàgé.
+[A] b25_dui_bi_263 / 对照
+   请对照原文检查翻译。
+   lama: Qing duizhao yuanwen jiancha fanyi.
+   baru: Qǐng duìzhào yuánwén jiǎnchá fānyì.
+[A] b25_can_kao_308 / 参考
+   请参考这个例子。
+   lama: Qing cankao zhe ge lizi.
+   baru: Qǐng cānkǎo zhè ge lìzi.
+[A] b25_can_kao_308 / 参照
+   请参照说明书操作。
+   lama: Qing canzhao shuomingshu caozuo.
+   baru: Qǐng cānzhào shuōmíngshū cāozuò.
+[A] b25_da_lou_352 / 大厦
+   他在商业大厦里上班。
+   lama: Ta zai shangye dasha li shangban.
+   baru: Tā zài shāngyè dàshà lǐ shàngbān.
+[A] b25_da_lou_352 / 大楼
+   这栋大楼有二十层。
+   lama: Zhe dong dalou you ershi ceng.
+   baru: Zhè dòng dàlóu yǒu èrshí céng.
+[A] b25_zi_yuan_385 / 资源
+   中国有丰富的自然资源。
+   lama: Zhongguo you fengfu de ziran ziyuan.
+   baru: Zhōngguó yǒu fēngfù de zìrán zīyuán.
+[A] b25_zi_yuan_385 / 物资
+   政府正在运送救灾物资。
+   lama: Zhengfu zhengzai yunsong jiuzai wuzi.
+   baru: Zhèngfǔ zhèngzài yùnsòng jiùzāi wùzī.
+[A] b25_cu_jin_410 / 促进
+   运动能促进健康。
+   lama: Yundong neng cujin jiankang.
+   baru: Yùndòng néng cùjìn jiànkāng.
+[B1] b25_cu_jin_410 / 促成
+   他的帮助促成了这次合作。
+   lama: Ta de bangzhu cucheng le zhe ci hezuo.
+   baru: Tā de bāngzhù cùchéng le zhè cì hézuò.
+[B1] b25_ji_yin_421 / 基因
+   基因决定了很多特征。
+   lama: Jiyin jueding le hen duo tezheng.
+   baru: Jīyīn juédìng le hěn duō tèzhēng.
+[B2] b25_ji_yin_421 / 遗传
+   这种疾病有遗传因素。
+   lama: Zhe zhong jibing you yichuan yinsu.
+   baru: Zhè zhǒng jíbìng yǒu yíchuán yīnsù.
+[A] b25_zan_tan_437 / 赞叹
+   观众对表演赞叹不已。
+   lama: Guanzhong dui biaoyan zantan buyi.
+   baru: Guānzhòng duì biǎoyǎn zàntàn bùyǐ.
+[B1] b25_zan_tan_437 / 称赞
+   老师称赞了他。
+   lama: Laoshi chengzan le ta.
+   baru: Lǎoshī chēngzàn le tā.
+[A] b25_tiao_li_458 / 条例
+   我们要遵守学校的条例。
+   lama: Women yao zunshou xuexiao de tiaoli.
+   baru: Wǒmen yào zūnshǒu xuéxiào de tiáolì.
+[B1] b25_tiao_li_458 / 法律
+   每个人都必须遵守法律。
+   lama: Mei ge ren dou bixu zunshou falv.
+   baru: Měi ge rén dōu bìxū zūnshǒu fǎlǜ.
+[A] b25_su_liao_467 / 塑料
+   请减少使用塑料袋。
+   lama: Qing jianshao shiyong suliao dai.
+   baru: Qǐng jiǎnshǎo shǐyòng sùliào dài.
+[A] b25_su_liao_467 / 橡胶
+   轮胎是用橡胶做的。
+   lama: Luntai shi yong xiangjiao zuo de.
+   baru: Lúntāi shì yòng xiàngjiāo zuò de.
+[A] b25_dan_zi_530 / 胆子
+   他胆子很大。
+   lama: Ta danzi hen da.
+   baru: Tā dǎnzi hěn dà.
+[A] b25_dan_zi_530 / 勇气
+   他鼓起勇气向她表白。
+   lama: Ta gu qi yongqi xiang ta biaobai.
+   baru: Tā gǔ qǐ yǒngqì xiàng tā biǎobái.
+[B1] b25_ying_ren_532 / 承认
+   他承认自己错了。
+   lama: Ta chengren ziji cuo le.
+   baru: Tā chéngrèn zìjǐ cuò le.
+[B1] b25_ying_ren_532 / 认错
+   他主动向老师认错了。
+   lama: Ta zhudong xiang laoshi rencuo le.
+   baru: Tā zhǔdòng xiàng lǎoshī rèncuò le.
+[A] b25_zhu_su_566 / 住宿
+   学校提供住宿。
+   lama: Xuexiao tigong zhusu.
+   baru: Xuéxiào tígōng zhùsù.
+[B1] b25_zhu_su_566 / 居住
+   他在北京居住了十年。
+   lama: Ta zai Beijing juzhu le shi nian.
+   baru: Tā zài Běijīng jūzhù le shí nián.
+[A] b25_zhi_li_580 / 智力
+   他的智力水平很高。
+   lama: Ta de zhili shuiping hen gao.
+   baru: Tā de zhìlì shuǐpíng hěn gāo.
+[B1] b25_zhi_li_580 / 智商
+   他做了一次智商测试。
+   lama: Ta zuo le yi ci zhishang ceshi.
+   baru: Tā zuò le yí cì zhìshāng cèshì.
+[A] b26_rong_liang_317 / 容量
+   这个硬盘的容量很大。
+   lama: Zhe ge yingpan de rongliang hen da.
+   baru: Zhè ge yìngpán de róngliàng hěn dà.
+[B1] b26_rong_liang_317 / 体积
+   这个大箱子体积太大了。
+   lama: Zhe ge da xiangzi tiji tai da le.
+   baru: Zhè ge dà xiāngzi tǐjī tài dà le.
+[A] b26_zhi_shi_335 / 知识分子
+   他是一位知识分子。
+   lama: Ta shi yi wei zhishi fenzi.
+   baru: Tā shì yí wèi zhīshi fènzǐ.
+[A] b26_zhi_shi_335 / 学者
+   他是著名的历史学者。
+   lama: Ta shi zhuming de lishi xuezhe.
+   baru: Tā shì zhùmíng de lìshǐ xuézhě.
+[A] b26_jiao_dai_365 / 交代
+   他必须向领导交代清楚。
+   lama: Ta bixu xiang lingdao jiaodai qingchu.
+   baru: Tā bìxū xiàng lǐngdǎo jiāodài qīngchu.
+[A] b26_jiao_dai_365 / 吩咐
+   他吩咐秘书准备会议资料。
+   lama: Ta fenfu mishu zhunbei huiyi ziliao.
+   baru: Tā fēnfù mìshū zhǔnbèi huìyì zīliào.
+[A] b26_neng_yuan_384 / 能源
+   我们需要开发新能源。
+   lama: Women xuyao kaifa xin nengyuan.
+   baru: Wǒmen xūyào kāifā xīn néngyuán.
+[A] b26_neng_yuan_384 / 能量
+   吃早餐给我很多能量。
+   lama: Chi zaocan gei wo hen duo nengliang.
+   baru: Chī zǎocān gěi wǒ hěn duō néngliàng.
+[B1] b26_ji_cheng_426 / 继承
+   他继承了父亲的财产。
+   lama: Ta jicheng le fuqin de caichan.
+   baru: Tā jìchéng le fùqīn de cáichǎn.
+[A] b26_ji_cheng_426 / 传承
+   我们要传承中华传统文化。
+   lama: Women yao chuancheng Zhonghua chuantong wenhua.
+   baru: Wǒmen yào chuánchéng Zhōnghuá chuántǒng wénhuà.
+[A] b26_bei_ai_524 / 悲哀
+   这是一个悲哀的故事。
+   lama: Zhe shi yi ge beiai de gushi.
+   baru: Zhè shì yí ge bēiāi de gùshi.
+[A] b26_bei_ai_524 / 悲伤
+   他听到消息后非常悲伤。
+   lama: Ta tingdao xiaoxi hou feichang beishang.
+   baru: Tā tīngdào xiāoxi hòu fēicháng bēishāng.
+[B1] b26_ren_ren_531 / 忍受
+   他忍受了很久的痛苦。
+   lama: Ta renshou le hen jiu de tongku.
+   baru: Tā rěnshòu le hěn jiǔ de tòngkǔ.
+[B2] b26_ren_ren_531 / 容忍
+   他不能容忍不诚实的行为。
+   lama: Ta bu neng rongren bu chengshi de xingwei.
+   baru: Tā bù néng róngrěn bù chéngshí de xíngwéi.
+[A] b26_dan_xiao_537 / 胆小
+   他胆子小，不敢一个人去。
+   lama: Ta danzi xiao, bu gan yi ge ren qu.
+   baru: Tā dǎnzi xiǎo, bù gǎn yí ge rén qù.
+[A] b26_dan_xiao_537 / 害羞
+   她是个害羞的女孩。
+   lama: Ta shi ge haixiu de nvhai.
+   baru: Tā shì ge hàixiū de nǚhái.
+[B1] b26_ji_li_538 / 激励
+   他的成功激励了我。
+   lama: Ta de chenggong jili le wo.
+   baru: Tā de chénggōng jīlì le wǒ.
+[A] b26_ji_li_538 / 鼓励
+   老师鼓励我们要努力学习。
+   lama: Laoshi guli women yao nuli xuexi.
+   baru: Lǎoshī gǔlì wǒmen yào nǔlì xuéxí.
+[A] b26_yun_zhuan_584 / 运转
+   这台机器运转很正常。
+   lama: Zhe tai jiqi yunzhuan hen zhengchang.
+   baru: Zhè tái jīqì yùnzhuǎn hěn zhèngcháng.
+[A] b26_yun_zhuan_584 / 运行
+   软件运行很流畅。
+   lama: Ruanjian yunxing hen liuchang.
+   baru: Ruǎnjiàn yùnxíng hěn liúchàng.
+[A] b26_fen_xi_603 / 分析
+   我们需要仔细分析数据。
+   lama: Women xuyao zixi fenxi shuju.
+   baru: Wǒmen xūyào zǐxì fēnxī shùjù.
+[A] b26_fen_xi_603 / 解析
+   他正在解析这个复杂的问题。
+   lama: Ta zhengzai jiexi zhe ge fuza de wenti.
+   baru: Tā zhèngzài jiěxī zhè ge fùzá de wèntí.
+[A] b26_guan_che_612 / 贯彻
+   政府要贯彻新的环保政策。
+   lama: Zhengfu yao guanche xin de huanbao zhengce.
+   baru: Zhèngfǔ yào guànchè xīn de huánbǎo zhèngcè.
+[A] b26_guan_che_612 / 落实
+   我们要把计划落实到位。
+   lama: Women yao ba jihua luoshi dao wei.
+   baru: Wǒmen yào bǎ jìhuà luòshí dào wèi.
+[A] b27_ji_bing_423 / 疾病
+   我们应该预防疾病。
+   lama: Women yinggai yufang jibing.
+   baru: Wǒmen yīnggāi yùfáng jíbìng.
+[B2] b27_ji_bing_423 / 病症
+   发热是这种病的常见病症。
+   lama: Fare shi zhe zhong bing de changjian bingzheng.
+   baru: Fārè shì zhè zhǒng bìng de chángjiàn bìngzhèng.
+[B2] b27_bao_li_461 / 暴力
+   暴力不是解决问题的办法。
+   lama: Baoli bu shi jiejue wenti de banfa.
+   baru: Bàolì bù shì jiějué wèntí de bànfǎ.
+[A] b27_bao_li_461 / 武力
+   他们不愿意使用武力。
+   lama: Tamen bu yuanyi shiyong wuli.
+   baru: Tāmen bù yuànyì shǐyòng wǔlì.
+[A] b27_xu_ni_498 / 虚拟
+   虚拟现实技术发展很快。
+   lama: Xuni xianshi jishu fazhan hen kuai.
+   baru: Xūnǐ xiànshí jìshù fāzhǎn hěn kuài.
+[A] b27_xu_ni_498 / 幻想
+   他不应该活在幻想中。
+   lama: Ta bu yinggai huo zai huanxiang zhong.
+   baru: Tā bù yīnggāi huó zài huànxiǎng zhōng.
+[B1] b27_jue_wu_534 / 觉悟
+   他有了新的思想觉悟。
+   lama: Ta you le xin de sixiang juewu.
+   baru: Tā yǒu le xīn de sīxiǎng juéwù.
+[A] b27_jue_wu_534 / 觉醒
+   民族觉醒运动开始兴起。
+   lama: Minzu juexing yundong kaishi xingqi.
+   baru: Mínzú juéxǐng yùndòng kāishǐ xīngqǐ.
+[A] b27_cun_fang_583 / 存放
+   请把行李存放在这里。
+   lama: Qing ba xingli cunfang zai zheli.
+   baru: Qǐng bǎ xíngli cúnfàng zài zhèlǐ.
+[A] b27_cun_fang_583 / 储存
+   我们需要储存一些食物。
+   lama: Women xuyao chucun yixie shiwu.
+   baru: Wǒmen xūyào chǔcún yìxiē shíwù.
+[A] b27_jian_du_610 / 监督
+   请监督我们完成任务。
+   lama: Qing jiandu women wancheng renwu.
+   baru: Qǐng jiāndū wǒmen wánchéng rènwu.
+[A] b27_jian_du_610 / 监管
+   政府负责市场监管。
+   lama: Zhengfu fuze shichang jianguan.
+   baru: Zhèngfǔ fùzé shìchǎng jiānguǎn.
+[A] b27_zhao_pin_614 / 招聘
+   这家公司在招聘新员工。
+   lama: Zhe jia gongsi zai zhaopin xin yuangong.
+   baru: Zhè jiā gōngsī zài zhāopìn xīn yuángōng.
+[B2] b27_zhao_pin_614 / 应聘
+   他去应聘这家公司的经理职位。
+   lama: Ta qu yingpin zhe jia gongsi de jingli zhiwei.
+   baru: Tā qù yìngpìn zhè jiā gōngsī de jīnglǐ zhíwèi.
+[A] b28_fu_yang_298 / 抚养
+   父母有抚养孩子的义务。
+   lama: Fumu you fuyang haizi de yiwu.
+   baru: Fùmǔ yǒu fǔyǎng háizi de yìwù.
+[A] b28_fu_yang_298 / 赡养
+   子女有赡养父母的义务。
+   lama: Zinu you shanyang fumu de yiwu.
+   baru: Zǐnǚ yǒu shànyǎng fùmǔ de yìwù.
+[A] b28_shi_du_380 / 湿度
+   南方的湿度很大。
+   lama: Nanfang de shidu hen da.
+   baru: Nánfāng de shīdù hěn dà.
+[B2] b28_shi_du_380 / 干旱
+   这个地区正经历严重的干旱。
+   lama: Zhe ge diqu zheng jingli yanzhong de ganhan.
+   baru: Zhè ge dìqū zhèng jīnglì yánzhòng de gānhàn.
+[B2] b28_yong_ji_432 / 拥挤
+   早上的地铁很拥挤。
+   lama: Zaoshang de ditie hen yongji.
+   baru: Zǎoshang de dìtiě hěn yōngjǐ.
+[A] b28_yong_ji_432 / 堵塞
+   这条路上总是堵塞。
+   lama: Zhe tiao lu shang zongshi duse.
+   baru: Zhè tiáo lù shang zǒngshì dǔsè.
+[A] b28_xian_mu_526 / 羡慕
+   我很羡慕他的成就。
+   lama: Wo hen xianmu ta de chengjiu.
+   baru: Wǒ hěn xiànmù tā de chéngjiù.
+[B1] b28_xian_mu_526 / 嫉妒
+   她因为嫉妒而说了坏话。
+   lama: Ta yinwei jidu er shuo le huaihua.
+   baru: Tā yīnwèi jídù ér shuō le huàihuà.
+[B2] b28_pi_lao_539 / 疲劳
+   他因为工作过度疲劳而病倒了。
+   lama: Ta yinwei gongzuo guodu pilao er bingdao le.
+   baru: Tā yīnwèi gōngzuò guòdù píláo ér bìngdào le.
+[A] b28_pi_lao_539 / 疲倦
+   他感到非常疲倦，想早点休息。
+   lama: Ta gandao feichang pijuan, xiang zao dian xiuxi.
+   baru: Tā gǎndào fēicháng píjuàn, xiǎng zǎo diǎn xiūxi.
+[A] b28_ji_du_561 / 旅途
+   祝你旅途愉快。
+   lama: Zhu ni lutu yukuai.
+   baru: Zhù nǐ lǚtú yúkuài.
+[A] b28_ji_du_561 / 旅程
+   我们的旅程需要十个小时。
+   lama: Women de lucheng xuyao shi ge xiaoshi.
+   baru: Wǒmen de lǚchéng xūyào shí ge xiǎoshí.
+[B2] b28_chuan_ran_588 / 传染
+   这种病很容易传染。
+   lama: Zhe zhong bing hen rongyi chuanran.
+   baru: Zhè zhǒng bìng hěn róngyì chuánrǎn.
+[B1] b28_chuan_ran_588 / 感染
+   他的伤口感染了。
+   lama: Ta de shangkou ganran le.
+   baru: Tā de shāngkǒu gǎnrǎn le.
+[A] b28_shui_shou_590 / 税收
+   国家的主要收入来自税收。
+   lama: Guojia de zhuyao shouru laizi shuishou.
+   baru: Guójiā de zhǔyào shōurù láizì shuìshōu.
+[A] b28_shui_shou_590 / 税务
+   他去税务局办事。
+   lama: Ta qu shuiwu ju banshi.
+   baru: Tā qù shuìwù jú bànshì.
+[B1] b29_zuo_tian_050 / 昨天
+   昨天我去了超市。
+   lama: Zuotian wo qu le chaoshi.
+   baru: Zuótiān wǒ qù le chāoshì.
+[A] b29_zuo_tian_050 / 昨日
+   昨日会议已圆满结束。
+   lama: Zuori huiyi yi yuanman jieshu.
+   baru: Zuórì huìyì yǐ yuánmǎn jiéshù.
+[B1] b29_qian_tian_138 / 前天
+   前天我去了公园。
+   lama: Qiantian wo qu le gongyuan.
+   baru: Qiántiān wǒ qù le gōngyuán.
+[B1] b29_qian_tian_138 / 大前天
+   大前天我去了医院。
+   lama: Daqiantian wo qu le yiyuan.
+   baru: Dàqiántiān wǒ qù le yīyuàn.
+[A] b29_hou_tian_139 / 后天
+   后天我有一场考试。
+   lama: Houtian wo you yi chang kaoshi.
+   baru: Hòutiān wǒ yǒu yì chǎng kǎoshì.
+[A] b29_hou_tian_139 / 大后天
+   大后天我们出发。
+   lama: Dahoutian women chufa.
+   baru: Dàhòutiān wǒmen chūfā.
+[A] b29_cai_177 / 菜
+   我喜欢吃中国菜。
+   lama: Wo xihuan chi Zhongguo cai.
+   baru: Wǒ xǐhuan chī Zhōngguó cài.
+[A] b29_cai_177 / 菜肴
+   这家酒店的菜肴非常精致。
+   lama: Zhe jia jiudian de caiyao feichang jingzhi.
+   baru: Zhè jiā jiǔdiàn de càiyáo fēicháng jīngzhì.
+[A] b29_men_194 / 门
+   请把门关上。
+   lama: Qing ba men guan shang.
+   baru: Qǐng bǎ mén guān shàng.
+[A] b29_men_194 / 窗
+   请把窗户打开。
+   lama: Qing ba chuanghu da kai.
+   baru: Qǐng bǎ chuānghu dǎ kāi.
+[B1] b29_shang_dian_354 / 商店
+   我在商店买了一些东西。
+   lama: Wo zai shangdian mai le yixie dongxi.
+   baru: Wǒ zài shāngdiàn mǎi le yìxiē dōngxi.
+[A] b29_shang_dian_354 / 店铺
+   这条街上有很多小店铺。
+   lama: Zhe tiao jie shang you hen duo xiao dianpu.
+   baru: Zhè tiáo jiē shang yǒu hěn duō xiǎo diànpù.
+[B1] b29_shang_zhou_053 / 上星期
+   上星期我去了海边。
+   lama: Shang xingqi wo qu le haibian.
+   baru: Shàng xīngqī wǒ qù le hǎibiān.
+[A] b29_shang_zhou_053 / 上周
+   上周会议已记录在案。
+   lama: Shang zhou huiyi yi jilu zai an.
+   baru: Shàng zhōu huìyì yǐ jìlù zài àn.
+[A] b29_xia_zhou_054 / 下星期
+   下星期我要考试。
+   lama: Xia xingqi wo yao kaoshi.
+   baru: Xià xīngqī wǒ yào kǎoshì.
+[A] b29_xia_zhou_054 / 下周
+   下周开始新的项目。
+   lama: Xia zhou kaishi xin de xiangmu.
+   baru: Xià zhōu kāishǐ xīn de xiàngmù.
+[B1] b29_da_jia_128 / 大家
+   大家好！
+   lama: Dajia hao!
+   baru: Dàjiā hǎo!
+[B1] b29_da_jia_128 / 每个人
+   每个人都有自己的选择。
+   lama: Mei ge ren dou you ziji de xuanze.
+   baru: Měi ge rén dōu yǒu zìjǐ de xuǎnzé.
+[B2] b29_di_tie_172 / 地铁
+   我每天坐地铁上班。
+   lama: Wo meitian zuo ditie shangban.
+   baru: Wǒ měitiān zuò dìtiě shàngbān.
+[B2] b29_di_tie_172 / 轻轨
+   这座城市有轻轨和地铁两种交通。
+   lama: Zhe zuo chengshi you qinggui he ditie liang zhong jiaotong.
+   baru: Zhè zuò chéngshì yǒu qīngguǐ hé dìtiě liǎng zhǒng jiāotōng.
+[A] b29_jiao_zi_181 / 饺子
+   过年的时候我们包饺子吃。
+   lama: Guonian de shihou women bao jiaozi chi.
+   baru: Guònián de shíhou wǒmen bāo jiǎozi chī.
+[A] b29_jiao_zi_181 / 馄饨
+   冬天我喜欢吃馄饨。
+   lama: Dongtian wo xihuan chi huntun.
+   baru: Dōngtiān wǒ xǐhuan chī húntun.
+[A] b29_qiang_195 / 墙
+   这面墙很白。
+   lama: Zhe mian qiang hen bai.
+   baru: Zhè miàn qiáng hěn bái.
+[A] b29_qiang_195 / 壁
+   客厅里有一个壁炉。
+   lama: Keting li you yi ge bilu.
+   baru: Kètīng lǐ yǒu yí ge bìlú.
+[A] b29_xi_guang_316 / 习惯
+   他有早起的习惯。
+   lama: Ta you zaoqi de xiguan.
+   baru: Tā yǒu zǎoqǐ de xíguàn.
+[A] b29_xi_guang_316 / 习性
+   这个动物的习性很特别。
+   lama: Zhe ge dongwu de xixing hen tebie.
+   baru: Zhè ge dòngwù de xíxìng hěn tèbié.
+[A] b29_si_ji_343 / 司机
+   司机先生，请开快一点。
+   lama: Siji xiansheng, qing kai kuai yidian.
+   baru: Sījī xiānsheng, qǐng kāi kuài yìdiǎn.
+[A] b29_si_ji_343 / 驾驶员
+   驾驶员必须遵守交通规则。
+   lama: Jiashiyuan bixu zunshou jiaotong guize.
+   baru: Jiàshǐyuán bìxū zūnshǒu jiāotōng guīzé.
+[A] b29_yi_shu_jia_345 / 艺术家
+   她是一位很有才华的艺术家。
+   lama: Ta shi yi wei hen you caihua de yishujia.
+   baru: Tā shì yí wèi hěn yǒu cáihuá de yìshùjiā.
+[A] b29_yi_shu_jia_345 / 画家
+   齐白石是一位伟大的画家。
+   lama: Qi Baishi shi yi wei weida de huajia.
+   baru: Qí Báishí shì yí wèi wěidà de huàjiā.
+[A] b30_wen_jian_167 / 文件
+   请把这个文件打印出来。
+   lama: Qing ba zhe ge wenjian dayin chulai.
+   baru: Qǐng bǎ zhè ge wénjiàn dǎyìn chūlái.
+[B2] b30_wen_jian_167 / 文档
+   我的文档没保存。
+   lama: Wo de wendang mei baocun.
+   baru: Wǒ de wéndàng méi bǎocún.
+[B2] b30_yin_yue_jia_346 / 音乐家
+   莫扎特是一位伟大的音乐家。
+   lama: Mozhate shi yi wei weida de yinyuejia.
+   baru: Mòzhātè shì yí wèi wěidà de yīnyuèjiā.
+[A] b30_yin_yue_jia_346 / 歌手
+   她是一位很受欢迎的歌手。
+   lama: Ta shi yi wei hen shou huan ying de geshou.
+   baru: Tā shì yí wèi hěn shòu huān yíng de gēshǒu.
+[B1] b30_qian_fei_368 / 欠费
+   我的手机欠费了。
+   lama: Wo de shouji qianfei le.
+   baru: Wǒ de shǒujī qiànfèi le.
+[A] b30_qian_fei_368 / 收费
+   这个停车场收费很贵。
+   lama: Zhe ge tingchechang shoufei hen gui.
+   baru: Zhè ge tíngchēchǎng shōufèi hěn guì.
+[A] b30_guan_bo_389 / 广播
+   她每天早上听广播。
+   lama: Ta meitian zaoshang ting guangbo.
+   baru: Tā měitiān zǎoshang tīng guǎngbō.
+[A] b30_guan_bo_389 / 播报
+   主持人正在播报今天的新闻。
+   lama: Zhuchiren zhengzai bobao jintian de xinwen.
+   baru: Zhǔchírén zhèngzài bōbào jīntiān de xīnwén.
+[A] b30_bi_hu_425 / 庇护
+   他们向外国申请庇护。
+   lama: Tamen xiang waiguo shenqing bihu.
+   baru: Tāmen xiàng wàiguó shēnqǐng bìhù.
+[A] b30_bi_hu_425 / 保护
+   我们要保护环境。
+   lama: Women yao baohu huanjing.
+   baru: Wǒmen yào bǎohù huánjìng.
+[A] b30_zhi_ding_456 / 制定
+   公司正在制定新的发展计划。
+   lama: Gongsi zhengzai zhiding xin de fazhan jihua.
+   baru: Gōngsī zhèngzài zhìdìng xīn de fāzhǎn jìhuà.
+[B1] b30_zhi_ding_456 / 订定
+   双方订定了合作细节。
+   lama: Shuangfang dingding le hezuo xijie.
+   baru: Shuāngfāng dìngdìng le hézuò xìjié.
+[A] b30_bi_li_591 / 比例
+   男女比例大致相当。
+   lama: Nannv bili dazhi xiangdang.
+   baru: Nánnǚ bǐlì dàzhì xiāngdāng.
+[A] b30_bi_li_591 / 比率
+   失业率在上升。
+   lama: Shiye lv zai shangsheng.
+   baru: Shīyè lǜ zài shàngshēng.
+[A] b31_sen_lin_375 / 森林
+   亚马逊森林是世界上最大的森林。
+   lama: Yamaxun senlin shi shijie shang zui da de senlin.
+   baru: Yàmǎxùn sēnlín shì shìjiè shàng zuì dà de sēnlín.
+[A] b31_sen_lin_375 / 树林
+   他在树林里散步。
+   lama: Ta zai shulin li sanbu.
+   baru: Tā zài shùlín lǐ sànbù.
+[B1] b31_zhan_zheng_463 / 战争
+   战争带来了很多痛苦。
+   lama: Zhanzheng dailai le hen duo tongku.
+   baru: Zhànzhēng dàilái le hěn duō tòngkǔ.
+[B1] b31_zhan_zheng_463 / 战役
+   这场战役改变了战争的结果。
+   lama: Zhe chang zhanyi gaibian le zhanzheng de jieguo.
+   baru: Zhè chǎng zhànyì gǎibiàn le zhànzhēng de jiéguǒ.
+[B1] b31_shang_ge_yue_055 / 上个月
+   上个月我去旅游了。
+   lama: Shang ge yue wo qu luyou le.
+   baru: Shàng ge yuè wǒ qù lǚyóu le.
+[B2] b31_shang_ge_yue_055 / 上月
+   上月销售额增长了10%。
+   lama: Shang yue xiaoshou e zengzhang le 10%.
+   baru: Shàng yuè xiāoshòu é zēngzhǎng le 10%.
+[A] b31_xia_ge_yue_056 / 下个月
+   下个月我要搬家。
+   lama: Xia ge yue wo yao banjia.
+   baru: Xià ge yuè wǒ yào bānjiā.
+[A] b31_xia_ge_yue_056 / 下月
+   新政策下月起实施。
+   lama: Xin zhengce xia yue qi shishi.
+   baru: Xīn zhèngcè xià yuè qǐ shíshī.
+[B1] b31_bi_ye_212 / 毕业
+   他今年大学毕业了。
+   lama: Ta jinnian daxue biye le.
+   baru: Tā jīnnián dàxué bìyè le.
+[B2] b31_bi_ye_212 / 结业
+   他完成了语言培训，拿到了结业证书。
+   lama: Ta wancheng le yuyan peixun, na dao le jieye zhengshu.
+   baru: Tā wánchéng le yǔyán péixùn, ná dào le jiéyè zhèngshū.
+[A] b31_zheng_fu_372 / 政府
+   政府正在努力解决这个问题。
+   lama: Zhengfu zhengzai nuli jiejue zhe ge wenti.
+   baru: Zhèngfǔ zhèngzài nǔlì jiějué zhè ge wèntí.
+[B2] b31_zheng_fu_372 / 当局
+   当局已经采取行动。
+   lama: Dangju yijing caiqu xingdong.
+   baru: Dāngjú yǐjīng cǎiqǔ xíngdòng.
+[B1] b31_xiao_shou_502 / 销售
+   这家公司的销售业绩很好。
+   lama: Zhe jia gongsi de xiaoshou yeji hen hao.
+   baru: Zhè jiā gōngsī de xiāoshòu yèjì hěn hǎo.
+[A] b31_xiao_shou_502 / 营销
+   他们正在制定新的营销策略。
+   lama: Tamen zhengzai zhiding xin de yingxiao celue.
+   baru: Tāmen zhèngzài zhìdìng xīn de yíngxiāo cèlüè.
+[A] b31_hu_xi_574 / 呼吸
+   他在深呼吸。
+   lama: Ta zai shen huxi.
+   baru: Tā zài shēn hūxī.
+[A] b31_hu_xi_574 / 气喘
+   他跑完步后气喘吁吁。
+   lama: Ta pao wan bu hou qichuan xuxu.
+   baru: Tā pǎo wán bù hòu qìchuǎn xūxū.
+[A] b31_kan_shu_625 / 看书
+   他喜欢在图书馆看书。
+   lama: Ta xihuan zai tushuguan kan shu.
+   baru: Tā xǐhuan zài túshūguǎn kàn shū.
+[A] b31_kan_shu_625 / 阅读
+   学生的阅读能力很重要。
+   lama: Xuesheng de yuedu nengli hen zhongyao.
+   baru: Xuésheng de yuèdú nénglì hěn zhòngyào.
+[B2] b32_tiao_li_544 / 调理
+   他正在用中药调理身体。
+   lama: Ta zhengzai yong Zhongyao tiaoli shenti.
+   baru: Tā zhèngzài yòng Zhōngyào tiáolǐ shēntǐ.
+[B2] b32_tiao_li_544 / 调节
+   空调可以调节温度。
+   lama: Kongtiao keyi tiaojie wendu.
+   baru: Kōngtiáo kěyǐ tiáojié wēndù.
+[A] b33_dian_zi_495 / 电子
+   这是最新的电子产品。
+   lama: Zhe shi zui xin de dianzi chanpin.
+   baru: Zhè shì zuì xīn de diànzǐ chǎnpǐn.
+[A] b33_dian_zi_495 / 电器
+   这家商店卖各种家用电器。
+   lama: Zhe jia shangdian mai ge zhong jiayong dianqi.
+   baru: Zhè jiā shāngdiàn mài gè zhǒng jiāyòng diànqì.
+[B1] b33_feng_bao_376 / 风暴
+   风暴马上就要来了。
+   lama: Fengbao mashang jiu yao lai le.
+   baru: Fēngbào mǎshàng jiù yào lái le.
+[B1] b33_feng_bao_376 / 暴风
+   暴风把屋顶吹飞了。
+   lama: Baofeng ba wuding chui fei le.
+   baru: Bàofēng bǎ wūdǐng chuī fēi le.
+[B2] b33_hun_luan_540 / 混乱
+   办公室一片混乱。
+   lama: Bangongshi yipian hunluan.
+   baru: Bàngōngshì yípiàn hùnluàn.
+[A] b33_hun_luan_540 / 杂乱
+   他的房间非常杂乱。
+   lama: Ta de fangjian feichang zaluan.
+   baru: Tā de fángjiān fēicháng záluàn.
+[B1] b33_mai_zang_439 / 埋葬
+   他们埋葬了死者。
+   lama: Tamen maizang le sizhe.
+   baru: Tāmen máizàng le sǐzhě.
+[B1] b33_mai_zang_439 / 葬礼
+   他参加了朋友的葬礼。
+   lama: Ta canjia le pengyou de zangli.
+   baru: Tā cānjiā le péngyou de zànglǐ.
+[A] b33_gang_tie_468 / 钢铁
+   钢铁是建筑的重要材料。
+   lama: Gangtie shi jianzhu de zhongyao cailiao.
+   baru: Gāngtiě shì jiànzhù de zhòngyào cáiliào.
+[B1] b33_gang_tie_468 / 金属
+   金和银都是贵金属。
+   lama: Jin he yin dou shi guijinshu.
+   baru: Jīn hé yín dōu shì guìjīnshǔ.
+[A] b33_ma_yi_242 / 蚂蚁
+   蚂蚁在搬家。
+   lama: Mayi zai banjia.
+   baru: Mǎyǐ zài bānjiā.
+[B2] b33_ma_yi_242 / 昆虫
+   蝴蝶是一种美丽的昆虫。
+   lama: Hudie shi yi zhong meili de kunchong.
+   baru: Húdié shì yì zhǒng měilì de kūnchóng.
+[A] b33_chu_ci_261 / 初次
+   初次见面，请多关照。
+   lama: Chuci jianmian, qing duo guanzhao.
+   baru: Chūcì jiànmiàn, qǐng duō guānzhào.
+[A] b33_chu_ci_261 / 第一次
+   这是我第一次来中国。
+   lama: Zhe shi wo di yi ci lai Zhongguo.
+   baru: Zhè shì wǒ dì yī cì lái Zhōngguó.
+[A] b34_jiang_hu_373 / 江河
+   中国有很多江河。
+   lama: Zhongguo you hen duo jianghe.
+   baru: Zhōngguó yǒu hěn duō jiānghé.
+[A] b34_jiang_hu_373 / 湖泊
+   这里有许多美丽的湖泊。
+   lama: Zheli you xuduo meili de hubo.
+   baru: Zhèlǐ yǒu xǔduō měilì de húpō.
+[A] b34_fang_zhen_448 / 仿真
+   这是一个仿真机器人。
+   lama: Zhe shi yi ge fangzhen jiqiren.
+   baru: Zhè shì yí ge fǎngzhēn jīqìrén.
+[B1] b34_fang_zhen_448 / 模拟
+   我们做了一次模拟考试。
+   lama: Women zuo le yi ci moni kaoshi.
+   baru: Wǒmen zuò le yí cì mónǐ kǎoshì.
+[B1] b34_liang_xin_529 / 良心
+   他做了坏事，但良心不安。
+   lama: Ta zuo le huaishi, dan liangxin buan.
+   baru: Tā zuò le huàishì, dàn liángxīn bùān.
+[A] b34_liang_xin_529 / 良知
+   他缺乏基本的良知。
+   lama: Ta quefa jiben de liangzhi.
+   baru: Tā quēfá jīběn de liángzhī.
+[A] b34_jie_yan_548 / 戒烟
+   他下定决心要戒烟。
+   lama: Ta xiading juexin yao jieyan.
+   baru: Tā xiàdìng juéxīn yào jièyān.
+[A] b34_jie_yan_548 / 戒酒
+   医生建议他戒酒。
+   lama: Yisheng jianyi ta jiejiu.
+   baru: Yīshēng jiànyì tā jièjiǔ.
+[A] b35_zhi_nv_323 / 侄子
+   我哥哥的儿子是我的侄子。
+   lama: Wo gege de erzi shi wo de zhizi.
+   baru: Wǒ gēge de érzi shì wǒ de zhízi.
+[A] b35_zhi_nv_323 / 外甥
+   我姐姐的儿子是我的外甥。
+   lama: Wo jiejie de erzi shi wo de waisheng.
+   baru: Wǒ jiějie de érzi shì wǒ de wàishēng.
+[A] b35_gong_shi_434 / 工时
+   公司规定每天八工时。
+   lama: Gongsi guiding meitian ba gongshi.
+   baru: Gōngsī guīdìng měitiān bā gōngshí.
+[A] b35_gong_shi_434 / 工作时间
+   他的工作时间是早上九点到下午五点。
+   lama: Ta de gongzuo shijian shi zaoshang jiu dian dao xiawu wu dian.
+   baru: Tā de gōngzuò shíjiān shì zǎoshang jiǔ diǎn dào xiàwǔ wǔ diǎn.
