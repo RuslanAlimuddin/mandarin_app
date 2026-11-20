@@ -57052,20 +57052,20 @@
       "g"
     ],
     "meanings_id": [
-      "marga Shuai",
       "(bentuk terikat) panglima tertinggi",
       "(bentuk terikat) memimpin; memerintah",
       "tampan; anggun; gagah; elegan",
       "(percakapan) keren!; manis!",
-      "(catur Tiongkok) jenderal (di sisi merah, setara dengan raja dalam catur Barat)"
+      "(catur Tiongkok) jenderal (di sisi merah, setara dengan raja dalam catur Barat)",
+      "marga Shuai"
     ],
     "meanings_en": [
-      "surname Shuai",
       "(bound form) commander-in-chief",
       "(bound form) to lead; to command",
       "handsome; graceful; dashing; elegant",
       "(coll.) cool!; sweet!",
-      "(Chinese chess) general (on the red side, equivalent to a king in Western chess)"
+      "(Chinese chess) general (on the red side, equivalent to a king in Western chess)",
+      "surname Shuai"
     ],
     "radical": "巾",
     "radical_number": 50,
@@ -59100,8 +59100,8 @@
     "id": "安",
     "simplified": "安",
     "traditional": "安",
-    "pinyin": "Ān",
-    "pinyin_numeric": "An1",
+    "pinyin": "ān",
+    "pinyin_numeric": "an1",
     "bopomofo": "ㄢ",
     "hsk": "4",
     "hsk2": null,
@@ -59121,7 +59121,6 @@
       "kata ganti"
     ],
     "meanings_id": [
-      "marga An",
       "(bentuk terikat) tenang; damai",
       "menenangkan",
       "aman; dalam kesehatan yang baik",
@@ -59130,10 +59129,10 @@
       "memasang; memperbaiki",
       "memberikan (tuduhan terhadap seseorang)",
       "menyimpan (niat tertentu)",
-      "ampere (singkatan dari 安培[an1 pei2])"
+      "ampere (singkatan dari 安培[an1 pei2])",
+      "marga An"
     ],
     "meanings_en": [
-      "surname An",
       "(bound form) calm; peaceful",
       "to calm; to set at ease",
       "safe; secure; in good health",
@@ -59142,7 +59141,8 @@
       "to install; to fix; to fit",
       "to bring (a charge against sb)",
       "to harbor (certain intentions)",
-      "ampere (abbr. for 培)"
+      "ampere (abbr. for 培)",
+      "surname An"
     ],
     "radical": "宀",
     "radical_number": 40,
@@ -95830,17 +95830,16 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "marganya Wen",
       "mendengar",
       "berita",
       "terkenal",
       "reputasi",
       "ketenaran",
       "mencium",
-      "mengendus"
+      "mengendus",
+      "marganya Wen"
     ],
     "meanings_en": [
-      "surname Wen",
       "to hear",
       "news",
       "well-known",
@@ -95848,7 +95847,8 @@
       "reputation",
       "fame",
       "to smell",
-      "to sniff at"
+      "to sniff at",
+      "surname Wen"
     ],
     "radical": "门",
     "radical_number": 169,
@@ -112489,18 +112489,18 @@
       "kata kerja"
     ],
     "meanings_id": [
-      "marga Yu",
       "(bentuk terikat) bertemu; kebetulan bertemu; bertemu tanpa rencana",
-      "(bentuk terikat) memperlakukan; menerima"
+      "(bentuk terikat) memperlakukan; menerima",
+      "marga Yu"
     ],
     "meanings_en": [
-      "surname Yu",
       "to meet",
       "to encounter",
       "to treat",
       "to receive",
       "opportunity",
-      "chance"
+      "chance",
+      "surname Yu"
     ],
     "radical": "辶",
     "radical_number": 162,
@@ -119454,20 +119454,20 @@
       "kata kerja-benda"
     ],
     "meanings_id": [
-      "marga Jian",
       "(bentuk terikat) gunting atau alat serupa",
       "memotong seperti dengan gunting",
       "(bentuk terikat) menghapus; memusnahkan",
-      "mengedit (video, audio, dll)"
+      "mengedit (video, audio, dll)",
+      "marga Jian"
     ],
     "meanings_en": [
-      "surname Jian",
       "scissors",
       "shears",
       "clippers",
       "to cut with scissors",
       "to trim",
-      "to wipe out or exterminate"
+      "to wipe out or exterminate",
+      "surname Jian"
     ],
     "radical": "刀",
     "radical_number": 18,
@@ -212567,20 +212567,20 @@
       "nr"
     ],
     "meanings_id": [
-      "marga Jing",
       "(bentuk terikat) pemandangan",
       "keadaan",
       "situasi",
       "babak (drama)",
-      "(sastra) sinar matahari"
+      "(sastra) sinar matahari",
+      "marga Jing"
     ],
     "meanings_en": [
-      "surname Jing",
       "(bound form) scenery",
       "circumstance",
       "situation",
       "scene (of a play)",
-      "(literary) sunlight"
+      "(literary) sunlight",
+      "surname Jing"
     ],
     "radical": "日",
     "radical_number": 72,
