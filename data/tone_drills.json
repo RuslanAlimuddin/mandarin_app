@@ -3803,7 +3803,7 @@
     {
       "cn": "帅",
       "py": "shuài",
-      "id": "marga Shuai",
+      "id": "panglima tertinggi",
       "hsk": 4,
       "tone": 4,
       "base": "shuai"
@@ -3919,6 +3919,14 @@
       "hsk": 5,
       "tone": 3,
       "base": "gui"
+    },
+    {
+      "cn": "安",
+      "py": "ān",
+      "id": "tenang; damai",
+      "hsk": 4,
+      "tone": 1,
+      "base": "an"
     },
     {
       "cn": "东",
@@ -5611,7 +5619,7 @@
     {
       "cn": "闻",
       "py": "wén",
-      "id": "marganya Wen",
+      "id": "mendengar",
       "hsk": 2,
       "tone": 2,
       "base": "wen"
@@ -6299,7 +6307,7 @@
     {
       "cn": "遇",
       "py": "yù",
-      "id": "marga Yu",
+      "id": "bertemu; kebetulan bertemu; bertemu tanpa rencana",
       "hsk": 4,
       "tone": 4,
       "base": "yu"
@@ -6627,7 +6635,7 @@
     {
       "cn": "剪",
       "py": "jiǎn",
-      "id": "marga Jian",
+      "id": "gunting atau alat serupa",
       "hsk": 5,
       "tone": 3,
       "base": "jian"
@@ -8971,7 +8979,7 @@
     {
       "cn": "景",
       "py": "jǐng",
-      "id": "marga Jing",
+      "id": "pemandangan",
       "hsk": 6,
       "tone": 3,
       "base": "jing"
@@ -14686,7 +14694,7 @@
       {
         "cn": "遇",
         "py": "yù",
-        "id": "marga Yu",
+        "id": "bertemu; kebetulan bertemu; bertemu tanpa rencana",
         "hsk": 4
       },
       {
@@ -15276,7 +15284,7 @@
       {
         "cn": "剪",
         "py": "jiǎn",
-        "id": "marga Jian",
+        "id": "gunting atau alat serupa",
         "hsk": 5
       },
       {
@@ -15912,7 +15920,7 @@
       {
         "cn": "闻",
         "py": "wén",
-        "id": "marganya Wen",
+        "id": "mendengar",
         "hsk": 2
       },
       {
@@ -18938,6 +18946,12 @@
         "py": "àn",
         "id": "menekan",
         "hsk": 3
+      },
+      {
+        "cn": "安",
+        "py": "ān",
+        "id": "tenang; damai",
+        "hsk": 4
       },
       {
         "cn": "暗",
@@ -22028,7 +22042,7 @@
       {
         "cn": "景",
         "py": "jǐng",
-        "id": "marga Jing",
+        "id": "pemandangan",
         "hsk": 6
       },
       {
@@ -22144,7 +22158,7 @@
       {
         "cn": "帅",
         "py": "shuài",
-        "id": "marga Shuai",
+        "id": "panglima tertinggi",
         "hsk": 4
       },
       {
