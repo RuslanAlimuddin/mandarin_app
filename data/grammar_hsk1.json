@@ -1190,7 +1190,7 @@
        "jenis": "Negatif",
        "pola": "Tempat + 没有 + O",
        "contoh": "教室里没有人。",
-       "pinyin": "Jiàoshì lǐ méiyǒu rén.",
+       "pinyin": "Jiàoshì li méiyǒu rén.",
        "terjemahan": "Di kelas tidak ada orang."
       }
      ]
@@ -1320,14 +1320,14 @@
        "jenis": "Afirmatif",
        "pola": "Tempat + 有 + O",
        "contoh": "教室里有学生。",
-       "pinyin": "Jiàoshì lǐ yǒu xuésheng.",
+       "pinyin": "Jiàoshì li yǒu xuésheng.",
        "terjemahan": "Di dalam kelas ada murid."
       },
       {
        "jenis": "Negatif",
        "pola": "Tempat + 没有 + O",
        "contoh": "教室里没有学生。",
-       "pinyin": "Jiàoshì lǐ méiyǒu xuésheng.",
+       "pinyin": "Jiàoshì li méiyǒu xuésheng.",
        "terjemahan": "Di dalam kelas tidak ada murid."
       }
      ]
@@ -1611,7 +1611,7 @@
        "jenis": "里 (dalam)",
        "pola": "N + 里",
        "contoh": "东西在包里。",
-       "pinyin": "Dōngxi zài bāo lǐ.",
+       "pinyin": "Dōngxi zài bāo li.",
        "terjemahan": "Barangnya ada di dalam tas."
       },
       {
