@@ -13,6 +13,8 @@ Keputusan رسلان (20-21 November 2026), dikerjakan berurutan (langkah yang s
   LANGKAH 1b data\\app_words.json : arti "marga ..." (Inggris: "surname ...") di daftar arti 帅 遇 剪 景 闻 安 dipindah
              ke BAGIAN AKHIR daftar (seperti yang sudah terjadi pada 和 dan 从), supaya arti umumnya (tampan,
              bertemu, gunting, pemandangan, mendengar) menjadi arti pertama yang tampil.
+  LANGKAH 1c data\\app_words.json : untuk 帅, arti "tampan; anggun; gagah; elegan" (Inggris: "handsome; graceful;
+             dashing; elegant") dinaikkan ke URUTAN PERTAMA, karena itu arti yang paling umum dipakai.
   LANGKAH 2  data\\tone_drills.json : dibuat ulang dengan generator resmi skrip\\dari_py\\generate_tone_drills.py
              dari kamus yang sudah dibetulkan di langkah 1. Generator dipakai apa adanya (tidak diubah);
              skrip ini hanya membungkusnya dengan cadangan dan pemeriksaan.
@@ -21,7 +23,7 @@ Keputusan رسلان (20-21 November 2026), dikerjakan berurutan (langkah yang s
   (mis. 要 yāo -> yào, 说 shuì -> shuō, 上 shǎng -> shàng, 看 kān -> kàn) dan pinyin berhuruf kapital.
 
 Skrip ini boleh dijalankan ulang: langkah 1 untuk 5 kata (日 帅 遇 剪 景) sudah dikerjakan pada 21 November, jadi yang baru
-  hanya 安 (langkah 1 dan 1b) serta langkah 2.
+  hanya langkah 1c (帅) dan langkah 2.
 
 Berkas pendukung yang HARUS ada: skrip\\dari_py\\generate_tone_drills.py (sudah ada di repo).
 
@@ -39,7 +41,7 @@ KEAMANAN
     hanya dilakukan bila isian sekarang PERSIS bentuk lama (atau sudah bentuk baru).
   - Sebelum menulis dibuat dua cadangan:
         data\\app_words.json.bak_td_<tanggal-jam>   dan   data\\tone_drills.json.bak_td_<tanggal-jam>
-  - Langkah 1b hanya memindahkan urutan arti (tidak ada arti yang dihapus, ditambah, atau diubah teksnya).
+  - Langkah 1b dan 1c hanya memindahkan urutan arti (tidak ada arti yang dihapus, ditambah, atau diubah teksnya).
   - Setelah menulis, kedua berkas dibaca ulang dan dibandingkan dengan yang diharapkan; bila ada yang tidak
     cocok, KEDUA berkas dikembalikan dari cadangan.
   - Aman diulang: bila sudah mutakhir, dilaporkan "tidak ada yang perlu diubah".
@@ -76,6 +78,9 @@ KAPITAL = [
 # langkah 1b: kata yang arti "marga" (Inggris: "surname") di daftar artinya dipindah ke akhir
 MARGA_AKHIR = ["帅", "遇", "剪", "景", "闻", "安"]
 AWALAN_MARGA = {"meanings_id": "marga", "meanings_en": "surname"}
+# langkah 1c: arti yang dinaikkan ke urutan pertama (hanzi -> {medan: teks arti persis})
+DEPANKAN = [("帅", {"meanings_id": "tampan; anggun; gagah; elegan",
+                   "meanings_en": "handsome; graceful; dashing; elegant"})]
 BATAS_SELISIH = 0.10
 NADA = "āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ"
 
@@ -138,6 +143,32 @@ def pindah_marga(app, daftar):
         arti = app[i][medan]
         arti.remove(teks)
         arti.append(teks)
+
+
+def rencana_depan(app):
+    """Kembalikan (daftar (indeks_entri, medan, teks_arti), jumlah_sudah, galat)."""
+    daftar, sudah, galat = [], 0, []
+    for hz, isian in DEPANKAN:
+        cocok = [i for i, e in enumerate(app) if e.get("simplified") == hz]
+        if len(cocok) != 1:
+            galat.append("%s: ditemukan %d entri (harus tepat 1)" % (hz, len(cocok)))
+            continue
+        for medan, teks in isian.items():
+            arti = app[cocok[0]].get(medan, [])
+            if arti.count(teks) != 1:
+                galat.append("%s: %s memuat arti '%s' sebanyak %d kali (harus tepat 1)" % (hz, medan, teks, arti.count(teks)))
+            elif arti[0] == teks:
+                sudah += 1
+            else:
+                daftar.append((cocok[0], medan, teks))
+    return daftar, sudah, galat
+
+
+def depankan(app, daftar):
+    for i, medan, teks in daftar:
+        arti = app[i][medan]
+        arti.remove(teks)
+        arti.insert(0, teks)
 
 
 def muat_generator():
@@ -277,6 +308,19 @@ def main():
             [m for m in arti if m != teks][0][:40]))
     pindah_marga(app_baru, mk)
 
+    dk, sudah_d, galat_d = rencana_depan(app_baru)
+    print("\n=== Langkah 1c. data\\app_words.json: arti paling umum dinaikkan ke urutan pertama ===")
+    if galat_d:
+        print("BERHENTI: daftar arti tidak seperti yang diharapkan:")
+        for g in galat_d:
+            print("     " + g)
+        print("Tidak ada yang diubah. Kirim pesan ini ke Claude.")
+        return 1
+    print("Daftar arti yang akan diubah: %d  (sudah benar: %d)" % (len(dk), sudah_d))
+    for i, medan, teks in dk:
+        print("   %-3s %-12s \"%s\"  (urutan %d -> 1)" % (app_baru[i]["simplified"], medan, teks, app_baru[i][medan].index(teks) + 1))
+    depankan(app_baru, dk)
+
     # ---- langkah 2
     print("\n=== Langkah 2. data\\tone_drills.json dibuat ulang (generator resmi, di folder sementara) ===")
     lama_td = json.loads(TD.read_bytes().decode("utf-8"))
@@ -308,11 +352,12 @@ def main():
 
     teks_td = tulis_teks(baru_td, "")
     sama_td = TD.read_bytes().decode("utf-8") == teks_td
-    baris = ["PENYEGARAN tone_drills.json -- %d isian kamus, %d daftar arti, %d bacaan Pilih Nada berubah" % (len(pk), len(mk), ring["ubah"]), ""]
+    baris = ["PENYEGARAN tone_drills.json -- %d isian kamus, %d daftar arti diurutkan ulang, %d bacaan Pilih Nada berubah" % (len(pk), len(mk) + len(dk), ring["ubah"]), ""]
     baris += ["## KAMUS (app_words.json)"] + ["   %s | %s | %s -> %s" % (app[i]["simplified"], k, l, b) for i, k, l, b in pk]
     baris += ["   %s | %s | arti \"%s\" dipindah ke akhir daftar" % (app[i]["simplified"], medan, teks) for i, medan, teks in mk]
+    baris += ["   %s | %s | arti \"%s\" dinaikkan ke urutan pertama" % (app[i]["simplified"], medan, teks) for i, medan, teks in dk]
     baris += [""] + baris_selisih
-    if not pk and not mk and sama_td:
+    if not pk and not mk and not dk and sama_td:
         print("\nTidak ada yang perlu diubah.")
         return 0
     if not a.apply:
@@ -329,7 +374,7 @@ def main():
     shutil.copy2(TD, cad_t)
     ok = True
     try:
-        if pk or mk:
+        if pk or mk or dk:
             APP.write_bytes(tulis_teks(app_baru, akhir).encode("utf-8"))
         TD.write_bytes(teks_td.encode("utf-8"))
         ulang_a = json.loads(APP.read_bytes().decode("utf-8"))
@@ -344,7 +389,7 @@ def main():
         print("\nPEMERIKSAAN AKHIR GAGAL: kedua berkas dikembalikan dari cadangan. Kirim pesan ini ke Claude.")
         return 1
     HASIL.write_text("\r\n".join(baris) + "\r\n", encoding="utf-8-sig")
-    print("\nSelesai: %d isian kamus dibetulkan, %d daftar arti diurutkan ulang, dan tone_drills.json dibuat ulang." % (len(pk), len(mk)))
+    print("\nSelesai: %d isian kamus dibetulkan, %d daftar arti diurutkan ulang, dan tone_drills.json dibuat ulang." % (len(pk), len(mk) + len(dk)))
     print("Cadangan: %s dan %s" % (cad_a.name, cad_t.name))
     print("Pemeriksaan akhir lolos (kamus hanya berubah pada isian yang direncanakan; %d kata kamus utuh)." % len(ulang_a))
     print("Daftar lengkap selisih: %s" % HASIL.name)
