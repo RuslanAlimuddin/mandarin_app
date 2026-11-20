@@ -1,21 +1,27 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-segarkan_tone_drills.py -- penyegaran data\\tone_drills.json (butir 4 rencana BLUEPRINT_v46) + 5 kata kapital
+segarkan_tone_drills.py -- penyegaran data\\tone_drills.json (butir 4 rencana BLUEPRINT_v46) + 6 kata kapital dan urutan arti marga
 ==========================================================================================================
-Keputusan رسلان (20 November 2026), dikerjakan berurutan:
+Keputusan رسلان (20-21 November 2026), dikerjakan berurutan (langkah yang sudah pernah dijalankan dilewati):
 
-  LANGKAH 1  data\\app_words.json : lima kata biasa yang pinyin-nya tertulis berhuruf kapital karena arti
+  LANGKAH 1  data\\app_words.json : enam kata biasa yang pinyin-nya tertulis berhuruf kapital karena arti
              pertamanya "marga" dijadikan huruf kecil (pinyin dan pinyin_numeric):
                  日 Rì -> rì (Ri4 -> ri4)      帅 Shuài -> shuài (Shuai4 -> shuai4)
                  遇 Yù -> yù (Yu4 -> yu4)       剪 Jiǎn -> jiǎn (Jian3 -> jian3)
-                 景 Jǐng -> jǐng (Jing3 -> jing3)
+                 景 Jǐng -> jǐng (Jing3 -> jing3)      安 Ān -> ān (An1 -> an1)  [ditemukan belakangan]
+  LANGKAH 1b data\\app_words.json : arti "marga ..." (Inggris: "surname ...") di daftar arti 帅 遇 剪 景 闻 安 dipindah
+             ke BAGIAN AKHIR daftar (seperti yang sudah terjadi pada 和 dan 从), supaya arti umumnya (tampan,
+             bertemu, gunting, pemandangan, mendengar) menjadi arti pertama yang tampil.
   LANGKAH 2  data\\tone_drills.json : dibuat ulang dengan generator resmi skrip\\dari_py\\generate_tone_drills.py
              dari kamus yang sudah dibetulkan di langkah 1. Generator dipakai apa adanya (tidak diubah);
              skrip ini hanya membungkusnya dengan cadangan dan pemeriksaan.
 
   Dampak di aplikasi: soal "Pilih Nada" dan "Pilih Hanzi" berhenti memakai bacaan salah yang tertinggal
   (mis. 要 yāo -> yào, 说 shuì -> shuō, 上 shǎng -> shàng, 看 kān -> kàn) dan pinyin berhuruf kapital.
+
+Skrip ini boleh dijalankan ulang: langkah 1 untuk 5 kata (日 帅 遇 剪 景) sudah dikerjakan pada 21 November, jadi yang baru
+  hanya 安 (langkah 1 dan 1b) serta langkah 2.
 
 Berkas pendukung yang HARUS ada: skrip\\dari_py\\generate_tone_drills.py (sudah ada di repo).
 
@@ -33,6 +39,7 @@ KEAMANAN
     hanya dilakukan bila isian sekarang PERSIS bentuk lama (atau sudah bentuk baru).
   - Sebelum menulis dibuat dua cadangan:
         data\\app_words.json.bak_td_<tanggal-jam>   dan   data\\tone_drills.json.bak_td_<tanggal-jam>
+  - Langkah 1b hanya memindahkan urutan arti (tidak ada arti yang dihapus, ditambah, atau diubah teksnya).
   - Setelah menulis, kedua berkas dibaca ulang dan dibandingkan dengan yang diharapkan; bila ada yang tidak
     cocok, KEDUA berkas dikembalikan dari cadangan.
   - Aman diulang: bila sudah mutakhir, dilaporkan "tidak ada yang perlu diubah".
@@ -64,7 +71,11 @@ KAPITAL = [
     ("遇", ("Yù", "Yu4"), ("yù", "yu4")),
     ("剪", ("Jiǎn", "Jian3"), ("jiǎn", "jian3")),
     ("景", ("Jǐng", "Jing3"), ("jǐng", "jing3")),
+    ("安", ("Ān", "An1"), ("ān", "an1")),
 ]
+# langkah 1b: kata yang arti "marga" (Inggris: "surname") di daftar artinya dipindah ke akhir
+MARGA_AKHIR = ["帅", "遇", "剪", "景", "闻", "安"]
+AWALAN_MARGA = {"meanings_id": "marga", "meanings_en": "surname"}
 BATAS_SELISIH = 0.10
 NADA = "āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ"
 
@@ -101,6 +112,34 @@ def rencana_kapital(app):
     return daftar, sudah, galat
 
 
+def rencana_marga(app):
+    """Kembalikan (daftar (indeks_entri, medan, teks_arti), jumlah_sudah, galat)."""
+    daftar, sudah, galat = [], 0, []
+    for hz in MARGA_AKHIR:
+        cocok = [i for i, e in enumerate(app) if e.get("simplified") == hz]
+        if len(cocok) != 1:
+            galat.append("%s: ditemukan %d entri (harus tepat 1)" % (hz, len(cocok)))
+            continue
+        e = app[cocok[0]]
+        for medan, awalan in AWALAN_MARGA.items():
+            arti = e.get(medan, [])
+            ada = [k for k, m in enumerate(arti) if m.lower().startswith(awalan)]
+            if len(ada) != 1:
+                galat.append("%s: %s memuat %d arti berawalan '%s' (harus tepat 1)" % (hz, medan, len(ada), awalan))
+            elif ada[0] == len(arti) - 1:
+                sudah += 1
+            else:
+                daftar.append((cocok[0], medan, arti[ada[0]]))
+    return daftar, sudah, galat
+
+
+def pindah_marga(app, daftar):
+    for i, medan, teks in daftar:
+        arti = app[i][medan]
+        arti.remove(teks)
+        arti.append(teks)
+
+
 def muat_generator():
     spec = importlib.util.spec_from_file_location("generate_tone_drills", str(GEN))
     mod = importlib.util.module_from_spec(spec)
@@ -133,7 +172,7 @@ def periksa(baru, lama, mod):
             masalah.append("nada tidak cocok dengan pinyin: %s %s %s" % (e["cn"], e["py"], e["tone"]))
         if e["base"] != mod.toneless_pinyin(e["py"]):
             masalah.append("dasar pinyin tidak cocok: %s %s %s" % (e["cn"], e["py"], e["base"]))
-        if len(e["cn"]) == 1 and re.search("[A-Z]", e["py"]):
+        if len(e["cn"]) == 1 and e["py"] != e["py"].lower():
             masalah.append("pinyin kapital pada kata satu karakter: %s %s" % (e["cn"], e["py"]))
         if not any(ch in NADA for ch in e["py"]):
             masalah.append("tanpa tanda nada: %s %s" % (e["cn"], e["py"]))
@@ -144,7 +183,7 @@ def periksa(baru, lama, mod):
         for e in daftar:
             if mod.toneless_pinyin(e["py"]) != dasar:
                 masalah.append("kelompok %s memuat %s %s yang dasarnya lain" % (dasar, e["cn"], e["py"]))
-            if len(e["cn"]) == 1 and re.search("[A-Z]", e["py"]):
+            if len(e["cn"]) == 1 and e["py"] != e["py"].lower():
                 masalah.append("pinyin kapital pada kata satu karakter di kelompok %s: %s %s" % (dasar, e["cn"], e["py"]))
     for nama, a, b in (("singles", len(baru["singles"]), len(lama["singles"])),
                        ("kelompok", len(baru["groups"]), len(lama["groups"]))):
@@ -191,7 +230,7 @@ def bandingkan(lama, baru):
 def main():
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8", errors="replace")
-    ap = argparse.ArgumentParser(description="Betulkan 5 kata kapital dan buat ulang tone_drills.json")
+    ap = argparse.ArgumentParser(description="Betulkan kata kapital, urutan arti marga, dan buat ulang tone_drills.json")
     ap.add_argument("--apply", action="store_true", help="benar-benar menulis (tanpa ini hanya menampilkan ringkasan)")
     a = ap.parse_args()
     print("Mode: %s\n" % ("TERAPKAN (--apply)" if a.apply else "LIHAT-DULU (tidak mengubah apa pun)"))
@@ -208,7 +247,7 @@ def main():
 
     # ---- langkah 1
     pk, sudah, galat = rencana_kapital(app)
-    print("=== Langkah 1. data\\app_words.json: 5 kata berpinyin kapital ===")
+    print("=== Langkah 1. data\\app_words.json: kata biasa berpinyin kapital ===")
     if galat:
         print("BERHENTI: isian kamus tidak seperti yang diharapkan:")
         for g in galat:
@@ -221,6 +260,22 @@ def main():
     app_baru = copy.deepcopy(app)
     for i, kunci, lama, baru in pk:
         app_baru[i][kunci] = baru
+
+    mk, sudah_m, galat_m = rencana_marga(app_baru)
+    print("\n=== Langkah 1b. data\\app_words.json: arti \"marga\" dipindah ke akhir daftar arti ===")
+    if galat_m:
+        print("BERHENTI: daftar arti tidak seperti yang diharapkan:")
+        for g in galat_m:
+            print("     " + g)
+        print("Tidak ada yang diubah. Kirim pesan ini ke Claude.")
+        return 1
+    print("Daftar arti yang akan diubah: %d  (sudah benar: %d)" % (len(mk), sudah_m))
+    for i, medan, teks in mk:
+        arti = app_baru[i][medan]
+        print("   %-3s %-12s \"%s\"  (urutan %d -> %d, arti pertama baru: \"%s\")" % (
+            app_baru[i]["simplified"], medan, teks, arti.index(teks) + 1, len(arti),
+            [m for m in arti if m != teks][0][:40]))
+    pindah_marga(app_baru, mk)
 
     # ---- langkah 2
     print("\n=== Langkah 2. data\\tone_drills.json dibuat ulang (generator resmi, di folder sementara) ===")
@@ -253,10 +308,11 @@ def main():
 
     teks_td = tulis_teks(baru_td, "")
     sama_td = TD.read_bytes().decode("utf-8") == teks_td
-    baris = ["PENYEGARAN tone_drills.json -- %d isian kamus, %d bacaan Pilih Nada berubah" % (len(pk), ring["ubah"]), ""]
+    baris = ["PENYEGARAN tone_drills.json -- %d isian kamus, %d daftar arti, %d bacaan Pilih Nada berubah" % (len(pk), len(mk), ring["ubah"]), ""]
     baris += ["## KAMUS (app_words.json)"] + ["   %s | %s | %s -> %s" % (app[i]["simplified"], k, l, b) for i, k, l, b in pk]
+    baris += ["   %s | %s | arti \"%s\" dipindah ke akhir daftar" % (app[i]["simplified"], medan, teks) for i, medan, teks in mk]
     baris += [""] + baris_selisih
-    if not pk and sama_td:
+    if not pk and not mk and sama_td:
         print("\nTidak ada yang perlu diubah.")
         return 0
     if not a.apply:
@@ -273,7 +329,7 @@ def main():
     shutil.copy2(TD, cad_t)
     ok = True
     try:
-        if pk:
+        if pk or mk:
             APP.write_bytes(tulis_teks(app_baru, akhir).encode("utf-8"))
         TD.write_bytes(teks_td.encode("utf-8"))
         ulang_a = json.loads(APP.read_bytes().decode("utf-8"))
@@ -288,7 +344,7 @@ def main():
         print("\nPEMERIKSAAN AKHIR GAGAL: kedua berkas dikembalikan dari cadangan. Kirim pesan ini ke Claude.")
         return 1
     HASIL.write_text("\r\n".join(baris) + "\r\n", encoding="utf-8-sig")
-    print("\nSelesai: %d isian kamus dibetulkan dan tone_drills.json dibuat ulang." % len(pk))
+    print("\nSelesai: %d isian kamus dibetulkan, %d daftar arti diurutkan ulang, dan tone_drills.json dibuat ulang." % (len(pk), len(mk)))
     print("Cadangan: %s dan %s" % (cad_a.name, cad_t.name))
     print("Pemeriksaan akhir lolos (kamus hanya berubah pada isian yang direncanakan; %d kata kamus utuh)." % len(ulang_a))
     print("Daftar lengkap selisih: %s" % HASIL.name)
