@@ -24,11 +24,14 @@ Bagian 5 v47 menggantikan bagian 5 v46.
   `produktif_karakter.json`; ada yang LF; ada yang satu baris seperti `pelajaran/pilar_9.json`). Skrip yang menulis ulang seluruh berkas menolak bekerja bila format tidak bisa ditulis ulang persis sama.
 - **Pemeriksaan huruf kapital harus memakai `teks != teks.lower()`, bukan `[A-Z]`.** Kapital bertanda nada ("Ān") lolos dari `[A-Z]`; akibatnya 安 sempat hilang
   dari soal "Pilih Nada" dan tak terdeteksi di laporan pertama. Kesalahan ini diakui dan diperbaiki di `segarkan_tone_drills.py`.
-- **Cara mengunggah (aplikasi `GitHub_Transfer_Tool_V5.py`, tkinter, lewat API GitHub dengan token).**
+- **Cara mengunggah (aplikasi `GitHub_Transfer_Tool_V6.py`, tkinter, lewat API GitHub dengan token; dijalankan dengan `Jalankan_Aplikasi_V6.bat`; V5 tetap ada sebagai cadangan).**
   Tujuan unggahan ditentukan oleh **folder yang sedang dipilih di pohon**; bila tidak ada yang dipilih, berkas masuk ke **akar repo**
-  (sebab `nuance_pairs.json` pernah terunggah ke akar). Jadi: klik dulu folder tujuan (mis. `data` atau `blueprint`) dan periksa baris
-  "Lokasi: mandarin_app | main | /data" di panel kanan, baru klik "Unggah file". Aplikasi ini **tidak membaca `.gitignore`**, dan "Unggah folder"
-  hanya melewati nama berakhiran `.bak`, bukan `.bak_li_2026…`, jadi **jangan memakai "Unggah folder" pada `data`** (berkas cadangan ikut terunggah).
+  (sebab `nuance_pairs.json` pernah terunggah ke akar di V5). Jadi: klik dulu folder tujuan (mis. `data` atau `blueprint`) dan periksa baris
+  "Tujuan unggah: /data" di panel kanan, baru klik "Unggah file". **V6 menampilkan dialog konfirmasi** (status Baru / Berubah / Sama persis, peringatan bila
+  berkas bernama sama sudah ada di folder lain, pesan commit yang bisa diubah) dan mengirim banyak berkas sebagai **satu commit**. V6 memakai **aturan abaikan**:
+  bawaan (`*.bak_*`, `__pycache__`, `.env`, dst.) ditambah isi **`.gitignore` di repo**, jadi `.gitignore` kini berfungsi. Nama `.gitignore` **harus berawalan titik**
+  (berkas yang diunduh dari percakapan bisa kehilangan titik; perbaiki dengan "Ganti nama / pindahkan" di aplikasi). Sortir dan saringan: klik judul kolom (Nama, Jenis, Ukuran, Diubah),
+  kotak cari, filter jenis dan waktu, "Tampilan datar"; tanggal berkas dibaca dari 100 commit terakhir ("Muat tanggal lebih lama" menambah 100). Tema terang atau gelap lewat tombol di kanan atas.
 
 ## 2. Selesai sesi ini (20–21 November 2026)
 
@@ -81,18 +84,19 @@ Semua tahap diuji رسلان di aplikasi dan lolos. **Verifikasi akhir (Claude, 
 - Folder `skrip/` (101 berkas) tidak berubah.
 
 **Keluaran sekali pakai (rencana pembersihan disetujui): hapus dari repo** `hasil_nada_nuance.txt`, `laporan_nada_nuance.txt`, `usulan_nada_nuance.json`.
-Cara (aplikasi unggah): sambungkan → klik berkasnya di pohon (Ctrl+klik untuk beberapa) → **Hapus file terpilih** → Ya. Berkas serupa `hasil_li_netral.txt`, `hasil_li_berkas_lain.txt`, `hasil_tone_drills.txt` hanya ada di PC.
+Cara (aplikasi unggah): sambungkan → klik berkasnya di pohon (Ctrl+klik untuk beberapa) → **Hapus terpilih** → Ya. Berkas serupa `hasil_li_netral.txt`, `hasil_li_berkas_lain.txt`, `hasil_tone_drills.txt` hanya ada di PC.
 
 **`.gitignore` (baru):** berisi `*.bak_*`, `arsip_cadangan_lama/`, `backups/`, `__pycache__/`, `*.pyc`, `hasil_*.txt`, `laporan_*.txt`, `usulan_*.json`. Letaknya di akar repo.
-**Catatan: aplikasi unggah tidak membacanya**, jadi ia hanya berguna bila kelak memakai git atau GitHub Desktop; perlindungan nyata adalah memilih folder dan berkas dengan benar (bagian 1).
+**Catatan:** aplikasi unggah V6 **membaca `.gitignore` di repo** (ditambah aturan bawaan), sehingga berkas yang cocok aturan dilewati pada "Unggah folder" dan diberi tanda pada "Unggah file".
+Pastikan namanya `.gitignore` (berawalan titik).
 
 **Cadangan di PC (tidak diunggah):** label `bak_nada`, `bak_nadalama`, `bak_yi`, `bak_ge`, `bak_netral`, `bak_li`, `bak_li2`, `bak_td`. Rapikan kelak dengan `python beres_cadangan.py` (lihat-dulu, lalu `--apply`).
 
 ## 5. Rencana ke depan (belum diputuskan; pilih saat sesi berikutnya)
 
 1. **80 kata berpinyin kapital** (bagian 3): tinjauan satu per satu, dimulai dengan skrip lihat-dulu yang mendaftar semuanya dengan arti dan HSK-nya.
-2. **Peningkatan aplikasi unggah (usulan, belum disetujui)**: (a) tampilkan konfirmasi tujuan (repo, branch, folder, daftar berkas) sebelum "Unggah file"; (b) beri peringatan bila berkas bernama sama sudah ada di folder lain
-   (mencegah kasus `nuance_pairs.json` terunggah ke akar); (c) saring nama yang memuat `.bak_` dan folder `arsip_cadangan_lama`, `backups` pada "Unggah folder".
+2. **Aplikasi unggah V6: selesai** (21 November 2026): konfirmasi tujuan, peringatan nama sama, aturan abaikan dari `.gitignore`, satu commit untuk banyak berkas, sortir, saringan, tema gelap,
+   ganti nama/pindah, hapus folder, proses di latar belakang dengan tombol Batal. Dicatat di sini agar sesi berikutnya tidak menyuruh memakai V5.
 3. **22 soal "Pilih yang Tepat" yang dilewati** (lihat v44 bagian 3).
 4. **Pelajaran Pilar 3 (量词)** yang asli, lewat GPT dengan pesan serah terima. Catatan: penggolong 个 di contoh kini selalu netral "ge".
 5. **Tingkat 3 awalan/akhiran** (族 迷 热 控 症 剂 炎 盲, penunjuk posisi 上 下 里 外 中 间, 边) dan **latihan awalan/akhiran** (Flashcard, Word Builder, Ujian HSK).
