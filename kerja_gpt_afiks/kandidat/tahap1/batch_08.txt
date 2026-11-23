@@ -1,0 +1,148 @@
+PERAN
+Kamu membantu menyusun bahan belajar Mandarin untuk pelajar berbahasa Indonesia.
+Tugasmu: menilai apakah karakter imbuhan di dalam setiap kata kandidat BENAR-BENAR berfungsi sebagai
+imbuhan yang dimaksud, atau hanya kebetulan ada di kata itu.
+
+CARA MENILAI
+Untuk setiap kata kandidat, nilai HANYA terhadap imbuhan dan fungsi yang tertulis pada bagian
+"IMBUHAN" di bawah. Jangan memakai arti lain dari karakter itu.
+- "imbuhan": karakter itu berfungsi persis seperti definisi yang diberikan.
+- "bukan": karakter itu ada di kata tersebut, tetapi tidak berfungsi sebagai imbuhan itu
+  (misalnya bagian dari kata dasar, kata serapan, atau punya arti lain).
+- "ragu": kamu tidak yakin, atau fungsinya berada di antara keduanya / berbeda dari definisi.
+  Lebih baik "ragu" daripada menebak.
+
+ATURAN KERAS (tidak boleh dilanggar)
+1. Jangan mengarang. Pinyin dan arti kata sudah diberikan; pakailah itu apa adanya.
+2. Beri tepat satu entri untuk SETIAP kata pada daftar, dengan urutan yang sama dengan nomor di daftar.
+   Tidak boleh ada yang dilewati dan tidak boleh ada kata tambahan.
+3. "alasan" = satu kalimat Bahasa Indonesia sehari-hari yang mudah dipahami (pakai tanda kutip “ ” untuk arti).
+   - Untuk "bukan": sebut arti kata, lalu mengapa karakter itu bukan imbuhan.
+   - Untuk "imbuhan": jelaskan singkat bagaimana karakter itu berfungsi seperti definisi.
+   - Untuk "ragu": jelaskan letak keraguannya.
+4. Keluarkan HANYA satu blok JSON (sebuah array), tanpa teks pembuka atau penutup.
+
+CONTOH GAYA "alasan"
+- 发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang.
+- 花生 berarti “kacang tanah”; 生 menjadi bagian nama benda, bukan penanda orang.
+- 学生 berarti “siswa”; 生 menunjukkan orang dengan status pelajar.
+
+FORMAT KELUARAN
+[
+  {"afiks": "生", "kata": "发生", "golongan": "bukan", "alasan": "发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang."}
+]
+"golongan" hanya boleh salah satu dari: "imbuhan", "bukan", "ragu".
+
+
+============================================================
+DAFTAR YANG HARUS DINILAI (berkas 08)
+============================================================
+
+------------------------------------------------------------
+IMBUHAN: 论 (akhiran)  — kelompok D: Bidang dan ilmu
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menjadi pokok bahasan untuk membentuk istilah teori, kesimpulan, atau perdebatan.
+Arti: teori, pembahasan, atau pendapat
+Contoh yang SAH imbuhan ini (sudah diketahui): 理论, 结论, 讨论, 评论
+Contoh yang BUKAN imbuhan ini (sudah diketahui):
+   不论 — 不论 berarti “terlepas dari/tidak peduli”; 论 menjadi bagian kata utuh, bukan akhiran bidang pemikiran.
+Catatan: Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia.
+Kata yang harus dinilai untuk 论:
+1. 争论 | zhēng lùn | membantah; berdebat
+2. 定论 | dìng lùn | kesimpulan akhir; argumen yang diterima
+3. 推论 | tuī lùn | menyimpulkan; inferensi
+4. 社论 | shè lùn | editorial (di surat kabar)
+5. 辩论 | biàn lùn | debat; argumen
+6. 言论 | yán lùn | ekspresi pendapat; pandangan
+7. 谈论 | tán lùn | mendiskusikan; membicarakan
+8. 一概而论 | yī gài ér lùn | menyamakan berbagai masalah (idiom)
+9. 舆论 | yú lùn | opini publik
+10. 议论 | yì lùn | mengomentari; membicarakan
+11. 概论 | gài lùn | garis besar; pengantar
+12. 相提并论 | xiāng tí bìng lùn | membicarakan dua hal yang berbeda bersama-sama (idiom); menyebutkan pada ting...; menempatkan setara
+13. 无论 | wú lùn | apa pun yang terjadi atau bagaimana pun; terlepas dari apakah...
+
+------------------------------------------------------------
+IMBUHAN: 业 (akhiran)  — kelompok D: Bidang dan ilmu
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur bidang atau kegiatan untuk membentuk nama profesi, sektor, atau industri.
+Arti: bidang pekerjaan, profesi, atau industri
+Contoh yang SAH imbuhan ini (sudah diketahui): 专业, 职业, 工业, 农业
+Contoh yang BUKAN imbuhan ini (sudah diketahui):
+   失业 — 失业 berarti “kehilangan pekerjaan”; 业 menjadi bagian kata kerja, bukan akhiran nama bidang.
+   创业 — 创业 berarti “memulai usaha”; 业 menjadi bagian kata kerja, bukan akhiran yang menamai bidang usaha.
+Catatan: Pada 业务, 业 berada di awal kata dan berarti urusan atau kegiatan usaha; ini bagian kata utuh, bukan awalan.
+Kata yang harus dinilai untuk 业:
+14. 作业 | zuò yè | tugas sekolah; pekerjaan rumah; pekerjaan; tugas; operasi; mengoperasikan
+15. 毕业 | bì yè | kelulusan; lulus
+16. 停业 | tíng yè | berhenti berdagang (sementara atau permanen); menutup
+17. 就业 | jiù yè | mendapat pekerjaan; ketenagakerjaan
+18. 商业 | shāng yè | bisnis; perdagangan
+19. 企业 | qǐ yè | perusahaan; firma; korporasi
+20. 行业 | háng yè | perdagangan; profesi; industri; bisnis
+21. 物业 | wù yè | properti; real estat; singkatan dari 物業管理|物业管理, manajemen properti
+22. 兢兢业业 | jīng jīng yè yè | (idiom) teliti; rajin
+23. 安居乐业 | ān jū lè yè | hidup damai dan bekerja dengan bahagia (idiom)
+24. 开业 | kāi yè | membuka bisnis; membuka praktik
+25. 学业 | xué yè | pelajaran; pekerjaan sekolah
+26. 敬业 | jìng yè | didedikasikan untuk pekerjaan seseorang
+27. 产业 | chǎn yè | industri; properti
+28. 从业 | cóng yè | berpraktik (sebuah perdagangan)
+29. 事业 | shì yè | usaha; proyek
+30. 营业 | yíng yè | berdagang; melakukan bisnis
+
+------------------------------------------------------------
+IMBUHAN: 界 (akhiran)  — kelompok D: Bidang dan ilmu
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menunjukkan bidang atau kelompok untuk menyebut lingkungan atau ranah tersebut.
+Arti: lingkungan, ranah, atau kelompok bidang
+Contoh yang SAH imbuhan ini (sudah diketahui): 外界, 自然界, 工商界, 边界
+Kata yang harus dinilai untuk 界:
+31. 境界 | jìng jiè | batas; keadaan
+32. 全世界 | quán shì jiè | seluruh dunia; seantero dunia
+33. 世界 | shì jiè | dunia
+34. 眼界 | yǎn jiè | (harfiah dan kiasan) bidang penglihatan; ruang lingkup; cakrawala
+35. 交界 | jiāo jiè | batas umum; perbatasan umum
+
+------------------------------------------------------------
+IMBUHAN: 馆 (akhiran)  — kelompok E: Tempat dan lembaga
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menjelaskan layanan atau kegiatan untuk menamai tempat yang menyediakan layanan atau kegiatan itu.
+Arti: gedung atau tempat layanan/kegiatan
+Contoh yang SAH imbuhan ini (sudah diketahui): 图书馆, 博物馆, 饭馆, 旅馆
+Catatan: Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia.
+Kata yang harus dinilai untuk 馆:
+36. 体育馆 | tǐ yù guǎn | gimnasium; stadion
+37. 美术馆 | měi shù guǎn | galeri seni
+38. 大使馆 | dà shǐ guǎn | kedutaan besar
+39. 领事馆 | lǐng shì guǎn | konsulat
+40. 餐馆 | cān guǎn | restoran
+41. 宾馆 | bīn guǎn | penginapan; hotel
+42. 场馆 | chǎng guǎn | tempat olahraga; arena
+43. 水族馆 | shuǐ zú guǎn | akuarium (terbuka untuk umum)
+44. 纪念馆 | jì niàn guǎn | gedung peringatan; museum peringatan
+
+------------------------------------------------------------
+IMBUHAN: 室 (akhiran)  — kelompok E: Tempat dan lembaga
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menjelaskan kegiatan atau pemakaian untuk menamai ruangan.
+Arti: ruang atau kamar untuk fungsi tertentu
+Contoh yang SAH imbuhan ini (sudah diketahui): 办公室, 教室, 实验室, 卧室
+Kata yang harus dinilai untuk 室:
+45. 演播室 | yǎn bō shì | studio siaran
+46. 候机室 | hòujīshì | ruang tunggu bandara
+47. 阅览室 | yuè lǎn shì | ruang baca
+48. 手术室 | shǒu shù shì | ruang operasi
+49. 浴室 | yù shì | kamar mandi; kamar mandi (; pemandian umum
+50. 更衣室 | gēng yī shì | ruang ganti; ruang ganti pakaian; ruang loker; (eufemisme) toilet
+51. 地下室 | dì xià shì | ruang bawah tanah; gudang bawah tanah
+52. 温室 | wēn shì | rumah kaca
+53. 寝室 | qǐn shì | kamar tidur; asrama
+54. 皇室 | huáng shì | keluarga kerajaan; rumah tangga kekaisaran
+
+------------------------------------------------------------
+IMBUHAN: 站 (akhiran)  — kelompok E: Tempat dan lembaga
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menjelaskan layanan atau fasilitas untuk menamai tempat pemberhentian atau pelayanan.
+Arti: stasiun, pos, atau tempat layanan
+Contoh yang SAH imbuhan ini (sudah diketahui): 车站, 地铁站, 加油站, 网站
+Catatan: Pada 站立, 站 berada di awal kata dan berarti berdiri; ini kata kerja, bukan awalan pembentuk nama tempat.
+Kata yang harus dinilai untuk 站:
+55. 火车站 | huǒ chē zhàn | stasiun kereta api
+56. 核电站 | hé diàn zhàn | pembangkit listrik tenaga nuklir
+
+Ingat: keluarkan HANYA satu blok JSON (array) berisi 56 entri, urut nomor 1 sampai 56.

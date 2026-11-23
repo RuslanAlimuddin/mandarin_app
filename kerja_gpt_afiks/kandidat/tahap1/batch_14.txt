@@ -1,0 +1,98 @@
+PERAN
+Kamu membantu menyusun bahan belajar Mandarin untuk pelajar berbahasa Indonesia.
+Tugasmu: menilai apakah karakter imbuhan di dalam setiap kata kandidat BENAR-BENAR berfungsi sebagai
+imbuhan yang dimaksud, atau hanya kebetulan ada di kata itu.
+
+CARA MENILAI
+Untuk setiap kata kandidat, nilai HANYA terhadap imbuhan dan fungsi yang tertulis pada bagian
+"IMBUHAN" di bawah. Jangan memakai arti lain dari karakter itu.
+- "imbuhan": karakter itu berfungsi persis seperti definisi yang diberikan.
+- "bukan": karakter itu ada di kata tersebut, tetapi tidak berfungsi sebagai imbuhan itu
+  (misalnya bagian dari kata dasar, kata serapan, atau punya arti lain).
+- "ragu": kamu tidak yakin, atau fungsinya berada di antara keduanya / berbeda dari definisi.
+  Lebih baik "ragu" daripada menebak.
+
+ATURAN KERAS (tidak boleh dilanggar)
+1. Jangan mengarang. Pinyin dan arti kata sudah diberikan; pakailah itu apa adanya.
+2. Beri tepat satu entri untuk SETIAP kata pada daftar, dengan urutan yang sama dengan nomor di daftar.
+   Tidak boleh ada yang dilewati dan tidak boleh ada kata tambahan.
+3. "alasan" = satu kalimat Bahasa Indonesia sehari-hari yang mudah dipahami (pakai tanda kutip “ ” untuk arti).
+   - Untuk "bukan": sebut arti kata, lalu mengapa karakter itu bukan imbuhan.
+   - Untuk "imbuhan": jelaskan singkat bagaimana karakter itu berfungsi seperti definisi.
+   - Untuk "ragu": jelaskan letak keraguannya.
+4. Keluarkan HANYA satu blok JSON (sebuah array), tanpa teks pembuka atau penutup.
+
+CONTOH GAYA "alasan"
+- 发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang.
+- 花生 berarti “kacang tanah”; 生 menjadi bagian nama benda, bukan penanda orang.
+- 学生 berarti “siswa”; 生 menunjukkan orang dengan status pelajar.
+
+FORMAT KELUARAN
+[
+  {"afiks": "生", "kata": "发生", "golongan": "bukan", "alasan": "发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang."}
+]
+"golongan" hanya boleh salah satu dari: "imbuhan", "bukan", "ragu".
+
+
+============================================================
+DAFTAR YANG HARUS DINILAI (berkas 14)
+============================================================
+
+------------------------------------------------------------
+IMBUHAN: 可 (awalan)  — kelompok H: Penanda awal kata
+Fungsi yang dinilai (sebagai awalan): Diletakkan di awal unsur tertentu untuk membentuk kata sifat yang menyatakan sesuatu dapat dirasakan, dinilai, atau dilakukan.
+Arti: dapat menimbulkan atau memiliki sifat tertentu
+Contoh yang SAH imbuhan ini (sudah diketahui): 可爱, 可怕, 可靠, 可惜
+Contoh yang BUKAN imbuhan ini (sudah diketahui):
+   可能 — 可能 berarti “mungkin”; 可 menjadi bagian kata utuh yang menyatakan kemungkinan, bukan awalan bermakna “layak/dapat”.
+   可是 — 可是 berarti “tetapi”; 可 menjadi bagian kata penghubung, bukan awalan pembentuk kata sifat.
+Kata yang harus dinilai untuk 可:
+1. 可怜 | kě lián | menyedihkan; memilukan
+2. 可不是 | kě bu shì | (pengucapan) tepat!; memang; itu pasti
+3. 可歌可泣 | kě gē kě qì | (harfiah) Anda bisa bernyanyi atau Anda bisa menangis (idiom); kiasan. sangat...; bahagia dan sedih
+4. 可行 | kě xíng | layak
+5. 可见 | kě jiàn | dapat dilihat dengan jelas (bahwa ini adalah kasusnya); jelas (demikian)
+6. 可想而知 | kě xiǎng ér zhī | (idiom) (itu) sudah jelas; bisa dibayangkan dengan baik
+7. 可乐 | kě lè | menyenangkan; menghibur
+8. 可笑 | kě xiào | lucu; konyol
+9. 可谓 | kě wèi | bahkan dapat dikatakan
+10. 可以 | kě yǐ | bisa; boleh
+11. 可观 | kě guān | layak dilihat; cukup besar; mengesankan; signifikan
+12. 可信 | kě xìn | dapat dipercaya
+13. 可贵 | kě guì | dihargai; terpuji
+14. 可疑 | kě yí | mencurigakan; meragukan
+15. 可乘之机 | kě chéng zhī jī | (idiom) kesempatan yang dapat dieksploitasi oleh seseorang (biasanya penjahat...
+16. 可口 | kě kǒu | enak; terasa enak
+17. 可恶 | kě wù | menjijikkan; keji
+18. 可耻 | kě chǐ | memalukan; menghinakan
+19. 可悲 | kě bēi | menyedihkan
+
+------------------------------------------------------------
+IMBUHAN: 不 (awalan)  — kelompok I: Menolak/meniadakan
+Fungsi yang dinilai (sebagai awalan): Diletakkan di awal kata untuk memberi makna penyangkalan atau kebalikan.
+Arti: tidak atau bukan
+Contoh yang SAH imbuhan ini (sudah diketahui): 不同, 不错, 不少, 不够
+Kata yang harus dinilai untuk 不:
+20. 不一定 | bù yī dìng | tidak harus; mungkin
+21. 不一会儿 | bù yī huǐ r | ?
+22. 不过 | bù guò | hanya; semata-mata
+23. 不客气 | bù kè qi | sama-sama; jangan sebutkan
+24. 不断 | bù duàn | tak henti-hentinya; tanpa gangguan
+25. 不论 | bù lùn | apa pun; tidak peduli apa (siapa, bagaimana, dll)
+26. 不用 | bù yòng | tidak perlu
+27. 不必 | bù bì | tidak perlu; tidak harus
+28. 不如 | bù rú | tidak sama dengan; tidak sebaik; lebih rendah dari; sebaiknya
+29. 不但 | bù dàn | tidak hanya (... tetapi juga ...)
+30. 不仅 | bù jǐn | tidak hanya; tidak terbatas pada; (sebagai konjungsi korelatif) tidak hanya (..., tetapi juga ...)
+31. 不要 | bù yào | jangan!; tidak boleh
+32. 不行 | bù xíng | tidak akan berhasil; tidak mungkin
+33. 不对 | bù duì | salah; keliru
+34. 不久 | bù jiǔ | tidak lama (setelah); sebelum terlalu lama
+35. 不太 | bù tài | ?
+36. 不安 | bù ān | tidak damai; tidak stabil
+37. 不得不 | bù dé bù | tidak punya pilihan selain; harus
+38. 不大 | bù dà | tidak terlalu; tidak sering
+39. 不满 | bù mǎn | tidak puas; tidak senang; kesal; (sebelum angka) kurang dari
+40. 不好意思 | bù hǎo yì si | merasa malu; merasa menyesal (karena merepotkan seseorang)
+
+Ingat: keluarkan HANYA satu blok JSON (array) berisi 40 entri, urut nomor 1 sampai 40.

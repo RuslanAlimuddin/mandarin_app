@@ -1,0 +1,119 @@
+PERAN
+Kamu membantu menyusun bahan belajar Mandarin untuk pelajar berbahasa Indonesia.
+Tugasmu: menilai apakah karakter imbuhan di dalam setiap kata kandidat BENAR-BENAR berfungsi sebagai
+imbuhan yang dimaksud, atau hanya kebetulan ada di kata itu.
+
+CARA MENILAI
+Untuk setiap kata kandidat, nilai HANYA terhadap imbuhan dan fungsi yang tertulis pada bagian
+"IMBUHAN" di bawah. Jangan memakai arti lain dari karakter itu.
+- "imbuhan": karakter itu berfungsi persis seperti definisi yang diberikan.
+- "bukan": karakter itu ada di kata tersebut, tetapi tidak berfungsi sebagai imbuhan itu
+  (misalnya bagian dari kata dasar, kata serapan, atau punya arti lain).
+- "ragu": kamu tidak yakin, atau fungsinya berada di antara keduanya / berbeda dari definisi.
+  Lebih baik "ragu" daripada menebak.
+
+ATURAN KERAS (tidak boleh dilanggar)
+1. Jangan mengarang. Pinyin dan arti kata sudah diberikan; pakailah itu apa adanya.
+2. Beri tepat satu entri untuk SETIAP kata pada daftar, dengan urutan yang sama dengan nomor di daftar.
+   Tidak boleh ada yang dilewati dan tidak boleh ada kata tambahan.
+3. "alasan" = satu kalimat Bahasa Indonesia sehari-hari yang mudah dipahami (pakai tanda kutip “ ” untuk arti).
+   - Untuk "bukan": sebut arti kata, lalu mengapa karakter itu bukan imbuhan.
+   - Untuk "imbuhan": jelaskan singkat bagaimana karakter itu berfungsi seperti definisi.
+   - Untuk "ragu": jelaskan letak keraguannya.
+4. Keluarkan HANYA satu blok JSON (sebuah array), tanpa teks pembuka atau penutup.
+
+CONTOH GAYA "alasan"
+- 发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang.
+- 花生 berarti “kacang tanah”; 生 menjadi bagian nama benda, bukan penanda orang.
+- 学生 berarti “siswa”; 生 menunjukkan orang dengan status pelajar.
+
+FORMAT KELUARAN
+[
+  {"afiks": "生", "kata": "发生", "golongan": "bukan", "alasan": "发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang."}
+]
+"golongan" hanya boleh salah satu dari: "imbuhan", "bukan", "ragu".
+
+
+============================================================
+DAFTAR YANG HARUS DINILAI (berkas 11)
+============================================================
+
+------------------------------------------------------------
+IMBUHAN: 品 (akhiran)  — kelompok F: Alat, barang, biaya
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menjelaskan bahan, tujuan, atau hasil untuk membentuk nama barang/produk.
+Arti: barang, produk, atau hasil karya
+Contoh yang SAH imbuhan ini (sudah diketahui): 食品, 商品, 产品, 作品
+Kata yang harus dinilai untuk 品:
+1. 豆制品 | dòu zhì pǐn | produk berbasis polong-polongan; produk kedelai
+2. 礼品 | lǐ pǐn | hadiah; bingkisan
+3. 用品 | yòng pǐn | barang untuk digunakan; produk
+4. 样品 | yàng pǐn | contoh; spesimen
+5. 藏品 | cáng pǐn | barang museum; barang koleksi
+6. 制品 | zhì pǐn | produk; barang
+7. 物品 | wù pǐn | barang
+8. 小品 | xiǎo pǐn | kreasi sastra atau seni yang pendek dan sederhana; esai
+9. 工艺品 | gōng yì pǐn | barang kerajinan tangan; karya tangan
+10. 水产品 | shuǐ chǎn pǐn | produk perairan (termasuk ikan, kepiting, rumput laut, dll)
+11. 日用品 | rì yòng pǐn | barang-barang untuk keperluan sehari-hari
+12. 次品 | cì pǐn | produk di bawah standar; cacat
+13. 废品 | fèi pǐn | tolakan produksi; barang cacat
+14. 精品 | jīng pǐn | barang berkualitas; produk premium
+15. 成品 | chéng pǐn | barang jadi; produk jadi
+16. 毒品 | dú pǐn | obat-obatan terlarang; narkotika
+17. 农产品 | nóng chǎn pǐn | produk pertanian
+18. 人品 | rén pǐn | karakter; kekuatan moral; integritas; (percakapan) penampilan; penampilan; sikap
+19. 奖品 | jiǎng pǐn | penghargaan; hadiah
+20. 药品 | yào pǐn | obat-obatan; obat
+21. 乳制品 | rǔ zhì pǐn | produk susu
+
+------------------------------------------------------------
+IMBUHAN: 物 (akhiran)  — kelompok F: Alat, barang, biaya
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menjelaskan jenis untuk membentuk nama benda, makhluk, atau bahan.
+Arti: benda, makhluk, atau sesuatu
+Contoh yang SAH imbuhan ini (sudah diketahui): 动物, 植物, 食物, 礼物
+Catatan: Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia. Pada 物品, 物 berada di awal kata dan berarti benda/barang; ini bagian kata utuh, bukan awalan.
+Kata yang harus dinilai untuk 物:
+22. 宠物 | chǒng wù | hewan peliharaan
+23. 生物 | shēng wù | organisme; makhluk hidup
+24. 货物 | huò wù | barang; komoditas
+25. 遗物 | yí wù | sisa
+26. 药物 | yào wù | obat-obatan; farmasi
+27. 怪物 | guài wu | monster; aneh
+28. 刊物 | kān wù | publikasi
+29. 建筑物 | jiàn zhù wù | bangunan; struktur
+30. 财物 | cái wù | properti; barang
+31. 文物 | wén wù | benda bersejarah; peninggalan bersejarah
+32. 废物 | fèi wù | sampah; bahan limbah; orang tidak berguna
+33. 购物 | gòu wù | berbelanja
+34. 事物 | shì wù | benda; objek
+35. 人物 | rén wù | orang; tokoh; sosok (terutama seseorang yang penting); karakter (dalam drama, novel, dll)
+36. 农作物 | nóng zuò wù | tanaman (pertanian)
+37. 产物 | chǎn wù | produk; hasil (dari)
+38. 作物 | zuò wù | tanaman
+39. 实物 | shí wù | objek materiil; objek konkret
+40. 吉祥物 | jí xiáng wù | maskot
+
+------------------------------------------------------------
+IMBUHAN: 费 (akhiran)  — kelompok F: Alat, barang, biaya
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menjelaskan kegiatan atau layanan untuk membentuk nama biaya.
+Arti: biaya atau pengeluaran
+Contoh yang SAH imbuhan ini (sudah diketahui): 学费, 消费, 免费, 小费
+Kata yang harus dinilai untuk 费:
+41. 自费 | zì fèi | dengan biaya sendiri; didanai sendiri
+42. 花费 | huā fèi | biaya; ongkos
+43. 付费 | fù fèi | membayar; menanggung biaya
+44. 收费 | shōu fèi | membebankan biaya
+45. 管理费 | guǎn lǐ fèi | biaya manajemen
+46. 耗费 | hào fèi | membuang; menghabiskan
+47. 交费 | jiāo fèi | membayar biaya
+48. 抚养费 | fǔ yǎng fèi | biaya tunjangan anak (setelah perceraian)
+49. 话费 | huà fèi | biaya panggilan
+50. 缴费 | jiǎo fèi | membayar biaya
+51. 团费 | tuánfèi | biaya tur
+52. 手续费 | shǒu xù fèi | biaya layanan; biaya pemrosesan
+53. 经费 | jīng fèi | dana; pengeluaran
+54. 生活费 | shēng huó fèi | biaya hidup; tunjangan
+55. 浪费 | làng fèi | membuang; menyia-nyiakan
+56. 公费 | gōng fèi | dengan biaya publik
+
+Ingat: keluarkan HANYA satu blok JSON (array) berisi 56 entri, urut nomor 1 sampai 56.

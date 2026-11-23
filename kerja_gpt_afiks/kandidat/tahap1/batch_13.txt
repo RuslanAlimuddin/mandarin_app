@@ -1,0 +1,111 @@
+PERAN
+Kamu membantu menyusun bahan belajar Mandarin untuk pelajar berbahasa Indonesia.
+Tugasmu: menilai apakah karakter imbuhan di dalam setiap kata kandidat BENAR-BENAR berfungsi sebagai
+imbuhan yang dimaksud, atau hanya kebetulan ada di kata itu.
+
+CARA MENILAI
+Untuk setiap kata kandidat, nilai HANYA terhadap imbuhan dan fungsi yang tertulis pada bagian
+"IMBUHAN" di bawah. Jangan memakai arti lain dari karakter itu.
+- "imbuhan": karakter itu berfungsi persis seperti definisi yang diberikan.
+- "bukan": karakter itu ada di kata tersebut, tetapi tidak berfungsi sebagai imbuhan itu
+  (misalnya bagian dari kata dasar, kata serapan, atau punya arti lain).
+- "ragu": kamu tidak yakin, atau fungsinya berada di antara keduanya / berbeda dari definisi.
+  Lebih baik "ragu" daripada menebak.
+
+ATURAN KERAS (tidak boleh dilanggar)
+1. Jangan mengarang. Pinyin dan arti kata sudah diberikan; pakailah itu apa adanya.
+2. Beri tepat satu entri untuk SETIAP kata pada daftar, dengan urutan yang sama dengan nomor di daftar.
+   Tidak boleh ada yang dilewati dan tidak boleh ada kata tambahan.
+3. "alasan" = satu kalimat Bahasa Indonesia sehari-hari yang mudah dipahami (pakai tanda kutip “ ” untuk arti).
+   - Untuk "bukan": sebut arti kata, lalu mengapa karakter itu bukan imbuhan.
+   - Untuk "imbuhan": jelaskan singkat bagaimana karakter itu berfungsi seperti definisi.
+   - Untuk "ragu": jelaskan letak keraguannya.
+4. Keluarkan HANYA satu blok JSON (sebuah array), tanpa teks pembuka atau penutup.
+
+CONTOH GAYA "alasan"
+- 发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang.
+- 花生 berarti “kacang tanah”; 生 menjadi bagian nama benda, bukan penanda orang.
+- 学生 berarti “siswa”; 生 menunjukkan orang dengan status pelajar.
+
+FORMAT KELUARAN
+[
+  {"afiks": "生", "kata": "发生", "golongan": "bukan", "alasan": "发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang."}
+]
+"golongan" hanya boleh salah satu dari: "imbuhan", "bukan", "ragu".
+
+
+============================================================
+DAFTAR YANG HARUS DINILAI (berkas 13)
+============================================================
+
+------------------------------------------------------------
+IMBUHAN: 头 (akhiran)  — kelompok G: Pelengkap kata benda
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur tertentu untuk membentuk kata benda atau kata penunjuk posisi; maknanya bergantung pada kata yang dibentuk.
+Arti: akhiran kata benda atau penanda posisi/ujung
+Contoh yang SAH imbuhan ini (sudah diketahui): 石头, 木头, 骨头, 里头
+Contoh yang BUKAN imbuhan ini (sudah diketahui):
+   回头 — 回头 berarti “menoleh/kembali”; 头 menjadi bagian kata kerja, bukan akhiran kata benda.
+Kata yang harus dinilai untuk 头:
+1. 码头 | mǎ tóu | dermaga; dok; pelabuhan; pier
+2. 源头 | yuán tóu | sumber; asal; mata air
+3. 枕头 | zhěn tou | bantal
+4. 摇头 | yáo tóu | menggelengkan kepala
+5. 点头 | diǎn tóu | mengangguk
+6. 拳头 | quán tou | tinju; (dari produk, layanan, proyek, dll.) unggulan; kunci; inti
+7. 舌头 | shé tou | lidah; tentara musuh yang ditangkap untuk tujuan mendapatkan informasi
+8. 尽头 | jìn tóu | akhir; ujung; batas
+9. 前头 | qián tou | di depan; di kepala
+10. 一头 | yī tóu | satu kepala; kepala penuh dengan sesuatu
+11. 指头 | zhǐ tou | jari; jempol kaki
+12. 开头 | kāi tóu | awal; mulai
+13. 丫头 | yā tou | gadis; pelayan perempuan
+14. 馒头 | mán tou | roti kukus
+15. 外头 | wài tou | di luar; di luar ruangan
+16. 钟头 | zhōng tóu | (percakapan) jam
+17. 镜头 | jìng tóu | lensa kamera; bidikan kamera (dalam film dll)
+18. 街头 | jiē tóu | jalanan
+19. 低头 | dī tóu | menundukkan kepala; menyerah
+20. 抬头 | tái tóu | untuk mengangkat kepala seseorang; untuk melihat ke atas; (kiasan) untuk mulai muncul; untuk menunjukkan tanda-tanda pertumbuhan
+21. 念头 | niàn tou | pikiran; ide; niat
+22. 后头 | hòu tou | di belakang; bagian belakang
+
+------------------------------------------------------------
+IMBUHAN: 老 (awalan)  — kelompok H: Penanda awal kata
+Fungsi yang dinilai (sebagai awalan): Diletakkan di awal kata tertentu, terutama sebutan orang dan hubungan sosial, untuk membentuk panggilan atau sebutan yang lazim.
+Arti: penanda orang yang lebih tua, akrab, atau sebutan sosial
+Contoh yang SAH imbuhan ini (sudah diketahui): 老师, 老板, 老乡, 老公
+Kata yang harus dinilai untuk 老:
+23. 老伴儿 | lǎo bàn r | varian erhua dari 老伴
+24. 老大 | lǎo dà | usia tua; sangat
+25. 老太太 | lǎo tài tai | wanita tua (hormat); ibu yang terhormat
+26. 老是 | lǎo shi | selalu
+27. 老朋友 | lǎo péng you | teman lama; (slang) periode; menstruasi
+28. 老汉 | lǎo hàn | orang tua; saya (seorang lelaki tua yang merujuk pada dirinya sendiri)
+29. 老年 | lǎo nián | lansia; usia tua; masa senja
+30. 老远 | lǎo yuǎn | sangat jauh
+31. 老人家 | lǎo rén jiā | istilah sopan untuk wanita atau pria tua
+32. 老虎 | lǎo hǔ | harimau
+33. 老鼠 | lǎo shǔ | tikus besar; tikus kecil (
+34. 老百姓 | lǎo bǎi xìng | rakyat biasa; "orang di jalan"
+35. 老人 | lǎo rén | pria atau wanita tua; lansia
+36. 老家 | lǎo jiā | tempat asal; tempat kelahiran
+37. 老实 | lǎo shi | jujur; tulus; berkelakuan baik
+38. 老化 | lǎo huà | (tentang orang, populasi, atau material) menua; (tentang pengetahuan) menjadi ketinggalan zaman
+39. 老婆 | lǎo pó | (percakapan) istri
+40. 老头儿 | lǎo tóu r | lihat 老頭子|老头子
+41. 老人票 | lǎorénpiào | tiket lansia
+42. 老实说 | lǎo shí shuō | sejujurnya berbicara; terus terang, ...
+43. 老字号 | lǎo zì hào | toko, perusahaan, atau merek barang dagangan dengan reputasi yang sudah lama...
+
+------------------------------------------------------------
+IMBUHAN: 初 (awalan)  — kelompok H: Penanda awal kata
+Fungsi yang dinilai (sebagai awalan): Diletakkan di awal unsur waktu, tingkat, atau keadaan untuk menunjukkan tahap awal atau permulaan.
+Arti: awal atau tahap permulaan
+Contoh yang SAH imbuhan ini (sudah diketahui): 初中, 初级, 初步, 初期
+Kata yang harus dinilai untuk 初:
+44. 初等 | chū děng | dasar (yaitu mudah)
+45. 初衷 | chū zhōng | niat awal
+46. 初一 | chū yī | hari pertama bulan lunar; Hari Tahun Baru
+47. 初次 | chū cì | pertama kalinya; pertama (pertemuan, upaya, dll)
+
+Ingat: keluarkan HANYA satu blok JSON (array) berisi 47 entri, urut nomor 1 sampai 47.

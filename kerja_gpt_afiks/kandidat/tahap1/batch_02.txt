@@ -1,0 +1,105 @@
+PERAN
+Kamu membantu menyusun bahan belajar Mandarin untuk pelajar berbahasa Indonesia.
+Tugasmu: menilai apakah karakter imbuhan di dalam setiap kata kandidat BENAR-BENAR berfungsi sebagai
+imbuhan yang dimaksud, atau hanya kebetulan ada di kata itu.
+
+CARA MENILAI
+Untuk setiap kata kandidat, nilai HANYA terhadap imbuhan dan fungsi yang tertulis pada bagian
+"IMBUHAN" di bawah. Jangan memakai arti lain dari karakter itu.
+- "imbuhan": karakter itu berfungsi persis seperti definisi yang diberikan.
+- "bukan": karakter itu ada di kata tersebut, tetapi tidak berfungsi sebagai imbuhan itu
+  (misalnya bagian dari kata dasar, kata serapan, atau punya arti lain).
+- "ragu": kamu tidak yakin, atau fungsinya berada di antara keduanya / berbeda dari definisi.
+  Lebih baik "ragu" daripada menebak.
+
+ATURAN KERAS (tidak boleh dilanggar)
+1. Jangan mengarang. Pinyin dan arti kata sudah diberikan; pakailah itu apa adanya.
+2. Beri tepat satu entri untuk SETIAP kata pada daftar, dengan urutan yang sama dengan nomor di daftar.
+   Tidak boleh ada yang dilewati dan tidak boleh ada kata tambahan.
+3. "alasan" = satu kalimat Bahasa Indonesia sehari-hari yang mudah dipahami (pakai tanda kutip “ ” untuk arti).
+   - Untuk "bukan": sebut arti kata, lalu mengapa karakter itu bukan imbuhan.
+   - Untuk "imbuhan": jelaskan singkat bagaimana karakter itu berfungsi seperti definisi.
+   - Untuk "ragu": jelaskan letak keraguannya.
+4. Keluarkan HANYA satu blok JSON (sebuah array), tanpa teks pembuka atau penutup.
+
+CONTOH GAYA "alasan"
+- 发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang.
+- 花生 berarti “kacang tanah”; 生 menjadi bagian nama benda, bukan penanda orang.
+- 学生 berarti “siswa”; 生 menunjukkan orang dengan status pelajar.
+
+FORMAT KELUARAN
+[
+  {"afiks": "生", "kata": "发生", "golongan": "bukan", "alasan": "发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang."}
+]
+"golongan" hanya boleh salah satu dari: "imbuhan", "bukan", "ragu".
+
+
+============================================================
+DAFTAR YANG HARUS DINILAI (berkas 02)
+============================================================
+
+------------------------------------------------------------
+IMBUHAN: 生 (akhiran)  — kelompok A: Orang/pelaku
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menunjukkan status atau peran seseorang, misalnya pelajar atau lulusan.
+Arti: orang dengan status atau peran tertentu, terutama pelajar
+Contoh yang SAH imbuhan ini (sudah diketahui): 学生, 大学生, 留学生, 毕业生
+Contoh yang BUKAN imbuhan ini (sudah diketahui):
+   出生 — 出生 berarti “lahir”; 生 menyatakan kelahiran, bukan orang dengan status tertentu.
+   产生 — 产生 berarti “muncul atau menghasilkan”; 生 menjadi bagian kata kerja, bukan penanda orang.
+   人生 — 人生 berarti “kehidupan manusia”; 生 membentuk kata utuh tentang kehidupan, bukan sebutan orang.
+   陌生 — 陌生 berarti “asing/tidak dikenal”; 生 menjadi bagian kata sifat, bukan penanda orang.
+   花生 — 花生 berarti “kacang tanah”; 生 menjadi bagian nama benda, bukan penanda orang.
+Kata yang harus dinilai untuk 生:
+1. 男生 | nán shēng | siswa laki-laki; siswa pria
+2. 医生 | yī shēng | dokter
+3. 诞生 | dàn shēng | terlahir
+4. 逃生 | táo shēng | melarikan diri demi nyawa
+5. 亲生 | qīn shēng | anak kandung sendiri; orang tua biologis
+6. 发生 | fā shēng | terjadi; berlangsung; pecah
+7. 新生 | xīn shēng | baru; baru lahir
+8. 一生 | yī shēng | seumur hidup; sepanjang hidup seseorang
+9. 小学生 | xiǎo xué shēng | siswa sekolah dasar; anak sekolah
+10. 师生 | shī shēng | guru dan murid
+11. 研究生 | yán jiū shēng | mahasiswa pascasarjana; mahasiswa riset
+12. 丧生 | sàng shēng | meninggal; kehilangan nyawa
+13. 再生 | zài shēng | terlahir kembali; meregenerasi
+14. 考生 | kǎo shēng | kandidat ujian; siswa yang namanya diajukan untuk ujian
+15. 卫生 | wèi shēng | higienis; sanitasi; kebersihan
+16. 野生 | yě shēng | liar; tidak didomestikasi
+17. 天生 | tiān shēng | alami; watak
+18. 终生 | zhōng shēng | seumur hidup; masa hidup
+19. 招生 | zhāo shēng | menerima siswa baru; mendapatkan siswa
+20. 先生 | xiān sheng | guru; pria terhormat; tuan; bapak (Mr.)
+21. 中学生 | zhōng xué shēng | siswa sekolah menengah; siswa sekolah menengah atas
+22. 女生 | nǚ shēng | gadis sekolah; mahasiswi
+
+------------------------------------------------------------
+IMBUHAN: 手 (akhiran)  — kelompok A: Orang/pelaku
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir kegiatan atau kemampuan untuk menyebut orang yang melakukannya atau terampil dalam hal itu.
+Arti: orang yang melakukan kegiatan atau memiliki keterampilan
+Contoh yang SAH imbuhan ini (sudah diketahui): 歌手, 选手, 助手, 高手
+Catatan: 手 pada awal 手机 dan 手套 berarti 'tangan' secara langsung, bukan awalan pembentuk kata. Contoh terpilih di entri ini memakai 手 sebagai akhiran penanda orang berketerampilan.
+Kata yang harus dinilai untuk 手:
+23. 伸手 | shēn shǒu | mengulurkan tangan; (kiasan) mengemis
+24. 亲手 | qīn shǒu | pribadi; dengan tangan sendiri
+25. 下手 | xià shǒu | memulai; mulai mengerjakan
+26. 招手 | zhāo shǒu | melambai; mengisyaratkan
+27. 二手 | èr shǒu | diperoleh secara tidak langsung; bekas (informasi, peralatan, dll)
+28. 两手 | liǎng shǒu | kedua tangan seseorang; dua cabang (dari strategi)
+29. 分手 | fēn shǒu | berpisah; putus
+30. 举手 | jǔ shǒu | mengangkat tangan; mengangkat tangan (sebagai isyarat)
+31. 联手 | lián shǒu | (harfiah) bergandengan tangan; bertindak bersama
+32. 对手 | duì shǒu | lawan; pesaing
+33. 双手 | shuāng shǒu | kedua tangan
+34. 把手 | bǎ shou | pegangan; genggaman
+35. 一手 | yī shǒu | keterampilan; penguasaan suatu perdagangan
+36. 凶手 | xiōng shǒu | pembunuh; pembunuh bayaran
+37. 出手 | chū shǒu | melepaskan; membelanjakan (uang)
+38. 随手 | suí shǒu | dengan mudah; tanpa susah payah tambahan
+39. 着手 | zhuó shǒu | memulai; memulai tugas
+40. 握手 | wò shǒu | berjabat tangan
+41. 动手 | dòng shǒu | mulai (suatu tugas); mengangkat tangan untuk memukul seseorang
+42. 杀手 | shā shǒu | pembunuh; pembunuh bayaran
+43. 新手 | xīn shǒu | pemula; novice
+
+Ingat: keluarkan HANYA satu blok JSON (array) berisi 43 entri, urut nomor 1 sampai 43.

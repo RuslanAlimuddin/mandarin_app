@@ -1,0 +1,116 @@
+PERAN
+Kamu membantu menyusun bahan belajar Mandarin untuk pelajar berbahasa Indonesia.
+Tugasmu: menilai apakah karakter imbuhan di dalam setiap kata kandidat BENAR-BENAR berfungsi sebagai
+imbuhan yang dimaksud, atau hanya kebetulan ada di kata itu.
+
+CARA MENILAI
+Untuk setiap kata kandidat, nilai HANYA terhadap imbuhan dan fungsi yang tertulis pada bagian
+"IMBUHAN" di bawah. Jangan memakai arti lain dari karakter itu.
+- "imbuhan": karakter itu berfungsi persis seperti definisi yang diberikan.
+- "bukan": karakter itu ada di kata tersebut, tetapi tidak berfungsi sebagai imbuhan itu
+  (misalnya bagian dari kata dasar, kata serapan, atau punya arti lain).
+- "ragu": kamu tidak yakin, atau fungsinya berada di antara keduanya / berbeda dari definisi.
+  Lebih baik "ragu" daripada menebak.
+
+ATURAN KERAS (tidak boleh dilanggar)
+1. Jangan mengarang. Pinyin dan arti kata sudah diberikan; pakailah itu apa adanya.
+2. Beri tepat satu entri untuk SETIAP kata pada daftar, dengan urutan yang sama dengan nomor di daftar.
+   Tidak boleh ada yang dilewati dan tidak boleh ada kata tambahan.
+3. "alasan" = satu kalimat Bahasa Indonesia sehari-hari yang mudah dipahami (pakai tanda kutip “ ” untuk arti).
+   - Untuk "bukan": sebut arti kata, lalu mengapa karakter itu bukan imbuhan.
+   - Untuk "imbuhan": jelaskan singkat bagaimana karakter itu berfungsi seperti definisi.
+   - Untuk "ragu": jelaskan letak keraguannya.
+4. Keluarkan HANYA satu blok JSON (sebuah array), tanpa teks pembuka atau penutup.
+
+CONTOH GAYA "alasan"
+- 发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang.
+- 花生 berarti “kacang tanah”; 生 menjadi bagian nama benda, bukan penanda orang.
+- 学生 berarti “siswa”; 生 menunjukkan orang dengan status pelajar.
+
+FORMAT KELUARAN
+[
+  {"afiks": "生", "kata": "发生", "golongan": "bukan", "alasan": "发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang."}
+]
+"golongan" hanya boleh salah satu dari: "imbuhan", "bukan", "ragu".
+
+
+============================================================
+DAFTAR YANG HARUS DINILAI (berkas 07)
+============================================================
+
+------------------------------------------------------------
+IMBUHAN: 型 (akhiran)  — kelompok C: Jenis dan gaya
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menjelaskan bentuk atau ukuran untuk menyatakan tipe atau model.
+Arti: jenis, tipe, atau model
+Contoh yang SAH imbuhan ini (sudah diketahui): 大型, 小型, 新型, 发型
+Kata yang harus dinilai untuk 型:
+1. 类型 | lèi xíng | tipe; jenis; kategori; (pemrograman komputer) tipe
+2. 轻型 | qīng xíng | ringan (untuk mesin, pesawat, kendaraan, dll.)
+3. 重型 | zhòng xíng | berat; tugas berat
+4. 成型 | chéng xíng | menjadi berbentuk; menjadi terbentuk
+5. 转型 | zhuǎn xíng | mengalami perubahan mendasar; bertransisi; bertransformasi; memperbarui (ke model produk baru)
+6. 车型 | chē xíng | model kendaraan (yaitu versi tertentu dari mobil atau sepeda motor dll)
+7. 微型 | wēi xíng | miniatur; mikro-; sangat kecil
+8. 典型 | diǎn xíng | model; kasus tipikal
+9. 原型 | yuán xíng | model; prototipe
+10. 模型 | mó xíng | model; cetakan
+11. 造型 | zào xíng | membentuk; menata; penampilan; gaya; desain; bentuk; pose
+12. 中型 | zhōng xíng | ukuran sedang
+13. 巨型 | jù xíng | raksasa; besar sekali
+
+------------------------------------------------------------
+IMBUHAN: 式 (akhiran)  — kelompok C: Jenis dan gaya
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menerangkan cara atau bentuk untuk menyatakan gaya atau model tertentu.
+Arti: bentuk, cara, atau gaya
+Contoh yang SAH imbuhan ini (sudah diketahui): 方式, 正式, 公式, 仪式
+Kata yang harus dinilai untuk 式:
+14. 款式 | kuǎn shì | pola; gaya
+15. 形式 | xíng shì | penampilan luar; bentuk
+16. 样式 | yàng shì | tipe; gaya
+17. 美式 | měi shì | gaya Amerika (kopi Americano)
+18. 格式 | gé shì | bentuk; spesifikasi
+19. 开幕式 | kāi mù shì | upacara pembukaan
+20. 模式 | mó shì | mode; pola; model
+21. 宗教仪式 | zōng jiào yí shì | upacara keagamaan
+22. 闭幕式 | bì mù shì | upacara penutupan
+23. 新式 | xīn shì | gaya baru; jenis terbaru
+
+------------------------------------------------------------
+IMBUHAN: 类 (akhiran)  — kelompok C: Jenis dan gaya
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang dikelompokkan untuk membentuk kata yang menyatakan jenis atau golongan.
+Arti: jenis atau kelompok
+Contoh yang SAH imbuhan ini (sudah diketahui): 人类, 种类, 分类, 之类
+Kata yang harus dinilai untuk 类:
+24. 诸如此类 | zhū rú cǐ lèi | hal-hal seperti ini (idiom); dan seterusnya; dan sisanya
+25. 同类 | tóng lèi | mirip; tipe yang sama
+
+------------------------------------------------------------
+IMBUHAN: 学 (akhiran)  — kelompok D: Bidang dan ilmu
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menjadi pokok kajian untuk membentuk nama bidang ilmu.
+Arti: bidang ilmu atau cabang pengetahuan
+Contoh yang SAH imbuhan ini (sudah diketahui): 科学, 文学, 医学, 哲学
+Catatan: Pada 学生 dan 学校, 学 bermakna 'belajar' sebagai unsur kata biasa, bukan akhiran bidang ilmu.
+Kata yang harus dinilai untuk 学:
+26. 大学 | dà xué | universitas; akademi
+27. 好学 | hào xué | bersemangat belajar; rajin belajar
+28. 中学 | zhōng xué | sekolah menengah
+29. 儒学 | Rú xué | Konfusianisme
+30. 开学 | kāi xué | (dari seorang siswa) mulai sekolah; (dari semester) dimulai
+31. 治学 | zhì xué | kesarjanaan; studi tingkat tinggi
+32. 转学 | zhuǎn xué | (seorang siswa) untuk pindah sekolah; untuk pindah dari satu sekolah ke sekol...
+33. 留学 | liú xué | belajar di luar negeri
+34. 小学 | xiǎo xué | sekolah dasar
+35. 退学 | tuì xué | keluar dari sekolah
+36. 入学 | rù xué | memasuki sekolah atau perguruan tinggi; bersekolah untuk pertama kalinya sebagai seorang anak
+37. 放学 | fàng xué | menyelesaikan sekolah pada akhir hari
+38. 中小学 | zhōng xiǎo xué | sekolah menengah dan dasar
+39. 同学 | tóng xué | belajar di sekolah yang sama; teman sekolah
+40. 升学 | shēng xué | memasuki sekolah kelas berikutnya
+41. 自学 | zì xué | belajar mandiri; belajar sendiri
+42. 办学 | bàn xué | menjalankan sekolah
+43. 讲学 | jiǎng xué | memberikan kuliah (tentang cabang ilmu pengetahuan)
+44. 求学 | qiú xué | mengejar studi; bersekolah; mencari ilmu
+45. 上学 | shàng xué | pergi ke sekolah; bersekolah
+46. 教学 | jiào xué | pengajaran; instruksi; mengajar (sebagai profesor)
+
+Ingat: keluarkan HANYA satu blok JSON (array) berisi 46 entri, urut nomor 1 sampai 46.

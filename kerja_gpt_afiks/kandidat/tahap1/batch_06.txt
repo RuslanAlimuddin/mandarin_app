@@ -1,0 +1,118 @@
+PERAN
+Kamu membantu menyusun bahan belajar Mandarin untuk pelajar berbahasa Indonesia.
+Tugasmu: menilai apakah karakter imbuhan di dalam setiap kata kandidat BENAR-BENAR berfungsi sebagai
+imbuhan yang dimaksud, atau hanya kebetulan ada di kata itu.
+
+CARA MENILAI
+Untuk setiap kata kandidat, nilai HANYA terhadap imbuhan dan fungsi yang tertulis pada bagian
+"IMBUHAN" di bawah. Jangan memakai arti lain dari karakter itu.
+- "imbuhan": karakter itu berfungsi persis seperti definisi yang diberikan.
+- "bukan": karakter itu ada di kata tersebut, tetapi tidak berfungsi sebagai imbuhan itu
+  (misalnya bagian dari kata dasar, kata serapan, atau punya arti lain).
+- "ragu": kamu tidak yakin, atau fungsinya berada di antara keduanya / berbeda dari definisi.
+  Lebih baik "ragu" daripada menebak.
+
+ATURAN KERAS (tidak boleh dilanggar)
+1. Jangan mengarang. Pinyin dan arti kata sudah diberikan; pakailah itu apa adanya.
+2. Beri tepat satu entri untuk SETIAP kata pada daftar, dengan urutan yang sama dengan nomor di daftar.
+   Tidak boleh ada yang dilewati dan tidak boleh ada kata tambahan.
+3. "alasan" = satu kalimat Bahasa Indonesia sehari-hari yang mudah dipahami (pakai tanda kutip “ ” untuk arti).
+   - Untuk "bukan": sebut arti kata, lalu mengapa karakter itu bukan imbuhan.
+   - Untuk "imbuhan": jelaskan singkat bagaimana karakter itu berfungsi seperti definisi.
+   - Untuk "ragu": jelaskan letak keraguannya.
+4. Keluarkan HANYA satu blok JSON (sebuah array), tanpa teks pembuka atau penutup.
+
+CONTOH GAYA "alasan"
+- 发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang.
+- 花生 berarti “kacang tanah”; 生 menjadi bagian nama benda, bukan penanda orang.
+- 学生 berarti “siswa”; 生 menunjukkan orang dengan status pelajar.
+
+FORMAT KELUARAN
+[
+  {"afiks": "生", "kata": "发生", "golongan": "bukan", "alasan": "发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang."}
+]
+"golongan" hanya boleh salah satu dari: "imbuhan", "bukan", "ragu".
+
+
+============================================================
+DAFTAR YANG HARUS DINILAI (berkas 06)
+============================================================
+
+------------------------------------------------------------
+IMBUHAN: 法 (akhiran)  — kelompok B: Sifat dan konsep abstrak
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menyebut tindakan atau pemikiran untuk membentuk kata yang berarti cara melakukannya.
+Arti: cara, metode, atau pendekatan
+Contoh yang SAH imbuhan ini (sudah diketahui): 方法, 办法, 想法, 看法
+Catatan: 法 juga dapat berarti 'hukum' pada 合法 dan 违法; di sana ia bukan akhiran bermakna 'cara'.
+Kata yang harus dinilai untuk 法:
+1. 宪法 | xiàn fǎ | konstitusi (negara)
+2. 用法 | yòng fǎ | penggunaan
+3. 无法 | wú fǎ | tidak dapat; tidak mampu
+4. 依法 | yī fǎ | legal (proses hukum); sesuai hukum
+5. 做法 | zuò fǎ | cara menangani sesuatu; metode untuk membuat
+6. 想方设法 | xiǎng fāng shè fǎ | memikirkan segala cara yang mungkin (idiom); mencari cara dan sarana; mencoba...
+7. 疗法 | liáo fǎ | terapi; pengobatan
+8. 书法 | shū fǎ | kaligrafi; tulisan tangan; keterampilan menulis
+9. 合法 | hé fǎ | sah; legitimasi
+10. 手法 | shǒu fǎ | teknik; trik
+11. 执法 | zhí fǎ | menegakkan hukum; penegakan hukum
+12. 说法 | shuō fa | cara berbicara; kata-kata
+13. 违法 | wéi fǎ | ilegal; melanggar hukum
+14. 司法 | sī fǎ | yudisial; (administrasi) keadilan
+15. 设法 | shè fǎ | mencoba; berusaha
+16. 语法 | yǔ fǎ | tata bahasa
+17. 非法 | fēi fǎ | ilegal
+18. 刑法 | xíng fǎ | hukum pidana
+
+------------------------------------------------------------
+IMBUHAN: 观 (akhiran)  — kelompok B: Sifat dan konsep abstrak
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menjadi pokok pandangan untuk membentuk kata tentang cara seseorang memandang sesuatu.
+Arti: pandangan, cara melihat, atau sikap terhadap sesuatu
+Contoh yang SAH imbuhan ini (sudah diketahui): 乐观, 悲观, 客观, 主观
+Catatan: Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia. Pada 观察, 观 berada di awal kata dan berarti mengamati; ini kata kerja, bukan awalan pembentuk pandangan.
+Kata yang harus dinilai untuk 观:
+19. 世界观 | shì jiè guān | pandangan dunia; perspektif dunia
+20. 直观 | zhí guān | observasi langsung; langsung dirasakan melalui indra
+21. 壮观 | zhuàng guān | spektakuler; pemandangan megah
+22. 价值观 | jià zhí guān | sistem nilai; nilai-nilai pribadi atau budaya
+23. 人文景观 | rén wén jǐng guān | tempat yang menarik secara budaya
+24. 纵观 | zòng guān | secara menyeluruh; survei keseluruhan
+25. 景观 | jǐng guān | lanskap
+26. 外观 | wài guān | penampilan luar
+27. 旁观 | páng guān | penonton; non-partisipan
+28. 参观 | cān guān | mengunjungi (tempat, misalnya museum atau pabrik); melakukan tur; melihat-lihat
+29. 宏观 | hóng guān | makro-; makroskopik
+30. 微观 | wēi guān | mikro-; subatomik
+31. 美观 | měi guān | sedap dipandang; cantik
+32. 袖手旁观 | xiù shǒu páng guān | menonton dengan tangan disilangkan (idiom); melihat tanpa berbuat apa-apa
+33. 可观 | kě guān | layak dilihat; cukup besar; mengesankan; signifikan
+
+------------------------------------------------------------
+IMBUHAN: 点 (akhiran)  — kelompok B: Sifat dan konsep abstrak
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang dinilai atau dibahas untuk menyebut sisi, ciri, atau titik tertentu.
+Arti: titik, sisi, atau hal tertentu
+Contoh yang SAH imbuhan ini (sudah diketahui): 优点, 缺点, 特点, 观点
+Kata yang harus dinilai untuk 点:
+34. 要点 | yào diǎn | poin utama; inti
+35. 一点点 | yī diǎn diǎn | sedikit saja
+36. 指点 | zhǐ diǎn | menunjukkan; mengindikasikan
+37. 终点 | zhōng diǎn | akhir; titik akhir; garis finis (dalam perlombaan); tujuan; terminus
+38. 焦点 | jiāo diǎn | (harfiah dan kiasan) titik fokus; fokus
+39. 出发点 | chū fā diǎn | titik awal; (kiasan) dasar
+40. 斑点 | bān diǎn | bintik; noda
+41. 热点 | rè diǎn | hot spot; titik minat khusus
+42. 难点 | nán diǎn | kesulitan
+43. 百分点 | bǎi fēn diǎn | poin persentase
+44. 晚点 | wǎn diǎn | (kereta dll) terlambat; tertunda
+45. 地点 | dì diǎn | tempat; lokasi
+46. 转折点 | zhuǎn zhé diǎn | titik balik; titik kritis
+47. 弱点 | ruò diǎn | titik lemah; kekurangan
+48. 疑点 | yí diǎn | poin yang meragukan
+49. 景点 | jǐng diǎn | atraksi wisata; tempat wisata
+50. 起点 | qǐ diǎn | titik awal
+51. 网点 | wǎng diǎn | cabang; gerai layanan (dari bank, toko ritel, dll); (percetakan) titik halftone
+52. 重点 | zhòng diǎn | poin penting; poin utama; fokus; kunci (proyek dll.)
+53. 试点 | shì diǎn | titik uji; melakukan uji coba
+54. 亮点 | liàng diǎn | sorotan utama; titik terang
+
+Ingat: keluarkan HANYA satu blok JSON (array) berisi 54 entri, urut nomor 1 sampai 54.

@@ -1,0 +1,104 @@
+PERAN
+Kamu membantu menyusun bahan belajar Mandarin untuk pelajar berbahasa Indonesia.
+Tugasmu: menilai apakah karakter imbuhan di dalam setiap kata kandidat BENAR-BENAR berfungsi sebagai
+imbuhan yang dimaksud, atau hanya kebetulan ada di kata itu.
+
+CARA MENILAI
+Untuk setiap kata kandidat, nilai HANYA terhadap imbuhan dan fungsi yang tertulis pada bagian
+"IMBUHAN" di bawah. Jangan memakai arti lain dari karakter itu.
+- "imbuhan": karakter itu berfungsi persis seperti definisi yang diberikan.
+- "bukan": karakter itu ada di kata tersebut, tetapi tidak berfungsi sebagai imbuhan itu
+  (misalnya bagian dari kata dasar, kata serapan, atau punya arti lain).
+- "ragu": kamu tidak yakin, atau fungsinya berada di antara keduanya / berbeda dari definisi.
+  Lebih baik "ragu" daripada menebak.
+
+ATURAN KERAS (tidak boleh dilanggar)
+1. Jangan mengarang. Pinyin dan arti kata sudah diberikan; pakailah itu apa adanya.
+2. Beri tepat satu entri untuk SETIAP kata pada daftar, dengan urutan yang sama dengan nomor di daftar.
+   Tidak boleh ada yang dilewati dan tidak boleh ada kata tambahan.
+3. "alasan" = satu kalimat Bahasa Indonesia sehari-hari yang mudah dipahami (pakai tanda kutip “ ” untuk arti).
+   - Untuk "bukan": sebut arti kata, lalu mengapa karakter itu bukan imbuhan.
+   - Untuk "imbuhan": jelaskan singkat bagaimana karakter itu berfungsi seperti definisi.
+   - Untuk "ragu": jelaskan letak keraguannya.
+4. Keluarkan HANYA satu blok JSON (sebuah array), tanpa teks pembuka atau penutup.
+
+CONTOH GAYA "alasan"
+- 发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang.
+- 花生 berarti “kacang tanah”; 生 menjadi bagian nama benda, bukan penanda orang.
+- 学生 berarti “siswa”; 生 menunjukkan orang dengan status pelajar.
+
+FORMAT KELUARAN
+[
+  {"afiks": "生", "kata": "发生", "golongan": "bukan", "alasan": "发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang."}
+]
+"golongan" hanya boleh salah satu dari: "imbuhan", "bukan", "ragu".
+
+
+============================================================
+DAFTAR YANG HARUS DINILAI (berkas 03)
+============================================================
+
+------------------------------------------------------------
+IMBUHAN: 长 (akhiran)  — kelompok A: Orang/pelaku
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir nama lembaga atau kelompok untuk menyebut orang yang memimpin atau mengepalainya.
+Arti: pemimpin atau orang yang mengepalai suatu kelompok/lembaga
+Contoh yang SAH imbuhan ini (sudah diketahui): 校长, 市长, 班长, 部长
+Contoh yang BUKAN imbuhan ini (sudah diketahui):
+   增长 — 增长 berarti “bertambah/meningkat”; 长 dibaca zhǎng dalam kata kerja, bukan akhiran jabatan.
+   擅长 — 擅长 berarti “mahir”; 长 dibaca cháng dan menjadi bagian kata sifat, bukan nama pemimpin.
+   漫长 — 漫长 berarti “panjang dan lama”; 长 dibaca cháng sebagai makna panjang, bukan pemimpin.
+Catatan: Bacaan yang dipakai di sini adalah zhǎng (pemimpin/kepala). Karakter 长 juga memiliki bacaan cháng pada makna 'panjang'; lihat daftar 'bukan'.
+Kata yang harus dinilai untuk 长:
+1. 队长 | duì zhǎng | kapten; pemimpin tim
+2. 团长 | tuán zhǎng | komando resimen; ketua delegasi
+3. 组长 | zǔ zhǎng | pemimpin grup
+4. 土生土长 | tǔ shēng tǔ zhǎng | (idiom) (tentang orang) lahir dan dibesarkan di daerah setempat; (tentang ben...
+5. 院长 | yuàn zhǎng | kepala dari sebuah institusi yang namanya berakhiran dengan 院; ketua dewan; r...
+6. 局长 | jú zhǎng | kepala biro
+7. 司长 | sī zhǎng | ketua biro
+8. 全长 | quán cháng | panjang keseluruhan; rentang
+9. 厂长 | chǎng zhǎng | direktur pabrik
+10. 成长 | chéng zhǎng | menjadi dewasa; tumbuh
+11. 专长 | zhuān cháng | spesialisasi; pengetahuan atau kemampuan khusus
+12. 家长 | jiā zhǎng | kepala rumah tangga; patriark
+13. 船长 | chuán zhǎng | nahkoda (perahu); kapten
+14. 会长 | huì zhǎng | ketua klub, komite, dll
+15. 处长 | chù zhǎng | kepala departemen; kepala bagian
+16. 特长 | tè cháng | kekuatan pribadi; kemampuan khusus atau keunggulan seseorang
+17. 生长 | shēng zhǎng | tumbuh; tumbuh besar
+18. 所长 | suǒ zhǎng | kepala institut dll; apa yang menjadi keahlian seseorang
+19. 董事长 | dǒng shì zhǎng | ketua dewan direksi
+20. 秘书长 | mì shū zhǎng | sekretaris jenderal
+21. 修长 | xiū cháng | ramping; jangkung
+22. 延长 | yán cháng | memperpanjang; memperluas
+
+------------------------------------------------------------
+IMBUHAN: 化 (akhiran)  — kelompok B: Sifat dan konsep abstrak
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir sifat atau keadaan untuk menyatakan proses menjadikan sesuatu memiliki sifat tersebut.
+Arti: proses atau perubahan menjadi suatu keadaan
+Contoh yang SAH imbuhan ini (sudah diketahui): 现代化, 绿化, 美化, 简化
+Contoh yang BUKAN imbuhan ini (sudah diketahui):
+   变化 — 变化 berarti “perubahan/berubah”; 化 tidak membentuk kata baru dengan arti proses seperti pada contoh akhiran.
+Kata yang harus dinilai untuk 化:
+23. 文化 | wén huà | budaya; peradaban
+24. 孵化 | fū huà | pengeraman; menginkubasi
+25. 激化 | jī huà | memperhebat
+26. 恶化 | è huà | memburuk
+27. 净化 | jìng huà | memurnikan
+28. 淡化 | dàn huà | mengencerkan; meremehkan
+29. 进化 | jìn huà | evolusi
+30. 潜移默化 | qián yí mò huà | pengaruh yang tidak dapat dirasakan; mempengaruhi secara diam-diam
+31. 优化 | yōu huà | mengoptimalkan
+32. 千变万化 | qiān biàn wàn huà | perubahan yang tak terhitung jumlahnya; permutasi konstan
+33. 消化 | xiāo huà | mencerna (makanan); (kiasan) menyerap (informasi dll); mengasimilasi; memproses
+34. 强化 | qiáng huà | memperkuat; mengintensifkan
+35. 转化 | zhuǎn huà | berubah; mengubah; beralih; (genetika) bertransformasi
+36. 僵化 | jiāng huà | menjadi kaku
+37. 老化 | lǎo huà | (tentang orang, populasi, atau material) menua; (tentang pengetahuan) menjadi ketinggalan zaman
+38. 腐化 | fǔ huà | membusuk; terurai
+39. 融化 | róng huà | meleleh; mencair
+40. 分化 | fēn huà | terpecah; diferensiasi
+41. 多元化 | duō yuán huà | diversifikasi; pluralisme
+42. 深化 | shēn huà | memperdalam; mengintensifkan
+
+Ingat: keluarkan HANYA satu blok JSON (array) berisi 42 entri, urut nomor 1 sampai 42.

@@ -1,0 +1,107 @@
+PERAN
+Kamu membantu menyusun bahan belajar Mandarin untuk pelajar berbahasa Indonesia.
+Tugasmu: menilai apakah karakter imbuhan di dalam setiap kata kandidat BENAR-BENAR berfungsi sebagai
+imbuhan yang dimaksud, atau hanya kebetulan ada di kata itu.
+
+CARA MENILAI
+Untuk setiap kata kandidat, nilai HANYA terhadap imbuhan dan fungsi yang tertulis pada bagian
+"IMBUHAN" di bawah. Jangan memakai arti lain dari karakter itu.
+- "imbuhan": karakter itu berfungsi persis seperti definisi yang diberikan.
+- "bukan": karakter itu ada di kata tersebut, tetapi tidak berfungsi sebagai imbuhan itu
+  (misalnya bagian dari kata dasar, kata serapan, atau punya arti lain).
+- "ragu": kamu tidak yakin, atau fungsinya berada di antara keduanya / berbeda dari definisi.
+  Lebih baik "ragu" daripada menebak.
+
+ATURAN KERAS (tidak boleh dilanggar)
+1. Jangan mengarang. Pinyin dan arti kata sudah diberikan; pakailah itu apa adanya.
+2. Beri tepat satu entri untuk SETIAP kata pada daftar, dengan urutan yang sama dengan nomor di daftar.
+   Tidak boleh ada yang dilewati dan tidak boleh ada kata tambahan.
+3. "alasan" = satu kalimat Bahasa Indonesia sehari-hari yang mudah dipahami (pakai tanda kutip “ ” untuk arti).
+   - Untuk "bukan": sebut arti kata, lalu mengapa karakter itu bukan imbuhan.
+   - Untuk "imbuhan": jelaskan singkat bagaimana karakter itu berfungsi seperti definisi.
+   - Untuk "ragu": jelaskan letak keraguannya.
+4. Keluarkan HANYA satu blok JSON (sebuah array), tanpa teks pembuka atau penutup.
+
+CONTOH GAYA "alasan"
+- 发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang.
+- 花生 berarti “kacang tanah”; 生 menjadi bagian nama benda, bukan penanda orang.
+- 学生 berarti “siswa”; 生 menunjukkan orang dengan status pelajar.
+
+FORMAT KELUARAN
+[
+  {"afiks": "生", "kata": "发生", "golongan": "bukan", "alasan": "发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang."}
+]
+"golongan" hanya boleh salah satu dari: "imbuhan", "bukan", "ragu".
+
+
+============================================================
+DAFTAR YANG HARUS DINILAI (berkas 17)
+============================================================
+
+------------------------------------------------------------
+IMBUHAN: 全 (awalan)  — kelompok J: Tingkat dan keseluruhan
+Fungsi yang dinilai (sebagai awalan): Diletakkan di awal unsur untuk menyatakan keseluruhan atau kelengkapan.
+Arti: seluruh atau lengkap
+Contoh yang SAH imbuhan ini (sudah diketahui): 全国, 全家, 全球, 全面
+Kata yang harus dinilai untuk 全:
+1. 全程 | quán chéng | seluruh jarak; dari awal hingga akhir
+2. 全世界 | quán shì jiè | seluruh dunia; seantero dunia
+3. 全力 | quán lì | dengan sekuat tenaga; kekuatan penuh
+4. 全都 | quán dōu | semua; tanpa terkecuali
+5. 全身 | quán shēn | seluruh tubuh; (tipografi) em
+6. 全长 | quán cháng | panjang keseluruhan; rentang
+7. 全年 | quán nián | sepanjang tahun
+8. 全心全意 | quán xīn quán yì | (idiom) sepenuh hati
+9. 全部 | quán bù | seluruh; semua
+10. 全方位 | quán fāng wèi | semua sisi; omnidirectional
+11. 全力以赴 | quán lì yǐ fù | melakukan dengan segala cara; melakukan upaya habis-habisan
+12. 全场 | quán chǎng | semua yang hadir; seluruh penonton
+13. 全体 | quán tǐ | semua; seluruh
+14. 全局 | quán jú | situasi keseluruhan
+15. 全陪 | quán péi | pendamping tur (selama seluruh tur)
+16. 全新 | quán xīn | semua baru; benar-benar baru
+17. 全文 | quán wén | seluruh teks; teks lengkap
+18. 全能 | quán néng | mahakuasa; serba bisa
+
+------------------------------------------------------------
+IMBUHAN: 同 (awalan)  — kelompok J: Tingkat dan keseluruhan
+Fungsi yang dinilai (sebagai awalan): Diletakkan di awal unsur untuk menyatakan kesamaan, kebersamaan, atau hubungan yang sama.
+Arti: sama, bersama, atau sejenis
+Contoh yang SAH imbuhan ini (sudah diketahui): 同学, 同事, 同意, 同时
+Catatan: Pada 同意, 同 berada di awal kata dan berarti setuju bersama; ini bagian kata utuh, bukan awalan imbuhan.
+Kata yang harus dinilai untuk 同:
+19. 同行 | tóng háng | orang dengan profesi yang sama; dari perdagangan, pekerjaan, atau industri yang sama
+20. 同伴 | tóng bàn | teman; kawan; sesama
+21. 同期 | tóng qī | periode waktu yang sesuai (pada tahun yang berbeda, dll); bersamaan
+22. 同父异母 | tóngfù yìmǔ | saudara tiri (satu ayah, beda ibu), generasi sendiri, jalur tiri
+23. 同母异父 | tóngmǔ yìfù | saudara tiri (satu ibu, beda ayah), generasi sendiri, jalur tiri
+24. 同志 | tóng zhì | kawan; (slang) homoseksual
+25. 同一 | tóng yī | identik; sama
+26. 同盟 | tóng méng | aliansi
+27. 同情 | tóng qíng | bersimpati dengan; simpati
+28. 同类 | tóng lèi | mirip; tipe yang sama
+29. 同舟共济 | tóng zhōu gòng jì | menyeberangi sungai dengan perahu yang sama (idiom); kiasan: memiliki kepenti...; wajib berkolaborasi untuk mencapai tujuan bersama
+30. 同样 | tóng yàng | sama; setara; mirip; demikian pula; juga
+31. 同步 | tóng bù | sinkron; menyinkronkan
+32. 同感 | tóng gǎn | (memiliki) perasaan yang sama; kesan yang mirip
+33. 同胞 | tóng bāo | lahir dari orang tua yang sama; saudara kandung
+34. 同等 | tóng děng | setara dengan; memiliki kelas atau status sosial yang sama
+35. 同父同母 | tóngfù tóngmǔ | saudara kandung (satu ayah dan satu ibu), generasi sendiri, jalur kandung
+36. 同伙 | tóng huǒ | kolega; komplotan
+37. 同年 | tóng nián | tahun yang sama
+38. 同人 | tóng rén | orang-orang dari tempat kerja atau profesi yang sama; rekan kerja; kolega; (fandom) pembuat penggemar atau penggemar yang terlibat dalam karya turunan (...
+
+------------------------------------------------------------
+IMBUHAN: 共 (awalan)  — kelompok J: Tingkat dan keseluruhan
+Fungsi yang dinilai (sebagai awalan): Diletakkan di awal unsur untuk menyatakan kebersamaan atau kepemilikan/pelaksanaan bersama.
+Arti: bersama atau dimiliki/dilakukan bersama
+Contoh yang SAH imbuhan ini (sudah diketahui): 共同, 共有, 共享, 共计
+Kata yang harus dinilai untuk 共:
+39. 共识 | gòng shí | pemahaman umum; konsensus
+40. 共享单车 | gòng xiǎng dān chē | sepeda sewa/berbagi
+41. 共同体 | gòng tóng tǐ | komunitas
+42. 共鸣 | gòng míng | (fisika) untuk beresonansi; resonansi; respon simpatik
+43. 共性 | gòng xìng | karakter keseluruhan
+44. 共和国 | gòng hé guó | republik
+
+Ingat: keluarkan HANYA satu blok JSON (array) berisi 44 entri, urut nomor 1 sampai 44.

@@ -1,0 +1,123 @@
+PERAN
+Kamu membantu menyusun bahan belajar Mandarin untuk pelajar berbahasa Indonesia.
+Tugasmu: menilai apakah karakter imbuhan di dalam setiap kata kandidat BENAR-BENAR berfungsi sebagai
+imbuhan yang dimaksud, atau hanya kebetulan ada di kata itu.
+
+CARA MENILAI
+Untuk setiap kata kandidat, nilai HANYA terhadap imbuhan dan fungsi yang tertulis pada bagian
+"IMBUHAN" di bawah. Jangan memakai arti lain dari karakter itu.
+- "imbuhan": karakter itu berfungsi persis seperti definisi yang diberikan.
+- "bukan": karakter itu ada di kata tersebut, tetapi tidak berfungsi sebagai imbuhan itu
+  (misalnya bagian dari kata dasar, kata serapan, atau punya arti lain).
+- "ragu": kamu tidak yakin, atau fungsinya berada di antara keduanya / berbeda dari definisi.
+  Lebih baik "ragu" daripada menebak.
+
+ATURAN KERAS (tidak boleh dilanggar)
+1. Jangan mengarang. Pinyin dan arti kata sudah diberikan; pakailah itu apa adanya.
+2. Beri tepat satu entri untuk SETIAP kata pada daftar, dengan urutan yang sama dengan nomor di daftar.
+   Tidak boleh ada yang dilewati dan tidak boleh ada kata tambahan.
+3. "alasan" = satu kalimat Bahasa Indonesia sehari-hari yang mudah dipahami (pakai tanda kutip “ ” untuk arti).
+   - Untuk "bukan": sebut arti kata, lalu mengapa karakter itu bukan imbuhan.
+   - Untuk "imbuhan": jelaskan singkat bagaimana karakter itu berfungsi seperti definisi.
+   - Untuk "ragu": jelaskan letak keraguannya.
+4. Keluarkan HANYA satu blok JSON (sebuah array), tanpa teks pembuka atau penutup.
+
+CONTOH GAYA "alasan"
+- 发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang.
+- 花生 berarti “kacang tanah”; 生 menjadi bagian nama benda, bukan penanda orang.
+- 学生 berarti “siswa”; 生 menunjukkan orang dengan status pelajar.
+
+FORMAT KELUARAN
+[
+  {"afiks": "生", "kata": "发生", "golongan": "bukan", "alasan": "发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang."}
+]
+"golongan" hanya boleh salah satu dari: "imbuhan", "bukan", "ragu".
+
+
+============================================================
+DAFTAR YANG HARUS DINILAI (berkas 09)
+============================================================
+
+------------------------------------------------------------
+IMBUHAN: 场 (akhiran)  — kelompok E: Tempat dan lembaga
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menjelaskan kegiatan untuk menamai tempat atau area kegiatan itu.
+Arti: tempat atau area untuk kegiatan tertentu
+Contoh yang SAH imbuhan ini (sudah diketahui): 机场, 商场, 广场, 球场
+Catatan: Bacaan yang dipakai pada contoh ini adalah chǎng; karakter 场 juga dapat mempunyai bacaan lain pada konteks berbeda. Ini contoh “mirip tetapi bukan”: pada 场所 (chǎng suǒ), 场 berada di awal dan berarti tempat/lokasi; ini bagian kata utuh, bukan awalan yang menambahkan makna baru.
+Kata yang harus dinilai untuk 场:
+1. 农场 | nóng chǎng | pertanian
+2. 考场 | kǎo chǎng | ruang ujian
+3. 战场 | zhàn chǎng | medan perang
+4. 开场 | kāi chǎng | memulai; membuka
+5. 当场 | dāng chǎng | di tempat kejadian; di tempat
+6. 进场 | jìn chǎng | memasuki tempat; memasuki arena
+7. 市场 | shì chǎng | pasar; tempat jual beli; bazar; (ekonomi) pasar
+8. 上场 | shàng chǎng | di atas panggung; naik ke atas panggung
+9. 立场 | lì chǎng | posisi; sudut pandang
+10. 半场 | bàn chǎng | setengah dari permainan atau kontes; setengah lapangan
+11. 现场 | xiàn chǎng | lokasi (kejahatan, kecelakaan dll); (di) tempat
+12. 停车场 | tíng chē chǎng | tempat parkir; tempat parkir mobil
+13. 全场 | quán chǎng | semua yang hadir; seluruh penonton
+14. 赛场 | sài chǎng | arena pacuan; lapangan (untuk kompetisi atletik)
+15. 在场 | zài chǎng | hadir; berada di tempat kejadian
+16. 会场 | huì chǎng | tempat pertemuan; tempat orang berkumpul
+17. 出场 | chū chǎng | (dari seorang pemain) naik ke atas panggung untuk tampil; (dari seorang atlet) memasuki arena untuk bertanding
+18. 下场 | xià chǎng | meninggalkan (panggung, ruang ujian, lapangan bermain, dll); ikut serta dalam suatu kegiatan
+19. 剧场 | jù chǎng | teater
+20. 体育场 | tǐ yù chǎng | stadion
+21. 操场 | cāo chǎng | tempat bermain; lapangan olahraga; lapangan latihan
+
+------------------------------------------------------------
+IMBUHAN: 院 (akhiran)  — kelompok E: Tempat dan lembaga
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menjelaskan bidang atau fungsi untuk menamai lembaga atau gedung.
+Arti: lembaga, gedung, atau kompleks tertentu
+Contoh yang SAH imbuhan ini (sudah diketahui): 医院, 学院, 电影院, 法院
+Catatan: Pada 院子, 院 berada di awal kata dan berarti halaman/pekarangan; ini bukan awalan pembentuk nama lembaga.
+Kata yang harus dinilai untuk 院:
+22. 出院 | chū yuàn | meninggalkan rumah sakit; dipulangkan dari rumah sakit
+23. 住院 | zhù yuàn | dirawat di rumah sakit
+24. 四合院 | sì hé yuàn | rumah halaman dengan halaman yang tertutup sepenuhnya (jenis tempat tinggal T...
+25. 国务院 | Guó wù yuàn | (RRT) Dewan Negara; (USA) Departemen Luar Negeri
+26. 剧院 | jù yuàn | teater
+27. 养老院 | yǎng lǎo yuàn | panti jompo
+
+------------------------------------------------------------
+IMBUHAN: 店 (akhiran)  — kelompok E: Tempat dan lembaga
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menjelaskan barang atau layanan untuk menamai tempat usaha.
+Arti: toko atau tempat usaha
+Contoh yang SAH imbuhan ini (sudah diketahui): 商店, 书店, 药店, 酒店
+Kata yang harus dinilai untuk 店:
+28. 专卖店 | zhuān mài diàn | toko khusus
+29. 连锁店 | lián suǒ diàn | toko rantai
+30. 免税店 | miǎnshuìdiàn | toko bebas pajak
+31. 饭店 | fàn diàn | restoran; hotel
+32. 便利店 | biàn lì diàn | toko serba ada
+33. 旅店 | lǚ diàn | penginapan; hotel kecil
+
+------------------------------------------------------------
+IMBUHAN: 所 (akhiran)  — kelompok E: Tempat dan lembaga
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menjelaskan kegiatan atau layanan untuk menamai tempat/lembaga.
+Arti: tempat atau lembaga untuk kegiatan tertentu
+Contoh yang SAH imbuhan ini (sudah diketahui): 场所, 研究所, 厕所, 诊所
+Kata yang harus dinilai untuk 所:
+34. 公共场所 | gōng gòng chǎng suǒ | tempat umum
+35. 有所 | yǒu suǒ | agak; sampai batas tertentu
+36. 事务所 | shì wù suǒ | kantor bisnis; firma
+
+------------------------------------------------------------
+IMBUHAN: 区 (akhiran)  — kelompok E: Tempat dan lembaga
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menjelaskan ciri atau letak untuk menamai wilayah atau kawasan.
+Arti: wilayah atau kawasan
+Contoh yang SAH imbuhan ini (sudah diketahui): 地区, 社区, 郊区, 小区
+Kata yang harus dinilai untuk 区:
+37. 景区 | jǐng qū | kawasan wisata
+38. 城区 | chéng qū | Distrik Cheng atau Chengqu, distrik Kota Shanwei 汕尾市, Guangdong; distrik kota
+39. 山区 | shān qū | area pegunungan
+40. 灾区 | zāi qū | daerah bencana; wilayah yang terkena musibah
+41. 风景区 | fēngjǐngqū | kawasan wisata
+42. 开发区 | kāi fā qū | zona pengembangan
+43. 市区 | shì qū | distrik perkotaan; pusat kota
+44. 禁区 | jìn qū | area terlarang; zona terlarang
+45. 误区 | wù qū | gagasan yang keliru; kesalahpahaman; kekeliruan seseorang
+
+Ingat: keluarkan HANYA satu blok JSON (array) berisi 45 entri, urut nomor 1 sampai 45.

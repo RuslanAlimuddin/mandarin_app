@@ -1,0 +1,128 @@
+PERAN
+Kamu membantu menyusun bahan belajar Mandarin untuk pelajar berbahasa Indonesia.
+Tugasmu: menilai apakah karakter imbuhan di dalam setiap kata kandidat BENAR-BENAR berfungsi sebagai
+imbuhan yang dimaksud, atau hanya kebetulan ada di kata itu.
+
+CARA MENILAI
+Untuk setiap kata kandidat, nilai HANYA terhadap imbuhan dan fungsi yang tertulis pada bagian
+"IMBUHAN" di bawah. Jangan memakai arti lain dari karakter itu.
+- "imbuhan": karakter itu berfungsi persis seperti definisi yang diberikan.
+- "bukan": karakter itu ada di kata tersebut, tetapi tidak berfungsi sebagai imbuhan itu
+  (misalnya bagian dari kata dasar, kata serapan, atau punya arti lain).
+- "ragu": kamu tidak yakin, atau fungsinya berada di antara keduanya / berbeda dari definisi.
+  Lebih baik "ragu" daripada menebak.
+
+ATURAN KERAS (tidak boleh dilanggar)
+1. Jangan mengarang. Pinyin dan arti kata sudah diberikan; pakailah itu apa adanya.
+2. Beri tepat satu entri untuk SETIAP kata pada daftar, dengan urutan yang sama dengan nomor di daftar.
+   Tidak boleh ada yang dilewati dan tidak boleh ada kata tambahan.
+3. "alasan" = satu kalimat Bahasa Indonesia sehari-hari yang mudah dipahami (pakai tanda kutip “ ” untuk arti).
+   - Untuk "bukan": sebut arti kata, lalu mengapa karakter itu bukan imbuhan.
+   - Untuk "imbuhan": jelaskan singkat bagaimana karakter itu berfungsi seperti definisi.
+   - Untuk "ragu": jelaskan letak keraguannya.
+4. Keluarkan HANYA satu blok JSON (sebuah array), tanpa teks pembuka atau penutup.
+
+CONTOH GAYA "alasan"
+- 发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang.
+- 花生 berarti “kacang tanah”; 生 menjadi bagian nama benda, bukan penanda orang.
+- 学生 berarti “siswa”; 生 menunjukkan orang dengan status pelajar.
+
+FORMAT KELUARAN
+[
+  {"afiks": "生", "kata": "发生", "golongan": "bukan", "alasan": "发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang."}
+]
+"golongan" hanya boleh salah satu dari: "imbuhan", "bukan", "ragu".
+
+
+============================================================
+DAFTAR YANG HARUS DINILAI (berkas 01)
+============================================================
+
+------------------------------------------------------------
+IMBUHAN: 者 (akhiran)  — kelompok A: Orang/pelaku
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menerangkan kegiatan, bidang, atau peran untuk membentuk sebutan orang.
+Arti: orang yang melakukan atau berkaitan dengan suatu kegiatan
+Contoh yang SAH imbuhan ini (sudah diketahui): 记者, 作者, 读者, 学者
+Contoh yang BUKAN imbuhan ini (sudah diketahui):
+   前者 — 前者 berarti “yang disebut pertama”; 者 menunjuk urutan pilihan, bukan orang berdasarkan kegiatan.
+   后者 — 后者 berarti “yang disebut belakangan”; 者 menunjuk urutan pilihan, bukan orang berdasarkan kegiatan.
+Kata yang harus dinilai untuk 者:
+1. 或者 | huò zhě | atau; mungkin; bisa jadi; barangkali
+2. 女性领导者 | nǚ xìng lǐng dǎo zhě | pemimpin perempuan
+3. 使者 | shǐ zhě | emisaris; utusan
+4. 消费者 | xiāo fèi zhě | konsumen
+5. 志愿者 | zhì yuàn zhě | sukarelawan
+6. 患者 | huàn zhě | pasien; penderita
+
+------------------------------------------------------------
+IMBUHAN: 家 (akhiran)  — kelompok A: Orang/pelaku
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir nama bidang atau kegiatan untuk menyebut orang yang ahli atau bekerja di bidang tersebut.
+Arti: ahli atau orang yang menekuni suatu bidang
+Contoh yang SAH imbuhan ini (sudah diketahui): 作家, 画家, 科学家, 专家
+Contoh yang BUKAN imbuhan ini (sudah diketahui):
+   回家 — 回家 berarti “pulang ke rumah”; 家 menunjukkan rumah yang dituju, bukan profesi.
+   大家 — 大家 berarti “semua orang”; 家 tidak menamai ahli dalam suatu bidang.
+   全家 — 全家 berarti “seluruh keluarga”; 家 menunjukkan keluarga, bukan nama profesi.
+Catatan: Pada 家庭, 家 berada di awal kata dan berarti rumah atau keluarga; ini bukan awalan pembentuk makna ahli.
+Kata yang harus dinilai untuk 家:
+7. 成家 | chéng jiā | menetap dan menikah (laki-laki); menjadi ahli yang diakui
+8. 搬家 | bān jiā | pindah rumah; relokasi; memindahkan (sesuatu)
+9. 行家 | háng jiā | penikmat; ahli; veteran
+10. 独家 | dú jiā | eksklusif
+11. 赢家 | yíng jiā | pemenang
+12. 老人家 | lǎo rén jiā | istilah sopan untuk wanita atau pria tua
+13. 在家 | zài jiā | berada di rumah; (di tempat kerja) berada di (sebagai lawan dari sedang dinas 出差)
+14. 老家 | lǎo jiā | tempat asal; tempat kelahiran
+15. 管家 | guǎn jiā | (dulu) kepala pelayan; pengurus; manajer; administrator; pengurus rumah tangga
+16. 输家 | shū jiā | pecundang (lawan dari pemenang 贏家|赢家)
+17. 人家 | rén jia | orang lain; dia, dia atau mereka
+18. 亲家 | qìngjia | orang tua besan (orang tua dari menantu perempuan/menantu laki-laki), jalur m...
+19. 儒家 | Rú jiā | aliran Konfusianisme, didirikan oleh Konfusius 孔子 (551-479 SM) dan Mencius 孟子...
+20. 厂家 | chǎng jiā | pabrik; produsen; (percakapan) pemilik pabrik; manajemen pabrik
+21. 国家 | guó jiā | negara; bangsa
+
+------------------------------------------------------------
+IMBUHAN: 员 (akhiran)  — kelompok A: Orang/pelaku
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menyebut tugas atau kelompok untuk menamai orang yang menjadi anggota atau petugas.
+Arti: anggota, petugas, atau orang yang menjalankan tugas
+Contoh yang SAH imbuhan ini (sudah diketahui): 演员, 服务员, 公务员, 运动员
+Kata yang harus dinilai untuk 员:
+22. 成员 | chéng yuán | anggota
+23. 委员 | wěi yuán | anggota panitia
+24. 队员 | duì yuán | anggota tim
+25. 动员 | dòng yuán | memobilisasi; mobilisasi
+26. 职员 | zhí yuán | pekerja kantor; anggota staf
+27. 裁员 | cái yuán | memotong staf; memberhentikan karyawan
+28. 学员 | xué yuán | siswa; anggota lembaga pendidikan
+29. 售货员 | shòu huò yuán | pramuniaga; rekan penjualan; tenaga penjualan ritel
+30. 飞行员 | fēi xíng yuán | pilot; avator
+31. 雇员 | gù yuán | karyawan
+32. 船员 | chuán yuán | pelaut; anggota kru
+33. 团员 | tuán yuán | anggota; anggota kelompok
+34. 官员 | guān yuán | pejabat (dalam organisasi atau pemerintah); administrator
+35. 球员 | qiú yuán | pemain (olahraga bola); anggota tim
+36. 乘务员 | chéng wù yuán | pramugari di pesawat terbang, kereta api, perahu, dll
+37. 航天员 | háng tiān yuán | astronot
+38. 会员 | huì yuán | anggota
+39. 宇航员 | yǔ háng yuán | astronot
+40. 议员 | yì yuán | anggota (badan legislatif); perwakilan
+41. 评论员 | píng lùn yuán | komentator
+42. 人员 | rén yuán | staf; awak
+43. 伤员 | shāng yuán | orang yang terluka
+
+------------------------------------------------------------
+IMBUHAN: 师 (akhiran)  — kelompok A: Orang/pelaku
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir nama keahlian atau pekerjaan untuk menyebut orang yang menjalankan profesi tersebut.
+Arti: orang yang memiliki keahlian atau profesi tertentu
+Contoh yang SAH imbuhan ini (sudah diketahui): 老师, 工程师, 律师, 厨师
+Catatan: Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia.
+Kata yang harus dinilai untuk 师:
+44. 导师 | dǎo shī | tutor; guru
+45. 设计师 | shè jì shī | desainer; arsitek
+46. 教师 | jiào shī | guru
+47. 大师 | dà shī | master agung; master
+48. 摄影师 | shè yǐng shī | fotografer; sinematografer; juru kamera
+49. 建筑师 | jiàn zhù shī | arsitek
+50. 师生 | shī shēng | guru dan murid
+
+Ingat: keluarkan HANYA satu blok JSON (array) berisi 50 entri, urut nomor 1 sampai 50.

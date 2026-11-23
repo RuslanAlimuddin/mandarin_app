@@ -1,0 +1,109 @@
+PERAN
+Kamu membantu menyusun bahan belajar Mandarin untuk pelajar berbahasa Indonesia.
+Tugasmu: menilai apakah karakter imbuhan di dalam setiap kata kandidat BENAR-BENAR berfungsi sebagai
+imbuhan yang dimaksud, atau hanya kebetulan ada di kata itu.
+
+CARA MENILAI
+Untuk setiap kata kandidat, nilai HANYA terhadap imbuhan dan fungsi yang tertulis pada bagian
+"IMBUHAN" di bawah. Jangan memakai arti lain dari karakter itu.
+- "imbuhan": karakter itu berfungsi persis seperti definisi yang diberikan.
+- "bukan": karakter itu ada di kata tersebut, tetapi tidak berfungsi sebagai imbuhan itu
+  (misalnya bagian dari kata dasar, kata serapan, atau punya arti lain).
+- "ragu": kamu tidak yakin, atau fungsinya berada di antara keduanya / berbeda dari definisi.
+  Lebih baik "ragu" daripada menebak.
+
+ATURAN KERAS (tidak boleh dilanggar)
+1. Jangan mengarang. Pinyin dan arti kata sudah diberikan; pakailah itu apa adanya.
+2. Beri tepat satu entri untuk SETIAP kata pada daftar, dengan urutan yang sama dengan nomor di daftar.
+   Tidak boleh ada yang dilewati dan tidak boleh ada kata tambahan.
+3. "alasan" = satu kalimat Bahasa Indonesia sehari-hari yang mudah dipahami (pakai tanda kutip “ ” untuk arti).
+   - Untuk "bukan": sebut arti kata, lalu mengapa karakter itu bukan imbuhan.
+   - Untuk "imbuhan": jelaskan singkat bagaimana karakter itu berfungsi seperti definisi.
+   - Untuk "ragu": jelaskan letak keraguannya.
+4. Keluarkan HANYA satu blok JSON (sebuah array), tanpa teks pembuka atau penutup.
+
+CONTOH GAYA "alasan"
+- 发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang.
+- 花生 berarti “kacang tanah”; 生 menjadi bagian nama benda, bukan penanda orang.
+- 学生 berarti “siswa”; 生 menunjukkan orang dengan status pelajar.
+
+FORMAT KELUARAN
+[
+  {"afiks": "生", "kata": "发生", "golongan": "bukan", "alasan": "发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang."}
+]
+"golongan" hanya boleh salah satu dari: "imbuhan", "bukan", "ragu".
+
+
+============================================================
+DAFTAR YANG HARUS DINILAI (berkas 10)
+============================================================
+
+------------------------------------------------------------
+IMBUHAN: 部 (akhiran)  — kelompok E: Tempat dan lembaga
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menunjukkan letak atau organisasi untuk menyebut bagian atau unit tersebut.
+Arti: bagian, kawasan, atau unit organisasi
+Contoh yang SAH imbuhan ini (sudah diketahui): 东部, 内部, 总部, 俱乐部
+Catatan: Pada 部分, 部 berada di awal kata dan berarti bagian; ini kata utuh, bukan awalan penanda tempat.
+Kata yang harus dinilai untuk 部:
+1. 颈部 | jǐng bù | leher
+2. 中部 | zhōng bù | bagian tengah; wilayah tengah
+3. 外部 | wài bù | bagian luar; (sebagai atribut) eksternal; eksterior; permukaan
+4. 胸部 | xiōng bù | dada; payudara
+5. 干部 | gàn bù | kader; pejabat
+6. 头部 | tóu bù | kepala
+7. 南部 | nán bù | bagian selatan
+8. 腹部 | fù bù | perut; sisi
+9. 北部 | běi bù | bagian utara
+10. 局部 | jú bù | bagian; lokal
+11. 全部 | quán bù | seluruh; semua
+12. 西部 | xī bù | bagian barat
+13. 教育部 | Jiào yù bù | Kementerian Pendidikan
+14. 面部 | miàn bù | wajah (bagian tubuh)
+
+------------------------------------------------------------
+IMBUHAN: 器 (akhiran)  — kelompok F: Alat, barang, biaya
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menjelaskan fungsi untuk menamai alat atau perangkat.
+Arti: alat, perangkat, atau instrumen
+Contoh yang SAH imbuhan ini (sudah diketahui): 机器, 武器, 电器, 乐器
+Catatan: Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia.
+Kata yang harus dinilai untuk 器:
+15. 瓷器 | cí qì | barang pecah belah; porselen
+16. 显示器 | xiǎn shì qì | alat tampilan; monitor
+17. 浏览器 | liú lǎn qì | peramban (perangkat lunak)
+18. 充电器 | chōng diàn qì | pengisi daya baterai
+19. 仪器 | yí qì | instrumen; peralatan
+20. 容器 | róng qì | wadah; tempat
+21. 核武器 | hé wǔ qì | senjata nuklir
+22. 热水器 | rè shuǐ qì | pemanas air
+23. 服务器 | fú wù qì | server (komputer)
+
+------------------------------------------------------------
+IMBUHAN: 机 (akhiran)  — kelompok F: Alat, barang, biaya
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menjelaskan fungsi untuk menamai mesin atau perangkat.
+Arti: mesin atau perangkat
+Contoh yang SAH imbuhan ini (sudah diketahui): 手机, 飞机, 相机, 电视机
+Catatan: Pada 机场 dan 机器, 机 adalah bagian kata yang membawa makna sendiri yang berarti pesawat/mesin, bukan awalan. Pada 时机 dan 危机, 机 berkaitan dengan kesempatan/krisis. Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia.
+Kata yang harus dinilai untuk 机:
+24. 时机 | shí jī | kesempatan; saat yang tepat
+25. 游戏机 | yóu xì jī | mesin permainan video; konsol permainan video
+26. 计算机 | jì suàn jī | komputer; (Tw) kalkulator
+27. 摄像机 | shè xiàng jī | kamera video
+28. 投机 | tóu jī | cocok; menyenangkan; berspekulasi; menimbun barang
+29. 随机 | suí jī | sesuai situasi; pragmatis
+30. 关机 | guān jī | mematikan (mesin atau perangkat); menyelesaikan pengambilan gambar film
+31. 有机 | yǒu jī | organik
+32. 动机 | dòng jī | motif; motivasi
+33. 收音机 | shōu yīn jī | radio
+34. 转机 | zhuǎn jī | membaik; berganti pesawat
+35. 开机 | kāi jī | menghidupkan mesin; boot up (komputer)
+36. 打印机 | dǎ yìn jī | printer
+37. 录音机 | lù yīn jī | mesin perekam (kaset); perekam kaset
+38. 司机 | sī jī | sopir; pengemudi
+39. 直升机 | zhí shēng jī | helikopter; varian dari 直升機|直升机
+40. 耳机 | ěr jī | headphone; earphone
+41. 危机 | wēi jī | krisis
+42. 登机 | dēng jī | naik pesawat
+43. 洗衣机 | xǐ yī jī | mesin cuci; washer
+44. 取款机 | qǔ kuǎn jī | ATM
+
+Ingat: keluarkan HANYA satu blok JSON (array) berisi 44 entri, urut nomor 1 sampai 44.

@@ -1,0 +1,5702 @@
+{
+ "tahap": 1,
+ "berkas": {
+  "batch_01": [
+   {
+    "nomor": 1,
+    "afiks": "者",
+    "kata": "或者",
+    "kontrol": true,
+    "golongan_benar": "bukan"
+   },
+   {
+    "nomor": 2,
+    "afiks": "者",
+    "kata": "女性领导者",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 3,
+    "afiks": "者",
+    "kata": "使者",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 4,
+    "afiks": "者",
+    "kata": "消费者",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 5,
+    "afiks": "者",
+    "kata": "志愿者",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 6,
+    "afiks": "者",
+    "kata": "患者",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 7,
+    "afiks": "家",
+    "kata": "成家",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 8,
+    "afiks": "家",
+    "kata": "搬家",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 9,
+    "afiks": "家",
+    "kata": "行家",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 10,
+    "afiks": "家",
+    "kata": "独家",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 11,
+    "afiks": "家",
+    "kata": "赢家",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 12,
+    "afiks": "家",
+    "kata": "老人家",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 13,
+    "afiks": "家",
+    "kata": "在家",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 14,
+    "afiks": "家",
+    "kata": "老家",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 15,
+    "afiks": "家",
+    "kata": "管家",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 16,
+    "afiks": "家",
+    "kata": "输家",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 17,
+    "afiks": "家",
+    "kata": "人家",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 18,
+    "afiks": "家",
+    "kata": "亲家",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 19,
+    "afiks": "家",
+    "kata": "儒家",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 20,
+    "afiks": "家",
+    "kata": "厂家",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 21,
+    "afiks": "家",
+    "kata": "国家",
+    "kontrol": true,
+    "golongan_benar": "bukan"
+   },
+   {
+    "nomor": 22,
+    "afiks": "员",
+    "kata": "成员",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 23,
+    "afiks": "员",
+    "kata": "委员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 24,
+    "afiks": "员",
+    "kata": "队员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 25,
+    "afiks": "员",
+    "kata": "动员",
+    "kontrol": true,
+    "golongan_benar": "bukan"
+   },
+   {
+    "nomor": 26,
+    "afiks": "员",
+    "kata": "职员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 27,
+    "afiks": "员",
+    "kata": "裁员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 28,
+    "afiks": "员",
+    "kata": "学员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 29,
+    "afiks": "员",
+    "kata": "售货员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 30,
+    "afiks": "员",
+    "kata": "飞行员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 31,
+    "afiks": "员",
+    "kata": "雇员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 32,
+    "afiks": "员",
+    "kata": "船员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 33,
+    "afiks": "员",
+    "kata": "团员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 34,
+    "afiks": "员",
+    "kata": "官员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 35,
+    "afiks": "员",
+    "kata": "球员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 36,
+    "afiks": "员",
+    "kata": "乘务员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 37,
+    "afiks": "员",
+    "kata": "航天员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 38,
+    "afiks": "员",
+    "kata": "会员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 39,
+    "afiks": "员",
+    "kata": "宇航员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 40,
+    "afiks": "员",
+    "kata": "议员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 41,
+    "afiks": "员",
+    "kata": "评论员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 42,
+    "afiks": "员",
+    "kata": "人员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 43,
+    "afiks": "员",
+    "kata": "伤员",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 44,
+    "afiks": "师",
+    "kata": "导师",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 45,
+    "afiks": "师",
+    "kata": "设计师",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 46,
+    "afiks": "师",
+    "kata": "教师",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 47,
+    "afiks": "师",
+    "kata": "大师",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 48,
+    "afiks": "师",
+    "kata": "摄影师",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 49,
+    "afiks": "师",
+    "kata": "建筑师",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 50,
+    "afiks": "师",
+    "kata": "师生",
+    "kontrol": true,
+    "golongan_benar": "bukan"
+   }
+  ],
+  "batch_02": [
+   {
+    "nomor": 1,
+    "afiks": "生",
+    "kata": "男生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 2,
+    "afiks": "生",
+    "kata": "医生",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 3,
+    "afiks": "生",
+    "kata": "诞生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 4,
+    "afiks": "生",
+    "kata": "逃生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 5,
+    "afiks": "生",
+    "kata": "亲生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 6,
+    "afiks": "生",
+    "kata": "发生",
+    "kontrol": true,
+    "golongan_benar": "bukan"
+   },
+   {
+    "nomor": 7,
+    "afiks": "生",
+    "kata": "新生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 8,
+    "afiks": "生",
+    "kata": "一生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 9,
+    "afiks": "生",
+    "kata": "小学生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 10,
+    "afiks": "生",
+    "kata": "师生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 11,
+    "afiks": "生",
+    "kata": "研究生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 12,
+    "afiks": "生",
+    "kata": "丧生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 13,
+    "afiks": "生",
+    "kata": "再生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 14,
+    "afiks": "生",
+    "kata": "考生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 15,
+    "afiks": "生",
+    "kata": "卫生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 16,
+    "afiks": "生",
+    "kata": "野生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 17,
+    "afiks": "生",
+    "kata": "天生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 18,
+    "afiks": "生",
+    "kata": "终生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 19,
+    "afiks": "生",
+    "kata": "招生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 20,
+    "afiks": "生",
+    "kata": "先生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 21,
+    "afiks": "生",
+    "kata": "中学生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 22,
+    "afiks": "生",
+    "kata": "女生",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 23,
+    "afiks": "手",
+    "kata": "伸手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 24,
+    "afiks": "手",
+    "kata": "亲手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 25,
+    "afiks": "手",
+    "kata": "下手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 26,
+    "afiks": "手",
+    "kata": "招手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 27,
+    "afiks": "手",
+    "kata": "二手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 28,
+    "afiks": "手",
+    "kata": "两手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 29,
+    "afiks": "手",
+    "kata": "分手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 30,
+    "afiks": "手",
+    "kata": "举手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 31,
+    "afiks": "手",
+    "kata": "联手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 32,
+    "afiks": "手",
+    "kata": "对手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 33,
+    "afiks": "手",
+    "kata": "双手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 34,
+    "afiks": "手",
+    "kata": "把手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 35,
+    "afiks": "手",
+    "kata": "一手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 36,
+    "afiks": "手",
+    "kata": "凶手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 37,
+    "afiks": "手",
+    "kata": "出手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 38,
+    "afiks": "手",
+    "kata": "随手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 39,
+    "afiks": "手",
+    "kata": "着手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 40,
+    "afiks": "手",
+    "kata": "握手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 41,
+    "afiks": "手",
+    "kata": "动手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 42,
+    "afiks": "手",
+    "kata": "杀手",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 43,
+    "afiks": "手",
+    "kata": "新手",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   }
+  ],
+  "batch_03": [
+   {
+    "nomor": 1,
+    "afiks": "长",
+    "kata": "队长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 2,
+    "afiks": "长",
+    "kata": "团长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 3,
+    "afiks": "长",
+    "kata": "组长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 4,
+    "afiks": "长",
+    "kata": "土生土长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 5,
+    "afiks": "长",
+    "kata": "院长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 6,
+    "afiks": "长",
+    "kata": "局长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 7,
+    "afiks": "长",
+    "kata": "司长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 8,
+    "afiks": "长",
+    "kata": "全长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 9,
+    "afiks": "长",
+    "kata": "厂长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 10,
+    "afiks": "长",
+    "kata": "成长",
+    "kontrol": true,
+    "golongan_benar": "bukan"
+   },
+   {
+    "nomor": 11,
+    "afiks": "长",
+    "kata": "专长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 12,
+    "afiks": "长",
+    "kata": "家长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 13,
+    "afiks": "长",
+    "kata": "船长",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 14,
+    "afiks": "长",
+    "kata": "会长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 15,
+    "afiks": "长",
+    "kata": "处长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 16,
+    "afiks": "长",
+    "kata": "特长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 17,
+    "afiks": "长",
+    "kata": "生长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 18,
+    "afiks": "长",
+    "kata": "所长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 19,
+    "afiks": "长",
+    "kata": "董事长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 20,
+    "afiks": "长",
+    "kata": "秘书长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 21,
+    "afiks": "长",
+    "kata": "修长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 22,
+    "afiks": "长",
+    "kata": "延长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 23,
+    "afiks": "化",
+    "kata": "文化",
+    "kontrol": true,
+    "golongan_benar": "bukan"
+   },
+   {
+    "nomor": 24,
+    "afiks": "化",
+    "kata": "孵化",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 25,
+    "afiks": "化",
+    "kata": "激化",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 26,
+    "afiks": "化",
+    "kata": "恶化",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 27,
+    "afiks": "化",
+    "kata": "净化",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 28,
+    "afiks": "化",
+    "kata": "淡化",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 29,
+    "afiks": "化",
+    "kata": "进化",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 30,
+    "afiks": "化",
+    "kata": "潜移默化",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 31,
+    "afiks": "化",
+    "kata": "优化",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 32,
+    "afiks": "化",
+    "kata": "千变万化",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 33,
+    "afiks": "化",
+    "kata": "消化",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 34,
+    "afiks": "化",
+    "kata": "强化",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 35,
+    "afiks": "化",
+    "kata": "转化",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 36,
+    "afiks": "化",
+    "kata": "僵化",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 37,
+    "afiks": "化",
+    "kata": "老化",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 38,
+    "afiks": "化",
+    "kata": "腐化",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 39,
+    "afiks": "化",
+    "kata": "融化",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 40,
+    "afiks": "化",
+    "kata": "分化",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 41,
+    "afiks": "化",
+    "kata": "多元化",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 42,
+    "afiks": "化",
+    "kata": "深化",
+    "kontrol": false,
+    "golongan_benar": null
+   }
+  ],
+  "batch_04": [
+   {
+    "nomor": 1,
+    "afiks": "性",
+    "kata": "中性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 2,
+    "afiks": "性",
+    "kata": "属性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 3,
+    "afiks": "性",
+    "kata": "一次性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 4,
+    "afiks": "性",
+    "kata": "特性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 5,
+    "afiks": "性",
+    "kata": "本性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 6,
+    "afiks": "性",
+    "kata": "理性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 7,
+    "afiks": "性",
+    "kata": "女性",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 8,
+    "afiks": "性",
+    "kata": "感性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 9,
+    "afiks": "性",
+    "kata": "耐性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 10,
+    "afiks": "性",
+    "kata": "天性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 11,
+    "afiks": "性",
+    "kata": "公益性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 12,
+    "afiks": "性",
+    "kata": "男性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 13,
+    "afiks": "性",
+    "kata": "人性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 14,
+    "afiks": "性",
+    "kata": "惯性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 15,
+    "afiks": "性",
+    "kata": "异性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 16,
+    "afiks": "性",
+    "kata": "索性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 17,
+    "afiks": "性",
+    "kata": "急性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 18,
+    "afiks": "性",
+    "kata": "良性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 19,
+    "afiks": "性",
+    "kata": "阳性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 20,
+    "afiks": "性",
+    "kata": "阴性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 21,
+    "afiks": "性",
+    "kata": "恶性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 22,
+    "afiks": "度",
+    "kata": "进度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 23,
+    "afiks": "度",
+    "kata": "程度",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 24,
+    "afiks": "度",
+    "kata": "长度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 25,
+    "afiks": "度",
+    "kata": "极度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 26,
+    "afiks": "度",
+    "kata": "一度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 27,
+    "afiks": "度",
+    "kata": "季度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 28,
+    "afiks": "度",
+    "kata": "限度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 29,
+    "afiks": "度",
+    "kata": "调度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 30,
+    "afiks": "度",
+    "kata": "力度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 31,
+    "afiks": "度",
+    "kata": "过度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 32,
+    "afiks": "度",
+    "kata": "态度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 33,
+    "afiks": "度",
+    "kata": "宽度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 34,
+    "afiks": "度",
+    "kata": "高度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 35,
+    "afiks": "度",
+    "kata": "幅度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 36,
+    "afiks": "度",
+    "kata": "风度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 37,
+    "afiks": "度",
+    "kata": "制度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 38,
+    "afiks": "度",
+    "kata": "年度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 39,
+    "afiks": "度",
+    "kata": "再度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 40,
+    "afiks": "度",
+    "kata": "密度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 41,
+    "afiks": "度",
+    "kata": "深度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 42,
+    "afiks": "度",
+    "kata": "强度",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 43,
+    "afiks": "率",
+    "kata": "失业率",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 44,
+    "afiks": "率",
+    "kata": "几率",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 45,
+    "afiks": "率",
+    "kata": "点击率",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 46,
+    "afiks": "率",
+    "kata": "收视率",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 47,
+    "afiks": "率",
+    "kata": "功率",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 48,
+    "afiks": "率",
+    "kata": "利率",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 49,
+    "afiks": "率",
+    "kata": "坦率",
+    "kontrol": true,
+    "golongan_benar": "bukan"
+   },
+   {
+    "nomor": 50,
+    "afiks": "率",
+    "kata": "表率",
+    "kontrol": false,
+    "golongan_benar": null
+   }
+  ],
+  "batch_05": [
+   {
+    "nomor": 1,
+    "afiks": "感",
+    "kata": "性感",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 2,
+    "afiks": "感",
+    "kata": "预感",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 3,
+    "afiks": "感",
+    "kata": "反感",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 4,
+    "afiks": "感",
+    "kata": "敏感",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 5,
+    "afiks": "感",
+    "kata": "流感",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 6,
+    "afiks": "感",
+    "kata": "观感",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 7,
+    "afiks": "感",
+    "kata": "动感",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 8,
+    "afiks": "感",
+    "kata": "同感",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 9,
+    "afiks": "感",
+    "kata": "伤感",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 10,
+    "afiks": "感",
+    "kata": "口感",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 11,
+    "afiks": "力",
+    "kata": "影响力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 12,
+    "afiks": "力",
+    "kata": "有力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 13,
+    "afiks": "力",
+    "kata": "大力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 14,
+    "afiks": "力",
+    "kata": "吃力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 15,
+    "afiks": "力",
+    "kata": "尽力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 16,
+    "afiks": "力",
+    "kata": "魅力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 17,
+    "afiks": "力",
+    "kata": "力量",
+    "kontrol": true,
+    "golongan_benar": "bukan"
+   },
+   {
+    "nomor": 18,
+    "afiks": "力",
+    "kata": "努力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 19,
+    "afiks": "力",
+    "kata": "权力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 20,
+    "afiks": "力",
+    "kata": "动力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 21,
+    "afiks": "力",
+    "kata": "巧克力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 22,
+    "afiks": "力",
+    "kata": "潜力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 23,
+    "afiks": "力",
+    "kata": "暴力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 24,
+    "afiks": "力",
+    "kata": "无力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 25,
+    "afiks": "力",
+    "kata": "智力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 26,
+    "afiks": "力",
+    "kata": "势力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 27,
+    "afiks": "力",
+    "kata": "精力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 28,
+    "afiks": "力",
+    "kata": "人力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 29,
+    "afiks": "力",
+    "kata": "活力",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 30,
+    "afiks": "力",
+    "kata": "电力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 31,
+    "afiks": "力",
+    "kata": "实力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 32,
+    "afiks": "力",
+    "kata": "全力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 33,
+    "afiks": "量",
+    "kata": "含量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 34,
+    "afiks": "量",
+    "kata": "容量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 35,
+    "afiks": "量",
+    "kata": "热量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 36,
+    "afiks": "量",
+    "kata": "尽量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 37,
+    "afiks": "量",
+    "kata": "力量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 38,
+    "afiks": "量",
+    "kata": "适量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 39,
+    "afiks": "量",
+    "kata": "打量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 40,
+    "afiks": "量",
+    "kata": "正能量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 41,
+    "afiks": "量",
+    "kata": "流量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 42,
+    "afiks": "量",
+    "kata": "衡量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 43,
+    "afiks": "量",
+    "kata": "音量",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 44,
+    "afiks": "量",
+    "kata": "工作量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 45,
+    "afiks": "量",
+    "kata": "大量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 46,
+    "afiks": "量",
+    "kata": "海量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 47,
+    "afiks": "量",
+    "kata": "销量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 48,
+    "afiks": "量",
+    "kata": "总量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 49,
+    "afiks": "量",
+    "kata": "较量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 50,
+    "afiks": "量",
+    "kata": "产量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 51,
+    "afiks": "量",
+    "kata": "考量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 52,
+    "afiks": "量",
+    "kata": "商量",
+    "kontrol": true,
+    "golongan_benar": "bukan"
+   },
+   {
+    "nomor": 53,
+    "afiks": "量",
+    "kata": "分量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 54,
+    "afiks": "量",
+    "kata": "少量",
+    "kontrol": false,
+    "golongan_benar": null
+   }
+  ],
+  "batch_06": [
+   {
+    "nomor": 1,
+    "afiks": "法",
+    "kata": "宪法",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 2,
+    "afiks": "法",
+    "kata": "用法",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 3,
+    "afiks": "法",
+    "kata": "无法",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 4,
+    "afiks": "法",
+    "kata": "依法",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 5,
+    "afiks": "法",
+    "kata": "做法",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 6,
+    "afiks": "法",
+    "kata": "想方设法",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 7,
+    "afiks": "法",
+    "kata": "疗法",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 8,
+    "afiks": "法",
+    "kata": "书法",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 9,
+    "afiks": "法",
+    "kata": "合法",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 10,
+    "afiks": "法",
+    "kata": "手法",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 11,
+    "afiks": "法",
+    "kata": "执法",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 12,
+    "afiks": "法",
+    "kata": "说法",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 13,
+    "afiks": "法",
+    "kata": "违法",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 14,
+    "afiks": "法",
+    "kata": "司法",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 15,
+    "afiks": "法",
+    "kata": "设法",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 16,
+    "afiks": "法",
+    "kata": "语法",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 17,
+    "afiks": "法",
+    "kata": "非法",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 18,
+    "afiks": "法",
+    "kata": "刑法",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 19,
+    "afiks": "观",
+    "kata": "世界观",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 20,
+    "afiks": "观",
+    "kata": "直观",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 21,
+    "afiks": "观",
+    "kata": "壮观",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 22,
+    "afiks": "观",
+    "kata": "价值观",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 23,
+    "afiks": "观",
+    "kata": "人文景观",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 24,
+    "afiks": "观",
+    "kata": "纵观",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 25,
+    "afiks": "观",
+    "kata": "景观",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 26,
+    "afiks": "观",
+    "kata": "外观",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 27,
+    "afiks": "观",
+    "kata": "旁观",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 28,
+    "afiks": "观",
+    "kata": "参观",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 29,
+    "afiks": "观",
+    "kata": "宏观",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 30,
+    "afiks": "观",
+    "kata": "微观",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 31,
+    "afiks": "观",
+    "kata": "美观",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 32,
+    "afiks": "观",
+    "kata": "袖手旁观",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 33,
+    "afiks": "观",
+    "kata": "可观",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 34,
+    "afiks": "点",
+    "kata": "要点",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 35,
+    "afiks": "点",
+    "kata": "一点点",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 36,
+    "afiks": "点",
+    "kata": "指点",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 37,
+    "afiks": "点",
+    "kata": "终点",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 38,
+    "afiks": "点",
+    "kata": "焦点",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 39,
+    "afiks": "点",
+    "kata": "出发点",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 40,
+    "afiks": "点",
+    "kata": "斑点",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 41,
+    "afiks": "点",
+    "kata": "热点",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 42,
+    "afiks": "点",
+    "kata": "难点",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 43,
+    "afiks": "点",
+    "kata": "百分点",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 44,
+    "afiks": "点",
+    "kata": "晚点",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 45,
+    "afiks": "点",
+    "kata": "地点",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 46,
+    "afiks": "点",
+    "kata": "转折点",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 47,
+    "afiks": "点",
+    "kata": "弱点",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 48,
+    "afiks": "点",
+    "kata": "疑点",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 49,
+    "afiks": "点",
+    "kata": "景点",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 50,
+    "afiks": "点",
+    "kata": "起点",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 51,
+    "afiks": "点",
+    "kata": "网点",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 52,
+    "afiks": "点",
+    "kata": "重点",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 53,
+    "afiks": "点",
+    "kata": "试点",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 54,
+    "afiks": "点",
+    "kata": "亮点",
+    "kontrol": false,
+    "golongan_benar": null
+   }
+  ],
+  "batch_07": [
+   {
+    "nomor": 1,
+    "afiks": "型",
+    "kata": "类型",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 2,
+    "afiks": "型",
+    "kata": "轻型",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 3,
+    "afiks": "型",
+    "kata": "重型",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 4,
+    "afiks": "型",
+    "kata": "成型",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 5,
+    "afiks": "型",
+    "kata": "转型",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 6,
+    "afiks": "型",
+    "kata": "车型",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 7,
+    "afiks": "型",
+    "kata": "微型",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 8,
+    "afiks": "型",
+    "kata": "典型",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 9,
+    "afiks": "型",
+    "kata": "原型",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 10,
+    "afiks": "型",
+    "kata": "模型",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 11,
+    "afiks": "型",
+    "kata": "造型",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 12,
+    "afiks": "型",
+    "kata": "中型",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 13,
+    "afiks": "型",
+    "kata": "巨型",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 14,
+    "afiks": "式",
+    "kata": "款式",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 15,
+    "afiks": "式",
+    "kata": "形式",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 16,
+    "afiks": "式",
+    "kata": "样式",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 17,
+    "afiks": "式",
+    "kata": "美式",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 18,
+    "afiks": "式",
+    "kata": "格式",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 19,
+    "afiks": "式",
+    "kata": "开幕式",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 20,
+    "afiks": "式",
+    "kata": "模式",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 21,
+    "afiks": "式",
+    "kata": "宗教仪式",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 22,
+    "afiks": "式",
+    "kata": "闭幕式",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 23,
+    "afiks": "式",
+    "kata": "新式",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 24,
+    "afiks": "类",
+    "kata": "诸如此类",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 25,
+    "afiks": "类",
+    "kata": "同类",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 26,
+    "afiks": "学",
+    "kata": "大学",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 27,
+    "afiks": "学",
+    "kata": "好学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 28,
+    "afiks": "学",
+    "kata": "中学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 29,
+    "afiks": "学",
+    "kata": "儒学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 30,
+    "afiks": "学",
+    "kata": "开学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 31,
+    "afiks": "学",
+    "kata": "治学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 32,
+    "afiks": "学",
+    "kata": "转学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 33,
+    "afiks": "学",
+    "kata": "留学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 34,
+    "afiks": "学",
+    "kata": "小学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 35,
+    "afiks": "学",
+    "kata": "退学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 36,
+    "afiks": "学",
+    "kata": "入学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 37,
+    "afiks": "学",
+    "kata": "放学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 38,
+    "afiks": "学",
+    "kata": "中小学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 39,
+    "afiks": "学",
+    "kata": "同学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 40,
+    "afiks": "学",
+    "kata": "升学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 41,
+    "afiks": "学",
+    "kata": "自学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 42,
+    "afiks": "学",
+    "kata": "办学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 43,
+    "afiks": "学",
+    "kata": "讲学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 44,
+    "afiks": "学",
+    "kata": "求学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 45,
+    "afiks": "学",
+    "kata": "上学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 46,
+    "afiks": "学",
+    "kata": "教学",
+    "kontrol": false,
+    "golongan_benar": null
+   }
+  ],
+  "batch_08": [
+   {
+    "nomor": 1,
+    "afiks": "论",
+    "kata": "争论",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 2,
+    "afiks": "论",
+    "kata": "定论",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 3,
+    "afiks": "论",
+    "kata": "推论",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 4,
+    "afiks": "论",
+    "kata": "社论",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 5,
+    "afiks": "论",
+    "kata": "辩论",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 6,
+    "afiks": "论",
+    "kata": "言论",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 7,
+    "afiks": "论",
+    "kata": "谈论",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 8,
+    "afiks": "论",
+    "kata": "一概而论",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 9,
+    "afiks": "论",
+    "kata": "舆论",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 10,
+    "afiks": "论",
+    "kata": "议论",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 11,
+    "afiks": "论",
+    "kata": "概论",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 12,
+    "afiks": "论",
+    "kata": "相提并论",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 13,
+    "afiks": "论",
+    "kata": "无论",
+    "kontrol": true,
+    "golongan_benar": "bukan"
+   },
+   {
+    "nomor": 14,
+    "afiks": "业",
+    "kata": "作业",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 15,
+    "afiks": "业",
+    "kata": "毕业",
+    "kontrol": true,
+    "golongan_benar": "bukan"
+   },
+   {
+    "nomor": 16,
+    "afiks": "业",
+    "kata": "停业",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 17,
+    "afiks": "业",
+    "kata": "就业",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 18,
+    "afiks": "业",
+    "kata": "商业",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 19,
+    "afiks": "业",
+    "kata": "企业",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 20,
+    "afiks": "业",
+    "kata": "行业",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 21,
+    "afiks": "业",
+    "kata": "物业",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 22,
+    "afiks": "业",
+    "kata": "兢兢业业",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 23,
+    "afiks": "业",
+    "kata": "安居乐业",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 24,
+    "afiks": "业",
+    "kata": "开业",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 25,
+    "afiks": "业",
+    "kata": "学业",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 26,
+    "afiks": "业",
+    "kata": "敬业",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 27,
+    "afiks": "业",
+    "kata": "产业",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 28,
+    "afiks": "业",
+    "kata": "从业",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 29,
+    "afiks": "业",
+    "kata": "事业",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 30,
+    "afiks": "业",
+    "kata": "营业",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 31,
+    "afiks": "界",
+    "kata": "境界",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 32,
+    "afiks": "界",
+    "kata": "全世界",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 33,
+    "afiks": "界",
+    "kata": "世界",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 34,
+    "afiks": "界",
+    "kata": "眼界",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 35,
+    "afiks": "界",
+    "kata": "交界",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 36,
+    "afiks": "馆",
+    "kata": "体育馆",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 37,
+    "afiks": "馆",
+    "kata": "美术馆",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 38,
+    "afiks": "馆",
+    "kata": "大使馆",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 39,
+    "afiks": "馆",
+    "kata": "领事馆",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 40,
+    "afiks": "馆",
+    "kata": "餐馆",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 41,
+    "afiks": "馆",
+    "kata": "宾馆",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 42,
+    "afiks": "馆",
+    "kata": "场馆",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 43,
+    "afiks": "馆",
+    "kata": "水族馆",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 44,
+    "afiks": "馆",
+    "kata": "纪念馆",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 45,
+    "afiks": "室",
+    "kata": "演播室",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 46,
+    "afiks": "室",
+    "kata": "候机室",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 47,
+    "afiks": "室",
+    "kata": "阅览室",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 48,
+    "afiks": "室",
+    "kata": "手术室",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 49,
+    "afiks": "室",
+    "kata": "浴室",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 50,
+    "afiks": "室",
+    "kata": "更衣室",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 51,
+    "afiks": "室",
+    "kata": "地下室",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 52,
+    "afiks": "室",
+    "kata": "温室",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 53,
+    "afiks": "室",
+    "kata": "寝室",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 54,
+    "afiks": "室",
+    "kata": "皇室",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 55,
+    "afiks": "站",
+    "kata": "火车站",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 56,
+    "afiks": "站",
+    "kata": "核电站",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   }
+  ],
+  "batch_09": [
+   {
+    "nomor": 1,
+    "afiks": "场",
+    "kata": "农场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 2,
+    "afiks": "场",
+    "kata": "考场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 3,
+    "afiks": "场",
+    "kata": "战场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 4,
+    "afiks": "场",
+    "kata": "开场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 5,
+    "afiks": "场",
+    "kata": "当场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 6,
+    "afiks": "场",
+    "kata": "进场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 7,
+    "afiks": "场",
+    "kata": "市场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 8,
+    "afiks": "场",
+    "kata": "上场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 9,
+    "afiks": "场",
+    "kata": "立场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 10,
+    "afiks": "场",
+    "kata": "半场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 11,
+    "afiks": "场",
+    "kata": "现场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 12,
+    "afiks": "场",
+    "kata": "停车场",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 13,
+    "afiks": "场",
+    "kata": "全场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 14,
+    "afiks": "场",
+    "kata": "赛场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 15,
+    "afiks": "场",
+    "kata": "在场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 16,
+    "afiks": "场",
+    "kata": "会场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 17,
+    "afiks": "场",
+    "kata": "出场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 18,
+    "afiks": "场",
+    "kata": "下场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 19,
+    "afiks": "场",
+    "kata": "剧场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 20,
+    "afiks": "场",
+    "kata": "体育场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 21,
+    "afiks": "场",
+    "kata": "操场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 22,
+    "afiks": "院",
+    "kata": "出院",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 23,
+    "afiks": "院",
+    "kata": "住院",
+    "kontrol": true,
+    "golongan_benar": "bukan"
+   },
+   {
+    "nomor": 24,
+    "afiks": "院",
+    "kata": "四合院",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 25,
+    "afiks": "院",
+    "kata": "国务院",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 26,
+    "afiks": "院",
+    "kata": "剧院",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 27,
+    "afiks": "院",
+    "kata": "养老院",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 28,
+    "afiks": "店",
+    "kata": "专卖店",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 29,
+    "afiks": "店",
+    "kata": "连锁店",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 30,
+    "afiks": "店",
+    "kata": "免税店",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 31,
+    "afiks": "店",
+    "kata": "饭店",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 32,
+    "afiks": "店",
+    "kata": "便利店",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 33,
+    "afiks": "店",
+    "kata": "旅店",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 34,
+    "afiks": "所",
+    "kata": "公共场所",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 35,
+    "afiks": "所",
+    "kata": "有所",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 36,
+    "afiks": "所",
+    "kata": "事务所",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 37,
+    "afiks": "区",
+    "kata": "景区",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 38,
+    "afiks": "区",
+    "kata": "城区",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 39,
+    "afiks": "区",
+    "kata": "山区",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 40,
+    "afiks": "区",
+    "kata": "灾区",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 41,
+    "afiks": "区",
+    "kata": "风景区",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 42,
+    "afiks": "区",
+    "kata": "开发区",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 43,
+    "afiks": "区",
+    "kata": "市区",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 44,
+    "afiks": "区",
+    "kata": "禁区",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 45,
+    "afiks": "区",
+    "kata": "误区",
+    "kontrol": false,
+    "golongan_benar": null
+   }
+  ],
+  "batch_10": [
+   {
+    "nomor": 1,
+    "afiks": "部",
+    "kata": "颈部",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 2,
+    "afiks": "部",
+    "kata": "中部",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 3,
+    "afiks": "部",
+    "kata": "外部",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 4,
+    "afiks": "部",
+    "kata": "胸部",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 5,
+    "afiks": "部",
+    "kata": "干部",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 6,
+    "afiks": "部",
+    "kata": "头部",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 7,
+    "afiks": "部",
+    "kata": "南部",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 8,
+    "afiks": "部",
+    "kata": "腹部",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 9,
+    "afiks": "部",
+    "kata": "北部",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 10,
+    "afiks": "部",
+    "kata": "局部",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 11,
+    "afiks": "部",
+    "kata": "全部",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 12,
+    "afiks": "部",
+    "kata": "西部",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 13,
+    "afiks": "部",
+    "kata": "教育部",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 14,
+    "afiks": "部",
+    "kata": "面部",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 15,
+    "afiks": "器",
+    "kata": "瓷器",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 16,
+    "afiks": "器",
+    "kata": "显示器",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 17,
+    "afiks": "器",
+    "kata": "浏览器",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 18,
+    "afiks": "器",
+    "kata": "充电器",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 19,
+    "afiks": "器",
+    "kata": "仪器",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 20,
+    "afiks": "器",
+    "kata": "容器",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 21,
+    "afiks": "器",
+    "kata": "核武器",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 22,
+    "afiks": "器",
+    "kata": "热水器",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 23,
+    "afiks": "器",
+    "kata": "服务器",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 24,
+    "afiks": "机",
+    "kata": "时机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 25,
+    "afiks": "机",
+    "kata": "游戏机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 26,
+    "afiks": "机",
+    "kata": "计算机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 27,
+    "afiks": "机",
+    "kata": "摄像机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 28,
+    "afiks": "机",
+    "kata": "投机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 29,
+    "afiks": "机",
+    "kata": "随机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 30,
+    "afiks": "机",
+    "kata": "关机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 31,
+    "afiks": "机",
+    "kata": "有机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 32,
+    "afiks": "机",
+    "kata": "动机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 33,
+    "afiks": "机",
+    "kata": "收音机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 34,
+    "afiks": "机",
+    "kata": "转机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 35,
+    "afiks": "机",
+    "kata": "开机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 36,
+    "afiks": "机",
+    "kata": "打印机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 37,
+    "afiks": "机",
+    "kata": "录音机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 38,
+    "afiks": "机",
+    "kata": "司机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 39,
+    "afiks": "机",
+    "kata": "直升机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 40,
+    "afiks": "机",
+    "kata": "耳机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 41,
+    "afiks": "机",
+    "kata": "危机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 42,
+    "afiks": "机",
+    "kata": "登机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 43,
+    "afiks": "机",
+    "kata": "洗衣机",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 44,
+    "afiks": "机",
+    "kata": "取款机",
+    "kontrol": false,
+    "golongan_benar": null
+   }
+  ],
+  "batch_11": [
+   {
+    "nomor": 1,
+    "afiks": "品",
+    "kata": "豆制品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 2,
+    "afiks": "品",
+    "kata": "礼品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 3,
+    "afiks": "品",
+    "kata": "用品",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 4,
+    "afiks": "品",
+    "kata": "样品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 5,
+    "afiks": "品",
+    "kata": "藏品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 6,
+    "afiks": "品",
+    "kata": "制品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 7,
+    "afiks": "品",
+    "kata": "物品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 8,
+    "afiks": "品",
+    "kata": "小品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 9,
+    "afiks": "品",
+    "kata": "工艺品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 10,
+    "afiks": "品",
+    "kata": "水产品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 11,
+    "afiks": "品",
+    "kata": "日用品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 12,
+    "afiks": "品",
+    "kata": "次品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 13,
+    "afiks": "品",
+    "kata": "废品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 14,
+    "afiks": "品",
+    "kata": "精品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 15,
+    "afiks": "品",
+    "kata": "成品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 16,
+    "afiks": "品",
+    "kata": "毒品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 17,
+    "afiks": "品",
+    "kata": "农产品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 18,
+    "afiks": "品",
+    "kata": "人品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 19,
+    "afiks": "品",
+    "kata": "奖品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 20,
+    "afiks": "品",
+    "kata": "药品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 21,
+    "afiks": "品",
+    "kata": "乳制品",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 22,
+    "afiks": "物",
+    "kata": "宠物",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 23,
+    "afiks": "物",
+    "kata": "生物",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 24,
+    "afiks": "物",
+    "kata": "货物",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 25,
+    "afiks": "物",
+    "kata": "遗物",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 26,
+    "afiks": "物",
+    "kata": "药物",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 27,
+    "afiks": "物",
+    "kata": "怪物",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 28,
+    "afiks": "物",
+    "kata": "刊物",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 29,
+    "afiks": "物",
+    "kata": "建筑物",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 30,
+    "afiks": "物",
+    "kata": "财物",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 31,
+    "afiks": "物",
+    "kata": "文物",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 32,
+    "afiks": "物",
+    "kata": "废物",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 33,
+    "afiks": "物",
+    "kata": "购物",
+    "kontrol": true,
+    "golongan_benar": "bukan"
+   },
+   {
+    "nomor": 34,
+    "afiks": "物",
+    "kata": "事物",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 35,
+    "afiks": "物",
+    "kata": "人物",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 36,
+    "afiks": "物",
+    "kata": "农作物",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 37,
+    "afiks": "物",
+    "kata": "产物",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 38,
+    "afiks": "物",
+    "kata": "作物",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 39,
+    "afiks": "物",
+    "kata": "实物",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 40,
+    "afiks": "物",
+    "kata": "吉祥物",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 41,
+    "afiks": "费",
+    "kata": "自费",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 42,
+    "afiks": "费",
+    "kata": "花费",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 43,
+    "afiks": "费",
+    "kata": "付费",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 44,
+    "afiks": "费",
+    "kata": "收费",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 45,
+    "afiks": "费",
+    "kata": "管理费",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 46,
+    "afiks": "费",
+    "kata": "耗费",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 47,
+    "afiks": "费",
+    "kata": "交费",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 48,
+    "afiks": "费",
+    "kata": "抚养费",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 49,
+    "afiks": "费",
+    "kata": "话费",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 50,
+    "afiks": "费",
+    "kata": "缴费",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 51,
+    "afiks": "费",
+    "kata": "团费",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 52,
+    "afiks": "费",
+    "kata": "手续费",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 53,
+    "afiks": "费",
+    "kata": "经费",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 54,
+    "afiks": "费",
+    "kata": "生活费",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 55,
+    "afiks": "费",
+    "kata": "浪费",
+    "kontrol": true,
+    "golongan_benar": "bukan"
+   },
+   {
+    "nomor": 56,
+    "afiks": "费",
+    "kata": "公费",
+    "kontrol": false,
+    "golongan_benar": null
+   }
+  ],
+  "batch_12": [
+   {
+    "nomor": 1,
+    "afiks": "们",
+    "kata": "咱们",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 2,
+    "afiks": "们",
+    "kata": "她们",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 3,
+    "afiks": "们",
+    "kata": "它们",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 4,
+    "afiks": "子",
+    "kata": "句子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 5,
+    "afiks": "子",
+    "kata": "女子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 6,
+    "afiks": "子",
+    "kata": "种子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 7,
+    "afiks": "子",
+    "kata": "裙子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 8,
+    "afiks": "子",
+    "kata": "饺子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 9,
+    "afiks": "子",
+    "kata": "牌子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 10,
+    "afiks": "子",
+    "kata": "个子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 11,
+    "afiks": "子",
+    "kata": "例子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 12,
+    "afiks": "子",
+    "kata": "包子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 13,
+    "afiks": "子",
+    "kata": "瓶子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 14,
+    "afiks": "子",
+    "kata": "被子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 15,
+    "afiks": "子",
+    "kata": "儿子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 16,
+    "afiks": "子",
+    "kata": "屋子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 17,
+    "afiks": "子",
+    "kata": "裤子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 18,
+    "afiks": "子",
+    "kata": "样子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 19,
+    "afiks": "子",
+    "kata": "筷子",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 20,
+    "afiks": "子",
+    "kata": "孩子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 21,
+    "afiks": "子",
+    "kata": "院子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 22,
+    "afiks": "子",
+    "kata": "日子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 23,
+    "afiks": "子",
+    "kata": "男子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 24,
+    "afiks": "子",
+    "kata": "本子",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 25,
+    "afiks": "儿",
+    "kata": "小孩儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 26,
+    "afiks": "儿",
+    "kata": "有空儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 27,
+    "afiks": "儿",
+    "kata": "有点儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 28,
+    "afiks": "儿",
+    "kata": "干活儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 29,
+    "afiks": "儿",
+    "kata": "女儿",
+    "kontrol": true,
+    "golongan_benar": "bukan"
+   },
+   {
+    "nomor": 30,
+    "afiks": "儿",
+    "kata": "空儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 31,
+    "afiks": "儿",
+    "kata": "一下儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 32,
+    "afiks": "儿",
+    "kata": "笑话儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 33,
+    "afiks": "儿",
+    "kata": "老头儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 34,
+    "afiks": "儿",
+    "kata": "好玩儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 35,
+    "afiks": "儿",
+    "kata": "女孩儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 36,
+    "afiks": "儿",
+    "kata": "那会儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 37,
+    "afiks": "儿",
+    "kata": "面条儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 38,
+    "afiks": "儿",
+    "kata": "快点儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 39,
+    "afiks": "儿",
+    "kata": "那儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 40,
+    "afiks": "儿",
+    "kata": "没事儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 41,
+    "afiks": "儿",
+    "kata": "画儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 42,
+    "afiks": "儿",
+    "kata": "一点儿",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 43,
+    "afiks": "儿",
+    "kata": "男孩儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 44,
+    "afiks": "儿",
+    "kata": "不一会儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 45,
+    "afiks": "儿",
+    "kata": "有一点儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 46,
+    "afiks": "儿",
+    "kata": "一块儿",
+    "kontrol": false,
+    "golongan_benar": null
+   }
+  ],
+  "batch_13": [
+   {
+    "nomor": 1,
+    "afiks": "头",
+    "kata": "码头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 2,
+    "afiks": "头",
+    "kata": "源头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 3,
+    "afiks": "头",
+    "kata": "枕头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 4,
+    "afiks": "头",
+    "kata": "摇头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 5,
+    "afiks": "头",
+    "kata": "点头",
+    "kontrol": true,
+    "golongan_benar": "bukan"
+   },
+   {
+    "nomor": 6,
+    "afiks": "头",
+    "kata": "拳头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 7,
+    "afiks": "头",
+    "kata": "舌头",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 8,
+    "afiks": "头",
+    "kata": "尽头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 9,
+    "afiks": "头",
+    "kata": "前头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 10,
+    "afiks": "头",
+    "kata": "一头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 11,
+    "afiks": "头",
+    "kata": "指头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 12,
+    "afiks": "头",
+    "kata": "开头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 13,
+    "afiks": "头",
+    "kata": "丫头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 14,
+    "afiks": "头",
+    "kata": "馒头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 15,
+    "afiks": "头",
+    "kata": "外头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 16,
+    "afiks": "头",
+    "kata": "钟头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 17,
+    "afiks": "头",
+    "kata": "镜头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 18,
+    "afiks": "头",
+    "kata": "街头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 19,
+    "afiks": "头",
+    "kata": "低头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 20,
+    "afiks": "头",
+    "kata": "抬头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 21,
+    "afiks": "头",
+    "kata": "念头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 22,
+    "afiks": "头",
+    "kata": "后头",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 23,
+    "afiks": "老",
+    "kata": "老伴儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 24,
+    "afiks": "老",
+    "kata": "老大",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 25,
+    "afiks": "老",
+    "kata": "老太太",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 26,
+    "afiks": "老",
+    "kata": "老是",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 27,
+    "afiks": "老",
+    "kata": "老朋友",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 28,
+    "afiks": "老",
+    "kata": "老汉",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 29,
+    "afiks": "老",
+    "kata": "老年",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 30,
+    "afiks": "老",
+    "kata": "老远",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 31,
+    "afiks": "老",
+    "kata": "老人家",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 32,
+    "afiks": "老",
+    "kata": "老虎",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 33,
+    "afiks": "老",
+    "kata": "老鼠",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 34,
+    "afiks": "老",
+    "kata": "老百姓",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 35,
+    "afiks": "老",
+    "kata": "老人",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 36,
+    "afiks": "老",
+    "kata": "老家",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 37,
+    "afiks": "老",
+    "kata": "老实",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 38,
+    "afiks": "老",
+    "kata": "老化",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 39,
+    "afiks": "老",
+    "kata": "老婆",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 40,
+    "afiks": "老",
+    "kata": "老头儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 41,
+    "afiks": "老",
+    "kata": "老人票",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 42,
+    "afiks": "老",
+    "kata": "老实说",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 43,
+    "afiks": "老",
+    "kata": "老字号",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 44,
+    "afiks": "初",
+    "kata": "初等",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 45,
+    "afiks": "初",
+    "kata": "初衷",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 46,
+    "afiks": "初",
+    "kata": "初一",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 47,
+    "afiks": "初",
+    "kata": "初次",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   }
+  ],
+  "batch_14": [
+   {
+    "nomor": 1,
+    "afiks": "可",
+    "kata": "可怜",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 2,
+    "afiks": "可",
+    "kata": "可不是",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 3,
+    "afiks": "可",
+    "kata": "可歌可泣",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 4,
+    "afiks": "可",
+    "kata": "可行",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 5,
+    "afiks": "可",
+    "kata": "可见",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 6,
+    "afiks": "可",
+    "kata": "可想而知",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 7,
+    "afiks": "可",
+    "kata": "可乐",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 8,
+    "afiks": "可",
+    "kata": "可笑",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 9,
+    "afiks": "可",
+    "kata": "可谓",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 10,
+    "afiks": "可",
+    "kata": "可以",
+    "kontrol": true,
+    "golongan_benar": "bukan"
+   },
+   {
+    "nomor": 11,
+    "afiks": "可",
+    "kata": "可观",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 12,
+    "afiks": "可",
+    "kata": "可信",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 13,
+    "afiks": "可",
+    "kata": "可贵",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 14,
+    "afiks": "可",
+    "kata": "可疑",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 15,
+    "afiks": "可",
+    "kata": "可乘之机",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 16,
+    "afiks": "可",
+    "kata": "可口",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 17,
+    "afiks": "可",
+    "kata": "可恶",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 18,
+    "afiks": "可",
+    "kata": "可耻",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 19,
+    "afiks": "可",
+    "kata": "可悲",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 20,
+    "afiks": "不",
+    "kata": "不一定",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 21,
+    "afiks": "不",
+    "kata": "不一会儿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 22,
+    "afiks": "不",
+    "kata": "不过",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 23,
+    "afiks": "不",
+    "kata": "不客气",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 24,
+    "afiks": "不",
+    "kata": "不断",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 25,
+    "afiks": "不",
+    "kata": "不论",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 26,
+    "afiks": "不",
+    "kata": "不用",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 27,
+    "afiks": "不",
+    "kata": "不必",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 28,
+    "afiks": "不",
+    "kata": "不如",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 29,
+    "afiks": "不",
+    "kata": "不但",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 30,
+    "afiks": "不",
+    "kata": "不仅",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 31,
+    "afiks": "不",
+    "kata": "不要",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 32,
+    "afiks": "不",
+    "kata": "不行",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 33,
+    "afiks": "不",
+    "kata": "不对",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 34,
+    "afiks": "不",
+    "kata": "不久",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 35,
+    "afiks": "不",
+    "kata": "不太",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 36,
+    "afiks": "不",
+    "kata": "不安",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 37,
+    "afiks": "不",
+    "kata": "不得不",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 38,
+    "afiks": "不",
+    "kata": "不大",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 39,
+    "afiks": "不",
+    "kata": "不满",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 40,
+    "afiks": "不",
+    "kata": "不好意思",
+    "kontrol": false,
+    "golongan_benar": null
+   }
+  ],
+  "batch_15": [
+   {
+    "nomor": 1,
+    "afiks": "无",
+    "kata": "无情",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 2,
+    "afiks": "无",
+    "kata": "无辜",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 3,
+    "afiks": "无",
+    "kata": "无所谓",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 4,
+    "afiks": "无",
+    "kata": "无论如何",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 5,
+    "afiks": "无",
+    "kata": "无敌",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 6,
+    "afiks": "无",
+    "kata": "无疑",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 7,
+    "afiks": "无",
+    "kata": "无关",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 8,
+    "afiks": "无",
+    "kata": "无知",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 9,
+    "afiks": "无",
+    "kata": "无意",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 10,
+    "afiks": "无",
+    "kata": "无比",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 11,
+    "afiks": "无",
+    "kata": "无线",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 12,
+    "afiks": "无",
+    "kata": "无线电",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 13,
+    "afiks": "无",
+    "kata": "无数",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 14,
+    "afiks": "无",
+    "kata": "无穷",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 15,
+    "afiks": "无",
+    "kata": "无论",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 16,
+    "afiks": "无",
+    "kata": "无能为力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 17,
+    "afiks": "无",
+    "kata": "无边",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 18,
+    "afiks": "无",
+    "kata": "无能",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 19,
+    "afiks": "无",
+    "kata": "无私",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 20,
+    "afiks": "无",
+    "kata": "无效",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 21,
+    "afiks": "无",
+    "kata": "无力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 22,
+    "afiks": "未",
+    "kata": "未成年人",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 23,
+    "afiks": "未",
+    "kata": "未知数",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 24,
+    "afiks": "反",
+    "kata": "反弹",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 25,
+    "afiks": "反",
+    "kata": "反而",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 26,
+    "afiks": "反",
+    "kata": "反省",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 27,
+    "afiks": "反",
+    "kata": "反响",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 28,
+    "afiks": "反",
+    "kata": "反倒",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 29,
+    "afiks": "反",
+    "kata": "反面",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 30,
+    "afiks": "反",
+    "kata": "反思",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 31,
+    "afiks": "反",
+    "kata": "反射",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 32,
+    "afiks": "反",
+    "kata": "反常",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 33,
+    "afiks": "反",
+    "kata": "反动",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 34,
+    "afiks": "反",
+    "kata": "反差",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 35,
+    "afiks": "反",
+    "kata": "反抗",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 36,
+    "afiks": "反",
+    "kata": "反击",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 37,
+    "afiks": "反",
+    "kata": "反正",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 38,
+    "afiks": "反",
+    "kata": "反过来",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 39,
+    "afiks": "反",
+    "kata": "反复",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 40,
+    "afiks": "反",
+    "kata": "反映",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 41,
+    "afiks": "反",
+    "kata": "反驳",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 42,
+    "afiks": "反",
+    "kata": "反之",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 43,
+    "afiks": "反",
+    "kata": "反馈",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 44,
+    "afiks": "超",
+    "kata": "超越",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 45,
+    "afiks": "超",
+    "kata": "超标",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 46,
+    "afiks": "超",
+    "kata": "超出",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 47,
+    "afiks": "超",
+    "kata": "超车",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 48,
+    "afiks": "超",
+    "kata": "超前",
+    "kontrol": false,
+    "golongan_benar": null
+   }
+  ],
+  "batch_16": [
+   {
+    "nomor": 1,
+    "afiks": "总",
+    "kata": "总数",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 2,
+    "afiks": "总",
+    "kata": "总经理",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 3,
+    "afiks": "总",
+    "kata": "总体",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 4,
+    "afiks": "总",
+    "kata": "总和",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 5,
+    "afiks": "总",
+    "kata": "总裁",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 6,
+    "afiks": "总",
+    "kata": "总计",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 7,
+    "afiks": "总",
+    "kata": "总之",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 8,
+    "afiks": "总",
+    "kata": "总量",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 9,
+    "afiks": "总",
+    "kata": "总的来说",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 10,
+    "afiks": "总",
+    "kata": "总算",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 11,
+    "afiks": "总",
+    "kata": "总统",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 12,
+    "afiks": "总",
+    "kata": "总而言之",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 13,
+    "afiks": "总",
+    "kata": "总监",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 14,
+    "afiks": "总",
+    "kata": "总额",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 15,
+    "afiks": "总",
+    "kata": "总理",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 16,
+    "afiks": "半",
+    "kata": "半场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 17,
+    "afiks": "半",
+    "kata": "半岛",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 18,
+    "afiks": "半",
+    "kata": "半边天",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 19,
+    "afiks": "半",
+    "kata": "半决赛",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 20,
+    "afiks": "半",
+    "kata": "半数",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 21,
+    "afiks": "半",
+    "kata": "半真半假",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 22,
+    "afiks": "半",
+    "kata": "半途而废",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 23,
+    "afiks": "半",
+    "kata": "半信半疑",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 24,
+    "afiks": "自",
+    "kata": "自我",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 25,
+    "afiks": "自",
+    "kata": "自主",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 26,
+    "afiks": "自",
+    "kata": "自助",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 27,
+    "afiks": "自",
+    "kata": "自学",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 28,
+    "afiks": "自",
+    "kata": "自从",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 29,
+    "afiks": "自",
+    "kata": "自行",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 30,
+    "afiks": "自",
+    "kata": "自行车",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 31,
+    "afiks": "自",
+    "kata": "自言自语",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 32,
+    "afiks": "自",
+    "kata": "自愿",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 33,
+    "afiks": "自",
+    "kata": "自杀",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 34,
+    "afiks": "自",
+    "kata": "自尊",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 35,
+    "afiks": "自",
+    "kata": "自私",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 36,
+    "afiks": "自",
+    "kata": "自豪",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 37,
+    "afiks": "自",
+    "kata": "自称",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 38,
+    "afiks": "自",
+    "kata": "自来水",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 39,
+    "afiks": "自",
+    "kata": "自信",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 40,
+    "afiks": "自",
+    "kata": "自觉",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 41,
+    "afiks": "自",
+    "kata": "自身",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 42,
+    "afiks": "自",
+    "kata": "自在",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 43,
+    "afiks": "自",
+    "kata": "自以为是",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 44,
+    "afiks": "自",
+    "kata": "自如",
+    "kontrol": false,
+    "golongan_benar": null
+   }
+  ],
+  "batch_17": [
+   {
+    "nomor": 1,
+    "afiks": "全",
+    "kata": "全程",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 2,
+    "afiks": "全",
+    "kata": "全世界",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 3,
+    "afiks": "全",
+    "kata": "全力",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 4,
+    "afiks": "全",
+    "kata": "全都",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 5,
+    "afiks": "全",
+    "kata": "全身",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 6,
+    "afiks": "全",
+    "kata": "全长",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 7,
+    "afiks": "全",
+    "kata": "全年",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 8,
+    "afiks": "全",
+    "kata": "全心全意",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 9,
+    "afiks": "全",
+    "kata": "全部",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 10,
+    "afiks": "全",
+    "kata": "全方位",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 11,
+    "afiks": "全",
+    "kata": "全力以赴",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 12,
+    "afiks": "全",
+    "kata": "全场",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 13,
+    "afiks": "全",
+    "kata": "全体",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 14,
+    "afiks": "全",
+    "kata": "全局",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 15,
+    "afiks": "全",
+    "kata": "全陪",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 16,
+    "afiks": "全",
+    "kata": "全新",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 17,
+    "afiks": "全",
+    "kata": "全文",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 18,
+    "afiks": "全",
+    "kata": "全能",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 19,
+    "afiks": "同",
+    "kata": "同行",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 20,
+    "afiks": "同",
+    "kata": "同伴",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 21,
+    "afiks": "同",
+    "kata": "同期",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 22,
+    "afiks": "同",
+    "kata": "同父异母",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 23,
+    "afiks": "同",
+    "kata": "同母异父",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 24,
+    "afiks": "同",
+    "kata": "同志",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 25,
+    "afiks": "同",
+    "kata": "同一",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 26,
+    "afiks": "同",
+    "kata": "同盟",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 27,
+    "afiks": "同",
+    "kata": "同情",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 28,
+    "afiks": "同",
+    "kata": "同类",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 29,
+    "afiks": "同",
+    "kata": "同舟共济",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 30,
+    "afiks": "同",
+    "kata": "同样",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 31,
+    "afiks": "同",
+    "kata": "同步",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 32,
+    "afiks": "同",
+    "kata": "同感",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 33,
+    "afiks": "同",
+    "kata": "同胞",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 34,
+    "afiks": "同",
+    "kata": "同等",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 35,
+    "afiks": "同",
+    "kata": "同父同母",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 36,
+    "afiks": "同",
+    "kata": "同伙",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 37,
+    "afiks": "同",
+    "kata": "同年",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 38,
+    "afiks": "同",
+    "kata": "同人",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 39,
+    "afiks": "共",
+    "kata": "共识",
+    "kontrol": true,
+    "golongan_benar": "imbuhan"
+   },
+   {
+    "nomor": 40,
+    "afiks": "共",
+    "kata": "共享单车",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 41,
+    "afiks": "共",
+    "kata": "共同体",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 42,
+    "afiks": "共",
+    "kata": "共鸣",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 43,
+    "afiks": "共",
+    "kata": "共性",
+    "kontrol": false,
+    "golongan_benar": null
+   },
+   {
+    "nomor": 44,
+    "afiks": "共",
+    "kata": "共和国",
+    "kontrol": false,
+    "golongan_benar": null
+   }
+  ]
+ }
+}

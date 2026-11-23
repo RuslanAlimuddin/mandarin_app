@@ -1,0 +1,111 @@
+PERAN
+Kamu membantu menyusun bahan belajar Mandarin untuk pelajar berbahasa Indonesia.
+Tugasmu: menilai apakah karakter imbuhan di dalam setiap kata kandidat BENAR-BENAR berfungsi sebagai
+imbuhan yang dimaksud, atau hanya kebetulan ada di kata itu.
+
+CARA MENILAI
+Untuk setiap kata kandidat, nilai HANYA terhadap imbuhan dan fungsi yang tertulis pada bagian
+"IMBUHAN" di bawah. Jangan memakai arti lain dari karakter itu.
+- "imbuhan": karakter itu berfungsi persis seperti definisi yang diberikan.
+- "bukan": karakter itu ada di kata tersebut, tetapi tidak berfungsi sebagai imbuhan itu
+  (misalnya bagian dari kata dasar, kata serapan, atau punya arti lain).
+- "ragu": kamu tidak yakin, atau fungsinya berada di antara keduanya / berbeda dari definisi.
+  Lebih baik "ragu" daripada menebak.
+
+ATURAN KERAS (tidak boleh dilanggar)
+1. Jangan mengarang. Pinyin dan arti kata sudah diberikan; pakailah itu apa adanya.
+2. Beri tepat satu entri untuk SETIAP kata pada daftar, dengan urutan yang sama dengan nomor di daftar.
+   Tidak boleh ada yang dilewati dan tidak boleh ada kata tambahan.
+3. "alasan" = satu kalimat Bahasa Indonesia sehari-hari yang mudah dipahami (pakai tanda kutip “ ” untuk arti).
+   - Untuk "bukan": sebut arti kata, lalu mengapa karakter itu bukan imbuhan.
+   - Untuk "imbuhan": jelaskan singkat bagaimana karakter itu berfungsi seperti definisi.
+   - Untuk "ragu": jelaskan letak keraguannya.
+4. Keluarkan HANYA satu blok JSON (sebuah array), tanpa teks pembuka atau penutup.
+
+CONTOH GAYA "alasan"
+- 发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang.
+- 花生 berarti “kacang tanah”; 生 menjadi bagian nama benda, bukan penanda orang.
+- 学生 berarti “siswa”; 生 menunjukkan orang dengan status pelajar.
+
+FORMAT KELUARAN
+[
+  {"afiks": "生", "kata": "发生", "golongan": "bukan", "alasan": "发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang."}
+]
+"golongan" hanya boleh salah satu dari: "imbuhan", "bukan", "ragu".
+
+
+============================================================
+DAFTAR YANG HARUS DINILAI (berkas 12)
+============================================================
+
+------------------------------------------------------------
+IMBUHAN: 们 (akhiran)  — kelompok G: Pelengkap kata benda
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir kata ganti atau sebutan orang untuk menunjukkan kelompok/jamak.
+Arti: penanda jamak untuk orang atau kata ganti orang
+Contoh yang SAH imbuhan ini (sudah diketahui): 我们, 你们, 他们, 人们
+Catatan: Jangan gabungkan 们 dengan bilangan untuk menyatakan jumlah tertentu. Lihat juga Tata Bahasa HSK 1 poin 57 (—们 dan —边).
+Kata yang harus dinilai untuk 们:
+1. 咱们 | zán men | kami atau kita (termasuk pembicara dan orang yang diajak bicara); (dialek) aku atau saya
+2. 她们 | tā men | mereka (pr)
+3. 它们 | tā men | mereka
+
+------------------------------------------------------------
+IMBUHAN: 子 (akhiran)  — kelompok G: Pelengkap kata benda
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur tertentu untuk membentuk atau menandai kata benda; pada banyak kata, 子 tidak membawa arti 'anak' secara mandiri.
+Arti: akhiran pembentuk kata benda
+Contoh yang SAH imbuhan ini (sudah diketahui): 桌子, 椅子, 房子, 杯子
+Catatan: Pendalaman dari Tata Bahasa HSK 3 poin 16.3. Dalam fungsi akhiran pada contoh ini, 子 umumnya dibaca netral (zi), bukan nada ketiga.
+Kata yang harus dinilai untuk 子:
+4. 句子 | jù zi | kalimat
+5. 女子 | nǚ zǐ | wanita; perempuan
+6. 种子 | zhǒng zi | benih
+7. 裙子 | qún zi | rok
+8. 饺子 | jiǎo zi | pangsit; stiker panci
+9. 牌子 | pái zi | tanda; merek dagang
+10. 个子 | gè zi | tinggi badan; tinggi; ukuran (seseorang atau benda); (pertanian) bundel batang sereal yang diikat menjadi satu
+11. 例子 | lì zi | kasus; contoh
+12. 包子 | bāo zi | baozi; bao (roti isi kukus)
+13. 瓶子 | píng zi | botol
+14. 被子 | bèi zi | selimut
+15. 儿子 | ér zi | putra
+16. 屋子 | wū zi | rumah; kamar
+17. 裤子 | kù zi | celana; celana panjang
+18. 样子 | yàng zi | penampilan; cara
+19. 筷子 | kuài zi | sumpit
+20. 孩子 | hái zi | anak
+21. 院子 | yuàn zi | halaman; taman
+22. 日子 | rì zi | hari; sebuah tanggal (kalender)
+23. 男子 | nán zǐ | seorang pria; laki-laki
+24. 本子 | běn zi | buku; buku catatan
+
+------------------------------------------------------------
+IMBUHAN: 儿 (akhiran)  — kelompok G: Pelengkap kata benda
+Fungsi yang dinilai (sebagai akhiran): Pada beberapa kata, 儿 ditambahkan di akhir dan membuat bunyi r di akhir suku kata; bunyinya sering menyatu dengan suku kata sebelumnya.
+Arti: akhiran erhua atau penanda bentuk lisan tertentu
+Contoh yang SAH imbuhan ini (sudah diketahui): 这儿, 哪儿, 玩儿, 一会儿
+Catatan: Pada beberapa kata, 儿 menambahkan bunyi r di akhir suku kata; tidak selalu dibaca sebagai suku kata terpisah. Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia.
+Kata yang harus dinilai untuk 儿:
+25. 小孩儿 | xiǎo hái r | varian erhua dari 小孩
+26. 有空儿 | yǒu kòng r | bentuk erhua dari 有空
+27. 有点儿 | yǒu diǎn r | sedikit; agak
+28. 干活儿 | gàn huó r | varian erhua dari 幹活|干活
+29. 女儿 | nǚ ér | anak perempuan
+30. 空儿 | kòng r | waktu luang; waktu senggang
+31. 一下儿 | yī xià r | bentuk erhua dari 一下
+32. 笑话儿 | xiào hua r | varian erhua dari 笑話|笑话
+33. 老头儿 | lǎo tóu r | lihat 老頭子|老头子
+34. 好玩儿 | hǎo wán r | varian erhua dari 好玩
+35. 女孩儿 | nǚ hái r | bentuk erhua dari 女孩
+36. 那会儿 | nà huì r | pada waktu itu (di masa lalu atau di masa depan); juga dibaca
+37. 面条儿 | miàn tiáo r | varian erhua dari 麵條|面条
+38. 快点儿 | kuài diǎn r | varian erhua dari 快點|快点
+39. 那儿 | nà r | di sana
+40. 没事儿 | méi shì r | punya waktu luang; bebas dari pekerjaan; tidak penting; tidak apa-apa; jangan...
+41. 画儿 | huà r | gambar; lukisan
+42. 一点儿 | yī diǎn r | varian erhua dari 一點|一点
+43. 男孩儿 | nán hái r | bentuk erhua dari 男孩
+44. 不一会儿 | bù yī huǐ r | ?
+45. 有一点儿 | yǒu yī diǎn r | sedikit; agak
+46. 一块儿 | yī kuài r | varian erhua dari 一塊|一块
+
+Ingat: keluarkan HANYA satu blok JSON (array) berisi 46 entri, urut nomor 1 sampai 46.

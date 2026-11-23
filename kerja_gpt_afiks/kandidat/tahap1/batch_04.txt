@@ -1,0 +1,115 @@
+PERAN
+Kamu membantu menyusun bahan belajar Mandarin untuk pelajar berbahasa Indonesia.
+Tugasmu: menilai apakah karakter imbuhan di dalam setiap kata kandidat BENAR-BENAR berfungsi sebagai
+imbuhan yang dimaksud, atau hanya kebetulan ada di kata itu.
+
+CARA MENILAI
+Untuk setiap kata kandidat, nilai HANYA terhadap imbuhan dan fungsi yang tertulis pada bagian
+"IMBUHAN" di bawah. Jangan memakai arti lain dari karakter itu.
+- "imbuhan": karakter itu berfungsi persis seperti definisi yang diberikan.
+- "bukan": karakter itu ada di kata tersebut, tetapi tidak berfungsi sebagai imbuhan itu
+  (misalnya bagian dari kata dasar, kata serapan, atau punya arti lain).
+- "ragu": kamu tidak yakin, atau fungsinya berada di antara keduanya / berbeda dari definisi.
+  Lebih baik "ragu" daripada menebak.
+
+ATURAN KERAS (tidak boleh dilanggar)
+1. Jangan mengarang. Pinyin dan arti kata sudah diberikan; pakailah itu apa adanya.
+2. Beri tepat satu entri untuk SETIAP kata pada daftar, dengan urutan yang sama dengan nomor di daftar.
+   Tidak boleh ada yang dilewati dan tidak boleh ada kata tambahan.
+3. "alasan" = satu kalimat Bahasa Indonesia sehari-hari yang mudah dipahami (pakai tanda kutip “ ” untuk arti).
+   - Untuk "bukan": sebut arti kata, lalu mengapa karakter itu bukan imbuhan.
+   - Untuk "imbuhan": jelaskan singkat bagaimana karakter itu berfungsi seperti definisi.
+   - Untuk "ragu": jelaskan letak keraguannya.
+4. Keluarkan HANYA satu blok JSON (sebuah array), tanpa teks pembuka atau penutup.
+
+CONTOH GAYA "alasan"
+- 发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang.
+- 花生 berarti “kacang tanah”; 生 menjadi bagian nama benda, bukan penanda orang.
+- 学生 berarti “siswa”; 生 menunjukkan orang dengan status pelajar.
+
+FORMAT KELUARAN
+[
+  {"afiks": "生", "kata": "发生", "golongan": "bukan", "alasan": "发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang."}
+]
+"golongan" hanya boleh salah satu dari: "imbuhan", "bukan", "ragu".
+
+
+============================================================
+DAFTAR YANG HARUS DINILAI (berkas 04)
+============================================================
+
+------------------------------------------------------------
+IMBUHAN: 性 (akhiran)  — kelompok B: Sifat dan konsep abstrak
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menerangkan hal tertentu untuk membentuk kata yang menyatakan sifat atau karakteristik.
+Arti: sifat, keadaan, atau karakteristik
+Contoh yang SAH imbuhan ini (sudah diketahui): 个性, 积极性, 弹性, 慢性
+Kata yang harus dinilai untuk 性:
+1. 中性 | zhōng xìng | netral
+2. 属性 | shǔ xìng | atribut; properti
+3. 一次性 | yī cì xìng | sekali saja (penawaran); sekali waktu
+4. 特性 | tè xìng | properti; karakteristik
+5. 本性 | běn xìng | naluri alami; sifat
+6. 理性 | lǐ xìng | akal; rasionalitas
+7. 女性 | nǚ xìng | wanita; jenis kelamin wanita
+8. 感性 | gǎn xìng | persepsi; perseptual
+9. 耐性 | nài xìng | kesabaran
+10. 天性 | tiān xìng | sifat alamiah; kecenderungan bawaan
+11. 公益性 | gōngyì xìng | ?
+12. 男性 | nán xìng | jenis kelamin laki-laki; seorang pria
+13. 人性 | rén xìng | sifat manusia; kemanusiaan
+14. 惯性 | guàn xìng | (fisika) inersia; (kiasan) kebiasaan
+15. 异性 | yì xìng | lawan jenis; berbeda jenis kelamin
+16. 索性 | suǒ xìng | sebaiknya (melakukannya); sederhana
+17. 急性 | jí xìng | akut
+18. 良性 | liáng xìng | positif (dalam dampaknya); mengarah pada hasil yang baik
+19. 阳性 | yáng xìng | positif; maskulin
+20. 阴性 | yīn xìng | negatif; feminin
+21. 恶性 | è xìng | ganas; keji
+
+------------------------------------------------------------
+IMBUHAN: 度 (akhiran)  — kelompok B: Sifat dan konsep abstrak
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang diukur untuk menyatakan tingkat atau ukuran suatu keadaan.
+Arti: tingkat, ukuran, atau derajat
+Contoh yang SAH imbuhan ini (sudah diketahui): 温度, 速度, 难度, 角度
+Kata yang harus dinilai untuk 度:
+22. 进度 | jìn dù | tingkat kemajuan
+23. 程度 | chéng dù | tingkat; level; sejauh mana
+24. 长度 | cháng dù | panjang
+25. 极度 | jí dù | sangat
+26. 一度 | yī dù | sementara waktu; pada suatu waktu
+27. 季度 | jì dù | seperempat tahun; musim (olahraga)
+28. 限度 | xiàn dù | batasan; batas
+29. 调度 | diào dù | mengirim (kendaraan, staf dll.); menjadwalkan
+30. 力度 | lì dù | kekuatan; semangat
+31. 过度 | guò dù | berlebihan; terlalu-
+32. 态度 | tài du | cara; sikap; pendekatan
+33. 宽度 | kuān dù | lebar
+34. 高度 | gāo dù | tinggi; ketinggian
+35. 幅度 | fú dù | lebar; tingkat
+36. 风度 | fēng dù | keanggunan (untuk pria); sikap anggun
+37. 制度 | zhì dù | sistem (misalnya politik, administrasi dll); lembaga
+38. 年度 | nián dù | tahun (misalnya tahun ajaran, tahun fiskal); tahunan
+39. 再度 | zài dù | sekali lagi
+40. 密度 | mì dù | kepadatan; ketebalan
+41. 深度 | shēn dù | kedalaman; (pidato dll.) kedalaman
+42. 强度 | qiáng dù | kekuatan; intensitas
+
+------------------------------------------------------------
+IMBUHAN: 率 (akhiran)  — kelompok B: Sifat dan konsep abstrak
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang dihitung untuk menyatakan rasio atau tingkat perbandingan.
+Arti: rasio, tingkat, atau persentase
+Contoh yang SAH imbuhan ini (sudah diketahui): 效率, 汇率, 频率, 概率
+Contoh yang BUKAN imbuhan ini (sudah diketahui):
+   草率 — 草率 berarti “gegabah/tidak cermat”; 率 dibaca shuài, bukan akhiran bermakna rasio.
+Catatan: Bacaan yang dipakai pada contoh ini adalah lǜ (rasio/tingkat); bacaan shuài muncul pada 坦率 dan 草率.
+Kata yang harus dinilai untuk 率:
+43. 失业率 | shī yè lǜ | tingkat pengangguran
+44. 几率 | jī lǜ | probabilitas; peluang
+45. 点击率 | diǎn jī lǜ | rasio klik-tayang (CTR) (Internet)
+46. 收视率 | shōu shì lǜ | rating (acara TV)
+47. 功率 | gōng lǜ | daya (laju melakukan kerja, diukur dalam watt)
+48. 利率 | lì lǜ | suku bunga
+49. 坦率 | tǎn shuài | terus terang; jujur; lugas
+50. 表率 | biǎo shuài | contoh; model
+
+Ingat: keluarkan HANYA satu blok JSON (array) berisi 50 entri, urut nomor 1 sampai 50.

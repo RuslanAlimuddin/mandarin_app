@@ -1,0 +1,120 @@
+PERAN
+Kamu membantu menyusun bahan belajar Mandarin untuk pelajar berbahasa Indonesia.
+Tugasmu: menilai apakah karakter imbuhan di dalam setiap kata kandidat BENAR-BENAR berfungsi sebagai
+imbuhan yang dimaksud, atau hanya kebetulan ada di kata itu.
+
+CARA MENILAI
+Untuk setiap kata kandidat, nilai HANYA terhadap imbuhan dan fungsi yang tertulis pada bagian
+"IMBUHAN" di bawah. Jangan memakai arti lain dari karakter itu.
+- "imbuhan": karakter itu berfungsi persis seperti definisi yang diberikan.
+- "bukan": karakter itu ada di kata tersebut, tetapi tidak berfungsi sebagai imbuhan itu
+  (misalnya bagian dari kata dasar, kata serapan, atau punya arti lain).
+- "ragu": kamu tidak yakin, atau fungsinya berada di antara keduanya / berbeda dari definisi.
+  Lebih baik "ragu" daripada menebak.
+
+ATURAN KERAS (tidak boleh dilanggar)
+1. Jangan mengarang. Pinyin dan arti kata sudah diberikan; pakailah itu apa adanya.
+2. Beri tepat satu entri untuk SETIAP kata pada daftar, dengan urutan yang sama dengan nomor di daftar.
+   Tidak boleh ada yang dilewati dan tidak boleh ada kata tambahan.
+3. "alasan" = satu kalimat Bahasa Indonesia sehari-hari yang mudah dipahami (pakai tanda kutip “ ” untuk arti).
+   - Untuk "bukan": sebut arti kata, lalu mengapa karakter itu bukan imbuhan.
+   - Untuk "imbuhan": jelaskan singkat bagaimana karakter itu berfungsi seperti definisi.
+   - Untuk "ragu": jelaskan letak keraguannya.
+4. Keluarkan HANYA satu blok JSON (sebuah array), tanpa teks pembuka atau penutup.
+
+CONTOH GAYA "alasan"
+- 发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang.
+- 花生 berarti “kacang tanah”; 生 menjadi bagian nama benda, bukan penanda orang.
+- 学生 berarti “siswa”; 生 menunjukkan orang dengan status pelajar.
+
+FORMAT KELUARAN
+[
+  {"afiks": "生", "kata": "发生", "golongan": "bukan", "alasan": "发生 berarti “terjadi”; 生 menjadi bagian kata kerja, bukan penanda orang."}
+]
+"golongan" hanya boleh salah satu dari: "imbuhan", "bukan", "ragu".
+
+
+============================================================
+DAFTAR YANG HARUS DINILAI (berkas 05)
+============================================================
+
+------------------------------------------------------------
+IMBUHAN: 感 (akhiran)  — kelompok B: Sifat dan konsep abstrak
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menjadi sumber atau objek pengalaman untuk menyatakan perasaan atau kesan.
+Arti: perasaan atau kesan terhadap sesuatu
+Contoh yang SAH imbuhan ini (sudah diketahui): 情感, 灵感, 好感, 责任感
+Kata yang harus dinilai untuk 感:
+1. 性感 | xìng gǎn | daya tarik seksual; erotisme
+2. 预感 | yù gǎn | merasa firasat; firasat
+3. 反感 | fǎn gǎn | merasa jijik dengan; tidak suka
+4. 敏感 | mǐn gǎn | sensitif; rentan
+5. 流感 | liú gǎn | flu; influenza
+6. 观感 | guān gǎn | kesan seseorang; pengamatan
+7. 动感 | dòng gǎn | rasa gerakan (seringkali dalam karya seni statis); dinamis
+8. 同感 | tóng gǎn | (memiliki) perasaan yang sama; kesan yang mirip
+9. 伤感 | shāng gǎn | sedih; emosional
+10. 口感 | kǒu gǎn | tekstur di mulut; tekstur (makanan)
+
+------------------------------------------------------------
+IMBUHAN: 力 (akhiran)  — kelompok B: Sifat dan konsep abstrak
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang menunjukkan kegiatan atau keadaan untuk menyatakan daya atau kemampuan yang diperlukan.
+Arti: tenaga, kemampuan, atau daya
+Contoh yang SAH imbuhan ini (sudah diketahui): 能力, 压力, 听力, 体力
+Catatan: Pada 力量, 力 berada di awal kata dan berarti tenaga atau kekuatan; ini bagian kata utuh, bukan awalan.
+Kata yang harus dinilai untuk 力:
+11. 影响力 | yǐng xiǎng lì | pengaruh; dampak
+12. 有力 | yǒu lì | kuat; bertenaga
+13. 大力 | dà lì | dengan energik; dengan giat
+14. 吃力 | chī lì | membutuhkan upaya berat; bekerja keras pada suatu tugas
+15. 尽力 | jìn lì | berusaha sekuat tenaga; tidak menyisakan upaya
+16. 魅力 | mèi lì | pesona; daya tarik
+17. 力量 | lì liang | kekuatan; daya
+18. 努力 | nǔ lì | berusaha; bekerja keras; berjuang; teliti
+19. 权力 | quán lì | kekuasaan; otoritas
+20. 动力 | dòng lì | daya penggerak; (kiasan) motivasi; dorongan
+21. 巧克力 | qiǎo kè lì | cokelat (kata pinjaman)
+22. 潜力 | qián lì | potensi; kapasitas laten
+23. 暴力 | bào lì | kekerasan; kekuatan
+24. 无力 | wú lì | tidak berdaya; kurang kekuatan
+25. 智力 | zhì lì | kecerdasan; akal
+26. 势力 | shì li | kekuatan; pengaruh
+27. 精力 | jīng lì | energi
+28. 人力 | rén lì | tenaga kerja; kekuatan buruh
+29. 活力 | huó lì | energi; vitalitas
+30. 电力 | diàn lì | tenaga listrik; listrik
+31. 实力 | shí lì | kekuatan
+32. 全力 | quán lì | dengan sekuat tenaga; kekuatan penuh
+
+------------------------------------------------------------
+IMBUHAN: 量 (akhiran)  — kelompok B: Sifat dan konsep abstrak
+Fungsi yang dinilai (sebagai akhiran): Diletakkan di akhir unsur yang diukur untuk membentuk istilah tentang jumlah atau ukuran.
+Arti: jumlah, ukuran, atau banyaknya sesuatu
+Contoh yang SAH imbuhan ini (sudah diketahui): 数量, 质量, 重量, 能量
+Contoh yang BUKAN imbuhan ini (sudah diketahui):
+   测量 — 测量 berarti “mengukur”; 量 dibaca liáng sebagai kata kerja, bukan akhiran liàng bermakna ukuran.
+Catatan: Bacaan yang dipakai pada contoh akhiran ini adalah liàng (jumlah/ukuran); jangan tertukar dengan liáng pada kata kerja tertentu.
+Kata yang harus dinilai untuk 量:
+33. 含量 | hán liàng | kandungan; kuantitas yang terkandung
+34. 容量 | róng liàng | kapasitas; volume
+35. 热量 | rè liàng | kalori; jumlah panas
+36. 尽量 | jǐn liàng | sebanyak mungkin; sejauh mungkin
+37. 力量 | lì liang | kekuatan; daya
+38. 适量 | shì liàng | jumlah yang sesuai
+39. 打量 | dǎ liang | mengukur seseorang; memandang seseorang dari atas ke bawah
+40. 正能量 | zhèng néng liàng | energi positif; kepositifan
+41. 流量 | liú liàng | tingkat aliran; arus penumpang; volume lalu lintas; (hidrologi) debit
+42. 衡量 | héng liáng | menimbang; memeriksa
+43. 音量 | yīn liàng | kekerasan suara; volume
+44. 工作量 | gōng zuò liàng | beban kerja; volume pekerjaan
+45. 大量 | dà liàng | jumlah besar; kuantitas besar
+46. 海量 | hǎi liàng | volume besar
+47. 销量 | xiāo liàng | volume penjualan
+48. 总量 | zǒng liàng | total; jumlah keseluruhan
+49. 较量 | jiào liàng | mempertandingkan diri dengan seseorang; bersaing dengan seseorang
+50. 产量 | chǎn liàng | output
+51. 考量 | kǎo liáng | mempertimbangkan; memberikan pertimbangan serius terhadap sesuatu
+52. 商量 | shāng liang | berkonsultasi; membicarakan
+53. 分量 | fèn liang | kuantitas; berat; ukuran; (kiasan) berat (kepentingan, prestise, otoritas, dll); (dari bahan tertulis)...
+54. 少量 | shǎo liàng | sedikit sekali; sedikit
+
+Ingat: keluarkan HANYA satu blok JSON (array) berisi 54 entri, urut nomor 1 sampai 54.
