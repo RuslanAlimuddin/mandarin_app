@@ -724,9 +724,9 @@
             "别生气",
             "生气地说"
           ],
-          "example_cn": "妈妈生我的气了。",
-          "example_pinyin": "Māma shēng wǒ de qì le.",
-          "example_id": "Ibu marah padaku.",
+          "example_cn": "妈妈对我很生气。",
+          "example_pinyin": "Māma duì wǒ hěn shēngqì.",
+          "example_id": "Ibu sangat marah padaku.",
           "register": "netral, kata dasar"
         },
         {
@@ -5312,9 +5312,9 @@
             "请假条",
             "请假手续"
           ],
-          "example_cn": "他今天生病了，所以请了一天假。",
-          "example_pinyin": "Tā jīntiān shēngbìng le, suǒyǐ qǐng le yì tiān jiǎ.",
-          "example_id": "Dia sakit hari ini, jadi minta izin tidak masuk sehari.",
+          "example_cn": "他今天生病了，所以请假一天。",
+          "example_pinyin": "Tā jīntiān shēngbìng le, suǒyǐ qǐngjià yì tiān.",
+          "example_id": "Dia sakit hari ini, jadi minta izin sehari.",
           "register": "netral"
         },
         {
@@ -5330,9 +5330,9 @@
             "休假制度",
             "享受休假"
           ],
-          "example_cn": "他下个月要休年假。",
-          "example_pinyin": "Tā xià ge yuè yào xiū niánjiǎ.",
-          "example_id": "Dia bulan depan akan mengambil cuti tahunan.",
+          "example_cn": "他下个月要休假一周。",
+          "example_pinyin": "Tā xià ge yuè yào xiūjià yì zhōu.",
+          "example_id": "Dia bulan depan akan cuti seminggu.",
           "register": "netral"
         }
       ],
@@ -8780,9 +8780,9 @@
             "下雪天",
             "要下雪"
           ],
-          "example_cn": "昨天下了大雪。",
-          "example_pinyin": "Zuótiān xià le dà xuě.",
-          "example_id": "Kemarin turun salju deras.",
+          "example_cn": "昨天下雪了，雪很大。",
+          "example_pinyin": "Zuótiān xiàxuě le, xuě hěn dà.",
+          "example_id": "Kemarin turun salju, saljunya deras.",
           "register": "netral"
         }
       ],
@@ -10844,9 +10844,9 @@
             "国家主权",
             "国家领导"
           ],
-          "example_cn": "中国是一个大国。",
-          "example_pinyin": "Zhōngguó shì yíge dàguó.",
-          "example_id": "Tiongkok adalah negara besar.",
+          "example_cn": "中国是一个很大的国家。",
+          "example_pinyin": "Zhōngguó shì yí ge hěn dà de guójiā.",
+          "example_id": "Tiongkok adalah negara yang sangat besar.",
           "register": "formal"
         }
       ],
@@ -15657,9 +15657,9 @@
             "牛仔裤",
             "裤子口袋"
           ],
-          "example_cn": "他穿了一条牛仔裤。",
-          "example_pinyin": "Tā chuān le yì tiáo niúzǎikù.",
-          "example_id": "Dia memakai celana jeans.",
+          "example_cn": "他穿了一条黑色的裤子。",
+          "example_pinyin": "Tā chuān le yì tiáo hēisè de kùzi.",
+          "example_id": "Dia memakai celana hitam.",
           "register": "netral"
         },
         {
@@ -18570,9 +18570,9 @@
             "喜欢这个颜色",
             "什么颜色"
           ],
-          "example_cn": "我喜欢蓝色。",
-          "example_pinyin": "Wǒ xǐhuan lánsè.",
-          "example_id": "Saya suka warna biru.",
+          "example_cn": "我喜欢这个颜色。",
+          "example_pinyin": "Wǒ xǐhuan zhè ge yánsè.",
+          "example_id": "Saya suka warna ini.",
           "register": "netral"
         },
         {
@@ -18849,9 +18849,9 @@
             "电话号码",
             "数字时代"
           ],
-          "example_cn": "请写下你的电话号码。",
-          "example_pinyin": "Qǐng xiěxià nǐ de diànhuà hàomǎ.",
-          "example_id": "Tolong tulis nomor teleponmu.",
+          "example_cn": "请把这个数字写在这里。",
+          "example_pinyin": "Qǐng bǎ zhè ge shùzì xiě zài zhèlǐ.",
+          "example_id": "Tolong tulis angka ini di sini.",
           "register": "netral"
         },
         {
@@ -21069,9 +21069,9 @@
             "转变态度",
             "转变方向"
           ],
-          "example_cn": "他最近改变了很多想法。",
-          "example_pinyin": "Tā zuìjìn gǎibiàn le hěnduō xiǎngfǎ.",
-          "example_id": "Dia baru-baru ini mengubah banyak pikirannya.",
+          "example_cn": "他的态度最近转变了很多。",
+          "example_pinyin": "Tā de tàidu zuìjìn zhuǎnbiàn le hěn duō.",
+          "example_id": "Sikapnya belakangan ini banyak berubah.",
           "register": "formal"
         },
         {
@@ -22878,8 +22878,8 @@
             "歌曲列表",
             "创作歌曲"
           ],
-          "example_cn": "这首歌很好听。",
-          "example_pinyin": "Zhè shǒu gē hěn hǎotīng.",
+          "example_cn": "这首歌曲很好听。",
+          "example_pinyin": "Zhè shǒu gēqǔ hěn hǎotīng.",
           "example_id": "Lagu ini enak didengar.",
           "register": "netral"
         }
@@ -29106,9 +29106,9 @@
             "季节变化",
             "旅游季节"
           ],
-          "example_cn": "雨季到了。",
-          "example_pinyin": "Yǔjì dào le.",
-          "example_id": "Musim hujan tiba.",
+          "example_cn": "你最喜欢哪个季节？",
+          "example_pinyin": "Nǐ zuì xǐhuan nǎ ge jìjié?",
+          "example_id": "Kamu paling suka musim apa?",
           "register": "netral"
         },
         {
@@ -33822,8 +33822,8 @@
             "避免危险",
             "避免迟到"
           ],
-          "example_cn": "为了不迟到，我提前出门了。",
-          "example_pinyin": "Wèile bù chídào, wǒ tíqián chūmén le.",
+          "example_cn": "为了避免迟到，我提前出门了。",
+          "example_pinyin": "Wèile bìmiǎn chídào, wǒ tíqián chūmén le.",
           "example_id": "Untuk menghindari terlambat, saya keluar lebih awal.",
           "register": "formal"
         },
@@ -35890,8 +35890,8 @@
             "胆小怕事",
             "不要胆小"
           ],
-          "example_cn": "他胆子小，不敢一个人去。",
-          "example_pinyin": "Tā dǎnzi xiǎo, bù gǎn yí ge rén qù.",
+          "example_cn": "他很胆小，不敢一个人去。",
+          "example_pinyin": "Tā hěn dǎnxiǎo, bù gǎn yí ge rén qù.",
           "example_id": "Dia penakut, tidak berani pergi sendiri.",
           "register": "netral"
         },
@@ -36821,9 +36821,9 @@
             "自然学科",
             "社会学科"
           ],
-          "example_cn": "他在大学里选择了文科。",
-          "example_pinyin": "Tā zài dàxué li xuǎnzé le wénkē.",
-          "example_id": "Dia memilih humaniora di universitas.",
+          "example_cn": "他最喜欢的学科是数学。",
+          "example_pinyin": "Tā zuì xǐhuan de xuékē shì shùxué.",
+          "example_id": "Bidang studi yang paling dia sukai adalah matematika.",
           "register": "formal"
         },
         {
@@ -38006,9 +38006,9 @@
             "赚钱机会",
             "轻松赚钱"
           ],
-          "example_cn": "他想多赚点钱。",
-          "example_pinyin": "Tā xiǎng duō zhuàn diǎn qián.",
-          "example_id": "Dia ingin mencari lebih banyak uang.",
+          "example_cn": "他想多赚钱。",
+          "example_pinyin": "Tā xiǎng duō zhuànqián.",
+          "example_id": "Dia ingin lebih banyak mencari uang.",
           "register": "netral"
         }
       ],
@@ -40162,9 +40162,9 @@
             "口罩",
             "口味"
           ],
-          "example_cn": "他张开嘴巴说话。",
-          "example_pinyin": "Tā zhāngkāi zuǐba shuōhuà.",
-          "example_id": "Dia membuka mulut untuk bicara.",
+          "example_cn": "他张开口，却说不出话来。",
+          "example_pinyin": "Tā zhāngkāi kǒu, què shuō bù chū huà lái.",
+          "example_id": "Dia membuka mulut, tetapi tidak bisa bicara.",
           "register": "netral"
         }
       ],
@@ -41010,9 +41010,9 @@
             "金属声响",
             "环境声响"
           ],
-          "example_cn": "突然传来一声巨响。",
-          "example_pinyin": "Tūrán chuánlái yì shēng jùxiǎng.",
-          "example_id": "Tiba-tiba terdengar bunyi keras yang besar.",
+          "example_cn": "突然传来一阵声响。",
+          "example_pinyin": "Tūrán chuánlái yí zhèn shēngxiǎng.",
+          "example_id": "Tiba-tiba terdengar bunyi keras.",
           "register": "formal"
         }
       ],
@@ -41722,9 +41722,9 @@
             "兑换率",
             "利率上升"
           ],
-          "example_cn": "失业率在上升。",
-          "example_pinyin": "Shīyè lǜ zài shàngshēng.",
-          "example_id": "Tingkat pengangguran sedang naik.",
+          "example_cn": "失业的比率在上升。",
+          "example_pinyin": "Shīyè de bǐlǜ zài shàngshēng.",
+          "example_id": "Rasio pengangguran sedang naik.",
           "register": "formal"
         }
       ],
@@ -44706,9 +44706,9 @@
             "旅行背包",
             "双肩背包"
           ],
-          "example_cn": "学生背着书包上学。",
-          "example_pinyin": "Xuésheng bēi zhe shūbāo shàngxué.",
-          "example_id": "Siswa membawa ransel ke sekolah.",
+          "example_cn": "他背着一个大背包去旅行。",
+          "example_pinyin": "Tā bēi zhe yí ge dà bēibāo qù lǚxíng.",
+          "example_id": "Dia menggendong ransel besar untuk bepergian.",
           "register": "netral"
         }
       ],
@@ -47230,8 +47230,8 @@
             "缓和",
             "缓行"
           ],
-          "example_cn": "放慢脚步。",
-          "example_pinyin": "Fàngmàn jiǎobù.",
+          "example_cn": "放缓脚步。",
+          "example_pinyin": "Fànghuǎn jiǎobù.",
           "example_id": "Perlambat langkah.",
           "register": "formal"
         }
@@ -49129,9 +49129,9 @@
             "低廉",
             "物美价廉"
           ],
-          "example_cn": "这里的物价很便宜实惠。",
-          "example_pinyin": "Zhèlǐ de wùjià hěn piányi shíhuì.",
-          "example_id": "Harga di sini sangat murah dan terjangkau.",
+          "example_cn": "这里的物价很低廉。",
+          "example_pinyin": "Zhèlǐ de wùjià hěn dīlián.",
+          "example_id": "Harga di sini sangat murah.",
           "register": "formal"
         },
         {
@@ -49790,9 +49790,9 @@
             "考虑",
             "焦虑"
           ],
-          "example_cn": "他担心未来的发展。",
-          "example_pinyin": "Tā dānxīn wèilái de fāzhǎn.",
-          "example_id": "Dia khawatir tentang perkembangan masa depan.",
+          "example_cn": "他很忧虑未来的发展。",
+          "example_pinyin": "Tā hěn yōulǜ wèilái de fāzhǎn.",
+          "example_id": "Dia sangat khawatir akan perkembangan masa depan.",
           "register": "formal"
         }
       ],
@@ -58530,9 +58530,9 @@
             "强大动力",
             "强大影响力"
           ],
-          "example_cn": "中国已经成为世界经济强国。",
-          "example_pinyin": "Zhōngguó yǐjīng chéngwéi shìjiè jīngjì qiángguó.",
-          "example_id": "China telah menjadi kekuatan ekonomi dunia.",
+          "example_cn": "中国的经济越来越强大。",
+          "example_pinyin": "Zhōngguó de jīngjì yuèláiyuè qiángdà.",
+          "example_id": "Ekonomi Tiongkok semakin kuat.",
           "register": "netral"
         }
       ],
