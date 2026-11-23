@@ -456,6 +456,14 @@
       margin-top: 8px;
     }
 
+    /* Baris pinyin di bawah kata -- deck "Imbuhan (Awalan & Akhiran)". */
+    .tg-prompt-pinyin {
+      font-size: 1rem;
+      color: var(--text-muted);
+      text-align: center;
+      margin-top: 4px;
+    }
+
     .tone-game-options {
       display: grid;
       grid-template-columns: repeat(2, 1fr);
@@ -1221,6 +1229,10 @@
           <div class="sidebar-item" data-deck="pola-choice" onclick="selectDeck('pola-choice','Tebak Pola Kata')">
             <span>🧩 Tebak Pola Kata <span style="font-size:0.62rem;color:var(--text-muted)">(Struktur Kata)</span></span>
             <span class="item-count" id="due-pola-kata">—</span>
+          </div>
+          <div class="sidebar-item" data-deck="afiks-choice" onclick="selectDeck('afiks-choice','Imbuhan (Awalan & Akhiran)')">
+            <span>🧱 Imbuhan (Awalan &amp; Akhiran) <span style="font-size:0.62rem;color:var(--text-muted)">(Imbuhan atau bukan?)</span></span>
+            <span class="item-count" id="due-afiks">—</span>
           </div>
           <!-- Struktur karakter (B5a, diisi JS) -->
           <div id="sidebar-struktur-list"></div>
