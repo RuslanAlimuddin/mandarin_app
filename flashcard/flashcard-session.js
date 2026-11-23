@@ -45,6 +45,13 @@ function startSession() {
     return;
   }
 
+  // "🧱 Imbuhan (Awalan & Akhiran)" -- selalu game "imbuhan atau bukan?",
+  // tidak punya bentuk flip-card biasa yang masuk akal.
+  if (FC.deckId === 'afiks-choice') {
+    startAudioGame('afiks');
+    return;
+  }
+
   if (!FC.queue.length) return;
 
   if (FC.gameModeOn) {

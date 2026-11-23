@@ -47,14 +47,21 @@ const FC = {
   // loadPolaGameData(), lihat bagian bawah file ini.
   polaEntries: null,
 
+  // Deck "🧱 Imbuhan (Awalan & Akhiran)" -- latihan "Imbuhan atau bukan?".
+  // Data DILUAR app_words.json: data/afiks_kamus.json (60 imbuhan; kata
+  // contoh = imbuhan sungguhan, daftar "bukan" = kata yang tampak mirip tetapi
+  // bukan imbuhan itu). Lazy-load sekali via loadAfiksGameData() di bawah.
+  afiksEntries: null,
+
   toneGame: {
     active:  false,
-    mode:    'tonepairs', // 'tonepairs' | 'generic' | 'antonym' | 'synonym' | 'nuance' | 'pola'
+    mode:    'tonepairs', // 'tonepairs' | 'generic' | 'antonym' | 'synonym' | 'nuance' | 'pola' | 'afiks'
     groups:  [],    // dipakai kalau mode tonepairs
     pool:    [],    // dipakai kalau mode generic
     pairs:   [],    // dipakai kalau mode antonym/synonym -- array {word, antonym} atau {word, synonym} (keduanya objek kata utuh)
     nuanceQuestions: [], // dipakai kalau mode nuance -- array soal kalimat-rumpang, lihat buildNuanceQuestions() di flashcard-games.js
     polaQuestions: [], // dipakai kalau mode pola -- array soal tebak-kategori, lihat buildPolaQuestions() di flashcard-games.js
+    afiksQuestions: [], // dipakai kalau mode afiks -- array soal "imbuhan atau bukan?", lihat buildAfiksQuestions() di flashcard-games.js
     order:   [],
     idx:     0,
     current: null,  // { promptWord, correct, options }
@@ -336,6 +343,36 @@ function selectDeck(deckId, deckName) {
 
     const btn = $('btn-start-session');
     btn.textContent = `🧩 Mulai Game (${questions.length} soal)`;
+    btn.classList.remove('hidden');
+    showToast(`${deckName}: ${questions.length} soal siap`);
+    ensureAccordionVisible(deckId);
+    saveFlashcardLastState();
+    return;
+  }
+
+  // "🧱 Imbuhan (Awalan & Akhiran)" -- juga bukan flip-card SRS biasa, jalur
+  // build queue-nya sendiri dari data/afiks_kamus.json (lihat
+  // buildAfiksQuestions() di flashcard-games.js), bukan dari app_words.json.
+  // Tiap putaran dibuat SEIMBANG: separuh kata imbuhan sungguhan, separuh
+  // kata "bukan" (selama daftar "bukan" masih cukup).
+  if (deckId === 'afiks-choice') {
+    const questions = buildAfiksQuestions(FC.afiksEntries || [], FC.sessionCardLimit || 20);
+    FC.toneGame.afiksQuestions = questions;
+
+    $('ctrl-antonym-fmt-row-q').classList.add('hidden');
+    $('ctrl-antonym-fmt-row-a').classList.add('hidden');
+    $('ctrl-synonym-fmt-row-q').classList.add('hidden');
+    $('ctrl-synonym-fmt-row-a').classList.add('hidden');
+    $('ctrl-confusion-fmt-row-q').classList.add('hidden');
+
+    if (!questions.length) {
+      showToast('Data imbuhan belum tersedia utk dijadikan soal.', 'info');
+      $('btn-start-session').classList.add('hidden');
+      return;
+    }
+
+    const btn = $('btn-start-session');
+    btn.textContent = `🧱 Mulai Game (${questions.length} soal)`;
     btn.classList.remove('hidden');
     showToast(`${deckName}: ${questions.length} soal siap`);
     ensureAccordionVisible(deckId);
@@ -1288,5 +1325,32 @@ async function loadPolaGameData() {
 
   const count = buildPolaQuestions(FC.polaEntries).length;
   const el = $('due-pola-kata');
+  if (el) el.textContent = count > 0 ? count : '—';
+}
+
+
+/* ── B-afiks: Load data imbuhan (awalan & akhiran) ───────────────────
+   Datanya BUKAN turunan field app_words.json, melainkan file terpisah
+   data/afiks_kamus.json -- persis file yang sama dipakai panel Kamus >
+   Kelompok > Awalan & Akhiran (kamus-afiks.js). Lazy-fetch sekali di sini,
+   dipanggil dari flashcard-init.js sejajar loadPolaGameData(). Angka di
+   sidebar = jumlah SEMUA soal yang mungkin (kata imbuhan + kata "bukan"). */
+async function loadAfiksGameData() {
+  try {
+    const res = await fetch('data/afiks_kamus.json');
+    if (res.ok) {
+      const data = await res.json();
+      FC.afiksEntries = Array.isArray(data) ? data : [];
+    } else {
+      FC.afiksEntries = [];
+    }
+  } catch (e) {
+    console.warn('data/afiks_kamus.json tidak tersedia:', e);
+    FC.afiksEntries = [];
+  }
+
+  const pools = buildAfiksPools(FC.afiksEntries);
+  const count = pools.ya.length + pools.bukan.length;
+  const el = $('due-afiks');
   if (el) el.textContent = count > 0 ? count : '—';
 }

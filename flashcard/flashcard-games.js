@@ -153,6 +153,18 @@ function startAudioGame(mode) {
     }
     tg.order = shuffle([...Array(tg.polaQuestions.length).keys()]);
 
+  } else if (mode === 'afiks') {
+    // Pakai versi yg sudah dibuat selectDeck() (seimbang & sudah dipotong
+    // sesuai FC.sessionCardLimit); fallback build ulang hanya jaga-jaga.
+    tg.afiksQuestions = (tg.afiksQuestions && tg.afiksQuestions.length)
+      ? tg.afiksQuestions
+      : buildAfiksQuestions(FC.afiksEntries || [], FC.sessionCardLimit || 20);
+    if (!tg.afiksQuestions.length) {
+      showToast('Belum ada soal imbuhan yang bisa dimainkan.', 'info');
+      return;
+    }
+    tg.order = shuffle([...Array(tg.afiksQuestions.length).keys()]);
+
   } else if (mode === 'confusion') {
     // (E.0.3) Karakter Mirip -- pakai tg.confusionGroups yg sudah
     // dipotong sessionCardLimit di selectDeck() (pola sama spt tonepairs,
@@ -313,6 +325,70 @@ function buildPolaQuestions(entries) {
 }
 
 
+/* ── Bangun soal "🧱 Imbuhan atau bukan?" dari data/afiks_kamus.json ──
+   Dua kumpulan: YA  = kata contoh tiap imbuhan (imbuhan sungguhan),
+                 BUKAN = daftar "bukan" (kata yang tampak memakai imbuhan itu
+                         tetapi tidak berfungsi sebagai imbuhan, mis. 或者).
+   Soal = satu kata + satu imbuhan: "Apakah 者 di sini dipakai sebagai
+   akhiran yang berarti ...?" -> Ya / Bukan. Arti kata TIDAK ditampilkan di
+   soal (hanya di umpan balik) supaya yang diuji benar-benar pengenalan
+   fungsi imbuhannya. Tanpa tombol audio (soal berbasis tulisan). */
+function buildAfiksPools(entries) {
+  const ya = [], bukan = [];
+  if (!Array.isArray(entries)) return { ya, bukan };
+  entries.forEach(e => {
+    if (!e || !e.karakter) return;
+    (e.bagian || []).forEach(b => {
+      (b.contoh || []).forEach(c => {
+        if (!c || !c.kata) return;
+        ya.push({ word: c.kata, afiks: e.karakter, posisi: b.sebagai || e.posisi,
+                  arti: b.arti || e.arti_dasar || '', kelompok: e.kelompok_nama || '', benar: true });
+      });
+    });
+    (e.bukan || []).forEach(k => {
+      if (!k || !k.kata) return;
+      bukan.push({ word: k.kata, afiks: e.karakter, posisi: e.posisi,
+                   arti: e.arti_dasar || '', alasan: k.alasan || '', kelompok: e.kelompok_nama || '', benar: false });
+    });
+  });
+  return { ya, bukan };
+}
+
+/* Susun satu putaran SEIMBANG: separuh "bukan", separuh "ya". Bila daftar
+   "bukan" kurang dari separuh jumlah soal, sisanya diisi soal "ya". */
+function buildAfiksQuestions(entries, limit) {
+  const pools = buildAfiksPools(entries);
+  if (!pools.ya.length && !pools.bukan.length) return [];
+  if (!FC.wordBySimplified && Array.isArray(FC.allWords)) {
+    FC.wordBySimplified = {};
+    FC.allWords.forEach(w => { FC.wordBySimplified[w.simplified] = w; });
+  }
+  const total  = Math.max(2, limit || 20);
+  const nBukan = Math.min(Math.floor(total / 2), pools.bukan.length);
+  const nYa    = Math.min(total - nBukan, pools.ya.length);
+  const pick   = (arr, n) => shuffle(arr.slice()).slice(0, n);
+
+  return shuffle(pick(pools.bukan, nBukan).concat(pick(pools.ya, nYa))).map(q => {
+    const wordObj = (FC.wordBySimplified && FC.wordBySimplified[q.word]) || null;
+    return Object.assign({}, q, {
+      pinyin:  wordObj ? (wordObj.pinyin || '') : '',
+      wordObj: wordObj,
+      meaning: wordObj ? gameWordMeaning(wordObj) : '',
+    });
+  });
+}
+
+function renderAfiksPrompt(q) {
+  const area = $('tg-prompt-area');
+  const posLabel = q.posisi === 'awalan' ? 'awalan (di depan kata)' : 'akhiran (di belakang kata)';
+  area.innerHTML = `
+    <div class="tg-prompt-token">${escHtml(q.word)}</div>
+    <div class="tg-prompt-pinyin">${escHtml(q.pinyin)}</div>
+    <div class="tg-prompt-sentence-hint">Apakah <b>${escHtml(q.afiks)}</b> di sini dipakai sebagai ${posLabel} yang berarti “${escHtml(q.arti)}”?</div>
+  `;
+}
+
+
 /* ── Render prompt khusus "Pilih yang Tepat": kalimat rumpang + terjemahan.
    TIDAK reuse renderGamePrompt() -- itu selalu tampilkan tombol 🔊 Dengar
    yang mengucapkan promptWord, dan di sini promptWord justru KATA
@@ -415,6 +491,9 @@ function renderGameOptions(options, format) {
       inner = `<span class="tg-option-hanzi" style="font-size:1.15rem">${escHtml(w.pinyin || '?')}</span>`;
     } else if (format === 'terjemahan') {
       inner = `<span class="tg-option-hanzi" style="font-size:1rem">${escHtml(gameWordMeaning(w))}</span>`;
+    } else if (format === 'afiks') {
+      // Opsi Ya/Bukan -- w = {pilihan, label}, bukan objek kata.
+      inner = `<span class="tg-option-hanzi" style="font-size:1rem">${escHtml(w.label)}</span>`;
     } else if (format === 'pola') {
       // Opsi kategori pola -- w = {pola, label}, bukan objek kata.
       inner = `<span class="tg-option-hanzi" style="font-size:1rem">${escHtml(w.pola)}</span><span class="tg-option-pinyin">${escHtml(w.label)}</span>`;
@@ -568,6 +647,28 @@ function renderToneGameQuestion() {
     renderGameOptions(options, 'pola');
     return; // beda dari mode lain: skip qFormat/aFormat generik di bawah
 
+  } else if (tg.mode === 'afiks') {
+    const q = tg.afiksQuestions[tg.order[tg.idx]];
+    const options = [
+      { pilihan: 'ya',    label: 'Ya, imbuhan' },
+      { pilihan: 'bukan', label: 'Bukan imbuhan' },
+    ];
+    const correctOption = options.find(o => o.pilihan === (q.benar ? 'ya' : 'bukan'));
+
+    // SRS tracking mengikuti kata yang diuji (objek kata asli bila ada).
+    const promptWordObj = q.wordObj || { simplified: q.word, id: q.word, pinyin: q.pinyin };
+
+    tg.current  = { question: q, promptWord: promptWordObj, correct: correctOption, options };
+    tg.answered = false;
+
+    $('tg-feedback').innerHTML = '';
+    $('tg-next-btn').classList.add('hidden');
+    $('tg-progress').textContent = `Soal ${tg.idx + 1} / ${tg.order.length}`;
+
+    renderAfiksPrompt(q);
+    renderGameOptions(options, 'afiks');
+    return; // skip qFormat/aFormat generik di bawah
+
   } else {
     // generic
     correct    = tg.pool[tg.order[tg.idx]];
@@ -646,6 +747,16 @@ function answerGame(idx) {
     $('tg-feedback').innerHTML = isCorrect
       ? `<span class="tg-feedback-ok">✓ Benar! ${escHtml(q.correctWord)} (${escHtml(q.correctPinyin)}) — "${escHtml(q.translation)}"</span>`
       : `<span class="tg-feedback-bad">✗ Salah. Jawaban benar: ${escHtml(q.correctWord)} (${escHtml(q.correctPinyin)}) — "${escHtml(q.translation)}"</span>`;
+  } else if (tg.mode === 'afiks') {
+    // Umpan balik: arti kata + penjelasan (alasan untuk "bukan", arti imbuhan untuk "ya").
+    const q = tg.current.question;
+    const kata = `${escHtml(q.word)}${q.pinyin ? ' (' + escHtml(q.pinyin) + ')' : ''}${q.meaning ? ' — ' + escHtml(q.meaning) : ''}`;
+    const jelas = q.benar
+      ? `${escHtml(q.afiks)} di sini adalah ${q.posisi === 'awalan' ? 'awalan' : 'akhiran'}: “${escHtml(q.arti)}” (${escHtml(q.kelompok)}).`
+      : `Bukan imbuhan: ${escHtml(q.alasan)}`;
+    $('tg-feedback').innerHTML = isCorrect
+      ? `<span class="tg-feedback-ok">✓ Benar! ${kata}<br>${jelas}</span>`
+      : `<span class="tg-feedback-bad">✗ Salah. ${kata}<br>${jelas}</span>`;
   } else if (tg.mode === 'pola') {
     // Feedback pakai keterangan_id spesifik kata dari kata_majemuk_pola.json,
     // BUKAN gameWordMeaning() generik -- opsi jawaban di sini objek kategori

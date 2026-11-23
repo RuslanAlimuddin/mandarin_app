@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
     checkSynonymsData();
     loadNuanceData(); // Tier 4: deck "Pilih yang Tepat", data/nuance_pairs.json
     loadPolaGameData(); // Tier 4: deck "🧩 Tebak Pola Kata", data/kata_majemuk_pola.json
+    loadAfiksGameData(); // deck "🧱 Imbuhan (Awalan & Akhiran)", data/afiks_kamus.json
     loadConfusionData(); // E.0.3: deck "👀 Karakter Mirip", data/confusion_groups.json
     // Pastikan accordion HSK default open
     const hskBody = $('acc-hsk');
