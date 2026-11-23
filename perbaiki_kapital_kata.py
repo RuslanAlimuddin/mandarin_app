@@ -15,7 +15,9 @@ Butir 1 rencana BLUEPRINT_v47 (bagian 5). Keputusan رسلان (22 November 2026
 
   Yang diubah (berdasarkan POSISI isian, bukan bunyi pinyin):
     1) data\\app_words.json         : pinyin dan pinyin_numeric 16 kata (+ urutan arti 张扬)
-    2) data\\graded_readers.json    : pinyin di glosarium (互联网, 美德, 张扬)
+    2) data\\graded_readers.json    : pinyin di glosarium (互联网, 美德, 张扬); dan arti glosarium 张扬 di bacaan
+                                     tema_kebebasan_hsk9 (keputusan 23 November 2026): "Zhang Yang (1967-), sutradara
+                                     dan penulis skenario film RRT" -> "memamerkan secara mencolok" (kata kerja di teks)
     3) data\\produktif_karakter.json: pinyin di daftar kata turunan (24 isian)
     4) data\\nuance_pairs.json      : pinyin 和平 dan "Hépíng" di tengah kalimat contoh -> "hépíng"
   Hanya DILAPORKAN (tidak diubah): data\\tone_drills.json -- berkas ini dihasilkan dari kamus; setelah skrip ini,
@@ -61,6 +63,8 @@ KATA = {
 }
 # kata -> awal arti yang dipindah ke urutan terakhir (di meanings_id dan meanings_en)
 PINDAH_ARTI = {"张扬": "Zhang Yang (1967-)"}
+# arti glosarium bacaan yang keliru: kata -> (arti lama persis, arti baru)
+ARTI_GLOSARIUM = {"张扬": ("Zhang Yang (1967-), sutradara dan penulis skenario film RRT", "memamerkan secara mencolok")}
 
 
 def baru(lama):
@@ -154,6 +158,15 @@ def susun(data):
         for gi, gl in enumerate(p.get("glossary", [])):
             if gl.get("cn") in KATA:
                 r.isian("bacaan", bacaan, ("passages", pi, "glossary", gi, "py"), gl["cn"], "bacaan %s" % p["id"])
+            if gl.get("cn") in ARTI_GLOSARIUM:
+                arti_lama, arti_baru = ARTI_GLOSARIUM[gl["cn"]]
+                if gl.get("id") == arti_lama:
+                    r.tambah("bacaan", ("passages", pi, "glossary", gi, "id"), arti_lama, arti_baru,
+                             "%s | arti glosarium bacaan %s" % (gl["cn"], p["id"]))
+                elif gl.get("id") == arti_baru:
+                    r.sudah += 1
+                else:
+                    r.laporan.append("bacaan %s: arti glosarium %s berbeda dari yang diperkirakan (%r); dibiarkan" % (p["id"], gl["cn"], gl.get("id")))
 
     # 3) kata turunan produktif
     for ch, v in produktif.items():
@@ -243,11 +256,11 @@ def main():
     if TONE.exists():
         mentah = TONE.read_text(encoding="utf-8")
         tone_n = sum(mentah.count('"%s"' % KATA[hz]) for hz in KATA)
-    print("\nPinyin lama di data\\tone_drills.json (HANYA dilaporkan): %d isian -> setelah ini jalankan segarkan_tone_drills.py" % tone_n)
+    print("\nPinyin lama di data\\tone_drills.json (HANYA dilaporkan): %d isian%s" % (tone_n, " -> setelah ini jalankan segarkan_tone_drills.py" if tone_n else ""))
 
     # temuan tambahan (dilaporkan)
     temuan = []
-    for p in data["bacaan"]["passages"]:
+    for p in sim["bacaan"]["passages"]:
         for gl in p.get("glossary", []):
             if gl.get("cn") in PINDAH_ARTI and gl.get("id", "").startswith(PINDAH_ARTI[gl["cn"]]):
                 temuan.append("Bacaan %s: glosarium memberi %s arti \"%s...\", padahal teksnya memakai %s sebagai kata kerja. TIDAK diubah; perlu keputusan." % (p["id"], gl["cn"], gl["id"][:30], gl["cn"]))
@@ -307,7 +320,8 @@ def main():
     print("\nSelesai: %d isian diperbaiki." % len(r.item))
     print("Cadangan: " + ", ".join(c.name for c in cadangan.values()))
     print("Pemeriksaan akhir lolos (hanya isian yang direncanakan berubah; %d kata kamus utuh)." % len(asli["app"]))
-    print("Langkah berikutnya: python segarkan_tone_drills.py  (lihat dulu), lalu  python segarkan_tone_drills.py --apply")
+    if any(x[0] in ("app", "produktif", "nuance") for x in r.item):
+        print("Langkah berikutnya: python segarkan_tone_drills.py  (lihat dulu), lalu  python segarkan_tone_drills.py --apply")
     return 0
 
 
