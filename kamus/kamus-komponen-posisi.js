@@ -36,6 +36,17 @@
     card.appendChild(b);
   }
 
+  /* induk -> daftar varian. Induk harus punya tombol: data lengkap ATAU bagian "Lainnya" (mis. 竹 攴 网).
+     Dibuat ulang setelah ensureLegacy('radical') menambahkan tombol bagian "Lainnya". */
+  function buildVrev() {
+    VREV = {};
+    if (!IDX) return;
+    Object.keys(VAR).forEach(function (k) {
+      var ind = VAR[k].induk;
+      if (ind && IDX.radikal[ind] && IDX.radikal[ind].kecil !== undefined) (VREV[ind] = VREV[ind] || []).push(k);
+    });
+  }
+
   function loadIdx() {
     if (IDX) return Promise.resolve(IDX);
     var vp = fetch('data/radikal_varian.json').then(function (r) { return r.ok ? r.json() : { varian: {} }; })
@@ -47,20 +58,17 @@
       IDX = j;
       return vp.then(function (v) {
         VAR = (v && v.varian) || {};
-        VREV = {};
-        Object.keys(VAR).forEach(function (k) { /* induk -> daftar varian (hanya induk yang punya data posisi) */
-          var ind = VAR[k].induk;
-          if (ind && IDX.radikal[ind] && IDX.radikal[ind].kecil !== undefined) (VREV[ind] = VREV[ind] || []).push(k);
-        });
+        buildVrev();
         return j;
       });
     });
   }
 
-  /* induk yang tombolnya ada di daftar dengan data posisi lengkap (bukan bagian "Lainnya") */
+  /* induk yang tombolnya ada di daftar Pilih Radikal (data lengkap atau bagian "Lainnya") */
   function indukAda(k) {
     var v = VAR[k], ind = v && v.induk;
-    return (ind && IDX.radikal[ind] && !IDX.radikal[ind].leg) ? ind : '';
+    ensureLegacy('radical');
+    return (ind && IDX.radikal[ind]) ? ind : '';
   }
 
   function buildMaps() {
@@ -98,6 +106,7 @@
       if (src[k]) return;
       src[k] = { kecil: 0, leg: 1, posisi: {}, label: '', lg: w[k].filter(function (i) { return String(i).length === 1; }) };
     });
+    if (type === 'radical') buildVrev();
   }
 
   /* ── daftar komponen / radikal di panel ── */
@@ -255,6 +264,7 @@
   /* keterangan varian radikal di atas tombol filter (hanya menu Per Radikal) */
   function varNote(bar) {
     if (S.t !== 'radical') return;
+    ensureLegacy('radical');
     var v = VAR[S.k], rev = VREV[S.k], row = null;
     function mk() {
       row = document.createElement('div');
