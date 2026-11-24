@@ -52,16 +52,20 @@ const FC = {
   // contoh = imbuhan sungguhan, daftar "bukan" = kata yang tampak mirip tetapi
   // bukan imbuhan itu). Lazy-load sekali via loadAfiksGameData() di bawah.
   afiksEntries: null,
+  // Pengecoh soal "Pilih imbuhan yang tepat" -- data/afiks_pengecoh.json, dibuat oleh
+  // buat_pengecoh_imbuhan.py (pengecoh dijamin TIDAK membentuk kata sah menurut kamus).
+  afiksPengecoh: null,
 
   toneGame: {
     active:  false,
-    mode:    'tonepairs', // 'tonepairs' | 'generic' | 'antonym' | 'synonym' | 'nuance' | 'pola' | 'afiks'
+    mode:    'tonepairs', // 'tonepairs' | 'generic' | 'antonym' | 'synonym' | 'nuance' | 'pola' | 'afiks' | 'afiksPilih'
     groups:  [],    // dipakai kalau mode tonepairs
     pool:    [],    // dipakai kalau mode generic
     pairs:   [],    // dipakai kalau mode antonym/synonym -- array {word, antonym} atau {word, synonym} (keduanya objek kata utuh)
     nuanceQuestions: [], // dipakai kalau mode nuance -- array soal kalimat-rumpang, lihat buildNuanceQuestions() di flashcard-games.js
     polaQuestions: [], // dipakai kalau mode pola -- array soal tebak-kategori, lihat buildPolaQuestions() di flashcard-games.js
     afiksQuestions: [], // dipakai kalau mode afiks -- array soal "imbuhan atau bukan?", lihat buildAfiksQuestions() di flashcard-games.js
+    afiksPilihQuestions: [], // dipakai kalau mode afiksPilih -- soal "pilih imbuhan yang tepat", lihat buildAfiksPilihQuestions()
     order:   [],
     idx:     0,
     current: null,  // { promptWord, correct, options }
@@ -367,6 +371,34 @@ function selectDeck(deckId, deckName) {
 
     if (!questions.length) {
       showToast('Data imbuhan belum tersedia utk dijadikan soal.', 'info');
+      $('btn-start-session').classList.add('hidden');
+      return;
+    }
+
+    const btn = $('btn-start-session');
+    btn.textContent = `🧱 Mulai Game (${questions.length} soal)`;
+    btn.classList.remove('hidden');
+    showToast(`${deckName}: ${questions.length} soal siap`);
+    ensureAccordionVisible(deckId);
+    saveFlashcardLastState();
+    return;
+  }
+
+  // "🧱 Pilih Imbuhan yang Tepat" -- soal isi-bagian-kosong: "记 + ＿" = "wartawan",
+  // pilih 者/家/员/师. Data: data/afiks_kamus.json + data/afiks_pengecoh.json.
+  // Tiap putaran disebar merata ke banyak imbuhan yang berbeda.
+  if (deckId === 'afiks-pilih') {
+    const questions = buildAfiksPilihQuestions(FC.afiksEntries || [], FC.afiksPengecoh || [], FC.sessionCardLimit || 20);
+    FC.toneGame.afiksPilihQuestions = questions;
+
+    $('ctrl-antonym-fmt-row-q').classList.add('hidden');
+    $('ctrl-antonym-fmt-row-a').classList.add('hidden');
+    $('ctrl-synonym-fmt-row-q').classList.add('hidden');
+    $('ctrl-synonym-fmt-row-a').classList.add('hidden');
+    $('ctrl-confusion-fmt-row-q').classList.add('hidden');
+
+    if (!questions.length) {
+      showToast('Data pengecoh imbuhan belum tersedia (data/afiks_pengecoh.json).', 'info');
       $('btn-start-session').classList.add('hidden');
       return;
     }
@@ -1353,4 +1385,15 @@ async function loadAfiksGameData() {
   const count = pools.ya.length + pools.bukan.length;
   const el = $('due-afiks');
   if (el) el.textContent = count > 0 ? count : '—';
+
+  // Pengecoh utk deck "Pilih Imbuhan yang Tepat" (berkas terpisah; boleh belum ada).
+  try {
+    const res2 = await fetch('data/afiks_pengecoh.json');
+    FC.afiksPengecoh = res2.ok ? ((await res2.json()).soal || []) : [];
+  } catch (e) {
+    console.warn('data/afiks_pengecoh.json tidak tersedia:', e);
+    FC.afiksPengecoh = [];
+  }
+  const el2 = $('due-afiks-pilih');
+  if (el2) el2.textContent = FC.afiksPengecoh.length > 0 ? FC.afiksPengecoh.length : '—';
 }

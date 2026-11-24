@@ -165,6 +165,16 @@ function startAudioGame(mode) {
     }
     tg.order = shuffle([...Array(tg.afiksQuestions.length).keys()]);
 
+  } else if (mode === 'afiksPilih') {
+    tg.afiksPilihQuestions = (tg.afiksPilihQuestions && tg.afiksPilihQuestions.length)
+      ? tg.afiksPilihQuestions
+      : buildAfiksPilihQuestions(FC.afiksEntries || [], FC.afiksPengecoh || [], FC.sessionCardLimit || 20);
+    if (!tg.afiksPilihQuestions.length) {
+      showToast('Belum ada soal "pilih imbuhan" yang bisa dimainkan.', 'info');
+      return;
+    }
+    tg.order = shuffle([...Array(tg.afiksPilihQuestions.length).keys()]);
+
   } else if (mode === 'confusion') {
     // (E.0.3) Karakter Mirip -- pakai tg.confusionGroups yg sudah
     // dipotong sessionCardLimit di selectDeck() (pola sama spt tonepairs,
@@ -333,6 +343,28 @@ function buildPolaQuestions(entries) {
    akhiran yang berarti ...?" -> Ya / Bukan. Arti kata TIDAK ditampilkan di
    soal (hanya di umpan balik) supaya yang diuji benar-benar pengenalan
    fungsi imbuhannya. Tanpa tombol audio (soal berbasis tulisan). */
+/* Arti kata dari kamus kadang memuat sisa format sumber (CC-CEDICT), mis.
+   "(singkatan dari 初級中學|初级中学[chu1 ji2 zhong1 xue2])" atau "KP:...", dan
+   kadang arti pertamanya nama tempat/orang. Untuk soal imbuhan sisa itu dibuang
+   dan arti umum yang dipakai, agar yang tampil hanya artinya. */
+function afiksArtiBersih(w) {
+  let t = gameWordMeaning(w) || '';
+  // Bila arti pertama berupa nama diri (mis. 郊区 -> "Distrik Jiao ..."), pakai arti umum pertama.
+  const ms = (w.meanings_id || []).filter(Boolean);
+  if (ms.length && /^[A-Z]/.test(ms[0])) {
+    const alt = ms.find(m => !/^[A-Z]/.test(m));
+    if (alt) t = alt;
+  }
+  t = t.replace(/\s*\([^()]*[|\[][^()]*\)/g, '')
+       .replace(/\s*KP:.*$/, '')
+       .replace(/\s*\S*\|\S*\[[^\]]*\]/g, '')
+       .replace(/\[[^\]]*\]/g, '')
+       .replace(/\s+/g, ' ')
+       .trim()
+       .replace(/[;,]\s*$/, '');
+  return t;
+}
+
 function buildAfiksPools(entries) {
   const ya = [], bukan = [];
   if (!Array.isArray(entries)) return { ya, bukan };
@@ -373,9 +405,86 @@ function buildAfiksQuestions(entries, limit) {
     return Object.assign({}, q, {
       pinyin:  wordObj ? (wordObj.pinyin || '') : '',
       wordObj: wordObj,
-      meaning: wordObj ? gameWordMeaning(wordObj) : '',
+      meaning: wordObj ? afiksArtiBersih(wordObj) : '',
     });
   });
+}
+
+/* ── Soal "🧱 Pilih Imbuhan yang Tepat": "记 + ＿" = "wartawan" -> pilih 者/家/员/师.
+   Sumber: tiap kata contoh di afiks_kamus.json; pengecoh dari afiks_pengecoh.json
+   (imbuhan yang bila dipasang TIDAK membentuk kata sah menurut kamus). Satu putaran
+   disebar merata: paling banyak satu soal per imbuhan sebelum imbuhan yang sama
+   muncul lagi. Pilihan hanya hanzi + pinyin imbuhan (tanpa arti) agar benar-benar
+   menguji pengenalan fungsi imbuhan. */
+function buildAfiksPilihQuestions(entries, pengecoh, limit) {
+  if (!Array.isArray(entries) || !Array.isArray(pengecoh) || !pengecoh.length) return [];
+  if (!FC.wordBySimplified && Array.isArray(FC.allWords)) {
+    FC.wordBySimplified = {};
+    FC.allWords.forEach(w => { FC.wordBySimplified[w.simplified] = w; });
+  }
+  const info = {};
+  entries.forEach(e => { if (e && e.karakter) info[e.karakter] = e; });
+
+  const pool = [];
+  pengecoh.forEach(p => {
+    const e = info[p.afiks];
+    if (!e) return;
+    const bagian = (e.bagian || []).find(b => (b.contoh || []).some(c => c.kata === p.kata));
+    if (!bagian) return;
+    const dasar = e.posisi === 'awalan' ? p.kata.slice(p.afiks.length) : p.kata.slice(0, p.kata.length - p.afiks.length);
+    if (!dasar) return;
+    const wordObj = (FC.wordBySimplified && FC.wordBySimplified[p.kata]) || null;
+    pool.push({
+      word: p.kata, afiks: p.afiks, posisi: e.posisi, dasar,
+      arti: bagian.arti || e.arti_dasar || '', kelompok: e.kelompok_nama || '',
+      sama: p.sama || [], lain: p.lain || [],
+      wordObj,
+      pinyin:  wordObj ? (wordObj.pinyin || '') : '',
+      meaning: wordObj ? afiksArtiBersih(wordObj) : '',
+    });
+  });
+  if (!pool.length) return [];
+
+  // Sebar merata: kelompokkan per imbuhan, ambil bergiliran.
+  const perAfiks = {};
+  shuffle(pool.slice()).forEach(q => { (perAfiks[q.afiks] = perAfiks[q.afiks] || []).push(q); });
+  const keys  = shuffle(Object.keys(perAfiks));
+  const total = Math.max(2, limit || 20);
+  const out   = [];
+  for (let r = 0; out.length < total; r++) {
+    let ada = false;
+    for (const k of keys) {
+      if (perAfiks[k][r]) { out.push(perAfiks[k][r]); ada = true; if (out.length >= total) break; }
+    }
+    if (!ada) break;
+  }
+  return shuffle(out);
+}
+
+/* Susun 4 pilihan utk satu soal: 1 benar + 3 pengecoh (utamakan sekelompok). */
+function buildAfiksPilihOptions(q) {
+  const info = {};
+  (FC.afiksEntries || []).forEach(e => { if (e && e.karakter) info[e.karakter] = e; });
+  const pyOf = ch => (info[ch] && info[ch].pinyin) || '';
+  let pilih = shuffle(q.sama.slice()).slice(0, 3);
+  if (pilih.length < 3) pilih = pilih.concat(shuffle(q.lain.slice()).slice(0, 3 - pilih.length));
+  const benar = { afiks: q.afiks, pinyin: pyOf(q.afiks) };
+  const options = shuffle([benar].concat(pilih.map(ch => ({ afiks: ch, pinyin: pyOf(ch) }))));
+  return { options, correct: benar };
+}
+
+function renderAfiksPilihPrompt(q) {
+  const area = $('tg-prompt-area');
+  const kosong = '<span class="tg-prompt-blank">&nbsp;&nbsp;&nbsp;</span>';
+  const token = q.posisi === 'awalan'
+    ? `${kosong} ＋ ${escHtml(q.dasar)}`
+    : `${escHtml(q.dasar)} ＋ ${kosong}`;
+  const posLabel = q.posisi === 'awalan' ? 'awalan (di depan kata)' : 'akhiran (di belakang kata)';
+  area.innerHTML = `
+    <div class="tg-prompt-token">${token}</div>
+    <div class="tg-prompt-pinyin">arti kata: ${escHtml(q.meaning || q.arti)}</div>
+    <div class="tg-prompt-sentence-hint">Pilih ${posLabel} yang melengkapi kata ini.</div>
+  `;
 }
 
 function renderAfiksPrompt(q) {
@@ -491,6 +600,9 @@ function renderGameOptions(options, format) {
       inner = `<span class="tg-option-hanzi" style="font-size:1.15rem">${escHtml(w.pinyin || '?')}</span>`;
     } else if (format === 'terjemahan') {
       inner = `<span class="tg-option-hanzi" style="font-size:1rem">${escHtml(gameWordMeaning(w))}</span>`;
+    } else if (format === 'afiksPilih') {
+      // Opsi imbuhan -- w = {afiks, pinyin}, bukan objek kata.
+      inner = `<span class="tg-option-hanzi">${escHtml(w.afiks)}</span><span class="tg-option-pinyin">${escHtml(w.pinyin || '')}</span>`;
     } else if (format === 'afiks') {
       // Opsi Ya/Bukan -- w = {pilihan, label}, bukan objek kata.
       inner = `<span class="tg-option-hanzi" style="font-size:1rem">${escHtml(w.label)}</span>`;
@@ -669,6 +781,22 @@ function renderToneGameQuestion() {
     renderGameOptions(options, 'afiks');
     return; // skip qFormat/aFormat generik di bawah
 
+  } else if (tg.mode === 'afiksPilih') {
+    const q = tg.afiksPilihQuestions[tg.order[tg.idx]];
+    const built = buildAfiksPilihOptions(q);
+    const promptWordObj = q.wordObj || { simplified: q.word, id: q.word, pinyin: q.pinyin };
+
+    tg.current  = { question: q, promptWord: promptWordObj, correct: built.correct, options: built.options };
+    tg.answered = false;
+
+    $('tg-feedback').innerHTML = '';
+    $('tg-next-btn').classList.add('hidden');
+    $('tg-progress').textContent = `Soal ${tg.idx + 1} / ${tg.order.length}`;
+
+    renderAfiksPilihPrompt(q);
+    renderGameOptions(built.options, 'afiksPilih');
+    return; // skip qFormat/aFormat generik di bawah
+
   } else {
     // generic
     correct    = tg.pool[tg.order[tg.idx]];
@@ -747,6 +875,16 @@ function answerGame(idx) {
     $('tg-feedback').innerHTML = isCorrect
       ? `<span class="tg-feedback-ok">✓ Benar! ${escHtml(q.correctWord)} (${escHtml(q.correctPinyin)}) — "${escHtml(q.translation)}"</span>`
       : `<span class="tg-feedback-bad">✗ Salah. Jawaban benar: ${escHtml(q.correctWord)} (${escHtml(q.correctPinyin)}) — "${escHtml(q.translation)}"</span>`;
+  } else if (tg.mode === 'afiksPilih') {
+    // Umpan balik: kata utuh + arti + fungsi imbuhan; bila salah, sebut pilihan yang tidak membentuk kata.
+    const q = tg.current.question;
+    const kata = `${escHtml(q.word)}${q.pinyin ? ' (' + escHtml(q.pinyin) + ')' : ''}${q.meaning ? ' — ' + escHtml(q.meaning) : ''}`;
+    const jelas = `${escHtml(q.afiks)} adalah ${q.posisi === 'awalan' ? 'awalan' : 'akhiran'}: “${escHtml(q.arti)}” (${escHtml(q.kelompok)}).`;
+    const gabung = q.posisi === 'awalan' ? picked.afiks + q.dasar : q.dasar + picked.afiks;
+    const salah = isCorrect ? '' : `<br>${escHtml(gabung)} tidak ada di kamus.`;
+    $('tg-feedback').innerHTML = isCorrect
+      ? `<span class="tg-feedback-ok">✓ Benar! ${kata}<br>${jelas}</span>`
+      : `<span class="tg-feedback-bad">✗ Salah. Jawaban benar: ${escHtml(q.afiks)}. ${kata}<br>${jelas}${salah}</span>`;
   } else if (tg.mode === 'afiks') {
     // Umpan balik: arti kata + penjelasan (alasan untuk "bukan", arti imbuhan untuk "ya").
     const q = tg.current.question;

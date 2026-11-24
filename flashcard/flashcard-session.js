@@ -52,6 +52,12 @@ function startSession() {
     return;
   }
 
+  // "🧱 Pilih Imbuhan yang Tepat" -- selalu game isi bagian kosong.
+  if (FC.deckId === 'afiks-pilih') {
+    startAudioGame('afiksPilih');
+    return;
+  }
+
   if (!FC.queue.length) return;
 
   if (FC.gameModeOn) {
