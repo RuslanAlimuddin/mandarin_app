@@ -1,0 +1,278 @@
+[
+  {
+    "afiks": "型",
+    "kata": "类型",
+    "golongan": "imbuhan",
+    "alasan": "类型 berarti “tipe atau jenis”; 型 menyatakan tipe atau kategori tertentu."
+  },
+  {
+    "afiks": "型",
+    "kata": "轻型",
+    "golongan": "imbuhan",
+    "alasan": "轻型 berarti “tipe ringan”; 型 menyatakan model berdasarkan ukuran atau bobot yang ringan."
+  },
+  {
+    "afiks": "型",
+    "kata": "重型",
+    "golongan": "imbuhan",
+    "alasan": "重型 berarti “tipe berat”; 型 menyatakan model berdasarkan ukuran atau bobot yang berat."
+  },
+  {
+    "afiks": "型",
+    "kata": "成型",
+    "golongan": "bukan",
+    "alasan": "成型 berarti “menjadi berbentuk atau terbentuk”; 型 menjadi bagian dari kata kerja yang menyatakan proses pembentukan, bukan tipe atau model."
+  },
+  {
+    "afiks": "型",
+    "kata": "转型",
+    "golongan": "bukan",
+    "alasan": "转型 berarti “bertransisi atau mengalami perubahan mendasar”; 型 menjadi bagian dari kata kerja perubahan bentuk, bukan penanda tipe atau model."
+  },
+  {
+    "afiks": "型",
+    "kata": "车型",
+    "golongan": "imbuhan",
+    "alasan": "车型 berarti “model kendaraan”; 型 menyatakan tipe atau model kendaraan."
+  },
+  {
+    "afiks": "型",
+    "kata": "微型",
+    "golongan": "imbuhan",
+    "alasan": "微型 berarti “tipe mini atau sangat kecil”; 型 menyatakan model berdasarkan ukuran yang kecil."
+  },
+  {
+    "afiks": "型",
+    "kata": "典型",
+    "golongan": "bukan",
+    "alasan": "典型 berarti “tipikal atau menjadi contoh khas”; 型 menjadi bagian kata yang bermakna ciri khas, bukan akhiran penamaan tipe atau model."
+  },
+  {
+    "afiks": "型",
+    "kata": "原型",
+    "golongan": "imbuhan",
+    "alasan": "原型 berarti “model asli atau prototipe”; 型 menyatakan model dasar yang menjadi acuan."
+  },
+  {
+    "afiks": "型",
+    "kata": "模型",
+    "golongan": "imbuhan",
+    "alasan": "模型 berarti “model atau cetakan”; 型 menyatakan bentuk model yang mewakili sesuatu."
+  },
+  {
+    "afiks": "型",
+    "kata": "造型",
+    "golongan": "bukan",
+    "alasan": "造型 berarti “membentuk atau menata penampilan”; 型 menjadi bagian dari kata kerja atau kata benda tentang pembentukan rupa, bukan penanda tipe atau model."
+  },
+  {
+    "afiks": "型",
+    "kata": "中型",
+    "golongan": "imbuhan",
+    "alasan": "中型 berarti “tipe ukuran sedang”; 型 menyatakan model berdasarkan ukuran menengah."
+  },
+  {
+    "afiks": "型",
+    "kata": "巨型",
+    "golongan": "imbuhan",
+    "alasan": "巨型 berarti “tipe raksasa”; 型 menyatakan model berdasarkan ukuran yang sangat besar."
+  },
+  {
+    "afiks": "式",
+    "kata": "款式",
+    "golongan": "imbuhan",
+    "alasan": "款式 berarti “pola atau gaya”; 式 menyatakan gaya atau model tertentu."
+  },
+  {
+    "afiks": "式",
+    "kata": "形式",
+    "golongan": "imbuhan",
+    "alasan": "形式 berarti “bentuk atau penampilan luar”; 式 menyatakan bentuk atau cara sesuatu ditampilkan."
+  },
+  {
+    "afiks": "式",
+    "kata": "样式",
+    "golongan": "imbuhan",
+    "alasan": "样式 berarti “tipe atau gaya”; 式 menyatakan gaya atau model tertentu."
+  },
+  {
+    "afiks": "式",
+    "kata": "美式",
+    "golongan": "imbuhan",
+    "alasan": "美式 berarti “gaya Amerika”; 式 menyatakan gaya atau model yang berasal dari Amerika."
+  },
+  {
+    "afiks": "式",
+    "kata": "格式",
+    "golongan": "imbuhan",
+    "alasan": "格式 berarti “bentuk atau spesifikasi”; 式 menyatakan pola atau format tertentu."
+  },
+  {
+    "afiks": "式",
+    "kata": "开幕式",
+    "golongan": "imbuhan",
+    "alasan": "开幕式 berarti “upacara pembukaan”; 式 menyatakan bentuk acara atau upacara tertentu."
+  },
+  {
+    "afiks": "式",
+    "kata": "模式",
+    "golongan": "imbuhan",
+    "alasan": "模式 berarti “mode, pola, atau model”; 式 menyatakan bentuk atau pola tertentu."
+  },
+  {
+    "afiks": "式",
+    "kata": "宗教仪式",
+    "golongan": "imbuhan",
+    "alasan": "宗教仪式 berarti “upacara keagamaan”; 式 menyatakan bentuk atau tata cara upacara tertentu."
+  },
+  {
+    "afiks": "式",
+    "kata": "闭幕式",
+    "golongan": "imbuhan",
+    "alasan": "闭幕式 berarti “upacara penutupan”; 式 menyatakan bentuk acara atau upacara tertentu."
+  },
+  {
+    "afiks": "式",
+    "kata": "新式",
+    "golongan": "imbuhan",
+    "alasan": "新式 berarti “gaya baru atau jenis terbaru”; 式 menyatakan gaya atau model tertentu."
+  },
+  {
+    "afiks": "类",
+    "kata": "诸如此类",
+    "golongan": "imbuhan",
+    "alasan": "诸如此类 berarti “hal-hal seperti ini dan seterusnya”; 类 menyatakan jenis atau kelompok hal yang serupa."
+  },
+  {
+    "afiks": "类",
+    "kata": "同类",
+    "golongan": "imbuhan",
+    "alasan": "同类 berarti “jenis atau kelompok yang sama”; 类 menyatakan golongan atau jenis sesuatu."
+  },
+  {
+    "afiks": "学",
+    "kata": "大学",
+    "golongan": "bukan",
+    "alasan": "大学 berarti “universitas atau akademi”; 学 menjadi bagian dari kata yang menunjuk lembaga pendidikan, bukan nama bidang ilmu."
+  },
+  {
+    "afiks": "学",
+    "kata": "好学",
+    "golongan": "bukan",
+    "alasan": "好学 berarti “rajin atau bersemangat belajar”; 学 bermakna belajar dalam kata sifat ini, bukan akhiran nama bidang ilmu."
+  },
+  {
+    "afiks": "学",
+    "kata": "中学",
+    "golongan": "bukan",
+    "alasan": "中学 berarti “sekolah menengah”; 学 menjadi bagian nama jenjang atau lembaga pendidikan, bukan nama bidang ilmu."
+  },
+  {
+    "afiks": "学",
+    "kata": "儒学",
+    "golongan": "imbuhan",
+    "alasan": "儒学 berarti “Konfusianisme”; 学 membentuk nama bidang kajian atau cabang pengetahuan tentang ajaran Konfusius."
+  },
+  {
+    "afiks": "学",
+    "kata": "开学",
+    "golongan": "bukan",
+    "alasan": "开学 berarti “sekolah atau semester dimulai”; 学 menjadi bagian ungkapan tentang kegiatan sekolah, bukan nama bidang ilmu."
+  },
+  {
+    "afiks": "学",
+    "kata": "治学",
+    "golongan": "bukan",
+    "alasan": "治学 berarti “menekuni studi atau kesarjanaan”; 学 menjadi bagian kata tentang kegiatan belajar dan penelitian, bukan nama bidang ilmu tertentu."
+  },
+  {
+    "afiks": "学",
+    "kata": "转学",
+    "golongan": "bukan",
+    "alasan": "转学 berarti “pindah sekolah”; 学 menjadi bagian kata tentang perpindahan lembaga pendidikan, bukan nama bidang ilmu."
+  },
+  {
+    "afiks": "学",
+    "kata": "留学",
+    "golongan": "bukan",
+    "alasan": "留学 berarti “belajar di luar negeri”; 学 bermakna kegiatan belajar, bukan akhiran nama bidang ilmu."
+  },
+  {
+    "afiks": "学",
+    "kata": "小学",
+    "golongan": "bukan",
+    "alasan": "小学 berarti “sekolah dasar”; 学 menjadi bagian nama jenjang atau lembaga pendidikan, bukan nama bidang ilmu."
+  },
+  {
+    "afiks": "学",
+    "kata": "退学",
+    "golongan": "bukan",
+    "alasan": "退学 berarti “keluar dari sekolah”; 学 menjadi bagian kata tentang kegiatan atau status sekolah, bukan nama bidang ilmu."
+  },
+  {
+    "afiks": "学",
+    "kata": "入学",
+    "golongan": "bukan",
+    "alasan": "入学 berarti “masuk sekolah atau perguruan tinggi”; 学 menjadi bagian kata tentang memasuki lembaga pendidikan, bukan nama bidang ilmu."
+  },
+  {
+    "afiks": "学",
+    "kata": "放学",
+    "golongan": "bukan",
+    "alasan": "放学 berarti “selesai sekolah pada akhir hari”; 学 menjadi bagian kata tentang kegiatan sekolah, bukan nama bidang ilmu."
+  },
+  {
+    "afiks": "学",
+    "kata": "中小学",
+    "golongan": "bukan",
+    "alasan": "中小学 berarti “sekolah menengah dan dasar”; 学 menjadi bagian nama jenjang pendidikan, bukan nama bidang ilmu."
+  },
+  {
+    "afiks": "学",
+    "kata": "同学",
+    "golongan": "bukan",
+    "alasan": "同学 berarti “teman sekolah atau belajar di sekolah yang sama”; 学 bermakna belajar atau sekolah, bukan akhiran nama bidang ilmu."
+  },
+  {
+    "afiks": "学",
+    "kata": "升学",
+    "golongan": "bukan",
+    "alasan": "升学 berarti “melanjutkan ke jenjang sekolah berikutnya”; 学 menjadi bagian kata tentang pendidikan sekolah, bukan nama bidang ilmu."
+  },
+  {
+    "afiks": "学",
+    "kata": "自学",
+    "golongan": "bukan",
+    "alasan": "自学 berarti “belajar mandiri”; 学 bermakna kegiatan belajar, bukan akhiran nama bidang ilmu."
+  },
+  {
+    "afiks": "学",
+    "kata": "办学",
+    "golongan": "bukan",
+    "alasan": "办学 berarti “menjalankan sekolah”; 学 menjadi bagian kata tentang penyelenggaraan pendidikan, bukan nama bidang ilmu."
+  },
+  {
+    "afiks": "学",
+    "kata": "讲学",
+    "golongan": "bukan",
+    "alasan": "讲学 berarti “memberikan kuliah atau mengajar ilmu”; 学 menjadi bagian kata tentang kegiatan mengajar, bukan nama bidang ilmu."
+  },
+  {
+    "afiks": "学",
+    "kata": "求学",
+    "golongan": "bukan",
+    "alasan": "求学 berarti “mengejar studi atau mencari ilmu”; 学 bermakna kegiatan belajar, bukan akhiran nama bidang ilmu."
+  },
+  {
+    "afiks": "学",
+    "kata": "上学",
+    "golongan": "bukan",
+    "alasan": "上学 berarti “pergi ke sekolah atau bersekolah”; 学 menjadi bagian kata tentang kegiatan sekolah, bukan nama bidang ilmu."
+  },
+  {
+    "afiks": "学",
+    "kata": "教学",
+    "golongan": "bukan",
+    "alasan": "教学 berarti “pengajaran atau mengajar”; 学 menjadi bagian kata tentang kegiatan belajar-mengajar, bukan nama bidang ilmu."
+  }
+]
