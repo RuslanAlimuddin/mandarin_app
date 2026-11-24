@@ -1,0 +1,326 @@
+[
+  {
+    "afiks": "感",
+    "kata": "性感",
+    "golongan": "imbuhan",
+    "alasan": "性感 berarti “daya tarik seksual”; 感 membentuk kesan atau daya tarik yang dirasakan."
+  },
+  {
+    "afiks": "感",
+    "kata": "预感",
+    "golongan": "imbuhan",
+    "alasan": "预感 berarti “firasat”; 感 menyatakan perasaan atau kesan yang muncul sebelum sesuatu terjadi."
+  },
+  {
+    "afiks": "感",
+    "kata": "反感",
+    "golongan": "imbuhan",
+    "alasan": "反感 berarti “rasa tidak suka atau jijik”; 感 menyatakan perasaan terhadap sesuatu."
+  },
+  {
+    "afiks": "感",
+    "kata": "敏感",
+    "golongan": "imbuhan",
+    "alasan": "敏感 berarti “sensitif”; 感 menyatakan kesan atau tanggapan perasaan yang mudah muncul terhadap sesuatu."
+  },
+  {
+    "afiks": "感",
+    "kata": "流感",
+    "golongan": "bukan",
+    "alasan": "流感 berarti “flu atau influenza”; 感 merupakan bagian dari nama penyakit, bukan perasaan atau kesan terhadap sesuatu."
+  },
+  {
+    "afiks": "感",
+    "kata": "观感",
+    "golongan": "imbuhan",
+    "alasan": "观感 berarti “kesan seseorang”; 感 menyatakan kesan yang dirasakan setelah mengamati sesuatu."
+  },
+  {
+    "afiks": "感",
+    "kata": "动感",
+    "golongan": "imbuhan",
+    "alasan": "动感 berarti “rasa gerakan atau kesan dinamis”; 感 menyatakan kesan gerakan yang ditimbulkan."
+  },
+  {
+    "afiks": "感",
+    "kata": "同感",
+    "golongan": "imbuhan",
+    "alasan": "同感 berarti “perasaan yang sama”; 感 menyatakan perasaan atau kesan yang juga dialami orang lain."
+  },
+  {
+    "afiks": "感",
+    "kata": "伤感",
+    "golongan": "imbuhan",
+    "alasan": "伤感 berarti “sedih atau emosional”; 感 menyatakan perasaan sedih yang dialami."
+  },
+  {
+    "afiks": "感",
+    "kata": "口感",
+    "golongan": "imbuhan",
+    "alasan": "口感 berarti “tekstur atau kesan di mulut”; 感 menyatakan kesan yang dirasakan saat makanan berada di mulut."
+  },
+  {
+    "afiks": "力",
+    "kata": "影响力",
+    "golongan": "imbuhan",
+    "alasan": "影响力 berarti “pengaruh atau dampak”; 力 menyatakan daya atau kemampuan untuk memengaruhi sesuatu."
+  },
+  {
+    "afiks": "力",
+    "kata": "有力",
+    "golongan": "bukan",
+    "alasan": "有力 berarti “kuat atau bertenaga”; 力 menjadi bagian dari kata sifat yang berarti memiliki kekuatan, bukan akhiran yang membentuk daya dari suatu kegiatan atau keadaan."
+  },
+  {
+    "afiks": "力",
+    "kata": "大力",
+    "golongan": "bukan",
+    "alasan": "大力 berarti “dengan energik atau giat”; 力 menjadi bagian dari ungkapan yang berarti mengerahkan tenaga besar, bukan akhiran pembentuk kemampuan."
+  },
+  {
+    "afiks": "力",
+    "kata": "吃力",
+    "golongan": "imbuhan",
+    "alasan": "吃力 berarti “membutuhkan upaya berat”; 力 menyatakan tenaga atau daya yang diperlukan untuk melakukan sesuatu."
+  },
+  {
+    "afiks": "力",
+    "kata": "尽力",
+    "golongan": "imbuhan",
+    "alasan": "尽力 berarti “berusaha sekuat tenaga”; 力 menyatakan tenaga atau daya yang dikerahkan dalam usaha."
+  },
+  {
+    "afiks": "力",
+    "kata": "魅力",
+    "golongan": "imbuhan",
+    "alasan": "魅力 berarti “pesona atau daya tarik”; 力 menyatakan daya yang dimiliki untuk menarik orang lain."
+  },
+  {
+    "afiks": "力",
+    "kata": "力量",
+    "golongan": "bukan",
+    "alasan": "力量 berarti “kekuatan atau daya”; 力 berada di awal kata dan menjadi bagian dari kata utuh, bukan akhiran."
+  },
+  {
+    "afiks": "力",
+    "kata": "努力",
+    "golongan": "bukan",
+    "alasan": "努力 berarti “berusaha atau bekerja keras”; 力 menjadi bagian dari kata kerja yang sudah utuh, bukan akhiran yang menyatakan kemampuan suatu kegiatan."
+  },
+  {
+    "afiks": "力",
+    "kata": "权力",
+    "golongan": "imbuhan",
+    "alasan": "权力 berarti “kekuasaan atau otoritas”; 力 menyatakan daya atau kemampuan untuk menjalankan wewenang."
+  },
+  {
+    "afiks": "力",
+    "kata": "动力",
+    "golongan": "imbuhan",
+    "alasan": "动力 berarti “daya penggerak atau motivasi”; 力 menyatakan daya yang mendorong suatu kegiatan atau gerakan."
+  },
+  {
+    "afiks": "力",
+    "kata": "巧克力",
+    "golongan": "bukan",
+    "alasan": "巧克力 berarti “cokelat”; 力 hanya bagian dari penulisan kata pinjaman, bukan imbuhan yang menyatakan tenaga atau kemampuan."
+  },
+  {
+    "afiks": "力",
+    "kata": "潜力",
+    "golongan": "imbuhan",
+    "alasan": "潜力 berarti “potensi atau kapasitas laten”; 力 menyatakan kemampuan atau daya yang masih tersimpan."
+  },
+  {
+    "afiks": "力",
+    "kata": "暴力",
+    "golongan": "imbuhan",
+    "alasan": "暴力 berarti “kekerasan atau kekuatan”; 力 menyatakan daya yang digunakan dalam tindakan keras."
+  },
+  {
+    "afiks": "力",
+    "kata": "无力",
+    "golongan": "bukan",
+    "alasan": "无力 berarti “tidak berdaya atau kurang kekuatan”; 力 menjadi bagian dari kata sifat yang menyatakan ketiadaan tenaga, bukan akhiran pembentuk kemampuan."
+  },
+  {
+    "afiks": "力",
+    "kata": "智力",
+    "golongan": "imbuhan",
+    "alasan": "智力 berarti “kecerdasan atau akal”; 力 menyatakan kemampuan atau daya berpikir."
+  },
+  {
+    "afiks": "力",
+    "kata": "势力",
+    "golongan": "imbuhan",
+    "alasan": "势力 berarti “kekuatan atau pengaruh”; 力 menyatakan daya atau kemampuan untuk memengaruhi keadaan."
+  },
+  {
+    "afiks": "力",
+    "kata": "精力",
+    "golongan": "imbuhan",
+    "alasan": "精力 berarti “energi”; 力 menyatakan tenaga atau daya yang dimiliki seseorang."
+  },
+  {
+    "afiks": "力",
+    "kata": "人力",
+    "golongan": "imbuhan",
+    "alasan": "人力 berarti “tenaga kerja”; 力 menyatakan tenaga atau kemampuan manusia untuk bekerja."
+  },
+  {
+    "afiks": "力",
+    "kata": "活力",
+    "golongan": "imbuhan",
+    "alasan": "活力 berarti “energi atau vitalitas”; 力 menyatakan daya untuk hidup dan bergerak aktif."
+  },
+  {
+    "afiks": "力",
+    "kata": "电力",
+    "golongan": "imbuhan",
+    "alasan": "电力 berarti “tenaga listrik”; 力 menyatakan daya yang dihasilkan atau disalurkan oleh listrik."
+  },
+  {
+    "afiks": "力",
+    "kata": "实力",
+    "golongan": "imbuhan",
+    "alasan": "实力 berarti “kekuatan atau kemampuan nyata”; 力 menyatakan daya atau kemampuan yang dimiliki."
+  },
+  {
+    "afiks": "力",
+    "kata": "全力",
+    "golongan": "bukan",
+    "alasan": "全力 berarti “dengan sekuat tenaga atau kekuatan penuh”; 力 menjadi bagian dari ungkapan yang berarti seluruh tenaga, bukan akhiran pembentuk kemampuan."
+  },
+  {
+    "afiks": "量",
+    "kata": "含量",
+    "golongan": "imbuhan",
+    "alasan": "含量 berarti “kandungan atau kuantitas yang terkandung”; 量 menyatakan jumlah sesuatu yang terdapat di dalam bahan."
+  },
+  {
+    "afiks": "量",
+    "kata": "容量",
+    "golongan": "imbuhan",
+    "alasan": "容量 berarti “kapasitas atau volume”; 量 menyatakan ukuran daya tampung."
+  },
+  {
+    "afiks": "量",
+    "kata": "热量",
+    "golongan": "imbuhan",
+    "alasan": "热量 berarti “kalori atau jumlah panas”; 量 menyatakan ukuran banyaknya panas."
+  },
+  {
+    "afiks": "量",
+    "kata": "尽量",
+    "golongan": "imbuhan",
+    "alasan": "尽量 berarti “sebanyak atau sejauh mungkin”; 量 menyatakan batas jumlah atau tingkat yang dapat dicapai."
+  },
+  {
+    "afiks": "量",
+    "kata": "力量",
+    "golongan": "bukan",
+    "alasan": "力量 berarti “kekuatan atau daya”; 量 menjadi bagian dari kata benda yang berarti kekuatan, bukan akhiran yang menyatakan jumlah atau ukuran sesuatu."
+  },
+  {
+    "afiks": "量",
+    "kata": "适量",
+    "golongan": "imbuhan",
+    "alasan": "适量 berarti “jumlah yang sesuai”; 量 menyatakan banyaknya sesuatu yang diukur atau dianggap tepat."
+  },
+  {
+    "afiks": "量",
+    "kata": "打量",
+    "golongan": "bukan",
+    "alasan": "打量 berarti “mengamati seseorang dari atas ke bawah”; 量 menjadi bagian dari kata kerja, bukan akhiran bermakna jumlah atau ukuran."
+  },
+  {
+    "afiks": "量",
+    "kata": "正能量",
+    "golongan": "imbuhan",
+    "alasan": "正能量 berarti “energi positif”; 量 menyatakan jumlah atau ukuran energi yang dimaksud."
+  },
+  {
+    "afiks": "量",
+    "kata": "流量",
+    "golongan": "imbuhan",
+    "alasan": "流量 berarti “tingkat aliran atau volume lalu lintas”; 量 menyatakan ukuran banyaknya sesuatu yang mengalir atau lewat."
+  },
+  {
+    "afiks": "量",
+    "kata": "衡量",
+    "golongan": "bukan",
+    "alasan": "衡量 berarti “menimbang atau memeriksa”; 量 dibaca sebagai bagian dari kata kerja, bukan akhiran yang menyatakan jumlah atau ukuran."
+  },
+  {
+    "afiks": "量",
+    "kata": "音量",
+    "golongan": "imbuhan",
+    "alasan": "音量 berarti “volume suara”; 量 menyatakan ukuran keras atau lemahnya suara."
+  },
+  {
+    "afiks": "量",
+    "kata": "工作量",
+    "golongan": "imbuhan",
+    "alasan": "工作量 berarti “beban atau volume pekerjaan”; 量 menyatakan banyaknya pekerjaan yang harus dilakukan."
+  },
+  {
+    "afiks": "量",
+    "kata": "大量",
+    "golongan": "imbuhan",
+    "alasan": "大量 berarti “jumlah besar”; 量 menyatakan banyaknya sesuatu."
+  },
+  {
+    "afiks": "量",
+    "kata": "海量",
+    "golongan": "imbuhan",
+    "alasan": "海量 berarti “volume sangat besar”; 量 menyatakan ukuran atau banyaknya sesuatu."
+  },
+  {
+    "afiks": "量",
+    "kata": "销量",
+    "golongan": "imbuhan",
+    "alasan": "销量 berarti “volume penjualan”; 量 menyatakan jumlah barang yang terjual."
+  },
+  {
+    "afiks": "量",
+    "kata": "总量",
+    "golongan": "imbuhan",
+    "alasan": "总量 berarti “jumlah keseluruhan”; 量 menyatakan total banyaknya sesuatu."
+  },
+  {
+    "afiks": "量",
+    "kata": "较量",
+    "golongan": "bukan",
+    "alasan": "较量 berarti “bersaing atau mengadu kemampuan”; 量 menjadi bagian dari kata kerja, bukan akhiran yang menyatakan jumlah atau ukuran."
+  },
+  {
+    "afiks": "量",
+    "kata": "产量",
+    "golongan": "imbuhan",
+    "alasan": "产量 berarti “hasil produksi atau output”; 量 menyatakan jumlah barang yang dihasilkan."
+  },
+  {
+    "afiks": "量",
+    "kata": "考量",
+    "golongan": "bukan",
+    "alasan": "考量 berarti “mempertimbangkan sesuatu”; 量 menjadi bagian dari kata kerja, bukan akhiran bermakna jumlah atau ukuran."
+  },
+  {
+    "afiks": "量",
+    "kata": "商量",
+    "golongan": "bukan",
+    "alasan": "商量 berarti “berkonsultasi atau membicarakan”; 量 menjadi bagian dari kata kerja, bukan akhiran yang menyatakan jumlah atau ukuran."
+  },
+  {
+    "afiks": "量",
+    "kata": "分量",
+    "golongan": "imbuhan",
+    "alasan": "分量 berarti “kuantitas atau berat”; 量 menyatakan ukuran berat atau banyaknya sesuatu."
+  },
+  {
+    "afiks": "量",
+    "kata": "少量",
+    "golongan": "imbuhan",
+    "alasan": "少量 berarti “jumlah sedikit”; 量 menyatakan banyaknya sesuatu dalam ukuran kecil."
+  }
+]
