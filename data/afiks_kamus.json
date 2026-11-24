@@ -95,6 +95,38 @@
       {
         "kata": "全家",
         "alasan": "全家 berarti “seluruh keluarga”; 家 menunjukkan keluarga, bukan nama profesi."
+      },
+      {
+        "kata": "在家",
+        "alasan": "在家 berarti “berada di rumah”; 家 berarti rumah atau tempat tinggal, bukan penanda profesi atau keahlian."
+      },
+      {
+        "kata": "搬家",
+        "alasan": "搬家 berarti “pindah rumah”; 家 berarti rumah atau tempat tinggal, bukan penanda ahli dalam suatu bidang."
+      },
+      {
+        "kata": "老家",
+        "alasan": "老家 berarti “tempat asal” atau “kampung halaman”; 家 menunjuk tempat atau rumah asal, bukan orang yang ahli dalam suatu bidang."
+      },
+      {
+        "kata": "人家",
+        "alasan": "人家 berarti “orang lain”; 家 menjadi bagian dari kata yang merujuk kepada orang lain, bukan penanda ahli dalam suatu bidang."
+      },
+      {
+        "kata": "老人家",
+        "alasan": "老人家 merupakan sebutan sopan untuk “orang tua”; 家 menjadi bagian dari ungkapan penghormatan, bukan penanda ahli dalam suatu bidang."
+      },
+      {
+        "kata": "成家",
+        "alasan": "成家 berarti “menikah dan membangun rumah tangga”; 家 berarti keluarga atau rumah tangga, bukan penanda ahli dalam suatu bidang."
+      },
+      {
+        "kata": "管家",
+        "alasan": "管家 berarti “pengurus rumah tangga”; 家 berarti rumah tangga yang diurus, bukan penanda ahli dalam suatu bidang."
+      },
+      {
+        "kata": "亲家",
+        "alasan": "亲家 berarti “orang tua besan”; 家 menunjukkan hubungan keluarga, bukan orang yang ahli atau bekerja dalam suatu bidang."
       }
     ],
     "catatan": "Pada 家庭, 家 berada di awal kata dan berarti rumah atau keluarga; ini bukan awalan pembentuk makna ahli."
@@ -135,6 +167,10 @@
       {
         "kata": "动员",
         "alasan": "动员 adalah kata kerja yang berarti mengerahkan atau menggerakkan orang; 员 tidak membentuk nama orang."
+      },
+      {
+        "kata": "裁员",
+        "alasan": "裁员 berarti “memotong staf” atau “memberhentikan karyawan”; 员 merujuk pada karyawan yang dikurangi, bukan membentuk sebutan petugas atau anggota."
       }
     ],
     "catatan": ""
@@ -235,6 +271,38 @@
       {
         "kata": "花生",
         "alasan": "花生 berarti “kacang tanah”; 生 menjadi bagian nama benda, bukan penanda orang."
+      },
+      {
+        "kata": "先生",
+        "alasan": "先生 berarti “tuan” atau “bapak” sebagai sapaan; 生 menjadi bagian dari sapaan yang sudah utuh, bukan penanda status pelajar atau peran tertentu."
+      },
+      {
+        "kata": "一生",
+        "alasan": "一生 berarti “seumur hidup”; 生 menyatakan masa hidup, bukan orang dengan status atau peran tertentu."
+      },
+      {
+        "kata": "卫生",
+        "alasan": "卫生 berarti “kebersihan” atau “sanitasi”; 生 menjadi bagian kata yang menyatakan konsep kebersihan, bukan penanda orang."
+      },
+      {
+        "kata": "诞生",
+        "alasan": "诞生 berarti “terlahir”; 生 menyatakan peristiwa kelahiran, bukan orang dengan status atau peran tertentu."
+      },
+      {
+        "kata": "再生",
+        "alasan": "再生 berarti “terlahir kembali” atau “beregenerasi”; 生 menyatakan proses hidup kembali, bukan sebutan orang."
+      },
+      {
+        "kata": "野生",
+        "alasan": "野生 berarti “liar” atau “hidup di alam”; 生 menyatakan keadaan hidup, bukan orang dengan status atau peran tertentu."
+      },
+      {
+        "kata": "逃生",
+        "alasan": "逃生 berarti “melarikan diri demi menyelamatkan nyawa”; 生 berkaitan dengan nyawa atau hidup, bukan penanda orang."
+      },
+      {
+        "kata": "亲生",
+        "alasan": "亲生 berarti “kandung” atau “biologis”; 生 menyatakan hubungan kelahiran, bukan orang dengan status atau peran tertentu."
       }
     ],
     "catatan": ""
@@ -271,7 +339,40 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "举手",
+        "alasan": "举手 berarti “mengangkat tangan”; 手 menunjuk anggota tubuh yang diangkat, bukan sebutan orang yang melakukan kegiatan."
+      },
+      {
+        "kata": "握手",
+        "alasan": "握手 berarti “berjabat tangan”; 手 menunjuk tangan yang digunakan dalam tindakan tersebut, bukan penanda orang."
+      },
+      {
+        "kata": "二手",
+        "alasan": "二手 berarti “bekas” atau “diperoleh secara tidak langsung”; 手 menjadi bagian ungkapan yang menyatakan tingkat atau jalur perolehan, bukan penanda orang."
+      },
+      {
+        "kata": "分手",
+        "alasan": "分手 berarti “berpisah” atau “putus hubungan”; 手 menjadi bagian kata kerja yang bermakna perpisahan, bukan penanda orang."
+      },
+      {
+        "kata": "随手",
+        "alasan": "随手 berarti “sambil lalu” atau “dengan mudah”; 手 menjadi bagian ungkapan yang menerangkan cara melakukan sesuatu, bukan sebutan pelaku."
+      },
+      {
+        "kata": "招手",
+        "alasan": "招手 berarti “melambai dengan tangan”; 手 menunjuk anggota tubuh yang digunakan untuk memberi isyarat, bukan sebutan pelaku."
+      },
+      {
+        "kata": "双手",
+        "alasan": "双手 berarti “kedua tangan”; 手 menunjuk anggota tubuh, bukan orang yang melakukan kegiatan atau memiliki keterampilan."
+      },
+      {
+        "kata": "动手",
+        "alasan": "动手 berarti “mulai bekerja” atau “menggunakan tangan untuk memukul”; 手 menunjuk tindakan menggunakan tangan, bukan sebutan orang."
+      }
+    ],
     "catatan": "手 pada awal 手机 dan 手套 berarti 'tangan' secara langsung, bukan awalan pembentuk kata. Contoh terpilih di entri ini memakai 手 sebagai akhiran penanda orang berketerampilan."
   },
   {
@@ -322,6 +423,34 @@
       {
         "kata": "漫长",
         "alasan": "漫长 berarti “panjang dan lama”; 长 dibaca cháng sebagai makna panjang, bukan pemimpin."
+      },
+      {
+        "kata": "生长",
+        "alasan": "生长 berarti “tumbuh” atau “bertumbuh besar”; 长 menyatakan pertumbuhan, bukan orang yang memimpin kelompok."
+      },
+      {
+        "kata": "延长",
+        "alasan": "延长 berarti “memperpanjang”; 长 menyatakan bertambah panjang, bukan jabatan pemimpin."
+      },
+      {
+        "kata": "土生土长",
+        "alasan": "土生土长 berarti “lahir dan dibesarkan di daerah setempat”; 长 menyatakan proses tumbuh besar, bukan jabatan pemimpin."
+      },
+      {
+        "kata": "全长",
+        "alasan": "全长 berarti “panjang keseluruhan”; 长 menyatakan ukuran panjang, bukan jabatan pemimpin."
+      },
+      {
+        "kata": "专长",
+        "alasan": "专长 berarti “keahlian khusus”; 长 dibaca cháng dan menyatakan kemampuan atau keunggulan, bukan pemimpin."
+      },
+      {
+        "kata": "特长",
+        "alasan": "特长 berarti “keunggulan” atau “kemampuan khusus”; 长 dibaca cháng dan menyatakan kelebihan seseorang, bukan jabatan pemimpin."
+      },
+      {
+        "kata": "修长",
+        "alasan": "修长 berarti “ramping dan jenjang”; 长 dibaca cháng dan menyatakan bentuk yang panjang, bukan pemimpin."
       }
     ],
     "catatan": "Bacaan yang dipakai di sini adalah zhǎng (pemimpin/kepala). Karakter 长 juga memiliki bacaan cháng pada makna 'panjang'; lihat daftar 'bukan'."
@@ -402,7 +531,12 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "索性",
+        "alasan": "索性 berarti “sebaiknya langsung melakukannya”; 性 merupakan bagian dari kata keterangan ini, bukan akhiran yang menyatakan sifat atau karakteristik."
+      }
+    ],
     "catatan": ""
   },
   {
@@ -437,7 +571,40 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "态度",
+        "alasan": "态度 berarti “sikap atau pendekatan”; 度 menjadi bagian dari kata yang bermakna sikap, bukan akhiran pengukur tingkat."
+      },
+      {
+        "kata": "制度",
+        "alasan": "制度 berarti “sistem atau lembaga”; 度 menjadi bagian dari kata benda tersebut, bukan penanda tingkat atau ukuran."
+      },
+      {
+        "kata": "季度",
+        "alasan": "季度 berarti “seperempat tahun”; 度 menjadi bagian dari istilah periode waktu, bukan penanda tingkat atau ukuran keadaan."
+      },
+      {
+        "kata": "风度",
+        "alasan": "风度 berarti “keanggunan atau sikap anggun”; 度 menjadi bagian dari kata yang bermakna pembawaan, bukan ukuran tingkat."
+      },
+      {
+        "kata": "年度",
+        "alasan": "年度 berarti “tahun atau tahunan”; 度 menjadi bagian dari istilah periode tahunan, bukan penanda tingkat atau ukuran keadaan."
+      },
+      {
+        "kata": "一度",
+        "alasan": "一度 berarti “sementara waktu atau pada suatu waktu”; 度 menunjukkan waktu atau kesempatan, bukan tingkat atau ukuran keadaan."
+      },
+      {
+        "kata": "调度",
+        "alasan": "调度 berarti “mengirim atau menjadwalkan”; 度 menjadi bagian dari kata kerja tersebut, bukan penanda tingkat atau ukuran."
+      },
+      {
+        "kata": "再度",
+        "alasan": "再度 berarti “sekali lagi”; 度 menjadi bagian dari kata keterangan pengulangan, bukan penanda tingkat atau ukuran."
+      }
+    ],
     "catatan": ""
   },
   {
@@ -480,6 +647,10 @@
       {
         "kata": "草率",
         "alasan": "草率 berarti “gegabah/tidak cermat”; 率 dibaca shuài, bukan akhiran bermakna rasio."
+      },
+      {
+        "kata": "表率",
+        "alasan": "表率 berarti “contoh atau model”; 率 dibaca shuài dan bermakna teladan dalam kata ini, bukan akhiran yang menyatakan rasio."
       }
     ],
     "catatan": "Bacaan yang dipakai pada contoh ini adalah lǜ (rasio/tingkat); bacaan shuài muncul pada 坦率 dan 草率."
@@ -516,7 +687,12 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "流感",
+        "alasan": "流感 berarti “flu atau influenza”; 感 merupakan bagian dari nama penyakit, bukan perasaan atau kesan terhadap sesuatu."
+      }
+    ],
     "catatan": ""
   },
   {
@@ -555,6 +731,10 @@
       {
         "kata": "力量",
         "alasan": "力量 berarti “kekuatan”; 力 membentuk kata benda utuh, bukan akhiran setelah kata yang menjelaskan kemampuan."
+      },
+      {
+        "kata": "巧克力",
+        "alasan": "巧克力 berarti “cokelat”; 力 hanya bagian dari penulisan kata pinjaman, bukan imbuhan yang menyatakan tenaga atau kemampuan."
       }
     ],
     "catatan": "Pada 力量, 力 berada di awal kata dan berarti tenaga atau kekuatan; ini bagian kata utuh, bukan awalan."
@@ -599,6 +779,22 @@
       {
         "kata": "测量",
         "alasan": "测量 berarti “mengukur”; 量 dibaca liáng sebagai kata kerja, bukan akhiran liàng bermakna ukuran."
+      },
+      {
+        "kata": "衡量",
+        "alasan": "衡量 berarti “menimbang atau memeriksa”; 量 dibaca sebagai bagian dari kata kerja, bukan akhiran yang menyatakan jumlah atau ukuran."
+      },
+      {
+        "kata": "打量",
+        "alasan": "打量 berarti “mengamati seseorang dari atas ke bawah”; 量 menjadi bagian dari kata kerja, bukan akhiran bermakna jumlah atau ukuran."
+      },
+      {
+        "kata": "较量",
+        "alasan": "较量 berarti “bersaing atau mengadu kemampuan”; 量 menjadi bagian dari kata kerja, bukan akhiran yang menyatakan jumlah atau ukuran."
+      },
+      {
+        "kata": "考量",
+        "alasan": "考量 berarti “mempertimbangkan sesuatu”; 量 menjadi bagian dari kata kerja, bukan akhiran bermakna jumlah atau ukuran."
       }
     ],
     "catatan": "Bacaan yang dipakai pada contoh akhiran ini adalah liàng (jumlah/ukuran); jangan tertukar dengan liáng pada kata kerja tertentu."
@@ -635,7 +831,40 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "合法",
+        "alasan": "合法 berarti “sah atau sesuai hukum”; 法 bermakna hukum atau aturan, bukan cara atau metode."
+      },
+      {
+        "kata": "依法",
+        "alasan": "依法 berarti “sesuai hukum”; 法 bermakna hukum yang menjadi dasar tindakan, bukan cara melakukan tindakan."
+      },
+      {
+        "kata": "违法",
+        "alasan": "违法 berarti “ilegal atau melanggar hukum”; 法 bermakna hukum yang dilanggar, bukan cara atau metode."
+      },
+      {
+        "kata": "宪法",
+        "alasan": "宪法 berarti “konstitusi negara”; 法 bermakna hukum dalam istilah hukum negara, bukan cara atau metode melakukan sesuatu."
+      },
+      {
+        "kata": "执法",
+        "alasan": "执法 berarti “menegakkan hukum”; 法 bermakna hukum yang ditegakkan, bukan metode melakukan tindakan."
+      },
+      {
+        "kata": "司法",
+        "alasan": "司法 berarti “yudisial atau administrasi keadilan”; 法 bermakna hukum dalam bidang peradilan, bukan cara melakukan sesuatu."
+      },
+      {
+        "kata": "非法",
+        "alasan": "非法 berarti “ilegal”; 法 bermakna hukum atau aturan, bukan cara atau metode."
+      },
+      {
+        "kata": "刑法",
+        "alasan": "刑法 berarti “hukum pidana”; 法 bermakna hukum, bukan metode melakukan sesuatu."
+      }
+    ],
     "catatan": "法 juga dapat berarti 'hukum' pada 合法 dan 违法; di sana ia bukan akhiran bermakna 'cara'."
   },
   {
@@ -670,7 +899,40 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "参观",
+        "alasan": "参观 berarti “mengunjungi atau melihat-lihat”; 观 menjadi bagian kata kerja berkunjung dan mengamati, bukan pandangan atau sikap."
+      },
+      {
+        "kata": "壮观",
+        "alasan": "壮观 berarti “spektakuler atau pemandangan megah”; 观 bermakna pemandangan yang terlihat, bukan cara pandang seseorang."
+      },
+      {
+        "kata": "外观",
+        "alasan": "外观 berarti “penampilan luar”; 观 menjadi bagian kata yang berarti tampilan, bukan pandangan atau sikap."
+      },
+      {
+        "kata": "景观",
+        "alasan": "景观 berarti “lanskap atau pemandangan”; 观 bermakna sesuatu yang terlihat, bukan cara seseorang memandang sesuatu."
+      },
+      {
+        "kata": "美观",
+        "alasan": "美观 berarti “sedap dipandang atau cantik”; 观 bermakna terlihat atau dipandang, bukan pandangan atau sikap terhadap suatu hal."
+      },
+      {
+        "kata": "可观",
+        "alasan": "可观 berarti “layak dilihat atau cukup besar”; 观 bermakna sesuatu yang dapat dilihat, bukan cara pandang atau sikap."
+      },
+      {
+        "kata": "纵观",
+        "alasan": "纵观 berarti “meninjau secara menyeluruh”; 观 menjadi bagian kata kerja meninjau, bukan akhiran pembentuk pandangan atau sikap."
+      },
+      {
+        "kata": "旁观",
+        "alasan": "旁观 berarti “menonton sebagai orang luar”; 观 menjadi bagian kata kerja melihat atau menyaksikan, bukan akhiran pembentuk pandangan."
+      }
+    ],
     "catatan": "Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia. Pada 观察, 观 berada di awal kata dan berarti mengamati; ini kata kerja, bukan awalan pembentuk pandangan."
   },
   {
@@ -705,7 +967,20 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "一点点",
+        "alasan": "一点点 berarti “sedikit saja”; 点 dipakai sebagai satuan atau penanda jumlah kecil, bukan sisi atau hal tertentu yang dibahas."
+      },
+      {
+        "kata": "晚点",
+        "alasan": "晚点 berarti “terlambat atau tertunda”; 点 menjadi bagian ungkapan waktu atau keterlambatan, bukan sisi atau hal yang dibahas."
+      },
+      {
+        "kata": "指点",
+        "alasan": "指点 berarti “menunjukkan atau memberi petunjuk”; 点 menjadi bagian kata kerja, bukan akhiran yang menyebut sisi atau hal tertentu."
+      }
+    ],
     "catatan": ""
   },
   {
@@ -845,7 +1120,40 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "中学",
+        "alasan": "中学 berarti “sekolah menengah”; 学 menjadi bagian nama jenjang atau lembaga pendidikan, bukan nama bidang ilmu."
+      },
+      {
+        "kata": "小学",
+        "alasan": "小学 berarti “sekolah dasar”; 学 menjadi bagian nama jenjang atau lembaga pendidikan, bukan nama bidang ilmu."
+      },
+      {
+        "kata": "放学",
+        "alasan": "放学 berarti “selesai sekolah pada akhir hari”; 学 menjadi bagian kata tentang kegiatan sekolah, bukan nama bidang ilmu."
+      },
+      {
+        "kata": "同学",
+        "alasan": "同学 berarti “teman sekolah atau belajar di sekolah yang sama”; 学 bermakna belajar atau sekolah, bukan akhiran nama bidang ilmu."
+      },
+      {
+        "kata": "上学",
+        "alasan": "上学 berarti “pergi ke sekolah atau bersekolah”; 学 menjadi bagian kata tentang kegiatan sekolah, bukan nama bidang ilmu."
+      },
+      {
+        "kata": "开学",
+        "alasan": "开学 berarti “sekolah atau semester dimulai”; 学 menjadi bagian ungkapan tentang kegiatan sekolah, bukan nama bidang ilmu."
+      },
+      {
+        "kata": "中小学",
+        "alasan": "中小学 berarti “sekolah menengah dan dasar”; 学 menjadi bagian nama jenjang pendidikan, bukan nama bidang ilmu."
+      },
+      {
+        "kata": "教学",
+        "alasan": "教学 berarti “pengajaran atau mengajar”; 学 menjadi bagian kata tentang kegiatan belajar-mengajar, bukan nama bidang ilmu."
+      }
+    ],
     "catatan": "Pada 学生 dan 学校, 学 bermakna 'belajar' sebagai unsur kata biasa, bukan akhiran bidang ilmu."
   },
   {
@@ -1004,7 +1312,12 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "交界",
+        "alasan": "交界 berarti “perbatasan atau batas umum”; 界 menunjukkan garis pertemuan atau batas wilayah, bukan lingkungan atau kelompok bidang."
+      }
+    ],
     "catatan": ""
   },
   {
@@ -1074,7 +1387,12 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "皇室",
+        "alasan": "皇室 berarti “keluarga kerajaan atau rumah tangga kekaisaran”; 室 bermakna keluarga atau garis keturunan, bukan ruangan untuk kegiatan tertentu."
+      }
+    ],
     "catatan": ""
   },
   {
@@ -1144,7 +1462,12 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "立场",
+        "alasan": "立场 berarti “posisi atau sudut pandang”; 场 menjadi bagian kata yang bermakna kiasan, bukan area kegiatan."
+      }
+    ],
     "catatan": "Bacaan yang dipakai pada contoh ini adalah chǎng; karakter 场 juga dapat mempunyai bacaan lain pada konteks berbeda. Ini contoh “mirip tetapi bukan”: pada 场所 (chǎng suǒ), 场 berada di awal dan berarti tempat/lokasi; ini bagian kata utuh, bukan awalan yang menambahkan makna baru."
   },
   {
@@ -1254,7 +1577,12 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "有所",
+        "alasan": "有所 berarti “agak atau sampai batas tertentu”; 所 menjadi bagian ungkapan tata bahasa, bukan akhiran nama tempat atau lembaga."
+      }
+    ],
     "catatan": ""
   },
   {
@@ -1394,7 +1722,32 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "时机",
+        "alasan": "时机 berarti “kesempatan atau saat yang tepat”; 机 berkaitan dengan peluang, bukan mesin atau perangkat."
+      },
+      {
+        "kata": "动机",
+        "alasan": "动机 berarti “motif atau motivasi”; 机 menjadi bagian kata yang bermakna dorongan atau alasan, bukan nama mesin."
+      },
+      {
+        "kata": "危机",
+        "alasan": "危机 berarti “krisis”; 机 menjadi bagian kata yang bermakna peluang atau titik perubahan, bukan nama mesin."
+      },
+      {
+        "kata": "投机",
+        "alasan": "投机 berarti “cocok atau berspekulasi”; 机 menjadi bagian kata yang berkaitan dengan peluang atau keadaan, bukan nama mesin."
+      },
+      {
+        "kata": "随机",
+        "alasan": "随机 berarti “sesuai situasi atau pragmatis”; 机 menjadi bagian kata yang bermakna kesempatan atau keadaan, bukan nama perangkat."
+      },
+      {
+        "kata": "有机",
+        "alasan": "有机 berarti “organik”; 机 menjadi bagian kata dengan makna tersendiri, bukan akhiran nama mesin atau perangkat."
+      }
+    ],
     "catatan": "Pada 机场 dan 机器, 机 adalah bagian kata yang membawa makna sendiri yang berarti pesawat/mesin, bukan awalan. Pada 时机 dan 危机, 机 berkaitan dengan kesempatan/krisis. Karakter ini tidak memiliki entri mandiri di app_words.json; pinyin diambil dari pembacaan pada kata contoh yang tersedia."
   },
   {
@@ -1429,7 +1782,12 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "人品",
+        "alasan": "人品 berarti “karakter atau integritas seseorang”; 品 berarti kualitas moral, bukan akhiran nama barang atau produk."
+      }
+    ],
     "catatan": ""
   },
   {
@@ -1662,6 +2020,18 @@
       {
         "kata": "回头",
         "alasan": "回头 berarti “menoleh/kembali”; 头 menjadi bagian kata kerja, bukan akhiran kata benda."
+      },
+      {
+        "kata": "摇头",
+        "alasan": "摇头 berarti “menggelengkan kepala”; 头 menjadi bagian dari ungkapan kerja, bukan akhiran pembentuk kata benda atau penanda posisi."
+      },
+      {
+        "kata": "抬头",
+        "alasan": "抬头 berarti “mengangkat kepala” atau “melihat ke atas”; 头 menjadi bagian dari ungkapan kerja, bukan akhiran."
+      },
+      {
+        "kata": "低头",
+        "alasan": "低头 berarti “menundukkan kepala” atau “menyerah”; 头 menjadi bagian dari ungkapan kerja, bukan akhiran."
       }
     ],
     "catatan": ""
@@ -1698,7 +2068,32 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "老是",
+        "alasan": "老是 berarti “selalu”; 老 menjadi bagian kata keterangan, bukan awalan sebutan orang."
+      },
+      {
+        "kata": "老实",
+        "alasan": "老实 berarti “jujur” atau “tulus”; 老 menjadi bagian kata sifat, bukan awalan sebutan sosial."
+      },
+      {
+        "kata": "老远",
+        "alasan": "老远 berarti “sangat jauh”; 老 berfungsi sebagai penguat makna, bukan awalan sebutan sosial."
+      },
+      {
+        "kata": "老实说",
+        "alasan": "老实说 berarti “terus terang” atau “sejujurnya”; 老 menjadi bagian kata sifat 老实, bukan awalan sebutan orang."
+      },
+      {
+        "kata": "老虎",
+        "alasan": "老虎 berarti “harimau”; 老 merupakan bagian tetap dari nama hewan, bukan awalan sebutan orang."
+      },
+      {
+        "kata": "老鼠",
+        "alasan": "老鼠 berarti “tikus”; 老 merupakan bagian tetap dari nama hewan, bukan awalan sebutan orang."
+      }
+    ],
     "catatan": ""
   },
   {
@@ -1812,6 +2207,14 @@
       {
         "kata": "可是",
         "alasan": "可是 berarti “tetapi”; 可 menjadi bagian kata penghubung, bukan awalan pembentuk kata sifat."
+      },
+      {
+        "kata": "可谓",
+        "alasan": "可谓 berarti “dapat dikatakan”; 可 menyatakan kemungkinan dalam ungkapan kerja, bukan awalan pembentuk kata sifat."
+      },
+      {
+        "kata": "可不是",
+        "alasan": "可不是 berarti “tepat” atau “memang”; 可 menjadi bagian ungkapan penegasan, bukan awalan pembentuk kata sifat."
       }
     ],
     "catatan": ""
@@ -1848,7 +2251,12 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "不过",
+        "alasan": "不过 berarti “hanya” atau “semata-mata”; 不 merupakan bagian dari kata yang maknanya sudah menyatu, bukan penyangkalan yang berfungsi seperti awalan."
+      }
+    ],
     "catatan": ""
   },
   {
@@ -1883,7 +2291,12 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "无论",
+        "alasan": "无论 berarti “apa pun” atau “terlepas dari apakah”; 无 merupakan bagian dari kata penghubung tetap, bukan awalan pembentuk kata yang menyatakan ketiadaan."
+      }
+    ],
     "catatan": ""
   },
   {
@@ -1988,7 +2401,12 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "反正",
+        "alasan": "反正 berarti “bagaimanapun” atau “dalam hal apa pun”; 反 menjadi bagian dari kata keterangan tetap, bukan penanda penentangan atau arah berlawanan."
+      }
+    ],
     "catatan": ""
   },
   {
@@ -2093,7 +2511,12 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "总算",
+        "alasan": "总算 berarti “akhirnya”; 总 menjadi bagian dari kata keterangan yang menyatakan hasil setelah proses, bukan penanda keseluruhan."
+      }
+    ],
     "catatan": "Pada 总是, 总 berada di awal kata dan berarti selalu; ini kata keterangan utuh, bukan awalan yang menambah arti pada kata benda."
   },
   {
@@ -2163,7 +2586,12 @@
         ]
       }
     ],
-    "bukan": [],
+    "bukan": [
+      {
+        "kata": "自从",
+        "alasan": "自从 berarti “sejak”; 自 menjadi bagian dari kata depan penanda waktu, bukan awalan bermakna diri sendiri."
+      }
+    ],
     "catatan": ""
   },
   {
