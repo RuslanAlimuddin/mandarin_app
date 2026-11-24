@@ -1,0 +1,338 @@
+[
+  {
+    "afiks": "品",
+    "kata": "豆制品",
+    "golongan": "imbuhan",
+    "alasan": "豆制品 berarti “produk berbasis polong-polongan”; 品 menjadi akhiran yang menandai hasil atau produk."
+  },
+  {
+    "afiks": "品",
+    "kata": "礼品",
+    "golongan": "imbuhan",
+    "alasan": "礼品 berarti “hadiah”; 品 menandai barang yang diberikan sebagai hadiah."
+  },
+  {
+    "afiks": "品",
+    "kata": "用品",
+    "golongan": "imbuhan",
+    "alasan": "用品 berarti “barang untuk digunakan”; 品 menjadi akhiran yang membentuk nama barang."
+  },
+  {
+    "afiks": "品",
+    "kata": "样品",
+    "golongan": "imbuhan",
+    "alasan": "样品 berarti “contoh atau spesimen”; 品 menandai benda yang dijadikan contoh."
+  },
+  {
+    "afiks": "品",
+    "kata": "藏品",
+    "golongan": "imbuhan",
+    "alasan": "藏品 berarti “barang koleksi”; 品 menandai benda yang dikumpulkan."
+  },
+  {
+    "afiks": "品",
+    "kata": "制品",
+    "golongan": "imbuhan",
+    "alasan": "制品 berarti “produk atau barang”; 品 menjadi akhiran yang menandai hasil pembuatan."
+  },
+  {
+    "afiks": "品",
+    "kata": "物品",
+    "golongan": "imbuhan",
+    "alasan": "物品 berarti “barang”; 品 menjadi akhiran yang membentuk nama benda atau barang."
+  },
+  {
+    "afiks": "品",
+    "kata": "小品",
+    "golongan": "imbuhan",
+    "alasan": "小品 berarti “kreasi sastra atau seni yang pendek”; 品 menandai hasil karya seni."
+  },
+  {
+    "afiks": "品",
+    "kata": "工艺品",
+    "golongan": "imbuhan",
+    "alasan": "工艺品 berarti “barang kerajinan tangan”; 品 menandai hasil karya atau produk kerajinan."
+  },
+  {
+    "afiks": "品",
+    "kata": "水产品",
+    "golongan": "imbuhan",
+    "alasan": "水产品 berarti “produk perairan”; 品 menjadi akhiran yang menandai hasil atau produk."
+  },
+  {
+    "afiks": "品",
+    "kata": "日用品",
+    "golongan": "imbuhan",
+    "alasan": "日用品 berarti “barang keperluan sehari-hari”; 品 membentuk nama barang berdasarkan kegunaannya."
+  },
+  {
+    "afiks": "品",
+    "kata": "次品",
+    "golongan": "imbuhan",
+    "alasan": "次品 berarti “produk di bawah standar”; 品 menandai barang atau produk yang kualitasnya rendah."
+  },
+  {
+    "afiks": "品",
+    "kata": "废品",
+    "golongan": "imbuhan",
+    "alasan": "废品 berarti “barang cacat atau barang buangan”; 品 menandai barang yang dihasilkan atau tersisa."
+  },
+  {
+    "afiks": "品",
+    "kata": "精品",
+    "golongan": "imbuhan",
+    "alasan": "精品 berarti “barang berkualitas atau produk premium”; 品 menandai barang atau produk."
+  },
+  {
+    "afiks": "品",
+    "kata": "成品",
+    "golongan": "imbuhan",
+    "alasan": "成品 berarti “barang jadi”; 品 menandai hasil akhir dari proses pembuatan."
+  },
+  {
+    "afiks": "品",
+    "kata": "毒品",
+    "golongan": "imbuhan",
+    "alasan": "毒品 berarti “narkotika atau obat-obatan terlarang”; 品 menandai jenis barang atau produk."
+  },
+  {
+    "afiks": "品",
+    "kata": "农产品",
+    "golongan": "imbuhan",
+    "alasan": "农产品 berarti “produk pertanian”; 品 menjadi akhiran yang menandai hasil produksi."
+  },
+  {
+    "afiks": "品",
+    "kata": "人品",
+    "golongan": "bukan",
+    "alasan": "人品 berarti “karakter atau integritas seseorang”; 品 berarti kualitas moral, bukan akhiran nama barang atau produk."
+  },
+  {
+    "afiks": "品",
+    "kata": "奖品",
+    "golongan": "imbuhan",
+    "alasan": "奖品 berarti “hadiah atau penghargaan”; 品 menandai barang yang diberikan sebagai hadiah."
+  },
+  {
+    "afiks": "品",
+    "kata": "药品",
+    "golongan": "imbuhan",
+    "alasan": "药品 berarti “obat-obatan”; 品 menjadi akhiran yang membentuk nama produk obat."
+  },
+  {
+    "afiks": "品",
+    "kata": "乳制品",
+    "golongan": "imbuhan",
+    "alasan": "乳制品 berarti “produk susu”; 品 menandai hasil olahan atau produk."
+  },
+  {
+    "afiks": "物",
+    "kata": "宠物",
+    "golongan": "imbuhan",
+    "alasan": "宠物 berarti “hewan peliharaan”; 物 menjadi akhiran yang membentuk nama makhluk."
+  },
+  {
+    "afiks": "物",
+    "kata": "生物",
+    "golongan": "imbuhan",
+    "alasan": "生物 berarti “organisme atau makhluk hidup”; 物 menjadi akhiran yang menamai makhluk."
+  },
+  {
+    "afiks": "物",
+    "kata": "货物",
+    "golongan": "imbuhan",
+    "alasan": "货物 berarti “barang atau komoditas”; 物 menjadi akhiran yang membentuk nama benda."
+  },
+  {
+    "afiks": "物",
+    "kata": "遗物",
+    "golongan": "imbuhan",
+    "alasan": "遗物 berarti “barang peninggalan”; 物 menandai benda yang ditinggalkan."
+  },
+  {
+    "afiks": "物",
+    "kata": "药物",
+    "golongan": "imbuhan",
+    "alasan": "药物 berarti “obat-obatan”; 物 menjadi akhiran yang membentuk nama bahan atau benda."
+  },
+  {
+    "afiks": "物",
+    "kata": "怪物",
+    "golongan": "imbuhan",
+    "alasan": "怪物 berarti “monster”; 物 menjadi akhiran yang membentuk nama makhluk."
+  },
+  {
+    "afiks": "物",
+    "kata": "刊物",
+    "golongan": "imbuhan",
+    "alasan": "刊物 berarti “publikasi”; 物 menandai hasil atau benda yang diterbitkan."
+  },
+  {
+    "afiks": "物",
+    "kata": "建筑物",
+    "golongan": "imbuhan",
+    "alasan": "建筑物 berarti “bangunan”; 物 menjadi akhiran yang membentuk nama benda atau struktur."
+  },
+  {
+    "afiks": "物",
+    "kata": "财物",
+    "golongan": "imbuhan",
+    "alasan": "财物 berarti “harta benda”; 物 menjadi akhiran yang menandai benda atau barang."
+  },
+  {
+    "afiks": "物",
+    "kata": "文物",
+    "golongan": "imbuhan",
+    "alasan": "文物 berarti “benda bersejarah”; 物 menandai benda peninggalan yang memiliki nilai sejarah."
+  },
+  {
+    "afiks": "物",
+    "kata": "废物",
+    "golongan": "imbuhan",
+    "alasan": "废物 berarti “sampah atau bahan limbah”; 物 menjadi akhiran yang menamai benda atau bahan."
+  },
+  {
+    "afiks": "物",
+    "kata": "购物",
+    "golongan": "bukan",
+    "alasan": "购物 berarti “berbelanja”; 物 merujuk pada barang yang dibeli sebagai bagian dari kata kerja, bukan akhiran pembentuk nama benda."
+  },
+  {
+    "afiks": "物",
+    "kata": "事物",
+    "golongan": "imbuhan",
+    "alasan": "事物 berarti “benda atau hal”; 物 menjadi unsur akhir yang membentuk kata benda bermakna sesuatu."
+  },
+  {
+    "afiks": "物",
+    "kata": "人物",
+    "golongan": "imbuhan",
+    "alasan": "人物 berarti “orang atau tokoh”; 物 menjadi akhiran yang membentuk sebutan untuk sosok atau karakter."
+  },
+  {
+    "afiks": "物",
+    "kata": "农作物",
+    "golongan": "imbuhan",
+    "alasan": "农作物 berarti “tanaman pertanian”; 物 menjadi akhiran yang menamai hasil atau jenis tanaman."
+  },
+  {
+    "afiks": "物",
+    "kata": "产物",
+    "golongan": "imbuhan",
+    "alasan": "产物 berarti “produk atau hasil”; 物 menjadi akhiran yang menandai sesuatu yang dihasilkan."
+  },
+  {
+    "afiks": "物",
+    "kata": "作物",
+    "golongan": "imbuhan",
+    "alasan": "作物 berarti “tanaman”; 物 menjadi akhiran yang membentuk nama jenis makhluk atau hasil budidaya."
+  },
+  {
+    "afiks": "物",
+    "kata": "实物",
+    "golongan": "imbuhan",
+    "alasan": "实物 berarti “objek konkret”; 物 menjadi akhiran yang menamai benda."
+  },
+  {
+    "afiks": "物",
+    "kata": "吉祥物",
+    "golongan": "imbuhan",
+    "alasan": "吉祥物 berarti “maskot”; 物 menjadi akhiran yang menamai sosok atau benda yang menjadi lambang."
+  },
+  {
+    "afiks": "费",
+    "kata": "自费",
+    "golongan": "bukan",
+    "alasan": "自费 berarti “dengan biaya sendiri”; 费 menyatakan pembiayaan sendiri dalam keterangan cara, bukan membentuk nama biaya."
+  },
+  {
+    "afiks": "费",
+    "kata": "花费",
+    "golongan": "ragu",
+    "alasan": "花费 berarti “biaya atau ongkos”, tetapi juga berarti “menghabiskan”; 费 dapat bermakna biaya, namun pemakaiannya tidak selalu membentuk nama biaya."
+  },
+  {
+    "afiks": "费",
+    "kata": "付费",
+    "golongan": "bukan",
+    "alasan": "付费 berarti “membayar”; 费 menjadi bagian dari kata kerja tentang tindakan membayar, bukan akhiran pembentuk nama biaya."
+  },
+  {
+    "afiks": "费",
+    "kata": "收费",
+    "golongan": "ragu",
+    "alasan": "收费 berarti “membebankan biaya”; 费 merujuk pada biaya, tetapi kata ini terutama menyatakan tindakan memungut biaya."
+  },
+  {
+    "afiks": "费",
+    "kata": "管理费",
+    "golongan": "imbuhan",
+    "alasan": "管理费 berarti “biaya manajemen”; 费 menjadi akhiran yang membentuk nama biaya untuk suatu layanan atau kegiatan."
+  },
+  {
+    "afiks": "费",
+    "kata": "耗费",
+    "golongan": "bukan",
+    "alasan": "耗费 berarti “menghabiskan”; 费 menjadi bagian kata kerja yang berarti mengeluarkan atau menghabiskan, bukan nama biaya."
+  },
+  {
+    "afiks": "费",
+    "kata": "交费",
+    "golongan": "bukan",
+    "alasan": "交费 berarti “membayar biaya”; 费 menjadi bagian dari kata kerja tentang pembayaran, bukan akhiran pembentuk nama biaya."
+  },
+  {
+    "afiks": "费",
+    "kata": "抚养费",
+    "golongan": "imbuhan",
+    "alasan": "抚养费 berarti “biaya tunjangan anak”; 费 menjadi akhiran yang membentuk nama biaya untuk kewajiban pengasuhan."
+  },
+  {
+    "afiks": "费",
+    "kata": "话费",
+    "golongan": "imbuhan",
+    "alasan": "话费 berarti “biaya panggilan”; 费 menjadi akhiran yang membentuk nama biaya layanan telepon."
+  },
+  {
+    "afiks": "费",
+    "kata": "缴费",
+    "golongan": "bukan",
+    "alasan": "缴费 berarti “membayar biaya”; 费 menjadi bagian kata kerja tentang pembayaran, bukan akhiran pembentuk nama biaya."
+  },
+  {
+    "afiks": "费",
+    "kata": "团费",
+    "golongan": "imbuhan",
+    "alasan": "团费 berarti “biaya tur”; 费 menjadi akhiran yang membentuk nama biaya kegiatan perjalanan kelompok."
+  },
+  {
+    "afiks": "费",
+    "kata": "手续费",
+    "golongan": "imbuhan",
+    "alasan": "手续费 berarti “biaya layanan atau pemrosesan”; 费 menjadi akhiran yang membentuk nama biaya untuk suatu layanan."
+  },
+  {
+    "afiks": "费",
+    "kata": "经费",
+    "golongan": "ragu",
+    "alasan": "经费 berarti “dana atau pengeluaran”; 费 berkaitan dengan biaya, tetapi kata ini lebih luas sebagai dana yang disediakan untuk kegiatan."
+  },
+  {
+    "afiks": "费",
+    "kata": "生活费",
+    "golongan": "imbuhan",
+    "alasan": "生活费 berarti “biaya hidup”; 费 menjadi akhiran yang membentuk nama biaya untuk kebutuhan hidup."
+  },
+  {
+    "afiks": "费",
+    "kata": "浪费",
+    "golongan": "bukan",
+    "alasan": "浪费 berarti “membuang atau menyia-nyiakan”; 费 menjadi bagian kata kerja yang berarti memboroskan, bukan nama biaya."
+  },
+  {
+    "afiks": "费",
+    "kata": "公费",
+    "golongan": "ragu",
+    "alasan": "公费 berarti “dengan biaya publik”; 费 menunjukkan sumber pembiayaan, tetapi kata ini lebih menggambarkan status pembiayaan daripada nama biaya tertentu."
+  }
+]
