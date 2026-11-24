@@ -13,8 +13,10 @@ TAHAP
   --tahap 1 (bawaan): 20 kata pertama per imbuhan, diutamakan kata berlevel HSK rendah   (735 kata)
   --tahap 2         : SISA kandidat yang tidak masuk tahap 1                              (433 kata)
                       (DITUNDA sampai ada waktu yang tepat -- jalankan nanti bila tahap 1 sudah selesai.)
-Pembagian bersifat tetap (urut HSK, lalu urutan di kamus), jadi tahap 2 tidak pernah mengulang tahap 1
-selama afiks_kamus.json dan app_words.json tidak berubah.
+Tahap 2 TIDAK mengandalkan urutan: ia mengambil semua kandidat yang BELUM dinilai, yaitu yang tidak tercatat di
+  kerja_gpt_afiks\\kandidat\\tahap1\\_manifest_tahap1.json (berkas ini harus tetap ada) dan belum menjadi contoh/"bukan".
+  Dengan begitu perubahan afiks_kamus.json setelah tahap 1 (mis. 102 kata "bukan" yang sudah dipasang) tidak
+  membuat kata terlewat atau terulang. Bila manifest tahap 1 tidak ada, skrip memberi peringatan dan memakai urutan.
 
 KONTROL
   Tiap berkas disisipi beberapa kata yang jawabannya SUDAH DIKETAHUI (contoh sah dan "bukan" yang sudah
@@ -125,10 +127,27 @@ def arti(w):
     return "; ".join(m[:2]) if m else "?"
 
 
+def dinilai_tahap1():
+    """Pasangan (imbuhan, kata) yang sudah dinilai pada tahap 1 (dari manifest), atau None bila tidak ada."""
+    f = KELUAR / "tahap1" / "_manifest_tahap1.json"
+    if not f.exists():
+        return None
+    m = json.loads(f.read_text(encoding="utf-8"))
+    return {(x["afiks"], x["kata"]) for b in m["berkas"].values() for x in b if not x["kontrol"]}
+
+
 def pilih_tahap(semua, tahap):
     dipilih = []
+    dinilai = dinilai_tahap1() if tahap == 2 else None
+    if tahap == 2 and dinilai is None:
+        print("PERINGATAN: manifest tahap 1 tidak ditemukan; tahap 2 memakai urutan (bisa meleset bila data berubah).")
     for e, cand in semua:
-        sel = cand[:BATAS_TAHAP1] if tahap == 1 else cand[BATAS_TAHAP1:]
+        if tahap == 1:
+            sel = cand[:BATAS_TAHAP1]
+        elif dinilai is not None:
+            sel = [w for w in cand if (e["karakter"], w["simplified"]) not in dinilai]
+        else:
+            sel = cand[BATAS_TAHAP1:]
         if sel:
             dipilih.append((e, sel))
     return dipilih
@@ -198,15 +217,19 @@ Dibuat otomatis oleh buat_kandidat_imbuhan.py (23 November 2026).
 
 ## Keadaan
 - Tahap 1 = 735 kata kandidat (20 pertama per imbuhan, diutamakan HSK rendah) + kata kontrol.
-- Tahap 2 = SISA 433 kandidat. **DITUNDA sampai ada waktu yang tepat** (keputusan رسلان, supaya tidak hilang).
+- Tahap 2 = semua kandidat yang BELUM dinilai (433 kata per 25 November 2026). **DITUNDA sampai ada waktu yang
+  tepat** (keputusan رسلان, supaya tidak hilang).
   Jalankan nanti:  python buat_kandidat_imbuhan.py --tahap 2   (lalu  --apply)
-  Pembagian tetap, jadi tahap 2 tidak mengulang tahap 1 selama data tidak berubah. Bila afiks_kamus.json
-  atau app_words.json sudah berubah, jalankan lihat-dulu dan bandingkan jumlahnya.
+  Tahap 2 memakai daftar yang sudah dinilai di tahap1\\_manifest_tahap1.json (JANGAN dihapus), bukan urutan,
+  sehingga aman walau afiks_kamus.json sudah bertambah (102 kata "bukan" dipasang 25 November 2026).
+- Tahap 1 sudah selesai: 17 hasil GPT dikurasi (102 kata "bukan" baru dipasang). Jangan jalankan ulang --tahap 1
+  (kandidatnya sekarang berbeda dari yang pernah dinilai).
 
 ## Cara kerja
 1. Tempel satu berkas batch_NN.txt ke AI (GPT) per percakapan baru. Simpan jawabannya (satu blok JSON)
    sebagai batch_NN_hasil.json.
-2. Tempel hasilnya ke Claude untuk dikurasi. Hanya golongan "bukan" yang diambil; "imbuhan" dan "ragu"
+2. Unggah hasilnya ke repo (folder yang sama), lalu minta Claude mengurasinya (Claude membaca langsung dari repo).
+   Hanya golongan "bukan" yang diambil; "imbuhan" dan "ragu"
    dipakai untuk memeriksa ketelitian AI (lewat kata kontrol di _manifest_tahapN.json).
 3. Setelah kurasi, skrip pemasang menambahkan hasil "bukan" yang disetujui ke data\\afiks_kamus.json.
 """
