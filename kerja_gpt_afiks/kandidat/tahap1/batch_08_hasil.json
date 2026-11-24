@@ -1,0 +1,338 @@
+[
+  {
+    "afiks": "论",
+    "kata": "争论",
+    "golongan": "imbuhan",
+    "alasan": "争论 berarti “membantah atau berdebat”; 论 membentuk istilah pembahasan atau perdebatan tentang suatu pokok."
+  },
+  {
+    "afiks": "论",
+    "kata": "定论",
+    "golongan": "imbuhan",
+    "alasan": "定论 berarti “kesimpulan akhir”; 论 menyatakan pendapat atau kesimpulan yang sudah ditetapkan."
+  },
+  {
+    "afiks": "论",
+    "kata": "推论",
+    "golongan": "imbuhan",
+    "alasan": "推论 berarti “inferensi atau kesimpulan”; 论 membentuk istilah hasil penalaran tentang suatu pokok."
+  },
+  {
+    "afiks": "论",
+    "kata": "社论",
+    "golongan": "imbuhan",
+    "alasan": "社论 berarti “editorial surat kabar”; 论 menyatakan pembahasan atau pendapat mengenai suatu persoalan."
+  },
+  {
+    "afiks": "论",
+    "kata": "辩论",
+    "golongan": "imbuhan",
+    "alasan": "辩论 berarti “debat atau argumen”; 论 membentuk istilah perdebatan tentang suatu pokok."
+  },
+  {
+    "afiks": "论",
+    "kata": "言论",
+    "golongan": "imbuhan",
+    "alasan": "言论 berarti “ekspresi pendapat atau pandangan”; 论 menyatakan pendapat yang disampaikan."
+  },
+  {
+    "afiks": "论",
+    "kata": "谈论",
+    "golongan": "bukan",
+    "alasan": "谈论 berarti “mendiskusikan atau membicarakan”; 论 menjadi bagian kata kerja untuk kegiatan berbicara, bukan akhiran pembentuk istilah teori atau pendapat."
+  },
+  {
+    "afiks": "论",
+    "kata": "一概而论",
+    "golongan": "bukan",
+    "alasan": "一概而论 berarti “menyamakan berbagai masalah”; 论 menjadi kata kerja dalam idiom, bukan akhiran pembentuk istilah pembahasan."
+  },
+  {
+    "afiks": "论",
+    "kata": "舆论",
+    "golongan": "imbuhan",
+    "alasan": "舆论 berarti “opini publik”; 论 menyatakan pendapat atau pandangan yang berkembang di masyarakat."
+  },
+  {
+    "afiks": "论",
+    "kata": "议论",
+    "golongan": "bukan",
+    "alasan": "议论 berarti “mengomentari atau membicarakan”; 论 menjadi bagian kata kerja untuk kegiatan membahas, bukan akhiran pembentuk istilah."
+  },
+  {
+    "afiks": "论",
+    "kata": "概论",
+    "golongan": "imbuhan",
+    "alasan": "概论 berarti “garis besar atau pengantar”; 论 membentuk istilah pembahasan umum tentang suatu bidang."
+  },
+  {
+    "afiks": "论",
+    "kata": "相提并论",
+    "golongan": "bukan",
+    "alasan": "相提并论 berarti “membicarakan dua hal bersama-sama atau menempatkannya setara”; 论 menjadi kata kerja dalam idiom, bukan akhiran pembentuk istilah."
+  },
+  {
+    "afiks": "论",
+    "kata": "无论",
+    "golongan": "bukan",
+    "alasan": "无论 berarti “terlepas dari apa pun atau bagaimana pun”; 论 menjadi bagian dari ungkapan tetap, bukan akhiran yang menyatakan teori atau pendapat."
+  },
+  {
+    "afiks": "业",
+    "kata": "作业",
+    "golongan": "bukan",
+    "alasan": "作业 berarti “tugas sekolah atau pekerjaan”; 业 menjadi bagian kata yang menunjuk tugas atau kegiatan kerja, bukan nama profesi, sektor, atau industri."
+  },
+  {
+    "afiks": "业",
+    "kata": "毕业",
+    "golongan": "bukan",
+    "alasan": "毕业 berarti “kelulusan atau lulus”; 业 menjadi bagian kata kerja yang menyatakan penyelesaian pendidikan, bukan nama bidang pekerjaan."
+  },
+  {
+    "afiks": "业",
+    "kata": "停业",
+    "golongan": "bukan",
+    "alasan": "停业 berarti “berhenti berdagang atau menutup usaha”; 业 menjadi bagian kata kerja tentang penghentian kegiatan usaha, bukan nama sektor atau industri."
+  },
+  {
+    "afiks": "业",
+    "kata": "就业",
+    "golongan": "bukan",
+    "alasan": "就业 berarti “mendapat pekerjaan atau ketenagakerjaan”; 业 menjadi bagian kata tentang memperoleh pekerjaan, bukan nama profesi atau industri."
+  },
+  {
+    "afiks": "业",
+    "kata": "商业",
+    "golongan": "imbuhan",
+    "alasan": "商业 berarti “bisnis atau perdagangan”; 业 membentuk nama bidang kegiatan ekonomi atau sektor perdagangan."
+  },
+  {
+    "afiks": "业",
+    "kata": "企业",
+    "golongan": "imbuhan",
+    "alasan": "企业 berarti “perusahaan”; 业 membentuk istilah untuk entitas atau bidang kegiatan usaha."
+  },
+  {
+    "afiks": "业",
+    "kata": "行业",
+    "golongan": "imbuhan",
+    "alasan": "行业 berarti “profesi atau industri”; 业 membentuk nama sektor atau kelompok pekerjaan."
+  },
+  {
+    "afiks": "业",
+    "kata": "物业",
+    "golongan": "imbuhan",
+    "alasan": "物业 berarti “properti atau real estat”; 业 membentuk istilah bidang usaha atau sektor pengelolaan properti."
+  },
+  {
+    "afiks": "业",
+    "kata": "兢兢业业",
+    "golongan": "bukan",
+    "alasan": "兢兢业业 berarti “teliti dan rajin”; 业 menjadi bagian dari idiom yang menggambarkan sikap bekerja, bukan akhiran nama profesi atau industri."
+  },
+  {
+    "afiks": "业",
+    "kata": "安居乐业",
+    "golongan": "bukan",
+    "alasan": "安居乐业 berarti “hidup damai dan bekerja dengan bahagia”; 业 bermakna pekerjaan dalam idiom, bukan akhiran yang menamai bidang pekerjaan."
+  },
+  {
+    "afiks": "业",
+    "kata": "开业",
+    "golongan": "bukan",
+    "alasan": "开业 berarti “membuka bisnis atau praktik”; 业 menjadi bagian kata kerja tentang memulai usaha, bukan nama sektor atau industri."
+  },
+  {
+    "afiks": "业",
+    "kata": "学业",
+    "golongan": "bukan",
+    "alasan": "学业 berarti “pelajaran atau pekerjaan sekolah”; 业 menjadi bagian kata yang menunjuk kegiatan pendidikan, bukan nama profesi atau industri."
+  },
+  {
+    "afiks": "业",
+    "kata": "敬业",
+    "golongan": "bukan",
+    "alasan": "敬业 berarti “berdedikasi pada pekerjaan”; 业 menjadi bagian kata yang menunjuk pekerjaan, bukan akhiran nama bidang pekerjaan."
+  },
+  {
+    "afiks": "业",
+    "kata": "产业",
+    "golongan": "imbuhan",
+    "alasan": "产业 berarti “industri”; 业 membentuk nama sektor kegiatan produksi atau ekonomi."
+  },
+  {
+    "afiks": "业",
+    "kata": "从业",
+    "golongan": "bukan",
+    "alasan": "从业 berarti “berpraktik dalam suatu perdagangan atau profesi”; 业 menjadi bagian kata kerja tentang menjalankan pekerjaan, bukan nama profesi atau sektor."
+  },
+  {
+    "afiks": "业",
+    "kata": "事业",
+    "golongan": "bukan",
+    "alasan": "事业 berarti “usaha atau proyek”; 业 menjadi bagian kata benda yang bermakna kegiatan atau karier, bukan penanda khusus nama sektor atau industri."
+  },
+  {
+    "afiks": "业",
+    "kata": "营业",
+    "golongan": "bukan",
+    "alasan": "营业 berarti “berdagang atau melakukan bisnis”; 业 menjadi bagian kata kerja tentang menjalankan usaha, bukan nama bidang atau industri."
+  },
+  {
+    "afiks": "界",
+    "kata": "境界",
+    "golongan": "ragu",
+    "alasan": "境界 berarti “batas atau keadaan”; 界 dapat mengarah pada makna ranah atau lingkungan, tetapi dalam kata ini juga membentuk makna batas atau tingkat keadaan yang tidak sepenuhnya sama dengan definisi."
+  },
+  {
+    "afiks": "界",
+    "kata": "全世界",
+    "golongan": "imbuhan",
+    "alasan": "全世界 berarti “seluruh dunia”; 界 menyatakan ranah atau lingkungan dunia secara keseluruhan."
+  },
+  {
+    "afiks": "界",
+    "kata": "世界",
+    "golongan": "imbuhan",
+    "alasan": "世界 berarti “dunia”; 界 menyatakan ranah atau lingkungan kehidupan secara luas."
+  },
+  {
+    "afiks": "界",
+    "kata": "眼界",
+    "golongan": "imbuhan",
+    "alasan": "眼界 berarti “ruang lingkup atau cakrawala”; 界 menyatakan ranah atau batas bidang pandangan seseorang."
+  },
+  {
+    "afiks": "界",
+    "kata": "交界",
+    "golongan": "bukan",
+    "alasan": "交界 berarti “perbatasan atau batas umum”; 界 menunjukkan garis pertemuan atau batas wilayah, bukan lingkungan atau kelompok bidang."
+  },
+  {
+    "afiks": "馆",
+    "kata": "体育馆",
+    "golongan": "imbuhan",
+    "alasan": "体育馆 berarti “gimnasium atau stadion”; 馆 menamai tempat yang menyediakan fasilitas kegiatan olahraga."
+  },
+  {
+    "afiks": "馆",
+    "kata": "美术馆",
+    "golongan": "imbuhan",
+    "alasan": "美术馆 berarti “galeri seni”; 馆 menamai tempat untuk melihat atau menikmati karya seni."
+  },
+  {
+    "afiks": "馆",
+    "kata": "大使馆",
+    "golongan": "imbuhan",
+    "alasan": "大使馆 berarti “kedutaan besar”; 馆 menamai gedung tempat layanan diplomatik diselenggarakan."
+  },
+  {
+    "afiks": "馆",
+    "kata": "领事馆",
+    "golongan": "imbuhan",
+    "alasan": "领事馆 berarti “konsulat”; 馆 menamai tempat yang menyediakan layanan konsuler."
+  },
+  {
+    "afiks": "馆",
+    "kata": "餐馆",
+    "golongan": "imbuhan",
+    "alasan": "餐馆 berarti “restoran”; 馆 menamai tempat yang menyediakan layanan makanan."
+  },
+  {
+    "afiks": "馆",
+    "kata": "宾馆",
+    "golongan": "imbuhan",
+    "alasan": "宾馆 berarti “penginapan atau hotel”; 馆 menamai tempat yang menyediakan layanan menginap."
+  },
+  {
+    "afiks": "馆",
+    "kata": "场馆",
+    "golongan": "imbuhan",
+    "alasan": "场馆 berarti “tempat olahraga atau arena”; 馆 menamai tempat yang menyediakan fasilitas kegiatan."
+  },
+  {
+    "afiks": "馆",
+    "kata": "水族馆",
+    "golongan": "imbuhan",
+    "alasan": "水族馆 berarti “akuarium umum”; 馆 menamai tempat untuk melihat dan mempelajari kehidupan hewan air."
+  },
+  {
+    "afiks": "馆",
+    "kata": "纪念馆",
+    "golongan": "imbuhan",
+    "alasan": "纪念馆 berarti “gedung atau museum peringatan”; 馆 menamai tempat yang menyediakan kegiatan pameran atau peringatan."
+  },
+  {
+    "afiks": "室",
+    "kata": "演播室",
+    "golongan": "imbuhan",
+    "alasan": "演播室 berarti “studio siaran”; 室 menamai ruangan yang digunakan untuk kegiatan siaran."
+  },
+  {
+    "afiks": "室",
+    "kata": "候机室",
+    "golongan": "imbuhan",
+    "alasan": "候机室 berarti “ruang tunggu bandara”; 室 menamai ruangan untuk menunggu keberangkatan pesawat."
+  },
+  {
+    "afiks": "室",
+    "kata": "阅览室",
+    "golongan": "imbuhan",
+    "alasan": "阅览室 berarti “ruang baca”; 室 menamai ruangan untuk kegiatan membaca."
+  },
+  {
+    "afiks": "室",
+    "kata": "手术室",
+    "golongan": "imbuhan",
+    "alasan": "手术室 berarti “ruang operasi”; 室 menamai ruangan untuk kegiatan pembedahan."
+  },
+  {
+    "afiks": "室",
+    "kata": "浴室",
+    "golongan": "imbuhan",
+    "alasan": "浴室 berarti “kamar mandi atau pemandian”; 室 menamai ruangan untuk kegiatan mandi."
+  },
+  {
+    "afiks": "室",
+    "kata": "更衣室",
+    "golongan": "imbuhan",
+    "alasan": "更衣室 berarti “ruang ganti”; 室 menamai ruangan untuk berganti pakaian."
+  },
+  {
+    "afiks": "室",
+    "kata": "地下室",
+    "golongan": "imbuhan",
+    "alasan": "地下室 berarti “ruang bawah tanah”; 室 menamai ruangan yang berada di bawah permukaan tanah."
+  },
+  {
+    "afiks": "室",
+    "kata": "温室",
+    "golongan": "imbuhan",
+    "alasan": "温室 berarti “rumah kaca”; 室 menamai ruang atau bangunan tertutup untuk menumbuhkan tanaman."
+  },
+  {
+    "afiks": "室",
+    "kata": "寝室",
+    "golongan": "imbuhan",
+    "alasan": "寝室 berarti “kamar tidur atau asrama”; 室 menamai ruangan untuk tidur atau beristirahat."
+  },
+  {
+    "afiks": "室",
+    "kata": "皇室",
+    "golongan": "bukan",
+    "alasan": "皇室 berarti “keluarga kerajaan atau rumah tangga kekaisaran”; 室 bermakna keluarga atau garis keturunan, bukan ruangan untuk kegiatan tertentu."
+  },
+  {
+    "afiks": "站",
+    "kata": "火车站",
+    "golongan": "imbuhan",
+    "alasan": "火车站 berarti “stasiun kereta api”; 站 menamai tempat pelayanan dan pemberhentian kereta."
+  },
+  {
+    "afiks": "站",
+    "kata": "核电站",
+    "golongan": "imbuhan",
+    "alasan": "核电站 berarti “pembangkit listrik tenaga nuklir”; 站 menamai fasilitas atau tempat layanan pembangkitan listrik."
+  }
+]
