@@ -464,6 +464,14 @@
       margin-top: 4px;
     }
 
+    /* Bagian kosong pada soal "Pilih Imbuhan yang Tepat" (mis. 记 + ＿). */
+    .tg-prompt-blank {
+      display: inline-block;
+      min-width: 1.4em;
+      border-bottom: 3px solid currentColor;
+      vertical-align: baseline;
+    }
+
     .tone-game-options {
       display: grid;
       grid-template-columns: repeat(2, 1fr);
@@ -1233,6 +1241,10 @@
           <div class="sidebar-item" data-deck="afiks-choice" onclick="selectDeck('afiks-choice','Imbuhan (Awalan & Akhiran)')">
             <span>🧱 Imbuhan (Awalan &amp; Akhiran) <span style="font-size:0.62rem;color:var(--text-muted)">(Imbuhan atau bukan?)</span></span>
             <span class="item-count" id="due-afiks">—</span>
+          </div>
+          <div class="sidebar-item" data-deck="afiks-pilih" onclick="selectDeck('afiks-pilih','Pilih Imbuhan yang Tepat')">
+            <span>🧱 Pilih Imbuhan yang Tepat <span style="font-size:0.62rem;color:var(--text-muted)">(isi bagian kosong)</span></span>
+            <span class="item-count" id="due-afiks-pilih">—</span>
           </div>
           <!-- Struktur karakter (B5a, diisi JS) -->
           <div id="sidebar-struktur-list"></div>
