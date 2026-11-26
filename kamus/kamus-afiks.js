@@ -1,4 +1,4 @@
-/* kamus-afiks.js -- menu KELOMPOK "Awalan & Akhiran" (60 entri, kelompok A-J).
+/* kamus-afiks.js -- menu KELOMPOK "Awalan & Akhiran" (64 entri, kelompok A-L).
    FILE TAMBAHAN: tidak mengubah file Kamus lain. Dimuat SETELAH kamus-komponen-posisi.js
    dan SEBELUM kamus-init.js (cara yang sama dengan fitur Komponen & Posisi).
    Data: data/afiks_kamus.json (disusun GPT, diperiksa Claude). Kata contoh diambil dari
@@ -8,7 +8,7 @@
   'use strict';
   var DATA = null, MAP = null, keep = false, shown = '';
   var HSKIDX = null, HSKSRC = null;
-  var KEL = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'];
+  var KEL = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L'];
 
   /* poin lama di Tata Bahasa untuk karakter yang pernah dibahas di sana */
   var LAMA = {
@@ -73,7 +73,7 @@
     return HSKIDX;
   }
 
-  /* ── kotak pilihan: 60 tombol di bawah 10 judul kelompok ── */
+  /* ── kotak pilihan: tombol di bawah judul kelompok (A-L) ── */
   function openAfiks() {
     STATE.groupType = 'afiks';
     var panel = $('group-panel'), grid = $('group-panel-grid');
@@ -101,7 +101,7 @@
       });
       var n = document.createElement('div');
       n.style.cssText = 'width:100%;flex-basis:100%;grid-column:1/-1;color:var(--text-muted);font-size:.76rem;margin-top:10px';
-      n.innerHTML = '小— dan —边 tidak termasuk 60 entri ini; keduanya sudah dibahas di Tata Bahasa: ' +
+      n.innerHTML = '小— dan —边 tidak termasuk ' + DATA.length + ' entri ini; keduanya sudah dibahas di Tata Bahasa: ' +
         '<a style="color:var(--gold)" href="tatabahasa.html#search=' + encodeURIComponent('Awalan 小— dan 第—') + '">HSK 1 · poin 56</a> · ' +
         '<a style="color:var(--gold)" href="tatabahasa.html#search=' + encodeURIComponent('Akhiran —们 dan —边') + '">HSK 1 · poin 57</a>';
       grid.appendChild(n);
@@ -166,8 +166,10 @@
     }
     /* tautan ke poin Tata Bahasa yang sesuai: AFK-001 -> AFX.01 */
     var nn = parseInt(String(e.id).replace(/\D/g, ''), 10), afx = 'AFX.' + (nn < 10 ? '0' : '') + nn;
-    h += '<div class="afx-row" id="afx-links"><a class="card-sort-btn" href="tatabahasa.html#point=' + afx +
-         '" title="Buka poin ' + afx + ' di Tata Bahasa">📘 Tata Bahasa: ' + afx + '</a>' +
+    /* AFX.61 dst belum ada di Tata Bahasa (baru 60 poin): tombolnya disembunyikan dulu */
+    var tbBtn = nn <= 60 ? '<a class="card-sort-btn" href="tatabahasa.html#point=' + afx +
+         '" title="Buka poin ' + afx + ' di Tata Bahasa">📘 Tata Bahasa: ' + afx + '</a>' : '';
+    h += '<div class="afx-row" id="afx-links">' + tbBtn +
          '<a class="card-sort-btn" href="peta-bahasa.html#pilar-12" title="Buka Pelajaran Pilar 12 di Peta Bahasa">📖 Pelajaran: Pilar 12</a></div>';
     var bk = e.bukan || [];
     if (bk.length) {
