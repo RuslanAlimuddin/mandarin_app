@@ -1616,11 +1616,125 @@
           "kamus_nama": "共"
         }
       ]
+    },
+    {
+      "name": "K. Penggemar dan kelompok orang",
+      "points": [
+        {
+          "id": "AFX.61",
+          "number": "AFX.61",
+          "title": "Akhiran —族 (zú)",
+          "fungsi": "Menyebut suku bangsa atau sekelompok orang dengan ciri atau kebiasaan yang sama.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata + 族",
+              "contoh": "中国有很多民族。",
+              "pinyin": "Zhōng guó yǒu hěn duō mín zú.",
+              "terjemahan": "Tiongkok punya banyak kelompok etnis."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Kata + 族",
+              "contoh": "他是上班族。",
+              "pinyin": "Tā shì shàng bān zú.",
+              "terjemahan": "Dia seorang pekerja kantoran."
+            }
+          ],
+          "kamus_id": "AFK-061",
+          "kamus_nama": "族",
+          "tingkat_hsk_terendah": "HSK 3",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk"
+        },
+        {
+          "id": "AFX.62",
+          "number": "AFX.62",
+          "title": "Akhiran —迷 (mí)",
+          "fungsi": "Menyebut orang yang sangat menggemari suatu kegiatan atau tokoh.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Bidang/tokoh + 迷",
+              "contoh": "他是一个球迷。",
+              "pinyin": "Tā shì yī gè qiú mí.",
+              "terjemahan": "Dia seorang penggemar bola."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Bidang/tokoh + 迷",
+              "contoh": "我姐姐是影迷。",
+              "pinyin": "Wǒ jiě jie shì yǐng mí.",
+              "terjemahan": "Kakak perempuan saya penggemar film."
+            }
+          ],
+          "kamus_id": "AFK-062",
+          "kamus_nama": "迷",
+          "tingkat_hsk_terendah": "HSK 3",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk"
+        }
+      ]
+    },
+    {
+      "name": "L. Penyakit dan zat",
+      "points": [
+        {
+          "id": "AFX.63",
+          "number": "AFX.63",
+          "title": "Akhiran —症 (zhèng)",
+          "fungsi": "Menyebut suatu penyakit atau kelainan dengan gejala tertentu.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Penyebab/gejala + 症",
+              "contoh": "医生说这是癌症。",
+              "pinyin": "Yī shēng shuō zhè shì ái zhèng.",
+              "terjemahan": "Dokter mengatakan ini kanker."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Penyebab/gejala + 症",
+              "contoh": "他得了抑郁症。",
+              "pinyin": "Tā dé le yì yù zhèng.",
+              "terjemahan": "Dia menderita depresi klinis."
+            }
+          ],
+          "kamus_id": "AFK-063",
+          "kamus_nama": "症",
+          "tingkat_hsk_terendah": "HSK 7",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk"
+        },
+        {
+          "id": "AFX.64",
+          "number": "AFX.64",
+          "title": "Akhiran —剂 (jì)",
+          "fungsi": "Menamai obat atau bahan olahan menurut fungsi atau jenisnya.",
+          "table": [
+            {
+              "jenis": "Afirmatif",
+              "pola": "Fungsi/jenis + 剂",
+              "contoh": "运动员不能用兴奋剂。",
+              "pinyin": "Yùn dòng yuán bù néng yòng xīng fèn jì.",
+              "terjemahan": "Atlet tidak boleh memakai doping."
+            },
+            {
+              "jenis": "Afirmatif",
+              "pola": "Fungsi/jenis + 剂",
+              "contoh": "这种洗涤剂很便宜。",
+              "pinyin": "Zhè zhǒng xǐ dí jì hěn pián yi.",
+              "terjemahan": "Deterjen jenis ini sangat murah."
+            }
+          ],
+          "kamus_id": "AFK-064",
+          "kamus_nama": "剂",
+          "tingkat_hsk_terendah": "HSK 7",
+          "sumber_tingkat_hsk": "data/app_words.json, kolom hsk"
+        }
+      ]
     }
   ],
   "kesalahan_umum": [],
   "metadata": {
-    "total_points": 60,
+    "total_points": 64,
     "stage": "Tahap 2 — selesai",
     "groups_completed": [
       "A",
@@ -1632,7 +1746,9 @@
       "G",
       "H",
       "I",
-      "J"
+      "J",
+      "K",
+      "L"
     ],
     "groups_pending": []
   }
