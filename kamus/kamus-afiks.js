@@ -166,9 +166,8 @@
     }
     /* tautan ke poin Tata Bahasa yang sesuai: AFK-001 -> AFX.01 */
     var nn = parseInt(String(e.id).replace(/\D/g, ''), 10), afx = 'AFX.' + (nn < 10 ? '0' : '') + nn;
-    /* AFX.61 dst belum ada di Tata Bahasa (baru 60 poin): tombolnya disembunyikan dulu */
-    var tbBtn = nn <= 60 ? '<a class="card-sort-btn" href="tatabahasa.html#point=' + afx +
-         '" title="Buka poin ' + afx + ' di Tata Bahasa">📘 Tata Bahasa: ' + afx + '</a>' : '';
+    var tbBtn = '<a class="card-sort-btn" href="tatabahasa.html#point=' + afx +
+         '" title="Buka poin ' + afx + ' di Tata Bahasa">📘 Tata Bahasa: ' + afx + '</a>';
     h += '<div class="afx-row" id="afx-links">' + tbBtn +
          '<a class="card-sort-btn" href="peta-bahasa.html#pilar-12" title="Buka Pelajaran Pilar 12 di Peta Bahasa">📖 Pelajaran: Pilar 12</a></div>';
     var bk = e.bukan || [];
