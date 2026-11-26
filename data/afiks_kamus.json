@@ -2698,5 +2698,139 @@
     ],
     "bukan": [],
     "catatan": ""
+  },
+  {
+    "id": "AFK-061",
+    "karakter": "族",
+    "pinyin": "zú",
+    "kelompok": "K",
+    "kelompok_nama": "Penggemar dan kelompok orang",
+    "posisi": "akhiran",
+    "arti_dasar": "kelompok orang yang sebangsa atau punya ciri dan kebiasaan yang sama",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir kata untuk menyebut suku bangsa atau sekelompok orang dengan ciri atau kebiasaan yang sama.",
+        "arti": "kelompok orang yang sebangsa atau punya ciri dan kebiasaan yang sama",
+        "contoh": [
+          {
+            "kata": "民族"
+          },
+          {
+            "kata": "种族"
+          },
+          {
+            "kata": "贵族"
+          },
+          {
+            "kata": "家族"
+          },
+          {
+            "kata": "上班族"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "中华民族 memuat 民族, jadi tidak dipisah sebagai contoh sendiri. Arti 族 di 上班族 adalah \"golongan orang dengan kebiasaan yang sama\"; pola ini bisa dipakai membuat sebutan baru."
+  },
+  {
+    "id": "AFK-062",
+    "karakter": "迷",
+    "pinyin": "mí",
+    "kelompok": "K",
+    "kelompok_nama": "Penggemar dan kelompok orang",
+    "posisi": "akhiran",
+    "arti_dasar": "penggemar; orang yang sangat menyukai sesuatu",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir nama kegiatan atau tokoh untuk menyebut orang yang menggemarinya.",
+        "arti": "penggemar; orang yang sangat menyukai sesuatu",
+        "contoh": [
+          {
+            "kata": "球迷"
+          },
+          {
+            "kata": "歌迷"
+          },
+          {
+            "kata": "影迷"
+          }
+        ]
+      }
+    ],
+    "bukan": [
+      {
+        "kata": "昏迷",
+        "alasan": "昏迷 berarti \"koma/pingsan\"; 迷 di sini berarti kehilangan kesadaran, bukan penggemar."
+      },
+      {
+        "kata": "低迷",
+        "alasan": "低迷 berarti \"lesu/suram\"; 迷 di sini berarti samar atau kabur, bukan penggemar."
+      }
+    ],
+    "catatan": "沉迷, 痴迷, dan 着迷 memakai 迷 dalam arti \"terpikat\" sebagai kata kerja (bukan sebutan orang), jadi tidak dipakai sebagai contoh maupun daftar \"bukan\". Di depan kata, 迷 berarti tersesat atau memikat (迷路, 迷人)."
+  },
+  {
+    "id": "AFK-063",
+    "karakter": "症",
+    "pinyin": "zhèng",
+    "kelompok": "L",
+    "kelompok_nama": "Penyakit dan zat",
+    "posisi": "akhiran",
+    "arti_dasar": "penyakit atau kelainan dengan gejala tertentu",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir nama penyebab atau gejala untuk menyebut suatu penyakit atau kelainan.",
+        "arti": "penyakit atau kelainan dengan gejala tertentu",
+        "contoh": [
+          {
+            "kata": "癌症"
+          },
+          {
+            "kata": "抑郁症"
+          },
+          {
+            "kata": "后遗症"
+          },
+          {
+            "kata": "炎症"
+          },
+          {
+            "kata": "病症"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "症状 (gejala) memakai 症 di depan, jadi bukan contoh akhiran. 症 dibaca zhèng; pada 症结 dibaca zhēng."
+  },
+  {
+    "id": "AFK-064",
+    "karakter": "剂",
+    "pinyin": "jì",
+    "kelompok": "L",
+    "kelompok_nama": "Penyakit dan zat",
+    "posisi": "akhiran",
+    "arti_dasar": "obat atau bahan olahan dengan fungsi tertentu",
+    "bagian": [
+      {
+        "sebagai": "akhiran",
+        "fungsi": "Diletakkan di akhir kata yang menyebut fungsi atau jenisnya untuk menamai obat atau bahan olahan.",
+        "arti": "obat atau bahan olahan dengan fungsi tertentu",
+        "contoh": [
+          {
+            "kata": "兴奋剂"
+          },
+          {
+            "kata": "洗涤剂"
+          }
+        ]
+      }
+    ],
+    "bukan": [],
+    "catatan": "Di kamus HSK baru ada dua contoh. 调剂 (kata kerja: menyesuaikan, memberi variasi) tidak dipakai sebagai contoh."
   }
 ]
