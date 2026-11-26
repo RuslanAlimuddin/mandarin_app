@@ -1,0 +1,613 @@
+{
+  "pilar": 12,
+  "judul": "Pembentukan Kata (构词法)",
+  "ringkasan": "Pilar ini mengenalkan cara kata Mandarin dibentuk dengan unsur yang muncul di depan atau di belakang kata. Pelajar akan belajar membedakan awalan dan akhiran, membaca kartu entri, memahami karakter yang memiliki beberapa makna, membandingkan penanda orang/pelaku, mengenali awalan yang menolak atau meniadakan, serta melihat peta 60 entri yang tersedia.",
+  "bagian": [
+    {
+      "judul": "1. Apa Itu Awalan dan Akhiran Mandarin?",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Dalam bahasa Mandarin, ada karakter tertentu yang sering diletakkan di depan atau di belakang bagian kata lain untuk membantu membentuk kata baru. Jika berada di depan, kita menyebutnya awalan. Jika berada di belakang, kita menyebutnya akhiran. Contohnya, <span class=\"hz\">不</span> pada <span class=\"hz\">不同</span> berada di depan, sedangkan <span class=\"hz\">者</span> pada <span class=\"hz\">记者</span> berada di belakang."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Nama",
+            "Letak",
+            "Contoh",
+            "Petunjuk arti"
+          ],
+          "baris": [
+            [
+              "Awalan",
+              "Di depan bagian kata",
+              "<span class=\"hz\">不同</span>、<span class=\"hz\">无法</span>、<span class=\"hz\">未来</span>",
+              "<span class=\"hz\">不</span> menyatakan tidak/berbeda; <span class=\"hz\">无</span> menyatakan tidak ada atau tanpa; <span class=\"hz\">未</span> menyatakan belum."
+            ],
+            [
+              "Akhiran",
+              "Di belakang bagian kata",
+              "<span class=\"hz\">记者</span>、<span class=\"hz\">作家</span>、<span class=\"hz\">学生</span>",
+              "<span class=\"hz\">者</span> menamai orang yang melakukan sesuatu; <span class=\"hz\">家</span> dapat menamai ahli; <span class=\"hz\">生</span> dapat menamai orang dengan status tertentu."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Bahasa Indonesia sering membentuk kata dengan menambahkan bagian seperti me-, ber-, pe-, -an, atau -kan pada kata dasar. Misalnya, tulis menjadi menulis atau tulisan. Mandarin tidak selalu bekerja dengan cara yang sama. Banyak kata dibentuk dengan menggabungkan karakter yang tetap terlihat, seperti <span class=\"hz\">记者</span> (wartawan) dan <span class=\"hz\">不同</span> (berbeda). Karena itu, jangan menerjemahkan setiap awalan atau akhiran Mandarin seolah-olah selalu sama dengan satu imbuhan Indonesia."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "记者采访老师。",
+              "pinyin": "Jì zhě cǎi fǎng lǎo shī.",
+              "arti": "Wartawan mewawancarai guru.",
+              "catatan": "者 berada di akhir 记者 dan membantu menyebut orang berdasarkan kegiatannya."
+            },
+            {
+              "hanzi": "作家写书。",
+              "pinyin": "Zuò jiā xiě shū.",
+              "arti": "Seorang penulis/sastrawan menulis buku.",
+              "catatan": "家 berada di akhir 作家 dan menyebut orang yang menekuni bidang menulis."
+            },
+            {
+              "hanzi": "我们有不同的想法。",
+              "pinyin": "Wǒ men yǒu bù tóng de xiǎng fǎ.",
+              "arti": "Kami mempunyai pemikiran yang berbeda.",
+              "catatan": "不 berada di depan 同 dan memberi makna penyangkalan/perbedaan pada kata utuh 不同."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Tidak setiap karakter yang kebetulan berada di awal atau akhir kata adalah awalan atau akhiran. Periksa makna kata utuh dan tugas karakter itu. Misalnya, <span class=\"hz\">家</span> pada <span class=\"hz\">回家</span> berarti rumah, bukan akhiran yang menamai ahli."
+        }
+      ]
+    },
+    {
+      "judul": "2. Cara Membaca Kartu Entri",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Setiap kartu entri dalam menu Awalan & Akhiran di Kamus menjelaskan satu bentuk yang perlu dipahami. Bacalah kartu dari atas ke bawah: kenali karakternya, dengarkan bunyinya melalui pinyin, periksa letaknya, pahami artinya, lalu bandingkan contoh yang benar dengan kata yang mirip tetapi bukan contoh fungsi tersebut."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Bagian kartu",
+            "Apa yang perlu dibaca?",
+            "Contoh pada 者"
+          ],
+          "baris": [
+            [
+              "Karakter dan pinyin",
+              "Bentuk Mandarin dan cara membacanya.",
+              "<span class=\"hz\">者</span> — <span class=\"py\">zhě</span>"
+            ],
+            [
+              "Kelompok dan posisi",
+              "Jenis pembahasan dan letak karakter dalam kata.",
+              "Orang/pelaku; akhiran"
+            ],
+            [
+              "Arti dasar",
+              "Makna umum yang menjadi pegangan.",
+              "Orang yang melakukan atau berkaitan dengan kegiatan."
+            ],
+            [
+              "Fungsi dan arti",
+              "Apa yang dilakukan karakter itu dalam kata.",
+              "<span class=\"hz\">者</span> di belakang kegiatan/bidang membantu menamai orang."
+            ],
+            [
+              "Contoh",
+              "Kata yang benar-benar menunjukkan fungsi tersebut.",
+              "<span class=\"hz\">记者</span>、<span class=\"hz\">作者</span>、<span class=\"hz\">读者</span>、<span class=\"hz\">学者</span>、<span class=\"hz\">消费者</span>"
+            ],
+            [
+              "Bukan",
+              "Kata yang terlihat mirip, tetapi fungsi atau artinya berbeda.",
+              "<span class=\"hz\">或者</span>、<span class=\"hz\">前者</span>、<span class=\"hz\">后者</span>"
+            ],
+            [
+              "Catatan",
+              "Pengecualian, makna lain, atau hal yang mudah tertukar.",
+              "<span class=\"hz\">者</span> pada <span class=\"hz\">或者</span> bukan penanda nama orang."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "记者采访老师。",
+              "pinyin": "Jì zhě cǎi fǎng lǎo shī.",
+              "arti": "Wartawan mewawancarai guru.",
+              "catatan": "记者 adalah contoh penggunaan 者 sebagai akhiran nama pelaku."
+            },
+            {
+              "hanzi": "或者",
+              "pinyin": "Huò zhě",
+              "arti": "Atau.",
+              "catatan": "Ini contoh pada daftar “bukan”: 者 tidak berarti orang di dalam kata ini."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Jangan hanya melihat posisi karakter; baca juga arti seluruh kata.",
+            "Bandingkan contoh dan daftar “bukan” agar batas penggunaannya terlihat.",
+            "Perhatikan catatan jika satu karakter mempunyai bacaan atau makna lain.",
+            "Pinyin pada kartu memakai tanda nada. Nada membantu membedakan kata yang bunyinya mirip."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Daftar “bukan” bukan berarti kata tersebut salah atau tidak boleh dipakai. Artinya hanya: kata itu bukan contoh fungsi awalan/akhiran yang sedang dijelaskan."
+        }
+      ]
+    },
+    {
+      "judul": "3. Satu Karakter, Beberapa Makna",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Satu karakter Mandarin dapat mempunyai beberapa makna dan tugas. Maknanya tidak boleh ditebak hanya dari bentuk atau letaknya. Lihat kata lengkap, cara membaca, dan kalimatnya. Delapan karakter berikut sering membuat pelajar keliru karena muncul dalam kata yang fungsi dan artinya berbeda."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Karakter",
+            "Contoh fungsi pembentukan kata",
+            "Contoh makna lain",
+            "Pembeda cepat"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">家</span> <span class=\"py\">jiā</span>",
+              "<span class=\"hz\">作家</span>、<span class=\"hz\">画家</span>: orang yang menekuni bidang tertentu.",
+              "<span class=\"hz\">国家</span>、<span class=\"hz\">回家</span>: negara atau rumah.",
+              "Pada <span class=\"hz\">作家</span>, <span class=\"hz\">家</span> menamai orang; pada <span class=\"hz\">回家</span>, <span class=\"hz\">家</span> berarti rumah."
+            ],
+            [
+              "<span class=\"hz\">生</span> <span class=\"py\">shēng</span>",
+              "<span class=\"hz\">学生</span>、<span class=\"hz\">大学生</span>: orang dengan status pelajar.",
+              "<span class=\"hz\">发生</span>、<span class=\"hz\">出生</span>: terjadi atau lahir.",
+              "<span class=\"hz\">生</span> pada <span class=\"hz\">学生</span> menamai orang; pada <span class=\"hz\">出生</span> menjadi bagian kata kerja."
+            ],
+            [
+              "<span class=\"hz\">长</span> <span class=\"py\">zhǎng / cháng</span>",
+              "<span class=\"hz\">校长</span>、<span class=\"hz\">市长</span>: pemimpin atau kepala.",
+              "<span class=\"hz\">成长</span>、<span class=\"hz\">增长</span> (<span class=\"py\">zhǎng</span>); <span class=\"hz\">漫长</span> (<span class=\"py\">cháng</span>): tumbuh/bertambah atau panjang.",
+              "Perhatikan nada dan arti kata utuh. Bacaan <span class=\"py\">zhǎng</span> dan <span class=\"py\">cháng</span> tidak boleh disamakan."
+            ],
+            [
+              "<span class=\"hz\">率</span> <span class=\"py\">lǜ / shuài</span>",
+              "<span class=\"hz\">效率</span>、<span class=\"hz\">汇率</span>: rasio atau tingkat.",
+              "<span class=\"hz\">坦率</span>、<span class=\"hz\">草率</span>: terus terang atau gegabah.",
+              "Pada istilah rasio dibaca <span class=\"py\">lǜ</span>; pada <span class=\"hz\">坦率</span> dan <span class=\"hz\">草率</span> dibaca <span class=\"py\">shuài</span>."
+            ],
+            [
+              "<span class=\"hz\">手</span> <span class=\"py\">shǒu</span>",
+              "<span class=\"hz\">歌手</span>、<span class=\"hz\">选手</span>: orang yang melakukan kegiatan atau mempunyai keterampilan.",
+              "<span class=\"hz\">手机</span>、<span class=\"hz\">手套</span>: tangan sebagai bagian makna kata.",
+              "<span class=\"hz\">手</span> di akhir <span class=\"hz\">歌手</span> menamai orang; di awal <span class=\"hz\">手机</span> berarti tangan."
+            ],
+            [
+              "<span class=\"hz\">点</span> <span class=\"py\">diǎn</span>",
+              "<span class=\"hz\">优点</span>、<span class=\"hz\">缺点</span>、<span class=\"hz\">特点</span>: sisi atau ciri tertentu.",
+              "<span class=\"hz\">点头</span>: menganggukkan kepala; <span class=\"hz\">点心</span>: kudapan.",
+              "<span class=\"hz\">点</span> di akhir kata seperti <span class=\"hz\">优点</span> menyebut sisi/ciri; pada <span class=\"hz\">点头</span> dan <span class=\"hz\">点心</span> menjadi bagian dari kata utuh."
+            ],
+            [
+              "<span class=\"hz\">化</span> <span class=\"py\">huà</span>",
+              "<span class=\"hz\">现代化</span>、<span class=\"hz\">绿化</span>、<span class=\"hz\">美化</span>: proses menjadikan sesuatu dalam keadaan tertentu.",
+              "<span class=\"hz\">文化</span>、<span class=\"hz\">变化</span>: budaya atau perubahan sebagai kata utuh.",
+              "<span class=\"hz\">化</span> pada <span class=\"hz\">现代化</span> menunjukkan proses; jangan menganggap setiap kata berakhir <span class=\"hz\">化</span> mempunyai fungsi yang sama."
+            ],
+            [
+              "<span class=\"hz\">头</span> <span class=\"py\">tóu</span>",
+              "<span class=\"hz\">石头</span>、<span class=\"hz\">木头</span>、<span class=\"hz\">骨头</span>: bagian akhir pada sejumlah nama benda.",
+              "<span class=\"hz\">点头</span>、<span class=\"hz\">回头</span>: kepala atau gerakan kepala.",
+              "Pada kata benda tertentu <span class=\"hz\">头</span> menjadi bagian pembentuk nama; pada <span class=\"hz\">点头</span> dan <span class=\"hz\">回头</span> makna kepala masih terasa."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Perhatikan khususnya <span class=\"hz\">长</span> dan <span class=\"hz\">率</span>. Bentuk tulisannya sama, tetapi cara membaca berubah mengikuti kata dan makna. <span class=\"hz\">校长</span> memakai <span class=\"py\">zhǎng</span>, sedangkan <span class=\"hz\">漫长</span> memakai <span class=\"py\">cháng</span>. <span class=\"hz\">效率</span> memakai <span class=\"py\">lǜ</span>, sedangkan <span class=\"hz\">坦率</span> memakai <span class=\"py\">shuài</span>. Jangan menyalin satu pinyin untuk semua kata yang mengandung karakter tersebut."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "校长在学校。",
+              "pinyin": "Xiào zhǎng zài xué xiào.",
+              "arti": "Kepala sekolah berada di sekolah.",
+              "catatan": "长 dibaca zhǎng dan berarti pemimpin."
+            },
+            {
+              "hanzi": "这条路很漫长。",
+              "pinyin": "Zhè tiáo lù hěn màn cháng.",
+              "arti": "Jalan ini sangat panjang.",
+              "catatan": "长 dibaca cháng dan berarti panjang."
+            },
+            {
+              "hanzi": "这个公司的效率很高。",
+              "pinyin": "Zhè gè gōng sī de xiào lǜ hěn gāo.",
+              "arti": "Efisiensi perusahaan ini tinggi.",
+              "catatan": "率 dibaca lǜ dalam arti tingkat/rasio."
+            },
+            {
+              "hanzi": "他说话很坦率。",
+              "pinyin": "Tā shuō huà hěn tǎn shuài.",
+              "arti": "Dia berbicara dengan terus terang.",
+              "catatan": "率 dibaca shuài dalam 坦率."
+            },
+            {
+              "hanzi": "我的手机在桌子上。",
+              "pinyin": "Wǒ de shǒu jī zài zhuō zi shàng.",
+              "arti": "Ponsel saya berada di atas meja.",
+              "catatan": "手 pada 手机 berarti tangan; bukan akhiran penanda orang seperti 歌手."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Penjelasan ini adalah peta awal, bukan aturan bahwa satu karakter selalu mempunyai satu arti tetap. Beberapa kata sudah menjadi kata utuh dan maknanya harus dipelajari sebagai satu kesatuan. Jika ragu, bandingkan dengan kata utuhnya di Kamus."
+        }
+      ]
+    },
+    {
+      "judul": "4. Perbandingan Akhiran yang Menyebut Orang atau Pelaku",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Tujuh akhiran berikut sama-sama dapat muncul pada kata yang menyebut orang, tetapi maknanya tidak sama. Pilih berdasarkan hubungan orang itu dengan kegiatan, bidang, pekerjaan, keanggotaan, keterampilan, atau jabatan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Akhiran",
+            "Makna yang paling mudah diingat",
+            "Contoh dari Kamus",
+            "Pembeda sederhana"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">者</span> <span class=\"py\">zhě</span>",
+              "Orang yang melakukan atau berkaitan dengan kegiatan.",
+              "<span class=\"hz\">记者</span>、<span class=\"hz\">作者</span>、<span class=\"hz\">读者</span>、<span class=\"hz\">学者</span>、<span class=\"hz\">消费者</span>",
+              "Menyoroti orang berdasarkan kegiatan atau hubungannya dengan sesuatu."
+            ],
+            [
+              "<span class=\"hz\">家</span> <span class=\"py\">jiā</span>",
+              "Ahli atau orang yang menekuni suatu bidang.",
+              "<span class=\"hz\">作家</span>、<span class=\"hz\">画家</span>、<span class=\"hz\">科学家</span>、<span class=\"hz\">专家</span>、<span class=\"hz\">行家</span>",
+              "Menekankan keahlian atau bidang yang ditekuni."
+            ],
+            [
+              "<span class=\"hz\">员</span> <span class=\"py\">yuán</span>",
+              "Anggota, petugas, atau orang yang menjalankan tugas.",
+              "<span class=\"hz\">演员</span>、<span class=\"hz\">服务员</span>、<span class=\"hz\">公务员</span>、<span class=\"hz\">运动员</span>、<span class=\"hz\">成员</span>",
+              "Sering menunjukkan keanggotaan atau tugas dalam kelompok/pekerjaan."
+            ],
+            [
+              "<span class=\"hz\">师</span> <span class=\"py\">shī</span>",
+              "Orang dengan keahlian atau profesi tertentu.",
+              "<span class=\"hz\">老师</span>、<span class=\"hz\">工程师</span>、<span class=\"hz\">律师</span>、<span class=\"hz\">厨师</span>、<span class=\"hz\">设计师</span>",
+              "Menekankan profesi atau keahlian khusus."
+            ],
+            [
+              "<span class=\"hz\">生</span> <span class=\"py\">shēng</span>",
+              "Orang dengan status atau peran tertentu.",
+              "<span class=\"hz\">学生</span>、<span class=\"hz\">大学生</span>、<span class=\"hz\">留学生</span>、<span class=\"hz\">毕业生</span>、<span class=\"hz\">医生</span>",
+              "Sering menunjukkan status; tidak terbatas pada pelajar."
+            ],
+            [
+              "<span class=\"hz\">手</span> <span class=\"py\">shǒu</span>",
+              "Orang yang melakukan kegiatan atau terampil dalam hal itu.",
+              "<span class=\"hz\">歌手</span>、<span class=\"hz\">选手</span>、<span class=\"hz\">助手</span>、<span class=\"hz\">高手</span>、<span class=\"hz\">新手</span>",
+              "Menyoroti pelaku, kemampuan, atau tingkat pengalaman."
+            ],
+            [
+              "<span class=\"hz\">长</span> <span class=\"py\">zhǎng</span>",
+              "Pemimpin atau orang yang mengepalai kelompok/lembaga.",
+              "<span class=\"hz\">校长</span>、<span class=\"hz\">市长</span>、<span class=\"hz\">班长</span>、<span class=\"hz\">部长</span>、<span class=\"hz\">船长</span>",
+              "Menunjukkan jabatan kepala/pemimpin."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Cara cepat membedakannya: <span class=\"hz\">者</span> berpusat pada kegiatan atau hubungan seseorang; <span class=\"hz\">家</span> pada keahlian; <span class=\"hz\">员</span> pada tugas atau keanggotaan; <span class=\"hz\">师</span> pada profesi/keahlian; <span class=\"hz\">生</span> pada status; <span class=\"hz\">手</span> pada keterampilan atau peran pelaku; dan <span class=\"hz\">长</span> pada jabatan pemimpin. Batas makna ini adalah petunjuk, bukan rumus yang bisa dipaksakan ke semua kata."
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "记者采访老师。",
+              "pinyin": "Jì zhě cǎi fǎng lǎo shī.",
+              "arti": "Wartawan mewawancarai guru.",
+              "catatan": "者 menamai orang berdasarkan kegiatan jurnalistik."
+            },
+            {
+              "hanzi": "作家写书。",
+              "pinyin": "Zuò jiā xiě shū.",
+              "arti": "Seorang penulis/sastrawan menulis buku.",
+              "catatan": "家 menekankan orang yang menekuni bidang menulis."
+            },
+            {
+              "hanzi": "服务员给客人送水。",
+              "pinyin": "Fú wù yuán gěi kè rén sòng shuǐ.",
+              "arti": "Pelayan mengantarkan air kepada tamu.",
+              "catatan": "员 menunjukkan petugas yang menjalankan tugas pelayanan."
+            },
+            {
+              "hanzi": "工程师在公司工作。",
+              "pinyin": "Gōng chéng shī zài gōng sī gōng zuò.",
+              "arti": "Insinyur bekerja di perusahaan.",
+              "catatan": "师 menunjukkan profesi/keahlian."
+            },
+            {
+              "hanzi": "学生在学校学习。",
+              "pinyin": "Xué shēng zài xué xiào xué xí.",
+              "arti": "Murid belajar di sekolah.",
+              "catatan": "生 menunjukkan status pelajar."
+            },
+            {
+              "hanzi": "歌手喜欢唱歌。",
+              "pinyin": "Gē shǒu xǐ huan chàng gē.",
+              "arti": "Penyanyi suka bernyanyi.",
+              "catatan": "手 menamai orang yang melakukan kegiatan bernyanyi."
+            },
+            {
+              "hanzi": "校长在学校。",
+              "pinyin": "Xiào zhǎng zài xué xiào.",
+              "arti": "Kepala sekolah berada di sekolah.",
+              "catatan": "长 menunjukkan jabatan pemimpin."
+            }
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menganggap tujuh akhiran ini dapat saling menggantikan. Misalnya, <span class=\"hz\">作家</span> dan <span class=\"hz\">作者</span> sama-sama dapat diterjemahkan penulis, tetapi <span class=\"hz\">作家</span> biasanya menekankan orang yang menekuni bidang menulis, sedangkan <span class=\"hz\">作者</span> menunjuk orang yang membuat suatu karya. Pilihan kata bergantung pada maksud kalimat."
+        }
+      ]
+    },
+    {
+      "judul": "5. Awalan yang Menolak atau Meniadakan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Lima bentuk ini sering berada di depan kata dan memberi makna penolakan, ketiadaan, belum terjadi, atau kebalikan. Walaupun terjemahan Indonesianya kadang sama-sama memakai tidak atau bukan, nuansanya berbeda. Pelajari kata utuhnya, bukan hanya menghafal satu arti untuk setiap karakter."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Awalan",
+            "Makna utama",
+            "Contoh kata",
+            "Petunjuk pemakaian"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">不</span> <span class=\"py\">bù</span>",
+              "Tidak, berbeda, atau tidak memenuhi keadaan tertentu.",
+              "<span class=\"hz\">不同</span>、<span class=\"hz\">不错</span>、<span class=\"hz\">不少</span>、<span class=\"hz\">不够</span>、<span class=\"hz\">不如</span>",
+              "Sangat sering dipakai. Pada <span class=\"hz\">不错</span>, maknanya justru “cukup baik/tidak buruk”."
+            ],
+            [
+              "<span class=\"hz\">无</span> <span class=\"py\">wú</span>",
+              "Tidak ada, tanpa, atau tidak memiliki.",
+              "<span class=\"hz\">无法</span>、<span class=\"hz\">无聊</span>、<span class=\"hz\">无限</span>、<span class=\"hz\">无奈</span>、<span class=\"hz\">无效</span>",
+              "Sering memberi kesan tidak adanya sesuatu atau tidak tersedianya kemampuan/hasil."
+            ],
+            [
+              "<span class=\"hz\">非</span> <span class=\"py\">fēi</span>",
+              "Bukan, tidak termasuk, atau menyatakan sesuatu yang menyimpang dari keadaan biasa.",
+              "<span class=\"hz\">非法</span>、<span class=\"hz\">非凡</span>、<span class=\"hz\">非金属</span>、<span class=\"hz\">非常</span>",
+              "Perhatikan kata utuh: <span class=\"hz\">非常</span> berarti “sangat” dan tidak boleh diterjemahkan secara harfiah sebagai “bukan biasa” dalam setiap kalimat."
+            ],
+            [
+              "<span class=\"hz\">未</span> <span class=\"py\">wèi</span>",
+              "Belum terjadi atau belum dipastikan.",
+              "<span class=\"hz\">未来</span>、<span class=\"hz\">未必</span>、<span class=\"hz\">未经</span>、<span class=\"hz\">未免</span>、<span class=\"hz\">未成年人</span>",
+              "Menunjukkan sesuatu belum terjadi atau belum tentu benar; lihat kata lengkapnya."
+            ],
+            [
+              "<span class=\"hz\">反</span> <span class=\"py\">fǎn</span>",
+              "Berlawanan, menentang, atau memberi tanggapan balik.",
+              "<span class=\"hz\">反对</span>、<span class=\"hz\">反应</span>、<span class=\"hz\">反问</span>、<span class=\"hz\">反感</span>、<span class=\"hz\">反馈</span>",
+              "Maknanya berhubungan dengan arah balik atau tanggapan; tidak semua kata berawalan <span class=\"hz\">反</span> berarti menolak."
+            ]
+          ]
+        },
+        {
+          "tipe": "contoh",
+          "daftar": [
+            {
+              "hanzi": "我们有不同的想法。",
+              "pinyin": "Wǒ men yǒu bù tóng de xiǎng fǎ.",
+              "arti": "Kami mempunyai pemikiran yang berbeda.",
+              "catatan": "不 pada 不同 menyatakan perbedaan."
+            },
+            {
+              "hanzi": "这个办法不错。",
+              "pinyin": "Zhè gè bàn fǎ bù cuò.",
+              "arti": "Cara ini cukup baik.",
+              "catatan": "不错 secara utuh bermakna tidak buruk/cukup baik."
+            },
+            {
+              "hanzi": "这个问题无法解决。",
+              "pinyin": "Zhè gè wèn tí wú fǎ jiě jué.",
+              "arti": "Masalah ini tidak dapat diselesaikan.",
+              "catatan": "无法 menunjukkan tidak ada cara atau kemampuan untuk menyelesaikan."
+            },
+            {
+              "hanzi": "这里非常安静。",
+              "pinyin": "Zhè lǐ fēi cháng ān jìng.",
+              "arti": "Di sini sangat tenang.",
+              "catatan": "非常 adalah kata utuh yang berarti sangat; jangan memecahnya menjadi terjemahan harfiah."
+            },
+            {
+              "hanzi": "未来很重要。",
+              "pinyin": "Wèi lái hěn zhòng yào.",
+              "arti": "Masa depan sangat penting.",
+              "catatan": "未 memberi nuansa belum/yang akan datang pada kata 未来."
+            },
+            {
+              "hanzi": "我反对这个办法。",
+              "pinyin": "Wǒ fǎn duì zhè gè bàn fǎ.",
+              "arti": "Saya menentang cara ini.",
+              "catatan": "反对 secara utuh berarti menentang."
+            }
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "<span class=\"hz\">不</span> sering menyatakan penyangkalan atau perbedaan dalam kata sehari-hari.",
+            "<span class=\"hz\">无</span> menekankan ketiadaan atau tidak tersedianya sesuatu.",
+            "<span class=\"hz\">非</span> dapat berarti bukan/tidak termasuk; tetapi kata seperti <span class=\"hz\">非常</span> harus dipahami sebagai satu kata utuh.",
+            "<span class=\"hz\">未</span> berarti “belum” atau “belum tentu”, bukan “tidak” yang berlaku selamanya.",
+            "<span class=\"hz\">反</span> berhubungan dengan arah berlawanan atau tanggapan balik; arti tepatnya bergantung pada kata."
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Arti karakter di depan tidak selalu dapat diterjemahkan satu per satu. <span class=\"hz\">非常</span> adalah kata utuh yang berarti “sangat”; kata ini tetap dicantumkan sebagai contoh untuk <span class=\"hz\">非</span> karena sudah ada dalam daftar contoh yang disetujui. Pahami <span class=\"hz\">非常</span> sebagai satu kesatuan, bukan sebagai terjemahan harfiah per karakter. <span class=\"hz\">反应</span> juga harus dipahami sebagai satu kata utuh."
+        }
+      ]
+    },
+    {
+      "judul": "6. Peta Cepat 60 Entri dan Materi yang Menyusul",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "menu Awalan & Akhiran di Kamus berisi 60 entri yang dibagi menjadi sepuluh kelompok. Jumlahnya terdiri dari 43 entri akhiran dan 17 entri awalan. Peta ini membantu pelajar melihat wilayah materi tanpa harus menghafal semuanya sekaligus."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kelompok",
+            "Isi kelompok",
+            "Jumlah",
+            "Arah belajar"
+          ],
+          "baris": [
+            [
+              "A",
+              "Orang/pelaku: <span class=\"hz\">者</span>、<span class=\"hz\">家</span>、<span class=\"hz\">员</span>、<span class=\"hz\">师</span>、<span class=\"hz\">生</span>、<span class=\"hz\">手</span>、<span class=\"hz\">长</span>",
+              "7",
+              "Menyebut pelaku, ahli, petugas, orang berstatus tertentu, dan pemimpin."
+            ],
+            [
+              "B",
+              "Sifat dan konsep abstrak: <span class=\"hz\">化</span>、<span class=\"hz\">性</span>、<span class=\"hz\">度</span>、<span class=\"hz\">率</span>、<span class=\"hz\">感</span>、<span class=\"hz\">力</span>、<span class=\"hz\">量</span>、<span class=\"hz\">法</span>、<span class=\"hz\">观</span>、<span class=\"hz\">点</span>",
+              "10",
+              "Membentuk istilah tentang perubahan, sifat, ukuran, perasaan, kemampuan, cara, pandangan, dan ciri."
+            ],
+            [
+              "C",
+              "Jenis dan gaya: <span class=\"hz\">型</span>、<span class=\"hz\">式</span>、<span class=\"hz\">类</span>",
+              "3",
+              "Menyatakan tipe, bentuk, atau kelompok."
+            ],
+            [
+              "D",
+              "Bidang dan ilmu: <span class=\"hz\">学</span>、<span class=\"hz\">论</span>、<span class=\"hz\">主义</span>、<span class=\"hz\">业</span>、<span class=\"hz\">界</span>",
+              "5",
+              "Membentuk istilah bidang, pemikiran, pekerjaan, dan lingkungan bidang."
+            ],
+            [
+              "E",
+              "Tempat dan lembaga: <span class=\"hz\">馆</span>、<span class=\"hz\">室</span>、<span class=\"hz\">站</span>、<span class=\"hz\">场</span>、<span class=\"hz\">院</span>、<span class=\"hz\">店</span>、<span class=\"hz\">所</span>、<span class=\"hz\">区</span>、<span class=\"hz\">部</span>",
+              "9",
+              "Mengenali nama tempat, ruang, lembaga, kawasan, dan bagian."
+            ],
+            [
+              "F",
+              "Alat, barang, biaya: <span class=\"hz\">器</span>、<span class=\"hz\">机</span>、<span class=\"hz\">品</span>、<span class=\"hz\">物</span>、<span class=\"hz\">费</span>",
+              "5",
+              "Mengenali alat, mesin, barang, benda, dan biaya."
+            ],
+            [
+              "G",
+              "Pelengkap kata benda: <span class=\"hz\">们</span>、<span class=\"hz\">子</span>、<span class=\"hz\">儿</span>、<span class=\"hz\">头</span>",
+              "4",
+              "Mengenali bentuk yang sering muncul pada kata benda dan penanda jamak."
+            ],
+            [
+              "H",
+              "Penanda awal kata: <span class=\"hz\">老</span>、<span class=\"hz\">第</span>、<span class=\"hz\">初</span>、<span class=\"hz\">可</span>",
+              "4",
+              "Mengenali panggilan, urutan, tahap awal, dan makna tertentu pada kata."
+            ],
+            [
+              "I",
+              "Menolak/meniadakan: <span class=\"hz\">不</span>、<span class=\"hz\">无</span>、<span class=\"hz\">非</span>、<span class=\"hz\">未</span>、<span class=\"hz\">反</span>",
+              "5",
+              "Membedakan tidak, tanpa, bukan, belum, dan berlawanan."
+            ],
+            [
+              "J",
+              "Tingkat dan keseluruhan: <span class=\"hz\">超</span>、<span class=\"hz\">准</span>、<span class=\"hz\">总</span>、<span class=\"hz\">半</span>、<span class=\"hz\">自</span>、<span class=\"hz\">全</span>、<span class=\"hz\">同</span>、<span class=\"hz\">共</span>",
+              "8",
+              "Mengenali makna melewati batas, persiapan/ketepatan, keseluruhan, setengah, diri, semua, sama, dan bersama."
+            ]
+          ]
+        },
+        {
+          "tipe": "poin",
+          "daftar": [
+            "Mulailah dari kelompok A dan I karena kata-katanya sering muncul dalam bacaan sehari-hari.",
+            "Gunakan kartu Kamus untuk memeriksa contoh dan kata “bukan”; jangan menghafal karakter secara terpisah dari kata utuh.",
+            "Gunakan Tata Bahasa untuk melihat karakter itu dalam kalimat, lalu buat kalimat sendiri dengan kosakata yang sudah dipelajari.",
+            "Poin lama tentang <span class=\"hz\">第</span>、<span class=\"hz\">们</span>、<span class=\"hz\">子</span> tetap menjadi dasar; entri baru memberi pendalaman dan tidak mengganti materi lama."
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Materi lanjutan yang belum dikerjakan",
+            "Keterangan"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">族</span>、<span class=\"hz\">迷</span>、<span class=\"hz\">热</span>、<span class=\"hz\">控</span>、<span class=\"hz\">症</span>、<span class=\"hz\">剂</span>、<span class=\"hz\">炎</span>、<span class=\"hz\">盲</span>",
+              "Bentuk yang mungkin menjadi entri tambahan pada tingkat berikutnya."
+            ],
+            [
+              "<span class=\"hz\">上</span>、<span class=\"hz\">下</span>、<span class=\"hz\">里</span>、<span class=\"hz\">外</span>、<span class=\"hz\">中</span>、<span class=\"hz\">间</span>",
+              "Kata penunjuk posisi; perlu pembahasan tersendiri."
+            ],
+            [
+              "<span class=\"hz\">客</span>、<span class=\"hz\">友</span>、<span class=\"hz\">体</span>、<span class=\"hz\">心</span>、<span class=\"hz\">气</span>",
+              "Karakter lain yang belum termasuk 60 entri saat ini."
+            ],
+            [
+              "<span class=\"hz\">阿</span>、<span class=\"hz\">小</span>、<span class=\"hz\">大</span> sebagai awalan",
+              "Bentuk awal kata yang belum dimasukkan ke daftar 60."
+            ],
+            [
+              "Pola kata majemuk, kata berulang, perubahan kelas kata, dan partikel",
+              "Topik lanjutan yang memerlukan bahan dan batas pembahasan tersendiri."
+            ]
+          ]
+        },
+        {
+          "tipe": "paragraf",
+          "teks": "Daftar 60 ini adalah tahap sekarang, bukan seluruh cara pembentukan kata Mandarin. Bentuk <span class=\"hz\">小</span> dan <span class=\"hz\">边</span> sudah dibahas dalam Tata Bahasa lama dan belum ditambahkan sebagai entri baru. Karakter <span class=\"hz\">副</span> juga sengaja tidak dimasukkan karena jumlah contoh yang memenuhi syarat belum cukup. Materi lain akan ditambahkan pada tahap berikutnya."
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menyimpulkan bahwa semua kata yang mengandung salah satu dari 60 karakter pasti memakai awalan atau akhiran. Periksa fungsi dan makna kata utuh. Jika ragu, bandingkan dengan kata utuhnya di Kamus."
+        }
+      ]
+    }
+  ]
+}
