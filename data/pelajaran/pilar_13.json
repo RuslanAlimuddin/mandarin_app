@@ -1,0 +1,436 @@
+{
+  "pilar": 13,
+  "judul": "Kata Penunjuk Posisi (方位词)",
+  "ringkasan": "Pelajar mengenal tujuh karakter penunjuk posisi (上 下 里 外 中 间 边), membedakan bentuk sederhana dan gabungan, memakai pola 在 + tempat + 上/里, memahami batas (以上, 以外), 中 dan 间, serta aturan bacaan netral.",
+  "bagian": [
+    {
+      "judul": "1. Apa Itu Kata Penunjuk Posisi (方位词)?",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Kata penunjuk posisi (<span class=\"hz\">方位词</span>, <span class=\"py\">fāngwèicí</span>) menyebut letak atau arah: atas, bawah, dalam, luar, tengah, dan samping. Tujuh karakter pokoknya adalah <span class=\"hz\">上 下 里 外 中 间 边</span>."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Karakter",
+            "Arti dasar",
+            "Contoh dari Kamus"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">上</span> (<span class=\"py\">shàng</span>)",
+              "atas; permukaan",
+              "<span class=\"hz\">上面</span>、<span class=\"hz\">晚上</span>、<span class=\"hz\">网上</span>"
+            ],
+            [
+              "<span class=\"hz\">下</span> (<span class=\"py\">xià</span>)",
+              "bawah",
+              "<span class=\"hz\">下面</span>、<span class=\"hz\">楼下</span>、<span class=\"hz\">地下</span>"
+            ],
+            [
+              "<span class=\"hz\">里</span> (<span class=\"py\">lǐ</span>)",
+              "dalam",
+              "<span class=\"hz\">里面</span>、<span class=\"hz\">家里</span>、<span class=\"hz\">这里</span>"
+            ],
+            [
+              "<span class=\"hz\">外</span> (<span class=\"py\">wài</span>)",
+              "luar",
+              "<span class=\"hz\">外面</span>、<span class=\"hz\">国外</span>、<span class=\"hz\">以外</span>"
+            ],
+            [
+              "<span class=\"hz\">中</span> (<span class=\"py\">zhōng</span>)",
+              "tengah; di antara",
+              "<span class=\"hz\">中间</span>、<span class=\"hz\">其中</span>、<span class=\"hz\">当中</span>"
+            ],
+            [
+              "<span class=\"hz\">间</span> (<span class=\"py\">jiān</span>)",
+              "ruang atau jarak di antara",
+              "<span class=\"hz\">之间</span>、<span class=\"hz\">房间</span>、<span class=\"hz\">时间</span>"
+            ],
+            [
+              "<span class=\"hz\">边</span> (<span class=\"py\">biān</span>)",
+              "sisi; tepi",
+              "<span class=\"hz\">旁边</span>、<span class=\"hz\">左边</span>、<span class=\"hz\">海边</span>"
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Tidak semua kata yang berakhiran karakter ini menyebut tempat. <span class=\"hz\">马上</span> berarti \"segera\" (secara harfiah \"di atas kuda\"), <span class=\"hz\">晚上</span> berarti \"malam\", dan <span class=\"hz\">时间</span> berarti \"waktu\". Lihat kata lengkapnya, bukan karakternya saja."
+        }
+      ]
+    },
+    {
+      "judul": "2. Bentuk Sederhana dan Bentuk Gabungan",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Karakter <span class=\"hz\">上 下 里 外</span> sendirian jarang menjadi kata tempat yang lengkap. Biasanya ia diberi tambahan <span class=\"hz\">面</span>, <span class=\"hz\">边</span>, atau <span class=\"hz\">头</span> sehingga menjadi kata tempat. Ketiga bentuk itu artinya hampir sama; <span class=\"hz\">边</span> dan <span class=\"hz\">头</span> terasa lebih lisan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Dasar",
+            "+ 面",
+            "+ 边",
+            "+ 头"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">上</span>",
+              "<span class=\"hz\">上面</span> (<span class=\"py\">shàngmiàn</span>)",
+              "<span class=\"hz\">上边</span> (<span class=\"py\">shàngbian</span>)",
+              "<span class=\"hz\">上头</span> (<span class=\"py\">shàngtou</span>)"
+            ],
+            [
+              "<span class=\"hz\">下</span>",
+              "<span class=\"hz\">下面</span> (<span class=\"py\">xiàmiàn</span>)",
+              "<span class=\"hz\">下边</span> (<span class=\"py\">xiàbian</span>)",
+              "belum ada di Kamus"
+            ],
+            [
+              "<span class=\"hz\">里</span>",
+              "<span class=\"hz\">里面</span> (<span class=\"py\">lǐmiàn</span>)",
+              "<span class=\"hz\">里边</span> (<span class=\"py\">lǐbian</span>)",
+              "<span class=\"hz\">里头</span> (<span class=\"py\">lǐtou</span>)"
+            ],
+            [
+              "<span class=\"hz\">外</span>",
+              "<span class=\"hz\">外面</span> (<span class=\"py\">wàimiàn</span>)",
+              "<span class=\"hz\">外边</span> (<span class=\"py\">wàibian</span>)",
+              "<span class=\"hz\">外头</span> (<span class=\"py\">wàitou</span>)"
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Contoh",
+            "Pinyin",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "Benda + 在 + benda lain + 上面",
+              "<span class=\"hz\">书在桌子上面。</span>",
+              "<span class=\"py\">Shū zài zhuōzi shàngmiàn.</span>",
+              "Buku ada di atas meja."
+            ],
+            [
+              "S + 在 + 外面",
+              "<span class=\"hz\">他在外面。</span>",
+              "<span class=\"py\">Tā zài wàimiàn.</span>",
+              "Dia ada di luar."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "3. Pola Tempat + 上 / 里",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Bahasa Indonesia memakai satu kata \"di\" untuk banyak keadaan. Dalam bahasa Mandarin, setelah kata benda dipilih <span class=\"hz\">上</span> untuk benda yang mempunyai permukaan, dan <span class=\"hz\">里</span> untuk ruang atau wadah. Karakter <span class=\"hz\">上</span> dan <span class=\"hz\">里</span> di sini ditulis tanpa tanda nada karena dibaca ringan."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Contoh",
+            "Pinyin",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "Benda + 上 (permukaan)",
+              "<span class=\"hz\">书在桌子上。</span>",
+              "<span class=\"py\">Shū zài zhuōzi shang.</span>",
+              "Buku ada di atas meja."
+            ],
+            [
+              "Tempat + 里 (ruang)",
+              "<span class=\"hz\">他在家里。</span>",
+              "<span class=\"py\">Tā zài jiā li.</span>",
+              "Dia ada di rumah."
+            ],
+            [
+              "Bagian tubuh + 里 (di tangan)",
+              "<span class=\"hz\">我手里有一本书。</span>",
+              "<span class=\"py\">Wǒ shǒu li yǒu yī běn shū.</span>",
+              "Di tangan saya ada sebuah buku."
+            ],
+            [
+              "心 + 里 (dalam hati)",
+              "<span class=\"hz\">我心里很高兴。</span>",
+              "<span class=\"py\">Wǒ xīn li hěn gāoxìng.</span>",
+              "Dalam hati saya senang."
+            ],
+            [
+              "路 + 上 (di sepanjang jalan)",
+              "<span class=\"hz\">他在路上。</span>",
+              "<span class=\"py\">Tā zài lù shang.</span>",
+              "Dia sedang di jalan."
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Untuk \"di rumah\" orang sering cukup berkata <span class=\"hz\">在家</span>; <span class=\"hz\">在家里</span> juga benar. Tidak setiap \"di\" dalam bahasa Indonesia perlu padanan 上 atau 里."
+        }
+      ]
+    },
+    {
+      "judul": "4. Batas dan Luar: 以上, 以下, 以外, 之外",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Dengan <span class=\"hz\">以</span> di depan, karakter penunjuk posisi menyebut batas atau jangkauan. Angka batasnya umumnya ikut dihitung pada <span class=\"hz\">以上</span> dan <span class=\"hz\">以下</span>."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Arti",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">以上</span> (<span class=\"py\">yǐshàng</span>)",
+              "ke atas; di atas batas itu",
+              "Dipakai untuk angka, tingkat, atau hal yang sudah disebut."
+            ],
+            [
+              "<span class=\"hz\">以下</span> (<span class=\"py\">yǐxià</span>)",
+              "ke bawah; di bawah batas itu",
+              "Pasangan 以上."
+            ],
+            [
+              "<span class=\"hz\">以外</span> (<span class=\"py\">yǐwài</span>)",
+              "selain; di luar",
+              "Sering bersama 除了: 除了…以外."
+            ],
+            [
+              "<span class=\"hz\">之外</span> (<span class=\"py\">zhīwài</span>)",
+              "di luar",
+              "Mirip 以外, terasa lebih tertulis."
+            ],
+            [
+              "<span class=\"hz\">以内</span> (<span class=\"py\">yǐnèi</span>)",
+              "di dalam batas",
+              "Pasangan 以外."
+            ],
+            [
+              "<span class=\"hz\">国外</span> (<span class=\"py\">guówài</span>)",
+              "luar negeri",
+              "Lawan 国内 (guónèi)."
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Contoh",
+            "Pinyin",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "Angka + 以上",
+              "<span class=\"hz\">十八岁以上可以来。</span>",
+              "<span class=\"py\">Shíbā suì yǐshàng kěyǐ lái.</span>",
+              "Yang berusia 18 tahun ke atas boleh datang."
+            ],
+            [
+              "除了 + A + 以外",
+              "<span class=\"hz\">除了他以外，大家都来了。</span>",
+              "<span class=\"py\">Chúle tā yǐwài, dàjiā dōu lái le.</span>",
+              "Selain dia, semuanya sudah datang."
+            ],
+            [
+              "在 + 国外 + V",
+              "<span class=\"hz\">他在国外学习。</span>",
+              "<span class=\"py\">Tā zài guówài xuéxí.</span>",
+              "Dia belajar di luar negeri."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "5. 中 dan 间: Tengah, Antara, Waktu",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Karakter <span class=\"hz\">中</span> dan <span class=\"hz\">间</span> tidak hanya menyebut ruang. Keduanya juga muncul dalam kata untuk \"di antara\", \"kamar\", dan \"waktu\"."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Kata",
+            "Arti",
+            "Catatan"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">中间</span> (<span class=\"py\">zhōngjiān</span>)",
+              "tengah",
+              "Letak di tengah-tengah."
+            ],
+            [
+              "<span class=\"hz\">之间</span> (<span class=\"py\">zhījiān</span>)",
+              "antara",
+              "Diletakkan setelah kata benda atau dua pihak: A 和 B 之间."
+            ],
+            [
+              "<span class=\"hz\">其中</span> (<span class=\"py\">qízhōng</span>)",
+              "di antaranya",
+              "Mengambil sebagian dari yang baru disebut."
+            ],
+            [
+              "<span class=\"hz\">当中</span> (<span class=\"py\">dāngzhōng</span>)",
+              "di antara; di tengah",
+              "Hampir sama dengan 其中."
+            ],
+            [
+              "<span class=\"hz\">房间</span> (<span class=\"py\">fángjiān</span>)",
+              "kamar",
+              "间 menamai ruang."
+            ],
+            [
+              "<span class=\"hz\">时间</span> (<span class=\"py\">shíjiān</span>)",
+              "waktu",
+              "间 di sini sudah bergeser dari arti ruang."
+            ]
+          ]
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pola",
+            "Contoh",
+            "Pinyin",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "A + 中间 + 有 + benda",
+              "<span class=\"hz\">我们中间有一张桌子。</span>",
+              "<span class=\"py\">Wǒmen zhōngjiān yǒu yī zhāng zhuōzi.</span>",
+              "Di antara kami ada sebuah meja."
+            ],
+            [
+              "…，其中 + jumlah",
+              "<span class=\"hz\">这里有三本书，其中两本是新的。</span>",
+              "<span class=\"py\">Zhèlǐ yǒu sān běn shū, qízhōng liǎng běn shì xīn de.</span>",
+              "Di sini ada tiga buku, dua di antaranya baru."
+            ],
+            [
+              "没有 + 时间",
+              "<span class=\"hz\">我没有时间。</span>",
+              "<span class=\"py\">Wǒ méiyǒu shíjiān.</span>",
+              "Saya tidak punya waktu."
+            ],
+            [
+              "Pemilik + 的 + 房间",
+              "<span class=\"hz\">我的房间很大。</span>",
+              "<span class=\"py\">Wǒ de fángjiān hěn dà.</span>",
+              "Kamar saya besar."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "6. Aturan Bacaan: Kapan Nada Netral?",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Banyak karakter penunjuk posisi dibaca ringan (tanpa nada) setelah kata benda, tetapi tidak semuanya. Tabel ini hanya memuat bacaan yang sama dengan Kamus kita."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Karakter",
+            "Dibaca ringan (netral) bila…",
+            "Dibaca bernada penuh bila…"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">里</span>",
+              "setelah kata benda: <span class=\"hz\">家里</span> (<span class=\"py\">jiā li</span>)、<span class=\"hz\">手里</span> (<span class=\"py\">shǒu li</span>)、<span class=\"hz\">心里</span> (<span class=\"py\">xīn li</span>)",
+              "setelah 这/那/哪: <span class=\"hz\">这里</span> (<span class=\"py\">zhèlǐ</span>)、<span class=\"hz\">那里</span> (<span class=\"py\">nàlǐ</span>)、<span class=\"hz\">哪里</span> (<span class=\"py\">nǎlǐ</span>) (lǐ, nada 3)"
+            ],
+            [
+              "<span class=\"hz\">上</span>",
+              "setelah kata benda atau waktu: <span class=\"hz\">地上</span> (<span class=\"py\">dì shang</span>)、<span class=\"hz\">路上</span> (<span class=\"py\">lù shang</span>)、<span class=\"hz\">身上</span> (<span class=\"py\">shēn shang</span>)、<span class=\"hz\">晚上</span> (<span class=\"py\">wǎn shang</span>)",
+              "dalam kata tetap: <span class=\"hz\">马上</span> (<span class=\"py\">mǎshàng</span>)、<span class=\"hz\">网上</span> (<span class=\"py\">wǎngshàng</span>)、<span class=\"hz\">以上</span> (<span class=\"py\">yǐshàng</span>)"
+            ],
+            [
+              "<span class=\"hz\">边</span>",
+              "setelah 左 右 里 外 上 下: <span class=\"hz\">左边</span> (<span class=\"py\">zuǒ bian</span>)、<span class=\"hz\">右边</span> (<span class=\"py\">yòu bian</span>)、<span class=\"hz\">里边</span> (<span class=\"py\">lǐ bian</span>)",
+              "bila berarti tepi atau sisi: <span class=\"hz\">旁边</span> (<span class=\"py\">pángbiān</span>)、<span class=\"hz\">身边</span> (<span class=\"py\">shēnbiān</span>)、<span class=\"hz\">海边</span> (<span class=\"py\">hǎibiān</span>)"
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Bacaan <span class=\"hz\">面</span> tidak seragam di Kamus: <span class=\"hz\">上面</span>, <span class=\"hz\">下面</span>, <span class=\"hz\">里面</span>, dan <span class=\"hz\">外面</span> memakai <span class=\"py\">miàn</span> penuh, sedangkan <span class=\"hz\">后面</span> memakai <span class=\"py\">hòu mian</span> ringan. Dalam percakapan, <span class=\"hz\">面</span> memang sering dibaca ringan. Ikuti tulisan pada kartu Kamus saat belajar."
+        }
+      ]
+    },
+    {
+      "judul": "7. Pasangan Lawan dan Peta Cepat",
+      "isi": [
+        {
+          "tipe": "paragraf",
+          "teks": "Cara cepat mengingat: hafalkan penunjuk posisi sebagai pasangan lawan. Semua kata di bawah ada di Kamus."
+        },
+        {
+          "tipe": "tabel",
+          "kolom": [
+            "Pasangan",
+            "Arti"
+          ],
+          "baris": [
+            [
+              "<span class=\"hz\">上面</span> ↔ <span class=\"hz\">下面</span>",
+              "di atas ↔ di bawah"
+            ],
+            [
+              "<span class=\"hz\">里面</span> ↔ <span class=\"hz\">外面</span>",
+              "di dalam ↔ di luar"
+            ],
+            [
+              "<span class=\"hz\">前面</span> ↔ <span class=\"hz\">后面</span>",
+              "di depan ↔ di belakang"
+            ],
+            [
+              "<span class=\"hz\">左边</span> ↔ <span class=\"hz\">右边</span>",
+              "kiri ↔ kanan"
+            ],
+            [
+              "<span class=\"hz\">里边</span> ↔ <span class=\"hz\">外边</span>",
+              "di dalam ↔ di luar (lisan)"
+            ],
+            [
+              "<span class=\"hz\">国内</span> ↔ <span class=\"hz\">国外</span>",
+              "dalam negeri ↔ luar negeri"
+            ],
+            [
+              "<span class=\"hz\">以上</span> ↔ <span class=\"hz\">以下</span>",
+              "ke atas ↔ ke bawah"
+            ]
+          ]
+        },
+        {
+          "tipe": "peringatan",
+          "teks": "Jangan menyimpulkan bahwa semua kata yang berakhiran <span class=\"hz\">上</span>, <span class=\"hz\">下</span>, <span class=\"hz\">里</span>, <span class=\"hz\">外</span>, <span class=\"hz\">中</span>, <span class=\"hz\">间</span>, atau <span class=\"hz\">边</span> menyebut posisi. Periksa arti kata lengkapnya di Kamus."
+        }
+      ]
+    }
+  ]
+}

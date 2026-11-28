@@ -1,7 +1,7 @@
 {
   "pilar": 12,
   "judul": "Pembentukan Kata (构词法)",
-  "ringkasan": "Pilar ini mengenalkan cara kata Mandarin dibentuk dengan unsur yang muncul di depan atau di belakang kata. Pelajar akan belajar membedakan awalan dan akhiran, membaca kartu entri, memahami karakter yang memiliki beberapa makna, membandingkan penanda orang/pelaku, mengenali awalan yang menolak atau meniadakan, serta melihat peta 60 entri yang tersedia.",
+  "ringkasan": "Pilar ini mengenalkan cara kata Mandarin dibentuk dengan unsur yang muncul di depan atau di belakang kata. Pelajar akan belajar membedakan awalan dan akhiran, membaca kartu entri, memahami karakter yang memiliki beberapa makna, membandingkan penanda orang/pelaku, mengenali awalan yang menolak atau meniadakan, serta melihat peta 64 entri yang tersedia.",
   "bagian": [
     {
       "judul": "1. Apa Itu Awalan dan Akhiran Mandarin?",
@@ -484,11 +484,11 @@
       ]
     },
     {
-      "judul": "6. Peta Cepat 60 Entri dan Materi yang Menyusul",
+      "judul": "6. Peta Cepat 64 Entri dan Materi yang Menyusul",
       "isi": [
         {
           "tipe": "paragraf",
-          "teks": "menu Awalan & Akhiran di Kamus berisi 60 entri yang dibagi menjadi sepuluh kelompok. Jumlahnya terdiri dari 43 entri akhiran dan 17 entri awalan. Peta ini membantu pelajar melihat wilayah materi tanpa harus menghafal semuanya sekaligus."
+          "teks": "menu Awalan & Akhiran di Kamus berisi 64 entri yang dibagi menjadi dua belas kelompok. Jumlahnya terdiri dari 47 entri akhiran dan 17 entri awalan. Peta ini membantu pelajar melihat wilayah materi tanpa harus menghafal semuanya sekaligus."
         },
         {
           "tipe": "tabel",
@@ -558,6 +558,18 @@
               "Tingkat dan keseluruhan: <span class=\"hz\">超</span>、<span class=\"hz\">准</span>、<span class=\"hz\">总</span>、<span class=\"hz\">半</span>、<span class=\"hz\">自</span>、<span class=\"hz\">全</span>、<span class=\"hz\">同</span>、<span class=\"hz\">共</span>",
               "8",
               "Mengenali makna melewati batas, persiapan/ketepatan, keseluruhan, setengah, diri, semua, sama, dan bersama."
+            ],
+            [
+              "K",
+              "Penggemar dan kelompok orang: <span class=\"hz\">族</span>、<span class=\"hz\">迷</span>",
+              "2",
+              "Menyebut suku atau kelompok orang dengan ciri yang sama, dan orang yang menggemari sesuatu."
+            ],
+            [
+              "L",
+              "Penyakit dan zat: <span class=\"hz\">症</span>、<span class=\"hz\">剂</span>",
+              "2",
+              "Menyebut penyakit atau kelainan, serta obat atau bahan olahan."
             ]
           ]
         },
@@ -578,20 +590,20 @@
           ],
           "baris": [
             [
-              "<span class=\"hz\">族</span>、<span class=\"hz\">迷</span>、<span class=\"hz\">热</span>、<span class=\"hz\">控</span>、<span class=\"hz\">症</span>、<span class=\"hz\">剂</span>、<span class=\"hz\">炎</span>、<span class=\"hz\">盲</span>",
-              "Bentuk yang mungkin menjadi entri tambahan pada tingkat berikutnya."
+              "<span class=\"hz\">热</span>、<span class=\"hz\">控</span>、<span class=\"hz\">炎</span>、<span class=\"hz\">盲</span>",
+              "Masih ditunda karena contoh yang memenuhi syarat di Kamus belum cukup (炎 dan 盲 baru punya satu kata contoh)."
             ],
             [
               "<span class=\"hz\">上</span>、<span class=\"hz\">下</span>、<span class=\"hz\">里</span>、<span class=\"hz\">外</span>、<span class=\"hz\">中</span>、<span class=\"hz\">间</span>",
-              "Kata penunjuk posisi; perlu pembahasan tersendiri."
+              "Sudah dibahas di Pilar 13 (Kata Penunjuk Posisi)."
             ],
             [
               "<span class=\"hz\">客</span>、<span class=\"hz\">友</span>、<span class=\"hz\">体</span>、<span class=\"hz\">心</span>、<span class=\"hz\">气</span>",
-              "Karakter lain yang belum termasuk 60 entri saat ini."
+              "Karakter lain yang belum termasuk 64 entri saat ini."
             ],
             [
               "<span class=\"hz\">阿</span>、<span class=\"hz\">小</span>、<span class=\"hz\">大</span> sebagai awalan",
-              "Bentuk awal kata yang belum dimasukkan ke daftar 60."
+              "Bentuk awal kata yang belum dimasukkan ke daftar 64."
             ],
             [
               "Pola kata majemuk, kata berulang, perubahan kelas kata, dan partikel",
@@ -601,11 +613,11 @@
         },
         {
           "tipe": "paragraf",
-          "teks": "Daftar 60 ini adalah tahap sekarang, bukan seluruh cara pembentukan kata Mandarin. Bentuk <span class=\"hz\">小</span> dan <span class=\"hz\">边</span> sudah dibahas dalam Tata Bahasa lama dan belum ditambahkan sebagai entri baru. Karakter <span class=\"hz\">副</span> juga sengaja tidak dimasukkan karena jumlah contoh yang memenuhi syarat belum cukup. Materi lain akan ditambahkan pada tahap berikutnya."
+          "teks": "Daftar 64 ini adalah tahap sekarang, bukan seluruh cara pembentukan kata Mandarin. Bentuk <span class=\"hz\">小</span> dan <span class=\"hz\">边</span> sudah dibahas dalam Tata Bahasa lama dan belum ditambahkan sebagai entri baru. Karakter <span class=\"hz\">副</span> juga sengaja tidak dimasukkan karena jumlah contoh yang memenuhi syarat belum cukup. Materi lain akan ditambahkan pada tahap berikutnya."
         },
         {
           "tipe": "peringatan",
-          "teks": "Jangan menyimpulkan bahwa semua kata yang mengandung salah satu dari 60 karakter pasti memakai awalan atau akhiran. Periksa fungsi dan makna kata utuh. Jika ragu, bandingkan dengan kata utuhnya di Kamus."
+          "teks": "Jangan menyimpulkan bahwa semua kata yang mengandung salah satu dari 64 karakter pasti memakai awalan atau akhiran. Periksa fungsi dan makna kata utuh. Jika ragu, bandingkan dengan kata utuhnya di Kamus."
         }
       ]
     }
